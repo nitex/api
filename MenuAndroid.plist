@@ -167,9 +167,32 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>News</string>
+		<string>Utilities</string>
 		<key>icon</key>
-		<string>white-news-64</string>
+		<string>white-settings-64</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>title</key>
+				<string>RoqetFeed - Make RSS Easier</string>
+				<key>icon</key>
+				<string>roqetfeed-Icon</string>
+				<key>picture</key>
+				<string>roqetfeed</string>
+				<key>description</key>
+				<string>RoqetFeed enables you to manage your RSS feeds extremely quickly and easily. You can add new sources, manage them and view the articles associated with the feeds.</string>
+				<key>languages</key>
+				<string>EN</string>
+				<key>link</key>
+				<string>https://play.google.com/store/apps/details?id=com.crazyhitty.chdev.ks.roqetfeed</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Entertainment</string>
+		<key>icon</key>
+		<string>white-theatre-masks-64</string>
 		<key>items</key>
 		<array>
 			<dict>
@@ -330,28 +353,29 @@
 	</dict>
 	<dict>
 		<key>title</key>
-		<string>News</string>
+		<string>Games</string>
 		<key>icon</key>
-		<string>white-news-64</string>
+		<string>white-joystick-64</string>
 		<key>items</key>
 		<array>
 			<dict>
 				<key>title</key>
-				<string></string>
+				<string>Colorful 2048</string>
 				<key>icon</key>
-				<string></string>
+				<string>Colorful2048-Icon</string>
 				<key>picture</key>
-				<string></string>
+				<string>Colorful2048</string>
 				<key>description</key>
-				<string></string>
+				<string>Swipe to move all tiles. When two tiles with the same number touch, they merge into one.
+Get to the 2048 tile, and reach a high score! Inspired by Gabriele Cirulli game available on the web: http://git.io/2048</string>
 				<key>languages</key>
-				<string></string>
+				<string>EN</string>
 				<key>link</key>
-				<string></string>
+				<string>https://play.google.com/store/apps/details?id=me.veryyoung.game2048</string>
 			</dict>
 			<dict>
 				<key>title</key>
-				<string></string>
+				<string>Bitcoin Bird</string>
 				<key>icon</key>
 				<string></string>
 				<key>picture</key>
@@ -359,298 +383,9 @@
 				<key>description</key>
 				<string></string>
 				<key>languages</key>
-				<string></string>
+				<string>EN</string>
 				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-		</array>
-	</dict>
-	<dict>
-		<key>title</key>
-		<string>News</string>
-		<key>icon</key>
-		<string>white-news-64</string>
-		<key>items</key>
-		<array>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
-			</dict>
-			<dict>
-				<key>title</key>
-				<string></string>
-				<key>icon</key>
-				<string></string>
-				<key>picture</key>
-				<string></string>
-				<key>description</key>
-				<string></string>
-				<key>languages</key>
-				<string></string>
-				<key>link</key>
-				<string></string>
+				<string>https://play.google.com/store/apps/details?id=com.jucyzhang.bitcoinbird</string>
 			</dict>
 		</array>
 	</dict>
