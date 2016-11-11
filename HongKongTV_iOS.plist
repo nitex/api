@@ -4,6 +4,16 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>Alex TV</string>
+		<key>logo</key>
+		<string>SD43223</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=bcbZufnXyeQ</string>
+		<key>http</key>
+		<string>http://alextv.zp.ua/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Phoenix TV InfoNews 资讯台</string>
 		<key>logo</key>
 		<string>ifeng1</string>
@@ -11,6 +21,16 @@
 		<string>http://v.ifeng.com/live/#4AC51C17-9FBE-47F2-8EE0-8285A66EAFF5</string>
 		<key>http</key>
 		<string>http://v.ifeng.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TV4</string>
+		<key>logo</key>
+		<string>SD11</string>
+		<key>link</key>
+		<string>http://tv4.te.ua/onlajn-movlennya/</string>
+		<key>http</key>
+		<string>http://tv4.te.ua/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -101,36 +121,6 @@
 		<string>http://www.bloomberg.com/live/asia_stream</string>
 		<key>http</key>
 		<string>http://www.bloomberg.com/live</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Creation TV 創世電視</string>
-		<key>logo</key>
-		<string>cgtv</string>
-		<key>link</key>
-		<string>http://www.creation-tv.com/cgtv/</string>
-		<key>http</key>
-		<string>http://www.creation-tv.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>HOPE</string>
-		<key>logo</key>
-		<string>chinesehope</string>
-		<key>link</key>
-		<string>http://chinesehope.tv/zh/home/index.php</string>
-		<key>http</key>
-		<string>http://chinesehope.tv/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>HK Buddhist Edu. Fdn</string>
-		<key>logo</key>
-		<string>amtbhk</string>
-		<key>link</key>
-		<string>http://amtbhk.com/livetv</string>
-		<key>http</key>
-		<string>http://amtbhk.com/</string>
 	</dict>
 </array>
 </plist>
