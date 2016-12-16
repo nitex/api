@@ -4,6 +4,36 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>CBC</string>
+		<key>logo</key>
+		<string>cbc</string>
+		<key>link</key>
+		<string>http://watch.cbc.ca/</string>
+		<key>http</key>
+		<string>http://ici.radio-canada.ca/widgets/mediaconsole/livem/cjbrt?seektime=0</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Global News</string>
+		<key>logo</key>
+		<string>Global</string>
+		<key>link</key>
+		<string>http://globalnews.ca/live/</string>
+		<key>http</key>
+		<string>http://globalnews.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CHCH</string>
+		<key>logo</key>
+		<string>chch</string>
+		<key>link</key>
+		<string>http://www.chch.com/live/</string>
+		<key>http</key>
+		<string>http://www.chch.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>CHEK</string>
 		<key>logo</key>
 		<string>cheknews</string>
@@ -14,11 +44,21 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Noovo</string>
+		<key>logo</key>
+		<string>noovo</string>
+		<key>link</key>
+		<string>http://noovo.ca/en-direct</string>
+		<key>http</key>
+		<string>http://noovo.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>CPAC English</string>
 		<key>logo</key>
 		<string>cpac1</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
+		<string>http://www.cpac.ca/en/</string>
 		<key>http</key>
 		<string>http://www.cpac.ca/en/</string>
 	</dict>
@@ -28,9 +68,19 @@
 		<key>logo</key>
 		<string>cpac2</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
+		<string>http://www.cpac.ca/fr/</string>
 		<key>http</key>
 		<string>http://www.cpac.ca/fr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MiTV</string>
+		<key>logo</key>
+		<string>MiTV</string>
+		<key>link</key>
+		<string>https://www.youtube.com/channel/UCUWs8vbIQQz3zjN6YJivP3w/feed?activity_view=6</string>
+		<key>http</key>
+		<string>https://www.youtube.com/channel/UCUWs8vbIQQz3zjN6YJivP3w/videos?flow=grid&amp;live_view=501&amp;view=2</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -44,13 +94,83 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Canal Savoir</string>
+		<key>logo</key>
+		<string>Savoir</string>
+		<key>link</key>
+		<string>http://www.canalsavoir.tv/teleendirect</string>
+		<key>http</key>
+		<string>http://www.canalsavoir.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Black Flag</string>
+		<key>logo</key>
+		<string>blackflag</string>
+		<key>link</key>
+		<string>http://blackflag.tv/BlackFlagTV.php</string>
+		<key>http</key>
+		<string>http://blackflag.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Mabi TV</string>
 		<key>logo</key>
 		<string>Mabi</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
+		<string>http://www.mabi-tv.com/live/</string>
 		<key>http</key>
 		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nova Scotia Legislature</string>
+		<key>logo</key>
+		<string>nslegislature</string>
+		<key>link</key>
+		<string>http://nslegislature.ca/index.php/proceedings/legislative-tv/</string>
+		<key>http</key>
+		<string>http://nslegislature.ca</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>National Assembly of Quebec </string>
+		<key>logo</key>
+		<string>assnat</string>
+		<key>link</key>
+		<string>http://www.assnat.qc.ca/en/video-audio/en-direct-webdiffusion.html</string>
+		<key>http</key>
+		<string>http://www.assnat.qc.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Saskatchewan Legislative Assembly</string>
+		<key>logo</key>
+		<string>legassembly1</string>
+		<key>link</key>
+		<string>http://download.isiglobal.ca/saskla/chambervideo.html</string>
+		<key>http</key>
+		<string>http://www.legassembly.sk.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Saskatchewan Committee Proceedings</string>
+		<key>logo</key>
+		<string>legassembly2</string>
+		<key>link</key>
+		<string>http://download.isiglobal.ca/saskla/committeevideo.html</string>
+		<key>http</key>
+		<string>http://www.legassembly.sk.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Legislative Assembly of New Brunswick </string>
+		<key>logo</key>
+		<string>gnb</string>
+		<key>link</key>
+		<string>http://www.gnb.ca/cnb/live/</string>
+		<key>http</key>
+		<string>http://www.gnb.ca/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -58,9 +178,129 @@
 		<key>logo</key>
 		<string>Channels</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
-		<key>http</key>
 		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<key>http</key>
+		<string>http://www.channelstv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Assembly of Newfoundland &amp; Labrador </string>
+		<key>logo</key>
+		<string>assembly</string>
+		<key>link</key>
+		<string>http://www.assembly.nl.ca/business/Webcast/webcast_live.htm</string>
+		<key>http</key>
+		<string>http://www.assembly.nl.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Legislative Assembly of British Columbia </string>
+		<key>logo</key>
+		<string>leg</string>
+		<key>link</key>
+		<string>https://www.leg.bc.ca/documents-data/broadcasts-and-webcasts</string>
+		<key>http</key>
+		<string>https://www.leg.bc.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hamdard TV</string>
+		<key>logo</key>
+		<string>dailyhamdard</string>
+		<key>link</key>
+		<string>http://www.dailyhamdard.com/</string>
+		<key>http</key>
+		<string>http://www.dailyhamdard.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Deshe Bideshe</string>
+		<key>logo</key>
+		<string>deshebideshe</string>
+		<key>link</key>
+		<string>http://deshebideshe.tv/</string>
+		<key>http</key>
+		<string>http://deshebideshe.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NRB</string>
+		<key>logo</key>
+		<string>NRB</string>
+		<key>link</key>
+		<string>http://www.thenrb.tv/</string>
+		<key>http</key>
+		<string>http://www.thenrb.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TSC</string>
+		<key>logo</key>
+		<string>TSC</string>
+		<key>link</key>
+		<string>http://www.theshoppingchannel.com/pages/watchuslive</string>
+		<key>http</key>
+		<string>http://www.theshoppingchannel.com/pages/watchuslive?target=divCartItemNumber</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Salt + Light</string>
+		<key>logo</key>
+		<string>Salt</string>
+		<key>link</key>
+		<string>http://saltandlighttv.org/live/</string>
+		<key>http</key>
+		<string>http://saltandlighttv.org/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Amazing Discoveries</string>
+		<key>logo</key>
+		<string>ad</string>
+		<key>link</key>
+		<string>https://amazingdiscoveries.tv/satellite/</string>
+		<key>http</key>
+		<string>https://amazingdiscoveries.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Miracle Channel</string>
+		<key>logo</key>
+		<string>Miracle</string>
+		<key>link</key>
+		<string>https://miraclechannel.ca/live/</string>
+		<key>http</key>
+		<string>https://miraclechannel.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bible Discovery</string>
+		<key>logo</key>
+		<string>Bible</string>
+		<key>link</key>
+		<string>http://www.biblediscoverytv.com/watch-now/</string>
+		<key>http</key>
+		<string>http://www.biblediscoverytv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Reveil TV</string>
+		<key>logo</key>
+		<string>Reveil</string>
+		<key>link</key>
+		<string>http://reveildesnations.org/tv-en-direct/</string>
+		<key>http</key>
+		<string>http://reveildesnations.org/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EWTN</string>
+		<key>logo</key>
+		<string>EWTN</string>
+		<key>link</key>
+		<string>http://www.ewtn.com/multimedia/live_player.asp?satname=canenglp</string>
+		<key>http</key>
+		<string>http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&amp;feed=caneng</string>
 	</dict>
 </array>
 </plist>
