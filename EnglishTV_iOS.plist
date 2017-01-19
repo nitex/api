@@ -4,63 +4,463 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>CHEK</string>
-		<key>logo</key>
-		<string>cheknews</string>
-		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
-		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>cpac1</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC French</string>
-		<key>logo</key>
-		<string>cpac2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Sky News</string>
 		<key>logo</key>
 		<string>Sky</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<string>http://news.sky.com/watch-live</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Mabi TV</string>
+		<string>Sky News Arabia</string>
 		<key>logo</key>
-		<string>Mabi</string>
+		<string>SkyAr</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
+		<string>http://www.skynewsarabia.com/web/livestream</string>
 		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+		<string>http://news.sky.com/watch-live</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Channels Television</string>
+		<string>BBC Arabic</string>
 		<key>logo</key>
-		<string>Channels</string>
+		<string>bbcA</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
+		<string>http://www.bbc.co.uk/arabic/tvandradio/2013/05/000000_bbcarabic_livetv</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>http://www.bbc.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BBC Persian</string>
+		<key>logo</key>
+		<string>bbcP</string>
+		<key>link</key>
+		<string>http://www.bbc.com/persian/tvandradio/2013/08/000001_bbcpersian_livetv</string>
+		<key>http</key>
+		<string>http://www.bbc.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>euronews</string>
+		<key>logo</key>
+		<string>euronews</string>
+		<key>link</key>
+		<string>http://www.euronews.com/live</string>
+		<key>http</key>
+		<string>http://fr.euronews.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bloomberg TV</string>
+		<key>logo</key>
+		<string>bloomberg</string>
+		<key>link</key>
+		<string>https://www.bloomberg.com/live/europe</string>
+		<key>http</key>
+		<string>https://www.bloomberg.com/live/us</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Arise</string>
+		<key>logo</key>
+		<string>Arise</string>
+		<key>link</key>
+		<string>http://www.arise.tv/</string>
+		<key>http</key>
+		<string>http://www.arise.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>LA Muscle (Active Channel)</string>
+		<key>logo</key>
+		<string>lamuscletv</string>
+		<key>link</key>
+		<string>http://www.lamuscle.com/lamuscletv/live/</string>
+		<key>http</key>
+		<string>http://www.lamuscle.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Capital</string>
+		<key>logo</key>
+		<string>Capital</string>
+		<key>link</key>
+		<string>http://www.capitalfm.com/tv/</string>
+		<key>http</key>
+		<string>http://www.capitalfm.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Heart</string>
+		<key>logo</key>
+		<string>Heart</string>
+		<key>link</key>
+		<string>http://www.heart.co.uk/tv/player/</string>
+		<key>http</key>
+		<string>http://www.heart.co.uk/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NUsic</string>
+		<key>logo</key>
+		<string>NUsic</string>
+		<key>link</key>
+		<string>http://www.nusictv.com/on-air/</string>
+		<key>http</key>
+		<string>http://www.nusictv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>AKA</string>
+		<key>logo</key>
+		<string>AKA</string>
+		<key>link</key>
+		<string>http://www.channelaka.com/watch/</string>
+		<key>http</key>
+		<string>http://www.channelaka.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Landscape</string>
+		<key>logo</key>
+		<string>Landscape</string>
+		<key>link</key>
+		<string>http://www.landscapetv.com/on-air/</string>
+		<key>http</key>
+		<string>http://www.landscapetv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BEN</string>
+		<key>logo</key>
+		<string>BEN</string>
+		<key>link</key>
+		<string>http://bentelevision.com/?option=com_content&amp;view=frontpage&amp;Itemid=139</string>
+		<key>http</key>
+		<string>http://bentelevision.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Rocks &amp; Co.</string>
+		<key>logo</key>
+		<string>rocksandco</string>
+		<key>link</key>
+		<string>http://www.rocksandco.com/live-auction/</string>
+		<key>http</key>
+		<string>http://www.rocksandco.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jewellery Maker</string>
+		<key>logo</key>
+		<string>Jewellery</string>
+		<key>link</key>
+		<string>http://www.jewellerymaker.com/en-gb/auction/</string>
+		<key>http</key>
+		<string>http://www.jewellerymaker.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Jewellery Channel (TJC)</string>
+		<key>logo</key>
+		<string>TJC</string>
+		<key>link</key>
+		<string>http://www.tjc.co.uk/watch-tjc</string>
+		<key>http</key>
+		<string>http://www.thejewellerychannel.tv/layouts/LiveTVPopup.aspx?popup=1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TJC Choice</string>
+		<key>logo</key>
+		<string>TJCc</string>
+		<key>link</key>
+		<string>http://www.tjc.co.uk/watch-tjc-choice</string>
+		<key>http</key>
+		<string>http://www.thejewellerychannel.tv/layouts/TGLiveTVPopup.aspx?popup=1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>The Lounge</string>
+		<key>logo</key>
+		<string>lounge</string>
+		<key>link</key>
+		<string>http://www.gemporia.com/en-gb/auction/the-lounge/</string>
+		<key>http</key>
+		<string>http://www.gemporia.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gemporia</string>
+		<key>logo</key>
+		<string>Gemporia</string>
+		<key>link</key>
+		<string>http://www.gemporia.com/en-gb/auction/gemporia/</string>
+		<key>http</key>
+		<string>http://www.gemporia.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gem Collector</string>
+		<key>logo</key>
+		<string>Collector</string>
+		<key>link</key>
+		<string>http://www.gemcollector.com/en-gb/auction/live/</string>
+		<key>http</key>
+		<string>http://www.gemporia.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ideal World</string>
+		<key>logo</key>
+		<string>idealworld</string>
+		<key>link</key>
+		<string>http://www.idealworld.tv/ShowGridView?showId=2625283</string>
+		<key>http</key>
+		<string>http://www.idealworld.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Create and Craft</string>
+		<key>logo</key>
+		<string>createandcraft</string>
+		<key>link</key>
+		<string>http://www.createandcraft.tv/showgridview?showId=2624535</string>
+		<key>http</key>
+		<string>http://www.createandcraft.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Loveworld</string>
+		<key>logo</key>
+		<string>Loveworld</string>
+		<key>link</key>
+		<string>http://www.loveworldtv.co.uk/watch-live/</string>
+		<key>http</key>
+		<string>http://www.loveworldtv.co.uk/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UCB</string>
+		<key>logo</key>
+		<string>UCB</string>
+		<key>link</key>
+		<string>http://www.ucb.co.uk/player/live</string>
+		<key>http</key>
+		<string>http://www.ucb.co.uk/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Believe TV</string>
+		<key>logo</key>
+		<string>Believe</string>
+		<key>link</key>
+		<string>http://believetvnetwork.com/watch-live-2/</string>
+		<key>http</key>
+		<string>http://believetvnetwork.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Revelation TV</string>
+		<key>logo</key>
+		<string>revelation</string>
+		<key>link</key>
+		<string>http://www.revelationtv.com/</string>
+		<key>http</key>
+		<string>http://www.revelationtv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Faith World</string>
+		<key>logo</key>
+		<string>faithworldtv</string>
+		<key>link</key>
+		<string>http://www.faithworldtv.com/watch-live/</string>
+		<key>http</key>
+		<string>http://www.faithworldtv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Flow TV</string>
+		<key>logo</key>
+		<string>flowtv</string>
+		<key>link</key>
+		<string>http://campus.316networks.com/flowtv</string>
+		<key>http</key>
+		<string>http://campus.316networks.com/flowtv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>God TV</string>
+		<key>logo</key>
+		<string>god</string>
+		<key>link</key>
+		<string>http://www.god.tv/live/uk</string>
+		<key>http</key>
+		<string>http://www.god.tv/liveevents</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EWTN</string>
+		<key>logo</key>
+		<string>ewtn</string>
+		<key>link</key>
+		<string>http://www.ewtn.com/multimedia/live_player.asp?satname=ukirlnlp</string>
+		<key>http</key>
+		<string>http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&amp;feed=ukirln</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ahlulbayt TV</string>
+		<key>logo</key>
+		<string>ahlulbayt</string>
+		<key>link</key>
+		<string>http://ahlulbayt.tv/live/</string>
+		<key>http</key>
+		<string>http://ahlulbayt.tv/live/?quality=high</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Safeer</string>
+		<key>logo</key>
+		<string>safeertv</string>
+		<key>link</key>
+		<string>http://safeertv.com/live/</string>
+		<key>http</key>
+		<string>http://safeertv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>IQRA</string>
+		<key>logo</key>
+		<string>iqra</string>
+		<key>link</key>
+		<string>https://iqra.tv/</string>
+		<key>http</key>
+		<string>https://iqra.tv/iqra-bangla/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sangat TV</string>
+		<key>logo</key>
+		<string>sangat</string>
+		<key>link</key>
+		<string>http://sangattelevision.org/</string>
+		<key>http</key>
+		<string>https://livestream.com/sangattv/sangattv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>British Muslim TV</string>
+		<key>logo</key>
+		<string>bm</string>
+		<key>link</key>
+		<string>http://www.britishmuslim.tv/live.html</string>
+		<key>http</key>
+		<string>http://www.britishmuslim.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Channel S</string>
+		<key>logo</key>
+		<string>s</string>
+		<key>link</key>
+		<string>http://www.jagobd.com/channelsuk.html</string>
+		<key>http</key>
+		<string>http://www.jagobd.com/channelsuk.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TV One UK</string>
+		<key>logo</key>
+		<string>One</string>
+		<key>link</key>
+		<string>http://www.tvoneuk.tv/</string>
+		<key>http</key>
+		<string>http://www.tvoneuk.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Propeller</string>
+		<key>logo</key>
+		<string>propeller</string>
+		<key>link</key>
+		<string>http://www.propellertv.co.uk/live-tv</string>
+		<key>http</key>
+		<string>http://www.propellertv.co.uk/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Glory TV</string>
+		<key>logo</key>
+		<string>glory</string>
+		<key>link</key>
+		<string>http://glorytv.co.uk/home/watch-live/</string>
+		<key>http</key>
+		<string>http://glorytv.co.uk/live/index2.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Simay Azadi</string>
+		<key>logo</key>
+		<string>iranntv</string>
+		<key>link</key>
+		<string>http://iranntv.com/?p=281476</string>
+		<key>http</key>
+		<string>http://iranntv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Amrit Bani</string>
+		<key>logo</key>
+		<string>amritbani</string>
+		<key>link</key>
+		<string>http://www.amritbani.tv/</string>
+		<key>http</key>
+		<string>http://www.amritbani.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Akaal</string>
+		<key>logo</key>
+		<string>akaal</string>
+		<key>link</key>
+		<string>http://www.akaalchannel.tv/live-tv/</string>
+		<key>http</key>
+		<string>http://www.akaalchannel.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Universal TV</string>
+		<key>logo</key>
+		<string>universal</string>
+		<key>link</key>
+		<string>https://livestream.com/accounts/2058831/universalsomalitv</string>
+		<key>http</key>
+		<string>http://universalsomalitv.net/media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MTA International</string>
+		<key>logo</key>
+		<string>mta</string>
+		<key>link</key>
+		<string>http://www.mta.tv/live</string>
+		<key>http</key>
+		<string>http://www.mta.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ahlebait</string>
+		<key>logo</key>
+		<string>Ahlebait</string>
+		<key>link</key>
+		<string>http://www.ahlebaittv.net/index.php/watch-live</string>
+		<key>http</key>
+		<string>http://www.ahlebaittv.net/index.php?option=com_content&amp;view=article&amp;id=3&amp;Itemid=3</string>
 	</dict>
 </array>
 </plist>
