@@ -1,37 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
-	<key>Key</key>
-	<string>3694130267637407</string>
-	<key>Bottom</key>
-	<string>6529306773</string>
-	<key>Main</key>
-	<string>8006039971</string>
-	<key>Back</key>
-	<string>9482773175</string>
-	<key>Channel</key>
-	<array>
-		<dict>
-			<key>name</key>
-			<string>weqwer</string>
-			<key>logo</key>
-			<string>wewer</string>
-			<key>link</key>
-			<string>we</string>
-			<key>http</key>
-			<string>ewe</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>dfdfg</string>
-			<key>logo</key>
-			<string>dfg</string>
-			<key>link</key>
-			<string>dfg</string>
-			<key>http</key>
-			<string>cvbn</string>
-		</dict>
-	</array>
-</dict>
+<array>
+	<dict>
+		<key>name</key>
+		<string>Bloomberg TV Europe</string>
+		<key>logo</key>
+		<string>bloomberg</string>
+		<key>link</key>
+		<string>https://www.bloomberg.com/live/europe</string>
+		<key>http</key>
+		<string>https://www.bloomberg.com/live/us</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Euronews</string>
+		<key>logo</key>
+		<string>Euronews</string>
+		<key>link</key>
+		<string>http://fr.euronews.com/live</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/euronewsfr/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sky News France</string>
+		<key>logo</key>
+		<string>Sky</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CHEK</string>
+		<key>logo</key>
+		<string>francetvinfo</string>
+		<key>link</key>
+		<string>http://www.cheknews.ca/live-news-british-columbia</string>
+		<key>http</key>
+		<string>http://www.cheknews.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CPAC English</string>
+		<key>logo</key>
+		<string>Mirabelle</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
+		<key>http</key>
+		<string>http://www.cpac.ca/en/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CPAC French</string>
+		<key>logo</key>
+		<string>ouatch</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
+		<key>http</key>
+		<string>http://www.cpac.ca/fr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mabi TV</string>
+		<key>logo</key>
+		<string>Astrocenter</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
+		<key>http</key>
+		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Channels Television</string>
+		<key>logo</key>
+		<string>Canal+</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+	</dict>
+</array>
 </plist>
