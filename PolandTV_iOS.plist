@@ -4,6 +4,56 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>TVP</string>
+		<key>logo</key>
+		<string>TVP</string>
+		<key>link</key>
+		<string>http://tvpstream.tvp.pl/</string>
+		<key>http</key>
+		<string>http://www.tvp.pl/tvplayer?channel_id=1455&amp;autoplay=true</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVP3</string>
+		<key>logo</key>
+		<string>3</string>
+		<key>link</key>
+		<string>http://warszawa.tvp.pl/</string>
+		<key>http</key>
+		<string>http://tvp3.tvp.pl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Euronews</string>
+		<key>logo</key>
+		<string>Euronews</string>
+		<key>link</key>
+		<string>http://www.euronews.com/live</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/euronewsfr/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EbS Europe by Satellite</string>
+		<key>logo</key>
+		<string>EbS</string>
+		<key>link</key>
+		<string>http://ec.europa.eu/avservices/ebs/live.cfm?page=1</string>
+		<key>http</key>
+		<string>http://ec.europa.eu/avservices/ebs/schedule.cfm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Telewizja WTK</string>
+		<key>logo</key>
+		<string>WTK</string>
+		<key>link</key>
+		<string>http://www.wtkplay.pl/live</string>
+		<key>http</key>
+		<string>http://www.wtk.pl/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Bloomberg TV Europe</string>
 		<key>logo</key>
 		<string>bloomberg</string>
@@ -14,73 +64,153 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Euronews</string>
-		<key>logo</key>
-		<string>Euronews</string>
-		<key>link</key>
-		<string>http://fr.euronews.com/live</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/euronewsfr/videos?live_view=501&amp;flow=grid&amp;view=2</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Sky News Poland</string>
-		<key>logo</key>
-		<string>Sky</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CHEK</string>
-		<key>logo</key>
-		<string>Sudecka</string>
-		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
-		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>TVK</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Polish</string>
-		<key>logo</key>
-		<string>RBL</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
-		<key>logo</key>
-		<string>Mango</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Channels Television</string>
+		<string>Torun</string>
 		<key>logo</key>
 		<string>Torun</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
+		<string>http://www.tvtorun.net/</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>http://www.toruntv.pl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Belsat</string>
+		<key>logo</key>
+		<string>Belsat</string>
+		<key>link</key>
+		<string>http://belsat.eu/online/</string>
+		<key>http</key>
+		<string>http://belsat.eu/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CW24TV</string>
+		<key>logo</key>
+		<string>24</string>
+		<key>link</key>
+		<string>http://www.cw24tv.pl/</string>
+		<key>http</key>
+		<string>http://cw24.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVK Telewizja Kujawy</string>
+		<key>logo</key>
+		<string>TVK</string>
+		<key>link</key>
+		<string>http://www.kujawy.info/na-zywo</string>
+		<key>http</key>
+		<string>http://www.kujawy.info/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Toya</string>
+		<key>logo</key>
+		<string>Toya</string>
+		<key>link</key>
+		<string>http://tvtoya.pl/live</string>
+		<key>http</key>
+		<string>http://tvtoya.pl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TV Master</string>
+		<key>logo</key>
+		<string>Master</string>
+		<key>link</key>
+		<string>http://www.tv.master.pl/tv_online.php</string>
+		<key>http</key>
+		<string>http://www.tv.master.pl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Telewizja Sudecka</string>
+		<key>logo</key>
+		<string>Sudecka</string>
+		<key>link</key>
+		<string>http://www.tvsudecka.pl/streams/single/1</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/tvsudecka/videos?shelf_id=0&amp;live_view=501&amp;sort=dd&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Dami</string>
+		<key>logo</key>
+		<string>Dami</string>
+		<key>link</key>
+		<string>http://dami24.pl/tvdami/dami-on-line</string>
+		<key>http</key>
+		<string>http://dami24.pl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sfera TV</string>
+		<key>logo</key>
+		<string>Sfera</string>
+		<key>link</key>
+		<string>http://www.sferatv.pl/na-zywo</string>
+		<key>http</key>
+		<string>http://www.sferatv.pl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RBL</string>
+		<key>logo</key>
+		<string>RBL</string>
+		<key>link</key>
+		<string>http://www.rbl.tv/live.html</string>
+		<key>http</key>
+		<string>http://www.rbl.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>OPOKA</string>
+		<key>logo</key>
+		<string>OPOKA</string>
+		<key>link</key>
+		<string>http://opoka.tv/opoka-tv-live/</string>
+		<key>http</key>
+		<string>http://opoka.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mango 24</string>
+		<key>logo</key>
+		<string>Mango</string>
+		<key>link</key>
+		<string>http://tv.mango.pl/</string>
+		<key>http</key>
+		<string>http://www.mango.pl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Trwam</string>
+		<key>logo</key>
+		<string>Trwam</string>
+		<key>link</key>
+		<string>http://www.tv-trwam.pl/na-zywo</string>
+		<key>http</key>
+		<string>http://www.tv-trwam.pl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EWTN</string>
+		<key>logo</key>
+		<string>EWTN</string>
+		<key>link</key>
+		<string>http://www.ewtn.com/multimedia/live_player.asp?satname=ukirlnlp</string>
+		<key>http</key>
+		<string>http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&amp;feed=ukirln</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sky News</string>
+		<key>logo</key>
+		<string>Sky</string>
+		<key>link</key>
+		<string>http://news.sky.com/watch-live</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 </array>
 </plist>
