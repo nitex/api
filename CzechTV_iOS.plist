@@ -4,13 +4,193 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Bloomberg TV Europe</string>
+		<string>ČT24</string>
 		<key>logo</key>
-		<string>bloomberg</string>
+		<string>24</string>
 		<key>link</key>
-		<string>https://www.bloomberg.com/live/europe</string>
+		<string>http://www.ceskatelevize.cz/ct24#live</string>
 		<key>http</key>
-		<string>https://www.bloomberg.com/live/us</string>
+		<string>http://www.ceskatelevize.cz/ct24/zive-vysilani/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ČT1</string>
+		<key>logo</key>
+		<string>1</string>
+		<key>link</key>
+		<string>http://www.ceskatelevize.cz/ct1/zive/</string>
+		<key>http</key>
+		<string>http://www.ceskatelevize.cz/ivysilani/zive</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ČT2</string>
+		<key>logo</key>
+		<string>2</string>
+		<key>link</key>
+		<string>http://www.ceskatelevize.cz/ct2/zive/</string>
+		<key>http</key>
+		<string>http://www.ceskatelevize.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ČT Sport</string>
+		<key>logo</key>
+		<string>Sport</string>
+		<key>link</key>
+		<string>http://www.ceskatelevize.cz/sport/zive-vysilani/</string>
+		<key>http</key>
+		<string>http://www.ceskatelevize.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ČT Déčko</string>
+		<key>logo</key>
+		<string>CT</string>
+		<key>link</key>
+		<string>http://decko.ceskatelevize.cz/zive</string>
+		<key>http</key>
+		<string>http://decko.ceskatelevize.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ČT art</string>
+		<key>logo</key>
+		<string>art</string>
+		<key>link</key>
+		<string>http://www.ceskatelevize.cz/art/zive/</string>
+		<key>http</key>
+		<string>http://www.ceskatelevize.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Regionální Televize</string>
+		<key>logo</key>
+		<string>Televize</string>
+		<key>link</key>
+		<string>http://www.regionalnitelevize.cz/cz/123-live.html</string>
+		<key>http</key>
+		<string>http://www.regionalnitelevize.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PrahaTV</string>
+		<key>logo</key>
+		<string>PrahaTV</string>
+		<key>link</key>
+		<string>http://prahatv.eu/</string>
+		<key>http</key>
+		<string>http://prahatv.eu/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TV Morava</string>
+		<key>logo</key>
+		<string>Morava</string>
+		<key>link</key>
+		<string>http://www.tvmorava.cz/</string>
+		<key>http</key>
+		<string>http://www.tvmorava.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Polar</string>
+		<key>logo</key>
+		<string>Polar</string>
+		<key>link</key>
+		<string>https://polar.cz/</string>
+		<key>http</key>
+		<string>https://polar.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Východočeská televize V1</string>
+		<key>logo</key>
+		<string>V1</string>
+		<key>link</key>
+		<string>http://vctv.cz/</string>
+		<key>http</key>
+		<string>http://vctv.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>OIK TV</string>
+		<key>logo</key>
+		<string>OIK</string>
+		<key>link</key>
+		<string>http://www.ustream.tv/channel/oiktvlive/pop-out</string>
+		<key>http</key>
+		<string>http://oik.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>i-Vysočina.cz</string>
+		<key>logo</key>
+		<string>i</string>
+		<key>link</key>
+		<string>http://www.i-vysocina.cz/tv</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/ivysocina/videos?flow=grid&amp;view=2&amp;live_view=501</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVS Televize Slovácko</string>
+		<key>logo</key>
+		<string>TVS</string>
+		<key>link</key>
+		<string>http://www.televizetvs.cz/home</string>
+		<key>http</key>
+		<string>http://www.televizetvs.cz/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Óčko</string>
+		<key>logo</key>
+		<string>Ocko</string>
+		<key>link</key>
+		<string>http://ocko.tv/live.aspx</string>
+		<key>http</key>
+		<string>http://ocko.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Óčko Gold</string>
+		<key>logo</key>
+		<string>Ocko1</string>
+		<key>link</key>
+		<string>http://ocko.tv/live.aspx?channel=gold</string>
+		<key>http</key>
+		<string>http://ocko.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Óčko Expres</string>
+		<key>logo</key>
+		<string>Ocko2</string>
+		<key>link</key>
+		<string>http://ocko.tv/live.aspx?channel=expres</string>
+		<key>http</key>
+		<string>http://ocko.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Retro Music</string>
+		<key>logo</key>
+		<string>Retro</string>
+		<key>link</key>
+		<string>http://www.retromusic.cz/index.php?cont=vysilani&amp;language=en</string>
+		<key>http</key>
+		<string>http://www.retromusic.cz</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>FashionTV</string>
+		<key>logo</key>
+		<string>FashionTV</string>
+		<key>link</key>
+		<string>http://www.tvfashion.eu/#livestream</string>
+		<key>http</key>
+		<string>http://www.tvfashion.eu/#play-stream</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -24,63 +204,93 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Sky News Czech</string>
+		<string>EbS Europe by Satellite</string>
 		<key>logo</key>
-		<string>Sky</string>
+		<string>EbS</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<string>http://ec.europa.eu/avservices/ebs/live.cfm?page=1</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+		<string>http://ec.europa.eu/avservices/ebs/schedule.cfm</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CHEK</string>
+		<string>Bloomberg TV Europe</string>
 		<key>logo</key>
-		<string>V1</string>
+		<string>bloomberg</string>
 		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
+		<string>https://www.bloomberg.com/live/europe</string>
 		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
+		<string>https://www.bloomberg.com/live/us</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CPAC English</string>
+		<string>Noe</string>
 		<key>logo</key>
-		<string>1</string>
+		<string>Noe</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
+		<string>http://www.tvnoe.cz/live</string>
 		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
+		<string>http://www.tvnoe.cz</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CPAC Czech</string>
+		<string>Český rozhlas</string>
 		<key>logo</key>
-		<string>art</string>
+		<string>rozhlas</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
+		<string>http://www.rozhlas.cz/radiozurnal/studio/#/1</string>
 		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
+		<string>http://www.rozhlas.cz/dvojka/studio/#/1</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Mabi TV</string>
+		<string>Vltava</string>
 		<key>logo</key>
-		<string>Morava</string>
+		<string>Vltava</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
+		<string>http://www.rozhlas.cz/vltava/studio/#/1</string>
 		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+		<string>http://www.rozhlas.cz/radiowave/studio/#/1</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Channels Television</string>
+		<string>Deutsche Welle</string>
 		<key>logo</key>
-		<string>i</string>
+		<string>DW2</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
+		<string>http://www.dw.com/en/media-center/live-tv/s-100825?channel=5</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>http://www.dw.com/en/media-center/live-tv/s-100825?channel=4</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EWTN</string>
+		<key>logo</key>
+		<string>EWTN</string>
+		<key>link</key>
+		<string>http://www.ewtn.de/streaming/player.php</string>
+		<key>http</key>
+		<string>http://www.ewtn.de/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope</string>
+		<key>logo</key>
+		<string>Hope</string>
+		<key>link</key>
+		<string>http://www.hopechannel.de/tv/live/</string>
+		<key>http</key>
+		<string>http://www.hopechannel.de/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>MTA</string>
+		<key>logo</key>
+		<string>MTA</string>
+		<key>link</key>
+		<string>http://www.mta.tv/live</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/mtaOnline1/videos?view=2&amp;live_view=501&amp;flow=grid</string>
 	</dict>
 </array>
 </plist>
