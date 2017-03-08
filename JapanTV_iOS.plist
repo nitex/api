@@ -4,73 +4,13 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>TV 4</string>
+		<string>Bloomberg TV Asia</string>
 		<key>logo</key>
-		<string>cula</string>
+		<string>bloomberg</string>
 		<key>link</key>
-		<string>http://tv4.te.ua/onlajn-movlennya/</string>
+		<string>https://www.bloomberg.com/live/asia</string>
 		<key>http</key>
-		<string>http://tv4.te.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CHEK</string>
-		<key>logo</key>
-		<string>cheknews</string>
-		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
-		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Alex TV</string>
-		<key>logo</key>
-		<string>RT</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=_QiRIYWXAE4</string>
-		<key>http</key>
-		<string>http://alextv.zp.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Noovo</string>
-		<key>logo</key>
-		<string>noovo</string>
-		<key>link</key>
-		<string>http://noovo.ca/en-direct</string>
-		<key>http</key>
-		<string>http://noovo.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>cpac1</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC French</string>
-		<key>logo</key>
-		<string>cpac2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>MiTV</string>
-		<key>logo</key>
-		<string>MiTV</string>
-		<key>link</key>
-		<string>https://www.youtube.com/channel/UCUWs8vbIQQz3zjN6YJivP3w/feed?activity_view=6</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCUWs8vbIQQz3zjN6YJivP3w/videos?flow=grid&amp;live_view=501&amp;view=2</string>
+		<string>https://www.bloomberg.com/live/us</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -84,9 +24,39 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>CHEK</string>
+		<key>logo</key>
+		<string>Mountain</string>
+		<key>link</key>
+		<string>http://www.cheknews.ca/live-news-british-columbia</string>
+		<key>http</key>
+		<string>http://www.cheknews.ca/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CPAC English</string>
+		<key>logo</key>
+		<string>EBS1</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
+		<key>http</key>
+		<string>http://www.cpac.ca/en/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CPAC Japanese</string>
+		<key>logo</key>
+		<string>EBS2</string>
+		<key>link</key>
+		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
+		<key>http</key>
+		<string>http://www.cpac.ca/fr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Mabi TV</string>
 		<key>logo</key>
-		<string>Mabi</string>
+		<string>Yes</string>
 		<key>link</key>
 		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
 		<key>http</key>
@@ -96,7 +66,7 @@
 		<key>name</key>
 		<string>Channels Television</string>
 		<key>logo</key>
-		<string>Channels</string>
+		<string>KTV</string>
 		<key>link</key>
 		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
 		<key>http</key>
