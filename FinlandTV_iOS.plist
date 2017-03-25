@@ -4,6 +4,76 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>Alfa</string>
+		<key>logo</key>
+		<string>Alfa</string>
+		<key>link</key>
+		<string>http://www.permanto.fi/live</string>
+		<key>http</key>
+		<string>http://www.permanto.fi</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YLE TV1</string>
+		<key>logo</key>
+		<string>TV1</string>
+		<key>link</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-tv1</string>
+		<key>http</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-tv1#autoplay=true</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YLE TV2</string>
+		<key>logo</key>
+		<string>TV2</string>
+		<key>link</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-tv2</string>
+		<key>http</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-tv2#autoplay=true</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YLE Fem</string>
+		<key>logo</key>
+		<string>Fem</string>
+		<key>link</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-fem</string>
+		<key>http</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-fem#autoplay=true</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YLE Teema</string>
+		<key>logo</key>
+		<string>Teema</string>
+		<key>link</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-teema</string>
+		<key>http</key>
+		<string>http://areena.yle.fi/tv/suorat/yle-teema#autoplay=true</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Santa Claus Office</string>
+		<key>logo</key>
+		<string>Santa</string>
+		<key>link</key>
+		<string>http://santaclausoffice.com/en/livekamerat/</string>
+		<key>http</key>
+		<string>http://www.ustream.tv/channel/santaclauslive-outside-cam</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Taivas TV7</string>
+		<key>logo</key>
+		<string>TV7</string>
+		<key>link</key>
+		<string>http://www.tv7.fi/netti-tv/</string>
+		<key>http</key>
+		<string>http://www.tv7.fi/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Bloomberg TV Europe</string>
 		<key>logo</key>
 		<string>bloomberg</string>
@@ -24,63 +94,23 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Sky News Europa</string>
-		<key>logo</key>
-		<string>Sky</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CHEK</string>
-		<key>logo</key>
-		<string>TV1</string>
-		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
-		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>TV2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Suomi</string>
-		<key>logo</key>
-		<string>Alfa</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
+		<string>EbS Europe by Satellite</string>
 		<key>logo</key>
 		<string>EbS</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
+		<string>http://ec.europa.eu/avservices/ebs/live.cfm?page=1</string>
 		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+		<string>http://ec.europa.eu/avservices/ebs/schedule.cfm</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Channels Television</string>
+		<string>Sky News</string>
 		<key>logo</key>
-		<string>TV7</string>
+		<string>Sky</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
+		<string>http://news.sky.com/watch-live</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 </array>
 </plist>
