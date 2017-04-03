@@ -4,6 +4,86 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>RÚV</string>
+		<key>logo</key>
+		<string>1</string>
+		<key>link</key>
+		<string>http://www.ruv.is/ruv</string>
+		<key>http</key>
+		<string>http://www.ruv.is/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RÚV 2</string>
+		<key>logo</key>
+		<string>2</string>
+		<key>link</key>
+		<string>http://www.ruv.is/ruv-2</string>
+		<key>http</key>
+		<string>http://www.ruv.is/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>INN</string>
+		<key>logo</key>
+		<string>INN</string>
+		<key>link</key>
+		<string>http://inntv.is/</string>
+		<key>http</key>
+		<string>http://inntv.is/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>N4</string>
+		<key>logo</key>
+		<string>4</string>
+		<key>link</key>
+		<string>http://www.n4.is/is/n4-i-beinni</string>
+		<key>http</key>
+		<string>http://www.n4.is/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Althingi</string>
+		<key>logo</key>
+		<string>Althingi</string>
+		<key>link</key>
+		<string>http://www.althingi.is/</string>
+		<key>http</key>
+		<string>http://www.althingi.is/?low=1</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Visir</string>
+		<key>logo</key>
+		<string>Visir</string>
+		<key>link</key>
+		<string>http://www.visir.is/section/MEDIA02</string>
+		<key>http</key>
+		<string>http://www.visir.is</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gospel</string>
+		<key>logo</key>
+		<string>Gospel</string>
+		<key>link</key>
+		<string>http://www.gospel.tv/live-streaming/live-iceland/</string>
+		<key>http</key>
+		<string>http://www.gospel.tv/live-streaming/live-europe/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Omega</string>
+		<key>logo</key>
+		<string>Omega</string>
+		<key>link</key>
+		<string>http://www.omega.is/Omega/LiveStream.aspx?Date=06/20/2014&amp;ChanelId=1</string>
+		<key>http</key>
+		<string>http://www.omega.is/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Bloomberg TV Europe</string>
 		<key>logo</key>
 		<string>bloomberg</string>
@@ -24,63 +104,23 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Sky News Europa</string>
-		<key>logo</key>
-		<string>Sky</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CHEK</string>
-		<key>logo</key>
-		<string>Gospel</string>
-		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
-		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>1</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Island</string>
-		<key>logo</key>
-		<string>2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
-		<key>logo</key>
-		<string>Omega</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Channels Television</string>
+		<string>EbS Europe by Satellite</string>
 		<key>logo</key>
 		<string>EbS</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
+		<string>http://ec.europa.eu/avservices/ebs/live.cfm?page=1</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>http://ec.europa.eu/avservices/ebs/schedule.cfm</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sky News</string>
+		<key>logo</key>
+		<string>Sky</string>
+		<key>link</key>
+		<string>http://news.sky.com/watch-live</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 </array>
 </plist>
