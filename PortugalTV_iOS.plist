@@ -4,13 +4,93 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Bloomberg TV Europe</string>
+		<string>RTP Internacional</string>
 		<key>logo</key>
-		<string>bloomberg</string>
+		<string>RTP</string>
 		<key>link</key>
-		<string>https://www.bloomberg.com/live/europe</string>
+		<string>http://www.rtp.pt/play/direto/rtpinternacional</string>
 		<key>http</key>
-		<string>https://www.bloomberg.com/live/us</string>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTP 1</string>
+		<key>logo</key>
+		<string>RTP1</string>
+		<key>link</key>
+		<string>http://www.rtp.pt/play/direto/rtp1</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTP 2</string>
+		<key>logo</key>
+		<string>RTP2</string>
+		<key>link</key>
+		<string>http://www.rtp.pt/play/direto/rtp2</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTP 3</string>
+		<key>logo</key>
+		<string>RTP3</string>
+		<key>link</key>
+		<string>http://www.rtp.pt/play/direto/rtp3</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTP Memória</string>
+		<key>logo</key>
+		<string>Memoria</string>
+		<key>link</key>
+		<string>http://www.rtp.pt/play/direto/rtpmemoria</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTP Madeira</string>
+		<key>logo</key>
+		<string>Madeira</string>
+		<key>link</key>
+		<string>http://www.rtp.pt/play/direto/rtpmadeira</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTP Açores</string>
+		<key>logo</key>
+		<string>Azores</string>
+		<key>link</key>
+		<string>http://www.rtp.pt/play/direto/rtpacores</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTP África</string>
+		<key>logo</key>
+		<string>Africa</string>
+		<key>link</key>
+		<string>http://www.rtp.pt/play/direto/rtpafrica</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Zig Zag</string>
+		<key>logo</key>
+		<string>Zag</string>
+		<key>link</key>
+		<string>https://www.rtp.pt/play/zigzag/direto/tv</string>
+		<key>http</key>
+		<string>https://www.rtp.pt/play/direto</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -24,63 +104,23 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Sky News Europa</string>
+		<string>Bloomberg TV Europe</string>
+		<key>logo</key>
+		<string>bloomberg</string>
+		<key>link</key>
+		<string>https://www.bloomberg.com/live/europe</string>
+		<key>http</key>
+		<string>https://www.bloomberg.com/live/us</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sky News</string>
 		<key>logo</key>
 		<string>Sky</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<string>http://news.sky.com/watch-live</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CHEK</string>
-		<key>logo</key>
-		<string>Paroquia</string>
-		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
-		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>RTP1</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Portu</string>
-		<key>logo</key>
-		<string>RTP2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
-		<key>logo</key>
-		<string>Igreja</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Channels Television</string>
-		<key>logo</key>
-		<string>Nova</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 </array>
 </plist>
