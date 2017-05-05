@@ -94,6 +94,26 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>TVI</string>
+		<key>logo</key>
+		<string>TVI</string>
+		<key>link</key>
+		<string>http://tviplayer.iol.pt/direto/TVI</string>
+		<key>http</key>
+		<string>http://tviplayer.iol.pt/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVI24</string>
+		<key>logo</key>
+		<string>TVI24</string>
+		<key>link</key>
+		<string>http://tviplayer.iol.pt/direto/TVI24</string>
+		<key>http</key>
+		<string>http://www.tvi24.iol.pt/direto</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Euronews Português</string>
 		<key>logo</key>
 		<string>Euronews</string>
@@ -101,6 +121,56 @@
 		<string>http://pt.euronews.com/live</string>
 		<key>http</key>
 		<string>https://www.youtube.com/user/euronewspt/videos?shelf_id=0&amp;live_view=501&amp;sort=dd&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Fátima Shrine</string>
+		<key>logo</key>
+		<string>Shrine</string>
+		<key>link</key>
+		<string>https://en.vivefatima.com/tv-fatima/channel/capelinha</string>
+		<key>http</key>
+		<string>https://en.vivefatima.com/tv-fatima</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Paróquia de Fátima</string>
+		<key>logo</key>
+		<string>Paroquia</string>
+		<key>link</key>
+		<string>https://en.vivefatima.com/tv-fatima/channel/paroquia</string>
+		<key>http</key>
+		<string>https://en.vivefatima.com/tv-fatima</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Basta Crer</string>
+		<key>logo</key>
+		<string>Crer</string>
+		<key>link</key>
+		<string>http://www.manasat.com/immediaplayer.php?channel=bastacrer</string>
+		<key>http</key>
+		<string>http://manasat.com/mm1/index.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Maná Brasil</string>
+		<key>logo</key>
+		<string>Brasil</string>
+		<key>link</key>
+		<string>http://www.manasat.com/immediaplayer.php?channel=tvbm</string>
+		<key>http</key>
+		<string>http://manasat.com/mm1/index.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Maná Maputo</string>
+		<key>logo</key>
+		<string>Maputo</string>
+		<key>link</key>
+		<string>http://www.manasat.com/immediaplayer.php?channel=tvmzmed</string>
+		<key>http</key>
+		<string>http://manasat.com/mm1/index.html</string>
 	</dict>
 	<dict>
 		<key>name</key>
