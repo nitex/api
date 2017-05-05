@@ -114,6 +114,16 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>ARTV Canal Parlamento</string>
+		<key>logo</key>
+		<string>ARTV</string>
+		<key>link</key>
+		<string>http://www.canal.parlamento.pt/?chid=18&amp;title=emissao-linear</string>
+		<key>http</key>
+		<string>http://www.canal.parlamento.pt/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Euronews Português</string>
 		<key>logo</key>
 		<string>Euronews</string>
@@ -121,6 +131,16 @@
 		<string>http://pt.euronews.com/live</string>
 		<key>http</key>
 		<string>https://www.youtube.com/user/euronewspt/videos?shelf_id=0&amp;live_view=501&amp;sort=dd&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVL</string>
+		<key>logo</key>
+		<string>TVL</string>
+		<key>link</key>
+		<string>http://tvl.pt/live/</string>
+		<key>http</key>
+		<string>http://tvl.pt/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -141,6 +161,36 @@
 		<string>https://en.vivefatima.com/tv-fatima/channel/paroquia</string>
 		<key>http</key>
 		<string>https://en.vivefatima.com/tv-fatima</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Canção Nova Portugal</string>
+		<key>logo</key>
+		<string>Nova</string>
+		<key>link</key>
+		<string>http://tv.cancaonova.pt/</string>
+		<key>http</key>
+		<string>http://tv.cancaonova.pt/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Igreja Online</string>
+		<key>logo</key>
+		<string>Igreja</string>
+		<key>link</key>
+		<string>http://www.igreja-online.tv/?qualidade=Med</string>
+		<key>http</key>
+		<string>http://www.igreja-online.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Maná 1</string>
+		<key>logo</key>
+		<string>Mana</string>
+		<key>link</key>
+		<string>http://tvmana1.com/index.php?opTv=1</string>
+		<key>http</key>
+		<string>http://tvmana1.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -181,6 +231,16 @@
 		<string>https://www.bloomberg.com/live/europe</string>
 		<key>http</key>
 		<string>https://www.bloomberg.com/live/us</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EbS Europe by Satellite</string>
+		<key>logo</key>
+		<string>EbS</string>
+		<key>link</key>
+		<string>http://ec.europa.eu/avservices/ebs/live.cfm?page=1</string>
+		<key>http</key>
+		<string>http://ec.europa.eu/avservices/ebs/schedule.cfm</string>
 	</dict>
 	<dict>
 		<key>name</key>
