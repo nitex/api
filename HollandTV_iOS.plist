@@ -4,13 +4,163 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Bloomberg TV Europe</string>
+		<string>NPO Nieuws</string>
 		<key>logo</key>
-		<string>bloomberg</string>
+		<string>Nieuws</string>
 		<key>link</key>
-		<string>https://www.bloomberg.com/live/europe</string>
+		<string>http://nos.nl/livestream/npo-nieuws</string>
 		<key>http</key>
-		<string>https://www.bloomberg.com/live/us</string>
+		<string>https://www.npo.nl/live/npo-nieuws</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Politiek</string>
+		<key>logo</key>
+		<string>Politiek</string>
+		<key>link</key>
+		<string>http://nos.nl/livestream/npo-politiek</string>
+		<key>http</key>
+		<string>https://www.npo.nl/live/npo-politiek</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 1</string>
+		<key>logo</key>
+		<string>NPO1</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-1</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 2</string>
+		<key>logo</key>
+		<string>NPO2</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-2</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 3</string>
+		<key>logo</key>
+		<string>NPO3</string>
+		<key>link</key>
+		<string>https://www.npo.nl/npo3</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Cultura</string>
+		<key>logo</key>
+		<string>Cultura</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-cultura</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 101</string>
+		<key>logo</key>
+		<string>NPO101</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-101</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Best</string>
+		<key>logo</key>
+		<string>NPOBest</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-best</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Zapp Xtra</string>
+		<key>logo</key>
+		<string>Zapp</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-zappxtra</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SLAM</string>
+		<key>logo</key>
+		<string>SLAM</string>
+		<key>link</key>
+		<string>https://live.slam.nl/slam-live/</string>
+		<key>http</key>
+		<string>https://www.slam.nl/slam-tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>538</string>
+		<key>logo</key>
+		<string>538</string>
+		<key>link</key>
+		<string>http://www.538.nl/live/tv/index.php</string>
+		<key>http</key>
+		<string>https://www.538.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SALTO 1</string>
+		<key>logo</key>
+		<string>SALTO1</string>
+		<key>link</key>
+		<string>http://www.salto.nl/salto1/</string>
+		<key>http</key>
+		<string>http://www.salto.nl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SALTO 2</string>
+		<key>logo</key>
+		<string>SALTO2</string>
+		<key>link</key>
+		<string>http://www.salto.nl/salto2/</string>
+		<key>http</key>
+		<string>http://www.salto.nl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTV Utrecht</string>
+		<key>logo</key>
+		<string>Utrecht</string>
+		<key>link</key>
+		<string>http://www.rtvutrecht.nl/live/rtvutrecht/</string>
+		<key>http</key>
+		<string>http://www.rtvutrecht.nl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UStad</string>
+		<key>logo</key>
+		<string>UStad</string>
+		<key>link</key>
+		<string>http://www.rtvutrecht.nl/live/ustad/</string>
+		<key>http</key>
+		<string>http://www.rtvutrecht.nl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Euronews</string>
+		<key>logo</key>
+		<string>Euronews</string>
+		<key>link</key>
+		<string>http://de.euronews.com/live</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/euronewsfr/videos?live_view=501&amp;flow=grid&amp;view=2</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -18,59 +168,19 @@
 		<key>logo</key>
 		<string>Sky</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<string>http://news.sky.com/watch-live</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CHEK</string>
+		<string>Bloomberg TV Europe</string>
 		<key>logo</key>
-		<string>IJsselmond</string>
+		<string>bloomberg</string>
 		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
+		<string>https://www.bloomberg.com/live/europe</string>
 		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>Plenaire</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Dutch</string>
-		<key>logo</key>
-		<string>Suze</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
-		<key>logo</key>
-		<string>Sternet</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Channels Television</string>
-		<key>logo</key>
-		<string>Arnhem</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>https://www.bloomberg.com/live/us</string>
 	</dict>
 </array>
 </plist>
