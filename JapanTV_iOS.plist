@@ -4,73 +4,93 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Bloomberg TV Asia</string>
+		<string>NHK</string>
+		<key>logo</key>
+		<string>NHK</string>
+		<key>link</key>
+		<string>https://www3.nhk.or.jp/nhkworld/en/live/</string>
+		<key>http</key>
+		<string>https://www3.nhk.or.jp/nhkworld/en/tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SOLiVE24</string>
+		<key>logo</key>
+		<string>24</string>
+		<key>link</key>
+		<string>http://weathernews.jp/solive24/</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/weathernews</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nikkei</string>
+		<key>logo</key>
+		<string>Nikkei1</string>
+		<key>link</key>
+		<string>http://channel.nikkei.co.jp/</string>
+		<key>http</key>
+		<string>http://www.ustream.tv/channel/nikkei-channel-business</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Nikkei Shimbun</string>
+		<key>logo</key>
+		<string>Nikkei2</string>
+		<key>link</key>
+		<string>http://www.nikkei.com/video/</string>
+		<key>http</key>
+		<string>http://www.nikkei.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>FNN</string>
+		<key>logo</key>
+		<string>FNN</string>
+		<key>link</key>
+		<string>http://www.fnn-news.com/news/videolist/index.html</string>
+		<key>http</key>
+		<string>http://www.fnn-news.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Channel JAPAN</string>
+		<key>logo</key>
+		<string>japan</string>
+		<key>link</key>
+		<string>http://www.ustream.tv/channel/channeljapan</string>
+		<key>http</key>
+		<string>http://www.ch-japan.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bloomberg Asia</string>
 		<key>logo</key>
 		<string>bloomberg</string>
 		<key>link</key>
 		<string>https://www.bloomberg.com/live/asia</string>
 		<key>http</key>
-		<string>https://www.bloomberg.com/live/us</string>
+		<string>https://www.bloomberg.com/live/asia_stream</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Sky News</string>
+		<string>Shop Channel</string>
 		<key>logo</key>
-		<string>Sky</string>
+		<string>Shop</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<string>http://www.shopch.jp/RealTimeTVHDShow.do</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+		<string>http://www.shopch.jp/RealTimeTVPopShow.do?il=header&amp;ic=live</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CHEK</string>
+		<string>Japanet DX</string>
 		<key>logo</key>
-		<string>Mountain</string>
+		<string>japanet</string>
 		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
+		<string>http://www.japanet.co.jp/shopping/</string>
 		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>EBS1</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Japanese</string>
-		<key>logo</key>
-		<string>EBS2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
-		<key>logo</key>
-		<string>Yes</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Channels Television</string>
-		<key>logo</key>
-		<string>KTV</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>http://www.japanet.co.jp/shopping/dx/</string>
 	</dict>
 </array>
 </plist>
