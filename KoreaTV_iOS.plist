@@ -4,13 +4,193 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Bloomberg TV Asia</string>
+		<string>YTN</string>
+		<key>logo</key>
+		<string>YTN</string>
+		<key>link</key>
+		<string>http://ytn.co.kr/hd/hd_live.html</string>
+		<key>http</key>
+		<string>http://www.ytn.co.kr/_cs/hd_live.html</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YTN life</string>
+		<key>logo</key>
+		<string>life</string>
+		<key>link</key>
+		<string>http://life.ytn.co.kr/hd/hd_live.php</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/ytnweatherlive/videos?shelf_id=0&amp;live_view=501&amp;sort=dd&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YTN Science</string>
+		<key>logo</key>
+		<string>Science</string>
+		<key>link</key>
+		<string>http://science.ytn.co.kr/hd/hd_live.php</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/ytnsciencelive/videos?shelf_id=0&amp;live_view=501&amp;sort=dd&amp;view=2</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Channel A</string>
+		<key>logo</key>
+		<string>A</string>
+		<key>link</key>
+		<string>http://www.ichannela.com/com/cmm/onair.do</string>
+		<key>http</key>
+		<string>http://www.ichannela.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KBS 한국방송공사</string>
+		<key>logo</key>
+		<string>KBS</string>
+		<key>link</key>
+		<string>http://myk.kbs.co.kr/live/tv</string>
+		<key>http</key>
+		<string>http://www.kbs.co.kr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KBS World 월드 24</string>
+		<key>logo</key>
+		<string>24</string>
+		<key>link</key>
+		<string>http://kbsworld.kbs.co.kr/vod/onair.php?p_no=live_news24</string>
+		<key>http</key>
+		<string>http://kbsworld.kbs.co.kr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KBS World 월드 TV</string>
+		<key>logo</key>
+		<string>World</string>
+		<key>link</key>
+		<string>http://kbsworld.kbs.co.kr/vod/onair.php?p_no=onair</string>
+		<key>http</key>
+		<string>http://kbsworld.kbs.co.kr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KBS World 월드 Latino</string>
+		<key>logo</key>
+		<string>Latino</string>
+		<key>link</key>
+		<string>http://kbsworld.kbs.co.kr/vod/onair.php?p_no=latino</string>
+		<key>http</key>
+		<string>http://kbsworld.kbs.co.kr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KCTV Jeju 7 광주방송</string>
+		<key>logo</key>
+		<string>7</string>
+		<key>link</key>
+		<string>https://www.kctvjeju.com/program/onair.kctv</string>
+		<key>http</key>
+		<string>https://www.kctvjeju.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>KCTV Jeju 20 광주방송</string>
+		<key>logo</key>
+		<string>20</string>
+		<key>link</key>
+		<string>https://www.kctvjeju.com/kctvn/onair.kctv</string>
+		<key>http</key>
+		<string>https://www.kctvjeju.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EBS 1</string>
+		<key>logo</key>
+		<string>EBS1</string>
+		<key>link</key>
+		<string>http://www.ebs.co.kr/onair?channelCodeString=tv</string>
+		<key>http</key>
+		<string>http://www.ebs.co.kr</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EBS 2</string>
+		<key>logo</key>
+		<string>EBS2</string>
+		<key>link</key>
+		<string>http://www.ebs.co.kr/onair?channelCodeString=tv2</string>
+		<key>http</key>
+		<string>http://www.ebs.co.kr</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PLUS 1</string>
+		<key>logo</key>
+		<string>PLUS1</string>
+		<key>link</key>
+		<string>http://www.ebs.co.kr/onair?channelCodeString=plus1</string>
+		<key>http</key>
+		<string>http://www.ebs.co.kr</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PLUS 2</string>
+		<key>logo</key>
+		<string>PLUS2</string>
+		<key>link</key>
+		<string>http://www.ebs.co.kr/onair?channelCodeString=plus2</string>
+		<key>http</key>
+		<string>http://www.ebs.co.kr</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EBSe</string>
+		<key>logo</key>
+		<string>EBSe</string>
+		<key>link</key>
+		<string>http://www.ebs.co.kr/onair?channelCodeString=ebse</string>
+		<key>http</key>
+		<string>http://www.ebs.co.kr</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CGN Christian Global Network</string>
+		<key>logo</key>
+		<string>CGN</string>
+		<key>link</key>
+		<string>http://www.cgntv.net/onair/home.cgn</string>
+		<key>http</key>
+		<string>http://www.cgntv.net/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GCN in Korean</string>
+		<key>logo</key>
+		<string>GCN1</string>
+		<key>link</key>
+		<string>http://www.gcntv.org/KO/Media/Viewer/Live24File.asp?live=KO_W01_24H</string>
+		<key>http</key>
+		<string>http://www.gcntv.org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GCN in English</string>
+		<key>logo</key>
+		<string>GCN2</string>
+		<key>link</key>
+		<string>http://www.gcntv.org/KO/Media/Viewer/Live24File.asp?playtype=FLASH&amp;live=EN_F01_24H</string>
+		<key>http</key>
+		<string>http://www.gcntv.org</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bloomberg Asia</string>
 		<key>logo</key>
 		<string>bloomberg</string>
 		<key>link</key>
-		<string>https://www.bloomberg.com/live/asia</string>
+		<string>http://www.bloomberg.com/live/asia</string>
 		<key>http</key>
-		<string>https://www.bloomberg.com/live/us</string>
+		<string>http://www.bloomberg.com/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -18,59 +198,9 @@
 		<key>logo</key>
 		<string>Sky</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<string>http://news.sky.com/watch-live</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CHEK</string>
-		<key>logo</key>
-		<string>Mountain</string>
-		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
-		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>EBS1</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Korean</string>
-		<key>logo</key>
-		<string>EBS2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
-		<key>logo</key>
-		<string>Yes</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Channels Television</string>
-		<key>logo</key>
-		<string>KTV</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 </array>
 </plist>
