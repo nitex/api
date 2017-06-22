@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>Root</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>5750451570</string>
+		<key>Back</key>
+		<string>8703917977</string>
+		<key>Banner</key>
+		<string>4273718373</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<integer>2</integer>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>TVI</string>
+			<key>logo</key>
+			<string>TVI</string>
+			<key>link</key>
+			<string>http://tviplayer.iol.pt/direto/TVI</string>
+			<key>http</key>
+			<string>http://tviplayer.iol.pt/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVI24</string>
+			<key>logo</key>
+			<string>TVI24</string>
+			<key>link</key>
+			<string>http://tviplayer.iol.pt/direto/TVI24</string>
+			<key>http</key>
+			<string>http://www.tvi24.iol.pt/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP 1</string>
+			<key>logo</key>
+			<string>RTP1</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtp1</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP 2</string>
+			<key>logo</key>
+			<string>RTP2</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtp2</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP 3</string>
+			<key>logo</key>
+			<string>RTP3</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtp3</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP Internacional</string>
+			<key>logo</key>
+			<string>RTP</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtpinternacional</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP Açores</string>
+			<key>logo</key>
+			<string>Azores</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtpacores</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP Madeira</string>
+			<key>logo</key>
+			<string>Madeira</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtpmadeira</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP Memória</string>
+			<key>logo</key>
+			<string>Memoria</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtpmemoria</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP África</string>
+			<key>logo</key>
+			<string>Africa</string>
+			<key>link</key>
+			<string>http://www.rtp.pt/play/direto/rtpafrica</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zig Zag</string>
+			<key>logo</key>
+			<string>Zag</string>
+			<key>link</key>
+			<string>https://www.rtp.pt/play/zigzag/direto/tv</string>
+			<key>http</key>
+			<string>https://www.rtp.pt/play/direto</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fátima Shrine</string>
+			<key>logo</key>
+			<string>Shrine</string>
+			<key>link</key>
+			<string>https://en.vivefatima.com/tv-fatima/channel/capelinha</string>
+			<key>http</key>
+			<string>https://en.vivefatima.com/tv-fatima</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Paróquia de Fátima</string>
+			<key>logo</key>
+			<string>Paroquia</string>
+			<key>link</key>
+			<string>https://en.vivefatima.com/tv-fatima/channel/paroquia</string>
+			<key>http</key>
+			<string>https://en.vivefatima.com/tv-fatima</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Basta Crer</string>
+			<key>logo</key>
+			<string>Crer</string>
+			<key>link</key>
+			<string>http://www.manasat.com/immediaplayer.php?channel=bastacrer</string>
+			<key>http</key>
+			<string>http://manasat.com/mm1/index.html</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maná Brasil</string>
+			<key>logo</key>
+			<string>Brasil</string>
+			<key>link</key>
+			<string>http://www.manasat.com/immediaplayer.php?channel=tvbm</string>
+			<key>http</key>
+			<string>http://manasat.com/mm1/index.html</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maná Maputo</string>
+			<key>logo</key>
+			<string>Maputo</string>
+			<key>link</key>
+			<string>http://www.manasat.com/immediaplayer.php?channel=tvmzmed</string>
+			<key>http</key>
+			<string>http://manasat.com/mm1/index.html</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maná 1</string>
+			<key>logo</key>
+			<string>Mana</string>
+			<key>link</key>
+			<string>http://tvmana1.com/index.php?opTv=1</string>
+			<key>http</key>
+			<string>http://tvmana1.com</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bloomberg TV Europe</string>
+			<key>logo</key>
+			<string>bloomberg</string>
+			<key>link</key>
+			<string>https://www.bloomberg.com/live/europe</string>
+			<key>http</key>
+			<string>https://www.bloomberg.com/live/us</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://news.sky.com/watch-live</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/skynews</string>
+		</dict>
+	</array>
+</dict>
+</plist>
