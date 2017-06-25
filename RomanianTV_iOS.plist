@@ -4,13 +4,83 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Bloomberg TV Europe</string>
+		<string>TVR International</string>
 		<key>logo</key>
-		<string>bloomberg</string>
+		<string>TVR1</string>
 		<key>link</key>
-		<string>https://www.bloomberg.com/live/europe</string>
+		<string>http://www.tvrplus.ro/live-tvr-international</string>
 		<key>http</key>
-		<string>https://www.bloomberg.com/live/us</string>
+		<string>http://www.tvrplus.ro</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVR Moldova</string>
+		<key>logo</key>
+		<string>TVR2</string>
+		<key>link</key>
+		<string>http://www.tvrplus.ro/live-tvr-moldova</string>
+		<key>http</key>
+		<string>http://www.tvrplus.ro</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Realitatea TV</string>
+		<key>logo</key>
+		<string>Realitatea1</string>
+		<key>link</key>
+		<string>http://webtv.realitatea.net/live?international=1</string>
+		<key>http</key>
+		<string>https://www.realitatea.net/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Realitatea Internaţional</string>
+		<key>logo</key>
+		<string>Realitatea2</string>
+		<key>link</key>
+		<string>http://webtv.realitatea.net/live</string>
+		<key>http</key>
+		<string>https://www.realitatea.net/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Antena3</string>
+		<key>logo</key>
+		<string>Antena</string>
+		<key>link</key>
+		<string>http://antenaplay.ro/live/antena-international</string>
+		<key>http</key>
+		<string>https://live.antena3.ro/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>B1</string>
+		<key>logo</key>
+		<string>B1</string>
+		<key>link</key>
+		<string>http://www.b1.ro/live.php</string>
+		<key>http</key>
+		<string>http://www.b1.ro</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Digi 24</string>
+		<key>logo</key>
+		<string>Digi</string>
+		<key>link</key>
+		<string>http://www.digi24.ro/live/digi24</string>
+		<key>http</key>
+		<string>http://www.digi24.ro</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Euronews</string>
+		<key>logo</key>
+		<string>Euronews</string>
+		<key>link</key>
+		<string>http://de.euronews.com/live</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/euronewsfr/videos?live_view=501&amp;flow=grid&amp;view=2</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -18,59 +88,19 @@
 		<key>logo</key>
 		<string>Sky</string>
 		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+		<string>http://news.sky.com/watch-live</string>
 		<key>http</key>
-		<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CHEK</string>
+		<string>Bloomberg TV Europe</string>
 		<key>logo</key>
-		<string>Absolut</string>
+		<string>bloomberg</string>
 		<key>link</key>
-		<string>http://www.cheknews.ca/live-news-british-columbia</string>
+		<string>https://www.bloomberg.com/live/europe</string>
 		<key>http</key>
-		<string>http://www.cheknews.ca/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC English</string>
-		<key>logo</key>
-		<string>Realitatea2</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=N1jpakWbrT8</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/en/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>CPAC Romana</string>
-		<key>logo</key>
-		<string>Realitatea1</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=Y5rc5ukFWz4</string>
-		<key>http</key>
-		<string>http://www.cpac.ca/fr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Mabi TV</string>
-		<key>logo</key>
-		<string>Sighet</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=wkBbbbPfFRQ</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&amp;live_view=501&amp;flow=grid</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Channels Television</string>
-		<key>logo</key>
-		<string>Sangeorz</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch_popup?v=ANM-dq5USTc</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/channelsweb/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<string>https://www.bloomberg.com/live/us</string>
 	</dict>
 </array>
 </plist>
