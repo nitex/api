@@ -3,145 +3,7 @@
       "banner1":"ca-app-pub-1",
       "banner2":"ca-app-pub-2",
       "splash":"ca-app-pub-3",
-      "fab_visibility":"gone",
-   },
-   {
-      "name":"EbS+ Europe by Satellite",
-      "logo":"EbS",
-      "link":"http:\/\/ec.europa.eu\/avservices\/ebs\/live.cfm?page=1",
-      "http":"http:\/\/ec.europa.eu\/avservices\/ebs\/schedule.cfm"
-   },
-   {
-      "name":"EbS Europe by Satellite",
-      "logo":"EbS+",
-      "link":"http:\/\/ec.europa.eu\/avservices\/ebs\/live.cfm?page=2",
-      "http":"http:\/\/ec.europa.eu\/avservices\/ebs\/schedule.cfm"
-   },
-   {
-      "name":"ATV",
-      "logo":"ATV",
-      "link":"http:\/\/atv.be\/info\/extra-live-stream",
-      "http":"http:\/\/atv.be\/"
-   },
-   {
-      "name":"BX1 Tele Bruxelles",
-      "logo":"BX1",
-      "link":"http:\/\/bx1.be\/live\/",
-      "http":"http:\/\/bx1.be\/"
-   },
-   {
-      "name":"TV Oost",
-      "logo":"Oost",
-      "link":"http:\/\/www.tvoost.be\/live",
-      "http":"http:\/\/www.tvoost.be\/"
-   },
-   {
-      "name":"TeleMB",
-      "logo":"TeleMB",
-      "link":"http:\/\/www.telemb.be\/direct",
-      "http":"http:\/\/www.telemb.be\/"
-   },
-   {
-      "name":"Euronews",
-      "logo":"Euronews",
-      "link":"http:\/\/fr.euronews.com\/live",
-      "http":"https:\/\/www.youtube.com\/user\/euronewsfr\/videos?live_view=501&flow=grid&view=2"
-   },
-   {
-      "name":"Bloomberg TV Europe",
-      "logo":"bloomberg",
-      "link":"https:\/\/www.bloomberg.com\/live\/europe",
-      "http":"https:\/\/www.bloomberg.com\/live\/us"
-   },
-   {
-      "name":"Notele",
-      "logo":"Notele",
-      "link":"http:\/\/www.notele.be\/home\/live",
-      "http":"http:\/\/www.notele.be\/"
-   },
-   {
-      "name":"ACTV Antenne Centre",
-      "logo":"ACTV",
-      "link":"http:\/\/www.antennecentre.tv\/www\/live",
-      "http":"http:\/\/www.antennecentre.tv\/"
-   },
-   {
-      "name":"Telesambre",
-      "logo":"Telesambre",
-      "link":"http:\/\/www.telesambre.be\/direct",
-      "http":"http:\/\/www.telesambre.be"
-   },
-   {
-      "name":"RTC Tele-Liege",
-      "logo":"RTC",
-      "link":"http:\/\/www.rtc.be\/direct",
-      "http":"http:\/\/www.rtc.be\/live"
-   },
-   {
-      "name":"Televesdre",
-      "logo":"Televesdre",
-      "link":"http:\/\/www.televesdre.eu\/www\/live",
-      "http":"http:\/\/www.televesdre.eu"
-   },
-   {
-      "name":"TVL Limburg",
-      "logo":"TVL",
-      "link":"http:\/\/www.tvl.be\/live",
-      "http":"http:\/\/www.tvl.be"
-   },
-   {
-      "name":"TV Lux",
-      "logo":"Lux",
-      "link":"http:\/\/www.tvlux.be\/direct",
-      "http":"http:\/\/www.tvlux.be\/live"
-   },
-   {
-      "name":"MAtele",
-      "logo":"MAtele",
-      "link":"http:\/\/www.matele.be\/direct",
-      "http":"http:\/\/www.matele.be\/"
-   },
-   {
-      "name":"Canal C",
-      "logo":"C",
-      "link":"http:\/\/www.canalc.be\/live\/",
-      "http":"http:\/\/www.canalc.be\/"
-   },
-   {
-      "name":"Canal Zoom",
-      "logo":"Zoom",
-      "link":"http:\/\/www.canalzoom.com\/live\/",
-      "http":"http:\/\/www.canalzoom.com\/"
-   },
-   {
-      "name":"Dobbit",
-      "logo":"Dobbit",
-      "link":"http:\/\/www.dobbit.be\/nl\/dobbittv",
-      "http":"http:\/\/www.dobbit.be\/nl\/video"
-   },
-   {
-      "name":"Qmusic",
-      "logo":"Qmusic",
-      "link":"http:\/\/qmusic.be\/live\/kijk",
-      "http":"http:\/\/qmusic.be"
-   },
-   {
-      "name":"MNM",
-      "logo":"MNM",
-      "link":"https:\/\/mnm.be\/luister\/live",
-      "http":"https:\/\/mnm.be\/kijk\/live"
-   },
-   {
-      "name":"Ronahi",
-      "logo":"Ronahi",
-      "link":"http:\/\/ronahitv.com\/channel\/view\/zind-ronahi-14",
-      "http":"http:\/\/ronahitv.com\/channels\/Live-now"
-   },
-   {
-      "name":"Sterk",
-      "logo":"Sterk",
-      "link":"http:\/\/sterktv.net\/channel\/view\/zind-13",
-      "http":"http:\/\/sterktv.net\/channels\/Live-now"
+      "fab_visibility":"gone"
    },
    {
       "name":"France 24",
@@ -186,10 +48,22 @@
       "http":"http:\/\/www.bfmtv.com\/"
    },
    {
+      "name":"Euronews",
+      "logo":"Euronews",
+      "link":"http:\/\/fr.euronews.com\/live",
+      "http":"https:\/\/www.youtube.com\/user\/euronewsfr\/videos?live_view=501&flow=grid&view=2"
+   },
+   {
       "name":"Sky News",
       "logo":"Sky",
       "link":"http:\/\/news.sky.com\/watch-live",
       "http":"https:\/\/www.youtube.com\/user\/skynews"
+   },
+   {
+      "name":"Bloomberg TV Europe",
+      "logo":"bloomberg",
+      "link":"https:\/\/www.bloomberg.com\/live\/europe",
+      "http":"https:\/\/www.bloomberg.com\/live\/us"
    },
    {
       "name":"France Info",
@@ -204,10 +78,46 @@
       "http":"http:\/\/www.canalplus.fr\/"
    },
    {
+      "name":"LCP Assembl\u00e9e nationale",
+      "logo":"LCP",
+      "link":"http:\/\/www.lcp.fr\/le-direct\/24-24",
+      "http":"http:\/\/www.lcp.fr\/le-direct"
+   },
+   {
+      "name":"Public Senat",
+      "logo":"Public",
+      "link":"https:\/\/www.publicsenat.fr\/direct",
+      "http":"https:\/\/www.publicsenat.fr\/"
+   },
+   {
+      "name":"Assemblee nationale",
+      "logo":"assemblee",
+      "link":"http:\/\/videos.assemblee-nationale.fr\/direct.php",
+      "http":"http:\/\/www.assemblee-nationale.fr\/"
+   },
+   {
+      "name":"Senat",
+      "logo":"Senat",
+      "link":"http:\/\/videos.senat.fr\/direct",
+      "http":"http:\/\/videos.senat.fr\/direct1"
+   },
+   {
       "name":"Ouatch TV",
       "logo":"ouatch",
       "link":"http:\/\/www.ouatch.tv\/direct.html",
       "http":"http:\/\/www.ouatch.tv\/"
+   },
+   {
+      "name":"Telesud",
+      "logo":"Telesud",
+      "link":"http:\/\/www.telesud.com\/",
+      "http":"http:\/\/www.telesud.com\/"
+   },
+   {
+      "name":"Tele Antilles",
+      "logo":"Antilles",
+      "link":"https:\/\/www.youtube.com\/channel\/UClATtgy59vn0gt5LB4LamrQ",
+      "http":"http:\/\/www.teleantilles.com\/"
    },
    {
       "name":"OUI TELE",
@@ -226,6 +136,12 @@
       "logo":"QVC",
       "link":"https:\/\/www.qvc.fr\/tv\/live.html",
       "http":"https:\/\/www.qvc.fr\/"
+   },
+   {
+      "name":"M6 Boutique & Co",
+      "logo":"M6",
+      "link":"http:\/\/www.m6boutique.com\/Popup\/PopupLiveM6.aspx",
+      "http":"http:\/\/www.m6boutique.com"
    },
    {
       "name":"KTO Television Catholique",
@@ -256,6 +172,144 @@
       "logo":"Astrocenter",
       "link":"http:\/\/mon.astrocenter.fr\/tv\/en-direct",
       "http":"http:\/\/mon.astrocenter.fr\/"
+   },
+   {
+      "name":"Mirabelle",
+      "logo":"Mirabelle",
+      "link":"http:\/\/www.mirabelle.tv\/",
+      "http":"http:\/\/www.mirabelle.tv\/"
+   },
+   {
+      "name":"Alsace 20",
+      "logo":"20",
+      "link":"http:\/\/www.alsace20.tv\/Live.html",
+      "http":"http:\/\/www.alsace20.tv\/"
+   },
+   {
+      "name":"Vosges",
+      "logo":"Vosges",
+      "link":"https:\/\/www.vosgestelevision.tv\/Direct.html",
+      "http":"https:\/\/www.vosgestelevision.tv\/"
+   },
+   {
+      "name":"Nancy-Web",
+      "logo":"Nancy",
+      "link":"http:\/\/www.nancy-webtv.fr\/index.php\/direct",
+      "http":"http:\/\/www.nancy-webtv.fr\/"
+   },
+   {
+      "name":"TV7 Bordeaux",
+      "logo":"7",
+      "link":"http:\/\/www.tv7.com\/",
+      "http":"http:\/\/www.tv7.com\/"
+   },
+   {
+      "name":"TVPI",
+      "logo":"TVPI",
+      "link":"http:\/\/www.tvpi.fr\/",
+      "http":"http:\/\/www.tvpi.fr\/"
+   },
+   {
+      "name":"TLM Tele Lyon Metropole",
+      "logo":"TLM",
+      "link":"http:\/\/tlm.tv\/direct",
+      "http":"http:\/\/tlm.tv\/"
+   },
+   {
+      "name":"Drome Ardeche",
+      "logo":"Drome",
+      "link":"http:\/\/www.dromeardeche.tv\/le-direct",
+      "http":"http:\/\/www.dromeardeche.tv\/"
+   },
+   {
+      "name":"TL7 Television Loire",
+      "logo":"TL7",
+      "link":"http:\/\/www.tl7.fr\/",
+      "http":"http:\/\/www.tl7.fr\/"
+   },
+   {
+      "name":"TeleGrenoble Isere",
+      "logo":"TeleGrenoble",
+      "link":"http:\/\/www.telegrenoble.net\/direct.html",
+      "http":"http:\/\/www.telegrenoble.net\/"
+   },
+   {
+      "name":"TVR - TV Rennes 35",
+      "logo":"TVR",
+      "link":"http:\/\/www.tvr.bzh\/direct",
+      "http":"http:\/\/www.tvr.bzh\/"
+   },
+   {
+      "name":"TebeSud",
+      "logo":"TebeSud",
+      "link":"http:\/\/www.tebesud.fr\/",
+      "http":"http:\/\/www.tebesud.fr\/"
+   },
+   {
+      "name":"Tebeo",
+      "logo":"Tebeo",
+      "link":"http:\/\/www.tebeo.bzh\/le-direct",
+      "http":"http:\/\/www.tebeo.bzh\/"
+   },
+   {
+      "name":"Bip - Berry Issoudun Premiere",
+      "logo":"Bip",
+      "link":"http:\/\/www.biptv.tv\/direct.html",
+      "http":"http:\/\/www.biptv.tv\/"
+   },
+   {
+      "name":"Yvelines Premiere",
+      "logo":"Yvelines",
+      "link":"http:\/\/www.yvelines1.com\/direct\/",
+      "http":"http:\/\/www.yvelines1.com\/"
+   },
+   {
+      "name":"La Chaine Normande",
+      "logo":"Chaine",
+      "link":"http:\/\/www.lachainenormande.tv\/Direct.html",
+      "http":"http:\/\/www.lachainenormande.tv\/"
+   },
+   {
+      "name":"Weo",
+      "logo":"Weo",
+      "link":"http:\/\/www.weo.fr\/direct\/",
+      "http":"http:\/\/www.weo.fr\/"
+   },
+   {
+      "name":"Grand Lille",
+      "logo":"Lille",
+      "link":"http:\/\/www.grandlille.tv\/",
+      "http":"http:\/\/www.grandlille.tv\/"
+   },
+   {
+      "name":"Matele",
+      "logo":"Matele",
+      "link":"http:\/\/www.matele.tv\/direct\/",
+      "http":"http:\/\/www.matele.tv\/"
+   },
+   {
+      "name":"Telenantes",
+      "logo":"Telenantes",
+      "link":"http:\/\/www.telenantes.com\/direct",
+      "http":"http:\/\/www.dailymotion.com\/TELENANTES"
+   },
+   {
+      "name":"LM TV Sarthe",
+      "logo":"LM",
+      "link":"http:\/\/www.lmtv.fr\/",
+      "http":"http:\/\/www.lmtv.fr\/"
+   },
+   {
+      "name":"Angers Tele",
+      "logo":"Angers",
+      "link":"http:\/\/angers-tele.fr\/",
+      "http":"http:\/\/angers-tele.fr\/"
+   },
+   {
+      "name":"Dici (Canal 31)",
+      "logo":"Dici",
+      "link":"http:\/\/www.dici.fr\/tv",
+      "http":"http:\/\/www.dici.fr\/player?tab=tv"
    },
    {
       "name":"Azur",
