@@ -3,6 +3,354 @@
       "banner1":"ca-app-pub-1",
       "banner2":"ca-app-pub-2",
       "splash":"ca-app-pub-3",
-      "fab_visibility":"visible"
+      "fab_visibility":"gone"
+   },
+   {
+      "name":"YTN",
+      "logo":"YTN",
+      "link":"http:\/\/ytn.co.kr\/hd\/hd_live.html",
+      "http":"http:\/\/www.ytn.co.kr\/_cs\/hd_live.html"
+   },
+   {
+      "name":"YTN life",
+      "logo":"life",
+      "link":"http:\/\/life.ytn.co.kr\/hd\/hd_live.php",
+      "http":"https:\/\/www.youtube.com\/user\/ytnweatherlive\/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name":"YTN Science",
+      "logo":"Science",
+      "link":"http:\/\/science.ytn.co.kr\/hd\/hd_live.php",
+      "http":"https:\/\/www.youtube.com\/user\/ytnsciencelive\/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name":"Channel A",
+      "logo":"A",
+      "link":"http:\/\/www.ichannela.com\/com\/cmm\/onair.do",
+      "http":"http:\/\/www.ichannela.com\/"
+   },
+   {
+      "name":"\uc5f0\ud569\ub274\uc2a4TV Yonhap",
+      "logo":"Yonhap",
+      "link":"http:\/\/www.yonhapnewstv.co.kr\/",
+      "http":"http:\/\/www.yonhapnewstv.co.kr\/"
+   },
+   {
+      "name":"KBS \ud55c\uad6d\ubc29\uc1a1\uacf5\uc0ac",
+      "logo":"KBS",
+      "link":"http:\/\/myk.kbs.co.kr\/live\/tv",
+      "http":"http:\/\/www.kbs.co.kr\/"
+   },
+   {
+      "name":"KBS World \uc6d4\ub4dc 24",
+      "logo":"24",
+      "link":"http:\/\/kbsworld.kbs.co.kr\/vod\/onair.php?p_no=live_news24",
+      "http":"http:\/\/kbsworld.kbs.co.kr\/"
+   },
+   {
+      "name":"KBS World \uc6d4\ub4dc TV",
+      "logo":"World",
+      "link":"http:\/\/kbsworld.kbs.co.kr\/vod\/onair.php?p_no=onair",
+      "http":"http:\/\/kbsworld.kbs.co.kr\/"
+   },
+   {
+      "name":"KBS World \uc6d4\ub4dc Latino",
+      "logo":"Latino",
+      "link":"http:\/\/kbsworld.kbs.co.kr\/vod\/onair.php?p_no=latino",
+      "http":"http:\/\/kbsworld.kbs.co.kr\/"
+   },
+   {
+      "name":"OhmyTV \uc624\ub9c8\uc774TV",
+      "logo":"OhmyTV",
+      "link":"https:\/\/www.youtube.com\/user\/OhmynewsTV\/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http":"http:\/\/www.ohmynews.com\/"
+   },
+   {
+      "name":"NTV",
+      "logo":"NTV",
+      "link":"http:\/\/www.n-tv.or.kr\/popup\/on_air.php",
+      "http":"http:\/\/www.n-tv.or.kr\/"
+   },
+   {
+      "name":"SEN \uc11c\uc6b8\uacbd\uc81cTV",
+      "logo":"SEN",
+      "link":"http:\/\/www.sentv.co.kr\/player\/tv\/",
+      "http":"http:\/\/www.sentv.co.kr"
+   },
+   {
+      "name":"Maeil Business \ub9e4\uc77c\uacbd\uc81cTV",
+      "logo":"Maeil",
+      "link":"http:\/\/mbnmoney.mbn.co.kr\/tv\/onair",
+      "http":"http:\/\/mbnmoney.mbn.co.kr\/"
+   },
+   {
+      "name":"SBS CNBC",
+      "logo":"CNBC",
+      "link":"http:\/\/sbscnbc.sbs.co.kr\/onair\/",
+      "http":"http:\/\/sbscnbc.sbs.co.kr\/"
+   },
+   {
+      "name":"Edaily \uc774\ub370\uc77c\ub9acTV",
+      "logo":"Edaily",
+      "link":"http:\/\/tv.edaily.co.kr\/Live\/NormalVod",
+      "http":"http:\/\/tv.edaily.co.kr\/Live\/HighVod"
+   },
+   {
+      "name":"NBN \ub0b4\uc678\uacbd\uc81cTV",
+      "logo":"NBN",
+      "link":"http:\/\/www.nbntv.co.kr\/news\/list.php?mcode=m41mass241",
+      "http":"http:\/\/www.nbntv.co.kr\/"
+   },
+   {
+      "name":"MTN \uba38\ub2c8\ud22c\ub370\uc774\ubc29\uc1a1",
+      "logo":"MTN",
+      "link":"https:\/\/www.youtube.com\/user\/mtn\/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http":"http:\/\/www.mtn.co.kr\/"
+   },
+   {
+      "name":"WOW \ud55c\uad6d\uacbd\uc81cTV",
+      "logo":"WOW",
+      "link":"https:\/\/www.youtube.com\/user\/hkwowtv\/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http":"http:\/\/www.wowtv.co.kr\/"
+   },
+   {
+      "name":"Yes \uc18c\uc0c1\uacf5\uc778 \ubc29\uc1a1",
+      "logo":"Yes",
+      "link":"http:\/\/yestv.or.kr\/onAir1.php",
+      "http":"http:\/\/yestv.or.kr\/onAir.php"
+   },
+   {
+      "name":"FTN \ud55c\uad6d\uc2dd\ud488\uc0b0\uc5c5\ubc29\uc1a1",
+      "logo":"FTN",
+      "link":"http:\/\/ftnvideo.com\/2.php",
+      "http":"http:\/\/ftnvideo.com"
+   },
+   {
+      "name":"G1 \uac15\uc6d0\ubbfc\ubc29",
+      "logo":"G1",
+      "link":"http:\/\/www.g1tv.co.kr\/?type=onair",
+      "http":"http:\/\/www.g1tv.co.kr\/"
+   },
+   {
+      "name":"UBC \uc6b8\uc0b0\ubc29\uc1a1",
+      "logo":"UBC",
+      "link":"http:\/\/web.ubc.co.kr\/wp\/onair_tv",
+      "http":"http:\/\/web.ubc.co.kr\/"
+   },
+   {
+      "name":"OBS Gyeongin OBS\uacbd\uc778TV",
+      "logo":"OBS",
+      "link":"http:\/\/www.obs.co.kr\/obsvod\/popVod_onair.php?onair=Y",
+      "http":"http:\/\/www.obs.co.kr"
+   },
+   {
+      "name":"OBS W \uc624\ube44\uc5d0\uc2a4 \ub354\ube14\uc720",
+      "logo":"OBSW",
+      "link":"http:\/\/www.obsw.co.kr\/player.php?onair=Y",
+      "http":"http:\/\/www.obsw.co.kr"
+   },
+   {
+      "name":"KCTV Gwangju \uad11\uc8fc\ubc29\uc1a1",
+      "logo":"KCTV",
+      "link":"http:\/\/www.kctv.co.kr\/real_vod2.php",
+      "http":"http:\/\/www.kctv.co.kr\/"
+   },
+   {
+      "name":"KCTV Jeju 7 \uad11\uc8fc\ubc29\uc1a1",
+      "logo":"7",
+      "link":"https:\/\/www.kctvjeju.com\/program\/onair.kctv",
+      "http":"https:\/\/www.kctvjeju.com"
+   },
+   {
+      "name":"KCTV Jeju 20 \uad11\uc8fc\ubc29\uc1a1",
+      "logo":"20",
+      "link":"https:\/\/www.kctvjeju.com\/kctvn\/onair.kctv",
+      "http":"https:\/\/www.kctvjeju.com"
+   },
+   {
+      "name":"TBS \uad50\ud1b5\ubc29\uc1a1",
+      "logo":"TBS",
+      "link":"http:\/\/tbs.seoul.kr\/player\/live.do?channelCode=CH_B&tab=tab_c",
+      "http":"https:\/\/www.youtube.com\/user\/seoultbstv\/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name":"Mountain \ub9c8\uc6b4\ud2f4TV",
+      "logo":"Mountain",
+      "link":"http:\/\/www.mountaintv.co.kr\/onair\/",
+      "http":"http:\/\/www.mountaintv.co.kr\/"
+   },
+   {
+      "name":"AsiaN \uc544\uc2dc\uc544N",
+      "logo":"AsiaN",
+      "link":"http:\/\/www.asiantv.co.kr\/live\/",
+      "http":"http:\/\/www.asiantv.co.kr\/"
+   },
+   {
+      "name":"All The K-Pop \uc62c \ub354 \ucf00\uc774\ud31d",
+      "logo":"All",
+      "link":"https:\/\/www.youtube.com\/user\/imbcevery1\/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http":"http:\/\/www.mbcplus.com\/allthe_kpop"
+   },
+   {
+      "name":"EBS 1",
+      "logo":"EBS1",
+      "link":"http:\/\/www.ebs.co.kr\/onair?channelCodeString=tv",
+      "http":"http:\/\/www.ebs.co.kr"
+   },
+   {
+      "name":"EBS 2",
+      "logo":"EBS2",
+      "link":"http:\/\/www.ebs.co.kr\/onair?channelCodeString=tv2",
+      "http":"http:\/\/www.ebs.co.kr"
+   },
+   {
+      "name":"PLUS 1",
+      "logo":"PLUS1",
+      "link":"http:\/\/www.ebs.co.kr\/onair?channelCodeString=plus1",
+      "http":"http:\/\/www.ebs.co.kr"
+   },
+   {
+      "name":"PLUS 2",
+      "logo":"PLUS2",
+      "link":"http:\/\/www.ebs.co.kr\/onair?channelCodeString=plus2",
+      "http":"http:\/\/www.ebs.co.kr"
+   },
+   {
+      "name":"EBSe",
+      "logo":"EBSe",
+      "link":"http:\/\/www.ebs.co.kr\/onair?channelCodeString=ebse",
+      "http":"http:\/\/www.ebs.co.kr"
+   },
+   {
+      "name":"Work \ud55c\uad6d\uc9c1\uc5c5\ubc29\uc1a1",
+      "logo":"Work",
+      "link":"http:\/\/www.worktv.or.kr\/onAir\/onAir.do",
+      "http":"http:\/\/www.worktv.or.kr\/"
+   },
+   {
+      "name":"WBC \ubcf5\uc9c0",
+      "logo":"WBC",
+      "link":"http:\/\/www.iwbc.co.kr\/",
+      "http":"http:\/\/www.iwbc.co.kr\/"
+   },
+   {
+      "name":"KTV \uad6d\ubbfc\ubc29\uc1a1",
+      "logo":"KTV",
+      "link":"http:\/\/www.ktv.go.kr\/onair\/tv",
+      "http":"http:\/\/www.ktv.go.kr\/onair\/tv\/popup"
+   },
+   {
+      "name":"KFN \uad6d\ubc29",
+      "logo":"KFN",
+      "link":"http:\/\/www.dema.mil.kr\/web\/tv\/onAir.do",
+      "http":"http:\/\/www.dema.mil.kr\/web\/main.do"
+   },
+   {
+      "name":"Hmall \ud604\ub300\ud648\uc1fc\ud551",
+      "logo":"Hmall",
+      "link":"http:\/\/www.hyundaihmall.com\/front\/tvMainR.do",
+      "http":"http:\/\/www.hyundaihmall.com\/Home.html"
+   },
+   {
+      "name":"Lotte \ub86f\ub370\ud648\uc1fc\ud551",
+      "logo":"Lotte",
+      "link":"http:\/\/www.lotteimall.com\/tvshop\/tvPlayerPop.lotte",
+      "http":"http:\/\/www.lotteimall.com\/main\/viewMain.lotte?dpml_no=6&tlog=00100_29"
+   },
+   {
+      "name":"CJ\uc624\uc1fc\ud551",
+      "logo":"CJ",
+      "link":"http:\/\/www.cjmall.com\/etv\/broad\/broad_list_all.jsp",
+      "http":"http:\/\/www.cjmall.com\/etv\/broad\/broad_list.jsp?pic=GBTV0004"
+   },
+   {
+      "name":"NS Mall NS\ud648\uc1fc\ud551",
+      "logo":"NS",
+      "link":"http:\/\/www.nsmall.com\/TVHomeShoppingView?storeId=13001&catalogId=18151&langId=-9",
+      "http":"http:\/\/www.nsmall.com"
+   },
+   {
+      "name":"IM Shopping \uacf5\uc601\ud648\uc1fc\ud551",
+      "logo":"IM",
+      "link":"https:\/\/www.immall.co.kr\/tvshopping\/selectLive.do?log=vod",
+      "http":"https:\/\/www.immall.co.kr"
+   },
+   {
+      "name":"Home & Shopping",
+      "logo":"Home",
+      "link":"http:\/\/www.hnsmall.com\/tv.do",
+      "http":"http:\/\/www.hnsmall.com"
+   },
+   {
+      "name":"CPBC \uac00\ud1a8\ub9ad\ud3c9\ud654\ubc29\uc1a1",
+      "logo":"CPBC",
+      "link":"http:\/\/www.cpbc.co.kr\/home\/PBC_OnAirVideoPlayer.html",
+      "http":"http:\/\/www.cpbc.co.kr"
+   },
+   {
+      "name":"CTS \uae30\ub3c5\uad50TV",
+      "logo":"CTS",
+      "link":"http:\/\/www.cts.tv\/vodplayer\/ctshighliveplayer.asp",
+      "http":"http:\/\/www.cts.tv\/"
+   },
+   {
+      "name":"Good \uae30\ub3c5\uad50\ubcf5\uc74c\ubc29\uc1a1",
+      "logo":"Good",
+      "link":"http:\/\/www.goodtv.co.kr\/live.asp",
+      "http":"http:\/\/www.goodtv.co.kr\/"
+   },
+   {
+      "name":"Cchannel C\ucc44\ub110",
+      "logo":"Cchannel",
+      "link":"http:\/\/www.cchannel.com\/popup\/onair",
+      "http":"http:\/\/www.cchannel.com\/"
+   },
+   {
+      "name":"Hope \ucc44\ub110",
+      "logo":"Hope",
+      "link":"http:\/\/hopechannel.kr\/%EB%B0%A9%EC%86%A1-%EC%8B%9C%EC%B2%AD\/%ED%98%B8%ED%94%84%EC%B1%84%EB%84%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C\/",
+      "http":"http:\/\/hopechannel.kr"
+   },
+   {
+      "name":"CGN Christian Global Network",
+      "logo":"CGN",
+      "link":"http:\/\/www.cgntv.net\/onair\/home.cgn",
+      "http":"http:\/\/www.cgntv.net\/"
+   },
+   {
+      "name":"GCN in Korean",
+      "logo":"GCN1",
+      "link":"http:\/\/www.gcntv.org\/KO\/Media\/Viewer\/Live24File.asp?live=KO_W01_24H",
+      "http":"http:\/\/www.gcntv.org"
+   },
+   {
+      "name":"GCN in English",
+      "logo":"GCN2",
+      "link":"http:\/\/www.gcntv.org\/KO\/Media\/Viewer\/Live24File.asp?playtype=FLASH&live=EN_F01_24H",
+      "http":"http:\/\/www.gcntv.org"
+   },
+   {
+      "name":"BTN \ubd88\uad50TV Buddhist True Network",
+      "logo":"BTN",
+      "link":"http:\/\/www.btn.co.kr\/pro\/btnlive_player01ch.asp",
+      "http":"http:\/\/www.btn.co.kr\/"
+   },
+   {
+      "name":"STB \uc0c1\uc0dd\ubc29\uc1a1",
+      "logo":"STB",
+      "link":"http:\/\/www.stb.co.kr\/app\/live\/",
+      "http":"http:\/\/www.stb.co.kr\/"
+   },
+   {
+      "name":"Bloomberg Asia",
+      "logo":"bloomberg",
+      "link":"http:\/\/www.bloomberg.com\/live\/asia",
+      "http":"http:\/\/www.bloomberg.com\/"
+   },
+   {
+      "name":"Sky News",
+      "logo":"Sky",
+      "link":"http:\/\/news.sky.com\/watch-live",
+      "http":"https:\/\/www.youtube.com\/user\/skynews"
    }
 ]
