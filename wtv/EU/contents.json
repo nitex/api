@@ -3,6 +3,1494 @@
       "banner1":"ca-app-pub-1",
       "banner2":"ca-app-pub-2",
       "splash":"ca-app-pub-3",
-      "fab_visibility":"visible"
+      "fab_visibility":"gone"
+   },
+   {
+      "name":"Sky News",
+      "logo":"Sky",
+      "link":"http:\/\/news.sky.com\/watch-live",
+      "http":"https:\/\/www.youtube.com\/user\/skynews"
+   },
+   {
+      "name":"Sky News Arabia",
+      "logo":"SkyAr",
+      "link":"http:\/\/www.skynewsarabia.com\/web\/livestream",
+      "http":"http:\/\/news.sky.com\/watch-live"
+   },
+   {
+      "name":"BBC Persian",
+      "logo":"bbcP",
+      "link":"http:\/\/www.bbc.com\/persian\/tvandradio\/2013\/08\/000001_bbcpersian_livetv",
+      "http":"http:\/\/www.bbc.com\/"
+   },
+   {
+      "name":"BBC Arabic",
+      "logo":"bbc",
+      "link":"http:\/\/www.bbc.co.uk\/arabic\/tvandradio\/2013\/05\/000000_bbcarabic_livetv",
+      "http":"http:\/\/www.bbc.com\/"
+   },
+   {
+      "name":"Bloomberg TV",
+      "logo":"bloomberg",
+      "link":"https:\/\/www.bloomberg.com\/live\/europe",
+      "http":"https:\/\/www.bloomberg.com\/live\/"
+   },
+   {
+      "name":"Euronews English",
+      "logo":"Euronews1",
+      "link":"http:\/\/www.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com"
+   },
+   {
+      "name":"Deutsche Welle English",
+      "logo":"DW2",
+      "link":"http:\/\/www.dw.com\/en\/media-center\/live-tv\/s-100825?channel=1",
+      "http":"http:\/\/www.dw.com\/"
+   },
+   {
+      "name":"Canal+",
+      "logo":"Canal+",
+      "link":"http:\/\/www.canalplus.fr\/pid3580-live-tv-clair.html",
+      "http":"http:\/\/www.canalplus.fr\/"
+   },
+   {
+      "name":"EbS Europe by Satellite",
+      "logo":"EbS+",
+      "link":"http:\/\/ec.europa.eu\/avservices\/ebs\/live.cfm?page=2",
+      "http":"http:\/\/ec.europa.eu\/avservices\/ebs\/schedule.cfm"
+   },
+   {
+      "name":"Arise",
+      "logo":"Arise",
+      "link":"http:\/\/www.arise.tv\/",
+      "http":"http:\/\/www.arise.tv\/"
+   },
+   {
+      "name":"Gibraltar Broadcasting Corporation",
+      "logo":"GBC",
+      "link":"http:\/\/www.gbc.gi\/tv\/watch-live",
+      "http":"http:\/\/www.gbc.gi"
+   },
+   {
+      "name":"RT\u00c9",
+      "logo":"RTE",
+      "link":"http:\/\/www.rte.ie\/news\/player\/live\/7\/",
+      "http":"http:\/\/www.rte.ie\/player\/ua\/live\/7\/"
+   },
+   {
+      "name":"TG4",
+      "logo":"TG4",
+      "link":"http:\/\/www.tg4.ie\/en\/live\/home\/",
+      "http":"http:\/\/www.tg4.ie\/"
+   },
+   {
+      "name":"C\u00fala4",
+      "logo":"cula4",
+      "link":"http:\/\/www.tg4.ie\/en\/live\/cula4\/",
+      "http":"http:\/\/www.tg4.ie\/"
+   },
+   {
+      "name":"Nuacht TG4",
+      "logo":"nuacht",
+      "link":"http:\/\/www.tg4.ie\/en\/live\/nuacht-tg4\/",
+      "http":"http:\/\/www.tg4.ie\/"
+   },
+   {
+      "name":"BFM Paris",
+      "logo":"Paris",
+      "link":"http:\/\/www.bfmtv.com\/mediaplayer\/live-bfm-paris\/",
+      "http":"http:\/\/www.bfmtv.com\/"
+   },
+   {
+      "name":"France 24",
+      "logo":"France",
+      "link":"http:\/\/www.france24.com\/fr\/tv-en-direct-chaine-live\/",
+      "http":"http:\/\/www.dailymotion.com\/france24"
+   },
+   {
+      "name":"iTELE",
+      "logo":"iTELE",
+      "link":"http:\/\/www.dailymotion.com\/ITELE",
+      "http":"http:\/\/www.itele.fr\/direct"
+   },
+   {
+      "name":"BFMTV",
+      "logo":"BFMTV",
+      "link":"http:\/\/www.bfmtv.com\/mediaplayer\/live-video\/",
+      "http":"http:\/\/www.bfmtv.com\/"
+   },
+   {
+      "name":"France Info",
+      "logo":"francetvinfo",
+      "link":"http:\/\/www.francetvinfo.fr\/en-direct\/tv.html",
+      "http":"http:\/\/www.francetvinfo.fr\/"
+   },
+   {
+      "name":"EbS+ Europe by Satellite",
+      "logo":"EbS",
+      "link":"http:\/\/ec.europa.eu\/avservices\/ebs\/live.cfm?page=1",
+      "http":"http:\/\/ec.europa.eu\/avservices\/ebs\/schedule.cfm"
+   },
+   {
+      "name":"NPO Nieuws",
+      "logo":"Nieuws",
+      "link":"http:\/\/nos.nl\/livestream\/npo-nieuws",
+      "http":"https:\/\/www.npo.nl\/live\/npo-nieuws"
+   },
+   {
+      "name":"NPO Politiek",
+      "logo":"Politiek",
+      "link":"http:\/\/nos.nl\/livestream\/npo-politiek",
+      "http":"https:\/\/www.npo.nl\/live\/npo-politiek"
+   },
+   {
+      "name":"NPO 1",
+      "logo":"NPO1",
+      "link":"https:\/\/www.npo.nl\/live\/npo-1",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO 2",
+      "logo":"NPO2",
+      "link":"https:\/\/www.npo.nl\/live\/npo-2",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO 3",
+      "logo":"NPO3",
+      "link":"https:\/\/www.npo.nl\/npo3",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"Deutsche Welle",
+      "logo":"DW1",
+      "link":"http:\/\/www.dw.com\/en\/media-center\/live-tv\/s-100825?channel=5",
+      "http":"http:\/\/www.dw.com\/en\/media-center\/live-tv\/s-100825?channel=4"
+   },
+   {
+      "name":"n-tv",
+      "logo":"n",
+      "link":"http:\/\/www.n-tv.de\/mediathek\/livestream\/",
+      "http":"http:\/\/www.n-tv.de"
+   },
+   {
+      "name":"Tagesschau",
+      "logo":"Tagesschau",
+      "link":"http:\/\/www.tagesschau.de\/multimedia\/livestreams\/livestream1\/index.html",
+      "http":"http:\/\/programm.tagesschau24.de\/"
+   },
+   {
+      "name":"Das Erste",
+      "logo":"Erste",
+      "link":"http:\/\/www.daserste.de\/live\/index.html",
+      "http":"http:\/\/www.daserste.de\/"
+   },
+   {
+      "name":"3sat",
+      "logo":"sat",
+      "link":"http:\/\/www.3sat.de\/webtv\/?live24.rm",
+      "http":"http:\/\/www.3sat.de\/mediathek\/?mode=play&obj=42667"
+   },
+   {
+      "name":"WDR",
+      "logo":"WDR",
+      "link":"http:\/\/www1.wdr.de\/mediathek\/video\/live\/index.html",
+      "http":"http:\/\/www1.wdr.de"
+   },
+   {
+      "name":"SR",
+      "logo":"S",
+      "link":"http:\/\/www.sr.de\/sr\/fernsehen\/livestream\/",
+      "http":"http:\/\/www.sr.de\/"
+   },
+   {
+      "name":"NDR",
+      "logo":"NDR",
+      "link":"http:\/\/www.ndr.de\/fernsehen\/livestream\/index.html",
+      "http":"http:\/\/www.ndr.de\/fernsehen\/livestream\/livestream219.html"
+   },
+   {
+      "name":"MDR SACHSEN",
+      "logo":"MDR",
+      "link":"http:\/\/www.mdr.de\/mediathek\/livestreams\/fernsehen\/index.html",
+      "http":"http:\/\/www.mdr.de\/tv\/index.html"
+   },
+   {
+      "name":"HR hessenschau",
+      "logo":"hessenschau",
+      "link":"http:\/\/hessenschau.de\/tv-sendung\/livestream-fernsehen-100.html",
+      "http":"http:\/\/www.hr-online.de\/website\/fernsehen\/sendungen\/livestream.jsp"
+   },
+   {
+      "name":"Der Spiegel",
+      "logo":"Spiegel",
+      "link":"http:\/\/www.spiegel.tv\/filme\/chance-oder-scheitern\/",
+      "http":"http:\/\/www.spiegel.de\/"
+   },
+   {
+      "name":"ZDF",
+      "logo":"ZDF",
+      "link":"https:\/\/www.zdf.de\/live-tv",
+      "http":"https:\/\/www.zdf.de\/"
+   },
+   {
+      "name":"RTS Info",
+      "logo":"Inf",
+      "link":"https:\/\/www.rts.ch\/play\/tv\/rts-info\/video\/la-chane-dinformation-rts-info-en-continu?id=1967124",
+      "http":"http:\/\/www.rts.ch\/"
+   },
+   {
+      "name":"RTS Un",
+      "logo":"Un",
+      "link":"http:\/\/www.rts.ch\/play\/tv\/direct#?tvLiveId=3608506",
+      "http":"http:\/\/www.rts.ch\/"
+   },
+   {
+      "name":"RTS Deux",
+      "logo":"Deux",
+      "link":"http:\/\/www.rts.ch\/play\/tv\/direct#?tvLiveId=3608517",
+      "http":"http:\/\/www.rts.ch\/"
+   },
+   {
+      "name":"SRF 1",
+      "logo":"SRF1",
+      "link":"http:\/\/www.srf.ch\/livestream\/player\/srf-1",
+      "http":"http:\/\/www.rtr.ch\/play\/tv\/live"
+   },
+   {
+      "name":"SRF Zwei",
+      "logo":"SRF2",
+      "link":"http:\/\/www.srf.ch\/livestream\/player\/srf-2",
+      "http":"http:\/\/www.srf.ch\/play\/tv\/live#?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10"
+   },
+   {
+      "name":"SRF Info",
+      "logo":"SRF",
+      "link":"http:\/\/www.srf.ch\/livestream\/player\/srf-info",
+      "http":"http:\/\/www.srf.ch\/play\/tv\/live"
+   },
+   {
+      "name":"La1",
+      "logo":"La1",
+      "link":"http:\/\/www.rtve.es\/directo\/la-1\/",
+      "http":"http:\/\/www.rtve.es\/"
+   },
+   {
+      "name":"La2",
+      "logo":"La2",
+      "link":"http:\/\/www.rtve.es\/directo\/la-2\/",
+      "http":"http:\/\/www.rtve.es\/"
+   },
+   {
+      "name":"24h",
+      "logo":"h24",
+      "link":"http:\/\/www.rtve.es\/directo\/canal-24h\/",
+      "http":"http:\/\/www.rtve.es\/noticias\/mas-24\/"
+   },
+   {
+      "name":"La1 Catalunya",
+      "logo":"Catalunya",
+      "link":"http:\/\/www.rtve.es\/television\/catalunya\/directo\/",
+      "http":"http:\/\/www.rtve.es\/"
+   },
+   {
+      "name":"Libertad Digital",
+      "logo":"Libertad",
+      "link":"http:\/\/tv.libertaddigital.com\/directo.html",
+      "http":"http:\/\/www.libertaddigital.com\/"
+   },
+   {
+      "name":"Telecinco",
+      "logo":"Telecinco",
+      "link":"http:\/\/www.telecinco.es\/endirecto\/",
+      "http":"http:\/\/www.telecinco.es\/"
+   },
+   {
+      "name":"Cuatro",
+      "logo":"Cuatro",
+      "link":"http:\/\/www.cuatro.com\/en-directo\/",
+      "http":"http:\/\/www.cuatro.com\/"
+   },
+   {
+      "name":"RT en Espa\u00f1ol",
+      "logo":"RT",
+      "link":"https:\/\/actualidad.rt.com\/en_vivo",
+      "http":"https:\/\/actualidad.rt.com\/"
+   },
+   {
+      "name":"RTP Internacional",
+      "logo":"RTP",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtpinternacional",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"RTP 1",
+      "logo":"RTP1",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtp1",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"RTP 2",
+      "logo":"RTP2",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtp2",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"RTP 3",
+      "logo":"RTP3",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtp3",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"RTP Mem\u00f3ria",
+      "logo":"Memoria",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtpmemoria",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"RTP Madeira",
+      "logo":"Madeira",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtpmadeira",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"RTP A\u00e7ores",
+      "logo":"Azores",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtpacores",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"RTP \u00c1frica",
+      "logo":"Africa",
+      "link":"http:\/\/www.rtp.pt\/play\/direto\/rtpafrica",
+      "http":"https:\/\/www.rtp.pt\/play\/direto"
+   },
+   {
+      "name":"TVI",
+      "logo":"TVI",
+      "link":"http:\/\/tviplayer.iol.pt\/direto\/TVI",
+      "http":"http:\/\/tviplayer.iol.pt\/direto"
+   },
+   {
+      "name":"TVI24",
+      "logo":"TVI24",
+      "link":"http:\/\/tviplayer.iol.pt\/direto\/TVI24",
+      "http":"http:\/\/www.tvi24.iol.pt\/direto"
+   },
+   {
+      "name":"Sky TG24 Italia",
+      "logo":"Italia",
+      "link":"http:\/\/video.sky.it\/news\/diretta",
+      "http":"http:\/\/video.sky.it\/"
+   },
+   {
+      "name":"Rai News 24",
+      "logo":"Rai24",
+      "link":"http:\/\/www.rainews.it\/dl\/rainews\/live\/ContentItem-3156f2f2-dc70-4953-8e2f-70d7489d4ce9.html",
+      "http":"http:\/\/www.raiplay.it\/dirette\/rainews24"
+   },
+   {
+      "name":"Rai 1",
+      "logo":"Rai1",
+      "link":"http:\/\/www.raiplay.it\/dirette\/rai1",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai 2",
+      "logo":"Rai2",
+      "link":"http:\/\/www.raiplay.it\/dirette\/rai2",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai 3",
+      "logo":"Rai3",
+      "link":"http:\/\/www.raiplay.it\/dirette\/rai3",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai 4",
+      "logo":"Rai4",
+      "link":"http:\/\/www.raiplay.it\/dirette\/rai4",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai 5",
+      "logo":"Rai5",
+      "link":"http:\/\/www.raiplay.it\/dirette\/rai5",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"RaiSport + HD",
+      "logo":"RaiSportHD",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raisportpiuhd",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"RaiSport",
+      "logo":"RaiSport",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raisport",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai Movie",
+      "logo":"Movie",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raimovie",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai Premium",
+      "logo":"Premium",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raipremium",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai YoYo",
+      "logo":"YoYo",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raiyoyo",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai Gulp",
+      "logo":"Gulp",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raigulp",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai Storia",
+      "logo":"Storia",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raistoria",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"Rai Scuola",
+      "logo":"Scuola",
+      "link":"http:\/\/www.raiplay.it\/dirette\/raiscuola",
+      "http":"http:\/\/www.raiplay.it\/dirette"
+   },
+   {
+      "name":"LA7",
+      "logo":"LA7",
+      "link":"http:\/\/www.la7.it\/dirette-tv",
+      "http":"http:\/\/www.la7.it"
+   },
+   {
+      "name":"TGcom 24",
+      "logo":"TGcom",
+      "link":"http:\/\/www.tgcom24.mediaset.it\/",
+      "http":"http:\/\/www.tgcom24.mediaset.it\/"
+   },
+   {
+      "name":"AGR",
+      "logo":"AGR",
+      "link":"http:\/\/www.agrtv.it\/",
+      "http":"http:\/\/www.agrtv.it\/"
+   },
+   {
+      "name":"Reteconomy",
+      "logo":"Reteconomy",
+      "link":"http:\/\/www.reteconomy.it\/live.aspx",
+      "http":"http:\/\/www.reteconomy.it"
+   },
+   {
+      "name":"Class CNBC",
+      "logo":"CNBC",
+      "link":"http:\/\/video.milanofinanza.it\/classcnbc\/",
+      "http":"http:\/\/www.classeditori.it\/"
+   },
+   {
+      "name":"Centro Televisivo Vaticano",
+      "logo":"Vaticano",
+      "link":"http:\/\/www.ctv.va\/content\/ctv\/it\/livetv.html",
+      "http":"http:\/\/www.ctv.va"
+   },
+   {
+      "name":"TVM 1",
+      "logo":"TVM1",
+      "link":"http:\/\/www.tvm.com.mt\/mt\/live\/",
+      "http":"http:\/\/www.tvm.com.mt\/"
+   },
+   {
+      "name":"TVM 2",
+      "logo":"TVM2",
+      "link":"http:\/\/www.tvm.com.mt\/mt\/live\/tvm-2\/",
+      "http":"http:\/\/www.tvm.com.mt\/"
+   },
+   {
+      "name":"NET Television",
+      "logo":"NET",
+      "link":"http:\/\/live.nettv.com.mt\/",
+      "http":"http:\/\/live.nettv.com.mt\/"
+   },
+   {
+      "name":"F Living",
+      "logo":"Living",
+      "link":"http:\/\/fliving.tv\/site\/live-streaming",
+      "http":"http:\/\/fliving.tv"
+   },
+   {
+      "name":"One",
+      "logo":"One",
+      "link":"http:\/\/www.one.com.mt\/live\/one.html",
+      "http":"http:\/\/www.one.com.mt\/"
+   },
+   {
+      "name":"Smash",
+      "logo":"Smash",
+      "link":"http:\/\/www.ustream.tv\/channel\/smash-tv-malta\/pop-out",
+      "http":"https:\/\/www.facebook.com\/Smash-TV-Malta-122848811119080\/"
+   },
+   {
+      "name":"RTL T\u00e9l\u00e9 L\u00ebtzebuerg",
+      "logo":"RTL",
+      "link":"http:\/\/tele.rtl.lu\/livestream\/1ten_rtl\/",
+      "http":"http:\/\/tele.rtl.lu\/livestream\/"
+   },
+   {
+      "name":"RTV San Marino SAT",
+      "logo":"RTV1",
+      "link":"http:\/\/www.smtvsanmarino.sm\/programmi\/web-tv",
+      "http":"http:\/\/www.smtvsanmarino.sm"
+   },
+   {
+      "name":"RTV San Marino Sport",
+      "logo":"RTV2",
+      "link":"http:\/\/www.smtvsanmarino.sm\/programmi\/web-tv-sport",
+      "http":"http:\/\/www.smtvsanmarino.sm"
+   },
+   {
+      "name":"Monaco Info",
+      "logo":"Monaco",
+      "link":"http:\/\/www.monacochannel.mc\/Le-Direct",
+      "http":"http:\/\/www.monacochannel.mc"
+   },
+   {
+      "name":"RTVA Andorra",
+      "logo":"Andorra",
+      "link":"http:\/\/www.andorradifusio.ad\/Endirecte\/atv",
+      "http":"http:\/\/www.andorradifusio.ad"
+   },
+   {
+      "name":"OE24",
+      "logo":"OE24",
+      "link":"http:\/\/www.oe24.at\/tv",
+      "http":"http:\/\/www.oe24.at"
+   },
+   {
+      "name":"TV 2 \u00d8stjylland",
+      "logo":"Oj",
+      "link":"http:\/\/www.tv2oj.dk\/live-tv",
+      "http":"http:\/\/www.tv2oj.dk"
+   },
+   {
+      "name":"KNR - Kalaallit Nunaata Radioa",
+      "logo":"KNR1",
+      "link":"http:\/\/knr.gl\/kl\/tv\/livetv",
+      "http":"http:\/\/knr.gl\/kl\/tv"
+   },
+   {
+      "name":"KNR 2 - Kalaallit Nunaata Radioa",
+      "logo":"KNR2",
+      "link":"http:\/\/knr.gl\/kl\/tv\/livetv-knr2",
+      "http":"http:\/\/knr.gl\/kl\/tv"
+   },
+   {
+      "name":"KVF Kringvarp F\u00f8roya",
+      "logo":"KVF",
+      "link":"http:\/\/kvf.fo\/webservice\/player\/sjonvarp",
+      "http":"http:\/\/kvf.fo\/webservice\/player\/logting"
+   },
+   {
+      "name":"R\u00daV",
+      "logo":"RUV1",
+      "link":"http:\/\/www.ruv.is\/ruv",
+      "http":"http:\/\/www.ruv.is\/"
+   },
+   {
+      "name":"R\u00daV 2",
+      "logo":"RUV2",
+      "link":"http:\/\/www.ruv.is\/ruv-2",
+      "http":"http:\/\/www.ruv.is\/"
+   },
+   {
+      "name":"INN",
+      "logo":"INN",
+      "link":"http:\/\/inntv.is\/",
+      "http":"http:\/\/inntv.is\/"
+   },
+   {
+      "name":"Alfa",
+      "logo":"Alf",
+      "link":"http:\/\/www.permanto.fi\/live",
+      "http":"http:\/\/www.permanto.fi"
+   },
+   {
+      "name":"YLE TV1",
+      "logo":"YLE",
+      "link":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-tv1",
+      "http":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-tv1#autoplay=true"
+   },
+   {
+      "name":"YLE TV2",
+      "logo":"TV2",
+      "link":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-tv2",
+      "http":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-tv2#autoplay=true"
+   },
+   {
+      "name":"YLE Fem",
+      "logo":"Fem",
+      "link":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-fem",
+      "http":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-fem#autoplay=true"
+   },
+   {
+      "name":"YLE Teema",
+      "logo":"Teema",
+      "link":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-teema",
+      "http":"http:\/\/areena.yle.fi\/tv\/suorat\/yle-teema#autoplay=true"
+   },
+   {
+      "name":"ETV Eesti Televisioon",
+      "logo":"ETV",
+      "link":"http:\/\/otse.err.ee\/k\/etv",
+      "http":"http:\/\/etv.err.ee\/"
+   },
+   {
+      "name":"ETV 2",
+      "logo":"ETV2",
+      "link":"http:\/\/otse.err.ee\/k\/etv2",
+      "http":"http:\/\/etv2.err.ee\/"
+   },
+   {
+      "name":"ETV plus",
+      "logo":"ETVPlus",
+      "link":"http:\/\/otse.err.ee\/k\/etvpluss",
+      "http":"http:\/\/etv.err.ee\/"
+   },
+   {
+      "name":"Riga TV 24",
+      "logo":"Riga",
+      "link":"http:\/\/play24.lv\/par-mums\/tiesraide",
+      "http":"http:\/\/www.rigatv24.lv\/"
+   },
+   {
+      "name":"Re:TV",
+      "logo":"Re",
+      "link":"http:\/\/www.retv.lv\/",
+      "http":"http:\/\/www.retv.lv\/"
+   },
+   {
+      "name":"LTV 1",
+      "logo":"LTV1",
+      "link":"http:\/\/ltv.lsm.lv\/lv\/tieshraide\/ltv1-test\/live.360\/",
+      "http":"http:\/\/ltv.lsm.lv\/"
+   },
+   {
+      "name":"LTV 7",
+      "logo":"LTV7",
+      "link":"http:\/\/ltv.lsm.lv\/lv\/tieshraide\/ltv7-test\/live.782\/",
+      "http":"http:\/\/ltv.lsm.lv\/"
+   },
+   {
+      "name":"LRT",
+      "logo":"LRT",
+      "link":"http:\/\/www.lrt.lt\/mediateka\/tiesiogiai\/lrt-televizija",
+      "http":"http:\/\/www.lrt.lt\/"
+   },
+   {
+      "name":"LRT Lituanica",
+      "logo":"Lituanica",
+      "link":"http:\/\/www.lrt.lt\/mediateka\/tiesiogiai\/lrt-lituanica",
+      "http":"http:\/\/www.lrt.lt\/"
+   },
+   {
+      "name":"Lietuvos Rytas",
+      "logo":"Rytas",
+      "link":"http:\/\/tv.lrytas.lt\/live\/",
+      "http":"http:\/\/tv.lrytas.lt\/"
+   },
+   {
+      "name":"Telewizja WTK",
+      "logo":"WTK",
+      "link":"http:\/\/www.wtkplay.pl\/live",
+      "http":"http:\/\/www.wtk.pl\/live"
+   },
+   {
+      "name":"TVP3",
+      "logo":"TVP3",
+      "link":"http:\/\/warszawa.tvp.pl\/",
+      "http":"http:\/\/tvp3.tvp.pl\/"
+   },
+   {
+      "name":"TVP",
+      "logo":"TVP",
+      "link":"http:\/\/tvpstream.tvp.pl\/",
+      "http":"http:\/\/www.tvp.pl\/tvplayer?channel_id=1455&autoplay=true"
+   },
+   {
+      "name":"\u010cT24",
+      "logo":"24",
+      "link":"http:\/\/www.ceskatelevize.cz\/ct24#live",
+      "http":"http:\/\/www.ceskatelevize.cz\/ct24\/zive-vysilani\/"
+   },
+   {
+      "name":"\u010cT1",
+      "logo":"CT1",
+      "link":"http:\/\/www.ceskatelevize.cz\/ct1\/zive\/",
+      "http":"http:\/\/www.ceskatelevize.cz\/ivysilani\/zive"
+   },
+   {
+      "name":"\u010cT2",
+      "logo":"CT2",
+      "link":"http:\/\/www.ceskatelevize.cz\/ct2\/zive\/",
+      "http":"http:\/\/www.ceskatelevize.cz\/"
+   },
+   {
+      "name":"RTVS 1",
+      "logo":"RTVS1",
+      "link":"http:\/\/www.rtvs.sk\/televizia\/live-1",
+      "http":"http:\/\/www.rtvs.sk\/televizia\/tv"
+   },
+   {
+      "name":"RTVS 2",
+      "logo":"RTVS2",
+      "link":"http:\/\/www.rtvs.sk\/televizia\/live-2",
+      "http":"http:\/\/www.rtvs.sk\/televizia\/tv"
+   },
+   {
+      "name":"RTVS O",
+      "logo":"O",
+      "link":"http:\/\/www.rtvs.sk\/televizia\/live-o",
+      "http":"http:\/\/www.rtvs.sk\/televizia\/tv"
+   },
+   {
+      "name":"RTVS NR SR",
+      "logo":"SR",
+      "link":"http:\/\/www.rtvs.sk\/televizia\/live-nr-sr",
+      "http":"http:\/\/www.rtvs.sk\/televizia\/tv"
+   },
+   {
+      "name":"TA3",
+      "logo":"3",
+      "link":"http:\/\/www.ta3.com\/live.html",
+      "http":"http:\/\/www.ta3.com\/"
+   },
+   {
+      "name":"Osem",
+      "logo":"Osem",
+      "link":"http:\/\/www.tv8.sk\/wp\/?p=104",
+      "http":"http:\/\/www.tv8.sk"
+   },
+   {
+      "name":"TVA",
+      "logo":"TVA",
+      "link":"http:\/\/tva.sk\/zive-vysielanie\/",
+      "http":"http:\/\/tva.sk\/"
+   },
+   {
+      "name":"JOJ",
+      "logo":"JOJ",
+      "link":"https:\/\/live.joj.sk\/",
+      "http":"https:\/\/www.joj.sk\/"
+   },
+   {
+      "name":"JOJ Plus",
+      "logo":"Plus",
+      "link":"https:\/\/plus.joj.sk\/live",
+      "http":"https:\/\/plus.joj.sk\/"
+   },
+   {
+      "name":"WAU",
+      "logo":"WAU",
+      "link":"https:\/\/wau.joj.sk\/live",
+      "http":"https:\/\/wau.joj.sk\/"
+   },
+   {
+      "name":"M1",
+      "logo":"M1",
+      "link":"http:\/\/www.mediaklikk.hu\/m1-elo\/",
+      "http":"http:\/\/www.mediaklikk.hu\/"
+   },
+   {
+      "name":"M2",
+      "logo":"M2",
+      "link":"http:\/\/www.mediaklikk.hu\/m2-elo",
+      "http":"http:\/\/www.mediaklikk.hu\/"
+   },
+   {
+      "name":"M5",
+      "logo":"M5",
+      "link":"http:\/\/www.mediaklikk.hu\/m5-elo",
+      "http":"http:\/\/www.mediaklikk.hu\/"
+   },
+   {
+      "name":"Duna",
+      "logo":"Duna",
+      "link":"http:\/\/www.mediaklikk.hu\/duna-elo",
+      "http":"http:\/\/www.mediaklikk.hu\/"
+   },
+   {
+      "name":"Duna World",
+      "logo":"DunaWorld",
+      "link":"http:\/\/www.mediaklikk.hu\/duna-world-elo",
+      "http":"http:\/\/www.mediaklikk.hu\/"
+   },
+   {
+      "name":"ATV",
+      "logo":"ATV",
+      "link":"http:\/\/www.atv.hu\/elo-adas",
+      "http":"http:\/\/www.atv.hu\/"
+   },
+   {
+      "name":"Budapest Eur\u00f3pa Telev\u00edzi\u00f3",
+      "logo":"Budapest",
+      "link":"http:\/\/www.bpetv.org\/bp-europa-televizio-budapest-online-tv-adas",
+      "http":"http:\/\/www.bpetv.org\/"
+   },
+   {
+      "name":"Nova24TV",
+      "logo":"Nova24TV",
+      "link":"http:\/\/nova24tv.si\/tv-v-zivo\/",
+      "http":"http:\/\/nova24tv.si\/"
+   },
+   {
+      "name":"Top TV",
+      "logo":"Top",
+      "link":"http:\/\/toptv.si\/v_zivo\/",
+      "http":"http:\/\/toptv.si"
+   },
+   {
+      "name":"\u0420\u0422\u0421 \u0420\u0430\u0434\u0438\u043e-\u0442\u0435\u043b\u0435\u0432\u0438\u0437\u0438\u0458\u0430 \u0421\u0440\u0431\u0438\u0458\u0435",
+      "logo":"RTS",
+      "link":"http:\/\/www.rts.rs\/page\/tv\/ci\/live.html",
+      "http":"http:\/\/www.rts.rs\/"
+   },
+   {
+      "name":"N1 Srbija",
+      "logo":"Srbija",
+      "link":"http:\/\/rs.n1info.com\/N1-Uzivo",
+      "http":"http:\/\/rs.n1info.com"
+   },
+   {
+      "name":"\u0395\u03a1\u03a41",
+      "logo":"\u0395\u03a1\u03a41",
+      "link":"http:\/\/webtv.ert.gr\/ert1\/",
+      "http":"http:\/\/webtv.ert.gr\/"
+   },
+   {
+      "name":"\u0395\u03a1\u03a42",
+      "logo":"\u0395\u03a1\u03a42",
+      "link":"http:\/\/webtv.ert.gr\/ert2\/",
+      "http":"http:\/\/webtv.ert.gr\/"
+   },
+   {
+      "name":"\u0395\u03a1\u03a43",
+      "logo":"\u0395\u03a1\u03a43",
+      "link":"http:\/\/webtv.ert.gr\/ert3\/",
+      "http":"http:\/\/webtv.ert.gr\/"
+   },
+   {
+      "name":"\u0395\u03a1\u03a4 World",
+      "logo":"\u0395\u03a1\u03a4",
+      "link":"http:\/\/webtv.ert.gr\/ertworld\/",
+      "http":"http:\/\/webtv.ert.gr\/"
+   },
+   {
+      "name":"SBC",
+      "logo":"SBC",
+      "link":"http:\/\/www.sbctv.gr\/",
+      "http":"http:\/\/www.sbctv.gr\/"
+   },
+   {
+      "name":"Alpha",
+      "logo":"Alpha",
+      "link":"http:\/\/www.alphatv.gr\/webtv\/live",
+      "http":"http:\/\/www.alphatv.gr"
+   },
+   {
+      "name":"Skai",
+      "logo":"Skai",
+      "link":"http:\/\/www.skai.gr\/player\/tvlive\/",
+      "http":"http:\/\/www.skai.gr"
+   },
+   {
+      "name":"Euronews Greek",
+      "logo":"Greek",
+      "link":"http:\/\/gr.euronews.com\/live",
+      "http":"http:\/\/gr.euronews.com"
+   },
+   {
+      "name":"Star",
+      "logo":"Star",
+      "link":"http:\/\/www.star.gr\/tv\/el\/Pages\/LiveStream.aspx",
+      "http":"http:\/\/www.star.gr"
+   },
+   {
+      "name":"\u0411\u041d\u0422 World",
+      "logo":"World",
+      "link":"http:\/\/tv.bnt.bg\/bntworld\/",
+      "http":"http:\/\/tv.bnt.bg"
+   },
+   {
+      "name":"\u0411\u041d\u0422 1",
+      "logo":"11",
+      "link":"http:\/\/tv.bnt.bg\/bnt1",
+      "http":"http:\/\/tv.bnt.bg"
+   },
+   {
+      "name":"\u0411\u041d\u0422 2",
+      "logo":"2",
+      "link":"http:\/\/tv.bnt.bg\/bnt2",
+      "http":"http:\/\/tv.bnt.bg"
+   },
+   {
+      "name":"\u0411\u041d\u0422 HD",
+      "logo":"HD",
+      "link":"http:\/\/tv.bnt.bg\/bnthd",
+      "http":"http:\/\/tv.bnt.bg"
+   },
+   {
+      "name":"\u0415\u0432\u0440\u043e\u043a\u043e\u043c",
+      "logo":"Evrokom",
+      "link":"http:\/\/eurocom.bg\/live",
+      "http":"http:\/\/eurocom.bg"
+   },
+   {
+      "name":"\u041d\u043e\u0432\u0430 \u0442\u0435\u043b\u0435\u0432\u0438\u0437\u0438\u044f",
+      "logo":"Nova",
+      "link":"https:\/\/nova.bg\/live\/",
+      "http":"https:\/\/nova.bg"
+   },
+   {
+      "name":"TV1",
+      "logo":"TV1",
+      "link":"http:\/\/www.tv1channel.org\/",
+      "http":"http:\/\/www.tv1channel.org\/index.php\/livetv"
+   },
+   {
+      "name":"Bulgaria on Air",
+      "logo":"Air",
+      "link":"http:\/\/www.bgonair.bg\/tvonline",
+      "http":"http:\/\/www.bgonair.bg"
+   },
+   {
+      "name":"\u0410\u043b\u0444\u0430",
+      "logo":"Alfa",
+      "link":"https:\/\/www.youtube.com\/user\/isocomputers\/live",
+      "http":"http:\/\/www.alfa.bg\/"
+   },
+   {
+      "name":"TVR International",
+      "logo":"TVR1",
+      "link":"http:\/\/www.tvrplus.ro\/live-tvr-international",
+      "http":"http:\/\/www.tvrplus.ro"
+   },
+   {
+      "name":"Realitatea TV",
+      "logo":"Realitatea1",
+      "link":"http:\/\/webtv.realitatea.net\/live?international=1",
+      "http":"https:\/\/www.realitatea.net\/"
+   },
+   {
+      "name":"Realitatea Interna\u0163ional",
+      "logo":"Realitatea2",
+      "link":"http:\/\/webtv.realitatea.net\/live",
+      "http":"https:\/\/www.realitatea.net\/"
+   },
+   {
+      "name":"Antena3",
+      "logo":"Antena",
+      "link":"http:\/\/antenaplay.ro\/live\/antena-international",
+      "http":"https:\/\/live.antena3.ro\/"
+   },
+   {
+      "name":"B1",
+      "logo":"B1",
+      "link":"http:\/\/www.b1.ro\/live.php",
+      "http":"http:\/\/www.b1.ro"
+   },
+   {
+      "name":"Digi 24",
+      "logo":"Digi",
+      "link":"http:\/\/www.digi24.ro\/live\/digi24",
+      "http":"http:\/\/www.digi24.ro"
+   },
+   {
+      "name":"Rom\u00e2nia TV",
+      "logo":"Romania",
+      "link":"http:\/\/www.romaniatv.net\/live",
+      "http":"http:\/\/www.romaniatv.net"
+   },
+   {
+      "name":"Na\u0219ul",
+      "logo":"Nasul",
+      "link":"http:\/\/www.nasul.tv\/live\/",
+      "http":"http:\/\/www.nasul.tv"
+   },
+   {
+      "name":"\u0218tirile Pro TV News",
+      "logo":"Stirile",
+      "link":"http:\/\/stirileprotv.ro\/protvnews\/",
+      "http":"http:\/\/stirileprotv.ro"
+   },
+   {
+      "name":"TRM",
+      "logo":"TRM",
+      "link":"http:\/\/www.trm.md\/ro\/tv-on-line\/",
+      "http":"http:\/\/www.trm.md"
+   },
+   {
+      "name":"Publika",
+      "logo":"Publika",
+      "link":"http:\/\/www.publika.md\/live",
+      "http":"http:\/\/www.publika.md"
+   },
+   {
+      "name":"Pro TV Chi\u015fin\u0103u",
+      "logo":"Pro",
+      "link":"http:\/\/protv.md\/protv-live.html",
+      "http":"http:\/\/protv.md"
+   },
+   {
+      "name":"Realitatea",
+      "logo":"Realitatea",
+      "link":"http:\/\/www.realitatea.md\/tv",
+      "http":"http:\/\/www.realitatea.md"
+   },
+   {
+      "name":"TVR Moldova",
+      "logo":"Moldova",
+      "link":"http:\/\/www.tvrplus.ro\/live-tvr-moldova",
+      "http":"http:\/\/www.tvrplus.ro"
+   },
+   {
+      "name":"100% NEWS",
+      "logo":"100",
+      "link":"http:\/\/www.100news.tv\/p\/blog-page_7972.html",
+      "http":"http:\/\/www.100news.tv\/"
+   },
+   {
+      "name":"112",
+      "logo":"112",
+      "link":"http:\/\/ua.112.ua\/live",
+      "http":"http:\/\/ua.112.ua\/"
+   },
+   {
+      "name":"5",
+      "logo":"5",
+      "link":"http:\/\/www.5.ua\/live\/",
+      "http":"http:\/\/www.5.ua\/"
+   },
+   {
+      "name":"\u0413\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u0435",
+      "logo":"gromadske",
+      "link":"http:\/\/hromadske.ua\/stream",
+      "http":"http:\/\/hromadske.ua"
+   },
+   {
+      "name":"UBR",
+      "logo":"ubr",
+      "link":"http:\/\/tv.ubr.ua\/",
+      "http":"http:\/\/ubr.ua\/"
+   },
+   {
+      "name":"1+1 International",
+      "logo":"1+1",
+      "link":"http:\/\/int.1plus1.ua\/dyvitsya\/archiv\/onlayn-translyaciya-284028.html",
+      "http":"http:\/\/int.1plus1.ua\/"
+   },
+   {
+      "name":"\u041f\u0415\u0420\u0428\u0418\u0419",
+      "logo":"1",
+      "link":"http:\/\/1tv.com.ua\/live",
+      "http":"http:\/\/1tv.com.ua\/"
+   },
+   {
+      "name":"\u0423\u041a\u0420\u0410\u0407\u041d\u0410",
+      "logo":"ukr",
+      "link":"http:\/\/kanalukraina.tv\/online\/",
+      "http":"http:\/\/kanalukraina.tv\/"
+   },
+   {
+      "name":"\u0410\u041d\u0422 - \u041e\u0431\u0449\u0435\u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+      "logo":"ont",
+      "link":"http:\/\/online.ont.by\/",
+      "http":"http:\/\/ont.by\/"
+   },
+   {
+      "name":"\u0411\u0415\u041b\u0410\u0420\u0423\u0421\u042c 24",
+      "logo":"belarus24",
+      "link":"http:\/\/belarus24.by\/",
+      "http":"http:\/\/www.tvr.by\/televidenie\/belarus-24\/"
+   },
+   {
+      "name":"\u0411\u0415\u041b\u0410\u0420\u0423\u0421\u042c 1",
+      "logo":"belarus1",
+      "link":"http:\/\/www.tvr.by\/televidenie\/belarus-1\/",
+      "http":"http:\/\/www.tvr.by\/"
+   },
+   {
+      "name":"\u0411\u0415\u041b\u0410\u0420\u0423\u0421\u042c 2",
+      "logo":"belarus2",
+      "link":"http:\/\/www.tvr.by\/televidenie\/belarus-2\/",
+      "http":"http:\/\/www.tvr.by\/"
+   },
+   {
+      "name":"\u0411\u0415\u041b\u0410\u0420\u0423\u0421\u042c 3",
+      "logo":"belarus3",
+      "link":"http:\/\/www.3belarus.by\/online",
+      "http":"http:\/\/www.tvr.by\/televidenie\/belarus-3\/"
+   },
+   {
+      "name":"\u0411\u0415\u041b\u0410\u0420\u0423\u0421\u042c 5",
+      "logo":"belarus5",
+      "link":"http:\/\/www.tvr.by\/televidenie\/belarus-5\/",
+      "http":"http:\/\/www.tvr.by\/"
+   },
+   {
+      "name":"\u0421\u0442\u043e\u043b\u0438\u0447\u043d\u043e\u0435 \u0442\u0435\u043b\u0435\u0432\u0438\u0434\u0435\u043d\u0438\u0435",
+      "logo":"ctv",
+      "link":"http:\/\/www.ctv.by\/online",
+      "http":"http:\/\/www.ctv.by\/"
+   },
+   {
+      "name":"\u0411\u0435\u043b\u0441\u0430\u0442",
+      "logo":"belsat",
+      "link":"http:\/\/belsat.eu\/online\/",
+      "http":"https:\/\/www.youtube.com\/user\/ibelsat\/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name":"\u041c\u0418\u0420 24",
+      "logo":"mir",
+      "link":"http:\/\/mirtvr.by\/",
+      "http":"http:\/\/mirtvr.by\/"
+   },
+   {
+      "name":"\u0420\u0411\u041a",
+      "logo":"rbc",
+      "link":"http:\/\/tv.rbc.ru\/",
+      "http":"http:\/\/tv.rbc.ru\/"
+   },
+   {
+      "name":"\u041c\u0422\u0412 \u0421\u0442\u043e\u043b\u0438\u0446\u0430",
+      "logo":"mtv",
+      "link":"http:\/\/www.ustream.tv\/embed\/18605731?html5ui",
+      "http":"http:\/\/mtv-stolica.ru\/"
+   },
+   {
+      "name":"\u041e\u0422\u0420",
+      "logo":"otr",
+      "link":"http:\/\/www.otr-online.ru\/online\/",
+      "http":"http:\/\/www.otr-online.ru\/"
+   },
+   {
+      "name":"LIFENEWS",
+      "logo":"LIFENEWS",
+      "link":"http:\/\/lifenews.ru\/watch-live",
+      "http":"http:\/\/lifenews.ru\/"
+   },
+   {
+      "name":"RT News",
+      "logo":"RT3",
+      "link":"https:\/\/www.rt.com\/on-air\/embed\/",
+      "http":"https:\/\/www.rt.com\/"
+   },
+   {
+      "name":"RT USA",
+      "logo":"RT2",
+      "link":"https:\/\/www.rt.com\/on-air\/rt-america-air\/embed\/",
+      "http":"https:\/\/www.rt.com\/"
+   },
+   {
+      "name":"RT UK",
+      "logo":"RT1",
+      "link":"https:\/\/www.rt.com\/on-air\/rt-uk-air\/embed\/",
+      "http":"https:\/\/www.rt.com\/"
+   },
+   {
+      "name":"RTK 1",
+      "logo":"RTK1",
+      "link":"http:\/\/www.rtklive.com\/sq\/livestream\/rtk1\/",
+      "http":"http:\/\/www.rtklive.com"
+   },
+   {
+      "name":"RTK 3",
+      "logo":"RTK3",
+      "link":"http:\/\/www.rtklive.com\/sq\/livestream\/rtk3\/",
+      "http":"http:\/\/www.rtklive.com"
+   },
+   {
+      "name":"Rrokum",
+      "logo":"Rrokum",
+      "link":"http:\/\/www.rrokum.tv\/live\/",
+      "http":"http:\/\/www.rrokum.tv"
+   },
+   {
+      "name":"Klan Kosova",
+      "logo":"Klan",
+      "link":"http:\/\/klankosova.tv",
+      "http":"http:\/\/klankosova.tv\/#liveStream"
+   },
+   {
+      "name":"Arta",
+      "logo":"Arta",
+      "link":"http:\/\/www.koha.net\/arta-tv\/",
+      "http":"http:\/\/www.koha.net"
+   },
+   {
+      "name":"Tribuna",
+      "logo":"Tribuna",
+      "link":"http:\/\/stream.itprishtina.com\/tribuna\/",
+      "http":"http:\/\/gazetatribuna.com\/"
+   },
+   {
+      "name":"Al Jazeera Balkans",
+      "logo":"Jazeera",
+      "link":"http:\/\/balkans.aljazeera.net\/uzivo",
+      "http":"http:\/\/balkans.aljazeera.net"
+   },
+   {
+      "name":"N1",
+      "logo":"N1",
+      "link":"http:\/\/hr.n1info.com\/N1-Uzivo",
+      "http":"http:\/\/hr.n1info.com"
+   },
+   {
+      "name":"777",
+      "logo":"777",
+      "link":"http:\/\/www.tv777.me\/",
+      "http":"http:\/\/www.tv777.me\/"
+   },
+   {
+      "name":"Crne Gore",
+      "logo":"Crne",
+      "link":"http:\/\/www.rtcg.me\/tv\/tv-uzivo.html",
+      "http":"http:\/\/www.rtcg.me"
+   },
+   {
+      "name":"Ora News",
+      "logo":"Ora",
+      "link":"http:\/\/www.oranews.tv\/live\/",
+      "http":"http:\/\/www.oranews.tv"
+   },
+   {
+      "name":"RTSH 1",
+      "logo":"RTSH1",
+      "link":"http:\/\/rtsh.al\/rtsh-live\/RTSH1-HD.html",
+      "http":"http:\/\/rtsh.al\/rtsh-live\/rtsh-dixhital.html"
+   },
+   {
+      "name":"RTSH 2",
+      "logo":"RTSH2",
+      "link":"http:\/\/rtsh.al\/rtsh-live\/RTSH2-HD.html",
+      "http":"http:\/\/rtsh.al\/rtsh-live\/rtsh-dixhital.html"
+   },
+   {
+      "name":"RTSH 3",
+      "logo":"RTSH3",
+      "link":"http:\/\/rtsh.al\/rtsh-live\/RTSH3-HD.html",
+      "http":"http:\/\/rtsh.al\/rtsh-live\/rtsh-dixhital.html"
+   },
+   {
+      "name":"RTSH Sport",
+      "logo":"Sport",
+      "link":"http:\/\/rtsh.al\/rtsh-live\/RTSH-sport.html",
+      "http":"http:\/\/rtsh.al\/rtsh-live\/rtsh-dixhital.html"
+   },
+   {
+      "name":"RTSH Film",
+      "logo":"Film",
+      "link":"http:\/\/rtsh.al\/rtsh-live\/RTSH_Film.html",
+      "http":"http:\/\/rtsh.al\/rtsh-live\/rtsh-dixhital.html"
+   },
+   {
+      "name":"RTSH Shqip",
+      "logo":"Shqip",
+      "link":"http:\/\/rtsh.al\/rtsh-live\/RTSH_Shqip.html",
+      "http":"http:\/\/rtsh.al\/rtsh-live\/rtsh-dixhital.html"
+   },
+   {
+      "name":"News 24",
+      "logo":"News24",
+      "link":"http:\/\/balkanweb.com\/news24\/news24_live.php",
+      "http":"http:\/\/balkanweb.com"
+   },
+   {
+      "name":"ABC",
+      "logo":"ABC",
+      "link":"http:\/\/www.abcnews.al\/live-stream",
+      "http":"http:\/\/www.abcnews.al\/"
+   },
+   {
+      "name":"Scan",
+      "logo":"Scan",
+      "link":"http:\/\/www.scan-tv.com\/live\/",
+      "http":"http:\/\/www.scan-tv.com"
+   },
+   {
+      "name":"INTV",
+      "logo":"INTV",
+      "link":"http:\/\/www.intv.al\/livetv.html",
+      "http":"http:\/\/www.intv.al\/"
+   },
+   {
+      "name":"Report",
+      "logo":"Report",
+      "link":"http:\/\/report-tv.al\/live\/",
+      "http":"http:\/\/report-tv.al"
+   },
+   {
+      "name":"Tema",
+      "logo":"Tema",
+      "link":"http:\/\/www.tematv.al\/",
+      "http":"http:\/\/www.tematv.al\/"
+   },
+   {
+      "name":"Euronews Deutsch",
+      "logo":"Euronews3",
+      "link":"http:\/\/de.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"EWTN Deutsch",
+      "logo":"EWTN3",
+      "link":"http:\/\/www.ewtn.com\/multimedia\/live_player-es.asp?sat=gerg",
+      "http":"http:\/\/www.ewtn.de\/streaming\/player.php"
+   },
+   {
+      "name":"Hope Germany",
+      "logo":"Hope5",
+      "link":"http:\/\/www.hopetv.org\/watch\/germany\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"QVC Deutschland",
+      "logo":"QVC1",
+      "link":"http:\/\/www.qvc.de\/content\/shop-live-tv.html?langId=-3&storeId=10253&catalogId=10153&sc=LIVE",
+      "http":"http:\/\/www.qvc.de"
+   },
+   {
+      "name":"Euronews Fran\u00e7ais",
+      "logo":"Euronews2",
+      "link":"http:\/\/fr.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"QVC France",
+      "logo":"QVC2",
+      "link":"https:\/\/www.qvc.fr\/tv\/live.html",
+      "http":"https:\/\/www.qvc.fr"
+   },
+   {
+      "name":"Euronews Italiano",
+      "logo":"Euronews4",
+      "link":"http:\/\/it.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"QVC Italia",
+      "logo":"QVC3",
+      "link":"https:\/\/www.qvc.it\/tv\/live.html",
+      "http":"https:\/\/www.qvc.it"
+   },
+   {
+      "name":"Hope International",
+      "logo":"Hope1",
+      "link":"http:\/\/www.hopetv.org\/watch\/international\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"Euronews Portugu\u00eas",
+      "logo":"Euronews6",
+      "link":"http:\/\/pt.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"Hope Portuguese",
+      "logo":"Hope2",
+      "link":"http:\/\/www.hopetv.org\/watch\/portuguese\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"Euronews Espa\u00f1ol",
+      "logo":"Euronews5",
+      "link":"http:\/\/es.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"EWTN Espa\u00f1a",
+      "logo":"EWTN1",
+      "link":"http:\/\/www.ewtn.com\/multimedia\/live_player-es.asp?sat=spas",
+      "http":"http:\/\/www.ewtn.com"
+   },
+   {
+      "name":"Hope Spanish",
+      "logo":"Hope3",
+      "link":"http:\/\/www.hopetv.org\/watch\/hope-channel-south-america\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"Hope Romania",
+      "logo":"Hope4",
+      "link":"http:\/\/www.hopetv.org\/watch\/romania\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"Hope Norwegian",
+      "logo":"Hope6",
+      "link":"http:\/\/www.hopetv.org\/watch\/norwegian\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"Euronews \u0420\u0443\u0441\u0441\u043a\u0438\u0439",
+      "logo":"Euronews7",
+      "link":"http:\/\/ru.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"Hope \u0420\u043e\u0441\u0441\u0438\u044f",
+      "logo":"Hope7",
+      "link":"http:\/\/www.hopetv.org\/watch\/russia\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"Hope Poland",
+      "logo":"Hope8",
+      "link":"http:\/\/www.hopetv.org\/watch\/poland\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"Euronews \u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430",
+      "logo":"Euronews8",
+      "link":"http:\/\/ua.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"Hope \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+      "logo":"Hope9",
+      "link":"http:\/\/www.hopetv.org\/watch\/ukraine\/",
+      "http":"http:\/\/www.hopetv.org\/watch"
+   },
+   {
+      "name":"EWTN UK and Ireland",
+      "logo":"EWTN2",
+      "link":"http:\/\/www.ewtn.com\/multimedia\/live_player-es.asp?sat=uke",
+      "http":"https:\/\/www.ewtn.co.uk\/tv-programmes"
+   },
+   {
+      "name":"Euronews T\u00fcrk\u00e7e",
+      "logo":"Euronews9",
+      "link":"http:\/\/tr.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"Euronews \u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
+      "logo":"Euronews0",
+      "link":"http:\/\/gr.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
+   },
+   {
+      "name":"Euronews Magyar",
+      "logo":"Euronews",
+      "link":"http:\/\/hu.euronews.com\/live",
+      "http":"http:\/\/www.euronews.com\/live"
    }
 ]
