@@ -3,6 +3,408 @@
       "banner1":"ca-app-pub-1",
       "banner2":"ca-app-pub-2",
       "splash":"ca-app-pub-3",
-      "fab_visibility":"visible"
+      "fab_visibility":"gone"
+   },
+   {
+      "name":"NPO Nieuws",
+      "logo":"Nieuws",
+      "link":"http:\/\/nos.nl\/livestream\/npo-nieuws",
+      "http":"https:\/\/www.npo.nl\/live\/npo-nieuws"
+   },
+   {
+      "name":"NPO Politiek",
+      "logo":"Politiek",
+      "link":"http:\/\/nos.nl\/livestream\/npo-politiek",
+      "http":"https:\/\/www.npo.nl\/live\/npo-politiek"
+   },
+   {
+      "name":"NPO 1",
+      "logo":"NPO1",
+      "link":"https:\/\/www.npo.nl\/live\/npo-1",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO 2",
+      "logo":"NPO2",
+      "link":"https:\/\/www.npo.nl\/live\/npo-2",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO 3",
+      "logo":"NPO3",
+      "link":"https:\/\/www.npo.nl\/npo3",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO Cultura",
+      "logo":"Cultura",
+      "link":"https:\/\/www.npo.nl\/live\/npo-cultura",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO 101",
+      "logo":"NPO101",
+      "link":"https:\/\/www.npo.nl\/live\/npo-101",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO Best",
+      "logo":"NPOBest",
+      "link":"https:\/\/www.npo.nl\/live\/npo-best",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"NPO Zapp Xtra",
+      "logo":"Zapp",
+      "link":"https:\/\/www.npo.nl\/live\/npo-zappxtra",
+      "http":"https:\/\/www.npo.nl"
+   },
+   {
+      "name":"SLAM",
+      "logo":"SLAM",
+      "link":"https:\/\/live.slam.nl\/slam-live\/",
+      "http":"https:\/\/www.slam.nl\/slam-tv\/"
+   },
+   {
+      "name":"538",
+      "logo":"538",
+      "link":"http:\/\/www.538.nl\/live\/tv\/index.php",
+      "http":"https:\/\/www.538.nl"
+   },
+   {
+      "name":"AFTV",
+      "logo":"AFTV",
+      "link":"http:\/\/www.aftv.nl\/",
+      "http":"http:\/\/www.aftv.nl\/"
+   },
+   {
+      "name":"RTV Drenthe",
+      "logo":"RTV",
+      "link":"http:\/\/www.rtvdrenthe.nl\/tv",
+      "http":"http:\/\/www.rtvdrenthe.nl\/"
+   },
+   {
+      "name":"Omroep Flevoland",
+      "logo":"Omroep",
+      "link":"http:\/\/www.omroepflevoland.nl\/kijken",
+      "http":"http:\/\/www.omroepflevoland.nl\/"
+   },
+   {
+      "name":"Omrop Frysl\u00e2n",
+      "logo":"Omrop",
+      "link":"http:\/\/www.omropfryslan.nl\/live\/omrop-fryslan-tv",
+      "http":"http:\/\/www.omropfryslan.nl\/"
+   },
+   {
+      "name":"Omrop Klipkar TV",
+      "logo":"Klipkar",
+      "link":"http:\/\/www.omropfryslan.nl\/live\/klipkar-tv",
+      "http":"http:\/\/www.omropfryslan.nl\/"
+   },
+   {
+      "name":"Ede",
+      "logo":"Ede",
+      "link":"http:\/\/www.lokaleomroepede.nl\/live",
+      "http":"http:\/\/www.lokaleomroepede.nl\/"
+   },
+   {
+      "name":"Omroep Gelderland",
+      "logo":"Gelderland",
+      "link":"http:\/\/www.omroepgelderland.nl\/tv",
+      "http":"http:\/\/www.omroepgelderland.nl\/"
+   },
+   {
+      "name":"N1",
+      "logo":"N1",
+      "link":"http:\/\/www.n1.nl\/livestream",
+      "http":"http:\/\/www.n1.nl\/livestream\/content\/page?798"
+   },
+   {
+      "name":"RTV Hattem",
+      "logo":"Hattem",
+      "link":"http:\/\/content.streamone.net\/embed\/account=D5RJNYcbAV42\/livestream=kJZMIKsTN0cQ\/omroep-hattem-tv.html",
+      "http":"http:\/\/www.rtvhattem.nl\/"
+   },
+   {
+      "name":"RTV Arnhem",
+      "logo":"Arnhem",
+      "link":"http:\/\/www.rtv-arnhem.nl\/",
+      "http":"http:\/\/www.rtv-arnhem.nl\/"
+   },
+   {
+      "name":"RTV Noord",
+      "logo":"Noord",
+      "link":"http:\/\/www.rtvnoord.nl\/livetv",
+      "http":"http:\/\/www.rtvnoord.nl\/live"
+   },
+   {
+      "name":"OOG",
+      "logo":"OOG",
+      "link":"https:\/\/www.oogtv.nl\/stream\/popup_tv.php",
+      "http":"https:\/\/www.oogtv.nl\/#"
+   },
+   {
+      "name":"L1",
+      "logo":"L1",
+      "link":"http:\/\/l1-live.nl\/live-l1-tv\/",
+      "http":"http:\/\/l1-live.nl\/"
+   },
+   {
+      "name":"3ML",
+      "logo":"ML",
+      "link":"http:\/\/www.3ml.nl\/gemist.php?id=live",
+      "http":"http:\/\/www.3ml.nl\/swf\/player.swf?autostart=true&provider=rtmp&streamer=rtmp:\/\/fms1.3ml.nl\/livepkgr\/&file=livetv"
+   },
+   {
+      "name":"Omroep Venlo",
+      "logo":"Venlo",
+      "link":"https:\/\/omroepvenlo.nl\/live\/tv",
+      "http":"https:\/\/omroepvenlo.nl\/"
+   },
+   {
+      "name":"Omroep Reindonk",
+      "logo":"Reindonk",
+      "link":"http:\/\/www.reindonk.nl\/livestream",
+      "http":"http:\/\/www.reindonk.nl\/"
+   },
+   {
+      "name":"Weert",
+      "logo":"Weert",
+      "link":"http:\/\/www.weertfmtv.nl\/livestream",
+      "http":"http:\/\/www.weertfmtv.nl\/"
+   },
+   {
+      "name":"Omroep Brabant",
+      "logo":"Brabant",
+      "link":"http:\/\/www.omroepbrabant.nl\/Portal.aspx?type=tv",
+      "http":"http:\/\/www.omroepbrabant.nl\/"
+   },
+   {
+      "name":"HTR Heusden",
+      "logo":"HTR",
+      "link":"http:\/\/www.htrmedia.nl\/content\/televisie\/live-tv",
+      "http":"http:\/\/www.htrmedia.nl\/"
+   },
+   {
+      "name":"Studio040",
+      "logo":"Studio040",
+      "link":"http:\/\/www.studio040.nl\/televisie-online-bekijken.html",
+      "http":"http:\/\/www.studio040.nl\/"
+   },
+   {
+      "name":"NH Nieuws",
+      "logo":"NH",
+      "link":"http:\/\/www.nhnieuws.nl\/live\/tv",
+      "http":"http:\/\/www.nhnieuws.nl\/"
+   },
+   {
+      "name":"SALTO 1",
+      "logo":"SALTO1",
+      "link":"http:\/\/www.salto.nl\/salto1\/",
+      "http":"http:\/\/www.salto.nl\/"
+   },
+   {
+      "name":"SALTO 2",
+      "logo":"SALTO2",
+      "link":"http:\/\/www.salto.nl\/salto2\/",
+      "http":"http:\/\/www.salto.nl\/"
+   },
+   {
+      "name":"AT5",
+      "logo":"AT5",
+      "link":"http:\/\/www.at5.nl\/live",
+      "http":"http:\/\/www.at5.nl\/"
+   },
+   {
+      "name":"RTi Hilversum",
+      "logo":"RTi",
+      "link":"https:\/\/rtihilversum.nl\/televisie\/televisie-live\/",
+      "http":"https:\/\/rtihilversum.nl\/"
+   },
+   {
+      "name":"RTV Purmerend",
+      "logo":"Purmerend",
+      "link":"http:\/\/rtvpurmerend.nl\/televisie\/live",
+      "http":"http:\/\/rtvpurmerend.nl\/"
+   },
+   {
+      "name":"RTV Oost",
+      "logo":"Oost",
+      "link":"http:\/\/www.rtvoost.nl\/tv\/live.aspx",
+      "http":"http:\/\/www.rtvoost.nl\/"
+   },
+   {
+      "name":"RTV Slos",
+      "logo":"Slos",
+      "link":"http:\/\/rtvslos.nl\/rtv-slos-service-tv-live\/",
+      "http":"http:\/\/rtvslos.nl\/"
+   },
+   {
+      "name":"RTV Borne",
+      "logo":"Borne",
+      "link":"http:\/\/www.rtvborne.nl\/livestream",
+      "http":"http:\/\/www.rtvborne.nl\/"
+   },
+   {
+      "name":"Deventer RTV",
+      "logo":"Deventer",
+      "link":"http:\/\/deventerrtv.nl\/televisie\/live",
+      "http":"http:\/\/deventerrtv.nl"
+   },
+   {
+      "name":"RTV Sternet",
+      "logo":"Sternet",
+      "link":"http:\/\/www.rtvsternet.nl\/livestream",
+      "http":"http:\/\/www.rtvsternet.nl\/"
+   },
+   {
+      "name":"RTV IJsselmond",
+      "logo":"IJsselmond",
+      "link":"http:\/\/www.rtvijsselmond.nl\/nl\/live-kijken\/",
+      "http":"http:\/\/content.streamone.net\/embed\/account=BBRIE-6bD0Q2\/livestream=5SYMIucRIJUW\/rtv-ijsselmond-tv.html"
+   },
+   {
+      "name":"RTV Rijnmond",
+      "logo":"Rijnmond",
+      "link":"http:\/\/www.rijnmond.nl\/tv",
+      "http":"http:\/\/www.rijnmond.nl"
+   },
+   {
+      "name":"Omroep West",
+      "logo":"West",
+      "link":"http:\/\/www.omroepwest.nl\/tv",
+      "http":"http:\/\/www.omroepwest.nl"
+   },
+   {
+      "name":"RTV Dordrecht",
+      "logo":"Dordrecht",
+      "link":"http:\/\/www.rtvdordrecht.nl\/livestream",
+      "http":"http:\/\/content.streamone.nl\/embed\/account=OJjm2F\/livestream=r2Dg7AiHkp\/playlist.xspf"
+   },
+   {
+      "name":"Stadsomroep Schiedam",
+      "logo":"Schiedam",
+      "link":"http:\/\/www.stadsomroepschiedam.nl\/tv\/stream",
+      "http":"http:\/\/www.stadsomroepschiedam.nl\/tv\/livestream"
+   },
+   {
+      "name":"WOS",
+      "logo":"WOS",
+      "link":"http:\/\/www.wos.nl\/livestream",
+      "http":"http:\/\/www.wos.nl\/"
+   },
+   {
+      "name":"RTV Utrecht",
+      "logo":"Utrecht",
+      "link":"http:\/\/www.rtvutrecht.nl\/live\/rtvutrecht\/",
+      "http":"http:\/\/www.rtvutrecht.nl\/"
+   },
+   {
+      "name":"UStad",
+      "logo":"UStad",
+      "link":"http:\/\/www.rtvutrecht.nl\/live\/ustad\/",
+      "http":"http:\/\/www.rtvutrecht.nl\/"
+   },
+   {
+      "name":"Ronde Venen",
+      "logo":"Ronde",
+      "link":"http:\/\/rtvrondevenen.nl\/televisie\/live",
+      "http":"http:\/\/rtvrondevenen.nl"
+   },
+   {
+      "name":"Omroep Zeeland",
+      "logo":"Zeeland",
+      "link":"http:\/\/www.omroepzeeland.nl\/streams\/tv\/index.php",
+      "http":"http:\/\/www.omroepzeeland.nl\/"
+   },
+   {
+      "name":"CTV Zeeland",
+      "logo":"CTV",
+      "link":"http:\/\/www.ctvzeeland.nl\/tv\/livestream",
+      "http":"http:\/\/www.ctvzeeland.nl\/"
+   },
+   {
+      "name":"Tweede Kamer - Plenaire zaal",
+      "logo":"Plenaire",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/plenaire-zaal",
+      "http":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/flex1"
+   },
+   {
+      "name":"Tweede Kamer - Thorbeckezaal",
+      "logo":"Thorbeckezaal",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/thorbeckezaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"Tweede Kamer - Groen van Prinstererzaal",
+      "logo":"Groen",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/groen-van-prinstererzaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"Euronews",
+      "logo":"Euronews",
+      "link":"http:\/\/de.euronews.com\/live",
+      "http":"https:\/\/www.youtube.com\/user\/euronewsfr\/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name":"Tweede Kamer - Troelstrazaal",
+      "logo":"Troelstrazaal",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/troelstrazaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"Tweede Kamer - Aletta Jacobszaal",
+      "logo":"Jacobszaal",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/aletta-jacobszaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"Tweede Kamer - Klomp\u00e9zaal",
+      "logo":"Klompezaal",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/klompezaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"EbS Europe by Satellite",
+      "logo":"EbS",
+      "link":"http:\/\/ec.europa.eu\/avservices\/ebs\/live.cfm?page=1",
+      "http":"http:\/\/ec.europa.eu\/avservices\/ebs\/schedule.cfm"
+   },
+   {
+      "name":"Tweede Kamer - Suze Groenewegzaal",
+      "logo":"Suze",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/suze-groenewegzaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"Sky News",
+      "logo":"Sky",
+      "link":"http:\/\/news.sky.com\/watch-live",
+      "http":"https:\/\/www.youtube.com\/user\/skynews"
+   },
+   {
+      "name":"Tweede Kamer - Wttewaall van Stoetwegenzaal",
+      "logo":"Wttewaall",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/wttewaal-van-stoetwegenzaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"Tweede Kamer - Evenementenkanaal",
+      "logo":"Evenementenkanaal",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/evenementenkanaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
+   },
+   {
+      "name":"Bloomberg TV Europe",
+      "logo":"bloomberg",
+      "link":"https:\/\/www.bloomberg.com\/live\/europe",
+      "http":"https:\/\/www.bloomberg.com\/live\/us"
+   },
+   {
+      "name":"Tweede Kamer - Enqu\u00eatezaal",
+      "logo":"Enquetezaal",
+      "link":"https:\/\/www.tweedekamer.nl\/vergaderingen\/livedebat\/enquetezaal",
+      "http":"https:\/\/www.tweedekamer.nl\/"
    }
 ]
