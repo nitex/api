@@ -1,36 +1,136 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-	<array>
-		<dict>
-			<key>name</key>
-			<string>NPO Nieuws</string>
-			<key>logo</key>
-			<string>Nieuws</string>
-			<key>link</key>
-			<string>http://nos.nl/livestream/npo-nieuws</string>
-			<key>http</key>
-			<string>https://www.npo.nl/live/npo-nieuws</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>NPO Politiek</string>
-			<key>logo</key>
-			<string>Politiek</string>
-			<key>link</key>
-			<string>http://nos.nl/livestream/npo-politiek</string>
-			<key>http</key>
-			<string>https://www.npo.nl/live/npo-politiek</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>NPO 1</string>
-			<key>logo</key>
-			<string>NPO1</string>
-			<key>link</key>
-			<string>https://www.npo.nl/live/npo-1</string>
-			<key>http</key>
-			<string>https://www.npo.nl</string>
-		</dict>
-	</array>
+<array>
+	<dict>
+		<key>name</key>
+		<string>NPO Nieuws</string>
+		<key>logo</key>
+		<string>Nieuws</string>
+		<key>link</key>
+		<string>http://nos.nl/livestream/npo-nieuws</string>
+		<key>http</key>
+		<string>https://www.npo.nl/live/npo-nieuws</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Politiek</string>
+		<key>logo</key>
+		<string>Politiek</string>
+		<key>link</key>
+		<string>http://nos.nl/livestream/npo-politiek</string>
+		<key>http</key>
+		<string>https://www.npo.nl/live/npo-politiek</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 1</string>
+		<key>logo</key>
+		<string>NPO1</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-1</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 2</string>
+		<key>logo</key>
+		<string>NPO2</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-2</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 3</string>
+		<key>logo</key>
+		<string>NPO3</string>
+		<key>link</key>
+		<string>https://www.npo.nl/npo3</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Cultura</string>
+		<key>logo</key>
+		<string>Cultura</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-cultura</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO 101</string>
+		<key>logo</key>
+		<string>NPO101</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-101</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Best</string>
+		<key>logo</key>
+		<string>NPOBest</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-best</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>NPO Zapp Xtra</string>
+		<key>logo</key>
+		<string>Zapp</string>
+		<key>link</key>
+		<string>https://www.npo.nl/live/npo-zappxtra</string>
+		<key>http</key>
+		<string>https://www.npo.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>SLAM</string>
+		<key>logo</key>
+		<string>SLAM</string>
+		<key>link</key>
+		<string>https://live.slam.nl/slam-live/</string>
+		<key>http</key>
+		<string>https://www.slam.nl/slam-tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>538</string>
+		<key>logo</key>
+		<string>538</string>
+		<key>link</key>
+		<string>http://www.538.nl/live/tv/index.php</string>
+		<key>http</key>
+		<string>https://www.538.nl</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>AFTV</string>
+		<key>logo</key>
+		<string>AFTV</string>
+		<key>link</key>
+		<string>http://www.aftv.nl/</string>
+		<key>http</key>
+		<string>http://www.aftv.nl/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RTV Drenthe</string>
+		<key>logo</key>
+		<string>RTV</string>
+		<key>link</key>
+		<string>http://www.rtvdrenthe.nl/tv</string>
+		<key>http</key>
+		<string>http://www.rtvdrenthe.nl/</string>
+	</dict>
+</array>
 </plist>
