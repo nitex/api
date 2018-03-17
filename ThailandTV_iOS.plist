@@ -1,16 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<array>
+<dict>
+	<key>IDs</key>
 	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>9</string>
+		<key>Back</key>
+		<string>9</string>
+		<key>Banner</key>
+		<string>3067367970</string>
+		<key>Header</key>
+		<string>9</string>
+		<key>Footer</key>
+		<string>9</string>
+		<key>Application</key>
+		<string>9</string>
+		<key>Developer</key>
+		<string>9</string>
+		<key>Email</key>
+		<string>iden@gmail.com</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<integer>2</integer>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
 		<key>name</key>
 		<string>TV5</string>
 		<key>logo</key>
 		<string>TV5</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://app.tv5.co.th/</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.tv5.co.th/firstpage/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -18,9 +45,9 @@
 		<key>logo</key>
 		<string>BBTV</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.ch7.com/live1.html</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.ch7.com/live.html?ref=index</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -28,19 +55,9 @@
 		<key>logo</key>
 		<string>PBS</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.thaipbs.or.th/live</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>NBT</string>
-		<key>logo</key>
-		<string>NBT</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.thaipbs.or.th</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -48,9 +65,9 @@
 		<key>logo</key>
 		<string>MCOT</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://tv.mcot.net/channel9/MCOT%20HD</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://tv.mcot.net</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -58,9 +75,9 @@
 		<key>logo</key>
 		<string>Family</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://tv.mcot.net/channel-family/MCOT%20Family</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://tv.mcot.net</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -68,9 +85,9 @@
 		<key>logo</key>
 		<string>33</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.thaitv3.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.thaitv3.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -78,9 +95,9 @@
 		<key>logo</key>
 		<string>28</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.thaitv3.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/28</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.thaitv3.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -88,179 +105,9 @@
 		<key>logo</key>
 		<string>13</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.thaitv3.com/%E0%B8%94%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B8%A7%E0%B8%B5%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C/13</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>TNN 24 - ทีเอ็นเอ็น 24</string>
-		<key>logo</key>
-		<string>TNN</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Voice TV 21 วอยซ์ทีวี</string>
-		<key>logo</key>
-		<string>Voice</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Bluesky ฟ้าวันใหม่ (Fahwonmai)</string>
-		<key>logo</key>
-		<string>Bluesky</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Thairath ไทยรัฐทีวี</string>
-		<key>logo</key>
-		<string>Thairath</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>TV 24 (ทีวี 24)</string>
-		<key>logo</key>
-		<string>24</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>NEWS1 ASTV</string>
-		<key>logo</key>
-		<string>NEWS1</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Nation เนชั่นทีวี</string>
-		<key>logo</key>
-		<string>Nation</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>13 Siam Thai (13 สยามไท)</string>
-		<key>logo</key>
-		<string>Siam</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>new)tv นิวทีวี</string>
-		<key>logo</key>
-		<string>new</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Suwannabhumi ทีวีช่องสุวรรณภูมิ</string>
-		<key>logo</key>
-		<string>Suwannabhumi</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Money Channel</string>
-		<key>logo</key>
-		<string>Money</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Parliament โทรทัศน์รัฐสภา</string>
-		<key>logo</key>
-		<string>Parliament</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>PPTV</string>
-		<key>logo</key>
-		<string>PPTV</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Workpoint ช่องเวิร์คพอยท์</string>
-		<key>logo</key>
-		<string>Workpoint</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ช่อง 2 -ThaiCh2</string>
-		<key>logo</key>
-		<string>2</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>M Channel</string>
-		<key>logo</key>
-		<string>M</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>@TV แอททีวี (ATTV)</string>
-		<key>logo</key>
-		<string>ATTV</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.thaitv3.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -268,219 +115,9 @@
 		<key>logo</key>
 		<string>bloomberg</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.bloomberg.com/live/asia</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>NAT</string>
-		<key>logo</key>
-		<string>NAT</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Hi Sport</string>
-		<key>logo</key>
-		<string>Hi</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Amarin อมรินทร์ทีวี</string>
-		<key>logo</key>
-		<string>Amarin</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Thai Visions</string>
-		<key>logo</key>
-		<string>Visions</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Good</string>
-		<key>logo</key>
-		<string>Good</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>JJ Channel</string>
-		<key>logo</key>
-		<string>JJ</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Maxagro</string>
-		<key>logo</key>
-		<string>Maxagro</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Good Living</string>
-		<key>logo</key>
-		<string>Living</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Esan อีสานทีวี</string>
-		<key>logo</key>
-		<string>Esan</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>GTV</string>
-		<key>logo</key>
-		<string>GTV</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Sabaidee สบายดี ทีวี</string>
-		<key>logo</key>
-		<string>Sabaidee</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Topline</string>
-		<key>logo</key>
-		<string>Topline</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>KCTV KC1</string>
-		<key>logo</key>
-		<string>KC1</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>KCTV Cable News</string>
-		<key>logo</key>
-		<string>Cable</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Police</string>
-		<key>logo</key>
-		<string>Police</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Rama</string>
-		<key>logo</key>
-		<string>Rama</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ETV</string>
-		<key>logo</key>
-		<string>ETV</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>True Plookpanya</string>
-		<key>logo</key>
-		<string>True</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>MCU</string>
-		<key>logo</key>
-		<string>MCU</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>1TV Thailand</string>
-		<key>logo</key>
-		<string>1</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>NBTV</string>
-		<key>logo</key>
-		<string>NBTV</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.bloomberg.com/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -488,9 +125,9 @@
 		<key>logo</key>
 		<string>JCTV1</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.jctvthai.com/live_ch1.php</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.jctvthai.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -498,89 +135,9 @@
 		<key>logo</key>
 		<string>JCTV2</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://www.jctvthai.com/live_ch2.php</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>DDTV</string>
-		<key>logo</key>
-		<string>DDTV</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>World Buddhism WBTV</string>
-		<key>logo</key>
-		<string>Buddhism</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Boonniyom (บุญนิยม ทีวี)</string>
-		<key>logo</key>
-		<string>Boonniyom</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>SBB</string>
-		<key>logo</key>
-		<string>SBB</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>SBT</string>
-		<key>logo</key>
-		<string>SBT</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Chokdee</string>
-		<key>logo</key>
-		<string>Chokdee</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>White Channel</string>
-		<key>logo</key>
-		<string>White</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Yateem ทวีศีรทัธาชน</string>
-		<key>logo</key>
-		<string>Yateem</string>
-		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
-		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>http://www.jctvthai.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -588,9 +145,10 @@
 		<key>logo</key>
 		<string>Sky</string>
 		<key>link</key>
-		<string>https://itunes.apple.com/app/id1349746801</string>
+		<string>http://news.sky.com/watch-live</string>
 		<key>http</key>
-		<string>https://itunes.apple.com/app/id1308390114</string>
+		<string>https://www.youtube.com/user/skynews</string>
 	</dict>
-</array>
+	</array>
+</dict>
 </plist>
