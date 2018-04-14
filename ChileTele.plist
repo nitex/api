@@ -5,7 +5,7 @@
 	<key>IDs</key>
 	<dict>
 		<key>ID</key>
-		<string>3694130267637407--</string>
+		<string>3694130267637407</string>
 		<key>Main</key>
 		<string>LuxemTV</string>
 		<key>Back</key>
@@ -23,7 +23,7 @@
 		<key>Application</key>
 		<string>1</string>
 		<key>Developer</key>
-		<string>234123</string>
+		<string>1</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -133,26 +133,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Niu</string>
-			<key>logo</key>
-			<string>Niu</string>
-			<key>link</key>
-			<string>http://niu.cl/</string>
-			<key>http</key>
-			<string>http://niu.cl/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM Hot TV</string>
-			<key>logo</key>
-			<string>Hot</string>
-			<key>link</key>
-			<string>http://fmhot.cl/canal-tv/</string>
-			<key>http</key>
-			<string>http://fmhot.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>UCV3</string>
 			<key>logo</key>
 			<string>UCV3</string>
@@ -160,86 +140,6 @@
 			<string>http://ucv3.cl/</string>
 			<key>http</key>
 			<string>http://ucv3.cl/home.php</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Senado (TVS)</string>
-			<key>logo</key>
-			<string>TVS</string>
-			<key>link</key>
-			<string>http://tv.senado.cl/</string>
-			<key>http</key>
-			<string>http://tv.senado.cl/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CDTV Cámara de Diputados</string>
-			<key>logo</key>
-			<string>CDTV</string>
-			<key>link</key>
-			<string>http://www.cdtv.cl/home.aspx</string>
-			<key>http</key>
-			<string>http://www.cdtv.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Enlace</string>
-			<key>logo</key>
-			<string>Enlace</string>
-			<key>link</key>
-			<string>https://www.enlace.org/envivo/</string>
-			<key>http</key>
-			<string>https://www.enlace.org</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Nuevo Tiempo</string>
-			<key>logo</key>
-			<string>Tiempo</string>
-			<key>link</key>
-			<string>http://www.nuevotiempo.cl/tv-online/</string>
-			<key>http</key>
-			<string>http://www.nuevotiempo.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TNE</string>
-			<key>logo</key>
-			<string>TNE</string>
-			<key>link</key>
-			<string>http://www.tnetv.cl/senal_online</string>
-			<key>http</key>
-			<string>http://www.tnetv.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTC</string>
-			<key>logo</key>
-			<string>RTC</string>
-			<key>link</key>
-			<string>http://www.rtctelevision.cl/</string>
-			<key>http</key>
-			<string>http://www.rtctelevision.cl/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Antofagasta</string>
-			<key>logo</key>
-			<string>Antofagasta</string>
-			<key>link</key>
-			<string>http://antofagasta.tv/senal-online/</string>
-			<key>http</key>
-			<string>http://antofagasta.tv/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cable Noticias</string>
-			<key>logo</key>
-			<string>Noticias</string>
-			<key>link</key>
-			<string>http://www.cablenoticias.cl/on-line</string>
-			<key>http</key>
-			<string>http://www.cablenoticias.cl/</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -260,126 +160,6 @@
 			<string>http://canalvtv.cl/2017/transmision_costa/</string>
 			<key>http</key>
 			<string>http://canalvtv.cl/2017</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Noticias Colchagua</string>
-			<key>logo</key>
-			<string>Colchagua</string>
-			<key>link</key>
-			<string>http://noticiascolchagua.cl/senal-en-vivo/</string>
-			<key>http</key>
-			<string>http://noticiascolchagua.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>9 Bío-Bío</string>
-			<key>logo</key>
-			<string>9</string>
-			<key>link</key>
-			<string>http://www.biobiotv.cl/envivo/</string>
-			<key>http</key>
-			<string>http://www.biobiotv.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TV4 Lota</string>
-			<key>logo</key>
-			<string>TV4</string>
-			<key>link</key>
-			<string>http://tv4television.cl/en-vivo/</string>
-			<key>http</key>
-			<string>http://tv4television.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ATV Valdivia</string>
-			<key>logo</key>
-			<string>ATV</string>
-			<key>link</key>
-			<string>https://www.atvvaldivia.com/se-al-en-vivo</string>
-			<key>http</key>
-			<string>https://www.atvvaldivia.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Puerto Montt</string>
-			<key>logo</key>
-			<string>Puerto</string>
-			<key>link</key>
-			<string>http://canal5.cl/</string>
-			<key>http</key>
-			<string>http://canal5.cl/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Santa María</string>
-			<key>logo</key>
-			<string>Santa</string>
-			<key>link</key>
-			<string>http://santamariatv.cl/</string>
-			<key>http</key>
-			<string>http://santamariatv.cl/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Soberania</string>
-			<key>logo</key>
-			<string>Soberania</string>
-			<key>link</key>
-			<string>http://www.soberaniaradio.cl/</string>
-			<key>http</key>
-			<string>http://www.soberaniaradio.cl/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Pingüino</string>
-			<key>logo</key>
-			<string>Pinguino</string>
-			<key>link</key>
-			<string>http://elpinguino.com/digital/tv</string>
-			<key>http</key>
-			<string>http://elpinguino.com/tv</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ITV Patagonia</string>
-			<key>logo</key>
-			<string>ITV</string>
-			<key>link</key>
-			<string>http://www.itvpatagonia.com/</string>
-			<key>http</key>
-			<string>http://www.itvpatagonia.com/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Red</string>
-			<key>logo</key>
-			<string>Red</string>
-			<key>link</key>
-			<string>http://www.tvred.cl/wp/en-vivo/</string>
-			<key>http</key>
-			<string>http://www.tvred.cl</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TVU</string>
-			<key>logo</key>
-			<string>TVU</string>
-			<key>link</key>
-			<string>https://www.tvu.cl/online.html</string>
-			<key>http</key>
-			<string>https://www.tvu.cl/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ahora Noticias</string>
-			<key>logo</key>
-			<string>Ahora</string>
-			<key>link</key>
-			<string>http://www.ahoranoticias.cl/senal-en-vivo/</string>
-			<key>http</key>
-			<string>http://www.ahoranoticias.cl</string>
 		</dict>
 	</array>
 </dict>
