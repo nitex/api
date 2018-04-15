@@ -5,7 +5,7 @@
 	<key>IDs</key>
 	<dict>
 		<key>ID</key>
-		<string>369413026763740700</string>
+		<string>3694130267637407</string>
 		<key>Main</key>
 		<string>MoldovaTV</string>
 		<key>Back</key>
@@ -16,6 +16,12 @@
 		<string>9</string>
 		<key>Footer</key>
 		<string>9</string>
+		<key>Movie</key>
+		<string>splash on movie description screen</string>
+		<key>Bottom</key>
+		<string>banner on movie description screen</string>
+		<key>Similar</key>
+		<string>splash on similar movies screen</string>
 		<key>Application</key>
 		<string>9</string>
 		<key>Developer</key>
@@ -25,7 +31,9 @@
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
-		<integer>2</integer>
+		<string>2</string>
+		<key>Mode</key>
+		<string>4</string>
 	</dict>
 	<key>Content</key>
 	<array>
@@ -88,6 +96,26 @@
 			<string>https://www.bloomberg.com/live/europe</string>
 			<key>http</key>
 			<string>https://www.bloomberg.com/live/us</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Euronews</string>
+			<key>logo</key>
+			<string>Euronews</string>
+			<key>link</key>
+			<string>http://de.euronews.com/live</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/euronewsfr/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EbS Europe by Satellite</string>
+			<key>logo</key>
+			<string>EbS</string>
+			<key>link</key>
+			<string>http://ec.europa.eu/avservices/ebs/live.cfm?page=1</string>
+			<key>http</key>
+			<string>http://ec.europa.eu/avservices/ebs/schedule.cfm</string>
 		</dict>
 		<dict>
 			<key>name</key>
