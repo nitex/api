@@ -1,1 +1,56 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>NFL Now</string>
+		<key>logo</key>
+		<string>nfl</string>
+		<key>link</key>
+		<string>https://www.nfl.com/now</string>
+		<key>http</key>
+		<string>https://www.nfl.com/now?module=now_traffic_driver</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>JBTV</string>
+		<key>logo</key>
+		<string>jbtv</string>
+		<key>link</key>
+		<string>http://jbtvmusic.com/live/</string>
+		<key>http</key>
+		<string>https://livestream.com/accounts/4103375/events/2634658</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CMC</string>
+		<key>logo</key>
+		<string>CMC</string>
+		<key>link</key>
+		<string>http://cmc-tv.com/</string>
+		<key>http</key>
+		<string>http://www.cmctvusa.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RadioU TV</string>
+		<key>logo</key>
+		<string>RadioU</string>
+		<key>link</key>
+		<string>http://radiou.com/tv/</string>
+		<key>http</key>
+		<string>http://radiou.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>LA 36</string>
+		<key>logo</key>
+		<string>la36</string>
+		<key>link</key>
+		<string>http://www.la36.org/</string>
+		<key>http</key>
+		<string>http://la36.granicus.com/MediaPlayer.php?publish_id=19</string>
+	</dict>
+</array>
+</plist>
