@@ -1,1 +1,68 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>SerbiaTV</string>
+		<key>Back</key>
+		<string>SerbiaTV</string>
+		<key>Banner</key>
+		<string>8450928219</string>
+		<key>Show1</key>
+		<string>8450928219</string>
+		<key>Show2</key>
+		<string>8450928219</string>
+		<key>Show3</key>
+		<string>8450928219</string>
+		<key>Show4</key>
+		<string>8450928219</string>
+		<key>Header</key>
+		<string>SerbiaTV</string>
+		<key>Footer</key>
+		<string>SerbiaTV</string>
+		<key>Email</key>
+		<string>vesti@gmail.com</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1376298193</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<integer>2</integer>
+		<key>DemoMode</key>
+		<string>10</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>РТС Радио-телевизија Србије</string>
+			<key>logo</key>
+			<string>RTS</string>
+			<key>link</key>
+			<string>http://www.rts.rs/page/tv/ci/live.html</string>
+			<key>http</key>
+			<string>http://www.rts.rs/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>N1 Srbija</string>
+			<key>logo</key>
+			<string>N1</string>
+			<key>link</key>
+			<string>http://rs.n1info.com/N1-Uzivo</string>
+			<key>http</key>
+			<string>http://rs.n1info.com</string>
+			<key>text</key>
+			<string>test N1</string>
+		</dict>
+	</array>
+</dict>
+</plist>
