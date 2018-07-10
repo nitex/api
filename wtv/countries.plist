@@ -4,57 +4,309 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>General (European Union, EU)</string>
+		<key>code</key>
+		<string>EU</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Albania (Shqipëria)</string>
+		<key>code</key>
+		<string>AL</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Armenia (Hayastan)</string>
+		<key>code</key>
+		<string>AM</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Austria (Österreich)</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>AT</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Azerbaijan (Azǝrbaycan)</string>
+		<key>code</key>
+		<string>AZ</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Belarus (Беларусь)</string>
+		<key>code</key>
+		<string>BY</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Belgium (België)</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>BE</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Benelux</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>BX</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bosnia and Herzegovina</string>
+		<key>code</key>
+		<string>BA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bulgaria (България)</string>
+		<key>code</key>
+		<string>BG</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Croatia (Hrvatska)</string>
+		<key>code</key>
+		<string>HR</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Cyprus (Κύπρος)</string>
+		<key>code</key>
+		<string>CY</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Czech Republic (Česko)</string>
+		<key>code</key>
+		<string>CZ</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Denmark (Danmark)</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>DK</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>England (UK)</string>
+		<key>code</key>
+		<string>ENG</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Estonia (Eesti)</string>
+		<key>code</key>
+		<string>EE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Finland (Suomi)</string>
+		<key>code</key>
+		<string>FI</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>France</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>FR</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Georgia (საქართველო)</string>
+		<key>code</key>
+		<string>GE</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Germany (Deutschland)</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>DE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Greece (Ελλάδα)</string>
+		<key>code</key>
+		<string>GR</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hungary (Magyarország)</string>
+		<key>code</key>
+		<string>HU</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Iceland (Ísland)</string>
+		<key>code</key>
+		<string>IS</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ireland (Éire)</string>
+		<key>code</key>
+		<string>IE</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Italy (Italia + Vaticano)</string>
+		<key>code</key>
+		<string>IT</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Kazakhstan (Қазақстан)</string>
+		<key>code</key>
+		<string>KZ</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Latvia (Latvija)</string>
+		<key>code</key>
+		<string>LV</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lithuania (Lietuva)</string>
+		<key>code</key>
+		<string>LT</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Luxembourg (Lëtzebuerg)</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>LU</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Macedonia (Македонија)</string>
+		<key>code</key>
+		<string>MK</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Malta</string>
+		<key>code</key>
+		<string>MT</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Moldova</string>
+		<key>code</key>
+		<string>MD</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Montenegro (Црна Гора)</string>
+		<key>code</key>
+		<string>ME</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Netherlands (Nederland)</string>
 		<key>code</key>
-		<string>CH</string>
+		<string>NL</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Northern Ireland (UK)</string>
+		<key>code</key>
+		<string>NIR</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Norway (Norge)</string>
+		<key>code</key>
+		<string>NO</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Poland (Polska)</string>
+		<key>code</key>
+		<string>PL</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Portugal</string>
+		<key>code</key>
+		<string>PT</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Romania</string>
+		<key>code</key>
+		<string>RO</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Russia (Россия)</string>
+		<key>code</key>
+		<string>RU</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Scotland (UK)</string>
+		<key>code</key>
+		<string>SCT</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Serbia (Србија)</string>
+		<key>code</key>
+		<string>RS</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Slovakia (Slovensko)</string>
+		<key>code</key>
+		<string>SK</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Slovenia (Slovenija)</string>
+		<key>code</key>
+		<string>SI</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Spain (España)</string>
+		<key>code</key>
+		<string>ES</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Sweden (Sverige)</string>
+		<key>code</key>
+		<string>SE</string>
 	</dict>
 	<dict>
 		<key>name</key>
 		<string>Switzerland (Suisse/Schweiz)</string>
 		<key>code</key>
 		<string>CH</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Turkey (Türkiye)</string>
+		<key>code</key>
+		<string>TR</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ukraine (Україна)</string>
+		<key>code</key>
+		<string>UA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>United Kingdom (Britain)</string>
+		<key>code</key>
+		<string>GB</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Wales (UK)</string>
+		<key>code</key>
+		<string>WLS</string>
 	</dict>
 </array>
 </plist>
