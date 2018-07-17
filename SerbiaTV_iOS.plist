@@ -7,21 +7,21 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>SerbiaTV</string>
+		<string>USATele</string>
 		<key>Back</key>
-		<string>SerbiaTV</string>
+		<string>USATele</string>
 		<key>Banner</key>
-		<string>8182761483</string>
+		<string>6707868027</string>
 		<key>Header</key>
-		<string>SerbiaTV</string>
+		<string>USATele</string>
 		<key>Footer</key>
-		<string>SerbiaTV</string>
+		<string>USATele</string>
 		<key>Email</key>
 		<string>shelvinscare@gmail.com</string>
 		<key>Alternative</key>
 		<string>1</string>
 		<key>Application</key>
-		<string>1376298193</string>
+		<string>1</string>
 		<key>Developer</key>
 		<string>1</string>
 		<key>Minutes</key>
@@ -35,13 +35,23 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Bloomberg TV Europe</string>
+			<key>logo</key>
+			<string>bloomberg</string>
+			<key>link</key>
+			<string>http://mn-l.mncdn.com/bloomberght/bloomberght2/radyodelisi.m3u8</string>
+			<key>http</key>
+			<string>http://mn-l.mncdn.com/bloomberght/bloomberght2/radyodelisi.m3u8</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>РТС Радио-телевизија Србије</string>
 			<key>logo</key>
 			<string>RTS</string>
 			<key>link</key>
-			<string>https://www.youtube.com/embed/iIzC-A_1WM4?autoplay=1</string>
+			<string>http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8</string>
 			<key>http</key>
-			<string>https://www.youtube.com/embed/iIzC-A_1WM4?autoplay=1</string>
+			<string>http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -49,49 +59,9 @@
 			<key>logo</key>
 			<string>N1</string>
 			<key>link</key>
-			<string>https://www.youtube.com/embed/NPHGQeiEo6Q?autoplay=1</string>
+			<string>http://141.136.14.18/kanal1/kanal1_1500/index.m3u8</string>
 			<key>http</key>
-			<string>https://www.youtube.com/embed/NPHGQeiEo6Q?autoplay=1</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>СОС канал</string>
-			<key>logo</key>
-			<string>SOS</string>
-			<key>link</key>
-			<string>https://www.youtube.com/embed/G2His098acw?autoplay=1</string>
-			<key>http</key>
-			<string>https://www.youtube.com/embed/G2His098acw?autoplay=1</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Subotica</string>
-			<key>logo</key>
-			<string>Subotica</string>
-			<key>link</key>
-			<string>http://partners.nettvplus.com/tvsubotica/video.html</string>
-			<key>http</key>
-			<string>http://partners.nettvplus.com/tvsubotica/video.html</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>K23</string>
-			<key>logo</key>
-			<string>K23</string>
-			<key>link</key>
-			<string>www.dailymotion.com/embed/video/x1jztwz</string>
-			<key>http</key>
-			<string>www.dailymotion.com/embed/video/x1jztwz</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bloomberg TV Europe</string>
-			<key>logo</key>
-			<string>bloomberg</string>
-			<key>link</key>
-			<string>https://www.youtube.com/embed/Ga3maNZ0x0w?autoplay=1</string>
-			<key>http</key>
-			<string>https://www.youtube.com/embed/Ga3maNZ0x0w?autoplay=1</string>
+			<string>http://141.136.14.18/kanal1/kanal1_1500/index.m3u8</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -99,9 +69,39 @@
 			<key>logo</key>
 			<string>Sky</string>
 			<key>link</key>
-			<string>https://www.youtube.com/embed/XOacA3RYrXk?autoplay=1</string>
+			<string>http://212.8.248.197:8080/live/osama1/osama1/550.ts</string>
 			<key>http</key>
-			<string>https://www.youtube.com/embed/XOacA3RYrXk?autoplay=1</string>
+			<string>http://212.8.248.197:8080/live/osama1/osama1/550.ts</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>СОС канал</string>
+			<key>logo</key>
+			<string>SOS</string>
+			<key>link</key>
+			<string>http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8</string>
+			<key>http</key>
+			<string>http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Subotica</string>
+			<key>logo</key>
+			<string>Subotica</string>
+			<key>link</key>
+			<string>http://89.201.163.244:8080/hls/hdmi.m3u8</string>
+			<key>http</key>
+			<string>http://89.201.163.244:8080/hls/hdmi.m3u8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>K23</string>
+			<key>logo</key>
+			<string>K23</string>
+			<key>link</key>
+			<string>rtsp://212.200.255.151/rtv2</string>
+			<key>http</key>
+			<string>rtsp://212.200.255.151/rtv2</string>
 		</dict>
 	</array>
 </dict>
