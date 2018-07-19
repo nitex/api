@@ -1,1 +1,112 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>SerbiaTV</string>
+		<key>Back</key>
+		<string>SerbiaTV</string>
+		<key>Banner</key>
+		<string>SerbiaTV</string>
+		<key>Show1</key>
+		<string>SerbiaTV</string>
+		<key>Show2</key>
+		<string>SerbiaTV</string>
+		<key>Show3</key>
+		<string>SerbiaTV</string>
+		<key>Show4</key>
+		<string>SerbiaTV</string>
+		<key>Alarm</key>
+		<string>SerbiaTV</string>
+		<key>CustomBanner</key>
+		<string>SerbiaTV</string>
+		<key>CustomSplash</key>
+		<string>SerbiaTV</string>
+		<key>Header</key>
+		<string>SerbiaTV</string>
+		<key>Footer</key>
+		<string>SerbiaTV</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<integer>2</integer>
+		<key>MenuMode</key>
+		<string>10</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 1</string>
+			<key>logo</key>
+			<string>BBC1</string>
+			<key>link</key>
+			<string>https://raw.githubusercontent.com/host285storage2000/storage883100/master/fm103/GB/bbc1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Top 30)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 2</string>
+			<key>logo</key>
+			<string>BBC2</string>
+			<key>link</key>
+			<string>https://raw.githubusercontent.com/host285storage2000/storage883100/master/fm103/GB/bbc2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Popular / Contemporary)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 3</string>
+			<key>logo</key>
+			<string>BBC3</string>
+			<key>link</key>
+			<string>https://raw.githubusercontent.com/host285storage2000/storage883100/master/fm103/GB/bbc3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Classical)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 4</string>
+			<key>logo</key>
+			<string>BBC4</string>
+			<key>link</key>
+			<string>https://raw.githubusercontent.com/host285storage2000/storage883100/master/fm103/GB/bbc4.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (News / Feature programming)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 4 LW</string>
+			<key>logo</key>
+			<string>BBC4L</string>
+			<key>link</key>
+			<string>https://raw.githubusercontent.com/host285storage2000/storage883100/master/fm103/GB/bbc4lw.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (News / Feature programming)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
