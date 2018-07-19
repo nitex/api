@@ -237,15 +237,15 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Truro</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BBC Coventry and Warwickshire</string>
 			<key>logo</key>
-			<string></string>
+			<string>BBCCoventry</string>
 			<key>link</key>
-			<string></string>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_coventry_warwickshire/format/pls.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -253,11 +253,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BBC Radio Cumbria</string>
 			<key>logo</key>
-			<string></string>
+			<string>BBCCumbria</string>
 			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cumbria/format/pls.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Carlisle</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Derby</string>
+			<key>logo</key>
+			<string>BBCDerby</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_derby/format/pls.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -265,27 +277,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BBC Radio Devon</string>
 			<key>logo</key>
-			<string></string>
+			<string>BBCDevon</string>
 			<key>link</key>
-			<string></string>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_devon/format/pls.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Plymouth</string>
 		</dict>
 	</array>
 </dict>
