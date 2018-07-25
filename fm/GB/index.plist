@@ -53,7 +53,7 @@
 			<key>logo</key>
 			<string>BBC1</string>
 			<key>link</key>
-			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrdevon_mf_p?s=1532079415&amp;e=1532093815&amp;h=f64e943ae7adddd02d74625263156a38</string>
+			<string>http://www.listenlive.eu/bbcradio1.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -65,7 +65,7 @@
 			<key>logo</key>
 			<string>BBC2</string>
 			<key>link</key>
-			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p</string>
+			<string>http://www.listenlive.eu/bbcradio2.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -286,6 +286,438 @@
 			<string></string>
 			<key>note</key>
 			<string>Plymouth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Essex</string>
+			<key>logo</key>
+			<string>BBCE</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_essex/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chelmsford</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Gloucestershire</string>
+			<key>logo</key>
+			<string>BBCG</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_gloucestershire/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Guernsey</string>
+			<key>logo</key>
+			<string>BBCGu</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_guernsey/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St Sampson&apos;s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Hereford/Worcester</string>
+			<key>logo</key>
+			<string>BBCHereford</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_hereford_worcester/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Humberside</string>
+			<key>logo</key>
+			<string>BBCHum</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_humberside/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hull</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Jersey</string>
+			<key>logo</key>
+			<string>BBCJersey</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_jersey/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Helier</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Kent</string>
+			<key>logo</key>
+			<string>BBCKent</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_kent/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Maidstone</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Lancashire</string>
+			<key>logo</key>
+			<string>BBCLanca</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_lancashire/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Blackburn</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Leeds</string>
+			<key>logo</key>
+			<string>BBCLeeds</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_leeds/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Leicester</string>
+			<key>logo</key>
+			<string>BBCLeicester</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_leicester/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Lincolnshire</string>
+			<key>logo</key>
+			<string>BBCLincoln</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_lincolnshire/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC London 94.9</string>
+			<key>logo</key>
+			<string>BBCLondon</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_london/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local News / Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Manchester</string>
+			<key>logo</key>
+			<string>BBCManchester</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_manchester/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Merseyside</string>
+			<key>logo</key>
+			<string>BBCMerseyside</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_merseyside/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Liverpool</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Newcastle</string>
+			<key>logo</key>
+			<string>BBCNewcastle</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_newcastle/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Norfolk</string>
+			<key>logo</key>
+			<string>BBCNorfolk</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_norfolk/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Norwich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Northampton</string>
+			<key>logo</key>
+			<string>BBCNorth</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_northampton/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Nottingham</string>
+			<key>logo</key>
+			<string>BBCNottingham</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_nottingham/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Oxford</string>
+			<key>logo</key>
+			<string>BBCOxford</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_oxford/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Sheffield</string>
+			<key>logo</key>
+			<string>BBCSheffield</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_sheffield/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Shropshire</string>
+			<key>logo</key>
+			<string>BBCShropshire</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_shropshire/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Shrewsbury</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Solent</string>
+			<key>logo</key>
+			<string>BBCSolent</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_solent/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Southampton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Somerset</string>
+			<key>logo</key>
+			<string>BBCSomerset</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_somerset_sound/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Taunton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Stoke</string>
+			<key>logo</key>
+			<string>BBCStoke</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_stoke/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Suffolk</string>
+			<key>logo</key>
+			<string>BBCSuffolk</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_suffolk/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ipswich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Surrey</string>
+			<key>logo</key>
+			<string>BBCSurrey</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_surrey/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Guildford</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Sussex</string>
+			<key>logo</key>
+			<string>BBCSussex</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_sussex/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brighton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Tees</string>
+			<key>logo</key>
+			<string>BBCTees</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_tees/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Middlesbrough</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Three Counties Radio</string>
+			<key>logo</key>
+			<string>BBCThree</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_three_counties_radio/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Luton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Wiltshire</string>
+			<key>logo</key>
+			<string>BBCWiltshire</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_wiltshire/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Swindon</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC WM 95.6</string>
+			<key>logo</key>
+			<string>BBCWM</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_wm/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Birmingham</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio York</string>
+			<key>logo</key>
+			<string>BBCYork</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_york/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Cymru</string>
+			<key>logo</key>
+			<string>BBCCymru</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cymru/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cardiff (Welsh)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Scotland</string>
+			<key>logo</key>
+			<string>BBCScotland</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbcradioscotland.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Glasgow</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio nan Gaidheal</string>
+			<key>logo</key>
+			<string>BBCGaidheal</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbcradionangaidheal.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Stornoway (Gaelic service)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Ulster</string>
+			<key>logo</key>
+			<string>BBCUlster</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_ulster/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Belfast</string>
 		</dict>
 	</array>
 </dict>
