@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 1</string>
+			<key>logo</key>
+			<string>BBC1</string>
+			<key>link</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_lrdevon_mf_p?s=1532079415&amp;e=1532093815&amp;h=f64e943ae7adddd02d74625263156a38</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Top 30)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 2</string>
+			<key>logo</key>
+			<string>BBC2</string>
+			<key>link</key>
+			<string>http://bbcmedia.ic.llnwd.net/stream/bbcmedia_radio4extra_mf_p</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Popular / Contemporary)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 3</string>
+			<key>logo</key>
+			<string>BBC3</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbcradio3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Classical)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 4</string>
+			<key>logo</key>
+			<string>BBC4</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbcradio4.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (News / Feature programming)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 4 LW</string>
+			<key>logo</key>
+			<string>BBC4L</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbcradio4lw.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (News / Feature programming)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio 4 Extra</string>
+			<key>logo</key>
+			<string>BBC4E</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbcradio4extra.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Comedy / Drama / Features)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC 5 Live</string>
+			<key>logo</key>
+			<string>BBC5</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbc5live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (News / Talk / Sport)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC 5 Live Sports Extra</string>
+			<key>logo</key>
+			<string>BBC5S</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbc5liveextra.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Sport)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC 6 Music</string>
+			<key>logo</key>
+			<string>BBC6</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbc6music.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Music)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC 1Xtra</string>
+			<key>logo</key>
+			<string>BBC1X</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbc1xtra.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>National (Urban / RnB / Hip-Hop)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Asian Network</string>
+			<key>logo</key>
+			<string>BBCA</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bbcasian.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Birmingham (Asian programming)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBCW</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>London (International news / Features)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Berkshire</string>
+			<key>logo</key>
+			<string>BBCB</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_berkshire/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Bristol</string>
+			<key>logo</key>
+			<string>BBCBristol</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_bristol/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Cambridgeshire</string>
+			<key>logo</key>
+			<string>BBCCambridge</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cambridge/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Cornwall</string>
+			<key>logo</key>
+			<string>BBCCornwall</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cornwall/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Truro</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Coventry and Warwickshire</string>
+			<key>logo</key>
+			<string>BBCCoventry</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_coventry_warwickshire/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Cumbria</string>
+			<key>logo</key>
+			<string>BBCCumbria</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cumbria/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Carlisle</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Derby</string>
+			<key>logo</key>
+			<string>BBCDerby</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_derby/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Radio Devon</string>
+			<key>logo</key>
+			<string>BBCDevon</string>
+			<key>link</key>
+			<string>http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_devon/format/pls.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Plymouth</string>
+		</dict>
+	</array>
+</dict>
+</plist>
