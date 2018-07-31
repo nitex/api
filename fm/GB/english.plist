@@ -5929,6 +5929,822 @@
 			<key>note</key>
 			<string></string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swindon 105.5</string>
+			<key>logo</key>
+			<string>Swindon</string>
+			<key>link</key>
+			<string>http://46.28.49.164:7510/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>107.5 Switch Radio</string>
+			<key>logo</key>
+			<string>Switch</string>
+			<key>link</key>
+			<string>http://listen.switchradio.co.uk/switchradio_high.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Birmingham</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Takeover Radio</string>
+			<key>logo</key>
+			<string>Takeover</string>
+			<key>link</key>
+			<string>http://www.takeoverradio.co.uk/stream/streamcma.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Leicester (Youth Community)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>talkRADIO</string>
+			<key>logo</key>
+			<string>talkRADIO</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/uk/talkradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>talkSPORT</string>
+			<key>logo</key>
+			<string>talkSPORT1</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/uk/talksport.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>talkSPORT 2</string>
+			<key>logo</key>
+			<string>talkSPORT2</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/uk/talksport2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tameside Radio</string>
+			<key>logo</key>
+			<string>Tameside</string>
+			<key>link</key>
+			<string>http://nicole.srv.insidetameside.com:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ashton-under-Lyne</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tay FM</string>
+			<key>logo</key>
+			<string>Tay1</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=tayfm.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=tayfm.aac.m3u</string>
+			<key>note</key>
+			<string>Dundee</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tay 2 FM</string>
+			<key>logo</key>
+			<string>Tay2</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=tayam.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=tayam.aac.m3u</string>
+			<key>note</key>
+			<string>Dundee</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TCRfm Tamworth</string>
+			<key>logo</key>
+			<string>TCRfm</string>
+			<key>link</key>
+			<string>http://streaming.tcrfm.co.uk:8080/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tempo FM</string>
+			<key>logo</key>
+			<string>Tempo</string>
+			<key>link</key>
+			<string>http://stream.dnsgb.net:8040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wetherby</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TFM</string>
+			<key>logo</key>
+			<string>TFM</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=tfm.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=tfm.aac.m3u</string>
+			<key>note</key>
+			<string>Teeside</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TFM 2</string>
+			<key>logo</key>
+			<string>TFM2</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=magic1170.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=magic1170.aac.m3u</string>
+			<key>note</key>
+			<string>Middlesbrough</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tone FM</string>
+			<key>logo</key>
+			<string>Tone</string>
+			<key>link</key>
+			<string>http://mp3streaming.planetwideradio.com:9130/tonefm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Taunton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>101-102 Touch FM</string>
+			<key>logo</key>
+			<string>Touch1</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/1016touchfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Tamworth)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>102 Touch FM</string>
+			<key>logo</key>
+			<string>Touch2</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/102touchfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Stratford-upon-Avon)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>96.2 Touch FM</string>
+			<key>logo</key>
+			<string>Touch3</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/962touchfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Coventry)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>107.3 Touch FM</string>
+			<key>logo</key>
+			<string>Touch4</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/1073touchfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Warwick)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tower FM</string>
+			<key>logo</key>
+			<string>Tower</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/uk_towerfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Bolton)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Town 102</string>
+			<key>logo</key>
+			<string>Town</string>
+			<key>link</key>
+			<string>http://webradio.radiomonitor.com/m3u/Town102-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Ipswich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trax FM</string>
+			<key>logo</key>
+			<string>Trax</string>
+			<key>link</key>
+			<string>http://lincs.planetwideradio.com:8035/traxfmaac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Doncaster)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tudno FM</string>
+			<key>logo</key>
+			<string>Tudno</string>
+			<key>link</key>
+			<string>http://tudno.co.uk:8701/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Llandudno</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Two Lochs Radio</string>
+			<key>logo</key>
+			<string>Lochs</string>
+			<key>link</key>
+			<string>http://streaming02.zfast.co.uk:2199/tunein/twolochs1.pls</string>
+			<key>http</key>
+			<string>http://149.255.59.164:8034/stream</string>
+			<key>note</key>
+			<string>Gairloch</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>U105</string>
+			<key>logo</key>
+			<string>U105</string>
+			<key>link</key>
+			<string>http://webradio.radiomonitor.com/m3u/U105.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Belfast)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCB UK</string>
+			<key>logo</key>
+			<string>UCB1</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/ucbuk.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christian Programming</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCB Bible</string>
+			<key>logo</key>
+			<string>UCB2</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/ucbbible.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bible Readings</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCB Inspirational</string>
+			<key>logo</key>
+			<string>UCB3</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/ucbinspirational.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Inspirational Music / Worship</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCB Talk</string>
+			<key>logo</key>
+			<string>UCB4</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/ucbgospel.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gospel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCB The Word</string>
+			<key>logo</key>
+			<string>UCB5</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/ucbtheword.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Contemporary Christian</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uckfield FM</string>
+			<key>logo</key>
+			<string>Uckfield</string>
+			<key>link</key>
+			<string>http://mp3streaming.planetwideradio.com:9165/uckfieldfmaac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ujima 98 FM</string>
+			<key>logo</key>
+			<string>Ujima</string>
+			<key>link</key>
+			<string>http://radio.canstream.co.uk:8037/live.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>AfroCaribbean Community (Bristol)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unity FM</string>
+			<key>logo</key>
+			<string>Unity</string>
+			<key>link</key>
+			<string>http://icecast.commedia.org.uk:8000/unity.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Muslim Community (Birmingham)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unity 101</string>
+			<key>logo</key>
+			<string>101</string>
+			<key>link</key>
+			<string>http://icecast.commedia.org.uk:8000/unity24.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Southampton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1449 AM URB</string>
+			<key>logo</key>
+			<string>URB</string>
+			<key>link</key>
+			<string>http://people.bath.ac.uk/su9urb/audio/urb-low.m3u</string>
+			<key>http</key>
+			<string>http://people.bath.ac.uk/su9urb/audio/urb-hi.m3u</string>
+			<key>note</key>
+			<string>Student Radio (Bath)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>URN</string>
+			<key>logo</key>
+			<string>URN</string>
+			<key>link</key>
+			<string>http://posurnl.nottingham.ac.uk:8080/urn_high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Student Radio (Nottingham)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>96.9 Viking FM</string>
+			<key>logo</key>
+			<string>Viking</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=viking.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=viking.aac.m3u</string>
+			<key>note</key>
+			<string>Hull</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Viking 2 FM</string>
+			<key>logo</key>
+			<string>Viking2</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=magic1161.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=magic1161.aac.m3u</string>
+			<key>note</key>
+			<string>Hull</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Virgin Radio</string>
+			<key>logo</key>
+			<string>Virgin</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/uk_virginradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock / Pop / Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vixen 101</string>
+			<key>logo</key>
+			<string>Vixen</string>
+			<key>link</key>
+			<string>http://192.99.20.78:2199/tunein/iwhqsgip.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Market Weighton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Voice</string>
+			<key>logo</key>
+			<string>Voice</string>
+			<key>link</key>
+			<string>http://www.rosi-systems.com:8000/thevoice.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barnstaple</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Wave</string>
+			<key>logo</key>
+			<string>Wave5</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/uk_thewave.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Swansea)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wave 102</string>
+			<key>logo</key>
+			<string>Wave1</string>
+			<key>link</key>
+			<string>http://webradio.radiomonitor.com/m3u/Wave-Dundee.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dundee (Current / Classic Hits)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wave 102 Gold</string>
+			<key>logo</key>
+			<string>Wave2</string>
+			<key>link</key>
+			<string>http://webradio.radiomonitor.com/stream/Wave102Gold.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dundee (Oldies)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wave 102 Country</string>
+			<key>logo</key>
+			<string>Wave3</string>
+			<key>link</key>
+			<string>http://webradio.radiomonitor.com/stream/Wave102Country.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dundee</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wave 102 Chart</string>
+			<key>logo</key>
+			<string>Wave4</string>
+			<key>link</key>
+			<string>http://webradio.radiomonitor.com/stream/Wave102Chart.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dundee</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wave 105</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=wave105.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=wave105.aac.m3u</string>
+			<key>note</key>
+			<string>Southampton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Waves Radio</string>
+			<key>logo</key>
+			<string>Waves</string>
+			<key>link</key>
+			<string>http://webradio.radiomonitor.com/m3u/WavesRadio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Peterhead)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>101.8 WCR FM</string>
+			<key>logo</key>
+			<string>WCR</string>
+			<key>link</key>
+			<string>http://radio.canstream.co.uk:8016/live.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wolverhampton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wessex FM</string>
+			<key>logo</key>
+			<string>Wessex</string>
+			<key>link</key>
+			<string>http://str1.sad.ukrd.com/wessex.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Dorchester)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>West FM</string>
+			<key>logo</key>
+			<string>West1</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=westfm.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=westfm.aac.m3u</string>
+			<key>note</key>
+			<string>Ayr</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>West Sound</string>
+			<key>logo</key>
+			<string>West2</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=westsound.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=westsound.aac.m3u</string>
+			<key>note</key>
+			<string>Ayr</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>West Sound Radio FM</string>
+			<key>logo</key>
+			<string>West3</string>
+			<key>link</key>
+			<string>http://tx.whatson.com/icecast.php?i=westsoundfm.mp3.m3u</string>
+			<key>http</key>
+			<string>http://tx.whatson.com/icecast.php?i=westsoundfm.aac.m3u</string>
+			<key>note</key>
+			<string>Dumfries</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Westside 89.6FM</string>
+			<key>logo</key>
+			<string>Westside</string>
+			<key>link</key>
+			<string>http://radio.canstream.co.uk:8002/live.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hanwell</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wey Valley Radio</string>
+			<key>logo</key>
+			<string>Wey</string>
+			<key>link</key>
+			<string>http://stream.weyvalleyradio.uk:8000/wey2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alton</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wire FM</string>
+			<key>logo</key>
+			<string>Wire</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/uk_wirefm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Warrington)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wish FM</string>
+			<key>logo</key>
+			<string>Wish</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/uk_wishfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Wigan)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Witney Radio</string>
+			<key>logo</key>
+			<string>Witney</string>
+			<key>link</key>
+			<string>http://s11.myradiostream.com:15764/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wycombe Sound</string>
+			<key>logo</key>
+			<string>Wycombe</string>
+			<key>link</key>
+			<string>http://chandra.shoutca.st:9771/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>High Wycombe</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WFM 97.2 Wythenshawe</string>
+			<key>logo</key>
+			<string>WFM</string>
+			<key>link</key>
+			<string>http://www.wfmradio.org/wfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xpress Radio</string>
+			<key>logo</key>
+			<string>Xpress</string>
+			<key>link</key>
+			<string>http://stream.suon.cf.ac.uk:8000/xpress.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cardiff (Student Radio)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yorkshire Coast Radio Scarborough</string>
+			<key>logo</key>
+			<string>Yorkshire1</string>
+			<key>link</key>
+			<string>http://str1.sad.ukrd.com/yorkshirecoast.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yorkshire Coast Radio Bridlington</string>
+			<key>logo</key>
+			<string>Yorkshire2</string>
+			<key>link</key>
+			<string>http://str1.sad.ukrd.com/yorkshirecoastb.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yorkshire Coast Radio Whitby</string>
+			<key>logo</key>
+			<string>Yorkshire3</string>
+			<key>link</key>
+			<string>http://str1.sad.ukrd.com/yorkshirecoastw.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Your FM</string>
+			<key>logo</key>
+			<string>Your</string>
+			<key>link</key>
+			<string>http://stream.stormtx.co.uk:8010/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Stockport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Your Radio 103 - 106.9 FM</string>
+			<key>logo</key>
+			<string>You</string>
+			<key>link</key>
+			<string>http://direct.sharp-stream.com/yourradio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Dumbarton)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zack FM</string>
+			<key>logo</key>
+			<string>Zack</string>
+			<key>link</key>
+			<string>http://stream1.dyndns.tv:9160/listen.pls</string>
+			<key>http</key>
+			<string>http://stream1.dyndns.tv:9150/listen.pls</string>
+			<key>note</key>
+			<string>Forest Heath</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zest Liverpool</string>
+			<key>logo</key>
+			<string>Zest</string>
+			<key>link</key>
+			<string>http://rss-streaming.co.uk:8054/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://rss-streaming.co.uk:8054/listen.pls?sid=2</string>
+			<key>note</key>
+			<string>Pop / Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zetland Radio</string>
+			<key>logo</key>
+			<string>Zetland</string>
+			<key>link</key>
+			<string>http://s4.voscast.com:8288/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Redcar</string>
+		</dict>
 	</array>
 </dict>
 </plist>
