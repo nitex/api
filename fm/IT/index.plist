@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>RAI Radiouno</string>
+			<key>logo</key>
+			<string>Radiouno</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI Radiodue</string>
+			<key>logo</key>
+			<string>Radiodue</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Contemporary</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI Radiotre</string>
+			<key>logo</key>
+			<string>Radiotre</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical / Culture</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI FD4 Leggera</string>
+			<key>logo</key>
+			<string>FD4</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai4.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz / Easy Listening</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI FD5 Auditorium</string>
+			<key>logo</key>
+			<string>FD5</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai5.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI Isoradio</string>
+			<key>logo</key>
+			<string>Isoradio</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai6.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Information / Traffic</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI GR Parlamento</string>
+			<key>logo</key>
+			<string>GR</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai7.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Italian Parliament</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI Italica</string>
+			<key>logo</key>
+			<string>Italica</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai8.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>International Service</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI Sender Bozen</string>
+			<key>logo</key>
+			<string>Bozen</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/raibz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Regional Service (German / Ladin), Bolzano</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rai Radio Techete</string>
+			<key>logo</key>
+			<string>Techete</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai9.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>History</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rai Radio Live</string>
+			<key>logo</key>
+			<string>Live</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai10.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock / Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rai Radio Kids</string>
+			<key>logo</key>
+			<string>Kids</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai11.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kids Music, Trends</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI Play Radio</string>
+			<key>logo</key>
+			<string>GR</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai7.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
