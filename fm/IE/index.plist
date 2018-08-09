@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>1050822404</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>2408136106</string>
 		<key>Banner</key>
 		<string>4978922145</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>6489167134</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>8404884036</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>4026655320</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>6269675286</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>9526394010</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>4954408398</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>4407613482</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>9143250633</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>7899409581</string>
 		<key>Email</key>
-		<string>www@vesti.lv</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1176522764</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1423873926</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -159,51 +159,171 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BBC Radio 1</string>
+			<string>Cork&apos;s 96FM</string>
 			<key>logo</key>
-			<string>BBC1</string>
+			<string>96FM</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/bbcradio1.m3u</string>
+			<string>http://stream3.radiomonitor.com/96FM.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream3.radiomonitor.com/96FM-AAC.m3u</string>
 			<key>note</key>
-			<string>National (Top 30)</string>
+			<string>Top 30 (Cork)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BBC Radio 2</string>
+			<string>98FM</string>
 			<key>logo</key>
-			<string>BBC2</string>
+			<string>98FM</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/bbcradio2.m3u</string>
+			<string>http://ice2.gocaster.net/98.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>National (Popular / Contemporary)</string>
+			<string>Hot Contemporary</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BBC Radio 3</string>
+			<string>Beat 102-103</string>
 			<key>logo</key>
-			<string>BBC3</string>
+			<string>Beat</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/bbcradio3.m3u</string>
+			<string>http://184.154.145.114:8013/beataac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>National (Classical)</string>
+			<string>Top 30 (Waterford)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BBC Radio 4</string>
+			<string>C103 North</string>
 			<key>logo</key>
-			<string>BBC4</string>
+			<string>C103</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/bbcradio4.m3u</string>
+			<string>http://stream3.radiomonitor.com/C103-North.m3u</string>
+			<key>http</key>
+			<string>http://stream3.radiomonitor.com/C103-North-AAC.m3u</string>
+			<key>note</key>
+			<string>Mallow</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>C103 West</string>
+			<key>logo</key>
+			<string>C10</string>
+			<key>link</key>
+			<string>http://stream3.radiomonitor.com/C103-West.m3u</string>
+			<key>http</key>
+			<string>http://stream3.radiomonitor.com/C103-West-AAC.m3u</string>
+			<key>note</key>
+			<string>Bandon</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Clare FM</string>
+			<key>logo</key>
+			<string>Clare</string>
+			<key>link</key>
+			<string>http://icy-e-04.sharp-stream.com/clarefm.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>National (News / Feature programming)</string>
+			<string>Ennis</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic Hits 4FM</string>
+			<key>logo</key>
+			<string>4FM</string>
+			<key>link</key>
+			<string>http://sirius.shoutca.st:8166/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://sirius.shoutca.st:8188/listen.pls?sid=1</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dublin City FM</string>
+			<key>logo</key>
+			<string>Dublin</string>
+			<key>link</key>
+			<string>http://stream.bts.ie:8081/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dublin South FM</string>
+			<key>logo</key>
+			<string>South</string>
+			<key>link</key>
+			<string>http://uk1.internet-radio.com:15047/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dundalk FM</string>
+			<key>logo</key>
+			<string>Dundalk</string>
+			<key>link</key>
+			<string>http://80.249.249.245:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>East Coast FM</string>
+			<key>logo</key>
+			<string>Coast</string>
+			<key>link</key>
+			<string>http://sirius.shoutca.st:8461/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://sirius.shoutca.st:8673/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Top 30 (Bray)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM104</string>
+			<key>logo</key>
+			<string>FM104</string>
+			<key>link</key>
+			<string>http://31.14.40.241:6184/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galway Bay FM</string>
+			<key>logo</key>
+			<string>Galway</string>
+			<key>link</key>
+			<string>http://91.121.0.110:2199/tunein/damburke.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Highland Radio</string>
+			<key>logo</key>
+			<string>Highland</string>
+			<key>link</key>
+			<string>http://www.highlandradio.com/highland.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Letterkenny</string>
 		</dict>
 	</array>
 </dict>
