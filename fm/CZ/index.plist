@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>ČRo Radiožurnál</string>
+			<key>logo</key>
+			<string>Cro</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/cro1-64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/cro1-128.mp3.m3u</string>
+			<key>note</key>
+			<string>News, current affairs and music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Dvojka</string>
+			<key>logo</key>
+			<string>Dvojka</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/cro2-64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/cro2-128.mp3.m3u</string>
+			<key>note</key>
+			<string>Entertainment and education</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Vltava</string>
+			<key>logo</key>
+			<string>Vltava</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/cro3-64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/cro3-128.mp3.m3u</string>
+			<key>note</key>
+			<string>Culture</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Plus</string>
+			<key>logo</key>
+			<string>Plus</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croplus64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croplus128.mp3.m3u</string>
+			<key>note</key>
+			<string>Analysis, current affairs and science</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Radio Wave</string>
+			<key>logo</key>
+			<string>Wave</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crowave-64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crowave-128.mp3.m3u</string>
+			<key>note</key>
+			<string>Youth programming</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo D-dur</string>
+			<key>logo</key>
+			<string>D-dur</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croddur-64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croddur-128.mp3.m3u</string>
+			<key>note</key>
+			<string>Classical music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Jazz</string>
+			<key>logo</key>
+			<string>Cro7</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crojazz64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crojazz128.mp3.m3u</string>
+			<key>note</key>
+			<string>Jazz music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Rádio Junior</string>
+			<key>logo</key>
+			<string>Junior1</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crojuniormaxi64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crojuniormaxi128.mp3.m3u</string>
+			<key>note</key>
+			<string>Children programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Radio Retro</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croretro64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croretro128.mp3.m3u</string>
+			<key>note</key>
+			<string>Archive programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Rádio Junior Písničky</string>
+			<key>logo</key>
+			<string>Junior2</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crojuniormini32.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crojuniormini128.mp3.m3u</string>
+			<key>note</key>
+			<string>Children programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Radio Praha</string>
+			<key>logo</key>
+			<string>Praha</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/cro7-64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/cro7-128.mp3.m3u</string>
+			<key>note</key>
+			<string>International service</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Sport</string>
+			<key>logo</key>
+			<string>Sport</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crosport64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crosport128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Brno</string>
+			<key>logo</key>
+			<string>Brno</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crobrno64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crobrno128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
