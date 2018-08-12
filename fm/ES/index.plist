@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>RNE Radio Nacional</string>
+			<key>logo</key>
+			<string>Nacional</string>
+			<key>link</key>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/rne.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/information/features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE Radio Clásica</string>
+			<key>logo</key>
+			<string>RNE</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rneradioclasica.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical/cultural programming</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE Radio 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radio3.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE Ràdio 4</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radio4.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/music/features (Catalan)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE Radio 5 Todo Noticias</string>
+			<key>logo</key>
+			<string>5</string>
+			<key>link</key>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radio5.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Exterior</string>
+			<key>logo</key>
+			<string>Exterior</string>
+			<key>link</key>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radioexterior.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser</string>
+			<key>logo</key>
+			<string>Cadena</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CADENASER.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/sports</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Barcelona</string>
+			<key>logo</key>
+			<string>Ser</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/SER_BARCELONA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/sports</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Bilbao</string>
+			<key>logo</key>
+			<string>Bilbao</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_BILBAO.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/sports</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Sevilla</string>
+			<key>logo</key>
+			<string>Sevilla</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_SEVILLA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/sports</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Extremadura</string>
+			<key>logo</key>
+			<string>Extremadura</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_Extremadura.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/sports (Badajoz)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Valencia</string>
+			<key>logo</key>
+			<string>Valencia</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/sports (Mallorca)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Melilla</string>
+			<key>logo</key>
+			<string>Melilla</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_MELILLA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/sports</string>
+		</dict>
+	</array>
+</dict>
+</plist>
