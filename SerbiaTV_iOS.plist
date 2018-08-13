@@ -7,15 +7,15 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>USATele</string>
+		<string>1</string>
 		<key>Back</key>
-		<string>USATele</string>
+		<string>1</string>
 		<key>Banner</key>
-		<string>6707868027</string>
+		<string>1</string>
 		<key>Header</key>
-		<string>USATele</string>
+		<string>1</string>
 		<key>Footer</key>
-		<string>USATele</string>
+		<string>1</string>
 		<key>Email</key>
 		<string>shelvinscare@gmail.com</string>
 		<key>Alternative</key>
@@ -29,19 +29,129 @@
 		<key>Delay</key>
 		<integer>2</integer>
 		<key>DemoMode</key>
-		<string>10</string>
+		<string>9</string>
 	</dict>
 	<key>Content</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>RROKUM</string>
+			<key>logo</key>
+			<string>Rrokum</string>
+			<key>link</key>
+			<string>https://www.rrokum.tv/?page_id=331</string>
+			<key>http</key>
+			<string>https://www.rrokum.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ 1</string>
+			<key>logo</key>
+			<string>Test2</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ 2</string>
+			<key>logo</key>
+			<string>Test3</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ТВ Дуга Плус</string>
+			<key>logo</key>
+			<string>Duga</string>
+			<key>link</key>
+			<string>http://www.tvdugaplus.com/</string>
+			<key>http</key>
+			<string>http://www.rtvduga.com/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Jazeera Balkans</string>
+			<key>logo</key>
+			<string>Test4</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TOP SOUND</string>
+			<key>logo</key>
+			<string>TopSound</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TV+</string>
+			<key>logo</key>
+			<string>Test1</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Jazeera</string>
+			<key>logo</key>
+			<string>Jazeera</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>euronews</string>
+			<key>logo</key>
+			<string>Euronews</string>
+			<key>link</key>
+			<string>http://de.euronews.com/live</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/euronewsfr/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Bloomberg TV Europe</string>
 			<key>logo</key>
 			<string>bloomberg</string>
 			<key>link</key>
-			<string>http://mn-l.mncdn.com/bloomberght/bloomberght2/radyodelisi.m3u8</string>
+			<string>https://www.bloomberg.com/live/europe</string>
 			<key>http</key>
-			<string>http://mn-l.mncdn.com/bloomberght/bloomberght2/radyodelisi.m3u8</string>
+			<string>https://www.bloomberg.com/live/us</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -49,19 +159,9 @@
 			<key>logo</key>
 			<string>Sky</string>
 			<key>link</key>
-			<string>http://212.8.248.197:8080/live/osama1/osama1/550.ts</string>
+			<string>http://news.sky.com/watch-live</string>
 			<key>http</key>
-			<string>http://212.8.248.197:8080/live/osama1/osama1/550.ts</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rrokum</string>
-			<key>logo</key>
-			<string>Rrokum</string>
-			<key>link</key>
-			<string>http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8</string>
-			<key>http</key>
-			<string>http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8</string>
+			<string>https://www.youtube.com/user/skynews</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -69,39 +169,9 @@
 			<key>logo</key>
 			<string>N1</string>
 			<key>link</key>
-			<string>http://141.136.14.18/kanal1/kanal1_1500/index.m3u8</string>
+			<string>http://rs.n1info.com/N1-Uzivo</string>
 			<key>http</key>
-			<string>http://141.136.14.18/kanal1/kanal1_1500/index.m3u8</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>СОС канал</string>
-			<key>logo</key>
-			<string>SOS</string>
-			<key>link</key>
-			<string>http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8</string>
-			<key>http</key>
-			<string>http://tvstream.tvtopsound.com:1935/live/ngrp:mpegts.stream_all/chunklist_w1960175513_b1248000.m3u8</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Subotica</string>
-			<key>logo</key>
-			<string>Subotica</string>
-			<key>link</key>
-			<string>http://89.201.163.244:8080/hls/hdmi.m3u8</string>
-			<key>http</key>
-			<string>http://w10.streamgb.com:1935/dugaplus/dugaplus/playlist.m3u8</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>K23</string>
-			<key>logo</key>
-			<string>K23</string>
-			<key>link</key>
-			<string>rtsp://212.200.255.151/rtv2</string>
-			<key>http</key>
-			<string>http://edge-de-01.masknet.tv/soskanal/soskanal/playlist.m3u8</string>
+			<string>http://rs.n1info.com</string>
 		</dict>
 	</array>
 </dict>
