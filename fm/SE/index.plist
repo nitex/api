@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P1</string>
+			<key>logo</key>
+			<string>P1</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/132-lo-aac.pls</string>
+			<key>note</key>
+			<string>News / Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P2</string>
+			<key>logo</key>
+			<string>P2</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/163-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/163-lo-aac.pls</string>
+			<key>note</key>
+			<string>Classical / Cultural</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P2 Musik</string>
+			<key>logo</key>
+			<string>Musik</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/2562-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/2562-lo-aac.pls</string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P2 Världen</string>
+			<key>logo</key>
+			<string>Sveriges</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/2619-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/2619-lo-aac.pls</string>
+			<key>note</key>
+			<string>Eclectro </string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P3</string>
+			<key>logo</key>
+			<string>P3</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/164-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/164-lo-aac.pls</string>
+			<key>note</key>
+			<string>News / music for young</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P3 Star</string>
+			<key>logo</key>
+			<string>Star</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/1607-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/1607-lo-aac.pls</string>
+			<key>note</key>
+			<string>Top 30 / Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P4 med Radiosporten</string>
+			<key>logo</key>
+			<string>Radiosporten</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/179-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/179-lo-aac.pls</string>
+			<key>note</key>
+			<string>Sport / Talk / Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio P4 Blekinge</string>
+			<key>logo</key>
+			<string>Blekinge</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/213-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/213-lo-aac.pls</string>
+			<key>note</key>
+			<string>Karlskrona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio Sisuradio</string>
+			<key>logo</key>
+			<string>Sisuradio</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/226-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/226-lo-aac.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio SR Klassiskt</string>
+			<key>logo</key>
+			<string>Klassiskt</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/1603-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/1603-lo-aac.pls</string>
+			<key>note</key>
+			<string>Classical music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio SR Sápmi</string>
+			<key>logo</key>
+			<string>SR</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/224-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/224-lo-aac.pls</string>
+			<key>note</key>
+			<string>Sámi</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio Radioapans knattekanal</string>
+			<key>logo</key>
+			<string>Radioapans</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/2755-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/2755-lo-aac.pls</string>
+			<key>note</key>
+			<string>Children programming</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sveriges Radio Din gata</string>
+			<key>logo</key>
+			<string>Din</string>
+			<key>link</key>
+			<string>http://sverigesradio.se/topsy/direkt/2576-hi-mp3.pls</string>
+			<key>http</key>
+			<string>http://sverigesradio.se/topsy/direkt/2576-lo-aac.pls</string>
+			<key>note</key>
+			<string>HipHop / RnB</string>
+		</dict>
+	</array>
+</dict>
+</plist>
