@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Deutschlandfunk</string>
+			<key>logo</key>
+			<string>Deutschlandfunk</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlf_64.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlf_128.m3u</string>
+			<key>note</key>
+			<string>News / Information (Cologne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deutschlandradio Kultur</string>
+			<key>logo</key>
+			<string>Kultur</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_64.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_128.m3u</string>
+			<key>note</key>
+			<string>Arts / Culture</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deutschlandfunk Nova</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_64.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_128.m3u</string>
+			<key>note</key>
+			<string>Education / Science (Cologne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR 90,3</string>
+			<key>logo</key>
+			<string>90,3</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Features (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR 1 Niedersachsen</string>
+			<key>logo</key>
+			<string>Niedersachsen</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Features (Hannover)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR 1 MV</string>
+			<key>logo</key>
+			<string>MV</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Features (Schwerin)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR 1 Welle Nord</string>
+			<key>logo</key>
+			<string>Welle</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Features / Music (Flensburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hamburg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR Kultur</string>
+			<key>logo</key>
+			<string>NDR</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR Info</string>
+			<key>logo</key>
+			<string>Info</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR Info Spezial</string>
+			<key>logo</key>
+			<string>Spezial</string>
+			<key>link</key>
+			<string>http://ndrstream.ic.llnwd.net/stream/ndrstream_ndrinfo_spezial_hi_mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR Blue</string>
+			<key>logo</key>
+			<string>Blue</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alternative / Eclectic music (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NDR</string>
+			<key>logo</key>
+			<string>NDR</string>
+			<key>link</key>
+			<string>http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
