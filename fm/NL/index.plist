@@ -1,1 +1,222 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio1-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio1-bb-mp3.m3u</string>
+			<key>note</key>
+			<string>News / Feature programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 1 Nieuws24</string>
+			<key>logo</key>
+			<string>Nieuws24</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/nieuws24-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/nieuws24-bb-mp3.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio2-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio2-bb-mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 2 Top 2000</string>
+			<key>logo</key>
+			<string>2000</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio2-top2000-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio2-top2000-aac.m3u</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 2 Liedkunst</string>
+			<key>logo</key>
+			<string>Liedkunst</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio2-liedkunst-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio2-liedkunst-aac.m3u</string>
+			<key>note</key>
+			<string>Comedy / Dutch music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 2 In Concert</string>
+			<key>logo</key>
+			<string>In</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio2-inconcert-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio2-inconcert-aac.m3u</string>
+			<key>note</key>
+			<string>Live music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO 3FM</string>
+			<key>logo</key>
+			<string>3FM</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/3fm-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/3fm-bb-mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO 3FM Serious Talent</string>
+			<key>logo</key>
+			<string>Serious</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/3fm-serioustalent-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/3fm-serioustalent-aac.m3u</string>
+			<key>note</key>
+			<string>New music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO 3FM Alternative</string>
+			<key>logo</key>
+			<string>Alternative</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/3fm-alternative-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/3fm-alternative-aac.m3u</string>
+			<key>note</key>
+			<string>Alternative music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO 3FM On Stage</string>
+			<key>logo</key>
+			<string>On</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/3fm-live-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/3fm-live-aac.m3u</string>
+			<key>note</key>
+			<string>Live music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 4</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio4-bb-mp3.m3u</string>
+			<key>note</key>
+			<string>Classical music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 4 Musicareligiosa</string>
+			<key>logo</key>
+			<string>Musicareligiosa</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-musicareligiosa-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio4-musicareligiosa-aac.m3u</string>
+			<key>note</key>
+			<string>Religious classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 4 Eigentijds</string>
+			<key>logo</key>
+			<string>Eigentijds</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-eigentijds-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio4-eigentijds-aac.m3u</string>
+			<key>note</key>
+			<string>Contemporary classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 4 Jong Klassiek</string>
+			<key>logo</key>
+			<string>Jong</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-jongklassiek-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio4-jongklassiek-aac.m3u</string>
+			<key>note</key>
+			<string>Classical music</string>
+		</dict>
+	</array>
+</dict>
+</plist>
