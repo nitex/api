@@ -1,1 +1,234 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio România Actualitati</string>
+			<key>logo</key>
+			<string>Actualitati</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://stream2.srr.ro:8002/listen.pls</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio România Cultural</string>
+			<key>logo</key>
+			<string>Cultural</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8010/listen.pls</string>
+			<key>http</key>
+			<string>http://stream2.srr.ro:8012/listen.pls</string>
+			<key>note</key>
+			<string>Culture</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio România Muzical</string>
+			<key>logo</key>
+			<string>Muzical</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8020/listen.pls</string>
+			<key>http</key>
+			<string>http://stream2.srr.ro:8022/listen.pls</string>
+			<key>note</key>
+			<string>Classical Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio România Antena Satelor</string>
+			<key>logo</key>
+			<string>Satelor</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8040/listen.pls</string>
+			<key>http</key>
+			<string>http://stream2.srr.ro:8042/listen.pls</string>
+			<key>note</key>
+			<string>Talk / Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio 3Net</string>
+			<key>logo</key>
+			<string>3Net</string>
+			<key>link</key>
+			<string>http://media.3netmedia.ro:8000/Live32.m3u</string>
+			<key>http</key>
+			<string>http://media.3netmedia.ro:8000/Live.m3u</string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Bucuresti FM</string>
+			<key>logo</key>
+			<string>Bucuresti</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8030/listen.pls</string>
+			<key>http</key>
+			<string>http://stream2.srr.ro:8032/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Cluj</string>
+			<key>logo</key>
+			<string>Cluj</string>
+			<key>link</key>
+			<string>http://89.238.227.6:8384/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cluj Napoca</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Antena Sibiului</string>
+			<key>logo</key>
+			<string>Sibiului</string>
+			<key>link</key>
+			<string>http://89.238.227.6:8380/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Constanta</string>
+			<key>logo</key>
+			<string>Constanta</string>
+			<key>link</key>
+			<string>http://89.238.227.6:8332/listen.pls</string>
+			<key>http</key>
+			<string>http://89.238.227.6:8336/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Iasi</string>
+			<key>logo</key>
+			<string>Iasi</string>
+			<key>link</key>
+			<string>http://89.238.227.6:8202/listen.pls</string>
+			<key>http</key>
+			<string>http://89.238.227.6:8200/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Resita</string>
+			<key>logo</key>
+			<string>Resita</string>
+			<key>link</key>
+			<string>http://89.238.227.6:8344/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Oltenia Craiova</string>
+			<key>logo</key>
+			<string>Craiova</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8370/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Târgu Mures</string>
+			<key>logo</key>
+			<string>Mures</string>
+			<key>link</key>
+			<string>http://streaming.radiomures.ro:8302/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Timisoara</string>
+			<key>logo</key>
+			<string>Timisoara</string>
+			<key>link</key>
+			<string>http://www.radio-timisoara.ro/live/RT_FM.m3u</string>
+			<key>http</key>
+			<string>http://www.radio-timisoara.ro/live/RT_AM.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRR Radio Arad</string>
+			<key>logo</key>
+			<string>Arad</string>
+			<key>link</key>
+			<string>http://www.radio-timisoara.ro/live/RT_FM_ARAD.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Timisoara</string>
+		</dict>
+	</array>
+</dict>
+</plist>
