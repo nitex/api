@@ -51,6 +51,30 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>DR Nyheder</string>
+			<key>logo</key>
+			<string>Nyheder</string>
+			<key>link</key>
+			<string>http://live-icy.gss.dr.dk:8000/A/A02L.mp3.m3u</string>
+			<key>http</key>
+			<string>http://live-icy.gss.dr.dk:8000/A/A02H.mp3.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DR Ramasjang</string>
+			<key>logo</key>
+			<string>Ramasjang</string>
+			<key>link</key>
+			<string>http://live-icy.gss.dr.dk:8000/A/A24L.mp3.m3u</string>
+			<key>http</key>
+			<string>http://live-icy.gss.dr.dk:8000/A/A24H.mp3.m3u</string>
+			<key>note</key>
+			<string>Children programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DR P1</string>
 			<key>logo</key>
 			<string>P1</string>
@@ -180,30 +204,6 @@
 			<string>http://live-icy.gss.dr.dk:8000/A/A22H.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>DR Ramasjang</string>
-			<key>logo</key>
-			<string>Ramasjang</string>
-			<key>link</key>
-			<string>http://live-icy.gss.dr.dk:8000/A/A24L.mp3.m3u</string>
-			<key>http</key>
-			<string>http://live-icy.gss.dr.dk:8000/A/A24H.mp3.m3u</string>
-			<key>note</key>
-			<string>Children programmes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>DR Nyheder</string>
-			<key>logo</key>
-			<string>Nyheder</string>
-			<key>link</key>
-			<string>http://live-icy.gss.dr.dk:8000/A/A02L.mp3.m3u</string>
-			<key>http</key>
-			<string>http://live-icy.gss.dr.dk:8000/A/A02H.mp3.m3u</string>
-			<key>note</key>
-			<string>News</string>
 		</dict>
 	</array>
 </dict>
