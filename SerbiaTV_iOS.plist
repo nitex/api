@@ -47,7 +47,7 @@
 			<key>name</key>
 			<string>РТВ 1</string>
 			<key>logo</key>
-			<string>Test2</string>
+			<string>Test3</string>
 			<key>link</key>
 			<string>rtsp://212.200.255.151/rtv1</string>
 			<key>http</key>
@@ -57,7 +57,7 @@
 			<key>name</key>
 			<string>РТВ 2</string>
 			<key>logo</key>
-			<string>Test3</string>
+			<string>Test2</string>
 			<key>link</key>
 			<string>rtsp://212.200.255.151/rtv2</string>
 			<key>http</key>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>Test4</string>
 			<key>link</key>
-			<string>http://89.201.163.244:8080/hls/hdmi.m3u8</string>
+			<string>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</string>
 			<key>http</key>
-			<string>http://89.201.163.244:8080/hls/hdmi.m3u8</string>
+			<string>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -109,9 +109,9 @@
 			<key>logo</key>
 			<string>Jazeera</string>
 			<key>link</key>
-			<string></string>
+			<string>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,9 +119,9 @@
 			<key>logo</key>
 			<string>Euronews</string>
 			<key>link</key>
-			<string></string>
+			<string>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_en.m3u8</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,9 +139,9 @@
 			<key>logo</key>
 			<string>Sky</string>
 			<key>link</key>
-			<string>http://212.8.248.197:8080/live/osama1/osama1/550.ts</string>
+			<string>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</string>
 			<key>http</key>
-			<string>http://212.8.248.197:8080/live/osama1/osama1/550.ts</string>
+			<string>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</string>
 		</dict>
 	</array>
 </dict>
