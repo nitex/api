@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>RTBF La Première</string>
+			<key>logo</key>
+			<string>La</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbflaprem1eremp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbflaprem1ereaac.m3u</string>
+			<key>note</key>
+			<string>Music / Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF Classic 21</string>
+			<key>logo</key>
+			<string>21</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfclassic21mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfclassic21aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF Classic 21 60s</string>
+			<key>logo</key>
+			<string>60s</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfc21-60mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF Classic 21 70s</string>
+			<key>logo</key>
+			<string>70s</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfc21-70mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF Classic 21 80s</string>
+			<key>logo</key>
+			<string>80s</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfc21-80mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF Pure FM</string>
+			<key>logo</key>
+			<string>Pure</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfpuremp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfpureaac.m3u</string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF Pure 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfpure2mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF VivaCité Brussels</string>
+			<key>logo</key>
+			<string>Brussels</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivabxlmp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivabxlaac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF VivaCité Liège</string>
+			<key>logo</key>
+			<string>Liege</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivaliegemp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivaliegeaac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF VivaCité Namur</string>
+			<key>logo</key>
+			<string>Namur</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivanamurbwmp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivanamurbwaac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF VivaCité Mons</string>
+			<key>logo</key>
+			<string>Mons</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivahainautmp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivahainautaac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF VivaCité Charleroi</string>
+			<key>logo</key>
+			<string>Charleroi</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivacharleroimp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivacharleroiaac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTBF VivaCité Arlon</string>
+			<key>logo</key>
+			<string>Arlon</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivaluxmp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_rtbfvivaluxaac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
