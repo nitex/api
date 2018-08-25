@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>RTS Radio Beograd 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://rts.ipradio.rs:8002/listen.pls</string>
+			<key>http</key>
+			<string>http://rts.ipradio.rs:8003/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTS Radio Beograd 202</string>
+			<key>logo</key>
+			<string>202</string>
+			<key>link</key>
+			<string>http://rts.ipradio.rs:8006/listen.pls</string>
+			<key>http</key>
+			<string>http://rts.ipradio.rs:8007/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTS Radio Beograd 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://rts.ipradio.rs:8004/listen.pls</string>
+			<key>http</key>
+			<string>http://rts.ipradio.rs:8005/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ Radio Novi Sad 1</string>
+			<key>logo</key>
+			<string>Novi</string>
+			<key>link</key>
+			<string>http://82.117.194.13:9020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ Radio Novi Sad 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://82.117.194.13:9010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hungarian programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ Radio Novi Sad 3</string>
+			<key>logo</key>
+			<string>Sad</string>
+			<key>link</key>
+			<string>http://82.117.194.13:9030/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naxi Radio</string>
+			<key>logo</key>
+			<string>Naxi</string>
+			<key>link</key>
+			<string>http://naxi128.streaming.rs:9150/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naxi Ušce Shopping Radio</string>
+			<key>logo</key>
+			<string>Shopping</string>
+			<key>link</key>
+			<string>http://http//naxidigital-usce128.streaming.rs:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40, Pop, Dance, House</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naxi House Radio</string>
+			<key>logo</key>
+			<string>House</string>
+			<key>link</key>
+			<string>http://naxidigital-house128.streaming.rs:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naxi 80-e Radio</string>
+			<key>logo</key>
+			<string>80</string>
+			<key>link</key>
+			<string>http://naxidigital-80s128.streaming.rs:8040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naxi Cafe Radio</string>
+			<key>logo</key>
+			<string>Cafe</string>
+			<key>link</key>
+			<string>http://naxidigital-cafe128.streaming.rs:8020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop, Jazz, Chillout</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naxi Classic Radio</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://naxidigital-classic128.streaming.rs:8030/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical, Instrumental</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naxi Evergreen Radio</string>
+			<key>logo</key>
+			<string>Evergreen</string>
+			<key>link</key>
+			<string>http://naxidigital-evergreen128.streaming.rs:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+	</array>
+</dict>
+</plist>
