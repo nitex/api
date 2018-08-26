@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>HR1 - Prvi</string>
+			<key>logo</key>
+			<string>HR1</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/program1aac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/features/Croatian music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR2 - Drugi</string>
+			<key>logo</key>
+			<string>HR2</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/program2aac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Light entertainment/pop music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR3 - Treci</string>
+			<key>logo</key>
+			<string>HR3</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/program3aac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Culture/classical music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Osijek</string>
+			<key>logo</key>
+			<string>Osijek</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/osijekaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Pula</string>
+			<key>logo</key>
+			<string>Pula</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/pulaaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Rijeka</string>
+			<key>logo</key>
+			<string>Rijeka</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/rijekaaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Split</string>
+			<key>logo</key>
+			<string>Split</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/splitaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Sljeme</string>
+			<key>logo</key>
+			<string>Sljeme</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/sljemeaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Dubrovnik</string>
+			<key>logo</key>
+			<string>Dubrovnik</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/dubrovnikaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Knin</string>
+			<key>logo</key>
+			<string>Knin</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/kninaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio Zadar</string>
+			<key>logo</key>
+			<string>Zadar</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/zadaraac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Glas Hrvatske</string>
+			<key>logo</key>
+			<string>Glas</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/voiceofcroatiaaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HR Radio</string>
+			<key>logo</key>
+			<string>Zadar</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/zadaraac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
