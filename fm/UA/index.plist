@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Наше Радіо</string>
+			<key>logo</key>
+			<string>Nashe</string>
+			<key>link</key>
+			<string>http://cast.radiogroup.com.ua:8000/nashe.m3u</string>
+			<key>http</key>
+			<string>http://cast.radiogroup.com.ua:8000/nashe.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>АвтоРадіо</string>
+			<key>logo</key>
+			<string>AvtoRadio</string>
+			<key>link</key>
+			<string>http://cast.radiogroup.com.ua:8000/avtoradio.m3u</string>
+			<key>http</key>
+			<string>http://cast.radiogroup.com.ua:8000/avtoradio.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>АвтоРадіо Маріуполь</string>
+			<key>logo</key>
+			<string>Mariupol</string>
+			<key>link</key>
+			<string>http://radio.format-tv.net:8010/auto.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радіо Трек</string>
+			<key>logo</key>
+			<string>Trek</string>
+			<key>link</key>
+			<string>http://radio.rivne.net:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rivne</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Эра FM</string>
+			<key>logo</key>
+			<string>Era</string>
+			<key>link</key>
+			<string>http://212.26.129.2:8000/era96.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News / Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ретро FM</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>http://cast.radiogroup.com.ua:8000/retro.m3u</string>
+			<key>http</key>
+			<string>http://cast.radiogroup.com.ua:8000/retro.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радіо Шансон - 101.9 FM </string>
+			<key>logo</key>
+			<string>Chanson</string>
+			<key>link</key>
+			<string>http://media.brg.ua/m3u/shanson64.m3u</string>
+			<key>http</key>
+			<string>http://media.brg.ua/m3u/shanson128.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Русское Радио Украина</string>
+			<key>logo</key>
+			<string>Russkoe</string>
+			<key>link</key>
+			<string>http://online-rusradio.tavrmedia.ua:8000/RusRadio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus</string>
+			<key>logo</key>
+			<string>Europa</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus 107 FM</string>
+			<key>logo</key>
+			<string>Europa</string>
+			<key>link</key>
+			<string>http://radio.adamant.ua/europafm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus Ukraine 92,8 FM</string>
+			<key>logo</key>
+			<string>Plus</string>
+			<key>link</key>
+			<string>http://cast.radiogroup.com.ua:8000/europaplus.m3u</string>
+			<key>http</key>
+			<string>http://cast.radiogroup.com.ua:8000/europaplus128.aac.m3u</string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus 102,5 FM</string>
+			<key>logo</key>
+			<string>102,5</string>
+			<key>link</key>
+			<string>http://europaplus.dp.ua:8000/evropa.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dnipro</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string>Nashe</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
