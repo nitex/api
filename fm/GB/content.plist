@@ -33,11 +33,11 @@
 		<key>Email</key>
 		<string>example@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>10000000</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>10000000</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>10000000</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -47,6 +47,18 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
