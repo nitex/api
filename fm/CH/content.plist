@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>www@vesti.lv</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 1</string>
+			<key>logo</key>
+			<string>SRF</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/drs1/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/drs1/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Basel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 1 Aargau Solothurn</string>
+			<key>logo</key>
+			<string>Aargau</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_ag_so/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_ag_so/aacp_32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 1 Basel Baselland</string>
+			<key>logo</key>
+			<string>Basel</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_bs_bl/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 1 Bern Freibourg Wallis</string>
+			<key>logo</key>
+			<string>Wallis</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_be_fr_vs/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_be_fr_vs/aacp_32.m3u</string>
+			<key>note</key>
+			<string>News / Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 1 Ostschweiz</string>
+			<key>logo</key>
+			<string>Ostschweiz</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_ost/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_ost/aacp_32.m3u</string>
+			<key>note</key>
+			<string>St.Gallen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 1 Zentralschweiz</string>
+			<key>logo</key>
+			<string>Zentralschweiz</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_zentr/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_zentr/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Luzern</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 1 Zürich Schaffhausen</string>
+			<key>logo</key>
+			<string>Schaffhausen</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_zh_sh/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_zh_sh/aacp_32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 2 Kultur</string>
+			<key>logo</key>
+			<string>Kultur</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/drs2/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/drs2/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Culture / Classical / Jazz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/drs3/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/drs3/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Rock / Pop / Entertainment</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF 4 News</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/drs4news/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/drs4news/aacp_32.m3u</string>
+			<key>note</key>
+			<string>News / Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF Virus</string>
+			<key>logo</key>
+			<string>Virus</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/drsvirus/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Youth programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SRF Musikwelle</string>
+			<key>logo</key>
+			<string>Musikwelle</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/drsmw/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/drsmw/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Traditional/folk music</string>
+		</dict>
+	</array>
+</dict>
+</plist>
