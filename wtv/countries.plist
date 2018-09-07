@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>General (European Union, EU)</string>
+		<key>code</key>
+		<string>EU</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Albania (Shqipëria)</string>
 		<key>code</key>
 		<string>AL</string>
@@ -84,7 +90,7 @@
 		<key>name</key>
 		<string>England (UK)</string>
 		<key>code</key>
-		<string>GB</string>
+		<string>ENG</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -204,7 +210,7 @@
 		<key>name</key>
 		<string>Northern Ireland (UK)</string>
 		<key>code</key>
-		<string>GB</string>
+		<string>NIR</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -240,7 +246,7 @@
 		<key>name</key>
 		<string>Scotland (UK)</string>
 		<key>code</key>
-		<string>GB</string>
+		<string>SCT</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -300,7 +306,7 @@
 		<key>name</key>
 		<string>Wales (UK)</string>
 		<key>code</key>
-		<string>GB</string>
+		<string>WLS</string>
 	</dict>
 </array>
 </plist>
