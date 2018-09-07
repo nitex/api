@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>MR1 Kossuth Rádió</string>
+			<key>logo</key>
+			<string>MR1</string>
+			<key>link</key>
+			<string>http://stream001.radio.hu:8080/mr1.aac.m3u</string>
+			<key>http</key>
+			<string>http://stream001.radio.hu:8080/mr1.mp3.m3u</string>
+			<key>note</key>
+			<string>News/Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MR2 Petofi Rádió</string>
+			<key>logo</key>
+			<string>MR2</string>
+			<key>link</key>
+			<string>http://stream001.radio.hu:8080/mr2.aac.m3u</string>
+			<key>http</key>
+			<string>http://stream001.radio.hu:8080/mr2.mp3.m3u</string>
+			<key>note</key>
+			<string>Pop, Alternative, World</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MR3 Bartók Rádió</string>
+			<key>logo</key>
+			<string>MR3</string>
+			<key>link</key>
+			<string>http://stream001.radio.hu:8080/mr3.aac.m3u</string>
+			<key>http</key>
+			<string>http://stream001.radio.hu:8080/mr3.mp3.m3u</string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MR4 Nemzetiségi Adások</string>
+			<key>logo</key>
+			<string>MR4</string>
+			<key>link</key>
+			<string>http://stream001.radio.hu:8080/mr4.aac.m3u</string>
+			<key>http</key>
+			<string>http://stream001.radio.hu:8080/mr4.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MR5 Parlamenti Adások</string>
+			<key>logo</key>
+			<string>MR5</string>
+			<key>link</key>
+			<string>http://stream001.radio.hu:8080/mr5.aac.m3u</string>
+			<key>http</key>
+			<string>http://stream001.radio.hu:8080/mr5.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dankó Rádió</string>
+			<key>logo</key>
+			<string>Danko</string>
+			<key>link</key>
+			<string>http://stream001.radio.hu:8080/mr7.aac.m3u</string>
+			<key>http</key>
+			<string>http://stream001.radio.hu:8080/mr7.mp3.m3u</string>
+			<key>note</key>
+			<string>Hungarian songs, Folk, Opera</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Duna World</string>
+			<key>logo</key>
+			<string>Duna</string>
+			<key>link</key>
+			<string>https://www.mediaklikk.hu/duna-world-radio-elo/</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger</string>
+			<key>logo</key>
+			<string>Eger</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:18000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger TOP Hits</string>
+			<key>logo</key>
+			<string>TOP</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8160/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Club</string>
+			<key>logo</key>
+			<string>Club</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8110/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Light</string>
+			<key>logo</key>
+			<string>Light</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8120/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Soft hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Hazai zenék</string>
+			<key>logo</key>
+			<string>Hazai</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8130/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Oldies</string>
+			<key>logo</key>
+			<string>Oldies</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8140/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>60s/70s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Retro Café</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8150/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>80s/90s</string>
+		</dict>
+	</array>
+</dict>
+</plist>
