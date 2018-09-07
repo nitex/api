@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Авторадио</string>
+			<key>logo</key>
+			<string>AvtoRadio</string>
+			<key>link</key>
+			<string>http://ic4.101.ru:8000/v3_1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Наше Радио</string>
+			<key>logo</key>
+			<string>Nashe</string>
+			<key>link</key>
+			<string>http://nashe3.hostingradio.ru/nashe-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Russian rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Шансон</string>
+			<key>logo</key>
+			<string>Chanson</string>
+			<key>link</key>
+			<string>http://audio.rambler.ru/action/play.m3u?id=420</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Шансон Уфа</string>
+			<key>logo</key>
+			<string>Ufa</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/chansonufa.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Русское Радио</string>
+			<key>logo</key>
+			<string>Russkoe</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/ru_russkoeradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Russian pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ретро FM (Москва 88,3 FM)</string>
+			<key>logo</key>
+			<string>88,3</string>
+			<key>link</key>
+			<string>http://retroserver.streamr.ru:8043/retro128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ретро FM (Петербург)</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>http://www.onair.eltel.net/retrofm128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus</string>
+			<key>logo</key>
+			<string>Europa</string>
+			<key>link</key>
+			<string>http://ep128server.streamr.ru:8030/ep128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus Top 40</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://eptop128server.streamr.ru:8033/eptop128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus RnB</string>
+			<key>logo</key>
+			<string>RnB</string>
+			<key>link</key>
+			<string>http://eprnb128server.streamr.ru:8061/eprnb128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus PopRock</string>
+			<key>logo</key>
+			<string>PopRock</string>
+			<key>link</key>
+			<string>http://eprock128server.streamr.ru:8062/eprock128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus Fresh</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://epfresh128server.streamr.ru:8034/epfresh128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+	</array>
+</dict>
+</plist>
