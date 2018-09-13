@@ -145,6 +145,16 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Стара Загора</string>
+			<key>logo</key>
+			<string>Zagora</string>
+			<key>link</key>
+			<string>http://95.87.0.78:8080/tvstz.m3u8</string>
+			<key>http</key>
+			<string>http://95.87.0.78:8080/tvstz.m3u8</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Bloomberg TV Bulgaria</string>
 			<key>logo</key>
 			<string>bloomberg</string>
@@ -165,16 +175,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Алфа</string>
-			<key>logo</key>
-			<string>Alfa</string>
-			<key>link</key>
-			<string>http://95.87.0.78:8080/tvstz.m3u8</string>
-			<key>http</key>
-			<string>http://95.87.0.78:8080/tvstz.m3u8</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Magic</string>
 			<key>logo</key>
 			<string>Magic</string>
@@ -182,206 +182,6 @@
 			<string>http://thevoice.bg/stream_magic_tv</string>
 			<key>http</key>
 			<string>http://www.thevoice.bg/player_tv</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>BIT</string>
-			<key>logo</key>
-			<string>BIT</string>
-			<key>link</key>
-			<string>http://www.bitelevision.com/live/</string>
-			<key>http</key>
-			<string>http://www.bitelevision.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>VTV</string>
-			<key>logo</key>
-			<string>VTV</string>
-			<key>link</key>
-			<string>http://www.vtv.bg/?target=online</string>
-			<key>http</key>
-			<string>http://www.vtv.bg</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TVart</string>
-			<key>logo</key>
-			<string>TVart</string>
-			<key>link</key>
-			<string>http://www.tvart.info/</string>
-			<key>http</key>
-			<string>http://www.tvart.info/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>euronews България</string>
-			<key>logo</key>
-			<string>Euronews</string>
-			<key>link</key>
-			<string>http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8</string>
-			<key>http</key>
-			<string>http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sky News</string>
-			<key>logo</key>
-			<string>Sky</string>
-			<key>link</key>
-			<string>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</string>
-			<key>http</key>
-			<string>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/stream6/streamPlaylist.m3u8</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Agro</string>
-			<key>logo</key>
-			<string>Agro</string>
-			<key>link</key>
-			<string>http://www.agrotv.bg/</string>
-			<key>http</key>
-			<string>http://www.agrotv.bg/index.php</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Стара Загора</string>
-			<key>logo</key>
-			<string>Zagora</string>
-			<key>link</key>
-			<string>http://tvstz.com/%D0%BD%D0%B0-%D0%B6%D0%B8%D0%B2%D0%BE</string>
-			<key>http</key>
-			<string>http://tvstz.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Стойчев</string>
-			<key>logo</key>
-			<string>Stoichev</string>
-			<key>link</key>
-			<string>http://www.tvstoichev.com/online</string>
-			<key>http</key>
-			<string>http://www.tvstoichev.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rimex</string>
-			<key>logo</key>
-			<string>Rimex</string>
-			<key>link</key>
-			<string>http://tv.rimex-ltd.com/bg/gleday-na-zhivo</string>
-			<key>http</key>
-			<string>http://tv.rimex-ltd.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>City</string>
-			<key>logo</key>
-			<string>City</string>
-			<key>link</key>
-			<string>http://city.bg/live</string>
-			<key>http</key>
-			<string>http://city.bg</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>100% Ауто Мото</string>
-			<key>logo</key>
-			<string>Auto</string>
-			<key>link</key>
-			<string>http://www.100automoto.tv/</string>
-			<key>http</key>
-			<string>http://www.100automoto.tv/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>DSTV</string>
-			<key>logo</key>
-			<string>DSTV</string>
-			<key>link</key>
-			<string>http://dstv-bg.com/</string>
-			<key>http</key>
-			<string>http://dstv-bg.com/</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Voice</string>
-			<key>logo</key>
-			<string>Voice</string>
-			<key>link</key>
-			<string>http://www.thevoice.bg/stream</string>
-			<key>http</key>
-			<string>http://www.thevoice.bg/player_tv</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tiankov FOLK</string>
-			<key>logo</key>
-			<string>FOLK</string>
-			<key>link</key>
-			<string>http://www.tiankov.com/tiankov-folk.html</string>
-			<key>http</key>
-			<string>http://www.tiankov.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tiankov ORIENT folk</string>
-			<key>logo</key>
-			<string>ORIENT</string>
-			<key>link</key>
-			<string>http://www.tiankov.com/tiankov-orient.html</string>
-			<key>http</key>
-			<string>http://www.tiankov.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tiankov POP folk</string>
-			<key>logo</key>
-			<string>POP</string>
-			<key>link</key>
-			<string>http://www.tiankov.com/tiankov-pop.html</string>
-			<key>http</key>
-			<string>http://www.tiankov.com</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Пловдивска православна телевизия</string>
-			<key>logo</key>
-			<string>Plovdivska</string>
-			<key>link</key>
-			<string>http://www.plovdivskamitropolia.bg/</string>
-			<key>http</key>
-			<string>http://www.plovdivskamitropolia.bg/modules/mod_playerjr/player-licensed5.swf?file=mpegts.stream&amp;wmode=transparent&amp;playlistsize=0&amp;stretching=exactfit&amp;volume=100&amp;streamer=rtmp://31.13.218.108/live/&amp;start=1&amp;autostart=true</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>EbS Europe by Satellite</string>
-			<key>logo</key>
-			<string>EbS</string>
-			<key>link</key>
-			<string>http://ec.europa.eu/avservices/ebs/live.cfm?page=1</string>
-			<key>http</key>
-			<string>http://ec.europa.eu/avservices/ebs/schedule.cfm</string>
 		</dict>
 	</array>
 </dict>
