@@ -35,15 +35,231 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Echorouk (HD الشروق تي في‎‎)</string>
+			<string>Afrique MEdia TV</string>
 			<key>logo</key>
 			<string>Echorouk</string>
 			<key>link</key>
-			<string>https://tv.echoroukonline.com/live/</string>
+			<string>http://afm.streamakaci.com/afm/afm.stream/playlist.m3u8</string>
 			<key>http</key>
-			<string>https://www.echoroukonline.com/#live</string>
+			<string>http://afm.streamakaci.com/afm/afm.stream/playlist.m3u8</string>
 			<key>country</key>
-			<string>Algeria (الجزائر‎)</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FusionPlus</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://play.inacdn.com/playlist_live/43_135_live.m3u8</string>
+			<key>http</key>
+			<string>http://play.inacdn.com/playlist_live/43_135_live.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ora News</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://81.7.13.162/hls/oranews/index.m3u8</string>
+			<key>http</key>
+			<string>http://81.7.13.162/hls/oranews/index.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>OUI TV</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://rtmp.infomaniak.ch/livecast/ouitv/playlist.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTP ?FRICA</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Best FM Mauritius</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8</string>
+			<key>http</key>
+			<string>http://202.123.27.133/hls-live/audio-only/bestfm/_definst_/liveevent/livestream.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVC News</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://77.92.76.135:1935/tvcnews/livestream/playlist.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TV Continental</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://77.92.76.135:1935/tvce/livestream/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://77.92.76.135:1935/tvce/livestream/playlist.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVC</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://77.92.76.135:1935/tvce/livestream/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://77.92.76.135:1935/tvce/livestream/playlist.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Echorouk TV</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8</string>
+			<key>http</key>
+			<string>http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ktn Live</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://103.24.96.74:1935/ktn/ktnnews/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://103.24.96.74:1935/ktn/ktnnews/playlist.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Nabaa</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8</string>
+			<key>http</key>
+			<string>http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/al_nabaa/ls_satlink/b_828.m3u8?token=20151214xjEfuGen5pHAwecru</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Libya TV</string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_%2C264%2C528%2C828%2C.m3u8</string>
+			<key>http</key>
+			<string>http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/libyatv/ls_satlink/b_%2C264%2C528%2C828%2C.m3u8</string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>country</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string>Echorouk</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>country</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -275,7 +491,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Africanews</string>
+			<string>africanews</string>
 			<key>logo</key>
 			<string>Africanews</string>
 			<key>link</key>
