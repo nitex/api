@@ -1,1 +1,210 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>vesti@gmail.com</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Альфа</string>
+			<key>logo</key>
+			<string>Alpha</string>
+			<key>link</key>
+			<string>http://86.57.151.4:8009/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Барановичи</string>
+			<key>logo</key>
+			<string>Baranovichi</string>
+			<key>link</key>
+			<string>http://radio.100fm.by:8000/100fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Душевное</string>
+			<key>logo</key>
+			<string>Dushevnoe</string>
+			<key>link</key>
+			<string>http://imgradio.pro/DushevnoeRadio48.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Гомель</string>
+			<key>logo</key>
+			<string>Gomel</string>
+			<key>link</key>
+			<string>http://s1.radioheart.ru:8001/radiogomelfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Гомель Плюс 103,7 FM</string>
+			<key>logo</key>
+			<string>103</string>
+			<key>link</key>
+			<string>http://s1.radioheart.ru:8001/radiogomel.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Хит Радио</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/hitradioby.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Лидер</string>
+			<key>logo</key>
+			<string>Lider</string>
+			<key>link</key>
+			<string>http://lider-fm.by:8000/radio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lida</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MFM 105.0</string>
+			<key>logo</key>
+			<string>MFM</string>
+			<key>link</key>
+			<string>http://105fm.by/mfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Grodno</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MV</string>
+			<key>logo</key>
+			<string>MV</string>
+			<key>link</key>
+			<string>http://radio.adsl.by:8000/mvolna.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music / Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Новое Радио</string>
+			<key>logo</key>
+			<string>Novoe</string>
+			<key>link</key>
+			<string>http://www.live.bn.by:8000/novoeradio_128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Пилот</string>
+			<key>logo</key>
+			<string>Pilot</string>
+			<key>link</key>
+			<string>http://imgradio.pro/PilotBy128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Гомель 107,4 FM</string>
+			<key>logo</key>
+			<string>107</string>
+			<key>link</key>
+			<string>http://skycast.su:2007/998.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gomel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BA International</string>
+			<key>logo</key>
+			<string>BA</string>
+			<key>link</key>
+			<string>http://87.252.252.78:8000/BA.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+	</array>
+</dict>
+</plist>
