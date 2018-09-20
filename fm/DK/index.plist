@@ -291,6 +291,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Globus</string>
+			<key>logo</key>
+			<string>Globus</string>
+			<key>link</key>
+			<string>http://stream.wlmm.dk/listen.pls?sid=17</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Svendborg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Globus Guld</string>
+			<key>logo</key>
+			<string>Guld</string>
+			<key>link</key>
+			<string>http://stream.wlmm.dk/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rødding</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>go!FM</string>
 			<key>logo</key>
 			<string>goFM</string>
@@ -324,6 +348,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Næstved</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NORDJYSKE (Aura)</string>
+			<key>logo</key>
+			<string>NORDJYSKE</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_aura.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ålborg</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -411,11 +447,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio ABC</string>
 			<key>logo</key>
-			<string></string>
+			<string>ABC</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radioabc.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Randers</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Alfa</string>
+			<key>logo</key>
+			<string>Alfa</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radioalfa.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Randers</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Alfa Midtjylland</string>
+			<key>logo</key>
+			<string>Midtjylland</string>
+			<key>link</key>
+			<string>http://netradio.radioalfa.dk/midtjylland.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Herning</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Alfa Sydfyn</string>
+			<key>logo</key>
+			<string>Sydfyn</string>
+			<key>link</key>
+			<string>http://netradio.radioalfasydfyn.dk/alfasydfyn128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Svendborg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Alfa Silkeborg</string>
+			<key>logo</key>
+			<string>Silkeborg</string>
+			<key>link</key>
+			<string>http://netradio.radioalfa.dk/silkeborg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,11 +507,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Als</string>
 			<key>logo</key>
-			<string></string>
+			<string>Als</string>
 			<key>link</key>
+			<string>http://netradio.radioals.dk:8002/als.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Nordborg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ballerup</string>
+			<key>logo</key>
+			<string>Ballerup</string>
+			<key>link</key>
+			<string>http://stream.vibestream.dk:8010/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -435,11 +531,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Diablo &amp; Alfa Sydfyn</string>
 			<key>logo</key>
-			<string></string>
+			<string>Diablo</string>
 			<key>link</key>
+			<string>http://netradio.radiodiablo.dk/diablo128.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Svendborg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Horsens (VLR)</string>
+			<key>logo</key>
+			<string>Horsens</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radiohorsens.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -447,11 +555,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Klassisk</string>
 			<key>logo</key>
-			<string></string>
+			<string>Klassisk</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair.100fmlive.dk/klassisk_live.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -459,123 +567,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Klitholm</string>
 			<key>logo</key>
-			<string></string>
+			<string>Klitholm</string>
 			<key>link</key>
-			<string></string>
+			<string>http://klitholmstream.radiomax.dk:8002/radioklitholm.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Hvide Sande</string>
 		</dict>
 		<dict>
 			<key>name</key>
