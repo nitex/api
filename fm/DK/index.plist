@@ -579,11 +579,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Køge</string>
 			<key>logo</key>
-			<string></string>
+			<string>Koge</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/dk_radiokoege.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,11 +591,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Limfjord</string>
 			<key>logo</key>
-			<string></string>
+			<string>Limfjord</string>
 			<key>link</key>
+			<string>http://media.limfjordnetradio.dk/limfjord128.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Nykøbing Mors</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio M</string>
+			<key>logo</key>
+			<string>M</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radiom.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Herning</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Max</string>
+			<key>logo</key>
+			<string>Max</string>
+			<key>link</key>
+			<string>http://netradio.radiomax.dk:8002/max.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.radiomax.dk/netradio/playlist.pls</string>
+			<key>note</key>
+			<string>Skjern</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Mojn</string>
+			<key>logo</key>
+			<string>Mojn</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radiomojn.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aabenraa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Nord</string>
+			<key>logo</key>
+			<string>Nord</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radionord.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hørsholm</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Skive</string>
+			<key>logo</key>
+			<string>Skive</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radioskive.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -603,11 +663,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio SLR</string>
 			<key>logo</key>
-			<string></string>
+			<string>SLR</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radioslr.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Næstved</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sydhavsøerne</string>
+			<key>logo</key>
+			<string>Fy</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radioydhavsoerene.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>South Fyn</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Viborg</string>
+			<key>logo</key>
+			<string>Viborg</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/dk_radioviborg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -615,147 +699,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio VLR</string>
 			<key>logo</key>
-			<string></string>
+			<string>VLR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.fynskemedier.dk/vlr.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Vejle</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Skaga FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Skaga</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.wlmm.dk/listen.pls?sid=30</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Hirtshals</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Skala FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Skala</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/dk_skalafm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Esbjerg</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Solo FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Solo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/dk_solofm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Randers</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Tiger FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tiger</string>
 			<key>link</key>
-			<string></string>
+			<string>http://85.202.67.163:8000/stream.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Skagen</string>
 		</dict>
 	</array>
 </dict>
