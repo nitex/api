@@ -615,11 +615,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Ultra Petrich</string>
 			<key>logo</key>
-			<string></string>
+			<string>Petrich</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.ultranet.biz/ultra.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -627,11 +627,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Ultra Pernik</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pernik</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.ultranet.biz/ultrapernik.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -639,11 +639,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Ultra Blagoevgrad</string>
 			<key>logo</key>
-			<string></string>
+			<string>Blagoev</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.ultranet.biz/ultrablagoevgrad.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -651,11 +651,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Vega+ Blagoevgrad</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vega</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.ultranet.biz/vegablagoevgrad.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -663,11 +663,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Vega+ Petrich</string>
 			<key>logo</key>
-			<string></string>
+			<string>Veg</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.ultranet.biz/vegasandanski.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -675,11 +675,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Veronika</string>
 			<key>logo</key>
-			<string></string>
+			<string>Veronika</string>
 			<key>link</key>
-			<string></string>
+			<string>http://149.13.0.80/veronika64.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/veronika.aac.m3u</string>
+			<key>note</key>
+			<string>Pop/Folk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Z-Rock</string>
+			<key>logo</key>
+			<string>Z-Rock</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/z-rock.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -687,87 +699,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Zorana</string>
 			<key>logo</key>
-			<string></string>
+			<string>Zorana</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.gesbg.com/radio128_zorana.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://212.95.165.98:8001/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Pop</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Star</string>
 			<key>link</key>
-			<string></string>
+			<string>http://pulsar.atlantis.bg:8000/starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Classic/Rock</string>
 		</dict>
 	</array>
 </dict>
