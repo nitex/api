@@ -351,11 +351,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Naxi Love Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Love</string>
 			<key>link</key>
-			<string></string>
+			<string>http://naxidigital-love128.streaming.rs:8100/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +363,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Naxi Rock Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rock</string>
 			<key>link</key>
-			<string></string>
+			<string>http://naxidigital-rock128.streaming.rs:8180/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +375,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Naxi Jazz Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Jazz</string>
 			<key>link</key>
-			<string></string>
+			<string>http://naxidigital-jazz128.streaming.rs:8170/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Naxi RnB Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>RnB</string>
 			<key>link</key>
-			<string></string>
+			<string>http://naxidigital-rnb128.streaming.rs:8120/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Naxi Gold Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gold</string>
 			<key>link</key>
-			<string></string>
+			<string>http://naxidigital-gold128.streaming.rs:8060/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,11 +411,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Naxi Boem Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Boem</string>
 			<key>link</key>
-			<string></string>
+			<string>http://naxidigital-boem128.streaming.rs:8160/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,11 +423,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>OK Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>OK</string>
 			<key>link</key>
+			<string>http://live3.okradio.net:8002/listen.pls</string>
+			<key>http</key>
+			<string>http://okradio.net/OkRadio256.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pink Radio</string>
+			<key>logo</key>
+			<string>Pink</string>
+			<key>link</key>
+			<string>http://pink.exyuserver.com/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -435,63 +447,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Prvi Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Prvi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live3.infonetmedia.si:8000/prviradio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Novi Sad</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 021</string>
 			<key>logo</key>
-			<string></string>
+			<string>021</string>
 			<key>link</key>
-			<string></string>
+			<string>http://majestic.wavestreamer.com:3807/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Novi Sad</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 3 (Tri)</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tri</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio3-128.streaming.rs:9200/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Pop/Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 106</string>
 			<key>logo</key>
 			<string></string>
 			<key>link</key>
-			<string></string>
+			<string>http://s1.iqstreaming.com/tunein.php/pmu/playlist.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Kosjerić</string>
 		</dict>
 		<dict>
 			<key>name</key>
