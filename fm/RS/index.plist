@@ -485,7 +485,7 @@
 			<key>name</key>
 			<string>Radio 106</string>
 			<key>logo</key>
-			<string></string>
+			<string>106</string>
 			<key>link</key>
 			<string>http://s1.iqstreaming.com/tunein.php/pmu/playlist.pls</string>
 			<key>http</key>
@@ -495,11 +495,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Antena</string>
 			<key>logo</key>
-			<string></string>
+			<string>Anten</string>
 			<key>link</key>
+			<string>http://antena.topstream.net:19322/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Novi Sad</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Antena Beograd</string>
+			<key>logo</key>
+			<string>Beograd</string>
+			<key>link</key>
+			<string>http://radioantena.rs/live/AntenaBG.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,11 +519,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio AS</string>
 			<key>logo</key>
-			<string></string>
+			<string>AS</string>
 			<key>link</key>
+			<string>http://radioas.kbcnet.rs:8015/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Dance (Novi Sad)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Bravo</string>
+			<key>logo</key>
+			<string>Bravo</string>
+			<key>link</key>
+			<string>http://176.31.239.83:8173/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pozarevac</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio DAK</string>
+			<key>logo</key>
+			<string>DAK</string>
+			<key>link</key>
+			<string>http://85.25.73.243:10150/listen.pls</string>
+			<key>http</key>
+			<string>http://www.radiodak.rs/download/radiodak_winamp.m3u</string>
+			<key>note</key>
+			<string>Folk (Cuprija)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio GAGA</string>
+			<key>logo</key>
+			<string>GAGA</string>
+			<key>link</key>
+			<string>http://87.106.136.203:8600/listen.pls</string>
+			<key>http</key>
+			<string>http://188.40.95.74:2199/tunein/radiogaga.pls</string>
+			<key>note</key>
+			<string>Pop/Rock (Vlasaotince)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Index</string>
+			<key>logo</key>
+			<string>Index</string>
+			<key>link</key>
+			<string>http://195.252.68.166:8040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio JAT</string>
+			<key>logo</key>
+			<string>JAT</string>
+			<key>link</key>
+			<string>http://streaming.radiojat.rs:12121/listen.pls</string>
+			<key>http</key>
+			<string>http://streaming.radiojat.rs:12111/listen.pls</string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kiss FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://176.31.239.83:8020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Folk/Pop (Lazarevac)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ljubava</string>
+			<key>logo</key>
+			<string>Ljubava</string>
+			<key>link</key>
+			<string>http://37.59.78.212:5020/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -519,111 +615,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Morava</string>
 			<key>logo</key>
-			<string></string>
+			<string>Morava</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.radiomorava.rs/playlists/pls96.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://78.129.199.49:12300/listen.pls</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Jagodina</string>
 		</dict>
 		<dict>
 			<key>name</key>
