@@ -51,42 +51,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Radio Focus Sofia</string>
-			<key>logo</key>
-			<string>Focus</string>
-			<key>link</key>
-			<string>http://online.focus-radio.net:8100/sofia.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News/information/music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Focus Kustendil</string>
-			<key>logo</key>
-			<string>Kustendil</string>
-			<key>link</key>
-			<string>http://online.focus-radio.net:8100/kn.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Focus Pirin</string>
-			<key>logo</key>
-			<string>Pirin</string>
-			<key>link</key>
-			<string>http://online.focus-radio.net:8100/pirin.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>BNR1 Program Horizont</string>
 			<key>logo</key>
 			<string>BNR1</string>
@@ -375,11 +339,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 1</string>
 			<key>logo</key>
-			<string></string>
+			<string>1</string>
 			<key>link</key>
+			<string>http://149.13.0.80/radio1128.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/radio1.aac.m3u</string>
+			<key>note</key>
+			<string>Classic</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://149.13.0.80/radio1rock64.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/radio1rock.aac.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 999</string>
+			<key>logo</key>
+			<string>999</string>
+			<key>link</key>
+			<string>http://62.204.158.5:8081/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yambol</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Antena</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://188.126.1.25:8000/antena.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Aurea</string>
 			<key>logo</key>
-			<string></string>
+			<string>Aurea</string>
 			<key>link</key>
-			<string></string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +399,179 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Bella</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bella</string>
 			<key>link</key>
+			<string>http://194.146.235.35:9999/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Petrich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Berkk M</string>
+			<key>logo</key>
+			<string>Berkk</string>
+			<key>link</key>
+			<string>http://www.radioberk.com/on-air/radioberkk.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Montana</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio City</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://149.13.0.80/city64.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/city.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Sofia</string>
+			<key>logo</key>
+			<string>Focus</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/sofia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Kustendil</string>
+			<key>logo</key>
+			<string>Kustendil</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/kn.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Pirin</string>
+			<key>logo</key>
+			<string>Piri</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/pirin.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Pazardjik</string>
+			<key>logo</key>
+			<string>Pazardjik</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/pazardjik.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Smolian</string>
+			<key>logo</key>
+			<string>Smolian</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/smolian.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Bourgas</string>
+			<key>logo</key>
+			<string>Bourgas</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/bs.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Varna</string>
+			<key>logo</key>
+			<string>Varn</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/varna.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Shumen</string>
+			<key>logo</key>
+			<string>Shume</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/shumen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Veliko Turnovo</string>
+			<key>logo</key>
+			<string>Veliko</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/vt.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Vidin</string>
+			<key>logo</key>
+			<string>Vidi</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/vidin.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Sliven</string>
+			<key>logo</key>
+			<string>Sliven</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/sliven.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Fresh</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://193.108.24.21:8000/fresh.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,11 +579,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio K2</string>
 			<key>logo</key>
-			<string></string>
+			<string>K2</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radiok2.bg/radiok2.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,11 +591,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio N-Joy</string>
 			<key>logo</key>
-			<string></string>
+			<string>N-Joy</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.btvradio.bg/njoy.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -435,99 +603,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Nova</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nova</string>
 			<key>link</key>
-			<string></string>
+			<string>http://149.13.0.80/nova128.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://149.13.0.80/nova.aac.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Dance/Electronic</string>
 		</dict>
 		<dict>
 			<key>name</key>
