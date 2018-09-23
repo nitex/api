@@ -87,42 +87,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>РТВ Radio Novi Sad 1</string>
-			<key>logo</key>
-			<string>Novi</string>
-			<key>link</key>
-			<string>http://82.117.194.13:9020/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News/Features</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>РТВ Radio Novi Sad 2</string>
-			<key>logo</key>
-			<string>2</string>
-			<key>link</key>
-			<string>http://82.117.194.13:9010/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Hungarian programmes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>РТВ Radio Novi Sad 3</string>
-			<key>logo</key>
-			<string>Sad</string>
-			<key>link</key>
-			<string>http://82.117.194.13:9030/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>B92</string>
 			<key>logo</key>
 			<string>B92</string>
@@ -627,11 +591,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Nostalgija</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nostalgija</string>
 			<key>link</key>
+			<string>http://nostalgie128.streaming.rs:9250/listen.pls</string>
+			<key>http</key>
+			<string>http://nostalgie64.streaming.rs:9260/listen.pls</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ Radio Novi Sad 1</string>
+			<key>logo</key>
+			<string>Novi</string>
+			<key>link</key>
+			<string>http://82.117.194.13:9020/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News/Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ Radio Novi Sad 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://82.117.194.13:9010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hungarian programmes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РТВ Radio Novi Sad 3</string>
+			<key>logo</key>
+			<string>Sad</string>
+			<key>link</key>
+			<string>http://82.117.194.13:9030/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -639,11 +639,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Novosti</string>
 			<key>logo</key>
-			<string></string>
+			<string>Novosti</string>
 			<key>link</key>
+			<string>http://www.radionovosti.rs:443/radionovosti56s.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Pancevo</string>
+			<key>logo</key>
+			<string>Pancevo</string>
+			<key>link</key>
+			<string>http://162.244.80.21:9980/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -651,11 +663,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Pingvin</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pingvin</string>
 			<key>link</key>
+			<string>http://www.radiopingvin.com/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio S</string>
+			<key>logo</key>
+			<string>S</string>
+			<key>link</key>
+			<string>http://live3.infonetmedia.si:8000/radios.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -663,11 +687,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Trstenik</string>
 			<key>logo</key>
-			<string></string>
+			<string>Trstenik</string>
 			<key>link</key>
-			<string></string>
+			<string>https://us6.listen2myradio.com:2199/tunein/rtvts.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -675,11 +699,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sport FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sport</string>
 			<key>link</key>
-			<string></string>
+			<string>http://195.252.113.118:8012/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -687,75 +711,87 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Studio B</string>
 			<key>logo</key>
-			<string></string>
+			<string>B</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.studiob.rs:8004/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News/Talk/Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Szabadkai Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Szabadkai</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onlineradio.hu:8010/magyar_adas.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Subotica</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>TDI Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>TDI</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.tdiradio.com:9000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Pop</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Top FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Top</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.topfm.rs/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://topfm64.streaming.rs:9285/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Top FM Retro</string>
 			<key>logo</key>
-			<string></string>
+			<string>Retro</string>
 			<key>link</key>
-			<string></string>
+			<string>http://digitalstream.topfm.rs:8010/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Top FM Smooth Jazz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Smooth</string>
 			<key>link</key>
-			<string></string>
+			<string>http://digitalstream.topfm.rs:8005/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top FM DJ Time</string>
+			<key>logo</key>
+			<string>DJ</string>
+			<key>link</key>
+			<string>http://digitalstream.topfm.rs:8015/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Dance</string>
 		</dict>
 	</array>
 </dict>
