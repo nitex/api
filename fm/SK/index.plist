@@ -183,11 +183,359 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Rádio Pyramida</string>
+			<string>Best FM</string>
 			<key>logo</key>
-			<string>Pyramida</string>
+			<string>Best</string>
 			<key>link</key>
-			<string>http://pyramida.rtvs.sk/player/</string>
+			<string>http://stream.bestfm.sk/128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dobré Rádio</string>
+			<key>logo</key>
+			<string>Dobre</string>
+			<key>link</key>
+			<string>http://stream.dobreradio.sk:8000/Dobre128mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.dobreradio.sk:8000/Dobre192mp3.m3u</string>
+			<key>note</key>
+			<string>Prešov</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa 2</string>
+			<key>logo</key>
+			<string>Europa</string>
+			<key>link</key>
+			<string>http://pool.cdn.lagardere.cz/fm-europa2sk-128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio</string>
+			<key>logo</key>
+			<string>Fun</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/fun64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/fun128.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Top 20</string>
+			<key>logo</key>
+			<string>20</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/top2064.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/top20128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Novinky</string>
+			<key>logo</key>
+			<string>Novinky</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/new64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/new128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/dance64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/dance128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio 80.90.Roky</string>
+			<key>logo</key>
+			<string>80</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/80-90-64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/80-90-128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/rock64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/rock128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Love Songs</string>
+			<key>logo</key>
+			<string>Love</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/slow64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/slow128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Pre Deti</string>
+			<key>logo</key>
+			<string>Pre</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/children64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/children128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio HipHop</string>
+			<key>logo</key>
+			<string>HipHop</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/hiphop64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/hiphop128.mp3.m3u</string>
+			<key>note</key>
+			<string>HipHop/RnB</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Czechoslovakia</string>
+			<key>logo</key>
+			<string>Czechoslovakia</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/cs64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/cs128.mp3.m3u</string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun Radio Running</string>
+			<key>logo</key>
+			<string>Running</string>
+			<key>link</key>
+			<string>http://stream.funradio.sk:8000/running64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.funradio.sk:8000/running128.mp3.m3u</string>
+			<key>note</key>
+			<string>UpBeat</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio 7</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://37.9.170.32:8000/128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christian</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Aktual</string>
+			<key>logo</key>
+			<string>Aktual</string>
+			<key>link</key>
+			<string>http://stream.radioaktual.sk:8000/aktual64.mp3</string>
+			<key>http</key>
+			<string>http://stream.radioaktual.sk:8000/aktual128.mp3</string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Aligátor</string>
+			<key>logo</key>
+			<string>Aligator</string>
+			<key>link</key>
+			<string>http://stream.aligator.sk:8000/aligator_128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.aligator.sk:8000/aligator_192.mp3.m3u</string>
+			<key>note</key>
+			<string>Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Anténa Rock</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://stream.antenarock.sk/antena-lo.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.antenarock.sk/antena-hi.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Beta</string>
+			<key>logo</key>
+			<string>Beta</string>
+			<key>link</key>
+			<string>http://server1.internetoveradio.sk:2199/tunein/radiobeta.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bojnice</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Expres</string>
+			<key>logo</key>
+			<string>Expres</string>
+			<key>link</key>
+			<string>http://stream.expres.sk:8000/128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Frontinus</string>
+			<key>logo</key>
+			<string>Frontinus</string>
+			<key>link</key>
+			<string>http://www.frontinus.sk/frontinus128.m3u</string>
+			<key>http</key>
+			<string>http://www.frontinus.sk/frontinus64.m3u</string>
+			<key>note</key>
+			<string>Žilina</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Jemné</string>
+			<key>logo</key>
+			<string>Jemne</string>
+			<key>link</key>
+			<string>http://stream.jemne.sk/jemne-lo.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.jemne.sk/jemne-hi.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Kiss</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://195.146.10.45:8000/kissmp3pro_64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://195.146.10.45:8000/kissmp3_128.mp3.m3u</string>
+			<key>note</key>
+			<string>Košice</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Košice</string>
+			<key>logo</key>
+			<string>Kosice</string>
+			<key>link</key>
+			<string>http://stream.ecce.sk:8000/radiokosice-64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.ecce.sk:8000/radiokosice-128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Liptov</string>
+			<key>logo</key>
+			<string>Liptov</string>
+			<key>link</key>
+			<string>http://www.radioliptov.sk/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Liptovský Mikuláš</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Lumen</string>
+			<key>logo</key>
+			<string>Lumen</string>
+			<key>link</key>
+			<string>http://audio.lumen.sk:8000/live64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://audio.lumen.sk:8000/live128.mp3.m3u</string>
+			<key>note</key>
+			<string>Banská Bystrica</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Max</string>
+			<key>logo</key>
+			<string>Max</string>
+			<key>link</key>
+			<string>http://mp3stream4.abradio.cz:8000/max64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://mp3stream4.abradio.cz:8000/max128.mp3.m3u</string>
+			<key>note</key>
+			<string>Nitra</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Modra</string>
+			<key>logo</key>
+			<string>Modra</string>
+			<key>link</key>
+			<string>http://217.75.82.149:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
