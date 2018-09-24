@@ -579,11 +579,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rádio Rebeca</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rebeca</string>
 			<key>link</key>
+			<string>http://server1.internetoveradio.sk:8822/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop/Rock (Martin)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Sever</string>
+			<key>logo</key>
+			<string>Sever</string>
+			<key>link</key>
+			<string>http://stream.sepia.sk:8000/sever128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock/Dance (Žilina)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SiTy</string>
+			<key>logo</key>
+			<string>SiTy</string>
+			<key>link</key>
+			<string>http://www.radiosity.sk/sity32.m3u</string>
+			<key>http</key>
+			<string>http://www.radiosity.sk/sity96.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Šport</string>
+			<key>logo</key>
+			<string>Sport</string>
+			<key>link</key>
+			<string>http://stream.radiosport.sk:8000/Sport192.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,99 +627,99 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Viva Metropol</string>
 			<key>logo</key>
-			<string></string>
+			<string>Viva</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.sepia.sk:8000/viva128.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.sepia.sk:8000/viva24.aac.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rádio Vlna</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vlna</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.radiovlna.sk/vlna-lo.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.radiovlna.sk/vlna-hi.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio WOW</string>
 			<key>logo</key>
-			<string></string>
+			<string>WOW</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.radiowow.sk:8200/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Bánovce</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Yes</string>
 			<key>logo</key>
-			<string></string>
+			<string>Yes</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.radioyes.sk:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Topolcany</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rocková republika</string>
 			<key>logo</key>
-			<string></string>
+			<string>republika</string>
 			<key>link</key>
-			<string></string>
+			<string>http://217.67.31.66:8000/republika128.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Rock</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sky Rádio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sky</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.skyradio.sk:8000/sky128.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Prešov</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Trnavské Rádio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Trnavske</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.trnavskeradio.sk:8000/trnavske.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Trnava</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Záhorácke Rádio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Zahoracke</string>
 			<key>link</key>
-			<string></string>
+			<string>http://play.zahorackeradio.sk/live/high.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Skalica</string>
 		</dict>
 	</array>
 </dict>
