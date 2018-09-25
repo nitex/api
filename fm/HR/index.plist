@@ -375,11 +375,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Otvoreni Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Otvoreni</string>
 			<key>link</key>
+			<string>http://www.otvoreni.hr/UserDocsImages/stream.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 057</string>
+			<key>logo</key>
+			<string>057</string>
+			<key>link</key>
+			<string>http://streaming.zadar.net:8000/radio057.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zadar</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 101</string>
+			<key>logo</key>
+			<string>101</string>
+			<key>link</key>
+			<string>http://www.radio101.hr/generated/radio101.pls</string>
+			<key>http</key>
+			<string>http://s8.iqstreaming.com:8006/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 105</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>http://live.novi-net.hr/radio105/playlistH.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Selnica</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://winweb1.novi-net.net:8030/radio1H.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Cakovec)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Banovina</string>
+			<key>logo</key>
+			<string>Banovina</string>
+			<key>link</key>
+			<string>http://stream1.radio-banovina.hr:8005/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Glina</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio BBR</string>
+			<key>logo</key>
+			<string>BBR</string>
+			<key>link</key>
+			<string>http://s3.iqstreaming.com/tunein.php/bbr/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bjelovar</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Benkovac</string>
+			<key>logo</key>
+			<string>Benkovac</string>
+			<key>link</key>
+			<string>http://107.150.35.78:8100/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +471,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Borovo</string>
 			<key>logo</key>
-			<string></string>
+			<string>Borovo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s3.iqstreaming.com/tunein.php/borovo/playlist.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,111 +483,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Brac</string>
 			<key>logo</key>
-			<string></string>
+			<string>Brac</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s3.iqstreaming.com/tunein.php/radiobrac/playlist.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Supetar</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Centar</string>
 			<key>logo</key>
-			<string></string>
+			<string>Centar</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radiocentar.hr:8282/mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.radiocentar.hr/streaming/aacplus4.pls</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Poreč</string>
 		</dict>
 		<dict>
 			<key>name</key>
