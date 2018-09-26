@@ -783,11 +783,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Novska</string>
 			<key>logo</key>
-			<string></string>
+			<string>Novska</string>
 			<key>link</key>
+			<string>http://genf196.server4you.de:8686/listen.pls</string>
+			<key>http</key>
+			<string>http://www.radionovska.hr/listen.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ogulin</string>
+			<key>logo</key>
+			<string>Ogulin</string>
+			<key>link</key>
+			<string>http://144.76.172.23:7030/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -795,11 +807,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Orahovica</string>
 			<key>logo</key>
-			<string></string>
+			<string>Orahovica</string>
 			<key>link</key>
-			<string></string>
+			<string>http://85.10.55.147:8062/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -807,11 +819,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radiopostaja Vinkovci</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vinkovci</string>
 			<key>link</key>
-			<string></string>
+			<string>http://nstream.infonet.hr:2199/tunein/vkradio-stream.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -819,11 +831,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Quirinus</string>
 			<key>logo</key>
-			<string></string>
+			<string>Quirinus</string>
 			<key>link</key>
+			<string>http://50.7.71.30:9733/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Sisak</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ritam</string>
+			<key>logo</key>
+			<string>Ritam</string>
+			<key>link</key>
+			<string>http://85.25.124.177:9402/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Šibenik</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sisak</string>
+			<key>logo</key>
+			<string>Sisak</string>
+			<key>link</key>
+			<string>http://173.192.137.34:8040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sisak</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Student</string>
+			<key>logo</key>
+			<string>Student</string>
+			<key>link</key>
+			<string>http://www.radiostudent.hr/AAC128.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -831,11 +879,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Šibenik</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sibenik</string>
 			<key>link</key>
-			<string></string>
+			<string>http://176.31.107.8:8452/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -843,87 +891,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Stubica</string>
 			<key>logo</key>
-			<string></string>
+			<string>Stubica</string>
 			<key>link</key>
-			<string></string>
+			<string>http://c3.hostingcentar.com:7008/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Donja Stubica</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Sunce</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sunce</string>
 			<key>link</key>
-			<string></string>
+			<string>http://shoutcast.pondi.hr:8002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Split</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Terezija</string>
 			<key>logo</key>
-			<string></string>
+			<string>Terezija</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.terezija.hr/Terezija.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.terezija.hr/winamp_terezija.pls</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Top 30 (Bjelovar)</string>
 		</dict>
 		<dict>
 			<key>name</key>
