@@ -543,11 +543,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Info Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Inf</string>
 			<key>link</key>
+			<string>http://87.229.45.44:8400/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jazz Radio</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://194.38.105.21:8002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -555,11 +567,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>90.9 Jazzy</string>
 			<key>logo</key>
-			<string></string>
+			<string>Jazzy</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.jazzy.hu/jazzy909.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -567,11 +579,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Jazzy Groove</string>
 			<key>logo</key>
-			<string></string>
+			<string>Groove</string>
 			<key>link</key>
-			<string></string>
+			<string>http://online.jazzy.hu/jazzy-groove.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -579,11 +591,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Juventus Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Juventus</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/juventus.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kapos Rádió</string>
+			<key>logo</key>
+			<string>Kapos</string>
+			<key>link</key>
+			<string>http://195.56.77.207:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Kaposvár)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kaposvár Most</string>
+			<key>logo</key>
+			<string>Most</string>
+			<key>link</key>
+			<string>http://kaposvarmost.hu/radio/radiomost.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,11 +627,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Katolikus Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Katolikus</string>
 			<key>link</key>
-			<string></string>
+			<string>http://katolikusradio.hu/listen-hi.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -603,11 +639,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kék Duna Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kek</string>
 			<key>link</key>
+			<string>http://webradio2.ev2.hu:8000/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Gyor</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Klasszik Rádió 92.1</string>
+			<key>logo</key>
+			<string>Klasszik</string>
+			<key>link</key>
+			<string>http://online.klasszikradio.hu/klasszik.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -615,11 +663,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Klubrádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Klubradio</string>
 			<key>link</key>
+			<string>http://www.klubradio.hu:8080/96kbit.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kontakt Rádió</string>
+			<key>logo</key>
+			<string>Kontakt</string>
+			<key>link</key>
+			<string>http://87.229.45.44:8700/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -627,11 +687,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Korona Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Korona</string>
 			<key>link</key>
+			<string>http://koronaradio.hu/music/korona.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Kalocsa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lakihegy Rádió</string>
+			<key>logo</key>
+			<string>Lakihegy</string>
+			<key>link</key>
+			<string>http://stream.composeit.hu:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szigetszentmiklós)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lánchíd Rádió</string>
+			<key>logo</key>
+			<string>Lanchid</string>
+			<key>link</key>
+			<string>http://91.82.85.44:9004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luxfunk Radio</string>
+			<key>logo</key>
+			<string>Luxfunk</string>
+			<key>link</key>
+			<string>http://87.229.45.44:8200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/Rap/Soul</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magyar Katolikus Rádió</string>
+			<key>logo</key>
+			<string>Magyar</string>
+			<key>link</key>
+			<string>http://katolikusradio.hu/listen-hi.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -639,11 +747,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mária Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Maria</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.mariaradio.hu:8000/mr.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -651,195 +759,87 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Méz Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Mez</string>
 			<key>link</key>
-			<string></string>
+			<string>http://host2.radioszerver.hu:9200/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Veszprém)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Music 89.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Music</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.musicfm.hu:8000/musicfm.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Dance)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nap Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nap</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.napradio.hu/napradio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Sopron)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nyugat Rádió</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nyugat</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.nyugatradio.hu/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Szombathely</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ozone (Oxygen Media Hírügynökség)</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ozone</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.o3.hu/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Gyor)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 6</string>
 			<key>logo</key>
-			<string></string>
+			<string>6</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.radio6.hu/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://94.199.181.143:7080/live.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Százhalombatta)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 7</string>
 			<key>logo</key>
-			<string></string>
+			<string>7</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio7.mellesleg.fm:8200/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Hódmezovásárhely</string>
 		</dict>
 		<dict>
 			<key>name</key>
