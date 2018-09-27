@@ -135,90 +135,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Eger</string>
-			<key>logo</key>
-			<string>Eger</string>
-			<key>link</key>
-			<string>http://stream.radioeger.hu:18000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Eger TOP Hits</string>
-			<key>logo</key>
-			<string>TOP</string>
-			<key>link</key>
-			<string>http://stream.radioeger.hu:8160/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 40</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Eger Club</string>
-			<key>logo</key>
-			<string>Club</string>
-			<key>link</key>
-			<string>http://stream.radioeger.hu:8110/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Dance</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Eger Light</string>
-			<key>logo</key>
-			<string>Light</string>
-			<key>link</key>
-			<string>http://stream.radioeger.hu:8120/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Soft hits</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Eger Hazai zenék</string>
-			<key>logo</key>
-			<string>Hazai</string>
-			<key>link</key>
-			<string>http://stream.radioeger.hu:8130/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Eger Oldies</string>
-			<key>logo</key>
-			<string>Oldies</string>
-			<key>link</key>
-			<string>http://stream.radioeger.hu:8140/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>60s/70s</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Eger Retro Café</string>
-			<key>logo</key>
-			<string>Retro</string>
-			<key>link</key>
-			<string>http://stream.radioeger.hu:8150/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>80s/90s</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Aktív Rádió</string>
 			<key>logo</key>
 			<string>Aktiv</string>
@@ -843,11 +759,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rádió 8</string>
 			<key>logo</key>
-			<string></string>
+			<string>8</string>
 			<key>link</key>
+			<string>http://musorcsere.hu:8600/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Körmend</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió 17</string>
+			<key>logo</key>
+			<string>17</string>
+			<key>link</key>
+			<string>http://www.radio17.24hosting.hu:8111/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -855,11 +783,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 24</string>
 			<key>logo</key>
-			<string></string>
+			<string>24</string>
 			<key>link</key>
+			<string>http://radio.nordtelekom.hu:8000/radio24dunaujvaros.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30 (Dunaujvarus)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió 35</string>
+			<key>logo</key>
+			<string>35</string>
+			<key>link</key>
+			<string>http://195.191.222.207:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tiszaújváros</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88</string>
+			<key>logo</key>
+			<string>Radio88</string>
+			<key>link</key>
+			<string>http://www.radio88.hu/stream/radio88.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szeged)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88 Club 88</string>
+			<key>logo</key>
+			<string>881</string>
+			<key>link</key>
+			<string>http://stream2.radio88.hu:8400/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance (Szeged)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88 Retro 88</string>
+			<key>logo</key>
+			<string>882</string>
+			<key>link</key>
+			<string>http://stream1.radio88.hu:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies (Szeged)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88 Top 88</string>
+			<key>logo</key>
+			<string>883</string>
+			<key>link</key>
+			<string>http://stream3.radio88.hu:8500/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szeged)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Antritt</string>
+			<key>logo</key>
+			<string>Antritt</string>
+			<key>link</key>
+			<string>http://radioantritt.hu/Antritt.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szekszárd)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cafe 98.6</string>
+			<key>logo</key>
+			<string>Cafe</string>
+			<key>link</key>
+			<string>http://www.savetofile.net:7100/RadioCafe.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -867,11 +879,107 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rádió Dabas</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dabas</string>
 			<key>link</key>
+			<string>http://37.221.209.189:7093/listen.pls</string>
+			<key>http</key>
+			<string>http://www.radiodabas.hu/files/listen.pls</string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger</string>
+			<key>logo</key>
+			<string>Eger</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:18000/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger TOP Hits</string>
+			<key>logo</key>
+			<string>TOP</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8160/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Club</string>
+			<key>logo</key>
+			<string>Club</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8110/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Light</string>
+			<key>logo</key>
+			<string>Light</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8120/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Soft hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Hazai zenék</string>
+			<key>logo</key>
+			<string>Hazai</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8130/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Oldies</string>
+			<key>logo</key>
+			<string>Oldies</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8140/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>60s/70s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eger Retro Café</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>http://stream.radioeger.hu:8150/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>80s/90s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Érd</string>
+			<key>logo</key>
+			<string>Erd</string>
+			<key>link</key>
+			<string>http://94.199.181.143:9340/live.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -879,135 +987,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Face</string>
 			<key>logo</key>
-			<string></string>
+			<string>Face</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.savetofile.net:7000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio FM95</string>
 			<key>logo</key>
-			<string></string>
+			<string>FM95</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.webthings.hu:8000/fm95-x-128.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Top 30 (Debrecen)</string>
 		</dict>
 		<dict>
 			<key>name</key>
