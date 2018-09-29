@@ -375,11 +375,131 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Miradouro</string>
+			<key>logo</key>
+			<string>Miradouro</string>
+			<key>link</key>
+			<string>http://radio.miradouro.pt:8000/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Madeira</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Planície</string>
+			<key>logo</key>
+			<string>Planicie</string>
+			<key>link</key>
+			<string>http://109.71.41.250:8024/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Moura</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Renascença</string>
+			<key>logo</key>
+			<string>Renascenca</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCAaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM </string>
 			<key>logo</key>
 			<string></string>
 			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/rfmaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/rfm.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM 80s</string>
+			<key>logo</key>
+			<string>80s</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/gr80srfmaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/gr80srfm.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM Oceano Pacífico</string>
+			<key>logo</key>
+			<string>Oceano</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/OCEANPACIFICaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/OCEANPACIFIC.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM Clubbing</string>
+			<key>logo</key>
+			<string>Clubbing</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/RFMCLUBBINGaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/RFMCLUBBING.pls</string>
+			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ribatejo</string>
+			<key>logo</key>
+			<string>Ribatejo</string>
+			<key>link</key>
+			<string>http://66.90.118.18:8116/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Azambuja)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sagres FM</string>
+			<key>logo</key>
+			<string>Sagres</string>
+			<key>link</key>
+			<string>http://www.sagresfm.pt:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Lagos)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sim</string>
+			<key>logo</key>
+			<string>Sim</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/radio_simaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sines</string>
+			<key>logo</key>
+			<string>Sines</string>
+			<key>link</key>
+			<string>http://www.smartsp.com/radiosines.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,99 +507,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Singa FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Singa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://centova.radios.pt:8487/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Ferreira do Alentejo</string>
 		</dict>
 		<dict>
 			<key>name</key>
