@@ -423,102 +423,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>HamarRadioen</string>
-			<key>logo</key>
-			<string>HamarRadioen</string>
-			<key>link</key>
-			<string>http://109.169.96.11:8000/hamar.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>HamarRadioen Hits</string>
-			<key>logo</key>
-			<string>Hits</string>
-			<key>link</key>
-			<string>http://109.169.96.11:8000/hamarhits.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>1FM</string>
-			<key>logo</key>
-			<string>1FM</string>
-			<key>link</key>
-			<string>http://213.158.233.199:2026/listen.pls</string>
-			<key>http</key>
-			<string>http://213.158.233.199:2012/listen.pls</string>
-			<key>note</key>
-			<string>Top 30 (Molde)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Beat</string>
-			<key>logo</key>
-			<string>Beat</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/no_thebeat_mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>RnB/HipHop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ElverumsRadioen</string>
-			<key>logo</key>
-			<string>ElverumsRadioen</string>
-			<key>link</key>
-			<string>http://109.169.96.11:8000/elverum.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Flisa)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Jazzabit</string>
-			<key>logo</key>
-			<string>Jazzabit</string>
-			<key>link</key>
-			<string>http://213.158.233.199:2042/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JærRadioen</string>
-			<key>logo</key>
-			<string>JrRadioen</string>
-			<key>link</key>
-			<string>http://stream.jaerradiogruppen.no:8018/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Sandnes)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Kiss</string>
-			<key>logo</key>
-			<string>Kiss</string>
-			<key>link</key>
-			<string>http://stream.bauermedia.no:8000/kiss.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Narvik Studentradio</string>
 			<key>logo</key>
 			<string>Narvik</string>
@@ -711,11 +615,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>POPradio</string>
 			<key>logo</key>
-			<string></string>
+			<string>POPradio</string>
 			<key>link</key>
+			<string>http://public.popradio.no:8058/live.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>102</string>
+			<key>logo</key>
+			<string>102</string>
+			<key>link</key>
+			<string>http://downstream.radio.raw.no:8000/radio102.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Karmøy)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1FM</string>
+			<key>logo</key>
+			<string>1FM</string>
+			<key>link</key>
+			<string>http://213.158.233.199:2026/listen.pls</string>
+			<key>http</key>
+			<string>http://213.158.233.199:2012/listen.pls</string>
+			<key>note</key>
+			<string>Top 30 (Molde)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://wms.yourstation.com:8000/listen.pls?sid=2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Bodø)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Altaposten</string>
+			<key>logo</key>
+			<string>Altaposten</string>
+			<key>link</key>
+			<string>http://lyd.radioalta.no/radioalta-128k.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Alta)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Askøy</string>
+			<key>logo</key>
+			<string>Askoy</string>
+			<key>link</key>
+			<string>http://213.158.233.199:8577/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -723,11 +687,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Atlantic</string>
 			<key>logo</key>
-			<string></string>
+			<string>Atlantic</string>
 			<key>link</key>
+			<string>http://204.232.197.158:8022/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Sandnes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/no_thebeat_mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beiarn</string>
+			<key>logo</key>
+			<string>Beiarn</string>
+			<key>link</key>
+			<string>http://uk3-vn.mixstream.net/listen/8080.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Moldjord</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bø</string>
+			<key>logo</key>
+			<string>B</string>
+			<key>link</key>
+			<string>http://nettradio.radiobo.com/radiobo-med.m3u</string>
+			<key>http</key>
+			<string>http://nettradio.radiobo.com/radiobo-high.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ElverumsRadioen</string>
+			<key>logo</key>
+			<string>ElverumsRadioen</string>
+			<key>link</key>
+			<string>http://109.169.96.11:8000/elverum.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Flisa)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Grenland</string>
+			<key>logo</key>
+			<string>Grenland</string>
+			<key>link</key>
+			<string>http://stream.jaerradiogruppen.no:8020/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -735,11 +759,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Hallingdal</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hallingdal</string>
 			<key>link</key>
+			<string>http://www.radiohallingdal.no/radiohallingdal.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Hol</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HamarRadioen</string>
+			<key>logo</key>
+			<string>HamarRadioen</string>
+			<key>link</key>
+			<string>http://109.169.96.11:8000/hamar.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -747,11 +783,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>HamarRadioen Hits</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hits</string>
 			<key>link</key>
-			<string></string>
+			<string>http://109.169.96.11:8000/hamarhits.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -759,11 +795,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Haugaland</string>
 			<key>logo</key>
-			<string></string>
+			<string>Haugaland</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.radioh.no:443/rh.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -771,11 +807,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Jazzabit</string>
 			<key>logo</key>
-			<string></string>
+			<string>Jazzabit</string>
 			<key>link</key>
-			<string></string>
+			<string>http://213.158.233.199:2042/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -783,11 +819,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>JærRadioen</string>
 			<key>logo</key>
-			<string></string>
+			<string>JrRadioen</string>
 			<key>link</key>
+			<string>http://stream.jaerradiogruppen.no:8018/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30 (Sandnes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://stream.bauermedia.no:8000/kiss.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kongsvinger</string>
+			<key>logo</key>
+			<string>Kongsvinger</string>
+			<key>link</key>
+			<string>http://stream.radiokongsvinger.no:8000/stream128.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -795,87 +855,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>L</string>
 			<key>logo</key>
-			<string></string>
+			<string>L</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/no_radiol_mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/no_radiol_aac.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Lillesand</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Loland</string>
 			<key>logo</key>
-			<string></string>
+			<string>Loland</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/no_radiololand_mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/no_radiololand_aac.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Vennesla</string>
 		</dict>
 		<dict>
 			<key>name</key>
