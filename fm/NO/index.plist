@@ -447,11 +447,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>1FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1FM</string>
 			<key>link</key>
+			<string>http://213.158.233.199:2026/listen.pls</string>
+			<key>http</key>
+			<string>http://213.158.233.199:2012/listen.pls</string>
+			<key>note</key>
+			<string>Top 30 (Molde)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/no_thebeat_mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ElverumsRadioen</string>
+			<key>logo</key>
+			<string>ElverumsRadioen</string>
+			<key>link</key>
+			<string>http://109.169.96.11:8000/elverum.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Flisa)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jazzabit</string>
+			<key>logo</key>
+			<string>Jazzabit</string>
+			<key>link</key>
+			<string>http://213.158.233.199:2042/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -459,11 +495,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>JærRadioen</string>
 			<key>logo</key>
-			<string></string>
+			<string>JrRadioen</string>
 			<key>link</key>
+			<string>http://stream.jaerradiogruppen.no:8018/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30 (Sandnes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://stream.bauermedia.no:8000/kiss.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Narvik Studentradio</string>
+			<key>logo</key>
+			<string>Narvik</string>
+			<key>link</key>
+			<string>http://stream.sysrq.no:8000/00-nsr.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -471,11 +531,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>NRJ</string>
 			<key>logo</key>
-			<string></string>
+			<string>NRJ</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/nrj_mp3_mq.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/nrj_aac_lq.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nærkanalen</string>
+			<key>logo</key>
+			<string>Nrkanalen</string>
+			<key>link</key>
+			<string>http://www.narkanalen.no/high.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Ørnes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ordentlig Radio</string>
+			<key>logo</key>
+			<string>Ordentlig</string>
+			<key>link</key>
+			<string>http://mms-live.online.no/oradio_mp3_m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -483,231 +567,147 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>P4</string>
 			<key>logo</key>
-			<string></string>
+			<string>P4</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p4_mp3_mq.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p4_aac_lq.m3u</string>
+			<key>note</key>
+			<string>Lillehammer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>P4 Bandit</string>
+			<key>logo</key>
+			<string>Bandit</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bandit_mp3_mq.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/bandit_aac_lq.m3u</string>
+			<key>note</key>
+			<string>Lillehammer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>P5 Oslo</string>
+			<key>logo</key>
+			<string>P5</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/p5oslo_mp3_mq.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/p5oslo_aac_lq.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>P5 Bergen</string>
+			<key>logo</key>
+			<string>Bergen</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/p5bergen_mp3_mq.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/p5bergen_aac_lq.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>P5 Stavanger</string>
+			<key>logo</key>
+			<string>Stavanger</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/p5stavanger_mp3_mq.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/p5stavanger_aac_lq.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>P5 Trondheim</string>
+			<key>logo</key>
+			<string>Trondheim</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/p5trondheim_mp3_mq.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/p5trondheim_aac_lq.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>P6 Rock</string>
+			<key>logo</key>
+			<string>P6</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/p6_mp3_mq.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/p6_aac_lq.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>P7 Klem</string>
 			<key>logo</key>
-			<string></string>
+			<string>P7</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p7_mp3_mq.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p7_aac_lq.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>P8 Pop</string>
 			<key>logo</key>
-			<string></string>
+			<string>P8</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p8_mp3_mq.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p8_aac_lq.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>P9 Retro</string>
 			<key>logo</key>
-			<string></string>
+			<string>P9</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p9_mp3_mq.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p9_aac_lq.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Lillehammer</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>P10 Mix</string>
 			<key>logo</key>
-			<string></string>
+			<string>P10</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p10_mp3_mq.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/p10_aac_lq.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>P7 Kystradioen</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kystradioen</string>
 			<key>link</key>
-			<string></string>
+			<string>http://4832.cloudrad.io:8054/p7kystradioen.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Bergen</string>
 		</dict>
 		<dict>
 			<key>name</key>
