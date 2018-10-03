@@ -567,11 +567,83 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>KärntenLive</string>
 			<key>logo</key>
-			<string></string>
+			<string>KarntenLive</string>
 			<key>link</key>
+			<string>http://login.streamplus.de/player.php?spt=22522.m3u</string>
+			<key>http</key>
+			<string>https://login.streamplus.de/app.php/shoutcast/public/playlist/download/22522.m3u</string>
+			<key>note</key>
+			<string>Oldies/Schlager (Villach)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ÖRadio.live</string>
+			<key>logo</key>
+			<string>ORadio.live</string>
+			<key>link</key>
+			<string>https://login.streamplus.de/app.php/shoutcast/public/playlist/download/24345.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Villach</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Digital</string>
+			<key>logo</key>
+			<string>Digital</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-hp.mp3.m3u</string>
+			<key>http</key>
+			<string>http://onair-ha1.krone.at/kronehit.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit 105,8</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit1058.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Fresh</string>
+			<key>logo</key>
+			<string>Kronehit</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-fresh.mp3.m3u</string>
+			<key>http</key>
+			<string>http://onair-ha1.krone.at/kronehit-fresh-hd.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-dance.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30/Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit House</string>
+			<key>logo</key>
+			<string>House</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-house.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -579,11 +651,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kronehit Charts</string>
 			<key>logo</key>
-			<string></string>
+			<string>Charts</string>
 			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-charts.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit 90s Dance</string>
+			<key>logo</key>
+			<string>90s</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-90sdance.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,11 +675,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kronehit Clubland</string>
 			<key>logo</key>
-			<string></string>
+			<string>Clubland</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair-ha1.krone.at/kronehit-clubland.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -603,11 +687,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kronehit Greatest Hits</string>
 			<key>logo</key>
-			<string></string>
+			<string>Greatest</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair-ha1.krone.at/kronehit-greatesthits.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -615,11 +699,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kronehit Love</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lov</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair-ha1.krone.at/kronehit-love.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -627,11 +711,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kronehit Black</string>
 			<key>logo</key>
-			<string></string>
+			<string>Black</string>
 			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-black.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Hangover</string>
+			<key>logo</key>
+			<string>Hangover</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-hangover.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit YAM</string>
+			<key>logo</key>
+			<string>YAM</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-yam.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Balkan Beats</string>
+			<key>logo</key>
+			<string>Balkan</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-balkan.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Vollgas</string>
+			<key>logo</key>
+			<string>Vollgas</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-vollgas.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -639,11 +771,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kronehit Interactive</string>
 			<key>logo</key>
-			<string></string>
+			<string>Interactive</string>
 			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-interactive.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Best of 2014</string>
+			<key>logo</key>
+			<string>2014</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-event3.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -651,11 +795,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kronehit Christmas</string>
 			<key>logo</key>
-			<string></string>
+			<string>Christmas</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair-ha1.krone.at/kronehit-event.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -663,11 +807,131 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Life Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lif</string>
 			<key>link</key>
+			<string>http://94.136.28.10:8000/liferadio.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Linz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Made in Austria</string>
+			<key>logo</key>
+			<string>Made</string>
+			<key>link</key>
+			<string>http://94.136.28.10:8001/mia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Linz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Love Life</string>
+			<key>logo</key>
+			<string>LoveLife</string>
+			<key>link</key>
+			<string>http://94.136.28.10:8003/lovelife.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Linz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Hitmix</string>
+			<key>logo</key>
+			<string>Hitmix</string>
+			<key>link</key>
+			<string>http://94.136.28.10:8002/hitmix.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Party (Linz)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Tirol</string>
+			<key>logo</key>
+			<string>Tir</string>
+			<key>link</key>
+			<string>http://www.liferadio-tirol.at/popup/webradio/liferadio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Innsbruck</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LoungeFM</string>
+			<key>logo</key>
+			<string>LoungeFM</string>
+			<key>link</key>
+			<string>http://stream.lounge.fm/loungefm128.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lounge, Soul, Jazz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macjingle Classic Hits</string>
+			<key>logo</key>
+			<string>macjingle</string>
+			<key>link</key>
+			<string>http://www.cartwall.at:7210/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macjingle Heartbeat</string>
+			<key>logo</key>
+			<string>Heartbeat</string>
+			<key>link</key>
+			<string>http://www.cartwall.at:7200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macjingle Todays Best</string>
+			<key>logo</key>
+			<string>Todays</string>
+			<key>link</key>
+			<string>http://fc.macjingle.at:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NJOY Radio</string>
+			<key>logo</key>
+			<string>NJOY</string>
+			<key>link</key>
+			<string>http://studio.njoyradio.at:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Deutschlandsberg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NOW radio</string>
+			<key>logo</key>
+			<string>NOW</string>
+			<key>link</key>
+			<string>http://stream.erf.at/nowradio_192.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -675,11 +939,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Orange 94,0</string>
 			<key>logo</key>
-			<string></string>
+			<string>Orange</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streamintern.orange.or.at/live3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -687,291 +951,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Agora</string>
 			<key>logo</key>
-			<string></string>
+			<string>Agora</string>
 			<key>link</key>
-			<string></string>
+			<string>http://host6.cartwall.at:9898/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Klagenfurt</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Allelon</string>
 			<key>logo</key>
-			<string></string>
+			<string>Allelon</string>
 			<key>link</key>
-			<string></string>
+			<string>http://62.141.58.223:8000/stream.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Christian, Romanian</string>
 		</dict>
 		<dict>
 			<key>name</key>
