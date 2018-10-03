@@ -975,11 +975,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Alpina</string>
 			<key>logo</key>
-			<string></string>
+			<string>Alpina</string>
 			<key>link</key>
+			<string>http://streamplus23.leonex.de:25708/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Saalfelden</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Wien</string>
+			<key>logo</key>
+			<string>Arabella</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8000/arabellavie.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -987,11 +999,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Arabella Oberösterreich</string>
 			<key>logo</key>
-			<string></string>
+			<string>Oberosterreic</string>
 			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8002/arabellaooe.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Linz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Niederösterreich</string>
+			<key>logo</key>
+			<string>Niederosterreic</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8001/arabellanoe.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St. Leonhard am Forst</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella 4 Kids</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8004/arabella4kids.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -999,11 +1035,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Arabella Austropop</string>
 			<key>logo</key>
-			<string></string>
+			<string>Austropop</string>
 			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8005/arabellaaustropop.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Ti Amo</string>
+			<key>logo</key>
+			<string>Amo</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8007/arabellatiamo.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1011,11 +1059,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Arabella Wiener Schmäh</string>
 			<key>logo</key>
-			<string></string>
+			<string>Wiener</string>
 			<key>link</key>
-			<string></string>
+			<string>http://arabella.stream.kapper.net:8008/arabellawiener.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1023,11 +1071,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Arabella Lovesongs</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lovesongs</string>
 			<key>link</key>
-			<string></string>
+			<string>http://arabella.stream.kapper.net:8009/arabellalove.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1035,11 +1083,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Arabella Rock</string>
 			<key>logo</key>
-			<string></string>
+			<string>Roc</string>
 			<key>link</key>
-			<string></string>
+			<string>http://arabella.stream.kapper.net:8003/arabellarock.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1047,111 +1095,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Arabella Holiday</string>
 			<key>logo</key>
-			<string></string>
+			<string>Holiday</string>
 			<key>link</key>
-			<string></string>
+			<string>http://arabella.stream.kapper.net:8013/arabellaholiday.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Pop/Hits</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radiofabrik</string>
 			<key>logo</key>
-			<string></string>
+			<string>Radiofabrik</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.radiofabrik.at/rafab_stream_low.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Salzburg</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio FREEQUENNS</string>
 			<key>logo</key>
-			<string></string>
+			<string>FREEQUENNS</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.freequenns.at/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Liezen</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio FRO</string>
 			<key>logo</key>
-			<string></string>
+			<string>FRO</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.fro.at:8008/fro-64.ogg.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.fro.at:8008/fro-128.ogg.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Linz</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Grün-Weiss</string>
 			<key>logo</key>
-			<string></string>
+			<string>Weiss</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.gruen-weiss.at/rgw.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Leoben</string>
 		</dict>
 		<dict>
 			<key>name</key>
