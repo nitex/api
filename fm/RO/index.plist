@@ -351,18 +351,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ProFM Dance</string>
-			<key>logo</key>
-			<string>ProFM</string>
-			<key>link</key>
-			<string>http://stream.profm.ro:8032/dancefm.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Erdély FM</string>
 			<key>logo</key>
 			<string>Erdely</string>
@@ -555,11 +543,131 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Magic FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Magic</string>
 			<key>link</key>
+			<string>http://80.86.106.35:9000/listen.pls</string>
+			<key>http</key>
+			<string>https://www.magicfm.ro/listen.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mamaia 91.6 FM</string>
+			<key>logo</key>
+			<string>Mamaia</string>
+			<key>link</key>
+			<string>http://www.mamaiafm.ro/uploads/asculta-live/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Constanţa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mondo FM 101,5</string>
+			<key>logo</key>
+			<string>Mondo</string>
+			<key>link</key>
+			<string>http://78.96.60.21:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Petrosani)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Napoca FM</string>
+			<key>logo</key>
+			<string>Napoca</string>
+			<key>link</key>
+			<string>http://89.45.196.210/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cluj Napoca</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>National FM</string>
+			<key>logo</key>
+			<string>National</string>
+			<key>link</key>
+			<string>http://live2.nationalfm.ro:8001/listen.pls</string>
+			<key>http</key>
+			<string>http://www.nationalfm.ro/assets/national-fm.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nova FM</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://www.novafm.ro/nova.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Lugoj)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>One FM</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://80.86.106.35:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://www.onefm.ro/listen.pls</string>
+			<key>note</key>
+			<string>Dance/Club</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Paprika Rádió</string>
+			<key>logo</key>
+			<string>Paprika</string>
+			<key>link</key>
+			<string>http://95.128.168.50:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Cluj-Napoca)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prima Radio</string>
+			<key>logo</key>
+			<string>Prima</string>
+			<key>link</key>
+			<string>http://live.prima-radio.ro:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://live.prima-radio.ro:8000/listen</string>
+			<key>note</key>
+			<string>Odorheiu Secuiesc</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ProFM</string>
+			<key>logo</key>
+			<string>Pro</string>
+			<key>link</key>
+			<string>http://stream.profm.ro:8012/profm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ProFM Dance</string>
+			<key>logo</key>
+			<string>ProFM</string>
+			<key>link</key>
+			<string>http://stream.profm.ro:8032/dancefm.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -567,147 +675,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Profi Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Profi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://94.52.0.2:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Târgu Secuiesc</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 1</string>
 			<key>logo</key>
-			<string></string>
+			<string>1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://86.126.255.131:8000/r1.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Satu Mare</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 1 Romania</string>
 			<key>logo</key>
-			<string></string>
+			<string>Romania</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.radiounu.com:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live.radiounu.com:8000/listen</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Top 30 (Tecuci)</string>
 		</dict>
 		<dict>
 			<key>name</key>
