@@ -375,11 +375,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Europa FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Europa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://astreaming.europafm.ro:8000/europafm_aacp48k.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +387,143 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Favorit FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Favorit</string>
 			<key>link</key>
+			<string>http://91.250.252.251:8001/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Folk (Oradea)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Focus FM</string>
+			<key>logo</key>
+			<string>Focus</string>
+			<key>link</key>
+			<string>http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Buzău)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>For You FM Sighetul Marmatiei</string>
+			<key>logo</key>
+			<string>Sighetul</string>
+			<key>link</key>
+			<string>http://serv1sighet.no-ip.org:8001/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Folk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>For You FM Nasaud</string>
+			<key>logo</key>
+			<string>Nasaud</string>
+			<key>link</key>
+			<string>http://serv1nasaud.no-ip.org:8003/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Folk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun FM</string>
+			<key>logo</key>
+			<string>Fun</string>
+			<key>link</key>
+			<string>http://streamhost110.gtk.hu:9408/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Csíkszereda)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galaxy FM 87,8</string>
+			<key>logo</key>
+			<string>Galaxy</string>
+			<key>link</key>
+			<string>http://live.rfmromania.ro:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Campulung Muscel)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gold FM</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://80.86.106.110:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://80.86.106.110:8002/listen.pls</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HFM</string>
+			<key>logo</key>
+			<string>HFM</string>
+			<key>link</key>
+			<string>http://www.radiorm.ro:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Impact FM Suceava</string>
+			<key>logo</key>
+			<string>Suceava</string>
+			<key>link</key>
+			<string>http://stream.radioimpactfm.ro:1935/listen.pls</string>
+			<key>http</key>
+			<string>http://stream.radioimpactfm.ro:9000/listen.pls</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Impact FM Iasi</string>
+			<key>logo</key>
+			<string>Impact</string>
+			<key>link</key>
+			<string>http://live.radioimpactfm.ro:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Impact FM Piatra Neamt</string>
+			<key>logo</key>
+			<string>Piatra</string>
+			<key>link</key>
+			<string>http://live.radioimpactfm.ro:9003/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Itsy Bitsy FM</string>
+			<key>logo</key>
+			<string>Itsy</string>
+			<key>link</key>
+			<string>http://live.itsybitsy.ro:8000/itsybitsy.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,171 +531,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Joy FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Joy</string>
 			<key>link</key>
-			<string></string>
+			<string>http://86.106.82.9:9010/joyfmlive.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Pop (Arad)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kiss FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kiss</string>
 			<key>link</key>
-			<string></string>
+			<string>http://80.86.106.136/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Top 30</string>
 		</dict>
 		<dict>
 			<key>name</key>
