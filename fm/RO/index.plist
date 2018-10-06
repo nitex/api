@@ -711,11 +711,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 21</string>
 			<key>logo</key>
-			<string></string>
+			<string>21</string>
 			<key>link</key>
+			<string>http://astreaming.europafm.ro:8000/radio21_aacp48k.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Accent 99,2</string>
+			<key>logo</key>
+			<string>Accent</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/accentro.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Folk (Targu Jiu)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arad 99,1 FM</string>
+			<key>logo</key>
+			<string>99</string>
+			<key>link</key>
+			<string>http://85.120.220.205:8000/radio-arad.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -723,11 +747,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio AS Suceava</string>
 			<key>logo</key>
-			<string></string>
+			<string>AS</string>
 			<key>link</key>
+			<string>http://radioas.suceava.rdsnet.ro:8000/sample128.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music/News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Balada</string>
+			<key>logo</key>
+			<string>Balada</string>
+			<key>link</key>
+			<string>http://89.136.110.145:88/broadwave.asx?src=1&amp;kbps=128</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Folk (Bistriţa)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Banat Link</string>
+			<key>logo</key>
+			<string>Bana</string>
+			<key>link</key>
+			<string>http://89.35.219.49:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Timisoara</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Brasov</string>
+			<key>logo</key>
+			<string>Brasov</string>
+			<key>link</key>
+			<string>http://82.77.45.227:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -735,123 +795,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Brasov Special</string>
 			<key>logo</key>
-			<string></string>
+			<string>Special</string>
 			<key>link</key>
-			<string></string>
+			<string>http://82.77.45.227:8050/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radiobrasovspecial.ro/listen.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Campus</string>
 			<key>logo</key>
-			<string></string>
+			<string>Campus</string>
 			<key>link</key>
-			<string></string>
+			<string>http://85.120.40.106:8004/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Slobozia</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Color 92.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Color</string>
 			<key>link</key>
-			<string></string>
+			<string>http://82.78.244.174:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Hunedoara</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio DaDa 106.6</string>
 			<key>logo</key>
-			<string></string>
+			<string>DaDa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radiodada.focsani.astral.ro:8000/radiodada24.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radiodada.focsani.astral.ro:8000/radiodada64.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Alternative/Progressive (Focsani)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio DEEA</string>
 			<key>logo</key>
-			<string></string>
+			<string>DEEA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.radiodeea.ro:8090/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
