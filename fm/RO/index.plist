@@ -231,6 +231,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Romania International 1</string>
+			<key>logo</key>
+			<string>International</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8050/listen.pls</string>
+			<key>http</key>
+			<string>http://www.rri.ro/live_stream/rri_mp3_64_1.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Romania International 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8060/listen.pls</string>
+			<key>http</key>
+			<string>http://www.rri.ro/live_stream/rri_mp3_64_2.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Romania International 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://stream2.srr.ro:8070/listen.pls</string>
+			<key>http</key>
+			<string>http://www.rri.ro/live_stream/rri_mp3_64_3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ardeleanul FM</string>
 			<key>logo</key>
 			<string>Ardeleanul</string>
@@ -1515,207 +1551,183 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>StarFM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.starfmsebes.ro/design/starFm/liveConfig/winamp.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Sebes</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>StarRadio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://mail.d3.ro:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Odorheiu Secuiesc</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Stil FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Stil</string>
 			<key>link</key>
-			<string></string>
+			<string>http://5.2.240.133:8000/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Calarasi)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Super FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Super</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.superradio.ro/listen.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Brasov</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>TANANANA</string>
 			<key>logo</key>
-			<string></string>
+			<string>TANANANA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.tananana.ro:8010/stream-48.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://tananana.ro/assets/playlists/TANANANA.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Alternative</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Terra FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Terra</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.terrafm.ro:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Piatra Neamt</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Tex FM 105,5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tex</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.texfm.ro:8000/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Brasov)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Unirea FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Unirea</string>
 			<key>link</key>
-			<string></string>
+			<string>http://82.208.158.156:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Alba Iulia</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>V24</string>
 			<key>logo</key>
-			<string></string>
+			<string>V24</string>
 			<key>link</key>
-			<string></string>
+			<string>http://v24fm.vaslui.net:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Vaslui)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Vibe FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vibe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://astreaming.europafm.ro:8000/vibefm_aacp48k.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Love</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Viva FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Viva</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.vivafm.ro:9010/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://vivafm.ro/viva-fm-suceava.html</string>
 			<key>note</key>
-			<string></string>
+			<string>Suceava</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Vox FM 88,6</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vox</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.voxfm.ro:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Harghita)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>We Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>We</string>
 			<key>link</key>
-			<string></string>
+			<string>http://weradio.ro/popup/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Sfantu Gheorghe)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>West City Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>West</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.westcityradio.ro:8000/mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.westcityradio.ro/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Timisoara</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>WYL FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>WYL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://online.radiowylfm.ro:9200/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Ploiesti</string>
 		</dict>
 	</array>
 </dict>
