@@ -603,11 +603,155 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>totCat</string>
 			<key>logo</key>
-			<string></string>
+			<string>totCat</string>
 			<key>link</key>
+			<string>http://www.catradio.cat/directes/totcat_http.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iCatRumba</string>
+			<key>logo</key>
+			<string>iCatRumba</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/icatrumba_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Central FM</string>
+			<key>logo</key>
+			<string>Central</string>
+			<key>link</key>
+			<string>http://streaming.dragonstack.com:2199/tunein/atngrand.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Arroyo de la Miel)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chanquete FM</string>
+			<key>logo</key>
+			<string>Chanquete</string>
+			<key>link</key>
+			<string>http://92.48.107.35:8008/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Malaga)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coast FM</string>
+			<key>logo</key>
+			<string>Coast</string>
+			<key>link</key>
+			<string>http://s3.viastreaming.net:8540/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Tenerife)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cool FM</string>
+			<key>logo</key>
+			<string>Cool</string>
+			<key>link</key>
+			<string>http://62.210.84.35:8059/listen.pls</string>
+			<key>http</key>
+			<string>http://62.210.84.35:8018/listen.pls</string>
+			<key>note</key>
+			<string>Classic/Hits (Costa Blanca)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>COM Radio</string>
+			<key>logo</key>
+			<string>COM</string>
+			<key>link</key>
+			<string>http://comradio-streaming.gnuine.com:8100/mac22.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cope Cantabria</string>
+			<key>logo</key>
+			<string>Cantabria</string>
+			<key>link</key>
+			<string>http://www.deportescopecantabria.com:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk (Santander)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Crónicas Radio</string>
+			<key>logo</key>
+			<string>Cronicas</string>
+			<key>link</key>
+			<string>http://85.48.192.60:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/information/music (Lanzarote)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disco Music Radio</string>
+			<key>logo</key>
+			<string>Disco</string>
+			<key>link</key>
+			<string>http://www.discomusicradio.com:8100/listen.pls</string>
+			<key>http</key>
+			<string>http://www.discomusicradio.com/PLAYER/index.html</string>
+			<key>note</key>
+			<string>Pop (Valencia)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Euskadi Irratia</string>
+			<key>logo</key>
+			<string>Irratia</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/euskadiirratia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>San Sebastián</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Radio Euskadi</string>
+			<key>logo</key>
+			<string>Euskadi</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radioeuskadi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bilbao</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Radio Vitoria</string>
+			<key>logo</key>
+			<string>Vitoria</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radiovitoria.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -615,219 +759,75 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>EiTB Gaztea</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gaztea</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/gaztea.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>San Sebastián</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>EiTB Musika</string>
 			<key>logo</key>
-			<string></string>
+			<string>Musika</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/eitbmusika.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>San Sebastián</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Elite Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Elite</string>
 			<key>link</key>
-			<string></string>
+			<string>http://85.25.117.229/tunein.php/elitesevilla/playlist.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Seville</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Energy FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Energy</string>
 			<key>link</key>
-			<string></string>
+			<string>http://uk1.internet-radio.com:15614/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Dance (Tenerife)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>esRadio Madrid</string>
 			<key>logo</key>
-			<string></string>
+			<string>esRadio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://livestreaming3.esradio.fm/stream64.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>esRadio Guadalajara</string>
 			<key>logo</key>
-			<string></string>
+			<string>Guadalajara</string>
 			<key>link</key>
-			<string></string>
+			<string>http://91.121.68.52:8054/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
