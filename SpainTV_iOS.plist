@@ -228,9 +228,9 @@
 		<key>logo</key>
 		<string>Aragon</string>
 		<key>link</key>
-		<string>http://alacarta.aragontelevision.es/streaming/streaming.html</string>
+		<string>http://www.aragontelevision.es/directo</string>
 		<key>http</key>
-		<string>http://www.aragontelevision.es/</string>
+		<string>http://alacarta.aragontelevision.es/streaming/streaming.html</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -274,16 +274,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>EiTB</string>
-		<key>logo</key>
-		<string>EiTB</string>
-		<key>link</key>
-		<string>http://www.eitb.eus/es/television/etb-sat/</string>
-		<key>http</key>
-		<string>http://www.eitb.eus</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Tele7</string>
 		<key>logo</key>
 		<string>Tele7</string>
@@ -324,9 +314,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Mírame</string>
+		<string>Mirame</string>
 		<key>logo</key>
-		<string>Mírame</string>
+		<string>Mirame</string>
 		<key>link</key>
 		<string>http://www.mirametv.com/</string>
 		<key>http</key>
@@ -371,16 +361,6 @@
 		<string>http://www.teletoledo.tv/index.php/tv-en-directo</string>
 		<key>http</key>
 		<string>http://www.teletoledo.tv</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>La Regional de Castilla-La Mancha</string>
-		<key>logo</key>
-		<string>Mancha</string>
-		<key>link</key>
-		<string>http://www.laregional.tv/index.php/tv-en-directo</string>
-		<key>http</key>
-		<string>http://www.laregional.tv</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -611,6 +591,76 @@
 		<string>http://www.levantetv.es/</string>
 		<key>http</key>
 		<string>http://www.levantetv.es/default.jsp</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ETB Sat</string>
+		<key>logo</key>
+		<string>EiTB</string>
+		<key>link</key>
+		<string>http://www.eitb.eus/es/television/etb-sat/</string>
+		<key>http</key>
+		<string>http://www.eitb.eus</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>1</string>
+		<key>logo</key>
+		<string>1</string>
+		<key>link</key>
+		<string>https://www.eitb.eus/es/television/etb1/</string>
+		<key>http</key>
+		<string>http://www.eitb.eus</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ETB 2</string>
+		<key>logo</key>
+		<string>2</string>
+		<key>link</key>
+		<string>https://www.eitb.eus/es/television/etb2/</string>
+		<key>http</key>
+		<string>http://www.eitb.eus</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Castilla-La Mancha Media</string>
+		<key>logo</key>
+		<string>Mancha</string>
+		<key>link</key>
+		<string>http://www.cmmedia.es/en-directo/tv/</string>
+		<key>http</key>
+		<string>http://www.cmmedia.es</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Mataró Televisió</string>
+		<key>logo</key>
+		<string>Mataro</string>
+		<key>link</key>
+		<string>http://mataroaudiovisual.alacarta.cat/directe</string>
+		<key>http</key>
+		<string>http://mataroaudiovisual.cat</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Ibiza Global</string>
+		<key>logo</key>
+		<string>Ibiza</string>
+		<key>link</key>
+		<string>http://ibizaglobal.tv/live/</string>
+		<key>http</key>
+		<string>http://ibizaglobal.tv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Gigante</string>
+		<key>logo</key>
+		<string>Gigante</string>
+		<key>link</key>
+		<string>http://rtvgigante.com/gigante-tv/</string>
+		<key>http</key>
+		<string>http://rtvgigante.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
