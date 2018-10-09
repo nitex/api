@@ -867,7 +867,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Flaix FM</string>
+			<string>Flaix</string>
 			<key>logo</key>
 			<string>Flaix</string>
 			<key>link</key>
@@ -876,6 +876,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Top 30 / Dance (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FlaixBac</string>
+			<key>logo</key>
+			<string>FlaixBac</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radioflaixbac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Barcelona)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1431,11 +1443,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Faycan</string>
 			<key>logo</key>
-			<string></string>
+			<string>Faycan</string>
 			<key>link</key>
+			<string>http://srv0625.emisorasonline.com:8000/stream.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop (Gran Canaria)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Galega</string>
+			<key>logo</key>
+			<string>Galega</string>
+			<key>link</key>
+			<string>http://85.91.64.29/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/features (Santiago de Compostela)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Galega Música</string>
+			<key>logo</key>
+			<string>Galeg</string>
+			<key>link</key>
+			<string>http://85.91.64.29/listen.pls?sid=2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits/international (Santiago de Compostela)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Gigante</string>
+			<key>logo</key>
+			<string>Gigante</string>
+			<key>link</key>
+			<string>http://server1.beatproducciones.com:8052/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tenerife</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Marca</string>
+			<key>logo</key>
+			<string>Marca</string>
+			<key>link</key>
+			<string>http://radioweb.radiomarcabarcelona.com:9000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiolé</string>
+			<key>logo</key>
+			<string>Radiole</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/RADIOLE.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1443,11 +1515,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ràdio Marina</string>
 			<key>logo</key>
-			<string></string>
+			<string>Marina</string>
 			<key>link</key>
+			<string>http://www.radiomarina.com/inc/listen.m3u</string>
+			<key>http</key>
+			<string>http://www.radiomarina.com/2016/wp-content/players/listen.m3u</string>
+			<key>note</key>
+			<string>Blanes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Menorca SER</string>
+			<key>logo</key>
+			<string>Menorca</string>
+			<key>link</key>
+			<string>http://server7.20comunicacion.com:8040/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News/talk/sports (Mahón)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Montealegre</string>
+			<key>logo</key>
+			<string>Montealegre</string>
+			<key>link</key>
+			<string>http://radiomontealegre.es:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Dance (Montealegre del Castillo)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Nervión</string>
+			<key>logo</key>
+			<string>Nervion</string>
+			<key>link</key>
+			<string>http://radionervion.streaming-pro.com:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/News/Information (Bilbao)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Nova 106.7</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://78.129.224.154:2078/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Costa Blanca</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Oasis Salamanca</string>
+			<key>logo</key>
+			<string>Salamanca</string>
+			<key>link</key>
+			<string>http://tesla.todoexitos.com:6140/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1455,11 +1587,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ràdio Olot</string>
 			<key>logo</key>
-			<string></string>
+			<string>Olot</string>
 			<key>link</key>
-			<string></string>
+			<string>http://81.95.0.66:8100/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1467,11 +1599,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio One</string>
 			<key>logo</key>
-			<string></string>
+			<string>One</string>
 			<key>link</key>
+			<string>http://82.144.20.52:8000/rdone.ogg.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30 (Valencia)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Oro 95.2 FM Málaga</string>
+			<key>logo</key>
+			<string>Oro</string>
+			<key>link</key>
+			<string>http://92.48.107.35:8002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1479,155 +1623,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Oro 94.4 FM Marbella</string>
 			<key>logo</key>
-			<string></string>
+			<string>Marbella</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://92.48.107.35:8004/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
