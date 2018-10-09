@@ -1407,6 +1407,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Castilla-La Mancha</string>
+			<key>logo</key>
+			<string>Mancha</string>
+			<key>link</key>
+			<string>http://podcast.rtvcm.es:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/news (Toledo)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Enlace</string>
 			<key>logo</key>
 			<string>Enlace</string>
@@ -1779,11 +1791,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rock FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rock</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/rockfmes.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1791,147 +1803,135 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rozas 107.6 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rozas</string>
 			<key>link</key>
-			<string></string>
+			<string>http://176.28.48.100:12800/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://2.139.144.101:8075/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RTVA Radio Andalucía Información</string>
 			<key>logo</key>
-			<string></string>
+			<string>Andalucia</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radioandalucia.rtva.stream.flumotion.com/rtva/radioandalucia.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Seville</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RTVA CanalSur Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>CanalSur</string>
 			<key>link</key>
-			<string></string>
+			<string>http://canalsurradio.rtva.stream.flumotion.com/rtva/canalsurradio_master.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Seville</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RTVA Canal Fiesta</string>
 			<key>logo</key>
-			<string></string>
+			<string>RTVA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://canalfiestaradio.rtva.stream.flumotion.com/rtva/canalfiestaradio_master.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Seville</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RTVA Canal Flamenco</string>
 			<key>logo</key>
-			<string></string>
+			<string>Flamenco</string>
 			<key>link</key>
-			<string></string>
+			<string>http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Seville</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sí Ràdio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Si</string>
 			<key>link</key>
-			<string></string>
+			<string>http://siradio.rtvv.stream.flumotion.com/rtvv/siradio.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Hits (Valencia)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Son Galicia Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Son</string>
 			<key>link</key>
-			<string></string>
+			<string>http://85.91.64.29/listen.pls?sid=3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Santiago de Compostela</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Spectrum FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Spectrum</string>
 			<key>link</key>
-			<string></string>
+			<string>http://eu1.reliastream.com/tunein.php/spectrum/playlist.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Hits (Marbella)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>STYL FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>STYL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://87.98.148.253:7424/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Manresa)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Talk Radio Europe</string>
 			<key>logo</key>
-			<string></string>
+			<string>Europe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s3.streammonster.com:8286/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk/music (San Pedro)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Top Radio 97.2</string>
 			<key>logo</key>
-			<string></string>
+			<string>97</string>
 			<key>link</key>
-			<string></string>
+			<string>http://4603.live.streamtheworld.com:3690/TOPRADIOAAC_SC.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Pop</string>
 		</dict>
 		<dict>
 			<key>name</key>
