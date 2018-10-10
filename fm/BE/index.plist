@@ -495,11 +495,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Move FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Move</string>
 			<key>link</key>
+			<string>http://91.121.223.159:8000/move.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>RnB/Rap (Quevaucamps)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Must FM</string>
+			<key>logo</key>
+			<string>Must</string>
+			<key>link</key>
+			<string>http://rs1.vdl.fm:8700/listen.pls</string>
+			<key>http</key>
+			<string>http://mustfm.ice.infomaniak.ch/mustfm-192.mp3</string>
+			<key>note</key>
+			<string>Top 30 (Ardennes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nostalgie</string>
+			<key>logo</key>
+			<string>Nostalgie</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/nostalgie_be.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,11 +531,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie Chansons Françaises</string>
 			<key>logo</key>
-			<string></string>
+			<string>Chansons</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_chanson.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -519,11 +543,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie Love</string>
 			<key>logo</key>
-			<string></string>
+			<string>Love</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_love.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -531,11 +555,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie SoulParty</string>
 			<key>logo</key>
-			<string></string>
+			<string>SoulParty</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_soulparty.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -543,11 +567,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie 60</string>
 			<key>logo</key>
-			<string></string>
+			<string>60</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_60.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -555,11 +579,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie 70</string>
 			<key>logo</key>
-			<string></string>
+			<string>70</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_70.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -567,11 +591,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie 80</string>
 			<key>logo</key>
-			<string></string>
+			<string>80</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_80.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -579,11 +603,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie 90</string>
 			<key>logo</key>
-			<string></string>
+			<string>90</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_90.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,11 +615,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie Top 1000</string>
 			<key>logo</key>
-			<string></string>
+			<string>1000</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/nostalgie_be_top1000.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Classic Hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nostalgie RockParty</string>
+			<key>logo</key>
+			<string>RockParty</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/nostalgie_be_rockparty.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -603,75 +639,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie Summer</string>
 			<key>logo</key>
-			<string></string>
+			<string>Summer</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_summer.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Latino/Reggae</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nostalgie La Story</string>
 			<key>logo</key>
-			<string></string>
+			<string>Story</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/nostalgie_be_lastory.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>NRJ</string>
 			<key>logo</key>
-			<string></string>
+			<string>NRJ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://broadcast.infomaniak.net/nrjbe-high.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Top 30</string>
 		</dict>
 		<dict>
 			<key>name</key>
