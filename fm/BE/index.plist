@@ -675,11 +675,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Pacifique FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pacifique</string>
 			<key>link</key>
+			<string>http://vt-net.net:8072/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Tournai</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Phare FM</string>
+			<key>logo</key>
+			<string>Phare</string>
+			<key>link</key>
+			<string>http://str0.creacast.com/pharefm_mons.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mons</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Campus</string>
+			<key>logo</key>
+			<string>Campus</string>
+			<key>link</key>
+			<string>http://streamer.radiocampus.be/stream.aacplus.m3u</string>
+			<key>http</key>
+			<string>http://streamer.radiocampus.be/stream_hi.ogg.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Contact</string>
+			<key>logo</key>
+			<string>Contact</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/contactfr.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Contact RnB</string>
+			<key>logo</key>
+			<string>Rn</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/contactrnb.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -687,11 +735,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Hitalia 106.7</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hitalia</string>
 			<key>link</key>
+			<string>http://wma02.fluidstream.net:8130/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Liège</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Italia</string>
+			<key>logo</key>
+			<string>Italia</string>
+			<key>link</key>
+			<string>http://wma02.fluidstream.net:8240/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Charleroi</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio J600</string>
+			<key>logo</key>
+			<string>J600</string>
+			<key>link</key>
+			<string>http://91.121.29.128:8106/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jumet</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Panik</string>
+			<key>logo</key>
+			<string>Panik</string>
+			<key>link</key>
+			<string>http://streaming.domainepublic.net:8000/radiopanik.ogg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -699,123 +783,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Plus</string>
 			<key>logo</key>
-			<string></string>
+			<string>Plus</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radioplus23.ice.infomaniak.ch/radioplus23-48.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Montegnee</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Quartz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Quartz</string>
 			<key>link</key>
-			<string></string>
+			<string>http://manager2.streaming-ingenierie.fr:8026/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Charleroi)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RUN Radio Universitaire Namuroise</string>
 			<key>logo</key>
 			<string></string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.run.be:8000/run128.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Namur</string>
 		</dict>
 		<dict>
 			<key>name</key>
