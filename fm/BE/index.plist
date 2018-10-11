@@ -627,6 +627,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>GRK</string>
+			<key>logo</key>
+			<string>GRK</string>
+			<key>link</key>
+			<string>http://grk.stream01.level27.be/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Genk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Halse Radio Victoria</string>
+			<key>logo</key>
+			<string>Halse</string>
+			<key>link</key>
+			<string>http://livestream.radiovictoria.be/tijr.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Halle</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit FM</string>
+			<key>logo</key>
+			<string>HitFM</string>
+			<key>link</key>
+			<string>http://94.23.48.124:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Hasselt)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Hit Radio</string>
 			<key>logo</key>
 			<string>Hit</string>
@@ -687,6 +723,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>HUMORzender</string>
+			<key>logo</key>
+			<string>HUMORzender</string>
+			<key>link</key>
+			<string>http://www.humorzender.be/streams/winamp.pls</string>
+			<key>http</key>
+			<string>http://listen.radionomy.com/humorzender.m3u</string>
+			<key>note</key>
+			<string>Comedy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Joe FM</string>
+			<key>logo</key>
+			<string>Joe</string>
+			<key>link</key>
+			<string>http://icecast-qmusic.cdp.triple-it.nl/JOEfm_be_live_128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jouw! Radio</string>
+			<key>logo</key>
+			<string>Jouw</string>
+			<key>link</key>
+			<string>http://www.jouwradio.be/stream/jouwradio_128.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Komilfoo FM</string>
+			<key>logo</key>
+			<string>Komilfoo</string>
+			<key>link</key>
+			<string>http://www.komilfoo.be/live/komilfoo.pls</string>
+			<key>http</key>
+			<string>http://www.komilfoo.be/live/komilfoo.m3u</string>
+			<key>note</key>
+			<string>Aarschot</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Le Centre FM</string>
 			<key>logo</key>
 			<string>Centre</string>
@@ -708,6 +792,18 @@
 			<string>http://188.165.35.60:8008/listen.pls</string>
 			<key>note</key>
 			<string>Oldies (Nivelles)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>M.i.G</string>
+			<key>logo</key>
+			<string>M.i.G</string>
+			<key>link</key>
+			<string>http://stream.intronic.nl/radiomig.m3u</string>
+			<key>http</key>
+			<string>http://radiomig.be/luister/playlist.php?name=listen.pls</string>
+			<key>note</key>
+			<string>Top 30 (Geraardsbergen)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -735,6 +831,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Molenland FM</string>
+			<key>logo</key>
+			<string>Molenland</string>
+			<key>link</key>
+			<string>http://streams.movemedia.eu:8550/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wingene</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Move FM</string>
 			<key>logo</key>
 			<string>Move</string>
@@ -756,6 +864,18 @@
 			<string>http://mustfm.ice.infomaniak.ch/mustfm-192.mp3</string>
 			<key>note</key>
 			<string>Top 30 (Ardennes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nostalgie</string>
+			<key>logo</key>
+			<string>Nostalgi</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/nostalgie_be_nl.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Antwerpen</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -936,6 +1056,30 @@
 			<string></string>
 			<key>note</key>
 			<string>Mons</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ping FM</string>
+			<key>logo</key>
+			<string>Ping</string>
+			<key>link</key>
+			<string>http://stream.pingfm.eu/listen.pls</string>
+			<key>http</key>
+			<string>https://sky1.torontocast.com:2199/tunein/swvcwsqe.pls</string>
+			<key>note</key>
+			<string>Top 30 (Lanaken)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Q-Music</string>
+			<key>logo</key>
+			<string>Q-Music</string>
+			<key>link</key>
+			<string>http://icecast-qmusic.cdp.triple-it.nl/Qmusic_be_live_96.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits (Vilvoorde)</string>
 		</dict>
 		<dict>
 			<key>name</key>
