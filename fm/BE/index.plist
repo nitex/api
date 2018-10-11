@@ -255,6 +255,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>100 5 Das Hitradio</string>
+			<key>logo</key>
+			<string>Das</string>
+			<key>link</key>
+			<string>http://stream.dashitradio.de/dashitradio/mp3-128/</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Eupen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Antipode</string>
 			<key>logo</key>
 			<string>Antipode</string>
@@ -288,6 +300,30 @@
 			<string></string>
 			<key>note</key>
 			<string>News/Entertainment/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BRF1</string>
+			<key>logo</key>
+			<string>BRF1</string>
+			<key>link</key>
+			<string>http://streaming.brf.be/brf1-mid.mp3.m3u</string>
+			<key>http</key>
+			<string>https://streaming.brf.be/brf1-high.mp3</string>
+			<key>note</key>
+			<string>Pop/Rock (Eupen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BRF2</string>
+			<key>logo</key>
+			<string>BRF2</string>
+			<key>link</key>
+			<string>http://streaming.brf.be/brf2-mid.mp3.m3u</string>
+			<key>http</key>
+			<string>https://streaming.brf.be/brf2-high.mp3</string>
+			<key>note</key>
+			<string>Volksmusik/Information (Eupen)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -735,6 +771,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Contact Eupen</string>
+			<key>logo</key>
+			<string>Eupen</string>
+			<key>link</key>
+			<string>http://www.radiocontact.de/media/contacteupen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Hitalia 106.7</string>
 			<key>logo</key>
 			<string>Hitalia</string>
@@ -807,9 +855,21 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Sunshine</string>
+			<key>logo</key>
+			<string>Sunshine</string>
+			<key>link</key>
+			<string>http://radio-sunshine.dh-media.net:7010/listen.pls</string>
+			<key>http</key>
+			<string>http://streamlive.syndicationradio.fr:8158/stream</string>
+			<key>note</key>
+			<string>Lontzen</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>RUN Radio Universitaire Namuroise</string>
 			<key>logo</key>
-			<string></string>
+			<string>RUN</string>
 			<key>link</key>
 			<string>http://stream.run.be:8000/run128.mp3.m3u</string>
 			<key>http</key>
@@ -819,11 +879,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sud Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sud</string>
 			<key>link</key>
+			<string>https://statslive.infomaniak.ch/playlist/sudradio/sudradio-96.aac/playlist.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30 (Malmedy)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ultrason FM</string>
+			<key>logo</key>
+			<string>Ultrason</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/ultrason-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB (Nivelles)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibration 107.2</string>
+			<key>logo</key>
+			<string>Vibration</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/vibrationbelgique/vibrationbelgique-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Electronica</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vivante FM</string>
+			<key>logo</key>
+			<string>Vivante</string>
+			<key>link</key>
+			<string>http://listen.radionomy.com/radio-vivantefm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies/Chansons (Colfontaine)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Radio 1</string>
+			<key>logo</key>
+			<string>VRT</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtradio1.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -831,11 +939,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VRT Radio 2 Antwerpen</string>
 			<key>logo</key>
-			<string></string>
+			<string>Antwerpen</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtradio2ant.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -843,123 +951,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Warm FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Warm</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream01.warm.fm:9002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Electronica (Liège)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>YOUFM</string>
 			<key>logo</key>
-			<string></string>
+			<string>YOUFM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://statslive.infomaniak.ch/playlist/youfm/youfm-96.aac/playlist.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Mons</string>
 		</dict>
 		<dict>
 			<key>name</key>
