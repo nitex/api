@@ -267,6 +267,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>854 (Accent FM)</string>
+			<key>logo</key>
+			<string>854</string>
+			<key>link</key>
+			<string>http://192.99.99.37:8228/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>https://www.radio854.com/livestream/winamp.pls</string>
+			<key>note</key>
+			<string>Hits (Haaltert)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Antipode</string>
 			<key>logo</key>
 			<string>Antipode</string>
@@ -276,6 +288,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Louvain-La-Neuve</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antwerpen fm</string>
+			<key>logo</key>
+			<string>Antwerp</string>
+			<key>link</key>
+			<string>http://streams.lazernet.be:2710/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -348,6 +372,54 @@
 			<string></string>
 			<key>note</key>
 			<string>Charleroi</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Music</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://91.196.171.99/citymusic.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Aalst)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Club FM</string>
+			<key>logo</key>
+			<string>Club</string>
+			<key>link</key>
+			<string>http://www.clubfmserver.be:8000/clubfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Eeklo)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CROOZE Original</string>
+			<key>logo</key>
+			<string>Original</string>
+			<key>link</key>
+			<string>http://streams.crooze.fm:8000/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Smooth Jazz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -951,6 +1023,138 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>VRT Radio 2 Limburg</string>
+			<key>logo</key>
+			<string>Limburg</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtradio2lim.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hasselt</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Radio 2 Oost-Vlaanderen</string>
+			<key>logo</key>
+			<string>Oost</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtradio2ovl.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gent</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Radio 2 Vlaams-Brabant</string>
+			<key>logo</key>
+			<string>Vlaams</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtradio2vlb.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Radio 2 West-Vlaanderen</string>
+			<key>logo</key>
+			<string>West</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtradio2wvl.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kortrijk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Klara</string>
+			<key>logo</key>
+			<string>Klara</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtklara.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Klara Continuo</string>
+			<key>logo</key>
+			<string>Continuo</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtklaracontinuo.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT MNM</string>
+			<key>logo</key>
+			<string>MNM</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtmnm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT MNM Hits</string>
+			<key>logo</key>
+			<string>Hits</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtmnmhits.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Studio Brussel</string>
+			<key>logo</key>
+			<string>Studio</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtstubru.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30/Rock/Alternative</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT NWS</string>
+			<key>logo</key>
+			<string>NWS</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtnws.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VRT Ketnet Radio</string>
+			<key>logo</key>
+			<string>Ketnet</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/belgium/be_vrtketnet.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Warm FM</string>
 			<key>logo</key>
 			<string>Warm</string>
@@ -972,42 +1176,6 @@
 			<string></string>
 			<key>note</key>
 			<string>Mons</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
