@@ -615,6 +615,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Golden Flash</string>
+			<key>logo</key>
+			<string>Flash</string>
+			<key>link</key>
+			<string>http://www.goldenflash.be/servers/winamp192.pls</string>
+			<key>http</key>
+			<string>http://www.goldenflash.be/servers/winamp320.pls</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Goldies Radio</string>
 			<key>logo</key>
 			<string>Goldies</string>
@@ -1083,6 +1095,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Apollo</string>
+			<key>logo</key>
+			<string>Apollo</string>
+			<key>link</key>
+			<string>http://37.59.195.28:8045/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wiekevorst</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Benelux</string>
+			<key>logo</key>
+			<string>Benelux</string>
+			<key>link</key>
+			<string>http://remote.radiobenelux.be:8080/MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Beringen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Brouwer</string>
+			<key>logo</key>
+			<string>Brouwer</string>
+			<key>link</key>
+			<string>http://server-16.stream-server.nl:8434/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oudenaarde</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Campus</string>
 			<key>logo</key>
 			<string>Campus</string>
@@ -1092,6 +1140,18 @@
 			<string>http://streamer.radiocampus.be/stream_hi.ogg.m3u</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Centraal</string>
+			<key>logo</key>
+			<string>Centraal</string>
+			<key>link</key>
+			<string>http://www.radiocentraal.org/stream/centraal.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Antwerp</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1131,6 +1191,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Diest (Demerstad)</string>
+			<key>logo</key>
+			<string>Diest</string>
+			<key>link</key>
+			<string>http://streams.lazernet.be:3790/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Scherpenheuvel-Zichem</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Extra Gold</string>
+			<key>logo</key>
+			<string>Extra</string>
+			<key>link</key>
+			<string>http://www.clubfmserver.be:8000/family.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies (Koksijde)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio FG</string>
+			<key>logo</key>
+			<string>FG</string>
+			<key>link</key>
+			<string>http://radiofg.impek.com/fga.m3u</string>
+			<key>http</key>
+			<string>http://radiofg.impek.com/fga64.aac.m3u</string>
+			<key>note</key>
+			<string>Dance, House, Electro (Antwerp)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ham</string>
+			<key>logo</key>
+			<string>Ham</string>
+			<key>link</key>
+			<string>http://www.radioham.be/webradio/listen2radioham_BE.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Hitalia 106.7</string>
 			<key>logo</key>
 			<string>Hitalia</string>
@@ -1140,6 +1248,30 @@
 			<string></string>
 			<key>note</key>
 			<string>Liège</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Internazionale Genk</string>
+			<key>logo</key>
+			<string>Internazionale</string>
+			<key>link</key>
+			<string>http://str01.fluidstream.net/fluid06.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice07.fluidstream.net:8080/fluid713.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio IRO</string>
+			<key>logo</key>
+			<string>IRO</string>
+			<key>link</key>
+			<string>http://stadsradio-iro.be:3001/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Meulebeke</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1167,6 +1299,126 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Katanga</string>
+			<key>logo</key>
+			<string>Katanga</string>
+			<key>link</key>
+			<string>http://www.katanga.be/streamplayer/externalplayers/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aalst</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kompas</string>
+			<key>logo</key>
+			<string>Kompas</string>
+			<key>link</key>
+			<string>http://208.43.9.96:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koekelare</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Land Van Waas</string>
+			<key>logo</key>
+			<string>Land</string>
+			<key>link</key>
+			<string>http://83.172.180.207:8066/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sint-Niklaas</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Lichtaart</string>
+			<key>logo</key>
+			<string>Lichtaart</string>
+			<key>link</key>
+			<string>http://panel.beheerstream.com:2199/tunein/radiolichtaart.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies/Schlager</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Lorali</string>
+			<key>logo</key>
+			<string>Lorali</string>
+			<key>link</key>
+			<string>http://176.56.233.51/stream/lorali.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Herk-de-Stad</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://stream.radiomaria.be/RadioMaria-96.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Leuven</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Minerva</string>
+			<key>logo</key>
+			<string>Minerva</string>
+			<key>link</key>
+			<string>http://www.radio-minerva.be/stream.php?ext=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies (Antwerp)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Mol</string>
+			<key>logo</key>
+			<string>Mol</string>
+			<key>link</key>
+			<string>http://studio.radiomol.be:5001/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Monza</string>
+			<key>logo</key>
+			<string>Monza</string>
+			<key>link</key>
+			<string>http://stream.intronic.nl/radiomonza.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kinrooi</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Opsinjoor</string>
+			<key>logo</key>
+			<string>Opsinjoor</string>
+			<key>link</key>
+			<string>http://www.opsinjoor.be/stream.php?ext=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s/90s (Mechelen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Panik</string>
 			<key>logo</key>
 			<string>Panik</string>
@@ -1191,6 +1443,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio PROS</string>
+			<key>logo</key>
+			<string>PROS</string>
+			<key>link</key>
+			<string>http://streams.lazernet.be:3180/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies/News (Denderhoutem)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Quartz</string>
 			<key>logo</key>
 			<string>Quartz</string>
@@ -1200,6 +1464,66 @@
 			<string></string>
 			<key>note</key>
 			<string>Top 30 (Charleroi)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Reflex</string>
+			<key>logo</key>
+			<string>Reflex</string>
+			<key>link</key>
+			<string>http://streams.lazernet.be:3400/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Mechelen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Scorpio</string>
+			<key>logo</key>
+			<string>Scorpio</string>
+			<key>link</key>
+			<string>http://193.190.253.57:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Leuven</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Spes</string>
+			<key>logo</key>
+			<string>Spes</string>
+			<key>link</key>
+			<string>http://streaming.itaf.eu/radiospes.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Stad</string>
+			<key>logo</key>
+			<string>Stad</string>
+			<key>link</key>
+			<string>http://stream2.radiostad.org:8344/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB (Antwerp)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Star</string>
+			<key>logo</key>
+			<string>Star</string>
+			<key>link</key>
+			<string>http://internetradio.radiostar.be:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Herzele</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1215,6 +1539,66 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Tequila</string>
+			<key>logo</key>
+			<string>Tequila</string>
+			<key>link</key>
+			<string>http://studio.radiotequila.be:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Deinze</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Valencia</string>
+			<key>logo</key>
+			<string>Valencia</string>
+			<key>link</key>
+			<string>http://panel.beheerstream.com:2199/tunein/radiovalenciafm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Meer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio VRW</string>
+			<key>logo</key>
+			<string>VRW</string>
+			<key>link</key>
+			<string>http://www.movemedia.be/stream.php?port=8560&amp;ext=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wellen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RGR FM</string>
+			<key>logo</key>
+			<string>RGR</string>
+			<key>link</key>
+			<string>http://www.rgrfm.be/rgr1281.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance (Leuven)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Roots Radio</string>
+			<key>logo</key>
+			<string>Roots</string>
+			<key>link</key>
+			<string>http://army.wavestreamer.com:4947/listen.pls</string>
+			<key>http</key>
+			<string>http://fire.wavestreamer.com:4947/listen.m3u?sid=1</string>
+			<key>note</key>
+			<string>Jazz/Folk/Blues (Ternhout)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>RUN Radio Universitaire Namuroise</string>
 			<key>logo</key>
 			<string>RUN</string>
@@ -1224,6 +1608,42 @@
 			<string></string>
 			<key>note</key>
 			<string>Namur</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spits FM</string>
+			<key>logo</key>
+			<string>Spits</string>
+			<key>link</key>
+			<string>http://www.spits.fm/live.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Opwijk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stadsradio Halle</string>
+			<key>logo</key>
+			<string>Stadsradio</string>
+			<key>link</key>
+			<string>http://stadsradio.open2.be/stream/stadsradio.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Story FM</string>
+			<key>logo</key>
+			<string>Stor</string>
+			<key>link</key>
+			<string>http://82.94.204.95/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Antwerp</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1239,6 +1659,66 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Top Radio</string>
+			<key>logo</key>
+			<string>TopRadio</string>
+			<key>link</key>
+			<string>http://stream.topradio.be/topradio.mp3.pls</string>
+			<key>http</key>
+			<string>http://stream.topradio.be/topradio.aac.pls</string>
+			<key>note</key>
+			<string>Dance (Gent)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Topradio Aalter</string>
+			<key>logo</key>
+			<string>Aalter</string>
+			<key>link</key>
+			<string>http://www.topradioaalter.be/interactive/livestream_aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trendy FM</string>
+			<key>logo</key>
+			<string>Trendy</string>
+			<key>link</key>
+			<string>http://www.trendyfm.be/stream/trendystream.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Dance (Ham)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trudo FM</string>
+			<key>logo</key>
+			<string>Trudo</string>
+			<key>link</key>
+			<string>http://cp7.shoutcheap.com:2199/tunein/trudofm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sint-Truiden</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>URGent Radio</string>
+			<key>logo</key>
+			<string>URGent</string>
+			<key>link</key>
+			<string>http://urgent.stream.flumotion.com/urgent/low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://urgent.stream.flumotion.com/urgent/low.ogg.m3u</string>
+			<key>note</key>
+			<string>Gent</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ultrason FM</string>
 			<key>logo</key>
 			<string>Ultrason</string>
@@ -1248,6 +1728,18 @@
 			<string></string>
 			<key>note</key>
 			<string>RnB (Nivelles)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VBRO</string>
+			<key>logo</key>
+			<string>VBRO</string>
+			<key>link</key>
+			<string>http://vbro.be/vbrostream/vbro.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brugge</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1443,522 +1935,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>YOUFM</string>
-			<key>logo</key>
-			<string>YOUFM</string>
-			<key>link</key>
-			<string>http://statslive.infomaniak.ch/playlist/youfm/youfm-96.aac/playlist.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Mons</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Apollo</string>
-			<key>logo</key>
-			<string>Apollo</string>
-			<key>link</key>
-			<string>http://37.59.195.28:8045/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Wiekevorst</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Benelux</string>
-			<key>logo</key>
-			<string>Benelux</string>
-			<key>link</key>
-			<string>http://remote.radiobenelux.be:8080/MP3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Beringen</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Brouwer</string>
-			<key>logo</key>
-			<string>Brouwer</string>
-			<key>link</key>
-			<string>http://server-16.stream-server.nl:8434/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Oudenaarde</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Centraal</string>
-			<key>logo</key>
-			<string>Centraal</string>
-			<key>link</key>
-			<string>http://www.radiocentraal.org/stream/centraal.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Antwerp</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Diest (Demerstad)</string>
-			<key>logo</key>
-			<string>Diest</string>
-			<key>link</key>
-			<string>http://streams.lazernet.be:3790/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Scherpenheuvel-Zichem</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Extra Gold</string>
-			<key>logo</key>
-			<string>Extra</string>
-			<key>link</key>
-			<string>http://www.clubfmserver.be:8000/family.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Oldies (Koksijde)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio FG</string>
-			<key>logo</key>
-			<string>FG</string>
-			<key>link</key>
-			<string>http://radiofg.impek.com/fga.m3u</string>
-			<key>http</key>
-			<string>http://radiofg.impek.com/fga64.aac.m3u</string>
-			<key>note</key>
-			<string>Dance, House, Electro (Antwerp)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Ham</string>
-			<key>logo</key>
-			<string>Ham</string>
-			<key>link</key>
-			<string>http://www.radioham.be/webradio/listen2radioham_BE.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Internazionale Genk</string>
-			<key>logo</key>
-			<string>Internazionale</string>
-			<key>link</key>
-			<string>http://str01.fluidstream.net/fluid06.mp3.m3u</string>
-			<key>http</key>
-			<string>http://ice07.fluidstream.net:8080/fluid713.aac.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio IRO</string>
-			<key>logo</key>
-			<string>IRO</string>
-			<key>link</key>
-			<string>http://stadsradio-iro.be:3001/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Meulebeke</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Katanga</string>
-			<key>logo</key>
-			<string>Katanga</string>
-			<key>link</key>
-			<string>http://www.katanga.be/streamplayer/externalplayers/playlist.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Aalst</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Kompas</string>
-			<key>logo</key>
-			<string>Kompas</string>
-			<key>link</key>
-			<string>http://208.43.9.96:8300/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Koekelare</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Land Van Waas</string>
-			<key>logo</key>
-			<string>Land</string>
-			<key>link</key>
-			<string>http://83.172.180.207:8066/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sint-Niklaas</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Lichtaart</string>
-			<key>logo</key>
-			<string>Lichtaart</string>
-			<key>link</key>
-			<string>http://panel.beheerstream.com:2199/tunein/radiolichtaart.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Oldies/Schlager</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Lorali</string>
-			<key>logo</key>
-			<string>Lorali</string>
-			<key>link</key>
-			<string>http://176.56.233.51/stream/lorali.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Herk-de-Stad</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Maria</string>
-			<key>logo</key>
-			<string>Maria</string>
-			<key>link</key>
-			<string>http://stream.radiomaria.be/RadioMaria-96.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Leuven</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Minerva</string>
-			<key>logo</key>
-			<string>Minerva</string>
-			<key>link</key>
-			<string>http://www.radio-minerva.be/stream.php?ext=pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Oldies (Antwerp)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Mol</string>
-			<key>logo</key>
-			<string>Mol</string>
-			<key>link</key>
-			<string>http://studio.radiomol.be:5001/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Monza</string>
-			<key>logo</key>
-			<string>Monza</string>
-			<key>link</key>
-			<string>http://stream.intronic.nl/radiomonza.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Kinrooi</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Opsinjoor</string>
-			<key>logo</key>
-			<string>Opsinjoor</string>
-			<key>link</key>
-			<string>http://www.opsinjoor.be/stream.php?ext=pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>70s/80s/90s (Mechelen)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio PROS</string>
-			<key>logo</key>
-			<string>PROS</string>
-			<key>link</key>
-			<string>http://streams.lazernet.be:3180/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Oldies/News (Denderhoutem)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Reflex</string>
-			<key>logo</key>
-			<string>Reflex</string>
-			<key>link</key>
-			<string>http://streams.lazernet.be:3400/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Mechelen)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Scorpio</string>
-			<key>logo</key>
-			<string>Scorpio</string>
-			<key>link</key>
-			<string>http://193.190.253.57:8000/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Leuven</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Spes</string>
-			<key>logo</key>
-			<string>Spes</string>
-			<key>link</key>
-			<string>http://streaming.itaf.eu/radiospes.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Stad</string>
-			<key>logo</key>
-			<string>Stad</string>
-			<key>link</key>
-			<string>http://stream2.radiostad.org:8344/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>RnB (Antwerp)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Star</string>
-			<key>logo</key>
-			<string>Star</string>
-			<key>link</key>
-			<string>http://internetradio.radiostar.be:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Herzele</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Tequila</string>
-			<key>logo</key>
-			<string>Tequila</string>
-			<key>link</key>
-			<string>http://studio.radiotequila.be:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Deinze</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Valencia</string>
-			<key>logo</key>
-			<string>Valencia</string>
-			<key>link</key>
-			<string>http://panel.beheerstream.com:2199/tunein/radiovalenciafm.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Meer</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Victoria</string>
-			<key>logo</key>
-			<string>Victoria</string>
-			<key>link</key>
-			<string>http://livestream.radiovictoria.be/tijr.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Halle</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio VRW</string>
-			<key>logo</key>
-			<string>VRW</string>
-			<key>link</key>
-			<string>http://www.movemedia.be/stream.php?port=8560&amp;ext=pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Wellen</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RGR FM</string>
-			<key>logo</key>
-			<string>RGR</string>
-			<key>link</key>
-			<string>http://www.rgrfm.be/rgr1281.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Dance (Leuven)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Roots Radio</string>
-			<key>logo</key>
-			<string>Roots</string>
-			<key>link</key>
-			<string>http://army.wavestreamer.com:4947/listen.pls</string>
-			<key>http</key>
-			<string>http://fire.wavestreamer.com:4947/listen.m3u?sid=1</string>
-			<key>note</key>
-			<string>Jazz/Folk/Blues (Ternhout)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spits FM</string>
-			<key>logo</key>
-			<string>Spits</string>
-			<key>link</key>
-			<string>http://www.spits.fm/live.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Opwijk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Stadsradio Halle</string>
-			<key>logo</key>
-			<string>Stadsradio</string>
-			<key>link</key>
-			<string>http://stadsradio.open2.be/stream/stadsradio.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Story FM</string>
-			<key>logo</key>
-			<string>Stor</string>
-			<key>link</key>
-			<string>http://82.94.204.95/live.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Antwerp</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Top Radio</string>
-			<key>logo</key>
-			<string>TopRadio</string>
-			<key>link</key>
-			<string>http://stream.topradio.be/topradio.mp3.pls</string>
-			<key>http</key>
-			<string>http://stream.topradio.be/topradio.aac.pls</string>
-			<key>note</key>
-			<string>Dance (Gent)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Topradio Aalter</string>
-			<key>logo</key>
-			<string>Aalter</string>
-			<key>link</key>
-			<string>http://www.topradioaalter.be/interactive/livestream_aac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Dance</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Trendy FM</string>
-			<key>logo</key>
-			<string>Trendy</string>
-			<key>link</key>
-			<string>http://www.trendyfm.be/stream/trendystream.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 / Dance (Ham)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Trudo FM</string>
-			<key>logo</key>
-			<string>Trudo</string>
-			<key>link</key>
-			<string>http://cp7.shoutcheap.com:2199/tunein/trudofm.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sint-Truiden</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>URGent Radio</string>
-			<key>logo</key>
-			<string>URGent</string>
-			<key>link</key>
-			<string>http://urgent.stream.flumotion.com/urgent/low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://urgent.stream.flumotion.com/urgent/low.ogg.m3u</string>
-			<key>note</key>
-			<string>Gent</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>VBRO</string>
-			<key>logo</key>
-			<string>VBRO</string>
-			<key>link</key>
-			<string>http://vbro.be/vbrostream/vbro.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Brugge</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Golden Flash</string>
-			<key>logo</key>
-			<string>Flash</string>
-			<key>link</key>
-			<string>http://www.goldenflash.be/servers/winamp192.pls</string>
-			<key>http</key>
-			<string>http://www.goldenflash.be/servers/winamp320.pls</string>
-			<key>note</key>
-			<string>Oldies</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>WFM Radio</string>
 			<key>logo</key>
 			<string>WFM</string>
@@ -1968,6 +1944,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Westerlo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>YOUFM</string>
+			<key>logo</key>
+			<string>YOUFM</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/youfm/youfm-96.aac/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mons</string>
 		</dict>
 		<dict>
 			<key>name</key>
