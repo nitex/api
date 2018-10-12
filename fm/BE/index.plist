@@ -1755,11 +1755,107 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Star</string>
 			<key>logo</key>
-			<string></string>
+			<string>Star</string>
 			<key>link</key>
+			<string>http://internetradio.radiostar.be:8000/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Herzele</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tequila</string>
+			<key>logo</key>
+			<string>Tequila</string>
+			<key>link</key>
+			<string>http://studio.radiotequila.be:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Deinze</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Valencia</string>
+			<key>logo</key>
+			<string>Valencia</string>
+			<key>link</key>
+			<string>http://panel.beheerstream.com:2199/tunein/radiovalenciafm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Meer</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Victoria</string>
+			<key>logo</key>
+			<string>Victoria</string>
+			<key>link</key>
+			<string>http://livestream.radiovictoria.be/tijr.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Halle</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio VRW</string>
+			<key>logo</key>
+			<string>VRW</string>
+			<key>link</key>
+			<string>http://www.movemedia.be/stream.php?port=8560&amp;ext=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wellen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RGR FM</string>
+			<key>logo</key>
+			<string>RGR</string>
+			<key>link</key>
+			<string>http://www.rgrfm.be/rgr1281.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance (Leuven)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Roots Radio</string>
+			<key>logo</key>
+			<string>Roots</string>
+			<key>link</key>
+			<string>http://army.wavestreamer.com:4947/listen.pls</string>
+			<key>http</key>
+			<string>http://fire.wavestreamer.com:4947/listen.m3u?sid=1</string>
+			<key>note</key>
+			<string>Jazz/Folk/Blues (Ternhout)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spits FM</string>
+			<key>logo</key>
+			<string>Spits</string>
+			<key>link</key>
+			<string>http://www.spits.fm/live.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Opwijk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stadsradio Halle</string>
+			<key>logo</key>
+			<string>Stadsradio</string>
+			<key>link</key>
+			<string>http://stadsradio.open2.be/stream/stadsradio.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1767,687 +1863,135 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Story FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Stor</string>
 			<key>link</key>
-			<string></string>
+			<string>http://82.94.204.95/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Antwerp</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Top Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>TopRadio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.topradio.be/topradio.mp3.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.topradio.be/topradio.aac.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Dance (Gent)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Topradio Aalter</string>
 			<key>logo</key>
-			<string></string>
+			<string>Aalter</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.topradioaalter.be/interactive/livestream_aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Trendy FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Trendy</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.trendyfm.be/stream/trendystream.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 / Dance (Ham)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Trudo FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Trudo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cp7.shoutcheap.com:2199/tunein/trudofm.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Sint-Truiden</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>URGent Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>URGent</string>
 			<key>link</key>
-			<string></string>
+			<string>http://urgent.stream.flumotion.com/urgent/low.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://urgent.stream.flumotion.com/urgent/low.ogg.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Gent</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VBRO</string>
 			<key>logo</key>
-			<string></string>
+			<string>VBRO</string>
 			<key>link</key>
-			<string></string>
+			<string>http://vbro.be/vbrostream/vbro.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Brugge</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Golden Flash</string>
 			<key>logo</key>
-			<string></string>
+			<string>Flash</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.goldenflash.be/servers/winamp192.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.goldenflash.be/servers/winamp320.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>WFM Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>WFM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://178.19.116.3:8094/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Westerlo</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Zen FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Zen</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.zenfm.be/zenfm.mp3.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.zenfm.be/zenfm.aac.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Chillout/Groove (Gent)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Zoe FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Zoe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.zoe.fm/stream.php?ext=pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>80s/90s/Hits (Kempen)</string>
 		</dict>
 	</array>
 </dict>
