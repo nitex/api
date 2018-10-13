@@ -267,6 +267,78 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Argovia</string>
+			<key>logo</key>
+			<string>Argovia</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argovia128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Classic Rock</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://www.argovia.ch/radio/streams/scr-hq.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Hit Mix</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://www.argovia.ch/radio/streams/hm-hq.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia News</string>
+			<key>logo</key>
+			<string>New</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argovianews.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Love</string>
+			<key>logo</key>
+			<string>Lov</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argovialove.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Comedy</string>
+			<key>logo</key>
+			<string>Comedy</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argoviacomedy.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Country Radio Switzerland</string>
 			<key>logo</key>
 			<string>Country</string>
@@ -747,78 +819,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Argovia</string>
-			<key>logo</key>
-			<string>Argovia</string>
-			<key>link</key>
-			<string>http://icecast.argovia.ch/argovia128.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Aarau</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Argovia Classic Rock</string>
-			<key>logo</key>
-			<string>Classic</string>
-			<key>link</key>
-			<string>http://www.argovia.ch/radio/streams/scr-hq.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Aarau</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Argovia Hit Mix</string>
-			<key>logo</key>
-			<string>Hit</string>
-			<key>link</key>
-			<string>http://www.argovia.ch/radio/streams/hm-hq.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Aarau</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Argovia News</string>
-			<key>logo</key>
-			<string>New</string>
-			<key>link</key>
-			<string>http://icecast.argovia.ch/argovianews.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Aarau</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Argovia Love</string>
-			<key>logo</key>
-			<string>Lov</string>
-			<key>link</key>
-			<string>http://icecast.argovia.ch/argovialove.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Aarau</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Argovia Comedy</string>
-			<key>logo</key>
-			<string>Comedy</string>
-			<key>link</key>
-			<string>http://icecast.argovia.ch/argoviacomedy.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Aarau</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Radio Basilisk</string>
 			<key>logo</key>
 			<string>Basilisk</string>
@@ -855,15 +855,243 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Central</string>
 			<key>logo</key>
-			<string></string>
+			<string>Central</string>
 			<key>link</key>
-			<string></string>
+			<string>http://195.48.36.34/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Charts</string>
+			<key>logo</key>
+			<string>Chart</string>
+			<key>link</key>
+			<string>http://sp1128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top 30 (Brunnen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Swiss</string>
+			<key>logo</key>
+			<string>Swis</string>
+			<key>link</key>
+			<string>http://sp3128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Jazz</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://sp4128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central HipHop</string>
+			<key>logo</key>
+			<string>HipHop</string>
+			<key>link</key>
+			<string>http://sp5128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Funk</string>
+			<key>logo</key>
+			<string>Funk</string>
+			<key>link</key>
+			<string>http://sp6128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Soul, funk (Brunnen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Rock</string>
+			<key>logo</key>
+			<string>Roc</string>
+			<key>link</key>
+			<string>http://sp7128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Dance</string>
+			<key>logo</key>
+			<string>Danc</string>
+			<key>link</key>
+			<string>http://sp8128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Country</string>
+			<key>logo</key>
+			<string>Countr</string>
+			<key>link</key>
+			<string>http://sp9128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Schlager</string>
+			<key>logo</key>
+			<string>Schlager</string>
+			<key>link</key>
+			<string>http://sp9128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Freiburg</string>
+			<key>logo</key>
+			<string>Freiburg</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/radiofreiburg-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.ch/radiofreiburg-high.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Gloria</string>
+			<key>logo</key>
+			<string>Gloria</string>
+			<key>link</key>
+			<string>http://live-two.dmd2.ch:8080/radiogloria_lo.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Baldegg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Inside</string>
+			<key>logo</key>
+			<string>Inside</string>
+			<key>link</key>
+			<string>http://fra.radiostream.de:37499/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Dance (Zofingen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kaiseregg</string>
+			<key>logo</key>
+			<string>Kaiseregg</string>
+			<key>link</key>
+			<string>http://radiokaiseregg128k.ice.infomaniak.ch/playlists/stream128k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>80s/Pop/Rock (Schwarzsee)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio LoRa 97,5 MHz</string>
+			<key>logo</key>
+			<string>LoRa</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/lora/lora-192.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Melody</string>
+			<key>logo</key>
+			<string>Melody</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1melody128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Gallen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Monte Carlo Swiss</string>
+			<key>logo</key>
+			<string>Monte</string>
+			<key>link</key>
+			<string>http://stream.105.ch:8000/rmc.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Pilatus</string>
+			<key>logo</key>
+			<string>Pilatus</string>
+			<key>link</key>
+			<string>http://radiopilatus.bcast.infomaniak.ch/pilatus192.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lucerne</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio RaBe 95,6</string>
+			<key>logo</key>
+			<string>RaBe</string>
+			<key>link</key>
+			<string>http://stream.rabe.ch:8000/livestream/rabe-mid.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Culture (Berne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Radius</string>
+			<key>logo</key>
+			<string>Radius</string>
+			<key>link</key>
+			<string>http://radioradius.ch/radius_quicktime.pls</string>
+			<key>http</key>
+			<string>http://relay.radio.ethz.ch/radius_winamp.m3u</string>
+			<key>note</key>
+			<string>Zurich</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -939,11 +1167,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Swiss Internet Radio Classical</string>
 			<key>logo</key>
-			<string></string>
+			<string>Classical</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.swissradio.ch/streams/6034.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -951,11 +1179,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Swiss Internet Radio Opera</string>
 			<key>logo</key>
-			<string></string>
+			<string>Opera</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.swissradio.ch/streams/6060.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -963,11 +1191,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Swiss Internet Radio Jazz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Internet</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.swissradio.ch/streams/6054.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -975,11 +1203,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Swiss Internet Radio Modern Jazz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Modern</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.swissradio.ch/streams/6092.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -987,11 +1215,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Swiss Internet Radio 80s Pop</string>
 			<key>logo</key>
-			<string></string>
+			<string>80</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.radiocrazy.ch/streams/6070.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -999,59 +1227,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Swiss Internet Radio Sanctus</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sanctus</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.radiocrazy.ch/streams/6080.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
