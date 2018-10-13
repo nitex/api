@@ -51,7 +51,7 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 1</string>
+			<string>SRF 1</string>
 			<key>logo</key>
 			<string>SRF</string>
 			<key>link</key>
@@ -63,7 +63,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 1 Aargau Solothurn</string>
+			<string>SRF 1 Aargau Solothurn</string>
 			<key>logo</key>
 			<string>Aargau</string>
 			<key>link</key>
@@ -75,7 +75,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 1 Basel Baselland</string>
+			<string>SRF 1 Basel Baselland</string>
 			<key>logo</key>
 			<string>Basel</string>
 			<key>link</key>
@@ -87,7 +87,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 1 Bern Freibourg Wallis</string>
+			<string>SRF 1 Bern Freibourg Wallis</string>
 			<key>logo</key>
 			<string>Wallis</string>
 			<key>link</key>
@@ -99,7 +99,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 1 Ostschweiz</string>
+			<string>SRF 1 Ostschweiz</string>
 			<key>logo</key>
 			<string>Ostschweiz</string>
 			<key>link</key>
@@ -111,7 +111,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 1 Zentralschweiz</string>
+			<string>SRF 1 Zentralschweiz</string>
 			<key>logo</key>
 			<string>Zentralschweiz</string>
 			<key>link</key>
@@ -123,7 +123,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 1 Zürich Schaffhausen</string>
+			<string>SRF 1 Zürich Schaffhausen</string>
 			<key>logo</key>
 			<string>Schaffhausen</string>
 			<key>link</key>
@@ -135,7 +135,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 2 Kultur</string>
+			<string>SRF 2 Kultur</string>
 			<key>logo</key>
 			<string>Kultur</string>
 			<key>link</key>
@@ -147,7 +147,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 3</string>
+			<string>SRF 3</string>
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
@@ -159,7 +159,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF 4 News</string>
+			<string>SRF 4 News</string>
 			<key>logo</key>
 			<string>4</string>
 			<key>link</key>
@@ -171,7 +171,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF Virus</string>
+			<string>SRF Virus</string>
 			<key>logo</key>
 			<string>Virus</string>
 			<key>link</key>
@@ -183,7 +183,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio SRF Musikwelle</string>
+			<string>SRF Musikwelle</string>
 			<key>logo</key>
 			<string>Musikwelle</string>
 			<key>link</key>
@@ -192,6 +192,1074 @@
 			<string>http://stream.srg-ssr.ch/drsmw/aacp_32.m3u</string>
 			<key>note</key>
 			<string>Traditional/folk music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRG SSR Radio Swiss Pop</string>
+			<key>logo</key>
+			<string>Pop</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/rsp/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://www.radioswisspop.ch/live/aacp32.m3u</string>
+			<key>note</key>
+			<string>Pop/Hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRG SSR Radio Swiss Jazz</string>
+			<key>logo</key>
+			<string>SRG</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/rsj/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://www.radioswissjazz.ch/live/aacp32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRG SSR Radio Swiss Classic</string>
+			<key>logo</key>
+			<string>SSR</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/rsc_de/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://www.radioswissclassic.ch/live/aacp32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRG SSR Radio Suisse Classique</string>
+			<key>logo</key>
+			<string>Classique</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/rsc_fr/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://www.radiosuisseclassique.ch/live/aacp32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRG SSR Radio Svizzera Classica</string>
+			<key>logo</key>
+			<string>Classica</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/rsc_it/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://www.radiosvizzeraclassica.ch/live/aacp32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTR Radio Rumantsch</string>
+			<key>logo</key>
+			<string>Rumantsch</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/rr/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/rr/aacp_96.m3u</string>
+			<key>note</key>
+			<string>Chur</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Country Radio Switzerland</string>
+			<key>logo</key>
+			<string>Country</string>
+			<key>link</key>
+			<string>http://www.countryradio.ch/assets/files/listen.pls</string>
+			<key>http</key>
+			<string>https://www.countryradio.ch/crs-64.pls</string>
+			<key>note</key>
+			<string>Schoenenberg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DJ Radio</string>
+			<key>logo</key>
+			<string>DJ</string>
+			<key>link</key>
+			<string>http://login.streamplus.de/player.php?spt=4411.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance/Club (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Zurich</string>
+			<key>logo</key>
+			<string>Zurich</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyzuerich/energyzuerich-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Bern</string>
+			<key>logo</key>
+			<string>Bern</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energybern/energybern-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Basel</string>
+			<key>logo</key>
+			<string>Energy</string>
+			<key>link</key>
+			<string>http://energybasel.ice.infomaniak.ch/energybasel-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Black</string>
+			<key>logo</key>
+			<string>Black</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyblack/energyblack-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Charts</string>
+			<key>logo</key>
+			<string>Charts</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energycharts/energycharts-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Elektro</string>
+			<key>logo</key>
+			<string>Elektro</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyelektro/energyelektro-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Electronic (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy German</string>
+			<key>logo</key>
+			<string>German</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energygerman/energygerman-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Italy</string>
+			<key>logo</key>
+			<string>Italy</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyitaly/energyitaly-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Love</string>
+			<key>logo</key>
+			<string>Love</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energylove/energylove-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Hot</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyhot/energyhot-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 80s</string>
+			<key>logo</key>
+			<string>80s</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energy80s/energy80s-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 90s</string>
+			<key>logo</key>
+			<string>90s</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energy90s/energy90s-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 00s</string>
+			<key>logo</key>
+			<string>00s</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energy00s-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energydance-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Girl</string>
+			<key>logo</key>
+			<string>Girl</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energygirl-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Latin</string>
+			<key>logo</key>
+			<string>Latin</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/nrjlatin-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Live</string>
+			<key>logo</key>
+			<string>Live</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energylive-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Lounge</string>
+			<key>logo</key>
+			<string>Lounge</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energylounge-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Mix</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energymix-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>HipHop (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energyrock-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Soundtrack</string>
+			<key>logo</key>
+			<string>Soundtrack</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energysoundtrack-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Swiss</string>
+			<key>logo</key>
+			<string>Swiss</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energyswiss-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock/Pop (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Nord</string>
+			<key>logo</key>
+			<string>Nord</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1sg128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Gallen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Süd</string>
+			<key>logo</key>
+			<string>Sud</string>
+			<key>link</key>
+			<string>http://fm1sud.bcast.infomaniak.ch/fm1sud.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Buchs</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1gold128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Gallen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Hot</string>
+			<key>logo</key>
+			<string>FM1</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1hot128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / RnB (St.Gallen)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kanal K</string>
+			<key>logo</key>
+			<string>K</string>
+			<key>link</key>
+			<string>http://82.197.165.150/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Channel</string>
+			<key>logo</key>
+			<string>Channel</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/lifechannel.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pfäffikon</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lounge-Radio.com</string>
+			<key>logo</key>
+			<string>Radio.com</string>
+			<key>link</key>
+			<string>http://www.lounge-radio.com/listen128.m3u</string>
+			<key>http</key>
+			<string>https://lounge-radio.com/aacplus.m3u</string>
+			<key>note</key>
+			<string>Ambient/Lounge</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
