@@ -555,6 +555,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Energy Léman</string>
+			<key>logo</key>
+			<string>Leman</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.net/nrj-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.net/nrj-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Energy Live</string>
 			<key>logo</key>
 			<string>Live</string>
@@ -981,9 +993,9 @@
 			<key>link</key>
 			<string>http://broadcast.infomaniak.ch/radiofreiburg-low.mp3.m3u</string>
 			<key>http</key>
-			<string>http://broadcast.infomaniak.ch/radiofreiburg-high.mp3.m3u</string>
+			<string>http://broadcast.infomaniak.ch/radiofribourg-low.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Fribourg</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1176,6 +1188,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Schaffhausen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1431,171 +1455,147 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>LuNe Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>LuNe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://broadcaster.infomaniak.ch/lune-high.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Neuchâtel</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Magic Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Magic</string>
 			<key>link</key>
-			<string></string>
+			<string>http://91.121.98.154:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.magicradio.ch/magic-mobile.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 / Dance / Chillout</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mountain Radio Verbier</string>
 			<key>logo</key>
-			<string></string>
+			<string>Mountain</string>
 			<key>link</key>
-			<string></string>
+			<string>http://mountainradioverbier.stream2net.eu:8270/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://mountainradioverbier.stream2net.eu:8280/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Lourtier</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>One FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>One</string>
 			<key>link</key>
-			<string></string>
+			<string>http://broadcast.infomaniak.ch/onefm-low.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://broadcast.infomaniak.ch/onefm-high.aac.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Geneva)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Chablais</string>
 			<key>logo</key>
-			<string></string>
+			<string>Chablais</string>
 			<key>link</key>
-			<string></string>
+			<string>http://broadcast.infomaniak.ch/radiochablais-high.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Monthey</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Cité</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cite</string>
 			<key>link</key>
-			<string></string>
+			<string>http://statslive.infomaniak.com/playlist/radiocite/radiocite-highest.aac/playlist.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Pop (Geneva)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Ouistiti</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ouistiti</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ouistiti.stream2net.eu:8090/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://ouistiti-aac.stream2net.eu:8100/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Sion</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rhône FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rhone</string>
 			<key>link</key>
-			<string></string>
+			<string>http://broadcast.infomaniak.ch/rhonefm-low.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://broadcast.infomaniak.ch/rhonefm-high.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Sion</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RFJ</string>
 			<key>logo</key>
-			<string></string>
+			<string>RFJ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.rfj.ch/RFJ/live/48k.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.rfj.ch/RFJ/live/128k.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Delémont)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RJB</string>
 			<key>logo</key>
-			<string></string>
+			<string>RJB</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.rjb.ch/RJB/live/rjb-low.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.rjb.ch/RJB/live/rjb-high.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Tavannes)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RTN</string>
 			<key>logo</key>
-			<string></string>
+			<string>RTN</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.rjb.ch/RTN/live/rtn-low.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.rjb.ch/RTN/live/rtn-high.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 30 (Marin)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Spoon Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Spoon</string>
 			<key>link</key>
-			<string></string>
+			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.mp3/playlist.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-low.aac/playlist.pls</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Rock (Geneva)</string>
 		</dict>
 		<dict>
 			<key>name</key>
