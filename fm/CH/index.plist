@@ -267,6 +267,90 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>RSR La Premiere</string>
+			<key>logo</key>
+			<string>Premiere</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/la-1ere/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u</string>
+			<key>note</key>
+			<string>News/Features (Lausanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RSR Espace 2</string>
+			<key>logo</key>
+			<string>Espace</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/espace-2/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/espace-2/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Culture/Classical/Jazz (Lausanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RSR Couleur 3</string>
+			<key>logo</key>
+			<string>Couleur</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/couleur3/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/couleur3/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Rock/Pop/Entertainment (Lausanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RSR Option Musique</string>
+			<key>logo</key>
+			<string>Musique</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/option-musique/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/option-musique/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Hits (Lausanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RSI Rete Uno</string>
+			<key>logo</key>
+			<string>Uno</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/reteuno/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/reteuno/aacp_32.m3u</string>
+			<key>note</key>
+			<string>News/Features (Lugano)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RSI Rete Due</string>
+			<key>logo</key>
+			<string>Due</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/retedue/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/retedue/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Culture/Classical/Jazz (Lugano)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RSI Rete Tre</string>
+			<key>logo</key>
+			<string>Tre</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/retetre/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/retetre/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Rock/Pop/Entertainment (Lugano)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Argovia</string>
 			<key>logo</key>
 			<string>Argovia</string>
@@ -348,6 +432,18 @@
 			<string>https://www.countryradio.ch/crs-64.pls</string>
 			<key>note</key>
 			<string>Schoenenberg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Creatures Of The Night Radio</string>
+			<key>logo</key>
+			<string>Creatures</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/cotn.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chillout/Lounge (Locarno)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -639,6 +735,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>FC Sion Radio</string>
+			<key>logo</key>
+			<string>Sion</string>
+			<key>link</key>
+			<string>http://fcsion.stream2net.eu:8220/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>FM1 Nord</string>
 			<key>logo</key>
 			<string>Nord</string>
@@ -687,6 +795,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Fréquence Banane</string>
+			<key>logo</key>
+			<string>Banane</string>
+			<key>link</key>
+			<string>http://www.frequencebanane.ch/fb_128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lausanne</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Global SPORT</string>
+			<key>logo</key>
+			<string>Global</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/globalfm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lausanne</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IP music</string>
+			<key>logo</key>
+			<string>IP</string>
+			<key>link</key>
+			<string>http://www.ipmusic.ch/ipmusic128.m3u</string>
+			<key>http</key>
+			<string>http://www.ipmusic.ch/ipmusicaacplus64.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Lausanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IP music Slow</string>
+			<key>logo</key>
+			<string>Slow</string>
+			<key>link</key>
+			<string>http://www.ipmusicslow.ch/ipmusicslow128.m3u</string>
+			<key>http</key>
+			<string>http://www.ipmusicslow.ch/ipmusicslowaacplus128.m3u</string>
+			<key>note</key>
+			<string>Lausanne</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Kanal K</string>
 			<key>logo</key>
 			<string>K</string>
@@ -696,6 +852,42 @@
 			<string></string>
 			<key>note</key>
 			<string>Aarau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KTFM SA</string>
+			<key>logo</key>
+			<string>KTFM</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/ktfm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Fabrik</string>
+			<key>logo</key>
+			<string>Fabrik</string>
+			<key>link</key>
+			<string>http://stream.lafabrik.ch/lafabrik.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Petit-Lancy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LFM</string>
+			<key>logo</key>
+			<string>LFM</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/lausannefm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lausanne</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -723,6 +915,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>LuNe Radio</string>
+			<key>logo</key>
+			<string>LuNe</string>
+			<key>link</key>
+			<string>http://broadcaster.infomaniak.ch/lune-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Neuchâtel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magic Radio</string>
+			<key>logo</key>
+			<string>Magic</string>
+			<key>link</key>
+			<string>http://91.121.98.154:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://www.magicradio.ch/magic-mobile.m3u</string>
+			<key>note</key>
+			<string>Top 30 / Dance / Chillout</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mountain Radio Verbier</string>
+			<key>logo</key>
+			<string>Mountain</string>
+			<key>link</key>
+			<string>http://mountainradioverbier.stream2net.eu:8270/listen.pls</string>
+			<key>http</key>
+			<string>http://mountainradioverbier.stream2net.eu:8280/listen.pls</string>
+			<key>note</key>
+			<string>Lourtier</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>neo1</string>
 			<key>logo</key>
 			<string>neo1</string>
@@ -732,6 +960,18 @@
 			<string>http://webradio.neo1.ch/neo1</string>
 			<key>note</key>
 			<string>Pop/Rock (Langnau)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>One FM</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/onefm-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.ch/onefm-high.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Geneva)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -987,6 +1227,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Chablais</string>
+			<key>logo</key>
+			<string>Chablais</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/radiochablais-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Monthey</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cité</string>
+			<key>logo</key>
+			<string>Cite</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.com/playlist/radiocite/radiocite-highest.aac/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Freiburg</string>
 			<key>logo</key>
 			<string>Freiburg</string>
@@ -1068,6 +1332,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ouistiti</string>
+			<key>logo</key>
+			<string>Ouistiti</string>
+			<key>link</key>
+			<string>http://ouistiti.stream2net.eu:8090/listen.pls</string>
+			<key>http</key>
+			<string>http://ouistiti-aac.stream2net.eu:8100/listen.pls</string>
+			<key>note</key>
+			<string>Sion</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1188,6 +1464,126 @@
 			<string></string>
 			<key>note</key>
 			<string>Schaffhausen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT (Fiume Ticino)</string>
+			<key>logo</key>
+			<string>Fiume</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/direttahq.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Locarno)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT CHARME</string>
+			<key>logo</key>
+			<string>CHARME</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftcharme.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lounge, Fusion, Jazz (Locarno)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT MOVIDA</string>
+			<key>logo</key>
+			<string>MOVIDA</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftmovida.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>House, Dance (Locarno)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT POP</string>
+			<key>logo</key>
+			<string>RFT</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftpop.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Locarno</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT ROCK</string>
+			<key>logo</key>
+			<string>RFTROCK</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftrock.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Locarno</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT GOLD</string>
+			<key>logo</key>
+			<string>RFTGOLD</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftgold.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Locarno</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rhône FM</string>
+			<key>logo</key>
+			<string>Rhone</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/rhonefm-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.ch/rhonefm-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Sion</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFJ</string>
+			<key>logo</key>
+			<string>RFJ</string>
+			<key>link</key>
+			<string>http://www.rfj.ch/RFJ/live/48k.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.rfj.ch/RFJ/live/128k.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Delémont)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RJB</string>
+			<key>logo</key>
+			<string>RJB</string>
+			<key>link</key>
+			<string>http://www.rjb.ch/RJB/live/rjb-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.rjb.ch/RJB/live/rjb-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Tavannes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTN</string>
+			<key>logo</key>
+			<string>RTN</string>
+			<key>link</key>
+			<string>http://www.rjb.ch/RTN/live/rtn-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.rjb.ch/RTN/live/rtn-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Marin)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1440,6 +1836,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Rock (Le Mont-sur-Lausanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spoon Radio</string>
+			<key>logo</key>
+			<string>Spoon</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-low.aac/playlist.pls</string>
+			<key>note</key>
+			<string>Rock (Geneva)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1899,66 +2307,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Yes FM (LAC)</string>
-			<key>logo</key>
-			<string>Yes</string>
-			<key>link</key>
-			<string>http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Le Mont-sur-Lausanne</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RSR La Premiere</string>
-			<key>logo</key>
-			<string>Premiere</string>
-			<key>link</key>
-			<string>http://stream.srg-ssr.ch/la-1ere/mp3_128.m3u</string>
-			<key>http</key>
-			<string>http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u</string>
-			<key>note</key>
-			<string>News/Features (Lausanne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RSR Espace 2</string>
-			<key>logo</key>
-			<string>Espace</string>
-			<key>link</key>
-			<string>http://stream.srg-ssr.ch/espace-2/mp3_128.m3u</string>
-			<key>http</key>
-			<string>http://stream.srg-ssr.ch/espace-2/aacp_32.m3u</string>
-			<key>note</key>
-			<string>Culture/Classical/Jazz (Lausanne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RSR Couleur 3</string>
-			<key>logo</key>
-			<string>Couleur</string>
-			<key>link</key>
-			<string>http://stream.srg-ssr.ch/couleur3/mp3_128.m3u</string>
-			<key>http</key>
-			<string>http://stream.srg-ssr.ch/couleur3/aacp_32.m3u</string>
-			<key>note</key>
-			<string>Rock/Pop/Entertainment (Lausanne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RSR Option Musique</string>
-			<key>logo</key>
-			<string>Musique</string>
-			<key>link</key>
-			<string>http://stream.srg-ssr.ch/option-musique/mp3_128.m3u</string>
-			<key>http</key>
-			<string>http://stream.srg-ssr.ch/option-musique/aacp_32.m3u</string>
-			<key>note</key>
-			<string>Hits (Lausanne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>World Radio Switzerland</string>
 			<key>logo</key>
 			<string>World</string>
@@ -1971,363 +2319,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FC Sion Radio</string>
+			<string>Yes FM (LAC)</string>
 			<key>logo</key>
-			<string>Sion</string>
+			<string>Yes</string>
 			<key>link</key>
-			<string>http://fcsion.stream2net.eu:8220/listen.pls</string>
+			<string>http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 / Sport</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Fréquence Banane</string>
-			<key>logo</key>
-			<string>Banane</string>
-			<key>link</key>
-			<string>http://www.frequencebanane.ch/fb_128.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Lausanne</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Global SPORT</string>
-			<key>logo</key>
-			<string>Global</string>
-			<key>link</key>
-			<string>http://broadcast.infomaniak.ch/globalfm-high.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Lausanne</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>IP music</string>
-			<key>logo</key>
-			<string>IP</string>
-			<key>link</key>
-			<string>http://www.ipmusic.ch/ipmusic128.m3u</string>
-			<key>http</key>
-			<string>http://www.ipmusic.ch/ipmusicaacplus64.m3u</string>
-			<key>note</key>
-			<string>Top 30 (Lausanne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>IP music Slow</string>
-			<key>logo</key>
-			<string>Slow</string>
-			<key>link</key>
-			<string>http://www.ipmusicslow.ch/ipmusicslow128.m3u</string>
-			<key>http</key>
-			<string>http://www.ipmusicslow.ch/ipmusicslowaacplus128.m3u</string>
-			<key>note</key>
-			<string>Lausanne</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>KTFM</string>
-			<key>logo</key>
-			<string>KTFM</string>
-			<key>link</key>
-			<string>http://broadcast.infomaniak.ch/ktfm-high.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>70s/80s (Geneva)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Fabrik</string>
-			<key>logo</key>
-			<string>Fabrik</string>
-			<key>link</key>
-			<string>http://stream.lafabrik.ch/lafabrik.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Petit-Lancy</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LFM</string>
-			<key>logo</key>
-			<string>LFM</string>
-			<key>link</key>
-			<string>http://broadcast.infomaniak.ch/lausannefm-high.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Lausanne</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LuNe Radio</string>
-			<key>logo</key>
-			<string>LuNe</string>
-			<key>link</key>
-			<string>http://broadcaster.infomaniak.ch/lune-high.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Neuchâtel</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Magic Radio</string>
-			<key>logo</key>
-			<string>Magic</string>
-			<key>link</key>
-			<string>http://91.121.98.154:8000/listen.pls</string>
-			<key>http</key>
-			<string>http://www.magicradio.ch/magic-mobile.m3u</string>
-			<key>note</key>
-			<string>Top 30 / Dance / Chillout</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mountain Radio Verbier</string>
-			<key>logo</key>
-			<string>Mountain</string>
-			<key>link</key>
-			<string>http://mountainradioverbier.stream2net.eu:8270/listen.pls</string>
-			<key>http</key>
-			<string>http://mountainradioverbier.stream2net.eu:8280/listen.pls</string>
-			<key>note</key>
-			<string>Lourtier</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>One FM</string>
-			<key>logo</key>
-			<string>One</string>
-			<key>link</key>
-			<string>http://broadcast.infomaniak.ch/onefm-low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://broadcast.infomaniak.ch/onefm-high.aac.m3u</string>
-			<key>note</key>
-			<string>Top 30 (Geneva)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Chablais</string>
-			<key>logo</key>
-			<string>Chablais</string>
-			<key>link</key>
-			<string>http://broadcast.infomaniak.ch/radiochablais-high.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Monthey</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Cité</string>
-			<key>logo</key>
-			<string>Cite</string>
-			<key>link</key>
-			<string>http://statslive.infomaniak.com/playlist/radiocite/radiocite-highest.aac/playlist.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Pop (Geneva)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Ouistiti</string>
-			<key>logo</key>
-			<string>Ouistiti</string>
-			<key>link</key>
-			<string>http://ouistiti.stream2net.eu:8090/listen.pls</string>
-			<key>http</key>
-			<string>http://ouistiti-aac.stream2net.eu:8100/listen.pls</string>
-			<key>note</key>
-			<string>Sion</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rhône FM</string>
-			<key>logo</key>
-			<string>Rhone</string>
-			<key>link</key>
-			<string>http://broadcast.infomaniak.ch/rhonefm-low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://broadcast.infomaniak.ch/rhonefm-high.mp3.m3u</string>
-			<key>note</key>
-			<string>Sion</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFJ</string>
-			<key>logo</key>
-			<string>RFJ</string>
-			<key>link</key>
-			<string>http://www.rfj.ch/RFJ/live/48k.mp3.m3u</string>
-			<key>http</key>
-			<string>http://www.rfj.ch/RFJ/live/128k.mp3.m3u</string>
-			<key>note</key>
-			<string>Top 30 (Delémont)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RJB</string>
-			<key>logo</key>
-			<string>RJB</string>
-			<key>link</key>
-			<string>http://www.rjb.ch/RJB/live/rjb-low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://www.rjb.ch/RJB/live/rjb-high.mp3.m3u</string>
-			<key>note</key>
-			<string>Top 30 (Tavannes)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTN</string>
-			<key>logo</key>
-			<string>RTN</string>
-			<key>link</key>
-			<string>http://www.rjb.ch/RTN/live/rtn-low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://www.rjb.ch/RTN/live/rtn-high.mp3.m3u</string>
-			<key>note</key>
-			<string>Top 30 (Marin)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spoon Radio</string>
-			<key>logo</key>
-			<string>Spoon</string>
-			<key>link</key>
-			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.mp3/playlist.pls</string>
-			<key>http</key>
-			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-low.aac/playlist.pls</string>
-			<key>note</key>
-			<string>Rock (Geneva)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RSI Rete Uno</string>
-			<key>logo</key>
-			<string>Uno</string>
-			<key>link</key>
-			<string>http://stream.srg-ssr.ch/reteuno/mp3_128.m3u</string>
-			<key>http</key>
-			<string>http://stream.srg-ssr.ch/reteuno/aacp_32.m3u</string>
-			<key>note</key>
-			<string>News/Features (Lugano)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RSI Rete Due</string>
-			<key>logo</key>
-			<string>Due</string>
-			<key>link</key>
-			<string>http://stream.srg-ssr.ch/retedue/mp3_128.m3u</string>
-			<key>http</key>
-			<string>http://stream.srg-ssr.ch/retedue/aacp_32.m3u</string>
-			<key>note</key>
-			<string>Culture/Classical/Jazz (Lugano)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RSI Rete Tre</string>
-			<key>logo</key>
-			<string>Tre</string>
-			<key>link</key>
-			<string>http://stream.srg-ssr.ch/retetre/mp3_128.m3u</string>
-			<key>http</key>
-			<string>http://stream.srg-ssr.ch/retetre/aacp_32.m3u</string>
-			<key>note</key>
-			<string>Rock/Pop/Entertainment (Lugano)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFT (Fiume Ticino)</string>
-			<key>logo</key>
-			<string>Fiume</string>
-			<key>link</key>
-			<string>http://streaming.smartradio.ch:2199/tunein/direttahq.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Locarno)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFT CHARME</string>
-			<key>logo</key>
-			<string>CHARME</string>
-			<key>link</key>
-			<string>http://streaming.smartradio.ch:2199/tunein/rftcharme.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Lounge, Fusion, Jazz (Locarno)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFT MOVIDA</string>
-			<key>logo</key>
-			<string>MOVIDA</string>
-			<key>link</key>
-			<string>http://streaming.smartradio.ch:2199/tunein/rftmovida.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>House, Dance (Locarno)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFT POP</string>
-			<key>logo</key>
-			<string>RFT</string>
-			<key>link</key>
-			<string>http://streaming.smartradio.ch:2199/tunein/rftpop.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Locarno</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFT ROCK</string>
-			<key>logo</key>
-			<string>RFTROCK</string>
-			<key>link</key>
-			<string>http://streaming.smartradio.ch:2199/tunein/rftrock.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Locarno</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFT GOLD</string>
-			<key>logo</key>
-			<string>RFTGOLD</string>
-			<key>link</key>
-			<string>http://streaming.smartradio.ch:2199/tunein/rftgold.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Locarno</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Creatures Of The Night Radio</string>
-			<key>logo</key>
-			<string>Creatures</string>
-			<key>link</key>
-			<string>http://streaming.smartradio.ch:2199/tunein/cotn.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Chillout/Lounge (Locarno)</string>
+			<string>Le Mont-sur-Lausanne</string>
 		</dict>
 	</array>
 </dict>
