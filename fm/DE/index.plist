@@ -927,11 +927,83 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Byte FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Byte</string>
 			<key>link</key>
+			<string>http://www.byte.fm/stream/bytefm.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Alternative/Rock/Pop (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CampusFM</string>
+			<key>logo</key>
+			<string>CampusFM</string>
+			<key>link</key>
+			<string>http://132.252.179.253:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Essen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari 98.6</string>
+			<key>logo</key>
+			<string>98.6</string>
+			<key>link</key>
+			<string>http://webradio.charivari986.de:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nürnberg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari 95.5</string>
+			<key>logo</key>
+			<string>95.5</string>
+			<key>link</key>
+			<string>http://www.charivari.de/stream1.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari Partyhitmix</string>
+			<key>logo</key>
+			<string>Partyhitmix</string>
+			<key>link</key>
+			<string>http://rs5.stream24.net:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari 102.4</string>
+			<key>logo</key>
+			<string>102.4</string>
+			<key>link</key>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-charivariwb/livestream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Würzburg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari Regensburg</string>
+			<key>logo</key>
+			<string>Regensburg</string>
+			<key>link</key>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-chari/livestream.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -939,11 +1011,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CityRadio Trier</string>
 			<key>logo</key>
-			<string></string>
+			<string>Trier</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/cityradiotrier.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classical 102</string>
+			<key>logo</key>
+			<string>102</string>
+			<key>link</key>
+			<string>http://tuner.classical102.com/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -951,135 +1035,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Classic Rock Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Roc</string>
 			<key>link</key>
-			<string></string>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/radiosalueclassicrock/livestream96s.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Saarbrücken</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>coloRadio</string>
 			<key>logo</key>
-			<string></string>
+			<string>coloRadio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://hub.fueralle.org/coloradio160mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Dresden</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Coolradio 1</string>
 			<key>logo</key>
-			<string></string>
+			<string>1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.coolradio.de/streams/coolradio1-128.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.coolradio.de/streams/coolradio1-48.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Ingolstadt</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Coolradio Jazz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Coolradio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.coolradio.de/streams/cooljazz-128.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.coolradio.de/streams/cooljazz-48.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Ingolstadt</string>
 		</dict>
 		<dict>
 			<key>name</key>
