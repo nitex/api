@@ -747,6 +747,90 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Bayern Plus</string>
+			<key>logo</key>
+			<string>Plus</string>
+			<key>link</key>
+			<string>http://streams.br.de/bayernplus_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/bayernplus_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayernwelle Süd Ost Freilassing</string>
+			<key>logo</key>
+			<string>Bayernwelle</string>
+			<key>link</key>
+			<string>http://icebwso2.srv.co.at:8000/bwbgl_hi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayernwelle Süd Ost Chiemgau</string>
+			<key>logo</key>
+			<string>Chiemgau</string>
+			<key>link</key>
+			<string>http://icebwso2.srv.co.at:8000/bwchg_uplink.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BB Radio</string>
+			<key>logo</key>
+			<string>BB</string>
+			<key>link</key>
+			<string>http://streams.ir-media-tec.com/bbradio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Berliner Rundfunk</string>
+			<key>logo</key>
+			<string>Berliner</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/berliner.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>bermuda.funk</string>
+			<key>logo</key>
+			<string>bermuda.funk</string>
+			<key>link</key>
+			<string>http://streaming.fueralle.org:8000/bermudafunk.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mannheim</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big FM</string>
+			<key>logo</key>
+			<string>Big</string>
+			<key>link</key>
+			<string>http://srv04.bigstreams.de/bigfm-mp3-64.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / RnB (Stuttgart)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>BR-Klassik</string>
 			<key>logo</key>
 			<string>BR</string>
@@ -783,147 +867,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BR Heimat</string>
 			<key>logo</key>
-			<string></string>
+			<string>Heimat</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.br.de/brheimat_1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streams.br.de/brheimat_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BR Puls</string>
+			<key>logo</key>
+			<string>Puls</string>
+			<key>link</key>
+			<string>http://streams.br.de/puls_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/puls_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bremen Eins</string>
+			<key>logo</key>
+			<string>Bremen</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremeneins_56.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremeneins_128.m3u</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bremen Vier</string>
+			<key>logo</key>
+			<string>Vier</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremenvier_56.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremenvier_128.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BurnFM</string>
 			<key>logo</key>
-			<string></string>
+			<string>BurnFM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.burn-fm.de/live_mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.burn-fm.de/live_aac_32.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Hof</string>
 		</dict>
 		<dict>
 			<key>name</key>
