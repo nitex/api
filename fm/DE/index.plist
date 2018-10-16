@@ -603,11 +603,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Antenne Pfalz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pfalz</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-pfalz-aac.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Neustadt</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Pirmasens</string>
+			<key>logo</key>
+			<string>Pirmasens</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-pirmasens-mp3.m3u</string>
+			<key>http</key>
+			<string>http://138.201.124.80:8000/strps</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Sylt</string>
+			<key>logo</key>
+			<string>Sylt</string>
+			<key>link</key>
+			<string>http://antenne-sylt.de/as-48.pls</string>
+			<key>http</key>
+			<string>http://antenne-sylt.de/as-128.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Thüringen</string>
+			<key>logo</key>
+			<string>Thuringen</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/thueringen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Weimar</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Unna</string>
+			<key>logo</key>
+			<string>Unna</string>
+			<key>link</key>
+			<string>http://dd11422.kasserver.com:8010/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -615,171 +663,123 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Antenne Zweibrücken</string>
 			<key>logo</key>
-			<string></string>
+			<string>Zweibrucken</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/antenne-zweibruecken-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/antenne-zweibruecken-aac.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Apollo Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Apollo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.apolloradio.de/APOLLO/mp3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Classical/Jazz (Chemnitz)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Babelsberg Hitradio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Babelsberg</string>
 			<key>link</key>
-			<string></string>
+			<string>http://babelsberg-hitradio.de/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Potsdam</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>baden.fm</string>
 			<key>logo</key>
-			<string></string>
+			<string>baden.fm</string>
 			<key>link</key>
-			<string></string>
+			<string>http://badenfm.ip-streaming.net:8006/badenfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 40 (Freiburg)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Bayern 1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bayern1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.br.de/bayern1_1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streams.br.de/bayern1_2.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News/Oldies/Schlager (Munich)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Bayern 2</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bayern2</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.br.de/bayern2_1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streams.br.de/bayern2_2.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Munich</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Bayern 3</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bayern3</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.br.de/bayern3_1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streams.br.de/bayern3_2.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Munich</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BR-Klassik</string>
 			<key>logo</key>
-			<string></string>
+			<string>BR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.br.de/br-klassik_1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streams.br.de/br-klassik_2.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Munich</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>B5 Aktuell</string>
 			<key>logo</key>
-			<string></string>
+			<string>Aktuell</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.br.de/b5aktuell_1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streams.br.de/b5aktuell_2.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News (Munich)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>B5 Plus</string>
 			<key>logo</key>
-			<string></string>
+			<string>B5</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.br.de/b5plus_1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streams.br.de/b5plus_2.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News (Munich)</string>
 		</dict>
 		<dict>
 			<key>name</key>
