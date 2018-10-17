@@ -51,42 +51,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Deutschlandfunk</string>
-			<key>logo</key>
-			<string>Deutschlandfunk</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlf_64.m3u</string>
-			<key>http</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlf_128.m3u</string>
-			<key>note</key>
-			<string>News / Information (Cologne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Deutschlandradio Kultur</string>
-			<key>logo</key>
-			<string>Kultur</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_64.m3u</string>
-			<key>http</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_128.m3u</string>
-			<key>note</key>
-			<string>Arts / Culture</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Deutschlandfunk Nova</string>
-			<key>logo</key>
-			<string>Nova</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_64.m3u</string>
-			<key>http</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_128.m3u</string>
-			<key>note</key>
-			<string>Education / Science (Cologne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>NDR 90,3</string>
 			<key>logo</key>
 			<string>90,3</string>
@@ -1083,11 +1047,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Country 108</string>
 			<key>logo</key>
-			<string></string>
+			<string>108</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.country108.com/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1095,11 +1059,227 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CT das radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>CT</string>
 			<key>link</key>
+			<string>http://live.radioct.de:8008/listen.pls</string>
+			<key>http</key>
+			<string>http://www.ctdasradio.de/listen.pls</string>
+			<key>note</key>
+			<string>Bochum</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing</string>
+			<key>logo</key>
+			<string>DasDing</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasding_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasding_m.m3u</string>
+			<key>note</key>
+			<string>Dance / Top 40 (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing Lautstark</string>
+			<key>logo</key>
+			<string>Lautstark</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasdingraka01_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasdingraka01_m.m3u</string>
+			<key>note</key>
+			<string>Rock (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing Plattenleger</string>
+			<key>logo</key>
+			<string>Plattenleger</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasdingraka03_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasdingraka03_m.m3u</string>
+			<key>note</key>
+			<string>House (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing Sprechstunde</string>
+			<key>logo</key>
+			<string>Sprechstunde</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasdingraka02_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasdingraka02_m.m3u</string>
+			<key>note</key>
+			<string>HipHop / RnB (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Defjay Radio</string>
+			<key>logo</key>
+			<string>Defjay</string>
+			<key>link</key>
+			<string>http://www.defjay.de/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>RnB</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio</string>
+			<key>logo</key>
+			<string>delta</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-live/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-live/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Rock (Kiel)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio ALTERNATIVE</string>
+			<key>logo</key>
+			<string>ALTERNATIVE</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-alternative/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-alternative/aac-64/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Kiel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio GRUNGE</string>
+			<key>logo</key>
+			<string>GRUNGE</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-grunge/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-grunge/mp3-192/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Kiel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio INDIE</string>
+			<key>logo</key>
+			<string>INDIE</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-indie/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-indie/aac-64/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Kiel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio Föhnfrisur</string>
+			<key>logo</key>
+			<string>Fohnfrisur</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-foehnfrisur/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-foehnfrisur/aac-64/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Rock / Metal (Kiel)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe</string>
+			<key>logo</key>
+			<string>Deluxe</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/deluxeradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Lounge</string>
+			<key>logo</key>
+			<string>Lounge</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/lounge_web/mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Disco</string>
+			<key>logo</key>
+			<string>Disco</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/disco.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe 80s Extreme</string>
+			<key>logo</key>
+			<string>Extreme</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/80s.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Dinner and Bar Tunes</string>
+			<key>logo</key>
+			<string>Bar</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/dinner.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz / Lounge (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/gold.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Rock</string>
+			<key>logo</key>
+			<string>Ro</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/rock.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Lounge</string>
+			<key>logo</key>
+			<string>Loung</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/lounge.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1107,159 +1287,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Deutschlandfunk</string>
 			<key>logo</key>
-			<string></string>
+			<string>Deutschlandfunk</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/streams/germany/de_dlf_64.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/streams/germany/de_dlf_128.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News / Information (Cologne)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Deutschlandradio Kultur</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kultur</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_64.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_128.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Arts / Culture</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Deutschlandfunk Nova</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nova</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_64.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_128.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Education / Science (Cologne)</string>
 		</dict>
 	</array>
 </dict>
