@@ -915,11 +915,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ado FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ado</string>
 			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/start-adofm-high.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa No.1</string>
+			<key>logo</key>
+			<string>No</string>
+			<key>link</key>
+			<string>http://african1paris.ice.infomaniak.ch/african1paris-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/info/music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Agora FM</string>
+			<key>logo</key>
+			<string>Agora</string>
+			<key>link</key>
+			<string>http://37.59.53.200:8013/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop (Montpellier)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alouette</string>
+			<key>logo</key>
+			<string>Alouette</string>
+			<key>link</key>
+			<string>http://www.alouette.fr/alouette.m3u</string>
+			<key>http</key>
+			<string>http://www.alouette.fr/alouette_aac.m3u</string>
+			<key>note</key>
+			<string>Les Herbiers</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alpes 1 Grenoble</string>
+			<key>logo</key>
+			<string>Alpes</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/alpes1grenoble-high.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -927,11 +975,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Alpes 1 Gap</string>
 			<key>logo</key>
-			<string></string>
+			<string>1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://broadcast.infomaniak.ch/alpes1gap-high.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -939,11 +987,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Alta Frequenza</string>
 			<key>logo</key>
-			<string></string>
+			<string>Alta</string>
 			<key>link</key>
+			<string>http://str80.streamakaci.com:7020/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News/talk/music (Ajaccio)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AlterNantes</string>
+			<key>logo</key>
+			<string>AlterNantes</string>
+			<key>link</key>
+			<string>http://diffusion.lafrap.fr/alternantes.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nantes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ARL</string>
+			<key>logo</key>
+			<string>ARL</string>
+			<key>link</key>
+			<string>http://www.tv-radio.com/station/arl/arl.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/News/Sport (Langon)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arvorig FM</string>
+			<key>logo</key>
+			<string>Arvorig</string>
+			<key>link</key>
+			<string>http://arvorig-fm.online.stalig.net/live.mp3.m3u</string>
+			<key>http</key>
+			<string>http://arvorig-fm.online.stalig.net/live-ori.ogg.m3u</string>
+			<key>note</key>
+			<string>Landerneau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atomic Radio</string>
+			<key>logo</key>
+			<string>Atomic</string>
+			<key>link</key>
+			<string>http://www.atomicfm.fr/Atomic.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock/Dance (Barousse)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Autoroute INFO Nord</string>
+			<key>logo</key>
+			<string>Autoroute</string>
+			<key>link</key>
+			<string>http://media.autorouteinfo.fr:8000/direct_nord.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -951,119 +1059,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Autoroute INFO Sud</string>
 			<key>logo</key>
-			<string></string>
+			<string>Su</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://media.autorouteinfo.fr:8000/direct_sud.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
