@@ -195,11 +195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FIP à Bordeaux</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bordeaux</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/fr_fipbordeaux.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +207,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FIP à Strasbourg</string>
 			<key>logo</key>
-			<string></string>
+			<string>Strasbourg</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/fr_fipstrasbourg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +219,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FIP autour du rock</string>
 			<key>logo</key>
-			<string></string>
+			<string>autour</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fiprock.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP autour du jazz</string>
+			<key>logo</key>
+			<string>du</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipjazz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +243,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FIP autour du groove</string>
 			<key>logo</key>
-			<string></string>
+			<string>groove</string>
 			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipgroove.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Soul, funk, groove</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP autour du monde</string>
+			<key>logo</key>
+			<string>monde</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipmonde.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Tout nouveau, tout FIP</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tout</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/fr_fipnouveau.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,27 +279,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mouv’</string>
 			<key>logo</key>
-			<string></string>
+			<string>Mouv</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/fr_mouv.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mouv’ Xtra</string>
 			<key>logo</key>
-			<string></string>
+			<string>Xtra</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/fr_mouvxtra.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Young, Hip-Hop, Electro</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -819,75 +843,75 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RFI Monde</string>
 			<key>logo</key>
-			<string></string>
+			<string>RFI</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/rfimonde.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News/information</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RFI Afrique</string>
 			<key>logo</key>
-			<string></string>
+			<string>Afrique</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/rfiafrique.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News/information</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>77 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>77</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.77fm.net/77FM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Meaux</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Accent 4</string>
 			<key>logo</key>
-			<string></string>
+			<string>4</string>
 			<key>link</key>
-			<string></string>
+			<string>http://str0.creacast.com:900/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://players.creacast.com/creacast/accent4/playlist.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Strasbourg</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Activ Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Activ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.activradio.com/component/popupStream/ecouteSaintTienne.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 40 (Saint Étienne)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Activ Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Roanne</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.activradio.com/component/popupStream/ecouteRoanne.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 40 (Roanne)</string>
 		</dict>
 		<dict>
 			<key>name</key>
