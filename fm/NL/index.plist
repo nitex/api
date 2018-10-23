@@ -975,11 +975,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Double Z Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Double</string>
 			<key>link</key>
+			<string>http://81.23.249.40:8004/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internetpiraten.com/luisteren/streams/listen192.pls</string>
+			<key>note</key>
+			<string>Valkenswaard</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Drechtstad FM</string>
+			<key>logo</key>
+			<string>Drechtstad</string>
+			<key>link</key>
+			<string>http://icecast.streamone.nl/Fn9q2LifS1.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Dordrecht</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ede FM</string>
+			<key>logo</key>
+			<string>Ede</string>
+			<key>link</key>
+			<string>http://89.105.200.190:8032/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -987,11 +1011,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Enschede FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Enschede</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream1.icehosting.nl:8126/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -999,11 +1023,203 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Extra FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Extra</string>
 			<key>link</key>
+			<string>http://217.172.190.185:8078/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Beneden-Leeuwen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Favoriet FM</string>
+			<key>logo</key>
+			<string>Favoriet</string>
+			<key>link</key>
+			<string>http://5.39.94.126:8170/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zevenaar</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Feel Good Radio</string>
+			<key>logo</key>
+			<string>Feel</string>
+			<key>link</key>
+			<string>http://feelgoodradio.nl/stream.php?port=8344&amp;ext=pls</string>
+			<key>http</key>
+			<string>http://live.feelgoodradio.eu:8344/stream</string>
+			<key>note</key>
+			<string>Rijswijk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Freez FM</string>
+			<key>logo</key>
+			<string>Freez</string>
+			<key>link</key>
+			<string>http://178.19.127.9/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock (Sneek)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fresh FM</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://streams.fresh.fm:8100/listen.pls</string>
+			<key>http</key>
+			<string>http://www.fresh.fm/media/audio/ListenHigh.pls</string>
+			<key>note</key>
+			<string>Dance (Zoetermeer)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX NL</string>
+			<key>logo</key>
+			<string>FunX</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop (Rotterdam)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Rotterdam</string>
+			<key>logo</key>
+			<string>Rotterdam</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-rotterdam-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-rotterdam-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Amsterdam</string>
+			<key>logo</key>
+			<string>Amsterdam</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-amsterdam-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-amsterdam-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Utrecht</string>
+			<key>logo</key>
+			<string>Utrecht</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-utrecht-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-utrecht-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Den Haag</string>
+			<key>logo</key>
+			<string>Haag</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-denhaag-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-denhaag-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop (Hague)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Slow Jamz</string>
+			<key>logo</key>
+			<string>Jamz</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-slowjamz-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-slowjamz-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop (Rotterdam)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Reggae</string>
+			<key>logo</key>
+			<string>Reggae</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-reggae-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-reggae-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-dance-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-dance-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Arab</string>
+			<key>logo</key>
+			<string>Arab</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-arab-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-arab-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Latin</string>
+			<key>logo</key>
+			<string>Latin</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-latin-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-latin-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gelre FM Oost Gelre</string>
+			<key>logo</key>
+			<string>Gelre</string>
+			<key>link</key>
+			<string>http://www.gelre.fm/stream/live.php?editie=oostgelre&amp;type=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Groenlo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gelre FM Doetinchem</string>
+			<key>logo</key>
+			<string>Doetinchem</string>
+			<key>link</key>
+			<string>http://www.gelre.fm/stream/live.php?editie=doetinchem&amp;type=pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1011,11 +1227,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Gelre FM Aalten</string>
 			<key>logo</key>
-			<string></string>
+			<string>Aalten</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.gelre.fm/stream/live.php?editie=aalten&amp;type=pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1023,243 +1239,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Gigant FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gigant</string>
 			<key>link</key>
-			<string></string>
+			<string>http://gigantfm.ic-stream.nl:7204/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.gigantfm.nl/listen/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Erica</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Glow FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Glow</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.glowfm.nl/player/glowfm.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Geldrop</string>
 		</dict>
 	</array>
 </dict>
