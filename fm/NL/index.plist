@@ -507,11 +507,83 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>AVRO Baroque around the Clock</string>
 			<key>logo</key>
-			<string></string>
+			<string>Baroque</string>
 			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-baroque-bb-mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Classical (Hilversum)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Film</string>
+			<key>logo</key>
+			<string>Film</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-film-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical (Hilversum)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Toppers van Toen</string>
+			<key>logo</key>
+			<string>Toppers</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-toppersvantoen-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>30s/40s/50s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Steenen Tijdperk Fifties</string>
+			<key>logo</key>
+			<string>Tijdperk</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-stfifties-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>50s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Steenen Tijdperk Sixties</string>
+			<key>logo</key>
+			<string>Sixties</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-stsixties-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>60s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Back to the Old School</string>
+			<key>logo</key>
+			<string>School</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-oldschool-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Easy Listening</string>
+			<key>logo</key>
+			<string>Listening</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-easylistening-bb-mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -519,11 +591,143 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>AVRO Puur</string>
 			<key>logo</key>
-			<string></string>
+			<string>Puur</string>
 			<key>link</key>
+			<string>http://icecast.omroep.nl/radio2-puuravro-bb-mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pop, Jazz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Avulo FM</string>
+			<key>logo</key>
+			<string>Avulo</string>
+			<key>link</key>
+			<string>http://www.power1054.nl/2009/stream.m3u</string>
+			<key>http</key>
+			<string>http://icecast.streamone.net/iyRENaqTeAU0</string>
+			<key>note</key>
+			<string>Vught</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat FM</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://radioheiloo.no-ip.info:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classic (Heiloo)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Berkelland FM</string>
+			<key>logo</key>
+			<string>Berkelland</string>
+			<key>link</key>
+			<string>http://176.31.226.73:8772/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Eibergen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Berkelstroom FM</string>
+			<key>logo</key>
+			<string>Berkelstroom</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bfm_nl.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zutphen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bingo FM</string>
+			<key>logo</key>
+			<string>Bingo</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bingofm.m3u</string>
+			<key>http</key>
+			<string>https://media.rtvutrecht.nl/bingofm-sb-mp3</string>
+			<key>note</key>
+			<string>Utrecht</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BNN FM</string>
+			<key>logo</key>
+			<string>BNN</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/3fm-bnnfm-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock (Hilversum)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bollenstreek Omroep</string>
+			<key>logo</key>
+			<string>Bollenstreek</string>
+			<key>link</key>
+			<string>http://stream.bollenstreekomroep.nl/live-mp3-128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Noordwijk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boschtion FM</string>
+			<key>logo</key>
+			<string>Boschtion</string>
+			<key>link</key>
+			<string>http://server-10.stream-server.nl:8132/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Den Bosch</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bright FM</string>
+			<key>logo</key>
+			<string>Bright</string>
+			<key>link</key>
+			<string>http://www.bright.fm/radiostream/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Arnhem</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BNR Nieuwsradio</string>
+			<key>logo</key>
+			<string>BNR</string>
+			<key>link</key>
+			<string>http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_96_06.m3u</string>
+			<key>http</key>
+			<string>http://icecast-bnr.cdp.triple-it.nl/bnr_aac_32_04.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Candlelight</string>
+			<key>logo</key>
+			<string>Candlelight</string>
+			<key>link</key>
+			<string>http://candlelight.live-streams.nl/candlelight.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -531,219 +735,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Classic FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Classic</string>
 			<key>link</key>
-			<string></string>
+			<string>http://provisioning.streamtheworld.com/pls/classicfm.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://provisioning.streamtheworld.com/pls/classicfmaac.pls</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Naarden</string>
 		</dict>
 		<dict>
 			<key>name</key>
