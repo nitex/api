@@ -59,7 +59,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -71,7 +71,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Брест</string>
+			<key>logo</key>
+			<string>Brest</string>
+			<key>link</key>
+			<string>http://93.84.112.253:8039/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -95,7 +107,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +131,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +179,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -179,7 +191,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,7 +215,103 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Мелодии века</string>
+			<key>logo</key>
+			<string>Melodii</string>
+			<key>link</key>
+			<string>http://87.252.252.78:8000/MV.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Минск</string>
+			<key>logo</key>
+			<string>Minsk</string>
+			<key>link</key>
+			<string>http://93.84.113.142:8000/radio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио ОНТ</string>
+			<key>logo</key>
+			<string>ONT</string>
+			<key>link</key>
+			<string>http://shoutcast.byfly.by:8008/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>РАНАК</string>
+			<key>logo</key>
+			<string>Ranak</string>
+			<key>link</key>
+			<string>http://www.draiv.by:8000/ranak.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Svetlogorsk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Рокс-М</string>
+			<key>logo</key>
+			<string>Roks</string>
+			<key>link</key>
+			<string>http://91.149.157.79:8000/roks.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Витебск</string>
+			<key>logo</key>
+			<string>Vitebsk</string>
+			<key>link</key>
+			<string>http://radio.vtv.by:8000/radio_vitebsk_128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10 (Vitebsk)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Русское Радио</string>
+			<key>logo</key>
+			<string>Russkoe</string>
+			<key>link</key>
+			<string>http://live.rusradio.by:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unistar 99.5 FM</string>
+			<key>logo</key>
+			<string>Unistar</string>
+			<key>link</key>
+			<string>http://unistar.by:8000/unistar-128kb.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
 		</dict>
 	</array>
 </dict>
