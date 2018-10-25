@@ -51,111 +51,87 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Radio 1</string>
+			<string>Radio Slovenija A1 (PRVI)</string>
 			<key>logo</key>
-			<string>RTE1</string>
+			<string>A1</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte1.m3u</string>
+			<string>http://mp3.rtvslo.si/ra1.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News / Features (Dublin)</string>
+			<string>News/Information</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Radio 1 Extra</string>
+			<string>Radio Slovenija VAL 202</string>
 			<key>logo</key>
-			<string>RTE2</string>
+			<string>Val202</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte1extra.m3u</string>
+			<string>http://mp3.rtvslo.si/val202.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News / Features (Dublin)</string>
+			<string>Pop/Entertainmnet</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Radio 2</string>
+			<string>Radio Slovenija ARS</string>
 			<key>logo</key>
-			<string>RTE3</string>
+			<string>Ars</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte2fm.m3u</string>
+			<string>http://mp3.rtvslo.si/ars.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Dublin)</string>
+			<string>Music/Educational</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Lyric FM</string>
+			<string>Radio Capodistria</string>
 			<key>logo</key>
-			<string>RTE4</string>
+			<string>Capodistria</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtelyric.m3u</string>
+			<string>http://mp3.rtvslo.si/capo.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Classical Music (Limerick)</string>
+			<string>Koper</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Raidió Na Gaeltachta</string>
+			<string>Radio Koper</string>
 			<key>logo</key>
-			<string>RTE5</string>
+			<string>Koper</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rternag.m3u</string>
+			<string>http://mp3.rtvslo.si/rakp.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Gaelic (Casla)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ 2XM</string>
+			<string>Radio Maribor</string>
 			<key>logo</key>
-			<string>RTE6</string>
+			<string>Maribor</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte2xm.m3u</string>
+			<string>http://mp3.rtvslo.si/rmb.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Rock / Indie / New music (Dublin)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Gold</string>
+			<string>SI (Radio Slovenija International)</string>
 			<key>logo</key>
-			<string>RTE7</string>
+			<string>International</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtegold.m3u</string>
+			<string>http://mp3.rtvslo.si/rsi.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies (Dublin)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTÉ Junior</string>
-			<key>logo</key>
-			<string>RTE8</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/rtejunior.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Children programming (Dublin)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTÉ Pulse</string>
-			<key>logo</key>
-			<string>RTE9</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/rtepulse.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Dance music (Dublin)</string>
+			<string>Music/Entertainment</string>
 		</dict>
 	</array>
 </dict>

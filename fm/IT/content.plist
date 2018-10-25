@@ -51,111 +51,147 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Radio 1</string>
+			<string>RAI Radiouno</string>
 			<key>logo</key>
-			<string>RTE1</string>
+			<string>Radiouno</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte1.m3u</string>
+			<string>http://www.listenlive.eu/rai1.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News / Features (Dublin)</string>
+			<string>News / Information</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Radio 1 Extra</string>
+			<string>RAI Radiodue</string>
 			<key>logo</key>
-			<string>RTE2</string>
+			<string>Radiodue</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte1extra.m3u</string>
+			<string>http://www.listenlive.eu/rai2.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News / Features (Dublin)</string>
+			<string>Contemporary</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Radio 2</string>
+			<string>RAI Radiotre</string>
 			<key>logo</key>
-			<string>RTE3</string>
+			<string>Radiotre</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte2fm.m3u</string>
+			<string>http://www.listenlive.eu/rai3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Dublin)</string>
+			<string>Classical / Culture</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Lyric FM</string>
+			<string>RAI FD4 Leggera</string>
 			<key>logo</key>
-			<string>RTE4</string>
+			<string>FD4</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtelyric.m3u</string>
+			<string>http://www.listenlive.eu/rai4.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Classical Music (Limerick)</string>
+			<string>Jazz / Easy Listening</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Raidió Na Gaeltachta</string>
+			<string>RAI FD5 Auditorium</string>
 			<key>logo</key>
-			<string>RTE5</string>
+			<string>FD5</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rternag.m3u</string>
+			<string>http://www.listenlive.eu/rai5.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Gaelic (Casla)</string>
+			<string>Classical</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ 2XM</string>
+			<string>RAI Isoradio</string>
 			<key>logo</key>
-			<string>RTE6</string>
+			<string>Isoradio</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte2xm.m3u</string>
+			<string>http://www.listenlive.eu/rai6.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Rock / Indie / New music (Dublin)</string>
+			<string>News / Information / Traffic</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Gold</string>
+			<string>RAI GR Parlamento</string>
 			<key>logo</key>
-			<string>RTE7</string>
+			<string>GR</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtegold.m3u</string>
+			<string>http://www.listenlive.eu/rai7.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies (Dublin)</string>
+			<string>Italian Parliament</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Junior</string>
+			<string>RAI Italica</string>
 			<key>logo</key>
-			<string>RTE8</string>
+			<string>Italica</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtejunior.m3u</string>
+			<string>http://www.listenlive.eu/rai8.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Children programming (Dublin)</string>
+			<string>International Service</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTÉ Pulse</string>
+			<string>RAI Sender Bozen</string>
 			<key>logo</key>
-			<string>RTE9</string>
+			<string>Bozen</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtepulse.m3u</string>
+			<string>http://www.listenlive.eu/raibz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Dance music (Dublin)</string>
+			<string>Regional Service (German / Ladin), Bolzano</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rai Radio Techete</string>
+			<key>logo</key>
+			<string>Techete</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai9.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>History</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rai Radio Live</string>
+			<key>logo</key>
+			<string>Live</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai10.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock / Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rai Radio Kids</string>
+			<key>logo</key>
+			<string>Kids</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rai11.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kids Music, Trends</string>
 		</dict>
 	</array>
 </dict>
