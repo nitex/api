@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>vesti@gmail.com</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Radio Tirana 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://149.202.214.27:8888/radiotirana1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tirana 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://149.202.214.27:8888/radiotirana2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tirana 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://149.202.214.27:8888/rti.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alfa dhe Omega Radio</string>
+			<key>logo</key>
+			<string>Alfa</string>
+			<key>link</key>
+			<string>http://uk3-pn.mixstream.net:8102/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AMC Love Radio</string>
+			<key>logo</key>
+			<string>AMC</string>
+			<key>link</key>
+			<string>http://80.78.76.171:6200/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Emigranti</string>
+			<key>logo</key>
+			<string>Emigranti</string>
+			<key>link</key>
+			<string>http://www.radioemigranti.com:8000/radioauto48.m3u</string>
+			<key>http</key>
+			<string>http://www.radioemigranti.com:8000/radio.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RadioDardania</string>
+			<key>logo</key>
+			<string>Dardania</string>
+			<key>link</key>
+			<string>http://www.radiodardania.com/radio64.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio DJ 96.1</string>
+			<key>logo</key>
+			<string>DJ</string>
+			<key>link</key>
+			<string>http://80.78.76.171:6500/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance/House</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Jug</string>
+			<key>logo</key>
+			<string>Jug</string>
+			<key>link</key>
+			<string>http://84.20.77.50:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Fier)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kontakt</string>
+			<key>logo</key>
+			<string>Kontakt</string>
+			<key>link</key>
+			<string>http://46.252.34.91:88/broadwavehigh.mp3?src=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 3</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Maria Shqiperi</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://cloudrad.io/radiomariaalbania/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio NRG</string>
+			<key>logo</key>
+			<string>NRG</string>
+			<key>link</key>
+			<string>http://ice31.securenetsystems.net/AL09.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 3</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Travel</string>
+			<key>logo</key>
+			<string>Travel</string>
+			<key>link</key>
+			<string>http://93.190.141.15:7038/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Albania Radio</string>
+			<key>logo</key>
+			<string>Albania</string>
+			<key>link</key>
+			<string>http://tar.stream.dev.al:9078/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://tar.stream.dev.al:9080/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VIP FM</string>
+			<key>logo</key>
+			<string>VIP</string>
+			<key>link</key>
+			<string>http://eu3.fastcast4u.com:5334/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 3 (Fier)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
