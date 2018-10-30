@@ -195,6 +195,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Europa Plus Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://epdance128server.streamr.ru:8035/epdance128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus</string>
+			<key>logo</key>
+			<string>Plus</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/EuropaPlusNN.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Нижний Новгород</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa Plus</string>
+			<key>logo</key>
+			<string>Euro</string>
+			<key>link</key>
+			<string>http://212.193.249.165:8000/europapluskirov.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Киров</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Авторитетное Радио</string>
 			<key>logo</key>
 			<string>Avtoritetnoe</string>
@@ -363,159 +399,147 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Эхо Москвы</string>
 			<key>logo</key>
-			<string></string>
+			<string>Echo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream05.media.rambler.ru/echo.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Эльдорадио</string>
 			<key>logo</key>
-			<string></string>
+			<string>EldoRadio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair.eltel.net/eldoradio-128k.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>St Petersburg</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Global FM Tambov</string>
 			<key>logo</key>
-			<string></string>
+			<string>Global</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s07.radio-tochka.com:6455/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://s07.radio-tochka.com:6810/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 40</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Город FM 107.6</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gorod</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.gorodfm.ru:8000/gorodfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News/Talk (Екатеринбург)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Говорит Москва</string>
 			<key>logo</key>
-			<string></string>
+			<string>Govorit</string>
 			<key>link</key>
-			<string></string>
+			<string>http://88.150.175.154:8000/rufm.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Hit FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hit</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/hitfm_ru.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Pop/Rock</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Inter Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Inter</string>
 			<key>link</key>
-			<string></string>
+			<string>http://intervolna.com:8000/Inter.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Jazz (Екатеринбург)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Интерра FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Interra</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ice.interra.fm:8000/barix.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies (Первоуральск)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Кекс FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Keks</string>
 			<key>link</key>
-			<string></string>
+			<string>http://keksserver.streamr.ru:8037/keks128.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>St.Petersburg</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Коммерсантъ</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kommersant</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.listenlive.eu/kommersant.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>L-Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>L-Radio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://server2.lradio.ru:8000/lradio64.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Челябинск</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Лира</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lira</string>
 			<key>link</key>
-			<string></string>
+			<string>http://87.229.132.22:8000/LiraFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Pop (Богданович)</string>
 		</dict>
 		<dict>
 			<key>name</key>
