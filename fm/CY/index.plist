@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Astra FM</string>
+			<key>logo</key>
+			<string>Astra</string>
+			<key>link</key>
+			<string>http://r1.cloudskep.com/radio/diesi/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cosmos Radio 95,2</string>
+			<key>logo</key>
+			<string>Cosmos</string>
+			<key>link</key>
+			<string>http://50.22.219.97:34470/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pafos</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayrak Radyosu</string>
+			<key>logo</key>
+			<string>Radyosu</string>
+			<key>link</key>
+			<string>http://sc.brtk.net:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Music (Lefkosa)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayrak International</string>
+			<key>logo</key>
+			<string>International</string>
+			<key>link</key>
+			<string>http://sc.brtk.net:8004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lefkosa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayrak FM</string>
+			<key>logo</key>
+			<string>Bayrak</string>
+			<key>link</key>
+			<string>http://sc.brtk.net:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lefkosa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayrak Klasik</string>
+			<key>logo</key>
+			<string>Klasik</string>
+			<key>link</key>
+			<string>http://sc.brtk.net:8006/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lefkosa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayrak Türk Müziği</string>
+			<key>logo</key>
+			<string>Turk</string>
+			<key>link</key>
+			<string>http://sc.brtk.net:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lefkosa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayrak Radyo Haber</string>
+			<key>logo</key>
+			<string>Haber</string>
+			<key>link</key>
+			<string>http://sc.brtk.net:8008/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Lefkosa)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capital Radio 93.8</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://78.159.112.254:8308/listen.pls</string>
+			<key>http</key>
+			<string>http://159.253.37.137:9956/listen.pls</string>
+			<key>note</key>
+			<string>Lefkosa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dance FM</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://www.dancefm.com.tr:8050/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gazimağusa</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CyBC Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://159.253.37.137:9956/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CyBC Radio 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://159.253.37.137:9956/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CyBC Radio 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://159.253.37.137:9956/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Features</string>
+		</dict>
+	</array>
+</dict>
+</plist>
