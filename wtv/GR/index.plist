@@ -8,7 +8,7 @@
 		<key>logo</key>
 		<string>ept1</string>
 		<key>link</key>
-		<string>http://webtv.ert.gr/ert1/</string>
+		<string>https://webtv.ert.gr/ert1-live/</string>
 		<key>http</key>
 		<string>http://webtv.ert.gr/</string>
 	</dict>
@@ -18,7 +18,7 @@
 		<key>logo</key>
 		<string>ept2</string>
 		<key>link</key>
-		<string>http://webtv.ert.gr/ert2/</string>
+		<string>https://webtv.ert.gr/ert2-live/</string>
 		<key>http</key>
 		<string>http://webtv.ert.gr/</string>
 	</dict>
@@ -28,7 +28,7 @@
 		<key>logo</key>
 		<string>ept3</string>
 		<key>link</key>
-		<string>http://webtv.ert.gr/ert3/</string>
+		<string>https://webtv.ert.gr/ert3-live/</string>
 		<key>http</key>
 		<string>http://webtv.ert.gr/</string>
 	</dict>
@@ -38,19 +38,39 @@
 		<key>logo</key>
 		<string>ept</string>
 		<key>link</key>
-		<string>http://webtv.ert.gr/ertworld/</string>
+		<string>https://webtv.ert.gr/ertworld-live/</string>
 		<key>http</key>
 		<string>http://webtv.ert.gr/</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ΕΡΤ Play</string>
+		<string>ΕΡΤ HD</string>
+		<key>logo</key>
+		<string>HD</string>
+		<key>link</key>
+		<string>https://webtv.ert.gr/ert-hd/</string>
+		<key>http</key>
+		<string>https://webtv.ert.gr</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ΕΡΤ Play 1</string>
 		<key>logo</key>
 		<string>Play</string>
 		<key>link</key>
-		<string>http://webtv.ert.gr/ertplay/</string>
+		<string>https://webtv.ert.gr/ert-play-live/</string>
 		<key>http</key>
 		<string>http://webtv.ert.gr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ΕΡΤ Play 2</string>
+		<key>logo</key>
+		<string>2</string>
+		<key>link</key>
+		<string>https://webtv.ert.gr/ert-play-2-live/</string>
+		<key>http</key>
+		<string>https://webtv.ert.gr</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -58,29 +78,19 @@
 		<key>logo</key>
 		<string>Epsilon</string>
 		<key>link</key>
-		<string>http://www.epsilontv.gr/live/</string>
+		<string>https://www.tvopen.gr/live-tv</string>
 		<key>http</key>
 		<string>http://www.epsilontv.gr</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>SBC</string>
-		<key>logo</key>
-		<string>SBC</string>
-		<key>link</key>
-		<string>http://www.sbctv.gr/</string>
-		<key>http</key>
-		<string>http://www.sbctv.gr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Alpha</string>
 		<key>logo</key>
 		<string>Alpha</string>
 		<key>link</key>
-		<string>http://www.alphatv.gr/webtv/live</string>
+		<string>https://www.alphatv.gr/live/</string>
 		<key>http</key>
-		<string>http://www.alphatv.gr</string>
+		<string>https://www.alphatv.gr</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -98,7 +108,7 @@
 		<key>logo</key>
 		<string>Art</string>
 		<key>link</key>
-		<string>http://www.arttv.info/2014/03/art-tv-live.html</string>
+		<string>http://www.arttv.info/2017/03/arttvlive.html</string>
 		<key>http</key>
 		<string>http://www.arttv.info</string>
 	</dict>
@@ -128,7 +138,7 @@
 		<key>logo</key>
 		<string>Star</string>
 		<key>link</key>
-		<string>http://www.star.gr/tv/el/Pages/LiveStream.aspx</string>
+		<string>http://www.star.gr/tv/live-stream/</string>
 		<key>http</key>
 		<string>http://www.star.gr</string>
 	</dict>
@@ -171,16 +181,6 @@
 		<string>http://www.greekarchitects.gr/tv.php</string>
 		<key>http</key>
 		<string>http://www.greekarchitects.gr</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ΟΔΙΕ</string>
-		<key>logo</key>
-		<string>ODIE</string>
-		<key>link</key>
-		<string>http://www.odie.gr/el/odiePage/live</string>
-		<key>http</key>
-		<string>http://www.odie.gr</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -244,16 +244,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Blue Sky</string>
-		<key>logo</key>
-		<string>Blue</string>
-		<key>link</key>
-		<string>https://www.youtube.com/user/blueskyathens/videos?live_view=501&amp;view=2&amp;flow=grid</string>
-		<key>http</key>
-		<string>http://www.blueskytv.gr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Kontra</string>
 		<key>logo</key>
 		<string>Kontra</string>
@@ -261,26 +251,6 @@
 		<string>http://live24.gr/webtv/kontrachannel/</string>
 		<key>http</key>
 		<string>http://kontrachannel.gr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ΕΝΑ</string>
-		<key>logo</key>
-		<string>ena</string>
-		<key>link</key>
-		<string>http://original.livestream.com/lamiaenatv</string>
-		<key>http</key>
-		<string>http://www.enatv.gr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Star</string>
-		<key>logo</key>
-		<string>TVStar</string>
-		<key>link</key>
-		<string>https://tvstar.gr/webtv</string>
-		<key>http</key>
-		<string>https://tvstar.gr</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -298,7 +268,7 @@
 		<key>logo</key>
 		<string>Epilioges</string>
 		<key>link</key>
-		<string>http://epiloges.tv/index.php?page=news_d&amp;article_id=410&amp;category_id=20</string>
+		<string>https://epiloges.tv/epiloges-live-tv/</string>
 		<key>http</key>
 		<string>http://www.ustream.tv/channel/tv-epiloges/pop-out</string>
 	</dict>
@@ -348,7 +318,7 @@
 		<key>logo</key>
 		<string>Thraki</string>
 		<key>link</key>
-		<string>http://thrakinet.tv/%CE%B4%CE%B5%CE%AF%CF%84%CE%B5-%CE%B6%CF%89%CE%BD%CF%84%CE%B1%CE%BD%CE%AC-thrakinet-live/</string>
+		<string>http://direct.e-radio.gr/playervideo/?thrakinettv</string>
 		<key>http</key>
 		<string>http://thrakinet.tv</string>
 	</dict>
@@ -374,21 +344,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Ήπειρος TV1</string>
-		<key>logo</key>
-		<string>TV1</string>
-		<key>link</key>
-		<string>http://www.epirustv1.gr/</string>
-		<key>http</key>
-		<string>http://www.epirustv1.gr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Βήμα</string>
 		<key>logo</key>
 		<string>Vima</string>
 		<key>link</key>
-		<string>http://www.vimanews.gr/</string>
+		<string>http://www.vimanews.gr/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=37</string>
 		<key>http</key>
 		<string>http://www.ustream.tv/channel/pluswebtv/pop-out</string>
 	</dict>
@@ -398,9 +358,9 @@
 		<key>logo</key>
 		<string>Corfu</string>
 		<key>link</key>
-		<string>http://www.corfutv.gr/index.php?option=com_content&amp;view=article&amp;id=3583&amp;Itemid=609</string>
+		<string>https://corfutvnews.gr/live-stream/</string>
 		<key>http</key>
-		<string>http://www.corfutv.gr</string>
+		<string>https://corfutvnews.gr</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -414,53 +374,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Μυτιλήνης Mitilini</string>
-		<key>logo</key>
-		<string>Mitilini</string>
-		<key>link</key>
-		<string>http://www.tvmitilini.gr/tv-mitilini/live-tv-mitilini</string>
-		<key>http</key>
-		<string>http://www.tvmitilini.gr</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>DR</string>
-		<key>logo</key>
-		<string>DR</string>
-		<key>link</key>
-		<string>http://drtvhellas.blogspot.gr/</string>
-		<key>http</key>
-		<string>http://original.livestream.com/drtvhellas</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Best</string>
 		<key>logo</key>
 		<string>Best</string>
 		<key>link</key>
-		<string>http://www.best-tv.gr/live-tv</string>
+		<string>https://best-tv.gr/home/best-live-tv/</string>
 		<key>http</key>
-		<string>http://www.best-tv.gr</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Αιγαίο Aigaio</string>
-		<key>logo</key>
-		<string>Aigaio</string>
-		<key>link</key>
-		<string>http://www.aigaio-tv.gr/index.php/livestream</string>
-		<key>http</key>
-		<string>http://www.aigaio-tv.gr/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Ωμέγα</string>
-		<key>logo</key>
-		<string>Omega</string>
-		<key>link</key>
-		<string>http://www.omegatv.net/channel-1_live.html</string>
-		<key>http</key>
-		<string>http://www.omegatv.net/</string>
+		<string>https://best-tv.gr</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -471,16 +391,6 @@
 		<string>http://www.syrostv1.gr/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=69</string>
 		<key>http</key>
 		<string>http://www.syrostv1.gr</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Aigaio Ano Syros</string>
-		<key>logo</key>
-		<string>Ano</string>
-		<key>link</key>
-		<string>http://aigaiolive.gr/tv_live/</string>
-		<key>http</key>
-		<string>http://original.livestream.com/aigaiotv</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -498,9 +408,9 @@
 		<key>logo</key>
 		<string>Lepanto</string>
 		<key>link</key>
-		<string>http://lepantortv.gr/live-tv.html</string>
+		<string>https://www.youtube.com/channel/UCsKDcheV6_Wu4hxYTDkncfw/live</string>
 		<key>http</key>
-		<string>http://lepantortv.gr</string>
+		<string>http://lepantortv.gr/live-tv.html</string>
 	</dict>
 	<dict>
 		<key>name</key>
