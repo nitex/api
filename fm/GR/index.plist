@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>ERT Open</string>
+			<key>logo</key>
+			<string>ERT</string>
+			<key>link</key>
+			<string>http://radio.ertopen.com/erasport</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/eraopen.m3u</string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>98 FM Ραδιοζώνες ανατρεπτικής Έκφρασης</string>
+			<key>logo</key>
+			<string>98</string>
+			<key>link</key>
+			<string>http://147.102.82.129:8000/high.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1413 AM</string>
+			<key>logo</key>
+			<string>1413</string>
+			<key>link</key>
+			<string>http://155.207.18.114:8001/1431med.m3u</string>
+			<key>http</key>
+			<string>http://radiofono.eng.auth.gr:8000/1431high.m3u</string>
+			<key>note</key>
+			<string>Thessaloniki</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktina FM 107,6</string>
+			<key>logo</key>
+			<string>107,6</string>
+			<key>link</key>
+			<string>http://sc2.streamwithq.com:8016/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Corfu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktina Radio Corfu</string>
+			<key>logo</key>
+			<string>Corfu</string>
+			<key>link</key>
+			<string>http://www.streamwithq.gr/clients/Radio_Aktina/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktina Radio Korinthos</string>
+			<key>logo</key>
+			<string>Korinthos</string>
+			<key>link</key>
+			<string>http://live.e-streaming.eu:8110/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>90.2 Aristera sta FM</string>
+			<key>logo</key>
+			<string>Aristera</string>
+			<key>link</key>
+			<string>http://icecast.902.gr:8000/902.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens Deejay 95.2</string>
+			<key>logo</key>
+			<string>Deejay</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8001/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens DeeJayNonStop</string>
+			<key>logo</key>
+			<string>DeeJayNonStop</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8007/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens DeeJayDance</string>
+			<key>logo</key>
+			<string>DeeJayDance</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8009/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens MyDeeJay</string>
+			<key>logo</key>
+			<string>MyDeeJay</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8011/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arhagelos 94.1 FM</string>
+			<key>logo</key>
+			<string>Arhagelos</string>
+			<key>link</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=707982</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Rhodes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Astro Radio 96,4</string>
+			<key>logo</key>
+			<string>Astro</string>
+			<key>link</key>
+			<string>http://eco.onestreaming.com:8099/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Rethymno)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
