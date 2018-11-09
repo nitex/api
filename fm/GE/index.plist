@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>6668737633</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>8911757597</string>
 		<key>Banner</key>
-		<string>8766755110</string>
+		<string>5439416443</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>3739321962</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>2122987964</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>3439939065</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>3248367379</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>6161756588</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>7091694875</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>7762327459</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>9226903628</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>2469923582</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
 		<string>1</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1441298085</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -55,7 +55,7 @@
 			<key>logo</key>
 			<string>Ar</string>
 			<key>link</key>
-			<string>http://188.93.89.164:8000/listen.pls?sid=1</string>
+			<string>http://www.ardaidardo.ge/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>Avtoradio</string>
 			<key>link</key>
-			<string>http://31.146.205.144:8000/livemp3.m3u</string>
+			<string>http://www.listenlive.eu/avtoradioge.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>Fortuna</string>
 			<key>link</key>
-			<string>http://188.93.89.164:8000/listen.pls?sid=1</string>
+			<string>http://www.listenlive.eu/fortunafm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>Plus</string>
 			<key>link</key>
-			<string>http://188.93.89.164:8000/listen.pls?sid=1</string>
+			<string>http://www.fortunaplus.ge/live/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Jako</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://188.169.118.246:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -117,7 +117,7 @@
 			<key>link</key>
 			<string>http://188.93.89.164:8000/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://80.241.246.125:9000/listen.pls</string>
 			<key>note</key>
 			<string>News/Talk/Music (Zestafoni)</string>
 		</dict>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>Hereti</string>
 			<key>link</key>
-			<string>http://iis.ge:8000/radiodk.mp3.m3u</string>
+			<string>http://www.heretifm.com/upload/tmpfiles/hereti.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -159,11 +159,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio MUZA</string>
+			<key>logo</key>
+			<string>MUZA</string>
+			<key>link</key>
+			<string>http://www.bfnstreaming.nl/radiomuza.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio Palitra 103,9 FM რადიო პალიტრა </string>
 			<key>logo</key>
 			<string>Palitra</string>
 			<key>link</key>
-			<string>http://188.93.89.164:8000/listen.pls?sid=1</string>
+			<string>http://stream.palitra.ge:8000/stream.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -177,7 +189,7 @@
 			<key>link</key>
 			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://starfm.stargroup.ge:8000/live.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -189,7 +201,7 @@
 			<key>link</key>
 			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live.radiosoma.com/listen.pls</string>
 			<key>note</key>
 			<string>Pop (Sukhumi)</string>
 		</dict>
