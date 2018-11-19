@@ -11,7 +11,7 @@
 		<key>Back</key>
 		<string>1</string>
 		<key>Banner</key>
-		<string>8721825951</string>
+		<string>1</string>
 		<key>Show1</key>
 		<string>1</string>
 		<key>Show2</key>
@@ -51,59 +51,47 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>RTK Radio Kosova 1</string>
+			<string>Latvijas Radio 1</string>
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://lr1mp1.latvijasradio.lv:8010/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://lr1mp1.latvijasradio.lv:8012/listen.pls</string>
 			<key>note</key>
-			<string>News</string>
+			<string>News/Features/Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTK Radio Kosova 2</string>
+			<string>Latvijas Radio 2</string>
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://lr2mp0.latvijasradio.lv:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://lr2mp1.latvijasradio.lv:8002/listen.pls</string>
 			<key>note</key>
-			<string>Youth</string>
+			<string>Pop</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Elit Radio 91,6</string>
+			<string>Latvijas Radio 3 Klasika</string>
 			<key>logo</key>
-			<string>Elit</string>
+			<string>3</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://lr3mp0.latvijasradio.lv:8006/listen.pls</string>
 			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Plemetina</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Dukagjini 99,7</string>
-			<key>logo</key>
-			<string>Dukagjini</string>
-			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
-			<key>http</key>
-			<string></string>
+			<string>http://lr3mp0.latvijasradio.lv:8004/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio K4 90,2 FM</string>
+			<string>Latvijas Radio 4</string>
 			<key>logo</key>
-			<string>K4</string>
+			<string>4</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://lr4mp0.latvijasradio.lv:8018/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,11 +99,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio K4 96,6 FM</string>
+			<string>1 Business Radio</string>
 			<key>logo</key>
-			<string>96</string>
+			<string>Business</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://a.1br.lv:8000/1BusinessRadio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,99 +111,99 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Kent FM</string>
+			<string>Alise +</string>
 			<key>logo</key>
-			<string>Kent</string>
+			<string>Alise</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://fm2inet.aliseplus.lv:8080/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top 10 (Daugavpils)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio KIM</string>
+			<string>Capital FM</string>
 			<key>logo</key>
-			<string>KIM</string>
+			<string>Capital</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://radio2.capitalfm.lv:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radio2.capitalfm.lv:9000/listen.pls</string>
 			<key>note</key>
-			<string>News (Çaglavica)</string>
+			<string>Top 40 / Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Kosova e Lirë 94,2 FM</string>
+			<string>European Hit Radio</string>
 			<key>logo</key>
-			<string>Kosova</string>
+			<string>European</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream.europeanhitradio.com:8000/ehr64.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.europeanhitradio.com:8000/ehr.ogg.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Llapi</string>
+			<string>Europa Plus 99,5</string>
 			<key>logo</key>
-			<string>Llapi</string>
+			<string>Europa</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://radio.995.lv/995.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Podujevë</string>
+			<string>Top 10 / Dance</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Plus 102,2FM</string>
+			<string>Hiti Rossii</string>
 			<key>logo</key>
-			<string>Plus</string>
+			<string>Hiti</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream.hitirossii.com:8000/khr.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Dance</string>
+			<string>Rock/Pop</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Vala Rinore</string>
+			<string>Jumor FM</string>
 			<key>logo</key>
-			<string>Rinore</string>
+			<string>Jumor</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://radio.jumorfm.lv/GoldFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/Information/Features</string>
+			<string>Pop</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Zëri i Shtimes</string>
+			<string>Kurzemes Radio</string>
 			<key>logo</key>
-			<string>Shtimes</string>
+			<string>Kurzemes</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://80.70.23.50:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Štimlje</string>
+			<string>Kuldīga</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Urban FM 103,5</string>
+			<string>Latgolys Radeja</string>
 			<key>logo</key>
-			<string>Urban</string>
+			<string>Latgolys</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://lr.lv/stereo_96k.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Alternative</string>
+			<string>Rezekne</string>
 		</dict>
 	</array>
 </dict>
