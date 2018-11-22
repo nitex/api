@@ -11,7 +11,7 @@
 		<key>Back</key>
 		<string>1</string>
 		<key>Banner</key>
-		<string>8721825951</string>
+		<string>1</string>
 		<key>Show1</key>
 		<string>1</string>
 		<key>Show2</key>
@@ -51,35 +51,23 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>EldoRadio</string>
+			<string>Radio Moldova Actualitati</string>
 			<key>logo</key>
-			<string>EldoRadio</string>
+			<string>Actualitati</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://radiolive.trm.md:8000/PGM1_128kb.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 5</string>
+			<string>News/Features</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>EldoRadio Alternative</string>
+			<string>Radio Moldova Muzical</string>
 			<key>logo</key>
-			<string>Alternative</string>
+			<string>Muzical</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>EldoRadio Chill</string>
-			<key>logo</key>
-			<string>Chill</string>
-			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://radiolive.trm.md:8000/RM-muzical-128.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +75,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>EldoRadio 80s</string>
+			<string>Radio Moldova Tineret</string>
 			<key>logo</key>
-			<string>80s</string>
+			<string>Tineret</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://radiolive.trm.md:8000/RM-tineret-128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aquarelle FM</string>
+			<key>logo</key>
+			<string>Aquarelle</string>
+			<key>link</key>
+			<string>http://live.aquarellefm.md:8000/Aquarellefm.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,35 +99,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>EldoRadio Top 25</string>
+			<string>Cool Radio</string>
 			<key>logo</key>
-			<string>25</string>
+			<string>Cool</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://m.protv.md:8000/profm-128.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 5</string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LRB</string>
+			<string>Discovery FM</string>
 			<key>logo</key>
-			<string>LRB</string>
+			<string>Discovery</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://discovery.md/online/radio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 5 / Dance</string>
+			<string>Top 10</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTL Radio Lëtzebuerg</string>
+			<string>Europa Plus</string>
 			<key>logo</key>
-			<string>Letzebuerg</string>
+			<string>Europa</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://95.65.21.165/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fresh FM</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://www.freshfm.md/freshfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit FM</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/hitfm_md.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jurnal FM</string>
+			<key>logo</key>
+			<string>Jurnal</string>
+			<key>link</key>
+			<string>http://live.jurnalfm.md:8000/;?type=http&amp;nocache=474594</string>
+			<key>http</key>
+			<string>http://live.jurnalfm.md:8000/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>https://www.kissfm.ro/listen.pls</string>
+			<key>http</key>
+			<string>http://89.28.66.205:8000/listen.pls</string>
+			<key>note</key>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maestro FM</string>
+			<key>logo</key>
+			<string>Maestro</string>
+			<key>link</key>
+			<string>http://live.maestrofm.md:8000/maestro.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,87 +195,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTL Radio</string>
+			<string>Megapolis FM</string>
 			<key>logo</key>
-			<string>RTL</string>
+			<string>Megapolis</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://89.28.22.181:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTL</string>
-			<key>logo</key>
-			<string>RT</string>
-			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Oldies</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio 100,7</string>
-			<key>logo</key>
-			<string>100,7</string>
-			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Aktiv 106,5</string>
-			<key>logo</key>
-			<string>Aktiv</string>
-			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 5 (Echternach)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio ARA</string>
-			<key>logo</key>
-			<string>ARA</string>
-			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Gutt Laun</string>
-			<key>logo</key>
-			<string>Gutt</string>
-			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Esch sur Alzette</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio ROM</string>
-			<key>logo</key>
-			<string>ROM</string>
-			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 5 (Medernach)</string>
+			<string>Dance</string>
 		</dict>
 	</array>
 </dict>

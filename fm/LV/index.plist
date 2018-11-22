@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>3196695205</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>5056571786</string>
 		<key>Banner</key>
-		<string>8721825951</string>
+		<string>7813762914</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>9814784884</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>1582153215</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>1787410614</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>1525231323</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>2847967573</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>9758944564</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>8291865947</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>6749637844</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>6558066159</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
 		<string>1</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1444130499</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -55,9 +55,9 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://lr1mp1.latvijasradio.lv:8010/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://lr1mp1.latvijasradio.lv:8012/listen.pls</string>
 			<key>note</key>
 			<string>News/Features/Music</string>
 		</dict>
@@ -67,9 +67,9 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://lr2mp0.latvijasradio.lv:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://lr2mp1.latvijasradio.lv:8002/listen.pls</string>
 			<key>note</key>
 			<string>Pop</string>
 		</dict>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://lr3mp0.latvijasradio.lv:8006/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://lr3mp0.latvijasradio.lv:8004/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>4</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://lr4mp0.latvijasradio.lv:8018/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Business</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://a.1br.lv:8000/1BusinessRadio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>Alise</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://fm2inet.aliseplus.lv:8080/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,9 +127,9 @@
 			<key>logo</key>
 			<string>Capital</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://radio2.capitalfm.lv:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radio2.capitalfm.lv:9000/listen.pls</string>
 			<key>note</key>
 			<string>Top 40 / Dance</string>
 		</dict>
@@ -139,9 +139,9 @@
 			<key>logo</key>
 			<string>European</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://stream.europeanhitradio.com:8000/ehr64.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.europeanhitradio.com:8000/ehr.ogg.m3u</string>
 			<key>note</key>
 			<string>Top 10</string>
 		</dict>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>Europa</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://radio.995.lv/995.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>Hiti</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream.hitirossii.com:8000/khr.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>Jumor</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://radio.jumorfm.lv/GoldFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>Kurzemes</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://80.70.23.50:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,7 +199,7 @@
 			<key>logo</key>
 			<string>Latgolys</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://lr.lv/stereo_96k.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
