@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>2549048665</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>6867691330</string>
 		<key>Banner</key>
-		<string>2000816962</string>
+		<string>9390499622</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>3846652614</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>5259682922</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>5323385812</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>6676119648</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>7981215030</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>5678609039</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>9482122677</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>6927987812</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>1100946064</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
 		<string>1</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1446433145</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -204,6 +204,246 @@
 			<string></string>
 			<key>note</key>
 			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Muz FM</string>
+			<key>logo</key>
+			<string>Muz</string>
+			<key>link</key>
+			<string>http://live.muzfm.md:8000/muzfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>National FM</string>
+			<key>logo</key>
+			<string>National</string>
+			<key>link</key>
+			<string>http://nationalfm.md:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Publika FM</string>
+			<key>logo</key>
+			<string>Publika</string>
+			<key>link</key>
+			<string>http://live.maestrofm.md:8000/publikafm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 7</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://87.255.90.94:8000/128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Albena</string>
+			<key>logo</key>
+			<string>Albena</string>
+			<key>link</key>
+			<string>http://109.185.191.129:49400/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Taraclia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Alla</string>
+			<key>logo</key>
+			<string>Alla</string>
+			<key>link</key>
+			<string>http://air-online2.radioalla.md:8008/radioalla.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Chisinau</string>
+			<key>logo</key>
+			<string>Chisinau</string>
+			<key>link</key>
+			<string>http://95.65.9.170:8001/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Dor</string>
+			<key>logo</key>
+			<string>Dor</string>
+			<key>link</key>
+			<string>http://89.41.126.93:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Causani</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Media 104.4</string>
+			<key>logo</key>
+			<string>Media</string>
+			<key>link</key>
+			<string>http://aicitv.md:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cimislia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Micul Samaritean</string>
+			<key>logo</key>
+			<string>Micul</string>
+			<key>link</key>
+			<string>http://s334.phx.icastcenter.com:2199/tunein/mission-stream.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Noroc</string>
+			<key>logo</key>
+			<string>Noroc</string>
+			<key>link</key>
+			<string>http://www.radionoroc.md/radionoroc.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Plai</string>
+			<key>logo</key>
+			<string>Plai</string>
+			<key>link</key>
+			<string>http://stream.radioplai.md:8001/RadioPlai_Online.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Prim</string>
+			<key>logo</key>
+			<string>Prim</string>
+			<key>link</key>
+			<string>http://109.185.124.238:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Glodeni</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Stil</string>
+			<key>logo</key>
+			<string>Stil</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radiostil.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Zum</string>
+			<key>logo</key>
+			<string>Zum</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radiozum.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Russkoe Radio 103,7</string>
+			<key>logo</key>
+			<string>Russkoe</string>
+			<key>link</key>
+			<string>http://www.rusradio.md/pl/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Univers FM</string>
+			<key>logo</key>
+			<string>Univers</string>
+			<key>link</key>
+			<string>http://188.94.87.202:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vocea Basarabiei</string>
+			<key>logo</key>
+			<string>Vocea</string>
+			<key>link</key>
+			<string>http://arhiva.voceabasarabiei.net:8000/vb_radio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nik FM</string>
+			<key>logo</key>
+			<string>Nik</string>
+			<key>link</key>
+			<string>http://217.19.221.228:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10 (Tiraspol)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://pgtrk.ru:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 10 (Tiraspol)</string>
 		</dict>
 	</array>
 </dict>
