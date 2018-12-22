@@ -39,9 +39,9 @@
 			<key>logo</key>
 			<string>Arabiya</string>
 			<key>link</key>
-			<string>https://www.alarabiya.net/live-stream.html?cref=navdesk</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/user/AlArabiya/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/arabiya.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -49,9 +49,9 @@
 			<key>logo</key>
 			<string>Hadath</string>
 			<key>link</key>
-			<string>http://www.alhadath.net/live-stream.html?cref=navdesk</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/channel/UCrj5BGAhtWxDfqbza9T9hqA/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/hadath.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -59,9 +59,9 @@
 			<key>logo</key>
 			<string>Sky</string>
 			<key>link</key>
-			<string>https://www.skynewsarabia.com/web/livestream</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/user/skynewsarabia/videos?flow=grid&amp;view=2&amp;live_view=501</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/sky-ar.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -69,9 +69,59 @@
 			<key>logo</key>
 			<string>CNBC</string>
 			<key>link</key>
-			<string>https://www.cnbcarabia.com/Pages/live</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.cnbcarabia.com/</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/cnbc-ar.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SMC Sharjah الشارقة</string>
+			<key>logo</key>
+			<string>SMC1</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/12221.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SMC Sharjah Sports قناة الشارقة الرياضية</string>
+			<key>logo</key>
+			<string>SMC2</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/12222.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SMC Sharqiya Kalba الشرقية من كلباء</string>
+			<key>logo</key>
+			<string>SMC3</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/12223.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SMC Radio Quran</string>
+			<key>logo</key>
+			<string>SMC4</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/12224.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SMC Radio Sharjah</string>
+			<key>logo</key>
+			<string>SMC5</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/12225.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,9 +129,9 @@
 			<key>logo</key>
 			<string>Jazeera</string>
 			<key>link</key>
-			<string>http://www.aljazeera.net/broadcastschedule</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/user/aljazeerachannel/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -89,9 +139,9 @@
 			<key>logo</key>
 			<string>English</string>
 			<key>link</key>
-			<string>http://www.aljazeera.com/live/</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/user/AlJazeeraEnglish/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera-en.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -99,9 +149,9 @@
 			<key>logo</key>
 			<string>Mubasher</string>
 			<key>link</key>
-			<string>http://mubasher.aljazeera.net/</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/user/aljazeeramubasher/videos?flow=grid&amp;view=2&amp;live_view=501</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera-mb.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -109,9 +159,9 @@
 			<key>logo</key>
 			<string>BBC</string>
 			<key>link</key>
-			<string>http://www.bbc.com/arabic/tvandradio/2013/05/000000_bbcarabic_livetv</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/user/BBCArabicNews/videos?flow=grid&amp;live_view=501&amp;view=2</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/bbc-ar.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,9 +169,9 @@
 			<key>logo</key>
 			<string>Alaraby</string>
 			<key>link</key>
-			<string>http://alaraby.tv/live/61/alaraby</string>
+			<string></string>
 			<key>http</key>
-			<string>http://alaraby.tv</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/alaraby.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -129,9 +179,9 @@
 			<key>logo</key>
 			<string>euronews</string>
 			<key>link</key>
-			<string>http://arabic.euronews.com/live</string>
+			<string></string>
 			<key>http</key>
-			<string>http://arabic.euronews.com/</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/euronews-ar.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,9 +189,9 @@
 			<key>logo</key>
 			<string>Alhurra</string>
 			<key>link</key>
-			<string>https://www.alhurra.com/embed/player/tube/4.html</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.alhurra.com/embed/player/tube/5.html</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/alhurra.mp4</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -149,9 +199,19 @@
 			<key>logo</key>
 			<string>RT</string>
 			<key>link</key>
-			<string>https://arabic.rt.com/live/</string>
+			<string></string>
 			<key>http</key>
-			<string>https://www.youtube.com/user/RTarabic/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/rt-ar.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CGTN Arabic سي جي تي أن العربية‎‎</string>
+			<key>logo</key>
+			<string>CGTN</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/cgtn.mp4</string>
 		</dict>
 	</array>
 </dict>
