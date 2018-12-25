@@ -697,6 +697,330 @@
 			<key>note</key>
 			<string>Lviv</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Маяк</string>
+			<key>logo</key>
+			<string>Olexandriya</string>
+			<key>link</key>
+			<string>http://live.bumblebeefm.ru:8000/mobile32.m3u</string>
+			<key>http</key>
+			<string>http://live.bumblebeefm.ru:8000/mobile.m3u</string>
+			<key>note</key>
+			<string>Olexandriya</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MFM</string>
+			<key>logo</key>
+			<string>MFM</string>
+			<key>link</key>
+			<string>http://radio.mfm.ua:8080/online128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Dance (Kharkiv)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MID FM 103.4</string>
+			<key>logo</key>
+			<string>MID</string>
+			<key>link</key>
+			<string>http://91.202.144.4:8000/mid-fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Dance (Uman)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://www.mixfm.com.ua/pls/mixfm192.pls</string>
+			<key>http</key>
+			<string>http://www.mixfm.com.ua/pls/mixfm128.pls</string>
+			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Можливість FM 87,5</string>
+			<key>logo</key>
+			<string>M</string>
+			<key>link</key>
+			<string>http://radio.pre.org.ua:8000/radio-mozhlivist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Slovyansk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>На хвилі Корсуня 104.8 FM</string>
+			<key>logo</key>
+			<string>Korsun</string>
+			<key>link</key>
+			<string>http://195.66.65.146:8080/korsun.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Народное Радио Киев</string>
+			<key>logo</key>
+			<string>Narodnoe1</string>
+			<key>link</key>
+			<string>http://62.80.190.247:8001/NRK128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Народное Радио Одесса</string>
+			<key>logo</key>
+			<string>Narodnoe2</string>
+			<key>link</key>
+			<string>http://narodnoe.fm/files/NaRadiO128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NOSTALGIE 99 FM</string>
+			<key>logo</key>
+			<string>99</string>
+			<key>link</key>
+			<string>http://62.244.0.9:8080/nostalgie.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ностальжи 102.4 FM</string>
+			<key>logo</key>
+			<string>Nostalgie</string>
+			<key>link</key>
+			<string>http://radio.tmwox.ru:8000/ns.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nikopol</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Одесса-Мама</string>
+			<key>logo</key>
+			<string>Mama</string>
+			<key>link</key>
+			<string>http://online.odessa.fm:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Планета 102,8 FM</string>
+			<key>logo</key>
+			<string>Planeta</string>
+			<key>link</key>
+			<string>http://194.242.102.93:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://194.242.102.93:8002/listen.pls</string>
+			<key>note</key>
+			<string>Pryluky</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Поділля-Центр</string>
+			<key>logo</key>
+			<string>Podillya</string>
+			<key>link</key>
+			<string>http://fm.odtrk.km.ua:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Khmelnytskyi</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Просто Ради.О Киев</string>
+			<key>logo</key>
+			<string>Prosto1</string>
+			<key>link</key>
+			<string>http://www.prosto.fm/files/Prosto128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Просто Ради.О Одесса</string>
+			<key>logo</key>
+			<string>Prosto2</string>
+			<key>link</key>
+			<string>http://www.prosto.fm/files/ProstoRadio128-Odessa.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Просто POK 89,7</string>
+			<key>logo</key>
+			<string>POK</string>
+			<key>link</key>
+			<string>http://62.80.190.246:8000/PRock128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock (Odessa)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pulzus FM 92.1</string>
+			<key>logo</key>
+			<string>Pulzus</string>
+			<key>link</key>
+			<string>http://radio2.tirek.hu:8000/sionelo.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Beregovo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>МАКСИМУМ (Радио 24 102.1 FM)</string>
+			<key>logo</key>
+			<string>24</string>
+			<key>link</key>
+			<string>http://icecastmh.luxnet.ua/radio24.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lviv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Активность 107.3 FM</string>
+			<key>logo</key>
+			<string>Activity</string>
+			<key>link</key>
+			<string>http://94.153.228.135:11270/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Vatutine)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Арси</string>
+			<key>logo</key>
+			<string>Arsi</string>
+			<key>link</key>
+			<string>http://stream4.radiostyle.ru/play.php?pltype=m3u&amp;media=http://stream4.radiostyle.ru:8004/arsi-radio</string>
+			<key>http</key>
+			<string>http://stream4.radiostyle.ru:8004/arsi-radio.m3u</string>
+			<key>note</key>
+			<string>Arciz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радио Блик</string>
+			<key>logo</key>
+			<string>Blik</string>
+			<key>link</key>
+			<string>http://cast.loungefm.com.ua:8000/blik.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kremenchuk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радіо Дзвони 105.8 FM</string>
+			<key>logo</key>
+			<string>Dzvony</string>
+			<key>link</key>
+			<string>http://dzvonyfm.if.ua/dzvony.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ivano-Frankivsk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RADIO EC</string>
+			<key>logo</key>
+			<string>EC</string>
+			<key>link</key>
+			<string>http://live.galaradio.com:8000/kiev.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радіо Київ ФМ</string>
+			<key>logo</key>
+			<string>Kyiv</string>
+			<key>link</key>
+			<string>http://217.76.201.26:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радіо Ладижин</string>
+			<key>logo</key>
+			<string>Ladyzhyn</string>
+			<key>link</key>
+			<string>http://195.248.234.146:8000/radio1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радіо Марія</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://91.203.4.121:8000/stream160.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Мелодія FM</string>
+			<key>logo</key>
+			<string>Melodiya</string>
+			<key>link</key>
+			<string>http://online-radiomelodia.tavrmedia.ua:8000/RadioMelodia_32.m3u</string>
+			<key>http</key>
+			<string>http://online-radiomelodia.tavrmedia.ua:8000/RadioMelodia.m3u</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
 	</array>
 </dict>
 </plist>
