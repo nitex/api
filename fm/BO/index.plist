@@ -51,11 +51,23 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Panamericana FM 96.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Panamericana</string>
 			<key>link</key>
+			<string>http://www.megalink.com/radio/panamericana/panamericana.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.17.9:8070/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Chacaltaya FM 93.7</string>
+			<key>logo</key>
+			<string>Chacaltaya</string>
+			<key>link</key>
+			<string>http://www.megalink.com/radio/chacaltaya/chacaltaya.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Qhana FM 98.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Qhana</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.megalink.com/radio/qhana/qhana.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +87,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Palenque Comunicaciones</string>
 			<key>logo</key>
-			<string></string>
+			<string>Palenque</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.megalink.com/radio/palenque/palenque.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +99,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CADENA PRATEL FM 89.2</string>
 			<key>logo</key>
-			<string></string>
+			<string>PRATEL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.megalink.com/radio/pratel/pratel.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +111,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Zonica FM 102.4</string>
 			<key>logo</key>
-			<string></string>
+			<string>Zonica</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.megalink.com/radio/zonika/zonika.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,11 +123,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sistema Cristiano de Comunicaciones</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sistema</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.megalink.com/radio/sistemacristiano/sistemacristiano.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,11 +135,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Majestad FM 105.7</string>
 			<key>logo</key>
-			<string></string>
+			<string>Majestad</string>
 			<key>link</key>
+			<string>http://www.megalink.com/radio/majestad/majestad.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.17.9:8130/listen.pls&amp;t=.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Restauración FM 98.9</string>
+			<key>logo</key>
+			<string>Restauracion</string>
+			<key>link</key>
+			<string>http://www.megalink.com/radio/restauracionfm/restauracionfm.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,73 +159,49 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Fides FM 101.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Fides</string>
 			<key>link</key>
-			<string></string>
+			<string>https://usa7.fastcast4u.com/tunein/grflores-stream.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://149.56.175.167:5411/;</string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Guadalupe FM 105.1</string>
+			<key>logo</key>
+			<string>Guadalupe</string>
+			<key>link</key>
+			<string>https://www.radioforest.net/radio/639616.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9304/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Clássica FM 106.9</string>
 			<key>logo</key>
-			<string></string>
+			<string>Classica</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.151.69:8000/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.151.69:8000/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>24 horas Musica Nacional Bolivia</string>
 			<key>logo</key>
-			<string></string>
+			<string>24</string>
 			<key>link</key>
-			<string></string>
+			<string>http://198.27.80.34:7711/stream/1/</string>
 			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:7711/listen.pls?sid=1&amp;t=.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
