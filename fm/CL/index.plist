@@ -51,11 +51,83 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Éxitos 80/90 Radioscura</string>
 			<key>logo</key>
-			<string></string>
+			<string>Radioscura</string>
 			<key>link</key>
+			<string>http://www.oscura.cl/wp-content/plugins//media-buttons/playlist.php?ip=5.9.65.9:8085&amp;mountpoint=&amp;format=M3U</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.9.65.9:8014/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>90s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Nuevo Tiempo</string>
+			<key>logo</key>
+			<string>Nuevo</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://streaming.nuevotiempo.cl:8000/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://streaming.nuevotiempo.cl:8000/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Caramelo</string>
+			<key>logo</key>
+			<string>Caramelo</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.196.10.197:8120/listen.pls&amp;t=.m3u</string>
+			<key>http</key>
+			<string>http://sc6.digitalproserver.com:8120/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Mix</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.3.169.87:9800/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.3.169.87:9800/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sinfonia Online</string>
+			<key>logo</key>
+			<string>Sinfonia</string>
+			<key>link</key>
+			<string>http://5.9.65.9:8240/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.9.65.9:8240/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eclipse Net 1 - Bossa Nova and Jazz</string>
+			<key>logo</key>
+			<string>Bossa</string>
+			<key>link</key>
+			<string>http://centova.neonetwork.cl:2199/tunein/eclipse1.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.9.65.9:8044/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Jazz Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Eclipse Net 1 - Party Zone</string>
+			<key>logo</key>
+			<string>Party</string>
+			<key>link</key>
+			<string>http://centova.neonetwork.cl:2199/tunein/eclipse2.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +135,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Eclipse Net 1 - Romantic Classic</string>
 			<key>logo</key>
-			<string></string>
+			<string>Romantic</string>
 			<key>link</key>
-			<string></string>
+			<string>http://centova.neonetwork.cl:2199/tunein/eclipse3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,135 +147,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Folclor de Chile</string>
 			<key>logo</key>
-			<string></string>
+			<string>Folclor</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.203.184:8837/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.203.184:8837/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pop Music Chile</string>
+			<key>logo</key>
+			<string>Pop</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.33.73:5196/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.33.73:5196/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Huintil - Choapa 97.7</string>
+			<key>logo</key>
+			<string>Choapa</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://208.85.5.254:7466/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://208.85.5.254:7466/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Style FM Chile</string>
 			<key>logo</key>
-			<string></string>
+			<string>Style</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.49.65.42:10408/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.49.65.42:10408/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Dance FM Chile</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dance</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.57.90:9332/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.57.90:9332/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
