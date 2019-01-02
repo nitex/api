@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>8054887137</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>3924070436</string>
 		<key>Banner</key>
-		<string>5321812971</string>
+		<string>6905456998</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>6713885301</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>2852206502</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>3973716484</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>8842899788</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>8651328091</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>5833593066</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>4854008721</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>3015858032</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>2824286344</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1203227612</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1448163669</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -61,6 +61,258 @@
 	</array>
 	<key>Content</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>franceinfo</string>
+			<key>logo</key>
+			<string>franceinfo</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_franceinfo128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Inter</string>
+			<key>logo</key>
+			<string>Inter</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_franceinter128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Musique</string>
+			<key>logo</key>
+			<string>Musique</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_francemusique128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical/Jazz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Musique Classique easy</string>
+			<key>logo</key>
+			<string>easy</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_francemusiqueeasy.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Musique Classique plus</string>
+			<key>logo</key>
+			<string>Classique</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_francemusiqueplus.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Musique Concerts de Radio France</string>
+			<key>logo</key>
+			<string>Concerts</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_francemusiqueconcerts.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical, Public</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Musique Musiques du monde - Ocora</string>
+			<key>logo</key>
+			<string>Ocora</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_francemusiquemonde.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>World / Traditional</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Musique La Jazz</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_francemusiquejazz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Musique La Contemporaine</string>
+			<key>logo</key>
+			<string>Contemporaine</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_francemusiquecontemp.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Culture</string>
+			<key>logo</key>
+			<string>Culture</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_franceculture128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP (national)</string>
+			<key>logo</key>
+			<string>national</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fip128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP à Nantes</string>
+			<key>logo</key>
+			<string>Nantes</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipnantes.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP à Bordeaux</string>
+			<key>logo</key>
+			<string>Bordeaux</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipbordeaux.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP à Strasbourg</string>
+			<key>logo</key>
+			<string>Strasbourg</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipstrasbourg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP autour du rock</string>
+			<key>logo</key>
+			<string>autour</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fiprock.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP autour du jazz</string>
+			<key>logo</key>
+			<string>du</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipjazz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP autour du groove</string>
+			<key>logo</key>
+			<string>groove</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipgroove.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Soul, funk, groove</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIP autour du monde</string>
+			<key>logo</key>
+			<string>monde</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipmonde.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tout nouveau, tout FIP</string>
+			<key>logo</key>
+			<string>Tout</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fipnouveau.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mouv’</string>
+			<key>logo</key>
+			<string>Mouv</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_mouv.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mouv’ Xtra</string>
+			<key>logo</key>
+			<string>Xtra</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_mouvxtra.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Young, Hip-Hop, Electro</string>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>France Bleu Alsace 101.4FM</string>
@@ -216,6 +468,822 @@
 			<string></string>
 			<key>note</key>
 			<string>Gueret</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Drôme Ardèche 87.9FM</string>
+			<key>logo</key>
+			<string>Drome</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbdromeardeche.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Valence</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Elsass</string>
+			<key>logo</key>
+			<string>Elsass</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbelsass.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Strasbourg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Gard Lozère 90.2FM</string>
+			<key>logo</key>
+			<string>Gard</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbgardlozere.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nimes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Gascogne 98.8FM</string>
+			<key>logo</key>
+			<string>Gascogne</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbgascogne.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mont de Marsan</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Gironde 100.1FM</string>
+			<key>logo</key>
+			<string>Gironde</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbgironde.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bordeaux</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Hérault 100.6FM</string>
+			<key>logo</key>
+			<string>Herault</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbherault.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Montpellier</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Isère 98.2FM</string>
+			<key>logo</key>
+			<string>Isere</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbisere.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Grenoble</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu La Rochelle 98.2FM</string>
+			<key>logo</key>
+			<string>Rochelle</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fblarochelle.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Rochelle</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Limousin 91.7FM</string>
+			<key>logo</key>
+			<string>Limousin</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fblimousin.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Limoges</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Loire Océan 101.8FM</string>
+			<key>logo</key>
+			<string>Loire</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbloireocean.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nantes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Lorraine Nord 98.5FM</string>
+			<key>logo</key>
+			<string>Lorraine</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fblorrainenord.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Metz</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Maine 96.0FM</string>
+			<key>logo</key>
+			<string>Maine</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbmaine.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mans</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Mayenne 101.7FM</string>
+			<key>logo</key>
+			<string>Mayenne</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbmayenne.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Laval</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Nord 94.7FM</string>
+			<key>logo</key>
+			<string>Nord</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbnord.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lille</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Normandie (Calvados – Orne) 102.6FM</string>
+			<key>logo</key>
+			<string>Normandie</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbbassenormandie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Caen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Normandie (Seine-Maritime – Eure) 100.1FM</string>
+			<key>logo</key>
+			<string>Seine</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbhautenormandie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rouen Rouen</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Occitanie 91.8FM</string>
+			<key>logo</key>
+			<string>Occitanie</string>
+			<key>link</key>
+			<string>https://www.francebleu.fr/toulouse</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Toulouse</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Orléans 100.9FM</string>
+			<key>logo</key>
+			<string>Orleans</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fborleans.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Orleans</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Paris 107.1FM</string>
+			<key>logo</key>
+			<string>Paris</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbparis.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Paris</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Pays d’Auvergne 102.5FM</string>
+			<key>logo</key>
+			<string>Pays</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbpaysdauvergne.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Clermont-Ferrand</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Pays de Savoie 95.2FM</string>
+			<key>logo</key>
+			<string>Savoie</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbpaysdesavoie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chambery</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Pays Basque 101.3FM</string>
+			<key>logo</key>
+			<string>Basque</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbpaysbasque.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bayonne</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Perigord 99.3FM</string>
+			<key>logo</key>
+			<string>Perigord</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbperigord.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Perigueux</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Picardie 100.2FM</string>
+			<key>logo</key>
+			<string>Picardie</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbpicardie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Amiens</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Poitou 87.6FM</string>
+			<key>logo</key>
+			<string>Poitou</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbpoitou.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Poitiers</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Provence 103.6FM</string>
+			<key>logo</key>
+			<string>Provence</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbprovence.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aix En Provence</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu RCFM Frequenza Mora 101.7FM</string>
+			<key>logo</key>
+			<string>RCFM</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fbfrequenzamora.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bastia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Roussillon 101.6FM</string>
+			<key>logo</key>
+			<string>Roussillon</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbroussillon.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Perpignan</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Saint-Étienne-Loire 97.1FM</string>
+			<key>logo</key>
+			<string>Saint</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbstetienne.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Saint-Étienne</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Sud Lorraine 100.5FM</string>
+			<key>logo</key>
+			<string>Sud</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbsudlorraine.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nancy</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Touraine 98.7FM</string>
+			<key>logo</key>
+			<string>Touraine</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbtouraine.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tours</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>France Bleu Vaucluse 98.8FM</string>
+			<key>logo</key>
+			<string>Vaucluse</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/fr_fbvaucluse.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Avignon</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Monde</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rfimonde.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>Afrique</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rfiafrique.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>77 FM</string>
+			<key>logo</key>
+			<string>77</string>
+			<key>link</key>
+			<string>http://www.77fm.net/77FM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Meaux</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Accent 4</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://str0.creacast.com:900/listen.pls</string>
+			<key>http</key>
+			<string>http://players.creacast.com/creacast/accent4/playlist.pls</string>
+			<key>note</key>
+			<string>Strasbourg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Activ Radio</string>
+			<key>logo</key>
+			<string>Activ</string>
+			<key>link</key>
+			<string>http://www.activradio.com/component/popupStream/ecouteSaintTienne.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Saint Étienne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Activ Radio</string>
+			<key>logo</key>
+			<string>Roanne</string>
+			<key>link</key>
+			<string>http://www.activradio.com/component/popupStream/ecouteRoanne.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Roanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ado FM</string>
+			<key>logo</key>
+			<string>Ado</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/start-adofm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa No.1</string>
+			<key>logo</key>
+			<string>No</string>
+			<key>link</key>
+			<string>http://african1paris.ice.infomaniak.ch/african1paris-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/info/music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Agora FM</string>
+			<key>logo</key>
+			<string>Agora</string>
+			<key>link</key>
+			<string>http://37.59.53.200:8013/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop (Montpellier)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alouette</string>
+			<key>logo</key>
+			<string>Alouette</string>
+			<key>link</key>
+			<string>http://www.alouette.fr/alouette.m3u</string>
+			<key>http</key>
+			<string>http://www.alouette.fr/alouette_aac.m3u</string>
+			<key>note</key>
+			<string>Les Herbiers</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alpes 1 Grenoble</string>
+			<key>logo</key>
+			<string>Alpes</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/alpes1grenoble-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alpes 1 Gap</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/alpes1gap-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alta Frequenza</string>
+			<key>logo</key>
+			<string>Alta</string>
+			<key>link</key>
+			<string>http://str80.streamakaci.com:7020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/talk/music (Ajaccio)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AlterNantes</string>
+			<key>logo</key>
+			<string>AlterNantes</string>
+			<key>link</key>
+			<string>http://diffusion.lafrap.fr/alternantes.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nantes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ARL</string>
+			<key>logo</key>
+			<string>ARL</string>
+			<key>link</key>
+			<string>http://www.tv-radio.com/station/arl/arl.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/News/Sport (Langon)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arvorig FM</string>
+			<key>logo</key>
+			<string>Arvorig</string>
+			<key>link</key>
+			<string>http://arvorig-fm.online.stalig.net/live.mp3.m3u</string>
+			<key>http</key>
+			<string>http://arvorig-fm.online.stalig.net/live-ori.ogg.m3u</string>
+			<key>note</key>
+			<string>Landerneau</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atomic Radio</string>
+			<key>logo</key>
+			<string>Atomic</string>
+			<key>link</key>
+			<string>http://www.atomicfm.fr/Atomic.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock/Dance (Barousse)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Autoroute INFO Nord</string>
+			<key>logo</key>
+			<string>Autoroute</string>
+			<key>link</key>
+			<string>http://media.autorouteinfo.fr:8000/direct_nord.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Autoroute INFO Sud</string>
+			<key>logo</key>
+			<string>Su</string>
+			<key>link</key>
+			<string>http://media.autorouteinfo.fr:8000/direct_sud.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ayp FM</string>
+			<key>logo</key>
+			<string>Ayp</string>
+			<key>link</key>
+			<string>http://radioayp.streamakaci.com/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Azur FM</string>
+			<key>logo</key>
+			<string>Azu</string>
+			<key>link</key>
+			<string>http://sv3.vestaradio.com:4220/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Sélestat)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BFM</string>
+			<key>logo</key>
+			<string>BFM</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bac FM</string>
+			<key>logo</key>
+			<string>Bac</string>
+			<key>link</key>
+			<string>http://bacfm.net:8000/bacfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock (Nevers)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beaub FM</string>
+			<key>logo</key>
+			<string>Beaub</string>
+			<key>link</key>
+			<string>http://www.tv-radio.com/station/beaub/beaub.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Limoges</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beur FM</string>
+			<key>logo</key>
+			<string>Beur</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/beurfm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Culture</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BPM</string>
+			<key>logo</key>
+			<string>BPM</string>
+			<key>link</key>
+			<string>http://str20.creacast.com/bpm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mantes-la-Jolie</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>California 101</string>
+			<key>logo</key>
+			<string>California</string>
+			<key>link</key>
+			<string>http://www.california101radio.com/california101.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Campus FM</string>
+			<key>logo</key>
+			<string>Campus</string>
+			<key>link</key>
+			<string>http://live.radio-campus.org:8000/toulouse.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Toulouse</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Canal B</string>
+			<key>logo</key>
+			<string>B</string>
+			<key>link</key>
+			<string>http://stream.levillage.org/canalb.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rennes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Canal FM</string>
+			<key>logo</key>
+			<string>Canal</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/canalfmhd.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aulnoye-Aymeries</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Canal Sud</string>
+			<key>logo</key>
+			<string>CanalSud</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/canalsud.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Toulouse</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Catalogne Nord</string>
+			<key>logo</key>
+			<string>Catalogne</string>
+			<key>link</key>
+			<string>http://www.tv-radio.com/station/catalogne_nord/catalogne_nord.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Perpignan</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Champagne FM Reims</string>
+			<key>logo</key>
+			<string>Reims</string>
+			<key>link</key>
+			<string>http://champagnefm.ice.infomaniak.ch/champagnefm-128-marne.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Champagne FM Troyes</string>
+			<key>logo</key>
+			<string>Troyes</string>
+			<key>link</key>
+			<string>http://champagnefmaube.ice.infomaniak.ch/champagnefm-128-aube.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Champagne FM Charleville</string>
+			<key>logo</key>
+			<string>Charleville</string>
+			<key>link</key>
+			<string>http://champagnefmardennes.ice.infomaniak.ch/champagnefm-128-ardennes.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Champagne FM Chateau-Thierry</string>
+			<key>logo</key>
+			<string>Thierry</string>
+			<key>link</key>
+			<string>http://champagnefmaisne.ice.infomaniak.ch/champagnefm-128-aisne.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
 		</dict>
 	</array>
 </dict>

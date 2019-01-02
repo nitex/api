@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<integer>2</integer>
+		<key>DemoMode</key>
+		<string>9</string>
+	</dict>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>ABC 24</string>
+			<key>logo</key>
+			<string>abc</string>
+			<key>link</key>
+			<string>http://www.abc.net.au/news/abcnews24/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/NewsOnABC/videos?view=2&amp;flow=list</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>https://www.youtube.com/watch_popup?v=y60wDzZt8yg</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bloomberg Australia</string>
+			<key>logo</key>
+			<string>bloomberg</string>
+			<key>link</key>
+			<string>https://www.bloomberg.com/live/australia</string>
+			<key>http</key>
+			<string>https://www.bloomberg.com/live</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ABC News</string>
+			<key>logo</key>
+			<string>News</string>
+			<key>link</key>
+			<string>https://www.youtube.com/user/NewsOnABC/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+			<key>http</key>
+			<string>http://www.abc.net.au/tv/</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiji 1</string>
+			<key>logo</key>
+			<string>Fiji1</string>
+			<key>link</key>
+			<string>https://new.fijione.tv/live-tv/</string>
+			<key>http</key>
+			<string>https://new.fijione.tv</string>
+			<key>country</key>
+			<string>Fiji</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TNTV Tahiti Nui</string>
+			<key>logo</key>
+			<string>Nui</string>
+			<key>link</key>
+			<string>https://www.tntv.pf/LIVE-Le-ve-a-et-le-journal-en-direct_a17290.html</string>
+			<key>http</key>
+			<string>https://www.tntv.pf</string>
+			<key>country</key>
+			<string>Polynésie française (French Polynesia)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Polynésie la 1ère</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>https://la1ere.francetvinfo.fr/polynesie/tv/direct</string>
+			<key>http</key>
+			<string>https://la1ere.francetvinfo.fr/polynesie/</string>
+			<key>country</key>
+			<string>Polynésie française (French Polynesia)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVNZ Breakfast</string>
+			<key>logo</key>
+			<string>breakfast</string>
+			<key>link</key>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-breakfast-q15155.html</string>
+			<key>http</key>
+			<string>https://www.tvnz.co.nz</string>
+			<key>country</key>
+			<string>New Zealand</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVNZ News midday</string>
+			<key>logo</key>
+			<string>midday</string>
+			<key>link</key>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-one-news-at-midday-q00051.html</string>
+			<key>http</key>
+			<string>https://www.tvnz.co.nz</string>
+			<key>country</key>
+			<string>New Zealand</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVNZ News at six</string>
+			<key>logo</key>
+			<string>six</string>
+			<key>link</key>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-one-news-at-six-q01667.html</string>
+			<key>http</key>
+			<string>https://www.tvnz.co.nz</string>
+			<key>country</key>
+			<string>New Zealand</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVNZ News tonight</string>
+			<key>logo</key>
+			<string>tonight</string>
+			<key>link</key>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-one-news-tonight-q01253.html</string>
+			<key>http</key>
+			<string>https://www.tvnz.co.nz</string>
+			<key>country</key>
+			<string>New Zealand</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TV Tonga</string>
+			<key>logo</key>
+			<string>Tonga1</string>
+			<key>link</key>
+			<string>http://www.tonga-broadcasting.net/?page_id=26</string>
+			<key>http</key>
+			<string>http://www.tonga-broadcasting.net</string>
+			<key>country</key>
+			<string>Tonga</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tonga</string>
+			<key>logo</key>
+			<string>Tonga2</string>
+			<key>link</key>
+			<string>http://www.tonga-broadcasting.net/?page_id=35</string>
+			<key>http</key>
+			<string>http://www.tonga-broadcasting.net</string>
+			<key>country</key>
+			<string>Tonga</string>
+		</dict>
+	</array>
+</dict>
+</plist>
