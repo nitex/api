@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>4808834744</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>1110274644</string>
 		<key>Banner</key>
-		<string>5321812971</string>
+		<string>5787886255</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>5596314569</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>6717824546</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>1465497869</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>6334681167</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>4042547986</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>8169495256</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>1291782631</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>8907861850</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>2150881819</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1366618088</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1448267190</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -55,9 +55,9 @@
 			<key>logo</key>
 			<string>Radioscura</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://www.oscura.cl/wp-content/plugins//media-buttons/playlist.php?ip=5.9.65.9:8085&amp;mountpoint=&amp;format=M3U</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.9.65.9:8014/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string>90s</string>
 		</dict>
@@ -67,9 +67,9 @@
 			<key>logo</key>
 			<string>Nuevo</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://streaming.nuevotiempo.cl:8000/listen.pls&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://streaming.nuevotiempo.cl:8000/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>Caramelo</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.196.10.197:8120/listen.pls&amp;t=.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://sc6.digitalproserver.com:8120/;stream.mp3</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -91,9 +91,9 @@
 			<key>logo</key>
 			<string>Mix</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.3.169.87:9800/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.3.169.87:9800/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Top</string>
 		</dict>
@@ -103,9 +103,9 @@
 			<key>logo</key>
 			<string>Sinfonia</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://5.9.65.9:8240/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.9.65.9:8240/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -115,9 +115,9 @@
 			<key>logo</key>
 			<string>Bossa</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://centova.neonetwork.cl:2199/tunein/eclipse1.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.9.65.9:8044/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Jazz Music</string>
 		</dict>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>Party</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://centova.neonetwork.cl:2199/tunein/eclipse2.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Romantic</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://centova.neonetwork.cl:2199/tunein/eclipse3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,9 +151,9 @@
 			<key>logo</key>
 			<string>Folclor</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.203.184:8837/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.203.184:8837/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -163,9 +163,9 @@
 			<key>logo</key>
 			<string>Pop</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.33.73:5196/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.33.73:5196/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -175,9 +175,9 @@
 			<key>logo</key>
 			<string>Choapa</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://208.85.5.254:7466/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://208.85.5.254:7466/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -187,9 +187,9 @@
 			<key>logo</key>
 			<string>Style</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.49.65.42:10408/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.49.65.42:10408/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>Dance</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.57.90:9332/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.57.90:9332/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
