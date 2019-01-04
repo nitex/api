@@ -11,7 +11,7 @@
 		<key>Back</key>
 		<string>1</string>
 		<key>Banner</key>
-		<string>1</string>
+		<string>5321812971</string>
 		<key>Show1</key>
 		<string>1</string>
 		<key>Show2</key>
@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>RTE1</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte1.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>RTE2</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte1extra.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>RTE3</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte2fm.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>RTE4</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtelyric.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>RTE5</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rternag.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>RTE6</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rte2xm.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>RTE7</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtegold.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>RTE8</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtejunior.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,587 +163,11 @@
 			<key>logo</key>
 			<string>RTE9</string>
 			<key>link</key>
-			<string>http://www.listenlive.eu/rtepulse.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Dance music (Dublin)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cork&apos;s 96FM</string>
-			<key>logo</key>
-			<string>96FM</string>
-			<key>link</key>
-			<string>http://stream3.radiomonitor.com/96FM.m3u</string>
-			<key>http</key>
-			<string>http://stream3.radiomonitor.com/96FM-AAC.m3u</string>
-			<key>note</key>
-			<string>Top 30 (Cork)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>98FM</string>
-			<key>logo</key>
-			<string>98FM</string>
-			<key>link</key>
-			<string>http://ice2.gocaster.net/98.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Hot Contemporary</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Beat 102-103</string>
-			<key>logo</key>
-			<string>Beat</string>
-			<key>link</key>
-			<string>http://184.154.145.114:8013/beataac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Waterford)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>C103 North</string>
-			<key>logo</key>
-			<string>C103</string>
-			<key>link</key>
-			<string>http://stream3.radiomonitor.com/C103-North.m3u</string>
-			<key>http</key>
-			<string>http://stream3.radiomonitor.com/C103-North-AAC.m3u</string>
-			<key>note</key>
-			<string>Mallow</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>C103 West</string>
-			<key>logo</key>
-			<string>C10</string>
-			<key>link</key>
-			<string>http://stream3.radiomonitor.com/C103-West.m3u</string>
-			<key>http</key>
-			<string>http://stream3.radiomonitor.com/C103-West-AAC.m3u</string>
-			<key>note</key>
-			<string>Bandon</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Clare FM</string>
-			<key>logo</key>
-			<string>Clare</string>
-			<key>link</key>
-			<string>http://icy-e-04.sharp-stream.com/clarefm.aac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Ennis</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Classic Hits 4FM</string>
-			<key>logo</key>
-			<string>4FM</string>
-			<key>link</key>
-			<string>http://sirius.shoutca.st:8166/listen.pls?sid=1</string>
-			<key>http</key>
-			<string>http://sirius.shoutca.st:8188/listen.pls?sid=1</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Dublin City FM</string>
-			<key>logo</key>
-			<string>Dublin</string>
-			<key>link</key>
-			<string>http://stream.bts.ie:8081/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Dublin South FM</string>
-			<key>logo</key>
-			<string>South</string>
-			<key>link</key>
-			<string>http://uk1.internet-radio.com:15047/live.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Dundalk FM</string>
-			<key>logo</key>
-			<string>Dundalk</string>
-			<key>link</key>
-			<string>http://80.249.249.245:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>East Coast FM</string>
-			<key>logo</key>
-			<string>Coast</string>
-			<key>link</key>
-			<string>http://sirius.shoutca.st:8461/listen.pls?sid=1</string>
-			<key>http</key>
-			<string>http://sirius.shoutca.st:8673/listen.pls?sid=1</string>
-			<key>note</key>
-			<string>Top 30 (Bray)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM104</string>
-			<key>logo</key>
-			<string>FM104</string>
-			<key>link</key>
-			<string>http://31.14.40.241:6184/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Galway Bay FM</string>
-			<key>logo</key>
-			<string>Galway</string>
-			<key>link</key>
-			<string>http://91.121.0.110:2199/tunein/damburke.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Highland Radio</string>
-			<key>logo</key>
-			<string>Highland</string>
-			<key>link</key>
-			<string>http://www.highlandradio.com/highland.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Letterkenny</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>iRadio West &amp; North West</string>
-			<key>logo</key>
-			<string>iRadio</string>
-			<key>link</key>
-			<string>http://iradio.iceca.st/i102104.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Galway</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>iRadio Midlands &amp; North East</string>
-			<key>logo</key>
-			<string>Midlands</string>
-			<key>link</key>
-			<string>http://iradio.iceca.st/i105107.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Athlone</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>KCLR 96FM Kilkenny</string>
-			<key>logo</key>
-			<string>Kilkenny</string>
-			<key>link</key>
-			<string>http://ghost.wavestreamer.com:8515/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>KCLR 96FM Carlow</string>
-			<key>logo</key>
-			<string>Carlow</string>
-			<key>link</key>
-			<string>http://ghost.wavestreamer.com:4858/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>KFM</string>
-			<key>logo</key>
-			<string>KFM</string>
-			<key>link</key>
-			<string>http://cty.gocaster.net:8000/kfm_web.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Naas</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Life FM</string>
-			<key>logo</key>
-			<string>Life</string>
-			<key>link</key>
-			<string>http://79.170.198.170:8000/radio.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Christian (Cork)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Live 95</string>
-			<key>logo</key>
-			<string>95</string>
-			<key>link</key>
-			<string>http://stream3.radiomonitor.com/Live95.m3u</string>
-			<key>http</key>
-			<string>http://stream3.radiomonitor.com/Live95-AAC.m3u</string>
-			<key>note</key>
-			<string>Top 30 (Limerick)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LMFM</string>
-			<key>logo</key>
-			<string>LMFM</string>
-			<key>link</key>
-			<string>http://stream3.radiomonitor.com/LMFM.m3u</string>
-			<key>http</key>
-			<string>http://stream3.radiomonitor.com/LMFM-AAC.m3u</string>
-			<key>note</key>
-			<string>Drogheda</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mid West Radio</string>
-			<key>logo</key>
-			<string>Mid</string>
-			<key>link</key>
-			<string>http://icy-e-04.sharp-stream.com/midwestfmie.mp3.m3u</string>
-			<key>http</key>
-			<string>http://icy-e-04.sharp-stream.com/midwestfmie2.aac.m3u</string>
-			<key>note</key>
-			<string>Ballyhaunis</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Midlands 103</string>
-			<key>logo</key>
-			<string>103</string>
-			<key>link</key>
-			<string>http://icy-e-04.sharp-stream.com/midlands103.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tullamore</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Near fm</string>
-			<key>logo</key>
-			<string>Near</string>
-			<key>link</key>
-			<string>http://37.187.193.36:8024/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>NewsTalk 106-108</string>
-			<key>logo</key>
-			<string>NewsTalk</string>
-			<key>link</key>
-			<string>http://communicorp.mp3.miisolutions.net:8000/communicorp/Newstalk_low.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Northern Sound</string>
-			<key>logo</key>
-			<string>Sound</string>
-			<key>link</key>
-			<string>http://radiokerry.mp3.miisolutions.net:8050/radiokerry/northernsound_128kMP3_website.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Monaghan</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ocean FM</string>
-			<key>logo</key>
-			<string>Ocean</string>
-			<key>link</key>
-			<string>http://icy-e-04.sharp-stream.com/oceanfm.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sligo</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Pure Classic</string>
-			<key>logo</key>
-			<string>Pure</string>
-			<key>link</key>
-			<string>http://209.95.50.189:8036/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Classical music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Q102</string>
-			<key>logo</key>
-			<string>Q102</string>
-			<key>link</key>
-			<string>http://stream2.radiomonitor.com/Q102.m3u</string>
-			<key>http</key>
-			<string>http://stream2.radiomonitor.com/Q102-AAC.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Kerry</string>
-			<key>logo</key>
-			<string>Kerry</string>
-			<key>link</key>
-			<string>http://radiokerry.mp3.miisolutions.net:8050/radiokerry/radiokerry_128kMP3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tralee</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Nova</string>
-			<key>logo</key>
-			<string>Nova</string>
-			<key>link</key>
-			<string>http://31.14.40.241:9752/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Classic rock</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Raidió Rí-Rá</string>
-			<key>logo</key>
-			<string>RiRa</string>
-			<key>link</key>
-			<string>http://5.63.151.52:8023/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Irish language)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Red FM</string>
-			<key>logo</key>
-			<string>Red</string>
-			<key>link</key>
-			<string>http://tx.sharp-stream.com/icecast.php?i=redfm.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Cork)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Shannonside FM</string>
-			<key>logo</key>
-			<string>Shannonside</string>
-			<key>link</key>
-			<string>http://radiokerry.mp3.miisolutions.net:8050/radiokerry/shannonside_128kMP3_website.m3u</string>
-			<key>http</key>
-			<string>http://shoutcasthq.radiokerry.ie:8010/listen.pls</string>
-			<key>note</key>
-			<string>Longford</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>South East Radio</string>
-			<key>logo</key>
-			<string>East</string>
-			<key>link</key>
-			<string>http://31.14.40.241:9726/listen.pls</string>
-			<key>http</key>
-			<string>http://31.14.40.241:9728/listen.pls</string>
-			<key>note</key>
-			<string>Wexford</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spin 103.8</string>
-			<key>logo</key>
-			<string>103.8</string>
-			<key>link</key>
-			<string>http://communicorp.mp3.eap.eur.miisolutions.net/communicorp/Spin1038_high.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Dance)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spin South West</string>
-			<key>logo</key>
-			<string>Spin</string>
-			<key>link</key>
-			<string>http://pri.gocaster.net/sw.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 30 (Limerick)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spirit Radio</string>
-			<key>logo</key>
-			<string>Spirit</string>
-			<key>link</key>
-			<string>http://st2.webradioworld.net/tunein.php/spiritradio01/playlist.pls</string>
-			<key>http</key>
-			<string>http://st2.webradioworld.net/tunein.php/spiritradio02/playlist.pls</string>
-			<key>note</key>
-			<string>Christian Radio</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sunshine 106.8</string>
-			<key>logo</key>
-			<string>Sunshine</string>
-			<key>link</key>
-			<string>http://sirius.shoutca.st:8291/listen.pls?sid=1</string>
-			<key>http</key>
-			<string>http://sirius.shoutca.st:8337/listen.pls?sid=1</string>
-			<key>note</key>
-			<string>Easy Listening</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tipperary Mid-West Radio</string>
-			<key>logo</key>
-			<string>Tipperary</string>
-			<key>link</key>
-			<string>http://184.154.145.114:8007/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tipp FM</string>
-			<key>logo</key>
-			<string>Tipp</string>
-			<key>link</key>
-			<string>http://icy-e-04.sharp-stream.com/tippfm.aac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Clonmel</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Today FM</string>
-			<key>logo</key>
-			<string>Today</string>
-			<key>link</key>
-			<string>http://pri.gocaster.net/td4.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TXFM</string>
-			<key>logo</key>
-			<string>TXFM</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/phantom.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Rock / Indie Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>West Limerick 102</string>
-			<key>logo</key>
-			<string>Limerick</string>
-			<key>link</key>
-			<string>http://freedom.wavestreamer.com:7002/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Abbeyfeale</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>WLR FM</string>
-			<key>logo</key>
-			<string>WLR</string>
-			<key>link</key>
-			<string>http://184.154.145.114:8013/wlrmp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Waterford</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Zenith Classic Rock</string>
-			<key>logo</key>
-			<string>Zenith</string>
-			<key>link</key>
-			<string>http://148.163.81.10:8006/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Waterford</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Live Ireland Channel 1</string>
-			<key>logo</key>
-			<string>Ireland</string>
-			<key>link</key>
-			<string>http://www.liveireland.com/live.pls</string>
-			<key>http</key>
-			<string>http://www.liveireland.com/liveAACplus.pls</string>
-			<key>note</key>
-			<string>Traditional Irish Music</string>
 		</dict>
 	</array>
 </dict>
