@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Public radio of Armenia (Հայաստանի Հանրային Ռադիո)</string>
+			<key>logo</key>
+			<string>Public</string>
+			<key>link</key>
+			<string>http://eu1.stream4cast.com:2199/tunein/pra192.pls</string>
+			<key>http</key>
+			<string>http://eu1.stream4cast.com:2199/tunein/aamiryan.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Yerevan</string>
+			<key>logo</key>
+			<string>Yerevan</string>
+			<key>link</key>
+			<string>http://199.195.194.92:8029/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ArmRadio (LAVradio)</string>
+			<key>logo</key>
+			<string>ArmRadio</string>
+			<key>link</key>
+			<string>http://streams4.museter.com:8218/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hay Radio 104.1 FM</string>
+			<key>logo</key>
+			<string>Hay</string>
+			<key>link</key>
+			<string>http://mix.am:8000/rhyerevan.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hay FM 105,5</string>
+			<key>logo</key>
+			<string>105,5</string>
+			<key>link</key>
+			<string>http://hayfm.am:8000/HayFm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>News Radio Impuls 106,5 (Լրատվական Ռադիո)</string>
+			<key>logo</key>
+			<string>Impuls</string>
+			<key>link</key>
+			<string>http://212.34.233.78:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nor Radyo / Նոր Ռատիօ</string>
+			<key>logo</key>
+			<string>Nor</string>
+			<key>link</key>
+			<string>http://norradyo.com:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Aurora</string>
+			<key>logo</key>
+			<string>Aurora</string>
+			<key>link</key>
+			<string>http://radioaurora.am:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Van</string>
+			<key>logo</key>
+			<string>Van</string>
+			<key>link</key>
+			<string>http://media.radiovan.am:8000/96_stereo.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ANS ÇM Radio 102 FM</string>
+			<key>logo</key>
+			<string>ANS</string>
+			<key>link</key>
+			<string>http://stream.ansradio.ws:8152/ANS-102FM-128k-Online.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 5 / Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Media FM</string>
+			<key>logo</key>
+			<string>Media</string>
+			<key>link</key>
+			<string>http://85.132.78.130:8081/mediafm-mp3.m3u</string>
+			<key>http</key>
+			<string>http://85.132.71.10:8000/live</string>
+			<key>note</key>
+			<string>Top 5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Antenn</string>
+			<key>logo</key>
+			<string>Antenn</string>
+			<key>link</key>
+			<string>http://85.132.78.130:8081/antenn-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 5</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM</string>
+			<key>logo</key>
+			<string>StarFM</string>
+			<key>link</key>
+			<string>http://mix.am:8000/starfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Stepanakert)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://mix.am:8000/mix.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance (Stepanakert)</string>
+		</dict>
+	</array>
+</dict>
+</plist>

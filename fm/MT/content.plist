@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Bay Radio</string>
+			<key>logo</key>
+			<string>Bay</string>
+			<key>link</key>
+			<string>http://s1.voscast.com:8132/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Julians</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bay Easy</string>
+			<key>logo</key>
+			<string>Easy</string>
+			<key>link</key>
+			<string>http://s1.voscast.com:8154/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Julians</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bay Retro</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>http://s1.voscast.com:8156/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Julians</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Calypso Radio</string>
+			<key>logo</key>
+			<string>Calypso</string>
+			<key>link</key>
+			<string>http://cdn.voscast.com/resources/?key=4f870a0b3f3891cfc3b3309f49b2cc9c&amp;c=winamp</string>
+			<key>http</key>
+			<string>http://s9.voscast.com:8128/listen.pls</string>
+			<key>note</key>
+			<string>Victoria - Gozo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magic Malta</string>
+			<key>logo</key>
+			<string>Magic</string>
+			<key>link</key>
+			<string>http://myradiostream.com/16/4542.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>G&apos;Mangia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>One Radio</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://s10.voscast.com:8202/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hamrun</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Malta</string>
+			<key>logo</key>
+			<string>Malta</string>
+			<key>link</key>
+			<string>http://myradiostream.com/8/6982/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information (G&apos;Mangia)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 101</string>
+			<key>logo</key>
+			<string>101</string>
+			<key>link</key>
+			<string>http://lush.wavestreamer.com:6961/listen.m3u?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pieta</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radju Luminaria</string>
+			<key>logo</key>
+			<string>Radju</string>
+			<key>link</key>
+			<string>http://stream.radjuluminaria.com:8000/radjuluminaria.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nadur - Gozo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibe FM 88.7</string>
+			<key>logo</key>
+			<string>Vibe</string>
+			<key>link</key>
+			<string>http://s9.voscast.com:7824/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

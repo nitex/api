@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Antena Sarajevo</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://195.222.57.33:8080/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bobar Radio</string>
+			<key>logo</key>
+			<string>Bobar</string>
+			<key>link</key>
+			<string>http://51.254.61.148:9111/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Bijeljina)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit Radio</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://51.254.61.148:8152/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock/Folk (Brčko)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kalman Radio</string>
+			<key>logo</key>
+			<string>Kalman</string>
+			<key>link</key>
+			<string>http://50.7.70.58:8698/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kupreški Radio</string>
+			<key>logo</key>
+			<string>Kupreski</string>
+			<key>link</key>
+			<string>http://178.209.2.100:10000/live.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kupres</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nes Radio</string>
+			<key>logo</key>
+			<string>Nes</string>
+			<key>link</key>
+			<string>http://mobile.ba:16500/listen.pls</string>
+			<key>http</key>
+			<string>http://188.40.62.20:8070/listen.pls</string>
+			<key>note</key>
+			<string>Music/News (Banja Luka)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nes Castra</string>
+			<key>logo</key>
+			<string>Castra</string>
+			<key>link</key>
+			<string>http://mobile.ba:17000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alternative (Banja Luka)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Novi Radio</string>
+			<key>logo</key>
+			<string>Novi</string>
+			<key>link</key>
+			<string>http://178.20.17.241:8020/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://5.39.66.196:2199/tunein/noviradiobihac.pls</string>
+			<key>note</key>
+			<string>Bihać</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 8</string>
+			<key>logo</key>
+			<string>8</string>
+			<key>link</key>
+			<string>http://217.75.197.114:9000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio BA</string>
+			<key>logo</key>
+			<string>BA</string>
+			<key>link</key>
+			<string>http://streaming.radioba.ba:10002/radio_Ba.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Brcko Distrikt</string>
+			<key>logo</key>
+			<string>Brcko</string>
+			<key>link</key>
+			<string>http://91.191.0.45:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://radiobrcko.ba/uzivo/playlist/playlist.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Busovača 101.9 FM</string>
+			<key>logo</key>
+			<string>Busovaca</string>
+			<key>link</key>
+			<string>http://178.209.2.100:7010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio DAŠ</string>
+			<key>logo</key>
+			<string>DAS</string>
+			<key>link</key>
+			<string>http://servis-racunara.org:1231/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bijeljina</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Feral</string>
+			<key>logo</key>
+			<string>Feral</string>
+			<key>link</key>
+			<string>http://185.50.56.3/listen.pls</string>
+			<key>http</key>
+			<string>http://185.50.56.3:8200/listen.pls</string>
+			<key>note</key>
+			<string>Kalesija</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kakanj</string>
+			<key>logo</key>
+			<string>Kakanj</string>
+			<key>link</key>
+			<string>http://adriastream.net/cast/tunein.php/radiokakanj/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Livno</string>
+			<key>logo</key>
+			<string>Livno</string>
+			<key>link</key>
+			<string>http://178.209.2.100:7090/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio M</string>
+			<key>logo</key>
+			<string>M</string>
+			<key>link</key>
+			<string>http://195.222.33.217:8026/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Marija</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://cloudrad.io/radiomariabosnia/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiopostaja Mir Međugorje</string>
+			<key>logo</key>
+			<string>Radiopostaja</string>
+			<key>link</key>
+			<string>http://85.25.135.86:23565/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Posušje</string>
+			<key>logo</key>
+			<string>Posusje</string>
+			<key>link</key>
+			<string>http://88.198.53.74:9994/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Q</string>
+			<key>logo</key>
+			<string>Q</string>
+			<key>link</key>
+			<string>http://panel3.serverhostingcenter.com:2199/tunein/uewornup.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Visoko</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sarajevo</string>
+			<key>logo</key>
+			<string>Sarajevo</string>
+			<key>link</key>
+			<string>http://malla.softnet.si:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tomislavgrad</string>
+			<key>logo</key>
+			<string>Tomislavgrad</string>
+			<key>link</key>
+			<string>http://radiotomislavgrad.com/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Vitez</string>
+			<key>logo</key>
+			<string>Vitez</string>
+			<key>link</key>
+			<string>http://178.209.2.100:7020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://bigportal.ba/liven/livenpls/getlist.php?list=big1.pls</string>
+			<key>http</key>
+			<string>http://www.bigradiobl.com/live/big1/listen1.pls</string>
+			<key>note</key>
+			<string>Pop/Rock (Banja Luka)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big Radio 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://bigportal.ba/liven/livenpls/getlist.php?list=big2.pls</string>
+			<key>http</key>
+			<string>http://www.bigradiobl.com/live/big2/listen2.pls</string>
+			<key>note</key>
+			<string>News/Music (Banja Luka)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big Radio 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://bigportal.ba/liven/livenpls/getlist.php?list=big3.pls</string>
+			<key>http</key>
+			<string>http://www.bigradiobl.com/live/big3/listen3.pls</string>
+			<key>note</key>
+			<string>Banja Luka</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big Radio 4</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://bigportal.ba/liven/livenpls/getlist.php?list=big-domacica.pls</string>
+			<key>http</key>
+			<string>http://www.bigradiobl.com/live/big3/listen3.pls</string>
+			<key>note</key>
+			<string>Banja Luka</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Stari Grad</string>
+			<key>logo</key>
+			<string>Stari</string>
+			<key>link</key>
+			<string>http://195.222.57.33:8090/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Vogošca</string>
+			<key>logo</key>
+			<string>Vogosca</string>
+			<key>link</key>
+			<string>http://188.40.62.20:8018/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>

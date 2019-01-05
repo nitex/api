@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Salsa Mexico</string>
+			<key>logo</key>
+			<string>Salsa</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.107:8106/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.107:8106/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Milenio Bella Musica 105.1 FM</string>
+			<key>logo</key>
+			<string>Milenio</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Guadalajara</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Mexico Para Cristo</string>
+			<key>logo</key>
+			<string>Para</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.114:8550/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.114:8550/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiesta Mexicana</string>
+			<key>logo</key>
+			<string>Fiesta</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8004/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8004/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Guadalajara</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mejor FM 103.7</string>
+			<key>logo</key>
+			<string>Mejor</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Durango</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZONA 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8006/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8006/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Talk (Jalisco)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Catolica El Sembrador</string>
+			<key>logo</key>
+			<string>Catolica</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Talk (Jalisco)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Mujer 92.7 FM</string>
+			<key>logo</key>
+			<string>Mujer</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8000/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8000/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Talk (Jalisco)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tu Musica FM</string>
+			<key>logo</key>
+			<string>Tu</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.254.193.215:8007/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.254.193.215:8007/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Tijuana</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Que Viva Mexico</string>
+			<key>logo</key>
+			<string>Que</string>
+			<key>link</key>
+			<string>https://quevivamexico.com/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.40.135.197:8317/stream.m3u&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio de Mexico</string>
+			<key>logo</key>
+			<string>de</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8029/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8029/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EL LOBO 106.1 FM</string>
+			<key>logo</key>
+			<string>LOBO</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.29.178:9386/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>http://50.7.29.178:9386/;</string>
+			<key>note</key>
+			<string>Chihuahua</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiesta Mexicana 94.5 FM</string>
+			<key>logo</key>
+			<string>Mexicana</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8122/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8122/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Chihuahua</string>
+		</dict>
+	</array>
+</dict>
+</plist>

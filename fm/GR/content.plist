@@ -1,0 +1,1110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>ERT Open</string>
+			<key>logo</key>
+			<string>ERT</string>
+			<key>link</key>
+			<string>http://radio.ertopen.com/erasport</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/eraopen.m3u</string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>98 FM Ραδιοζώνες ανατρεπτικής Έκφρασης</string>
+			<key>logo</key>
+			<string>98</string>
+			<key>link</key>
+			<string>http://147.102.82.129:8000/high.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1413 AM</string>
+			<key>logo</key>
+			<string>1413</string>
+			<key>link</key>
+			<string>http://155.207.18.114:8001/1431med.m3u</string>
+			<key>http</key>
+			<string>http://radiofono.eng.auth.gr:8000/1431high.m3u</string>
+			<key>note</key>
+			<string>Thessaloniki</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktina FM 107,6</string>
+			<key>logo</key>
+			<string>107,6</string>
+			<key>link</key>
+			<string>http://sc2.streamwithq.com:8016/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Corfu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktina Radio Corfu</string>
+			<key>logo</key>
+			<string>Corfu</string>
+			<key>link</key>
+			<string>http://www.streamwithq.gr/clients/Radio_Aktina/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktina Radio Korinthos</string>
+			<key>logo</key>
+			<string>Korinthos</string>
+			<key>link</key>
+			<string>http://live.e-streaming.eu:8110/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>90.2 Aristera sta FM</string>
+			<key>logo</key>
+			<string>Aristera</string>
+			<key>link</key>
+			<string>http://icecast.902.gr:8000/902.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens Deejay 95.2</string>
+			<key>logo</key>
+			<string>Deejay</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8001/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens DeeJayNonStop</string>
+			<key>logo</key>
+			<string>DeeJayNonStop</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8007/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens DeeJayDance</string>
+			<key>logo</key>
+			<string>DeeJayDance</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8009/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Athens MyDeeJay</string>
+			<key>logo</key>
+			<string>MyDeeJay</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8011/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arhagelos 94.1 FM</string>
+			<key>logo</key>
+			<string>Arhagelos</string>
+			<key>link</key>
+			<string>http://yp.shoutcast.com/sbin/tunein-station.pls?id=707982</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Rhodes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Astro Radio 96,4</string>
+			<key>logo</key>
+			<string>Astro</string>
+			<key>link</key>
+			<string>http://eco.onestreaming.com:8099/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Rethymno)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atlantis FM</string>
+			<key>logo</key>
+			<string>Atlantis</string>
+			<key>link</key>
+			<string>http://eco.caststream.net:8046/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dalkas 88,2</string>
+			<key>logo</key>
+			<string>Dalkas</string>
+			<key>link</key>
+			<string>http://212.7.199.201:8006/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chalkida</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Derti 98.6</string>
+			<key>logo</key>
+			<string>Derti</string>
+			<key>link</key>
+			<string>http://iphone.live24.gr/derty1000</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diesi 101.3</string>
+			<key>logo</key>
+			<string>Diesi</string>
+			<key>link</key>
+			<string>http://diesi.live24.gr/diesi1013</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DIVA 91.6</string>
+			<key>logo</key>
+			<string>DIVA</string>
+			<key>link</key>
+			<string>http://myradiostream.com/17/6404.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Dance (Kozani)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dromos 89,8 ΔΡΟΜΟΣ</string>
+			<key>logo</key>
+			<string>Dromos</string>
+			<key>link</key>
+			<string>http://dromos898.live24.gr/dromos898</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Easy 97,2</string>
+			<key>logo</key>
+			<string>Easy</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/easy972.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galaxy 106.1</string>
+			<key>logo</key>
+			<string>Galaxy</string>
+			<key>link</key>
+			<string>http://46.4.65.194:8015/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Patras</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glenti FM</string>
+			<key>logo</key>
+			<string>Glenti</string>
+			<key>link</key>
+			<string>http://s3.onweb.gr:8532/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Xanthi</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Heart FM 93.1</string>
+			<key>logo</key>
+			<string>Heart</string>
+			<key>link</key>
+			<string>http://s3.voscast.com:8118/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Thessaloniki</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HiT 88.9</string>
+			<key>logo</key>
+			<string>HiT</string>
+			<key>link</key>
+			<string>http://64.150.176.42:8146/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Imagine 89.7</string>
+			<key>logo</key>
+			<string>Imagine</string>
+			<key>link</key>
+			<string>http://imagine.1stepstream.com:8000/live.m3u</string>
+			<key>http</key>
+			<string>http://imagine.1stepstream.com:8000/aac.m3u</string>
+			<key>note</key>
+			<string>Pop / Rock (Thessaloniki)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ihorama FM 108</string>
+			<key>logo</key>
+			<string>Ihorama</string>
+			<key>link</key>
+			<string>http://cast.streams.ovh:9069/live</string>
+			<key>http</key>
+			<string>http://85.17.174.142:10500/listen.pls</string>
+			<key>note</key>
+			<string>Pop</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ionian FM</string>
+			<key>logo</key>
+			<string>Ionian</string>
+			<key>link</key>
+			<string>http://chris.dna.gr:8004/ionionfmf</string>
+			<key>http</key>
+			<string>http://chris.dna.gr:8004/ionionfmo</string>
+			<key>note</key>
+			<string>Pop (Patra)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Island FM</string>
+			<key>logo</key>
+			<string>Island</string>
+			<key>link</key>
+			<string>http://95.211.4.241:8006/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Zakynthos)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Καλαμαριά FM 101,7</string>
+			<key>logo</key>
+			<string>Kalamaria</string>
+			<key>link</key>
+			<string>http://sc.greekstream.net:80/;.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KASTORIA 91,5</string>
+			<key>logo</key>
+			<string>KASTORIA</string>
+			<key>link</key>
+			<string>http://eco.onestreaming.com:8107/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM 92,2</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://stream.kiss922.gr:59922/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Dance (Patras)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM 95,8</string>
+			<key>logo</key>
+			<string>95,8</string>
+			<key>link</key>
+			<string>http://66.90.103.144:8990/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Corfu)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kriti FM</string>
+			<key>logo</key>
+			<string>Kriti</string>
+			<key>link</key>
+			<string>http://s3.onweb.gr:8878/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Κρήτη FM 100.3</string>
+			<key>logo</key>
+			<string>100,3</string>
+			<key>link</key>
+			<string>http://s5.onweb.gr:8070/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Heraklion</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kritikos 88,7 ΚΡΗΤΙΚΟΣ</string>
+			<key>logo</key>
+			<string>Kritikos</string>
+			<key>link</key>
+			<string>http://50.7.71.27:9677/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Heraklion</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kyma FM</string>
+			<key>logo</key>
+			<string>Kyma</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8028/;stream/1</string>
+			<key>http</key>
+			<string>http://s1.onweb.gr:8028/listen.pls</string>
+			<key>note</key>
+			<string>Corfu</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lampsi FM Λάμψη</string>
+			<key>logo</key>
+			<string>Lampsi</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/lampsifmAAC.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Legend FM</string>
+			<key>logo</key>
+			<string>Legend</string>
+			<key>link</key>
+			<string>http://s6.onweb.gr:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock (Xanthi)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Libero 107.4</string>
+			<key>logo</key>
+			<string>Libero</string>
+			<key>link</key>
+			<string>http://eco.onestreaming.com:8081/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Thessaloniki</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio</string>
+			<key>logo</key>
+			<string>Life</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8836/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Kerkyra)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Live FM 89,6</string>
+			<key>logo</key>
+			<string>Live</string>
+			<key>link</key>
+			<string>http://eco.onestreaming.com:8033/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Chalkida)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Loud Radio 88.8</string>
+			<key>logo</key>
+			<string>Loud</string>
+			<key>link</key>
+			<string>http://s3.onweb.gr:8888/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Trikala)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magic FM 98.2</string>
+			<key>logo</key>
+			<string>Magic</string>
+			<key>link</key>
+			<string>http://sc2.streamwithq.com:2199/tunein/magicfm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Chania)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melodia FM 88</string>
+			<key>logo</key>
+			<string>Melodia</string>
+			<key>link</key>
+			<string>http://eco.onestreaming.com:8129/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Lamia)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melody 98,7 FM</string>
+			<key>logo</key>
+			<string>Melody</string>
+			<key>link</key>
+			<string>http://proradio.gr:8004/sfera987</string>
+			<key>http</key>
+			<string>http://stream2.proradio.gr:8004/melody.m3u</string>
+			<key>note</key>
+			<string>Top 40 (Heraklion)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metropolis 95.5</string>
+			<key>logo</key>
+			<string>Metropolis</string>
+			<key>link</key>
+			<string>http://streamx1.greekradios.gr:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport, Music (Thessaloniki)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Neo Radiofono</string>
+			<key>logo</key>
+			<string>Neo</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8820/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Corfu)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nitro Radio</string>
+			<key>logo</key>
+			<string>Nitro</string>
+			<key>link</key>
+			<string>http://nitro.live24.gr/nitro4555</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Noize Radio</string>
+			<key>logo</key>
+			<string>Noize</string>
+			<key>link</key>
+			<string>http://188.227.194.35:7002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Dance (Serres)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NRG 95</string>
+			<key>logo</key>
+			<string>NRG</string>
+			<key>link</key>
+			<string>http://212.7.199.201:8012/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Chalkida)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ola FM 91,4</string>
+			<key>logo</key>
+			<string>Ola</string>
+			<key>link</key>
+			<string>http://live.isolservers.com:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Thessaloniki)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pireaiki Ekklesia 91.2 FM</string>
+			<key>logo</key>
+			<string>Pireaiki</string>
+			<key>link</key>
+			<string>http://eco.caststream.net:8044/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pop FM 102.1</string>
+			<key>logo</key>
+			<string>Pop</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8422/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Kerkira, Corfu)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power FM 100.2</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8854/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Volos)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://111.gr:8000/;</string>
+			<key>http</key>
+			<string>http://www.111.gr:8000/listen.pls</string>
+			<key>note</key>
+			<string>Top 40 (Rhodes)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Drama 99.1</string>
+			<key>logo</key>
+			<string>Drama</string>
+			<key>link</key>
+			<string>http://69.64.33.63:7700/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Energy 96,6</string>
+			<key>logo</key>
+			<string>Energy</string>
+			<key>link</key>
+			<string>http://94.242.254.67:8008/;</string>
+			<key>http</key>
+			<string>http://liveradio.energy966.com:8010/listen.pls</string>
+			<key>note</key>
+			<string>Top 40 (Kavala)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Lefkimmi</string>
+			<key>logo</key>
+			<string>Lefkimmi</string>
+			<key>link</key>
+			<string>https://player.magicstreams.gr/radio/iframe/playlist.php?stream=http://i.streams.ovh:9280/live&amp;title=%CE%A1%CE%AC%CE%B4%CE%B9%CE%BF%20%CE%9B%CE%B5%CF%85%CE%BA%CE%AF%CE%BC%CE%BC%CE%B7%20105,5&amp;name=Listen.pls</string>
+			<key>http</key>
+			<string>http://66.90.103.144:8976/listen.pls</string>
+			<key>note</key>
+			<string>Pop (Corfu)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Lehovo 97.1</string>
+			<key>logo</key>
+			<string>Lehovo</string>
+			<key>link</key>
+			<string>http://s4.onweb.gr:8468/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Florina</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Meteora</string>
+			<key>logo</key>
+			<string>Meteora</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8834/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kalampaka</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Patra</string>
+			<key>logo</key>
+			<string>Patra</string>
+			<key>link</key>
+			<string>https://player.magicstreams.gr/radio/iframe/playlist.php?stream=http://94.23.218.186:9102/;&amp;title=RADIO%20PATRA&amp;name=Listen.pls</string>
+			<key>http</key>
+			<string>http://www.radiopatra.gr/listen.pls</string>
+			<key>note</key>
+			<string>Music, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Pieria 104.2</string>
+			<key>logo</key>
+			<string>Pieria</string>
+			<key>link</key>
+			<string>http://s6.onweb.gr:8018/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RADIOKYMATA 104,4 </string>
+			<key>logo</key>
+			<string>RADIOKYMATA</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8812/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Thessaloniki)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>89 Rainbow</string>
+			<key>logo</key>
+			<string>89</string>
+			<key>link</key>
+			<string>http://stream.greekradios.gr:4000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock (Thessaloniki)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Real FM</string>
+			<key>logo</key>
+			<string>Real</string>
+			<key>link</key>
+			<string>http://realfm.live24.gr/realfm</string>
+			<key>http</key>
+			<string>http://realfm.live24.gr:80/realfm</string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Republic 100,3</string>
+			<key>logo</key>
+			<string>Republic</string>
+			<key>link</key>
+			<string>http://streamx2.greekradios.gr:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Dance (Thessaloniki)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock FM</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://91.132.6.21:8003/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock 1055</string>
+			<key>logo</key>
+			<string>1055</string>
+			<key>link</key>
+			<string>http://radio.onweb.gr:8078/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Thessaloniki</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rythmos 104,5</string>
+			<key>logo</key>
+			<string>Rythmos</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rythmos1045.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Heraklion)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rythmos 99,7</string>
+			<key>logo</key>
+			<string>99,7</string>
+			<key>link</key>
+			<string>http://s4.onweb.gr:8832/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Corfu)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sferikos 99.3</string>
+			<key>logo</key>
+			<string>Sferikos</string>
+			<key>link</key>
+			<string>http://live3.onestreaming.com/tunein.php/sferikos/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / News (Feres Evros)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky Radio 99.2</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://live.skyradio.gr:9920/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Ioannina)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Smart FM 100,7</string>
+			<key>logo</key>
+			<string>Smart</string>
+			<key>link</key>
+			<string>http://www.serverroom.us/asx/listen2782.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Patras</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>104,8 Sok FM</string>
+			<key>logo</key>
+			<string>Sok</string>
+			<key>link</key>
+			<string>http://212.7.199.201:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop (Evia/Sterea Ellada)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM 88.8</string>
+			<key>logo</key>
+			<string>Star</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8800/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Corfu)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stigma FM</string>
+			<key>logo</key>
+			<string>Stigma</string>
+			<key>link</key>
+			<string>http://95.211.4.241:8008/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Zakynthos)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Styl FM 104.8</string>
+			<key>logo</key>
+			<string>Styl</string>
+			<key>link</key>
+			<string>http://s3.onweb.gr:8530/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Super 90,4</string>
+			<key>logo</key>
+			<string>Super</string>
+			<key>link</key>
+			<string>http://192.240.102.198:14000/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Heraklion)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Thraki FM</string>
+			<key>logo</key>
+			<string>Thraki</string>
+			<key>link</key>
+			<string>http://live3.istoikona.net:2199/tunein/thrakifm.pls</string>
+			<key>http</key>
+			<string>http://live3.istoikona.com:8010/listen.pls</string>
+			<key>note</key>
+			<string>News / Music (Alexandroupoli)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traffic FM</string>
+			<key>logo</key>
+			<string>Traffic</string>
+			<key>link</key>
+			<string>http://s5.onweb.gr:8506/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Heraklion)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Venus Radio</string>
+			<key>logo</key>
+			<string>Venus</string>
+			<key>link</key>
+			<string>http://s1.onweb.gr:8410/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance (Mykonos)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Viva FM 95.3</string>
+			<key>logo</key>
+			<string>Viva</string>
+			<key>link</key>
+			<string>http://www.streamwithq.gr/clients/VivaFm/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Dance (Ptolemaida)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xanthi FM</string>
+			<key>logo</key>
+			<string>Xanthi</string>
+			<key>link</key>
+			<string>http://xanthifm100.no-ip.info:8008/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xanthi Radio Deejay</string>
+			<key>logo</key>
+			<string>Xanth</string>
+			<key>link</key>
+			<string>http://s4.onweb.gr:8402/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yes! 91.2</string>
+			<key>logo</key>
+			<string>Yes</string>
+			<key>link</key>
+			<string>http://46.4.65.194:8039/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Patras)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>You FM</string>
+			<key>logo</key>
+			<string>You</string>
+			<key>link</key>
+			<string>http://eco.onestreaming.com:8150/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Patras)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZOO 90.8</string>
+			<key>logo</key>
+			<string>ZOO</string>
+			<key>link</key>
+			<string>http://188.138.121.94:8004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Thessaloniki)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
