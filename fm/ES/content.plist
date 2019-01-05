@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>9316740170</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>9125878923</string>
 		<key>Banner</key>
-		<string>5321812971</string>
+		<string>3989102313</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>1015400712</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>9574748717</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>5896369910</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>9452471549</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>3598220073</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>5841240039</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>3298126734</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>7022405867</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>2831933310</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1232667435</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1448315551</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>Nacional</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/rne.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>RNE</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://www.listenlive.eu/rneradioclasica.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,11 +91,11 @@
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radio3.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News / Music</string>
+			<string>News/Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -103,11 +103,11 @@
 			<key>logo</key>
 			<string>4</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radio4.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/music/features (Catalan)</string>
+			<string>News/Music/Features (Catalan)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>5</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radio5.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,15 +123,219 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Radio Exterior</string>
+			<key>logo</key>
+			<string>Exterior</string>
+			<key>link</key>
+			<string>http://radiolive-mp3-rtve.flumotion.com/rtve/radioexterior.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ABC Punto Radio</string>
+			<key>logo</key>
+			<string>ABC</string>
+			<key>link</key>
+			<string>http://94.23.22.181:8031/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Music (Tenerife, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Activa FM</string>
+			<key>logo</key>
+			<string>Activa</string>
+			<key>link</key>
+			<string>http://emisorasmusicales.com:8000/activafm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Marina Alta, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alzira Ràdio</string>
+			<key>logo</key>
+			<string>Alzira</string>
+			<key>link</key>
+			<string>http://radioserver7.profesionalhosting.com:11199/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antena-6</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://www.antena6.com:8015/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atlantis FM</string>
+			<key>logo</key>
+			<string>Atlantis</string>
+			<key>link</key>
+			<string>http://91.121.166.38:7420/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music (Tenerife, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Barcelona FM</string>
+			<key>logo</key>
+			<string>Barcelona</string>
+			<key>link</key>
+			<string>http://shoutcast.barcelonatv.stream.flumotion.com/barcelonatv/live.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Information/Music (Barcelona, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bay Radio</string>
+			<key>logo</key>
+			<string>Bay</string>
+			<key>link</key>
+			<string>http://s2.streammonster.com/tunein.php/astammer/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Javea (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BI FM</string>
+			<key>logo</key>
+			<string>BI</string>
+			<key>link</key>
+			<string>http://94.75.234.135:8052/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alternative/Indie Music (Bilbao, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bilbo Hiria Irratia</string>
+			<key>logo</key>
+			<string>Bilbo</string>
+			<key>link</key>
+			<string>http://freedom.wavestreamer.com:7429/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/News/Information (Bilbao, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boca Ràdio 90.1FM</string>
+			<key>logo</key>
+			<string>Boca</string>
+			<key>link</key>
+			<string>http://srv0410.radiostreaming.es:8009/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena 100</string>
+			<key>logo</key>
+			<string>100</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/cadena100.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Cope</string>
+			<key>logo</key>
+			<string>Cope</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/cadenacope.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Cope Sevilla</string>
+			<key>logo</key>
+			<string>Sevill</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/copesevilla.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Dial</string>
+			<key>logo</key>
+			<string>Dial</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/CADENADIAL.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Digital</string>
+			<key>logo</key>
+			<string>Digital</string>
+			<key>link</key>
+			<string>http://185.23.192.118:8080/cadenadigital/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Malaga, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Nostalgia</string>
+			<key>logo</key>
+			<string>Nostalgia</string>
+			<key>link</key>
+			<string>http://server.hablocomunicaciones.com:8004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Cadena Ser</string>
 			<key>logo</key>
 			<string>Cadena</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/CADENASER.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,11 +343,11 @@
 			<key>logo</key>
 			<string>Ser</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/SER_BARCELONA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -151,11 +355,11 @@
 			<key>logo</key>
 			<string>Bilbao</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_BILBAO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,11 +367,11 @@
 			<key>logo</key>
 			<string>Sevilla</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_SEVILLA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -175,11 +379,11 @@
 			<key>logo</key>
 			<string>Extremadura</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_Extremadura.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports (Badajoz)</string>
+			<string>News/Talk/Sport (Badajoz, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,11 +391,11 @@
 			<key>logo</key>
 			<string>Valencia</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_VALENCIA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports (Mallorca)</string>
+			<string>News/Talk/Sport (Mallorca, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -199,11 +403,11 @@
 			<key>logo</key>
 			<string>Melilla</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_MELILLA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -211,11 +415,11 @@
 			<key>logo</key>
 			<string>Murcia</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_MURCIA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -223,11 +427,11 @@
 			<key>logo</key>
 			<string>Pamplona</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_PAMPLONA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -235,11 +439,1619 @@
 			<key>logo</key>
 			<string>Tenerife</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TENERIFE.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/talk/sports</string>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Zaragoza</string>
+			<key>logo</key>
+			<string>Zaragoza</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_ZARAGOZA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Santander</string>
+			<key>logo</key>
+			<string>Santander</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_SANTANDER.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Toledo</string>
+			<key>logo</key>
+			<string>Toledo</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Valladolid</string>
+			<key>logo</key>
+			<string>Valladolid</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_VALLADOLID.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Ser Radio Ceuta</string>
+			<key>logo</key>
+			<string>Ceuta</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_CEUTA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Candil Radio</string>
+			<key>logo</key>
+			<string>Candil</string>
+			<key>link</key>
+			<string>http://s6.viastreaming.net:7100/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Huércal de Almería (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Catalunya Ràdio</string>
+			<key>logo</key>
+			<string>Catalunya</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/catradio_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Music (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Catalunya Informació</string>
+			<key>logo</key>
+			<string>Informacio</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/catinfo_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Catalunya Música</string>
+			<key>logo</key>
+			<string>Musica</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/es_catalunyamusica.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical/Culture (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CatClàssica</string>
+			<key>logo</key>
+			<string>CatClassica</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/es_catclassica.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iCat FM</string>
+			<key>logo</key>
+			<string>iCat</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/icat_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iCatjazz</string>
+			<key>logo</key>
+			<string>iCatjazz</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/icatjazz_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iCatTrònica</string>
+			<key>logo</key>
+			<string>iCatTronica</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/icattronica_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Electronic Music (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iCatMón</string>
+			<key>logo</key>
+			<string>iCatMon</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/icatmon_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Urban/World (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>totCat</string>
+			<key>logo</key>
+			<string>totCat</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/totcat_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iCatRumba</string>
+			<key>logo</key>
+			<string>iCatRumba</string>
+			<key>link</key>
+			<string>http://www.catradio.cat/directes/icatrumba_http.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Central FM</string>
+			<key>logo</key>
+			<string>Central</string>
+			<key>link</key>
+			<string>http://streaming.dragonstack.com:2199/tunein/atngrand.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Arroyo de la Miel, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chanquete FM</string>
+			<key>logo</key>
+			<string>Chanquete</string>
+			<key>link</key>
+			<string>http://92.48.107.35:8008/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Malaga, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coast FM</string>
+			<key>logo</key>
+			<string>Coast</string>
+			<key>link</key>
+			<string>http://s3.viastreaming.net:8540/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Tenerife, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cool FM</string>
+			<key>logo</key>
+			<string>Cool</string>
+			<key>link</key>
+			<string>http://62.210.84.35:8059/listen.pls</string>
+			<key>http</key>
+			<string>http://62.210.84.35:8018/listen.pls</string>
+			<key>note</key>
+			<string>Classic Music(Costa Blanca, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>COM Radio</string>
+			<key>logo</key>
+			<string>COM</string>
+			<key>link</key>
+			<string>http://comradio-streaming.gnuine.com:8100/mac22.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cope Cantabria</string>
+			<key>logo</key>
+			<string>Cantabria</string>
+			<key>link</key>
+			<string>http://www.deportescopecantabria.com:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk (Santander, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Crónicas Radio</string>
+			<key>logo</key>
+			<string>Cronicas</string>
+			<key>link</key>
+			<string>http://85.48.192.60:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Info/Music (Lanzarote, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disco Music Radio</string>
+			<key>logo</key>
+			<string>Disco</string>
+			<key>link</key>
+			<string>http://www.discomusicradio.com:8100/listen.pls</string>
+			<key>http</key>
+			<string>http://www.discomusicradio.com/PLAYER/index.html</string>
+			<key>note</key>
+			<string>Pop Music (Valencia, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Euskadi Irratia</string>
+			<key>logo</key>
+			<string>Irratia</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/euskadiirratia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>San Sebastián (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Radio Euskadi</string>
+			<key>logo</key>
+			<string>Euskadi</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radioeuskadi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bilbao (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Radio Vitoria</string>
+			<key>logo</key>
+			<string>Vitoria</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radiovitoria.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Gaztea</string>
+			<key>logo</key>
+			<string>Gaztea</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/gaztea.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>San Sebastián (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EiTB Musika</string>
+			<key>logo</key>
+			<string>Musika</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/eitbmusika.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>San Sebastián (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elite Radio</string>
+			<key>logo</key>
+			<string>Elite</string>
+			<key>link</key>
+			<string>http://85.25.117.229/tunein.php/elitesevilla/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Seville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy FM</string>
+			<key>logo</key>
+			<string>Energy</string>
+			<key>link</key>
+			<string>http://uk1.internet-radio.com:15614/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music (Tenerife, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>esRadio Madrid</string>
+			<key>logo</key>
+			<string>esRadio</string>
+			<key>link</key>
+			<string>http://livestreaming3.esradio.fm/stream64.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>esRadio Guadalajara</string>
+			<key>logo</key>
+			<string>Guadalajara</string>
+			<key>link</key>
+			<string>http://91.121.68.52:8054/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa FM</string>
+			<key>logo</key>
+			<string>Europa</string>
+			<key>link</key>
+			<string>http://212.129.60.86:9968/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music (Tenerife, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Excite FM</string>
+			<key>logo</key>
+			<string>Excite</string>
+			<key>link</key>
+			<string>http://cp6.shoutcheap.com:2199/tunein/theleade.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Oriheula Costa, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiesta FM Madrid</string>
+			<key>logo</key>
+			<string>Fiesta</string>
+			<key>link</key>
+			<string>http://178.33.161.251:6024/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flaix</string>
+			<key>logo</key>
+			<string>Flaix</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/flaixfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Dance Music (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FlaixBac</string>
+			<key>logo</key>
+			<string>FlaixBac</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radioflaixbac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Formula Hit</string>
+			<key>logo</key>
+			<string>Formula</string>
+			<key>link</key>
+			<string>http://server1.emitironline.com:9400/formulahit.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Portugalete, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gestiona Radio</string>
+			<key>logo</key>
+			<string>Gestiona</string>
+			<key>link</key>
+			<string>http://escucha.gestionaradio.com:8000/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://escucha.gestionaradio.com:8000/live.mp3</string>
+			<key>note</key>
+			<string>Business, Economics, News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Global Radio</string>
+			<key>logo</key>
+			<string>Global</string>
+			<key>link</key>
+			<string>http://s6.viastreaming.net:7450/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance/RnB Music (Mijas Costa, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GUM FM</string>
+			<key>logo</key>
+			<string>GUM</string>
+			<key>link</key>
+			<string>http://gum-fm01.streaming-pro.com:8018/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pirineus (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Holiday Gym FM</string>
+			<key>logo</key>
+			<string>Gym</string>
+			<key>link</key>
+			<string>http://s1.prositel.net:9001/holidaygym.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Holland FM</string>
+			<key>logo</key>
+			<string>Hollan</string>
+			<key>link</key>
+			<string>http://stream01.streamhier.nl:9010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gran Ganaria (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IB3 Ràdio</string>
+			<key>logo</key>
+			<string>IB3</string>
+			<key>link</key>
+			<string>http://streaming01.ib3radio.com:8000/ib3radio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Palma De Mallorca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ibiza Radio Global</string>
+			<key>logo</key>
+			<string>Ibiza</string>
+			<key>link</key>
+			<string>http://s6.viastreaming.net:7010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Imagina Ràdio</string>
+			<key>logo</key>
+			<string>Imagina</string>
+			<key>link</key>
+			<string>http://server1.20comunicacion.com:8038/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tortosa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inolvidable FM 95.8</string>
+			<key>logo</key>
+			<string>Inolvidable</string>
+			<key>link</key>
+			<string>http://s7.voscast.com:7608/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gran Canaria (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ke Buena</string>
+			<key>logo</key>
+			<string>Ke</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/KEBUENA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Latino/Reggaeton Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://kissfm.es.audio1.glb.ipercast.net:8000/kissfm.es/mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latino FM</string>
+			<key>logo</key>
+			<string>Latino</string>
+			<key>link</key>
+			<string>http://92.48.107.35:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Malaga (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LOCA FM Madrid</string>
+			<key>logo</key>
+			<string>LOCA</string>
+			<key>link</key>
+			<string>http://audio-online.net:23500/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Los 40 Principales</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/LOS40.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Los 40 Benidorm</string>
+			<key>logo</key>
+			<string>Los</string>
+			<key>link</key>
+			<string>http://84.232.113.170:8000/40Benidorm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>M80 Radio</string>
+			<key>logo</key>
+			<string>M80</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/M80RADIO.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s/90s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mallorca Inselradio</string>
+			<key>logo</key>
+			<string>Mallorca</string>
+			<key>link</key>
+			<string>http://stream.live-inselradio.com:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Palma (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mataró Ràdio</string>
+			<key>logo</key>
+			<string>Mataro</string>
+			<key>link</key>
+			<string>http://streaming.enantena.com:8000/mataroradio128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mataró (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Máxima FM</string>
+			<key>logo</key>
+			<string>Maxima</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/MAXIMAFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MegaStar FM</string>
+			<key>logo</key>
+			<string>MegaStar</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/megastarfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 101</string>
+			<key>logo</key>
+			<string>101</string>
+			<key>link</key>
+			<string>http://derstream.com:3040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gran Canaria (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nova Onda</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://50.7.184.106:2199/tunein/novaonda.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Albacete (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oasis FM</string>
+			<key>logo</key>
+			<string>Oasis</string>
+			<key>link</key>
+			<string>http://s1.viastreaming.net:7120/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Tenerife, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ona Mar FM</string>
+			<key>logo</key>
+			<string>Ona</string>
+			<key>link</key>
+			<string>http://www.onamar.net/player.php</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock Music (Badalona, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Borox</string>
+			<key>logo</key>
+			<string>Borox</string>
+			<key>link</key>
+			<string>http://85.48.163.31:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Cero Noroeste</string>
+			<key>logo</key>
+			<string>Cero</string>
+			<key>link</key>
+			<string>http://escuchar.ondaceronoroeste.es/playlists/ondacero.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Murcia (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Cieza</string>
+			<key>logo</key>
+			<string>Cieza</string>
+			<key>link</key>
+			<string>http://91.121.77.67:8056/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ONDA CIT</string>
+			<key>logo</key>
+			<string>CIT</string>
+			<key>link</key>
+			<string>http://173.243.114.66:8012/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tenerife (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Fuenlabrada</string>
+			<key>logo</key>
+			<string>Fuenlabrada</string>
+			<key>link</key>
+			<string>http://radioserver3.profesionalhosting.com:8024/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Uno</string>
+			<key>logo</key>
+			<string>Uno</string>
+			<key>link</key>
+			<string>http://62.43.226.121:2300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>80s/90s/Pop Music (Valencia, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Vasca</string>
+			<key>logo</key>
+			<string>Vasca</string>
+			<key>link</key>
+			<string>http://shoutcast.zeroa.stream.ntteo.flumotion.com/zeroa/shoutcast.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information (Bilbao, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oye Radio</string>
+			<key>logo</key>
+			<string>Oye</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/oyeradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Basauri, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Qfm 94.3</string>
+			<key>logo</key>
+			<string>Qfm</string>
+			<key>link</key>
+			<string>http://s1.viastreaming.net:7420/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz/Soul/Blues Music (Tenerife, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAC 1</string>
+			<key>logo</key>
+			<string>RAC</string>
+			<key>link</key>
+			<string>http://www.rac1.org/audio/Player/nou_rac1.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAC105</string>
+			<key>logo</key>
+			<string>RAC105</string>
+			<key>link</key>
+			<string>http://streaming105.radiocat.net/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 7</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://radio7.oye.fm:7501/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Bilbao, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Aguilar</string>
+			<key>logo</key>
+			<string>Aguilar</string>
+			<key>link</key>
+			<string>http://ns5.emisionlocal.com:8016/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aguilar de Campoó (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Amistad</string>
+			<key>logo</key>
+			<string>Amistad</string>
+			<key>link</key>
+			<string>http://188.93.73.98:8128/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alicante (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Andújar</string>
+			<key>logo</key>
+			<string>Andujar</string>
+			<key>link</key>
+			<string>http://87.106.247.182:9017/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Andújar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Asturias SER</string>
+			<key>logo</key>
+			<string>Asturias</string>
+			<key>link</key>
+			<string>http://194.169.201.177:8085/radioasturias.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sports (Oviedo, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Balear</string>
+			<key>logo</key>
+			<string>Balear</string>
+			<key>link</key>
+			<string>http://stream2.beatproducciones.com:8076/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk/Music (Palma, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ràdio Capital</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://91.121.92.186:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Pals, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Castilla-La Mancha</string>
+			<key>logo</key>
+			<string>Mancha</string>
+			<key>link</key>
+			<string>http://podcast.rtvcm.es:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/News (Toledo, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Enlace</string>
+			<key>logo</key>
+			<string>Enlace</string>
+			<key>link</key>
+			<string>http://www.radioenlace.org/emision.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hortaleza (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio España Network</string>
+			<key>logo</key>
+			<string>Espana</string>
+			<key>link</key>
+			<string>http://91.121.159.50:8000/espananetwork.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance/Electronica/House Music (Palma de Mallorca, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ràdio Estel</string>
+			<key>logo</key>
+			<string>Estel</string>
+			<key>link</key>
+			<string>http://87.106.252.110:8119/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk/Information (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Faycan</string>
+			<key>logo</key>
+			<string>Faycan</string>
+			<key>link</key>
+			<string>http://srv0625.emisorasonline.com:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Gran Canaria, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Galega</string>
+			<key>logo</key>
+			<string>Galega</string>
+			<key>link</key>
+			<string>http://85.91.64.29/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/features (Santiago de Compostela, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Galega Música</string>
+			<key>logo</key>
+			<string>Galeg</string>
+			<key>link</key>
+			<string>http://85.91.64.29/listen.pls?sid=2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits/international (Santiago de Compostela)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Gigante</string>
+			<key>logo</key>
+			<string>Gigante</string>
+			<key>link</key>
+			<string>http://server1.beatproducciones.com:8052/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tenerife (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Marca</string>
+			<key>logo</key>
+			<string>Marca</string>
+			<key>link</key>
+			<string>http://radioweb.radiomarcabarcelona.com:9000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport (Barcelona)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiolé</string>
+			<key>logo</key>
+			<string>Radiole</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/RADIOLE.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ràdio Marina</string>
+			<key>logo</key>
+			<string>Marina</string>
+			<key>link</key>
+			<string>http://www.radiomarina.com/inc/listen.m3u</string>
+			<key>http</key>
+			<string>http://www.radiomarina.com/2016/wp-content/players/listen.m3u</string>
+			<key>note</key>
+			<string>Blanes (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Menorca SER</string>
+			<key>logo</key>
+			<string>Menorca</string>
+			<key>link</key>
+			<string>http://server7.20comunicacion.com:8040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sports (Mahón, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Montealegre</string>
+			<key>logo</key>
+			<string>Montealegre</string>
+			<key>link</key>
+			<string>http://radiomontealegre.es:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Music (Montealegre del Castillo, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Nervión</string>
+			<key>logo</key>
+			<string>Nervion</string>
+			<key>link</key>
+			<string>http://radionervion.streaming-pro.com:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/News/Information (Bilbao, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Nova 106.7</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://78.129.224.154:2078/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Costa Blanca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Oasis Salamanca</string>
+			<key>logo</key>
+			<string>Salamanca</string>
+			<key>link</key>
+			<string>http://tesla.todoexitos.com:6140/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ràdio Olot</string>
+			<key>logo</key>
+			<string>Olot</string>
+			<key>link</key>
+			<string>http://81.95.0.66:8100/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio One</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://82.144.20.52:8000/rdone.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Valencia, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Oro 95.2 FM Málaga</string>
+			<key>logo</key>
+			<string>Oro</string>
+			<key>link</key>
+			<string>http://92.48.107.35:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Oro 94.4 FM Marbella</string>
+			<key>logo</key>
+			<string>Marbella</string>
+			<key>link</key>
+			<string>http://92.48.107.35:8004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Pizarra</string>
+			<key>logo</key>
+			<string>Pizarra</string>
+			<key>link</key>
+			<string>http://173.243.114.66:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pizarra (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Planeta</string>
+			<key>logo</key>
+			<string>Planeta</string>
+			<key>link</key>
+			<string>http://95.211.22.17:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Torremolinos, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Poniente</string>
+			<key>logo</key>
+			<string>Poniente</string>
+			<key>link</key>
+			<string>http://www.radioponiente.com/descargar_lista.aspx?filename=emision_online.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>El Ejido (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Popular de Bilbao</string>
+			<key>logo</key>
+			<string>Popular</string>
+			<key>link</key>
+			<string>http://centova.nsprimario.com/tunein.php/radiopopular/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk (Bilbao, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ràdio Ràpita</string>
+			<key>logo</key>
+			<string>Rapita</string>
+			<key>link</key>
+			<string>http://94.23.4.141:8012/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sant Carles de la Ràpita (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Rioja Cadena SER</string>
+			<key>logo</key>
+			<string>Rioja</string>
+			<key>link</key>
+			<string>http://streaming.radiorioja.es:9996/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk/Sports (Rioja, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio RM 88.7</string>
+			<key>logo</key>
+			<string>RM</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radiorm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Siete</string>
+			<key>logo</key>
+			<string>Siete</string>
+			<key>link</key>
+			<string>http://radiosiete.com:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/information (Valencia, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sur Adeje 107.9</string>
+			<key>logo</key>
+			<string>Adeje</string>
+			<key>link</key>
+			<string>http://5.135.183.124/tunein/suradeje.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio TeleTaxi</string>
+			<key>logo</key>
+			<string>TeleTaxi</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radioteletaxi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcelona</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tropical</string>
+			<key>logo</key>
+			<string>Tropical</string>
+			<key>link</key>
+			<string>http://radiotropical.streaming-pro.com:8016/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bilbao (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Vallekas 107.5</string>
+			<key>logo</key>
+			<string>Vallekas</string>
+			<key>link</key>
+			<string>http://www.radiovallekas.org/emision.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock FM</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rockfmes.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rozas 107.6 FM</string>
+			<key>logo</key>
+			<string>Rozas</string>
+			<key>link</key>
+			<string>http://176.28.48.100:12800/listen.pls</string>
+			<key>http</key>
+			<string>http://2.139.144.101:8075/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTVA Radio Andalucía Información</string>
+			<key>logo</key>
+			<string>Andalucia</string>
+			<key>link</key>
+			<string>http://radioandalucia.rtva.stream.flumotion.com/rtva/radioandalucia.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Seville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTVA CanalSur Radio</string>
+			<key>logo</key>
+			<string>CanalSur</string>
+			<key>link</key>
+			<string>http://canalsurradio.rtva.stream.flumotion.com/rtva/canalsurradio_master.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Seville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTVA Canal Fiesta</string>
+			<key>logo</key>
+			<string>RTVA</string>
+			<key>link</key>
+			<string>http://canalfiestaradio.rtva.stream.flumotion.com/rtva/canalfiestaradio_master.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Seville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTVA Canal Flamenco</string>
+			<key>logo</key>
+			<string>Flamenco</string>
+			<key>link</key>
+			<string>http://canalflamenco.rtva.stream.flumotion.com/rtva/canalflamenco.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Seville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sí Ràdio</string>
+			<key>logo</key>
+			<string>Si</string>
+			<key>link</key>
+			<string>http://siradio.rtvv.stream.flumotion.com/rtvv/siradio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits (Valencia, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Son Galicia Radio</string>
+			<key>logo</key>
+			<string>Son</string>
+			<key>link</key>
+			<string>http://85.91.64.29/listen.pls?sid=3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santiago de Compostela (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spectrum FM</string>
+			<key>logo</key>
+			<string>Spectrum</string>
+			<key>link</key>
+			<string>http://eu1.reliastream.com/tunein.php/spectrum/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits (Marbella, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>STYL FM</string>
+			<key>logo</key>
+			<string>STYL</string>
+			<key>link</key>
+			<string>http://87.98.148.253:7424/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Manresa, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Talk Radio Europe</string>
+			<key>logo</key>
+			<string>Europe</string>
+			<key>link</key>
+			<string>http://s3.streammonster.com:8286/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk/Music (San Pedro, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Radio 97.2</string>
+			<key>logo</key>
+			<string>97</string>
+			<key>link</key>
+			<string>http://4603.live.streamtheworld.com:3690/TOPRADIOAAC_SC.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Torrelodones</string>
+			<key>logo</key>
+			<string>Torrelodones</string>
+			<key>link</key>
+			<string>http://176.28.48.100:11800/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Torrelodones (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trak FM</string>
+			<key>logo</key>
+			<string>Trak</string>
+			<key>link</key>
+			<string>http://91.121.77.67:8070/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Pamplona, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tropical FM Madrid</string>
+			<key>logo</key>
+			<string>Madrid</string>
+			<key>link</key>
+			<string>http://usa1.usastreams.com:8000/tropical</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uribe FM</string>
+			<key>logo</key>
+			<string>Uribe</string>
+			<key>link</key>
+			<string>http://server2.20comunicacion.com:8026/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gorliz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vaughan Radio</string>
+			<key>logo</key>
+			<string>Vaughan</string>
+			<key>link</key>
+			<string>http://vaughanradio.streaming-pro.com:8012/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vinilo FM</string>
+			<key>logo</key>
+			<string>Vinilo</string>
+			<key>link</key>
+			<string>http://streaming6.elitecomunicacion.es:2199/tunein/vinilofmapp.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies/MotorSports</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xtra FM Costa Blanca</string>
+			<key>logo</key>
+			<string>Blanca</string>
+			<key>link</key>
+			<string>http://player.xtra.fm/blanca/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xtra FM Costa Brava</string>
+			<key>logo</key>
+			<string>Brava</string>
+			<key>link</key>
+			<string>http://player.xtra.fm/brava/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yumbo FM</string>
+			<key>logo</key>
+			<string>Yumbo</string>
+			<key>link</key>
+			<string>http://yumbofm.com/yumbofm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music (Gran Canaria, Local)</string>
 		</dict>
 	</array>
 </dict>
