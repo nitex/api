@@ -7,29 +7,29 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>7577364667</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>9329553742</string>
 		<key>Banner</key>
-		<string>5321812971</string>
+		<string>8747099818</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>2325037986</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>7385792976</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
 		<string>1</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1448629956</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
 		<integer>2</integer>
 		<key>DemoMode</key>
-		<string>10</string>
+		<string>9</string>
 	</dict>
 	<key>Content</key>
 	<array>
@@ -62,6 +62,26 @@
 			<string>http://www.bna.bh/portal/tv/ch55</string>
 			<key>http</key>
 			<string>http://www.mia.gov.bh/ar/Media-Center/LiveTV-Radio/Pages/BahrainTV%E2%80%93Channel55.aspx</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LuaLua TV (قناة اللؤلؤة الفضائية)</string>
+			<key>logo</key>
+			<string>LuaLua</string>
+			<key>link</key>
+			<string>https://www.youtube.com/user/LuaLuaLive/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+			<key>http</key>
+			<string>http://lualuatv.com/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Maaref TV (قناة المعارف)</string>
+			<key>logo</key>
+			<string>Maaref</string>
+			<key>link</key>
+			<string>http://live.almaaref.tv/</string>
+			<key>http</key>
+			<string>http://almaaref.tv/</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -162,6 +182,46 @@
 			<string>http://arabic.euronews.com/live</string>
 			<key>http</key>
 			<string>http://arabic.euronews.com/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>فرانس 24 (FRANCE 24 Arabic)</string>
+			<key>logo</key>
+			<string>FRANCE</string>
+			<key>link</key>
+			<string>http://www.france24.com/ar/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/france24arabic/videos?flow=grid&amp;view=2&amp;live_view=501</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Mayadeen الميادين</string>
+			<key>logo</key>
+			<string>Mayadeen</string>
+			<key>link</key>
+			<string>http://www.almayadeen.net/live</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/Mayadeentv/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Almagharibia المغاربية‎</string>
+			<key>logo</key>
+			<string>Almagharibia</string>
+			<key>link</key>
+			<string>https://almagharibia.tv/</string>
+			<key>http</key>
+			<string>https://almagharibia.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alhurra الحرة</string>
+			<key>logo</key>
+			<string>Alhurra</string>
+			<key>link</key>
+			<string>https://www.alhurra.com/embed/player/tube/4.html</string>
+			<key>http</key>
+			<string>https://www.alhurra.com/embed/player/tube/5.html</string>
 		</dict>
 		<dict>
 			<key>name</key>
