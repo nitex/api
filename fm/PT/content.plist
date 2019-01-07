@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>5483422476</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>6413360769</string>
 		<key>Banner</key>
-		<string>5321812971</string>
+		<string>1324685613</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>3567705572</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>3184562193</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>4114500487</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>2394224702</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>4852867084</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>6915035595</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>1899400681</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>8883735147</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>8576489676</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1220492601</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1448601020</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://www.rtp.pt/play/direto/antena1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,11 +79,11 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://www.rtp.pt/play/direto/antena2</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Culture / Classical music</string>
+			<string>Culture / Classical Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://www.rtp.pt/play/direto/antena3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Africa</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://www.rtp.pt/play/direto/rdpafrica</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,11 +115,11 @@
 			<key>logo</key>
 			<string>RDP</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://www.rtp.pt/play/direto/radiolusitania</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Portuguese music</string>
+			<string>Portuguese Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -127,11 +127,11 @@
 			<key>logo</key>
 			<string>Jazzin</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://www.rtp.pt/play/direto/antena2jazzin</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>MEMORIA</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://www.rtp.pt/play/direto/antena1memoria</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>Internacional</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://www.rtp.pt/play/direto/rdpinternacional</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>VIDA</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://www.rtp.pt/play/direto/antena1vida</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>ZigZag</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://www.rtp.pt/play/zigzag/direto/radio</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>FADO</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://www.rtp.pt/play/direto/antena1fado</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,7 +199,7 @@
 			<key>logo</key>
 			<string>Acores</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://www.rtp.pt/play/direto/antena1acores</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -211,7 +211,7 @@
 			<key>logo</key>
 			<string>Madeira</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://www.rtp.pt/play/direto/antena1madeira</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -223,7 +223,7 @@
 			<key>logo</key>
 			<string>Opera</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://www.rtp.pt/play/direto/antena2opera</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -235,7 +235,451 @@
 			<key>logo</key>
 			<string>ANTENA</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://www.rtp.pt/play/direto/antena3madeira</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alvor FM</string>
+			<key>logo</key>
+			<string>Alvor</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:8469/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music (Portimao, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caria</string>
+			<key>logo</key>
+			<string>Caria</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:8521/;listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Esposende Radio</string>
+			<key>logo</key>
+			<string>Esposende</string>
+			<key>link</key>
+			<string>http://66.90.103.76:9068/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gilão FM</string>
+			<key>logo</key>
+			<string>Gilao</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:9440/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tavira (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hiper FM</string>
+			<key>logo</key>
+			<string>Hiper</string>
+			<key>link</key>
+			<string>http://109.71.41.250:8158/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Rio Maior, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://213.239.218.99:7104/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Albufeira, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mega Hits</string>
+			<key>logo</key>
+			<string>Mega</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/mega_hitsaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/mega_hits.pls</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Popular FM</string>
+			<key>logo</key>
+			<string>Popular</string>
+			<key>link</key>
+			<string>http://195.8.58.150:32281/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pinhal Novo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Brigantia</string>
+			<key>logo</key>
+			<string>Brigantia</string>
+			<key>link</key>
+			<string>http://81.92.207.145:7659/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bragança (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>F</string>
+			<key>logo</key>
+			<string>F</string>
+			<key>link</key>
+			<string>http://66.90.118.18:8054/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Guarda, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Foia</string>
+			<key>logo</key>
+			<string>Foia</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:8559/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Monchique (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Horizonte Algarve</string>
+			<key>logo</key>
+			<string>Horizonte</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:9458/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tavira (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lagoa</string>
+			<key>logo</key>
+			<string>Lagoa</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:9488/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Miradouro</string>
+			<key>logo</key>
+			<string>Miradouro</string>
+			<key>link</key>
+			<string>http://radio.miradouro.pt:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Madeira (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Planície</string>
+			<key>logo</key>
+			<string>Planicie</string>
+			<key>link</key>
+			<string>http://109.71.41.250:8024/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Moura (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RCL (Clube da Lourinhã) - 99FM</string>
+			<key>logo</key>
+			<string>RCL</string>
+			<key>link</key>
+			<string>http://cast.redeiw.com:2199/tunein/nunoreis.pls</string>
+			<key>http</key>
+			<string>http://cast.redeiw.com:2199/tunein/nunoreis.qtl</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Renascença</string>
+			<key>logo</key>
+			<string>Renascenca</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCAaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM</string>
+			<key>logo</key>
+			<string>RFM</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/rfmaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/rfm.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM 80s</string>
+			<key>logo</key>
+			<string>80s</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/gr80srfmaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/gr80srfm.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM Oceano Pacífico</string>
+			<key>logo</key>
+			<string>Oceano</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/OCEANPACIFICaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/OCEANPACIFIC.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM Clubbing</string>
+			<key>logo</key>
+			<string>Clubbing</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/RFMCLUBBINGaac.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/RFMCLUBBING.pls</string>
+			<key>note</key>
+			<string>Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ribatejo</string>
+			<key>logo</key>
+			<string>Ribatejo</string>
+			<key>link</key>
+			<string>http://66.90.118.18:8116/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Azambuja, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RVE (Voz de Esmoriz)</string>
+			<key>logo</key>
+			<string>RVE</string>
+			<key>link</key>
+			<string>http://radios.dotsi.pt:2199/tunein/sc_rvesm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sagres FM</string>
+			<key>logo</key>
+			<string>Sagres</string>
+			<key>link</key>
+			<string>http://www.sagresfm.pt:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Lagos, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sim</string>
+			<key>logo</key>
+			<string>Sim</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/radio_simaac.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/Information</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sines</string>
+			<key>logo</key>
+			<string>Sines</string>
+			<key>link</key>
+			<string>http://www.smartsp.com/radiosines.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Singa FM</string>
+			<key>logo</key>
+			<string>Singa</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:8487/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ferreira do Alentejo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Terra Quente FM</string>
+			<key>logo</key>
+			<string>Terra</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:9402/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mirandela (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TerraNova</string>
+			<key>logo</key>
+			<string>TerraNova</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:9404/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gafanha da Nazaré (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TLA Rádio</string>
+			<key>logo</key>
+			<string>TLA</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:8545/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aljustrel (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Total FM</string>
+			<key>logo</key>
+			<string>Total</string>
+			<key>link</key>
+			<string>http://www.totalfm.pt:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Loulé, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TSF Nacional</string>
+			<key>logo</key>
+			<string>TSF</string>
+			<key>link</key>
+			<string>http://tsf.pt/emdirecto.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidade de Coimbra (RUC)</string>
+			<key>logo</key>
+			<string>Coimbra</string>
+			<key>link</key>
+			<string>http://www.ruc.pt/listen-hi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidade FM</string>
+			<key>logo</key>
+			<string>Universidade</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:8405/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Vila Real (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universitária do Algarve (RUA)</string>
+			<key>logo</key>
+			<string>Algarve</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:9536/index.html?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Faro (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urbana</string>
+			<key>logo</key>
+			<string>Urbana</string>
+			<key>link</key>
+			<string>http://213.136.92.8:2199/tunein/urbana.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Castelo Branco (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vidigueira</string>
+			<key>logo</key>
+			<string>Vidigueira</string>
+			<key>link</key>
+			<string>http://centova.radios.pt:8567/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
