@@ -524,16 +524,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Київ TV</string>
-		<key>logo</key>
-		<string>kyiv</string>
-		<key>link</key>
-		<string>http://kievtv.com.ua/</string>
-		<key>http</key>
-		<string>http://kievtv.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>ТРК Круг</string>
 		<key>logo</key>
 		<string>krug</string>
@@ -861,6 +851,16 @@
 		<string>https://www.uadonbas.com/live</string>
 		<key>http</key>
 		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Волинь</string>
+		<key>logo</key>
+		<string>UA8</string>
+		<key>link</key>
+		<string>https://vo.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://vo.suspilne.media</string>
 	</dict>
 </array>
 </plist>
