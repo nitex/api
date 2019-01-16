@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>2299715734</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>8428465223</string>
 		<key>Banner</key>
-		<string>5321812971</string>
+		<string>5610730196</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>5930294395</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>7051804372</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>1799477694</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>1607906009</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>7175749841</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>7827374586</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>7168899031</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>2537844295</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>1288341806</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1225230746</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1449202937</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -67,9 +67,9 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://icecast.omroep.nl/radio1-sb-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio1-bb-mp3.m3u</string>
 			<key>note</key>
 			<string>News / Feature programmes</string>
 		</dict>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>Nieuws24</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://icecast.omroep.nl/nieuws24-sb-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/nieuws24-bb-mp3.m3u</string>
 			<key>note</key>
 			<string>News</string>
 		</dict>
@@ -91,9 +91,9 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://icecast.omroep.nl/radio2-sb-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio2-bb-mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -103,9 +103,9 @@
 			<key>logo</key>
 			<string>2000</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://icecast.omroep.nl/radio2-top2000-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio2-top2000-aac.m3u</string>
 			<key>note</key>
 			<string>Oldies</string>
 		</dict>
@@ -115,11 +115,11 @@
 			<key>logo</key>
 			<string>Liedkunst</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://icecast.omroep.nl/radio2-liedkunst-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio2-liedkunst-aac.m3u</string>
 			<key>note</key>
-			<string>Comedy / Dutch music</string>
+			<string>Comedy / Dutch Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -127,11 +127,11 @@
 			<key>logo</key>
 			<string>In</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://icecast.omroep.nl/radio2-inconcert-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio2-inconcert-aac.m3u</string>
 			<key>note</key>
-			<string>Live music</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,11 +139,11 @@
 			<key>logo</key>
 			<string>3FM</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://icecast.omroep.nl/3fm-sb-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/3fm-bb-mp3.m3u</string>
 			<key>note</key>
-			<string>Top 30</string>
+			<string>Top 40</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -151,11 +151,11 @@
 			<key>logo</key>
 			<string>Serious</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://icecast.omroep.nl/3fm-serioustalent-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/3fm-serioustalent-aac.m3u</string>
 			<key>note</key>
-			<string>New music</string>
+			<string>New Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,11 +163,11 @@
 			<key>logo</key>
 			<string>Alternative</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://icecast.omroep.nl/3fm-alternative-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/3fm-alternative-aac.m3u</string>
 			<key>note</key>
-			<string>Alternative music</string>
+			<string>Alternative Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -175,11 +175,11 @@
 			<key>logo</key>
 			<string>On</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://icecast.omroep.nl/3fm-live-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/3fm-live-aac.m3u</string>
 			<key>note</key>
-			<string>Live music</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,11 +187,11 @@
 			<key>logo</key>
 			<string>4</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://icecast.omroep.nl/radio4-sb-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio4-bb-mp3.m3u</string>
 			<key>note</key>
-			<string>Classical music</string>
+			<string>Classical Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>Musicareligiosa</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://icecast.omroep.nl/radio4-musicareligiosa-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio4-musicareligiosa-aac.m3u</string>
 			<key>note</key>
 			<string>Religious classical</string>
 		</dict>
@@ -211,9 +211,9 @@
 			<key>logo</key>
 			<string>Eigentijds</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://icecast.omroep.nl/radio4-eigentijds-mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.omroep.nl/radio4-eigentijds-aac.m3u</string>
 			<key>note</key>
 			<string>Contemporary classical</string>
 		</dict>
@@ -221,13 +221,1057 @@
 			<key>name</key>
 			<string>NPO Radio 4 Jong Klassiek</string>
 			<key>logo</key>
+			<string>Klassiek</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-jongklassiek-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio4-jongklassiek-aac.m3u</string>
+			<key>note</key>
+			<string>Classical Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 5</string>
+			<key>logo</key>
+			<string>5</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio5-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 5 Nostalgia</string>
+			<key>logo</key>
+			<string>Nostalgia</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-nostalgia-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio5-nostalgia-aac.m3u</string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6</string>
+			<key>logo</key>
+			<string>6</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-sb-aac.m3u</string>
+			<key>note</key>
+			<string>World/Music/Culture</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6 Blues</string>
+			<key>logo</key>
+			<string>Blues</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-blues-bb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-blues-bb-aac.m3u</string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6 Jazz</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-jazz-bb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-jazz-bb-aac.m3u</string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6 Jazz Jong</string>
+			<key>logo</key>
 			<string>Jong</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://icecast.omroep.nl/radio6-jazzjong-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-jazzjong-aac.m3u</string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6 World</string>
+			<key>logo</key>
+			<string>World</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-world-bb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-world-bb-aac.m3u</string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6 Grooves</string>
+			<key>logo</key>
+			<string>Grooves</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-grooves-bb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-grooves-bb-aac.m3u</string>
+			<key>note</key>
+			<string>Funk/Soul Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6 Outer Limits</string>
+			<key>logo</key>
+			<string>Outer</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-outerlimits-bb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-outerlimits-bb-mp3.m3u</string>
+			<key>note</key>
+			<string>Experimental/Electronic Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NPO Radio 6 Zwarte Lijst</string>
+			<key>logo</key>
+			<string>Zwarte</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-zwartelijst-bb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/radio6-zwartelijst-bb-aac.m3u</string>
+			<key>note</key>
+			<string>Jazz/Soul Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>100%NL</string>
+			<key>logo</key>
+			<string>100</string>
+			<key>link</key>
+			<string>http://www.100p.nl/media/audio/100pnl.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Classical music</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>A28FM</string>
+			<key>logo</key>
+			<string>A28FM</string>
+			<key>link</key>
+			<string>http://www.a28fm.nl/listen/a28fm.m3u</string>
+			<key>http</key>
+			<string>http://www.a28fm.nl/listen/a28fm.pls</string>
+			<key>note</key>
+			<string>Top 40 (Staphorst, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aalburg FM</string>
+			<key>logo</key>
+			<string>Aalburg</string>
+			<key>link</key>
+			<string>http://stream01.goed-is.com/tunein.php/fdegroot/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AB Radio</string>
+			<key>logo</key>
+			<string>AB</string>
+			<key>link</key>
+			<string>http://stream.click2.nl:8058/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bloemendaal (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Achterhoek FM</string>
+			<key>logo</key>
+			<string>Achterhoek</string>
+			<key>link</key>
+			<string>http://icecast.streamone.nl/h7MniPPz5a.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lochem (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Airplay Radio</string>
+			<key>logo</key>
+			<string>Airplay</string>
+			<key>link</key>
+			<string>http://www.airplayradio.nl/64k.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wijhe (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Albrandswaard FM</string>
+			<key>logo</key>
+			<string>Albrandswaard</string>
+			<key>link</key>
+			<string>http://159.253.131.114:8512/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alphen Stad FM</string>
+			<key>logo</key>
+			<string>Stad</string>
+			<key>link</key>
+			<string>http://www.alphenstadfm.nl/webplayer/listen.pls</string>
+			<key>http</key>
+			<string>http://icecast.streamone.net/6LJFmKMSLY4S</string>
+			<key>note</key>
+			<string>Alphen a/d Rijn (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Amor FM</string>
+			<key>logo</key>
+			<string>Amor</string>
+			<key>link</key>
+			<string>http://www.amorfm.eu/webradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rotterdam (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arrow Classic Rock</string>
+			<key>logo</key>
+			<string>Arrow</string>
+			<key>link</key>
+			<string>http://www.arrow.nl/streams/Rock128kmp3.pls</string>
+			<key>http</key>
+			<string>http://www.arrow.nl/streams/Rock96kaac.pls</string>
+			<key>note</key>
+			<string>Rock Music (Hague, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arrow Caz!</string>
+			<key>logo</key>
+			<string>Caz</string>
+			<key>link</key>
+			<string>http://www.arrowcaz.nl/streams/Caz128kmp3.pls</string>
+			<key>http</key>
+			<string>http://www.arrowcaz.nl/streams/Caz96kaac.pls</string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Assen FM</string>
+			<key>logo</key>
+			<string>Assen</string>
+			<key>link</key>
+			<string>http://icecast-origin.streamonecloud.net/zzg4KbMA8ERA.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atalanta FM</string>
+			<key>logo</key>
+			<string>Atalanta</string>
+			<key>link</key>
+			<string>http://live.atalantafm.nl:6074/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Sneek, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO De Klassieken</string>
+			<key>logo</key>
+			<string>AVRO</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-klassieken-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Baroque around the Clock</string>
+			<key>logo</key>
+			<string>Baroque</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-baroque-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical Music (Hilversum, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Film</string>
+			<key>logo</key>
+			<string>Film</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio4-film-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical Music (Hilversum, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Toppers van Toen</string>
+			<key>logo</key>
+			<string>Toppers</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-toppersvantoen-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>30s/40s/50s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Steenen Tijdperk Fifties</string>
+			<key>logo</key>
+			<string>Tijdperk</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-stfifties-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>50s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Steenen Tijdperk Sixties</string>
+			<key>logo</key>
+			<string>Sixties</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio5-stsixties-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>60s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Back to the Old School</string>
+			<key>logo</key>
+			<string>School</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-oldschool-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Easy Listening</string>
+			<key>logo</key>
+			<string>Listening</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio6-easylistening-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AVRO Puur</string>
+			<key>logo</key>
+			<string>Puur</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/radio2-puuravro-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop, Jazz Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Avulo FM</string>
+			<key>logo</key>
+			<string>Avulo</string>
+			<key>link</key>
+			<string>http://www.power1054.nl/2009/stream.m3u</string>
+			<key>http</key>
+			<string>http://icecast.streamone.net/iyRENaqTeAU0</string>
+			<key>note</key>
+			<string>Vught (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat FM</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://radioheiloo.no-ip.info:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classic (Heiloo, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Berkelland FM</string>
+			<key>logo</key>
+			<string>Berkelland</string>
+			<key>link</key>
+			<string>http://176.31.226.73:8772/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Eibergen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Berkelstroom FM</string>
+			<key>logo</key>
+			<string>Berkelstroom</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bfm_nl.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zutphen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bingo FM</string>
+			<key>logo</key>
+			<string>Bingo</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/bingofm.m3u</string>
+			<key>http</key>
+			<string>https://media.rtvutrecht.nl/bingofm-sb-mp3</string>
+			<key>note</key>
+			<string>Utrecht (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BNN FM</string>
+			<key>logo</key>
+			<string>BNN</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/3fm-bnnfm-bb-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music (Hilversum, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bollenstreek Omroep</string>
+			<key>logo</key>
+			<string>Bollenstreek</string>
+			<key>link</key>
+			<string>http://stream.bollenstreekomroep.nl/live-mp3-128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Noordwijk (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boschtion FM</string>
+			<key>logo</key>
+			<string>Boschtion</string>
+			<key>link</key>
+			<string>http://server-10.stream-server.nl:8132/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Den Bosch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bright FM</string>
+			<key>logo</key>
+			<string>Bright</string>
+			<key>link</key>
+			<string>http://www.bright.fm/radiostream/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Arnhem (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BNR Nieuwsradio</string>
+			<key>logo</key>
+			<string>BNR</string>
+			<key>link</key>
+			<string>http://icecast-bnr.cdp.triple-it.nl/bnr_mp3_96_06.m3u</string>
+			<key>http</key>
+			<string>http://icecast-bnr.cdp.triple-it.nl/bnr_aac_32_04.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Candlelight</string>
+			<key>logo</key>
+			<string>Candlelight</string>
+			<key>link</key>
+			<string>http://candlelight.live-streams.nl/candlelight.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic FM</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/classicfm.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/classicfmaac.pls</string>
+			<key>note</key>
+			<string>Naarden (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Compleet FM</string>
+			<key>logo</key>
+			<string>Compleet</string>
+			<key>link</key>
+			<string>http://www.compleetfm.nl/content/16271/download/clnt/32629_wa_128kbps.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Noord-Scharwoude (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender</string>
+			<key>logo</key>
+			<string>Concertzender</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical/Jazz Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Wereldmuziek</string>
+			<key>logo</key>
+			<string>Wereldmuziek</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/wereldmuziek.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Jazz</string>
+			<key>logo</key>
+			<string>Concert</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/jazz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Nieuwe Muziek</string>
+			<key>logo</key>
+			<string>Muziek</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/nieuwemuziek.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Oude Muziek</string>
+			<key>logo</key>
+			<string>Oude</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/oudemuziek.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Klassieke Muziek</string>
+			<key>logo</key>
+			<string>Klassieke</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/klassiek.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender De Gehoorde Stilte</string>
+			<key>logo</key>
+			<string>Gehoorde</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/gehoordestilte.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender November Music</string>
+			<key>logo</key>
+			<string>November</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/novembermusic.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Folk it!</string>
+			<key>logo</key>
+			<string>Folk</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/folkit.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Hard Bop</string>
+			<key>logo</key>
+			<string>Bop</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/hardbop.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Gregoriaans</string>
+			<key>logo</key>
+			<string>Gregoriaans</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/gregoriaans.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Raakvlakken</string>
+			<key>logo</key>
+			<string>Raakvlakken</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/raakvlakken.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Pop</string>
+			<key>logo</key>
+			<string>Pop</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/pop.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz, Folk, Alternative Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Concertzender Young Professionals</string>
+			<key>logo</key>
+			<string>Professionals</string>
+			<key>link</key>
+			<string>http://streams.greenhost.nl:8080/youngprofessionals.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hilversum (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deep FM</string>
+			<key>logo</key>
+			<string>Deep</string>
+			<key>link</key>
+			<string>http://luister.deep.fm/deepfm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Delta FM</string>
+			<key>logo</key>
+			<string>Delta</string>
+			<key>link</key>
+			<string>http://stream1.icehosting.nl:8120/listen.pls</string>
+			<key>http</key>
+			<string>http://stream.deltafm.nl:8123/listen.pls</string>
+			<key>note</key>
+			<string>Vroomshoop (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deltapiraat</string>
+			<key>logo</key>
+			<string>Deltapiraat</string>
+			<key>link</key>
+			<string>http://stream1.icehosting.nl:8122/listen.pls</string>
+			<key>http</key>
+			<string>http://stream.deltafm.nl:8125/listen.pls</string>
+			<key>note</key>
+			<string>Twenterand (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dollard Radio</string>
+			<key>logo</key>
+			<string>Dollard</string>
+			<key>link</key>
+			<string>http://server2.streamcontrol.eu:20092/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Winschoten (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Double Z Radio</string>
+			<key>logo</key>
+			<string>Double</string>
+			<key>link</key>
+			<string>http://81.23.249.40:8004/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internetpiraten.com/luisteren/streams/listen192.pls</string>
+			<key>note</key>
+			<string>Valkenswaard (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Drechtstad FM</string>
+			<key>logo</key>
+			<string>Drechtstad</string>
+			<key>link</key>
+			<string>http://icecast.streamone.nl/Fn9q2LifS1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dordrecht (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ede FM</string>
+			<key>logo</key>
+			<string>Ede</string>
+			<key>link</key>
+			<string>http://89.105.200.190:8032/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Enschede FM</string>
+			<key>logo</key>
+			<string>Enschede</string>
+			<key>link</key>
+			<string>http://stream1.icehosting.nl:8126/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Extra FM</string>
+			<key>logo</key>
+			<string>Extra</string>
+			<key>link</key>
+			<string>http://217.172.190.185:8078/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Beneden-Leeuwen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Favoriet FM</string>
+			<key>logo</key>
+			<string>Favoriet</string>
+			<key>link</key>
+			<string>http://5.39.94.126:8170/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zevenaar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Feel Good Radio</string>
+			<key>logo</key>
+			<string>Feel</string>
+			<key>link</key>
+			<string>http://feelgoodradio.nl/stream.php?port=8344&amp;ext=pls</string>
+			<key>http</key>
+			<string>http://live.feelgoodradio.eu:8344/stream</string>
+			<key>note</key>
+			<string>Rijswijk (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Freez FM</string>
+			<key>logo</key>
+			<string>Freez</string>
+			<key>link</key>
+			<string>http://178.19.127.9/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music (Sneek, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fresh FM</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://streams.fresh.fm:8100/listen.pls</string>
+			<key>http</key>
+			<string>http://www.fresh.fm/media/audio/ListenHigh.pls</string>
+			<key>note</key>
+			<string>Dance (Zoetermeer)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX NL</string>
+			<key>logo</key>
+			<string>FunX</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop Music (Rotterdam, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Rotterdam</string>
+			<key>logo</key>
+			<string>Rotterdam</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-rotterdam-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-rotterdam-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Amsterdam</string>
+			<key>logo</key>
+			<string>Amsterdam</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-amsterdam-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-amsterdam-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Utrecht</string>
+			<key>logo</key>
+			<string>Utrecht</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-utrecht-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-utrecht-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Den Haag</string>
+			<key>logo</key>
+			<string>Haag</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-denhaag-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-denhaag-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop Music (Hague, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Slow Jamz</string>
+			<key>logo</key>
+			<string>Jamz</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-slowjamz-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-slowjamz-sb-aac.m3u</string>
+			<key>note</key>
+			<string>RnB/HipHop Music (Rotterdam, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Reggae</string>
+			<key>logo</key>
+			<string>Reggae</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-reggae-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-reggae-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-dance-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-dance-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Arab</string>
+			<key>logo</key>
+			<string>Arab</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-arab-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-arab-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FunX Latin</string>
+			<key>logo</key>
+			<string>Latin</string>
+			<key>link</key>
+			<string>http://icecast.omroep.nl/funx-latin-sb-mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast.omroep.nl/funx-latin-sb-aac.m3u</string>
+			<key>note</key>
+			<string>Rotterdam (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gelre FM Oost Gelre</string>
+			<key>logo</key>
+			<string>Gelre</string>
+			<key>link</key>
+			<string>http://www.gelre.fm/stream/live.php?editie=oostgelre&amp;type=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Groenlo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gelre FM Doetinchem</string>
+			<key>logo</key>
+			<string>Doetinchem</string>
+			<key>link</key>
+			<string>http://www.gelre.fm/stream/live.php?editie=doetinchem&amp;type=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gelre FM Aalten</string>
+			<key>logo</key>
+			<string>Aalten</string>
+			<key>link</key>
+			<string>http://www.gelre.fm/stream/live.php?editie=aalten&amp;type=pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gigant FM</string>
+			<key>logo</key>
+			<string>Gigant</string>
+			<key>link</key>
+			<string>http://gigantfm.ic-stream.nl:7204/listen.pls</string>
+			<key>http</key>
+			<string>https://www.gigantfm.nl/listen/listen.pls</string>
+			<key>note</key>
+			<string>Erica (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Glow FM</string>
+			<key>logo</key>
+			<string>Glow</string>
+			<key>link</key>
+			<string>http://www.glowfm.nl/player/glowfm.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Geldrop (Local)</string>
 		</dict>
 	</array>
 </dict>

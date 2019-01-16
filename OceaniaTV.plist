@@ -7,41 +7,65 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>1818501441</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>3869949716</string>
 		<key>Banner</key>
-		<string>5321812971</string>
+		<string>1611274428</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>1052214680</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>1982152979</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
 		<string>1</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1449005629</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
 		<integer>2</integer>
 		<key>DemoMode</key>
-		<string>10</string>
+		<string>9</string>
 	</dict>
 	<key>Content</key>
 	<array>
+		<dict>
+			<key>name</key>
+			<string>Australia</string>
+			<key>logo</key>
+			<string>Australia</string>
+			<key>link</key>
+			<string>1176476751</string>
+			<key>http</key>
+			<string>1176476751</string>
+			<key>country</key>
+			<string>This country is available in the separate app. Tap to open</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>A-PAC</string>
+			<key>logo</key>
+			<string>a-pac</string>
+			<key>link</key>
+			<string>http://www.a-pac.tv/</string>
+			<key>http</key>
+			<string>http://www.a-pac.tv/</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>ABC 24</string>
 			<key>logo</key>
 			<string>abc</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.abc.net.au/news/abcnews24/</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01091.mp4</string>
+			<string>https://www.youtube.com/user/NewsOnABC/videos?view=2&amp;flow=list</string>
 			<key>country</key>
 			<string>Australia</string>
 		</dict>
@@ -51,9 +75,45 @@
 			<key>logo</key>
 			<string>Sky</string>
 			<key>link</key>
-			<string></string>
+			<string>https://news.sky.com/watch-live</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/sky.mp4</string>
+			<string>https://www.youtube.com/user/skynews/videos?flow=list&amp;view=2</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MNTV Australia</string>
+			<key>logo</key>
+			<string>mntv</string>
+			<key>link</key>
+			<string>http://mntv.com.au/portal/?page_id=895</string>
+			<key>http</key>
+			<string>http://mntv.com.au/</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>INTV</string>
+			<key>logo</key>
+			<string>intvau</string>
+			<key>link</key>
+			<string>http://www.intvau.com/#</string>
+			<key>http</key>
+			<string>http://www.intvau.com/#</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVSN</string>
+			<key>logo</key>
+			<string>tvsn</string>
+			<key>link</key>
+			<string>https://www.itvsn.com.au/itvsn/streaming/watch_tvsn.html</string>
+			<key>http</key>
+			<string>https://www.itvsn.com.au/</string>
 			<key>country</key>
 			<string>Australia</string>
 		</dict>
@@ -63,9 +123,21 @@
 			<key>logo</key>
 			<string>bloomberg</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.bloomberg.com/live/australia</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/bloomberg.mp4</string>
+			<string>https://www.bloomberg.com/live</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TV2</string>
+			<key>logo</key>
+			<string>TV2</string>
+			<key>link</key>
+			<string>http://www.tv2.com.au/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/channel/UCO7e_DD3X2ZqOyp4DCFgEXQ/videos?flow=grid&amp;view=2&amp;live_view=501</string>
 			<key>country</key>
 			<string>Australia</string>
 		</dict>
@@ -75,11 +147,59 @@
 			<key>logo</key>
 			<string>New</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.youtube.com/user/NewsOnABC/videos?view=2&amp;live_view=501&amp;flow=grid</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01092.mp4</string>
+			<string>http://www.abc.net.au/tv/</string>
 			<key>country</key>
 			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WTV</string>
+			<key>logo</key>
+			<string>WTV</string>
+			<key>link</key>
+			<string>http://wtvperth.com.au/watch-live-tv/</string>
+			<key>http</key>
+			<string>http://wtvperth.com.au/</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>44</string>
+			<key>logo</key>
+			<string>44</string>
+			<key>link</key>
+			<string>http://www.c44.com.au/live-streams</string>
+			<key>http</key>
+			<string>http://www.c44.com.au</string>
+			<key>country</key>
+			<string>Australia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiji 1</string>
+			<key>logo</key>
+			<string>Fiji1</string>
+			<key>link</key>
+			<string>https://new.fijione.tv/live-tv/</string>
+			<key>http</key>
+			<string>https://new.fijione.tv</string>
+			<key>country</key>
+			<string>Fiji</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TNTV Tahiti Nui</string>
+			<key>logo</key>
+			<string>Nui</string>
+			<key>link</key>
+			<string>https://www.tntv.pf/LIVE-Le-ve-a-et-le-journal-en-direct_a17290.html</string>
+			<key>http</key>
+			<string>https://www.tntv.pf</string>
+			<key>country</key>
+			<string>Polynésie française (French Polynesia)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -87,11 +207,47 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string></string>
+			<string>https://la1ere.francetvinfo.fr/polynesie/tv/direct</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01093.mp4</string>
+			<string>https://la1ere.francetvinfo.fr/polynesie/</string>
 			<key>country</key>
 			<string>Polynésie française (French Polynesia)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PNC News</string>
+			<key>logo</key>
+			<string>PNC</string>
+			<key>link</key>
+			<string>http://pacificnewscenter.com/livestream/</string>
+			<key>http</key>
+			<string>http://pacificnewscenter.com</string>
+			<key>country</key>
+			<string>Guam</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>New Zealand</string>
+			<key>logo</key>
+			<string>Zealand</string>
+			<key>link</key>
+			<string>1176478666</string>
+			<key>http</key>
+			<string>1176478666</string>
+			<key>country</key>
+			<string>This country is available in the separate app. Tap to open</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>News Hub Online</string>
+			<key>logo</key>
+			<string>hub</string>
+			<key>link</key>
+			<string>http://www.radiolive.co.nz/ListenOnline.aspx?ref=Newshub</string>
+			<key>http</key>
+			<string>http://www.newshub.co.nz/</string>
+			<key>country</key>
+			<string>New Zealand</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -99,9 +255,9 @@
 			<key>logo</key>
 			<string>breakfast</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-breakfast-q15155.html</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01094.mp4</string>
+			<string>https://www.tvnz.co.nz</string>
 			<key>country</key>
 			<string>New Zealand</string>
 		</dict>
@@ -111,9 +267,9 @@
 			<key>logo</key>
 			<string>midday</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-one-news-at-midday-q00051.html</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01095.mp4</string>
+			<string>https://www.tvnz.co.nz</string>
 			<key>country</key>
 			<string>New Zealand</string>
 		</dict>
@@ -123,9 +279,9 @@
 			<key>logo</key>
 			<string>six</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-one-news-at-six-q01667.html</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01096.mp4</string>
+			<string>https://www.tvnz.co.nz</string>
 			<key>country</key>
 			<string>New Zealand</string>
 		</dict>
@@ -135,11 +291,23 @@
 			<key>logo</key>
 			<string>tonight</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.tvnz.co.nz/one-news/new-zealand/live-stream-one-news-tonight-q01253.html</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01097.mp4</string>
+			<string>https://www.tvnz.co.nz</string>
 			<key>country</key>
 			<string>New Zealand</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EMTV</string>
+			<key>logo</key>
+			<string>EMTV</string>
+			<key>link</key>
+			<string>http://www.emtv.com.pg/streaming/</string>
+			<key>http</key>
+			<string>http://www.emtv.com.pg</string>
+			<key>country</key>
+			<string>Papua New Guinea</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -147,9 +315,9 @@
 			<key>logo</key>
 			<string>Tonga1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.tonga-broadcasting.net/?page_id=26</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01098.mp4</string>
+			<string>http://www.tonga-broadcasting.net</string>
 			<key>country</key>
 			<string>Tonga</string>
 		</dict>
@@ -159,9 +327,9 @@
 			<key>logo</key>
 			<string>Tonga2</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.tonga-broadcasting.net/?page_id=35</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/01099.mp4</string>
+			<string>http://www.tonga-broadcasting.net</string>
 			<key>country</key>
 			<string>Tonga</string>
 		</dict>
