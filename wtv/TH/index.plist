@@ -224,16 +224,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Money Channel</string>
-		<key>logo</key>
-		<string>Money</string>
-		<key>link</key>
-		<string>http://www.moneychannel.co.th/live/</string>
-		<key>http</key>
-		<string>http://www.moneychannel.co.th</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Parliament โทรทัศน์รัฐสภา</string>
 		<key>logo</key>
 		<string>Parliament</string>
@@ -244,13 +234,23 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>PPTV</string>
+		<string>PPTV HD36</string>
 		<key>logo</key>
 		<string>PPTV</string>
 		<key>link</key>
-		<string>https://www.pptvhd36.com/live</string>
+		<string>https://www.pptvhd36.com/live#live1</string>
 		<key>http</key>
+		<string>https://www.pptvhd36.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PPTV Gold</string>
+		<key>logo</key>
+		<string>Gold</string>
+		<key>link</key>
 		<string>https://www.pptvhd36.com/live#live2</string>
+		<key>http</key>
+		<string>https://www.pptvhd36.com/live</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -261,26 +261,6 @@
 		<string>http://workpointtv.com/live</string>
 		<key>http</key>
 		<string>http://workpointtv.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>M Channel</string>
-		<key>logo</key>
-		<string>M</string>
-		<key>link</key>
-		<string>http://www.m-channel.com/live.html</string>
-		<key>http</key>
-		<string>http://www.m-channel.com</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>@TV แอททีวี (ATTV)</string>
-		<key>logo</key>
-		<string>ATTV</string>
-		<key>link</key>
-		<string>http://www.attvthai.com/</string>
-		<key>http</key>
-		<string>http://www.attvthai.com/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -304,16 +284,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Hi Sport</string>
-		<key>logo</key>
-		<string>Hi</string>
-		<key>link</key>
-		<string>http://www.hicabletv.com/</string>
-		<key>http</key>
-		<string>http://www.hicabletv.com/fb.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Amarin อมรินทร์ทีวี</string>
 		<key>logo</key>
 		<string>Amarin</string>
@@ -321,56 +291,6 @@
 		<string>http://www.amarintv.com/live-tv/</string>
 		<key>http</key>
 		<string>http://www.amarintv.com</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Thai Visions</string>
-		<key>logo</key>
-		<string>Visions</string>
-		<key>link</key>
-		<string>http://www.abtv.co.th/live.php?id=2</string>
-		<key>http</key>
-		<string>http://www.abtv.co.th/abtv_live.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Good</string>
-		<key>logo</key>
-		<string>Good</string>
-		<key>link</key>
-		<string>http://www.abtv.co.th/live.php?id=3</string>
-		<key>http</key>
-		<string>http://www.abtv.co.th/abtv_live.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>JJ Channel</string>
-		<key>logo</key>
-		<string>JJ</string>
-		<key>link</key>
-		<string>http://www.abtv.co.th/live.php?id=5</string>
-		<key>http</key>
-		<string>http://www.abtv.co.th/abtv_live.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Maxagro</string>
-		<key>logo</key>
-		<string>Maxagro</string>
-		<key>link</key>
-		<string>http://www.abtv.co.th/live.php?id=6</string>
-		<key>http</key>
-		<string>http://www.abtv.co.th/abtv_live.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Good Living</string>
-		<key>logo</key>
-		<string>Living</string>
-		<key>link</key>
-		<string>http://www.abtv.co.th/live.php?id=9</string>
-		<key>http</key>
-		<string>http://www.abtv.co.th/abtv_live.php</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -474,31 +394,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>TV Muslim Thailand</string>
-		<key>logo</key>
-		<string>Muslim</string>
-		<key>link</key>
-		<string>http://tvmuslim.org/</string>
-		<key>http</key>
-		<string>http://tvmuslim.org/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>KCTV KC1</string>
 		<key>logo</key>
 		<string>KC1</string>
 		<key>link</key>
 		<string>http://www.kctv.co.th/kclive_1.html</string>
-		<key>http</key>
-		<string>http://www.kctv.co.th/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>KCTV Cable News</string>
-		<key>logo</key>
-		<string>Cable</string>
-		<key>link</key>
-		<string>http://www.kctv.co.th/cablelive_1.html</string>
 		<key>http</key>
 		<string>http://www.kctv.co.th/</string>
 	</dict>
@@ -554,16 +454,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>1TV Thailand</string>
-		<key>logo</key>
-		<string>1</string>
-		<key>link</key>
-		<string>http://www.1tvthailand.com/</string>
-		<key>http</key>
-		<string>http://www.1tvthailand.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>NBTV</string>
 		<key>logo</key>
 		<string>NBTV</string>
@@ -594,26 +484,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>DDTV</string>
-		<key>logo</key>
-		<string>DDTV</string>
-		<key>link</key>
-		<string>http://www.8875fm.com/live.php</string>
-		<key>http</key>
-		<string>http://www.8875fm.com/index.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>World Buddhism WBTV</string>
-		<key>logo</key>
-		<string>Buddhism</string>
-		<key>link</key>
-		<string>http://www.wbtvonline.com/live.php</string>
-		<key>http</key>
-		<string>http://www.wbtvonline.com</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Boonniyom (บุญนิยม ทีวี)</string>
 		<key>logo</key>
 		<string>Boonniyom</string>
@@ -621,16 +491,6 @@
 		<string>http://www.boonniyom.tv/</string>
 		<key>http</key>
 		<string>http://www.boonniyom.tv/hd.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>SBB</string>
-		<key>logo</key>
-		<string>SBB</string>
-		<key>link</key>
-		<string>http://www.sbbtv999.tv/tvonline/</string>
-		<key>http</key>
-		<string>http://www.sbbtv999.tv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -644,21 +504,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Chokdee</string>
-		<key>logo</key>
-		<string>Chokdee</string>
-		<key>link</key>
-		<string>http://www.chokdeetv.com/</string>
-		<key>http</key>
-		<string>http://www.chokdeetv.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>White Channel</string>
 		<key>logo</key>
 		<string>White</string>
 		<key>link</key>
-		<string>http://whitechannel.tv/rerun/</string>
+		<string>http://live.whitechannel.tv/</string>
 		<key>http</key>
 		<string>http://whitechannel.tv/</string>
 	</dict>
@@ -671,6 +521,16 @@
 		<string>http://yateemtv.muslimthai.com/</string>
 		<key>http</key>
 		<string>http://yateemtv.muslimthai.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TV Muslim Thailand</string>
+		<key>logo</key>
+		<string>Muslim</string>
+		<key>link</key>
+		<string>http://tvmuslim.org/</string>
+		<key>http</key>
+		<string>http://tvmuslim.org/</string>
 	</dict>
 	<dict>
 		<key>name</key>
