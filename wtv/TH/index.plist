@@ -4,16 +4,6 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>TV5</string>
-		<key>logo</key>
-		<string>TV5</string>
-		<key>link</key>
-		<string>http://app.tv5.co.th/</string>
-		<key>http</key>
-		<string>http://www.tv5.co.th/firstpage/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>BBTV 7</string>
 		<key>logo</key>
 		<string>BBTV</string>
@@ -34,13 +24,23 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>True4U (ทรูโฟร์ยู)</string>
+		<key>logo</key>
+		<string>True4U</string>
+		<key>link</key>
+		<string>http://true4u.truelife.com/</string>
+		<key>http</key>
+		<string>http://true4u.truelife.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>NBT</string>
 		<key>logo</key>
 		<string>NBT</string>
 		<key>link</key>
-		<string>http://thainews.prd.go.th/website_en/live/index</string>
+		<string>http://thainews.prd.go.th</string>
 		<key>http</key>
-		<string>http://www.prd.go.th/main.php?filename=Prd_tv</string>
+		<string>http://thainews.prd.go.th</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -48,9 +48,9 @@
 		<key>logo</key>
 		<string>MCOT</string>
 		<key>link</key>
-		<string>http://tv.mcot.net/channel9/MCOT%20HD</string>
+		<string>https://tv.mcot.net/mcothd</string>
 		<key>http</key>
-		<string>http://tv.mcot.net</string>
+		<string>https://tv.mcot.net</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -58,9 +58,9 @@
 		<key>logo</key>
 		<string>Family</string>
 		<key>link</key>
-		<string>http://tv.mcot.net/channel-family/MCOT%20Family</string>
+		<string>https://tv.mcot.net/mcotfamily</string>
 		<key>http</key>
-		<string>http://tv.mcot.net</string>
+		<string>https://tv.mcot.net</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -98,7 +98,7 @@
 		<key>logo</key>
 		<string>TNN</string>
 		<key>link</key>
-		<string>http://www.tnnthailand.com/player.php</string>
+		<string>http://www.tnnthailand.com/live-tv</string>
 		<key>http</key>
 		<string>http://www.tnnthailand.com</string>
 	</dict>
@@ -108,19 +108,49 @@
 		<key>logo</key>
 		<string>Voice</string>
 		<key>link</key>
-		<string>http://live.voicetv.co.th/</string>
+		<string>https://www.voicetv.co.th/live</string>
 		<key>http</key>
-		<string>http://www.voicetv.co.th/</string>
+		<string>https://www.voicetv.co.th</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Bluesky ฟ้าวันใหม่ (Fahwonmai)</string>
+		<string>Spring News (สปริงนิวส์)</string>
 		<key>logo</key>
-		<string>Bluesky</string>
+		<string>Spring</string>
 		<key>link</key>
-		<string>http://www.fahwonmai.tv/</string>
+		<string>https://www.springnews.co.th/live</string>
 		<key>http</key>
-		<string>https://www.youtube.com/channel/UCwqKydbDMrq9fcStsJIstwQ/videos?flow=grid&amp;live_view=501&amp;view=2</string>
+		<string>https://www.springnews.co.th</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ช่อง 2 -ThaiCh2</string>
+		<key>logo</key>
+		<string>2</string>
+		<key>link</key>
+		<string>http://thaich2.com/live/</string>
+		<key>http</key>
+		<string>http://thaich2.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>GMM 25 (จีเอ็มเอ็ม 25)</string>
+		<key>logo</key>
+		<string>GMM</string>
+		<key>link</key>
+		<string>http://live.gmm25.com</string>
+		<key>http</key>
+		<string>http://gmm25.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Bright TV 20 (ไบรต์ทีวี)</string>
+		<key>logo</key>
+		<string>Bright</string>
+		<key>link</key>
+		<string>https://www.brighttv.co.th/live</string>
+		<key>http</key>
+		<string>https://www.brighttv.co.th</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -148,9 +178,9 @@
 		<key>logo</key>
 		<string>NEWS1</string>
 		<key>link</key>
-		<string>http://www.manager.co.th/home/astv/</string>
+		<string>https://news1live.com/</string>
 		<key>http</key>
-		<string>http://www.manager.co.th</string>
+		<string>https://news1live.com/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -174,7 +204,7 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>new)tv นิวทีวี</string>
+		<string>NEW18 - นิว18 (New TV)</string>
 		<key>logo</key>
 		<string>new</string>
 		<key>link</key>
@@ -208,9 +238,9 @@
 		<key>logo</key>
 		<string>Parliament</string>
 		<key>link</key>
-		<string>http://www.radioparliament.net/parliament/viewLive.php?live_id=17</string>
+		<string>http://live.parliament.go.th/</string>
 		<key>http</key>
-		<string>http://www.radioparliament.net/parliament/viewLive.php?live_id=4</string>
+		<string>http://live.parliament.go.th/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -231,16 +261,6 @@
 		<string>http://workpointtv.com/live</string>
 		<key>http</key>
 		<string>http://workpointtv.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ช่อง 2 -ThaiCh2</string>
-		<key>logo</key>
-		<string>2</string>
-		<key>link</key>
-		<string>http://thaich2.com/live/</string>
-		<key>http</key>
-		<string>http://thaich2.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -364,13 +384,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>GTV</string>
+		<string>Good Idea (GTV)</string>
 		<key>logo</key>
 		<string>GTV</string>
 		<key>link</key>
-		<string>http://www.goodideatv.tv/#live-tv</string>
-		<key>http</key>
 		<string>http://www.goodideatv.tv/index.html#live-tv</string>
+		<key>http</key>
+		<string>http://www.goodideatv.tv/#live-tv</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -378,9 +398,29 @@
 		<key>logo</key>
 		<string>Sabaidee</string>
 		<key>link</key>
-		<string>http://www.sabaideetv.com/#live</string>
+		<string>http://www.sabaideetv.com/</string>
 		<key>http</key>
 		<string>http://www.sabaideetv.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>จ๊ะทิงจา Ja Ting Ja</string>
+		<key>logo</key>
+		<string>Ja</string>
+		<key>link</key>
+		<string>https://www.youtube.com/channel/UC5YVpbTWmNphMeTekgYrgsQ/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		<key>http</key>
+		<string>https://www.facebook.com/jatingja.tv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>CARTOON CLUB</string>
+		<key>logo</key>
+		<string>CARTOON</string>
+		<key>link</key>
+		<string>http://cartoonclub.tv/</string>
+		<key>http</key>
+		<string>http://cartoonclub.tv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -391,6 +431,56 @@
 		<string>http://www.toplinetv.com/</string>
 		<key>http</key>
 		<string>http://www.toplinetv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>True Shopping (ทรู ช็อปปิ้ง)</string>
+		<key>logo</key>
+		<string>Shopping</string>
+		<key>link</key>
+		<string>https://www.true-shopping.com/live/003585</string>
+		<key>http</key>
+		<string>https://www.true-shopping.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>True Select (ทรูซีเล็คท์)</string>
+		<key>logo</key>
+		<string>Select</string>
+		<key>link</key>
+		<string>https://www.true-shopping.com/live/003208</string>
+		<key>http</key>
+		<string>https://www.true-shopping.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TIGER Shopping</string>
+		<key>logo</key>
+		<string>TIGER</string>
+		<key>link</key>
+		<string>https://www.twitch.tv/tigershopping</string>
+		<key>http</key>
+		<string>http://tigershoppingtv.com/web/tiger_tv.php</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Jewelry Channel</string>
+		<key>logo</key>
+		<string>Jewelry</string>
+		<key>link</key>
+		<string>http://jwctv.com/store/tvonline/</string>
+		<key>http</key>
+		<string>http://jwctv.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TV Muslim Thailand</string>
+		<key>logo</key>
+		<string>Muslim</string>
+		<key>link</key>
+		<string>http://tvmuslim.org/</string>
+		<key>http</key>
+		<string>http://tvmuslim.org/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -424,7 +514,7 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Rama</string>
+		<string>RAMA</string>
 		<key>logo</key>
 		<string>Rama</string>
 		<key>link</key>
