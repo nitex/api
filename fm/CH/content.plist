@@ -63,6 +63,54 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>SRF 1</string>
+			<key>logo</key>
+			<string>SRF</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/drs1/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/drs1/aacp_32.m3u</string>
+			<key>note</key>
+			<string>Basel</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRF 1 Aargau Solothurn</string>
+			<key>logo</key>
+			<string>Aargau</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_ag_so/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_ag_so/aacp_32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRF 1 Basel Baselland</string>
+			<key>logo</key>
+			<string>Basel</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_bs_bl/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SRF 1 Bern Freibourg Wallis</string>
+			<key>logo</key>
+			<string>Wallis</string>
+			<key>link</key>
+			<string>http://stream.srg-ssr.ch/regi_be_fr_vs/mp3_128.m3u</string>
+			<key>http</key>
+			<string>http://stream.srg-ssr.ch/regi_be_fr_vs/aacp_32.m3u</string>
+			<key>note</key>
+			<string>News / Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>SRF 1 Ostschweiz</string>
 			<key>logo</key>
 			<string>Ostschweiz</string>
@@ -71,7 +119,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/regi_ost/aacp_32.m3u</string>
 			<key>note</key>
-			<string>St.Gallen</string>
+			<string>St.Gallen (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,7 +131,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/regi_zentr/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Luzern</string>
+			<string>Luzern (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,7 +155,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/drs2/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Culture / Classical / Jazz</string>
+			<string>Culture / Classical / Jazz Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +167,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/drs3/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Rock / Pop / Entertainment</string>
+			<string>Rock / Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +191,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/drsvirus/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Youth programmes</string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +203,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/drsmw/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Traditional/folk music</string>
+			<string>Traditional/Folk Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +215,7 @@
 			<key>http</key>
 			<string>http://www.radioswisspop.ch/live/aacp32.m3u</string>
 			<key>note</key>
-			<string>Pop/Hits</string>
+			<string>Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -227,7 +275,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/rr/aacp_96.m3u</string>
 			<key>note</key>
-			<string>Chur</string>
+			<string>Chur (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -239,7 +287,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u</string>
 			<key>note</key>
-			<string>News/Features (Lausanne)</string>
+			<string>News/Features (Lausanne, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -251,7 +299,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/espace-2/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Culture/Classical/Jazz (Lausanne)</string>
+			<string>Culture/Classical/Jazz Jazz (Lausanne, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -263,7 +311,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/couleur3/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Rock/Pop/Entertainment (Lausanne)</string>
+			<string>Rock/Pop Music (Lausanne, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -275,7 +323,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/option-musique/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Hits (Lausanne)</string>
+			<string>Hits (Lausanne, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -287,7 +335,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/reteuno/aacp_32.m3u</string>
 			<key>note</key>
-			<string>News/Features (Lugano)</string>
+			<string>News/Features (Lugano, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -299,7 +347,7 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/retedue/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Culture/Classical/Jazz (Lugano)</string>
+			<string>Culture/Classical/Jazz Music (Lugano, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -311,7 +359,1987 @@
 			<key>http</key>
 			<string>http://stream.srg-ssr.ch/retetre/aacp_32.m3u</string>
 			<key>note</key>
-			<string>Rock/Pop/Entertainment (Lugano)</string>
+			<string>Rock/Pop Music (Lugano, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia</string>
+			<key>logo</key>
+			<string>Argovia</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argovia128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Classic Rock</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://www.argovia.ch/radio/streams/scr-hq.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Hit Mix</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://www.argovia.ch/radio/streams/hm-hq.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia News</string>
+			<key>logo</key>
+			<string>New</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argovianews.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Love</string>
+			<key>logo</key>
+			<string>Lov</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argovialove.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argovia Comedy</string>
+			<key>logo</key>
+			<string>Comedy</string>
+			<key>link</key>
+			<string>http://icecast.argovia.ch/argoviacomedy.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Country Radio Switzerland</string>
+			<key>logo</key>
+			<string>Country</string>
+			<key>link</key>
+			<string>http://www.countryradio.ch/assets/files/listen.pls</string>
+			<key>http</key>
+			<string>https://www.countryradio.ch/crs-64.pls</string>
+			<key>note</key>
+			<string>Schoenenberg (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Creatures Of The Night Radio</string>
+			<key>logo</key>
+			<string>Creatures</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/cotn.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chillout/Lounge Music (Locarno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DJ Radio</string>
+			<key>logo</key>
+			<string>DJ</string>
+			<key>link</key>
+			<string>http://login.streamplus.de/player.php?spt=4411.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music(Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Zurich</string>
+			<key>logo</key>
+			<string>Zurich</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyzuerich/energyzuerich-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Bern</string>
+			<key>logo</key>
+			<string>Bern</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energybern/energybern-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Basel</string>
+			<key>logo</key>
+			<string>Energy</string>
+			<key>link</key>
+			<string>http://energybasel.ice.infomaniak.ch/energybasel-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Black</string>
+			<key>logo</key>
+			<string>Black</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyblack/energyblack-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Charts</string>
+			<key>logo</key>
+			<string>Charts</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energycharts/energycharts-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Elektro</string>
+			<key>logo</key>
+			<string>Elektro</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyelektro/energyelektro-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Electronic Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy German</string>
+			<key>logo</key>
+			<string>German</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energygerman/energygerman-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Italy</string>
+			<key>logo</key>
+			<string>Italy</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyitaly/energyitaly-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Love</string>
+			<key>logo</key>
+			<string>Love</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energylove/energylove-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Hot</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energyhot/energyhot-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 80s</string>
+			<key>logo</key>
+			<string>80s</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energy80s/energy80s-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 90s</string>
+			<key>logo</key>
+			<string>90s</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/energy90s/energy90s-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 00s</string>
+			<key>logo</key>
+			<string>00s</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energy00s-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energydance-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Girl</string>
+			<key>logo</key>
+			<string>Girl</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energygirl-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Latin</string>
+			<key>logo</key>
+			<string>Latin</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/nrjlatin-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Léman</string>
+			<key>logo</key>
+			<string>Leman</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.net/nrj-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.net/nrj-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Live</string>
+			<key>logo</key>
+			<string>Live</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energylive-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Lounge</string>
+			<key>logo</key>
+			<string>Lounge</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energylounge-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Mix</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energymix-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>HipHop Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energyrock-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Soundtrack</string>
+			<key>logo</key>
+			<string>Soundtrack</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energysoundtrack-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy Swiss</string>
+			<key>logo</key>
+			<string>Swiss</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/energyswiss-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock/Pop Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FC Sion Radio</string>
+			<key>logo</key>
+			<string>Sion</string>
+			<key>link</key>
+			<string>http://fcsion.stream2net.eu:8220/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Nord</string>
+			<key>logo</key>
+			<string>Nord</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1sg128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Gallen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Süd</string>
+			<key>logo</key>
+			<string>Sud</string>
+			<key>link</key>
+			<string>http://fm1sud.bcast.infomaniak.ch/fm1sud.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Buchs (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1gold128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Gallen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1 Hot</string>
+			<key>logo</key>
+			<string>FM1</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1hot128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / RnB Music (St.Gallen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fréquence Banane</string>
+			<key>logo</key>
+			<string>Banane</string>
+			<key>link</key>
+			<string>http://www.frequencebanane.ch/fb_128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Global SPORT</string>
+			<key>logo</key>
+			<string>Global</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/globalfm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IP music</string>
+			<key>logo</key>
+			<string>IP</string>
+			<key>link</key>
+			<string>http://www.ipmusic.ch/ipmusic128.m3u</string>
+			<key>http</key>
+			<string>http://www.ipmusic.ch/ipmusicaacplus64.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Lausanne, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IP music Slow</string>
+			<key>logo</key>
+			<string>Slow</string>
+			<key>link</key>
+			<string>http://www.ipmusicslow.ch/ipmusicslow128.m3u</string>
+			<key>http</key>
+			<string>http://www.ipmusicslow.ch/ipmusicslowaacplus128.m3u</string>
+			<key>note</key>
+			<string>Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kanal K</string>
+			<key>logo</key>
+			<string>K</string>
+			<key>link</key>
+			<string>http://82.197.165.150/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aarau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KTFM SA</string>
+			<key>logo</key>
+			<string>KTFM</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/ktfm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s Music (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Fabrik</string>
+			<key>logo</key>
+			<string>Fabrik</string>
+			<key>link</key>
+			<string>http://stream.lafabrik.ch/lafabrik.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Petit-Lancy (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LFM</string>
+			<key>logo</key>
+			<string>LFM</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/lausannefm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Channel</string>
+			<key>logo</key>
+			<string>Channel</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/lifechannel.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pfäffikon (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lounge-Radio.com</string>
+			<key>logo</key>
+			<string>Radio.com</string>
+			<key>link</key>
+			<string>http://www.lounge-radio.com/listen128.m3u</string>
+			<key>http</key>
+			<string>https://lounge-radio.com/aacplus.m3u</string>
+			<key>note</key>
+			<string>Ambient/Lounge Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LuNe Radio</string>
+			<key>logo</key>
+			<string>LuNe</string>
+			<key>link</key>
+			<string>http://broadcaster.infomaniak.ch/lune-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Neuchâtel (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magic Radio</string>
+			<key>logo</key>
+			<string>Magic</string>
+			<key>link</key>
+			<string>http://91.121.98.154:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://www.magicradio.ch/magic-mobile.m3u</string>
+			<key>note</key>
+			<string>Top 30 / Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mountain Radio Verbier</string>
+			<key>logo</key>
+			<string>Mountain</string>
+			<key>link</key>
+			<string>http://mountainradioverbier.stream2net.eu:8270/listen.pls</string>
+			<key>http</key>
+			<string>http://mountainradioverbier.stream2net.eu:8280/listen.pls</string>
+			<key>note</key>
+			<string>Lourtier (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>neo1</string>
+			<key>logo</key>
+			<string>neo1</string>
+			<key>link</key>
+			<string>http://stream-02.zic-network.ch:8000/neo1.m3u</string>
+			<key>http</key>
+			<string>http://webradio.neo1.ch/neo1</string>
+			<key>note</key>
+			<string>Pop/Rock Music (Langnau, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>One FM</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/onefm-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.ch/onefm-high.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Planet 105</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>http://radio.netstream.ch/planet105_128k_mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://radio.netstream.ch/128k.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music (Zurich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 3fach</string>
+			<key>logo</key>
+			<string>3fach</string>
+			<key>link</key>
+			<string>http://3fach.ch/wp-content/uploads/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lucerne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 24</string>
+			<key>logo</key>
+			<string>24</string>
+			<key>link</key>
+			<string>http://icecast.radio24.ch/radio24.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 24 Rock</string>
+			<key>logo</key>
+			<string>24Rock</string>
+			<key>link</key>
+			<string>http://icecast.radio24.ch/radio24rock.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 24 Pop</string>
+			<key>logo</key>
+			<string>24Pop</string>
+			<key>link</key>
+			<string>http://icecast.radio24.ch/radio24pop.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 32</string>
+			<key>logo</key>
+			<string>32</string>
+			<key>link</key>
+			<string>http://radio32-stream.customer.solnet.ch:8000/radio32.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Solothurn (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 32 Goldies</string>
+			<key>logo</key>
+			<string>Goldies</string>
+			<key>link</key>
+			<string>http://radio32-stream.customer.solnet.ch:8100/radio32goldies.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Solothurn (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Basilisk</string>
+			<key>logo</key>
+			<string>Basilisk</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.com/playlist/ohnewerbung/radiobasilisk-64-128-0.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string>http://statslive.infomaniak.com/playlist/ohnewerbung/radiobasilisk-64-0.aac/playlist.m3u</string>
+			<key>note</key>
+			<string>Basel (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio BeO</string>
+			<key>logo</key>
+			<string>BeO</string>
+			<key>link</key>
+			<string>http://87.237.169.123:8000/radiobeo.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music, Oldies, Country (Interlaken, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio BERN1</string>
+			<key>logo</key>
+			<string>BERN1</string>
+			<key>link</key>
+			<string>http://mp3.radiobern1.ch/radiobern1128k.m3u</string>
+			<key>http</key>
+			<string>http://aac.radiobern1.ch/radiobern164k.m3u</string>
+			<key>note</key>
+			<string>Pop/Rock Music (Berne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central</string>
+			<key>logo</key>
+			<string>Central</string>
+			<key>link</key>
+			<string>http://195.48.36.34/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Charts</string>
+			<key>logo</key>
+			<string>Chart</string>
+			<key>link</key>
+			<string>http://sp1128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Brunnen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Swiss</string>
+			<key>logo</key>
+			<string>Swis</string>
+			<key>link</key>
+			<string>http://sp3128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Jazz</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://sp4128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central HipHop</string>
+			<key>logo</key>
+			<string>HipHop</string>
+			<key>link</key>
+			<string>http://sp5128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Funk</string>
+			<key>logo</key>
+			<string>Funk</string>
+			<key>link</key>
+			<string>http://sp6128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Soul Music (Brunnen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Rock</string>
+			<key>logo</key>
+			<string>Roc</string>
+			<key>link</key>
+			<string>http://sp7128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Dance</string>
+			<key>logo</key>
+			<string>Danc</string>
+			<key>link</key>
+			<string>http://sp8128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Country</string>
+			<key>logo</key>
+			<string>Countr</string>
+			<key>link</key>
+			<string>http://sp9128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Central Schlager</string>
+			<key>logo</key>
+			<string>Schlager</string>
+			<key>link</key>
+			<string>http://sp9128.mp3.green.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brunnen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Chablais</string>
+			<key>logo</key>
+			<string>Chablais</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/radiochablais-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Monthey (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cité</string>
+			<key>logo</key>
+			<string>Cite</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.com/playlist/radiocite/radiocite-highest.aac/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Freiburg</string>
+			<key>logo</key>
+			<string>Freiburg</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/radiofreiburg-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.ch/radiofribourg-low.mp3.m3u</string>
+			<key>note</key>
+			<string>Fribourg (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Gloria</string>
+			<key>logo</key>
+			<string>Gloria</string>
+			<key>link</key>
+			<string>http://live-two.dmd2.ch:8080/radiogloria_lo.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Baldegg (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Inside</string>
+			<key>logo</key>
+			<string>Inside</string>
+			<key>link</key>
+			<string>http://fra.radiostream.de:37499/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Dance Music (Zofingen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kaiseregg</string>
+			<key>logo</key>
+			<string>Kaiseregg</string>
+			<key>link</key>
+			<string>http://radiokaiseregg128k.ice.infomaniak.ch/playlists/stream128k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>80s/Pop/Rock Music (Schwarzsee, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio LoRa 97,5 MHz</string>
+			<key>logo</key>
+			<string>LoRa</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/lora/lora-192.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Melody</string>
+			<key>logo</key>
+			<string>Melody</string>
+			<key>link</key>
+			<string>http://www.radiofm1.ch/streaming/fm1melody128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St.Gallen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Monte Carlo Swiss</string>
+			<key>logo</key>
+			<string>Monte</string>
+			<key>link</key>
+			<string>http://stream.105.ch:8000/rmc.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ouistiti</string>
+			<key>logo</key>
+			<string>Ouistiti</string>
+			<key>link</key>
+			<string>http://ouistiti.stream2net.eu:8090/listen.pls</string>
+			<key>http</key>
+			<string>http://ouistiti-aac.stream2net.eu:8100/listen.pls</string>
+			<key>note</key>
+			<string>Sion (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Pilatus</string>
+			<key>logo</key>
+			<string>Pilatus</string>
+			<key>link</key>
+			<string>http://radiopilatus.bcast.infomaniak.ch/pilatus192.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lucerne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio RaBe 95,6</string>
+			<key>logo</key>
+			<string>RaBe</string>
+			<key>link</key>
+			<string>http://stream.rabe.ch:8000/livestream/rabe-mid.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Culture (Berne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Radius</string>
+			<key>logo</key>
+			<string>Radius</string>
+			<key>link</key>
+			<string>http://radioradius.ch/radius_quicktime.pls</string>
+			<key>http</key>
+			<string>http://relay.radio.ethz.ch/radius_winamp.m3u</string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Rottu Oberwallis</string>
+			<key>logo</key>
+			<string>Rottu</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/rro.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Visp (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Stadfilter</string>
+			<key>logo</key>
+			<string>Stadfilter</string>
+			<key>link</key>
+			<string>http://www.stadtfilter.ch/pub/streams/stadtfilter.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Winterthur (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sunshine</string>
+			<key>logo</key>
+			<string>Sunshine</string>
+			<key>link</key>
+			<string>http://mp3stream.sunshine.ch/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rotkreuz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tell</string>
+			<key>logo</key>
+			<string>Tell</string>
+			<key>link</key>
+			<string>http://stream.radiotell.ch/radiotell.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kehrsatz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tropic</string>
+			<key>logo</key>
+			<string>Tropic</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/tropic-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.ch/tropic-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Zurich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Zürisee</string>
+			<key>logo</key>
+			<string>Zurisee</string>
+			<key>link</key>
+			<string>http://radio.netstream.ch/radiozuerisee128k.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Rapperswil, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RASA</string>
+			<key>logo</key>
+			<string>RASA</string>
+			<key>link</key>
+			<string>http://s7.pop-stream.de:7830/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schaffhausen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT (Fiume Ticino)</string>
+			<key>logo</key>
+			<string>Fiume</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/direttahq.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Locarno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT CHARME</string>
+			<key>logo</key>
+			<string>CHARME</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftcharme.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lounge, Fusion, Jazz Music (Locarno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT MOVIDA</string>
+			<key>logo</key>
+			<string>MOVIDA</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftmovida.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>House Music (Locarno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT POP</string>
+			<key>logo</key>
+			<string>RFT</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftpop.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Locarno (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT ROCK</string>
+			<key>logo</key>
+			<string>RFTROCK</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftrock.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Locarno (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFT GOLD</string>
+			<key>logo</key>
+			<string>RFTGOLD</string>
+			<key>link</key>
+			<string>http://streaming.smartradio.ch:2199/tunein/rftgold.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Locarno (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rhône FM</string>
+			<key>logo</key>
+			<string>Rhone</string>
+			<key>link</key>
+			<string>http://broadcast.infomaniak.ch/rhonefm-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://broadcast.infomaniak.ch/rhonefm-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Sion (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFJ</string>
+			<key>logo</key>
+			<string>RFJ</string>
+			<key>link</key>
+			<string>http://www.rfj.ch/RFJ/live/48k.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.rfj.ch/RFJ/live/128k.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Delémont, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RJB</string>
+			<key>logo</key>
+			<string>RJB</string>
+			<key>link</key>
+			<string>http://www.rjb.ch/RJB/live/rjb-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.rjb.ch/RJB/live/rjb-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Tavannes, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTN</string>
+			<key>logo</key>
+			<string>RTN</string>
+			<key>link</key>
+			<string>http://www.rjb.ch/RTN/live/rtn-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.rjb.ch/RTN/live/rtn-high.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Marin, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge</string>
+			<key>logo</key>
+			<string>Rouge</string>
+			<key>link</key>
+			<string>http://rougefm.ice.infomaniak.ch/rougefm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Le Mont-sur-Lausanne, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Platine</string>
+			<key>logo</key>
+			<string>Platine</string>
+			<key>link</key>
+			<string>http://rougeplatine.ice.infomaniak.ch/rougeplatine-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Electronic Music (Le Mont-sur-Lausanne, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Rock</string>
+			<key>logo</key>
+			<string>Ro</string>
+			<key>link</key>
+			<string>http://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Latino</string>
+			<key>logo</key>
+			<string>Latino</string>
+			<key>link</key>
+			<string>http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge RnB</string>
+			<key>logo</key>
+			<string>RnB</string>
+			<key>link</key>
+			<string>http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Dance</string>
+			<key>logo</key>
+			<string>Dan</string>
+			<key>link</key>
+			<string>http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Lounge</string>
+			<key>logo</key>
+			<string>Loung</string>
+			<key>link</key>
+			<string>http://rouge-lounge.ice.infomaniak.ch/rouge-lounge-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Le Mont-sur-Lausanne, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge 70s</string>
+			<key>logo</key>
+			<string>70s</string>
+			<key>link</key>
+			<string>http://rouge-70s.ice.infomaniak.ch/rouge-70s-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge 80s</string>
+			<key>logo</key>
+			<string>8</string>
+			<key>link</key>
+			<string>http://rouge-80s.ice.infomaniak.ch/rouge-80s-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge 90s</string>
+			<key>logo</key>
+			<string>90</string>
+			<key>link</key>
+			<string>http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Alternative</string>
+			<key>logo</key>
+			<string>Alternative</string>
+			<key>link</key>
+			<string>http://rouge-alternative.ice.infomaniak.ch/rouge-alternative-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Disco</string>
+			<key>logo</key>
+			<string>Disco</string>
+			<key>link</key>
+			<string>http://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Hip-Hop</string>
+			<key>logo</key>
+			<string>Hip</string>
+			<key>link</key>
+			<string>http://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Hot 100</string>
+			<key>logo</key>
+			<string>100</string>
+			<key>link</key>
+			<string>http://rouge-hot100.ice.infomaniak.ch/rouge-hot100-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Pop Music (Le Mont-sur-Lausanne, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge In Love</string>
+			<key>logo</key>
+			<string>In</string>
+			<key>link</key>
+			<string>http://rouge-inlove.ice.infomaniak.ch/rouge-inlove-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Italia</string>
+			<key>logo</key>
+			<string>Italia</string>
+			<key>link</key>
+			<string>http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Made in France</string>
+			<key>logo</key>
+			<string>Made</string>
+			<key>link</key>
+			<string>http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Reggae</string>
+			<key>logo</key>
+			<string>Reggae</string>
+			<key>link</key>
+			<string>http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Soundtrack</string>
+			<key>logo</key>
+			<string>Sound</string>
+			<key>link</key>
+			<string>http://rouge-soundtrack.ice.infomaniak.ch/rouge-soundtrack-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge BPM</string>
+			<key>logo</key>
+			<string>BPM</string>
+			<key>link</key>
+			<string>http://rouge-bpm.ice.infomaniak.ch/rouge-bpm-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sports (Le Mont-sur-Lausanne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rouge Metal</string>
+			<key>logo</key>
+			<string>Metal</string>
+			<key>link</key>
+			<string>http://rouge-metal.ice.infomaniak.ch/rouge-metal-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock Music (Le Mont-sur-Lausanne, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spoon Radio</string>
+			<key>logo</key>
+			<string>Spoon</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.mp3/playlist.pls</string>
+			<key>http</key>
+			<string>http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-low.aac/playlist.pls</string>
+			<key>note</key>
+			<string>Rock Music (Geneva)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>toxic.fm</string>
+			<key>logo</key>
+			<string>toxic</string>
+			<key>link</key>
+			<string>http://toxicfm.ice.infomaniak.ch/toxicfm-128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock/Pop/Electro Music (St.Gallen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Deluxe</string>
+			<key>logo</key>
+			<string>Deluxe</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx001-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx001-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM House</string>
+			<key>logo</key>
+			<string>House</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx002-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx002-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Electro</string>
+			<key>logo</key>
+			<string>Electro</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx003-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx003-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Lounge</string>
+			<key>logo</key>
+			<string>Traxx1</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx004-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx004-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Cool Jam</string>
+			<key>logo</key>
+			<string>Cool</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx005-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx005-48.aac.m3u</string>
+			<key>note</key>
+			<string>Jazzy/Soul/Lounge Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Soul</string>
+			<key>logo</key>
+			<string>Soul</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx006-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx006-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM RnB</string>
+			<key>logo</key>
+			<string>FM</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx007-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx007-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Latino</string>
+			<key>logo</key>
+			<string>Traxx2</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx008-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx008-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Pop</string>
+			<key>logo</key>
+			<string>Traxx3</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx009-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx009-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Hits</string>
+			<key>logo</key>
+			<string>Hits</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx010-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx010-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Ambient</string>
+			<key>logo</key>
+			<string>Ambient</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx011-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx011-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Classic</string>
+			<key>logo</key>
+			<string>Traxx4</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx012-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx012-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Deep</string>
+			<key>logo</key>
+			<string>Deep</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx013-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx013-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Jazz</string>
+			<key>logo</key>
+			<string>Traxx5</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx014-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx014-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Rap</string>
+			<key>logo</key>
+			<string>Rap</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx015-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx015-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Funk</string>
+			<key>logo</key>
+			<string>Traxx6</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx016-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx016-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Gold Hits 70-90</string>
+			<key>logo</key>
+			<string>70-90</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx017-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx017-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Trance</string>
+			<key>logo</key>
+			<string>Trance</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx018-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx018-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Rock</string>
+			<key>logo</key>
+			<string>Traxx7</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx019-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx019-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Tech-Minimal</string>
+			<key>logo</key>
+			<string>Minimal</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx020-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx020-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Italia</string>
+			<key>logo</key>
+			<string>Traxx8</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx021-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx021-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Latino Pop</string>
+			<key>logo</key>
+			<string>Traxx9</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx022-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx022-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Golden Oldies</string>
+			<key>logo</key>
+			<string>Golden</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx023-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx023-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM Gold Hits 90-00</string>
+			<key>logo</key>
+			<string>90-00</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx024-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx024-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Traxx FM France</string>
+			<key>logo</key>
+			<string>France</string>
+			<key>link</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx025-low.mp3.m3u</string>
+			<key>http</key>
+			<string>http://traxx001.ice.infomaniak.ch/traxx025-48.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swiss Internet Radio Classical</string>
+			<key>logo</key>
+			<string>Classical</string>
+			<key>link</key>
+			<string>http://www.swissradio.ch/streams/6034.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swiss Internet Radio Opera</string>
+			<key>logo</key>
+			<string>Opera</string>
+			<key>link</key>
+			<string>http://www.swissradio.ch/streams/6060.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swiss Internet Radio Jazz</string>
+			<key>logo</key>
+			<string>Internet</string>
+			<key>link</key>
+			<string>http://www.swissradio.ch/streams/6054.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swiss Internet Radio Modern Jazz</string>
+			<key>logo</key>
+			<string>Modern</string>
+			<key>link</key>
+			<string>http://www.swissradio.ch/streams/6092.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swiss Internet Radio 80s Pop</string>
+			<key>logo</key>
+			<string>80</string>
+			<key>link</key>
+			<string>http://www.radiocrazy.ch/streams/6070.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swiss Internet Radio Sanctus</string>
+			<key>logo</key>
+			<string>Sanctus</string>
+			<key>link</key>
+			<string>http://www.radiocrazy.ch/streams/6080.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SwissGroove</string>
+			<key>logo</key>
+			<string>SwissGroove</string>
+			<key>link</key>
+			<string>http://www.swissgroove.ch/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz/Funk Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibration</string>
+			<key>logo</key>
+			<string>Vibration</string>
+			<key>link</key>
+			<string>http://vibration.stream2net.eu:8130/listen.pls</string>
+			<key>http</key>
+			<string>http://vibration-aac.stream2net.eu:8040/listen.pls</string>
+			<key>note</key>
+			<string>Top 30 (Sion, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibration Poprock</string>
+			<key>logo</key>
+			<string>Poprock</string>
+			<key>link</key>
+			<string>http://vibrationpoprock.stream2net.eu:8260/listen.pls</string>
+			<key>http</key>
+			<string>http://vibrationpoprock.stream2net.eu:8030/listen.pls</string>
+			<key>note</key>
+			<string>Top 30 (Sion, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibration Classic hits</string>
+			<key>logo</key>
+			<string>Classichits</string>
+			<key>link</key>
+			<string>http://vibrationclassic80.stream2net.eu:8060/listen.pls</string>
+			<key>http</key>
+			<string>http://vibrationclassic80-aac.stream2net.eu:8110/listen.pls</string>
+			<key>note</key>
+			<string>80s/Oldies (Sion, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibration Soft Hits</string>
+			<key>logo</key>
+			<string>Soft</string>
+			<key>link</key>
+			<string>http://vibrationsofthits.stream2net.eu:8350/listen.pls</string>
+			<key>http</key>
+			<string>http://vibrationsofthits.stream2net.eu:8380/listen.pls</string>
+			<key>note</key>
+			<string>Sion (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibration Latina</string>
+			<key>logo</key>
+			<string>Latina</string>
+			<key>link</key>
+			<string>http://vibracionlatina.stream2net.eu:8410/listen.pls</string>
+			<key>http</key>
+			<string>http://vibracionlatina.stream2net.eu:8420/listen.pls</string>
+			<key>note</key>
+			<string>Sion (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>World Radio Switzerland</string>
+			<key>logo</key>
+			<string>World</string>
+			<key>link</key>
+			<string>http://direct.sharp-stream.com/radiofrontier.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Geneva</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yes FM (LAC)</string>
+			<key>logo</key>
+			<string>Yes</string>
+			<key>link</key>
+			<string>http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Le Mont-sur-Lausanne (Local)</string>
 		</dict>
 	</array>
 </dict>

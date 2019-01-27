@@ -83,7 +83,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/information</string>
+			<string>News/Information</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -95,7 +95,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 40</string>
+			<string>Top 30</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,7 +107,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Rock/Alternative/Diverse</string>
+			<string>Rock/Alternative Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +119,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Eisenstadt</string>
+			<string>Eisenstadt (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +131,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Klagenfurt</string>
+			<string>Klagenfurt (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +143,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>St.Pölten</string>
+			<string>St.Pölten (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +155,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Linz</string>
+			<string>Linz (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +167,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Graz</string>
+			<string>Graz (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -179,7 +179,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -191,7 +191,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Innsbruck</string>
+			<string>Innsbruck (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,7 +203,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Dornbirn</string>
+			<string>Dornbirn (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -212,6 +212,1206 @@
 			<string>Wien</string>
 			<key>link</key>
 			<string>http://mp3stream2.apasf.apa.at:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>88.6 Der Musiksender Vienna</string>
+			<key>logo</key>
+			<string>Musiksender</string>
+			<key>link</key>
+			<string>http://ber.radiostream.de:36889/listen.pls</string>
+			<key>http</key>
+			<string>http://radiostream.de/stream/36795.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>88.6 Der Musiksender St.Pölten</string>
+			<key>logo</key>
+			<string>Polten</string>
+			<key>link</key>
+			<string>http://fra.radiostream.de:37540/listen.pls</string>
+			<key>http</key>
+			<string>http://fra.radiostream.de:37542/listen.pls</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Kärnten</string>
+			<key>logo</key>
+			<string>Antenne</string>
+			<key>link</key>
+			<string>http://www.antenne.at/antenne_ak.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Klagenfurt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Salzburg</string>
+			<key>logo</key>
+			<string>Salzbur</string>
+			<key>link</key>
+			<string>http://streamplus14.leonex.de:24950/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Steiermark</string>
+			<key>logo</key>
+			<string>Steiermar</string>
+			<key>link</key>
+			<string>http://www.antenne.at/antenne.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Graz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Tirol</string>
+			<key>logo</key>
+			<string>Tiro</string>
+			<key>link</key>
+			<string>http://streamplus30.leonex.de:14840/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Innsbruck (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg</string>
+			<key>logo</key>
+			<string>Vorarlber</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Classic Rock</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/classicrock.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Schlagerkult</string>
+			<key>logo</key>
+			<string>Schlagerkult</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/schlagerkult.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Schlager Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Chillout Lounge</string>
+			<key>logo</key>
+			<string>Chillout</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/lounge.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Electronic Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg 80er Hits</string>
+			<key>logo</key>
+			<string>80er</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/80er.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg 90er Hits</string>
+			<key>logo</key>
+			<string>90er</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/90er.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Partymix</string>
+			<key>logo</key>
+			<string>Partymix</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/partymix.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Top Hits</string>
+			<key>logo</key>
+			<string>Hits</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/hits.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Love Songs</string>
+			<key>logo</key>
+			<string>Love</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/lovesongs.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Oldies but Goldies</string>
+			<key>logo</key>
+			<string>Goldies</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/oldies.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Fresh</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/fresh.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Rock Radio</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/rock.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg 2000er Hits</string>
+			<key>logo</key>
+			<string>2000er</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/00er.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Vorarlberg Workout Hits</string>
+			<key>logo</key>
+			<string>Workout</string>
+			<key>link</key>
+			<string>http://webradio.antennevorarlberg.at/workout-hits.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwarzach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Campus Radio</string>
+			<key>logo</key>
+			<string>Campus</string>
+			<key>link</key>
+			<string>http://www.cr944.at:8000/cr944-high.m3u</string>
+			<key>http</key>
+			<string>http://www.cr944.at:8000/cr944.m3u</string>
+			<key>note</key>
+			<string>St.Pölten (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 104,2</string>
+			<key>logo</key>
+			<string>Energy</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/energywien2.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/energywien.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 94,0</string>
+			<key>logo</key>
+			<string>94</string>
+			<key>link</key>
+			<string>http://stream1.energy.at:8000/sbg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Salzburg, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 99,9</string>
+			<key>logo</key>
+			<string>99</string>
+			<key>link</key>
+			<string>http://stream1.energy.at:8000/ibk.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Innsbruck, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ERF Plus Österreich</string>
+			<key>logo</key>
+			<string>ERF</string>
+			<key>link</key>
+			<string>http://stream.erf.at/erfplus_320.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Freies Radio Salzkammergut</string>
+			<key>logo</key>
+			<string>Salzkammergut</string>
+			<key>link</key>
+			<string>http://stream.xaok.org:8000/frs.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bad Ischl (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Freies Radio B138</string>
+			<key>logo</key>
+			<string>B138</string>
+			<key>link</key>
+			<string>http://stream.radio-b138.at:25060/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kirchdorf an der Krems (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Freirad</string>
+			<key>logo</key>
+			<string>Freirad</string>
+			<key>link</key>
+			<string>http://www.freirad.at/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Innsbruck (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Freies Radio Freistadt</string>
+			<key>logo</key>
+			<string>Freies</string>
+			<key>link</key>
+			<string>http://develop.servus.at:8000/frf.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Freistadt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HEROLD relax radio</string>
+			<key>logo</key>
+			<string>HEROLD</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8015/heroldrelax.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock/Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KärntenLive</string>
+			<key>logo</key>
+			<string>KarntenLive</string>
+			<key>link</key>
+			<string>http://login.streamplus.de/player.php?spt=22522.m3u</string>
+			<key>http</key>
+			<string>https://login.streamplus.de/app.php/shoutcast/public/playlist/download/22522.m3u</string>
+			<key>note</key>
+			<string>Oldies/Schlager (Villach, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Digital</string>
+			<key>logo</key>
+			<string>Digital</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-hp.mp3.m3u</string>
+			<key>http</key>
+			<string>http://onair-ha1.krone.at/kronehit.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit 105,8</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit1058.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Fresh</string>
+			<key>logo</key>
+			<string>Kronehit</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-fresh.mp3.m3u</string>
+			<key>http</key>
+			<string>http://onair-ha1.krone.at/kronehit-fresh-hd.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Dance</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-dance.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit House</string>
+			<key>logo</key>
+			<string>House</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-house.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Charts</string>
+			<key>logo</key>
+			<string>Charts</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-charts.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit 90s Dance</string>
+			<key>logo</key>
+			<string>90s</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-90sdance.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Clubland</string>
+			<key>logo</key>
+			<string>Clubland</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-clubland.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Greatest Hits</string>
+			<key>logo</key>
+			<string>Greatest</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-greatesthits.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Love</string>
+			<key>logo</key>
+			<string>Lov</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-love.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Black</string>
+			<key>logo</key>
+			<string>Black</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-black.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Hangover</string>
+			<key>logo</key>
+			<string>Hangover</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-hangover.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit YAM</string>
+			<key>logo</key>
+			<string>YAM</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-yam.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Balkan Beats</string>
+			<key>logo</key>
+			<string>Balkan</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-balkan.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Vollgas</string>
+			<key>logo</key>
+			<string>Vollgas</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-vollgas.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Interactive</string>
+			<key>logo</key>
+			<string>Interactive</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-interactive.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Best of 2014</string>
+			<key>logo</key>
+			<string>2014</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-event3.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kronehit Christmas</string>
+			<key>logo</key>
+			<string>Christmas</string>
+			<key>link</key>
+			<string>http://onair-ha1.krone.at/kronehit-event.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio</string>
+			<key>logo</key>
+			<string>Lif</string>
+			<key>link</key>
+			<string>http://94.136.28.10:8000/liferadio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Linz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Made in Austria</string>
+			<key>logo</key>
+			<string>Made</string>
+			<key>link</key>
+			<string>http://94.136.28.10:8001/mia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Linz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Love Life</string>
+			<key>logo</key>
+			<string>LoveLife</string>
+			<key>link</key>
+			<string>http://94.136.28.10:8003/lovelife.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Linz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Hitmix</string>
+			<key>logo</key>
+			<string>Hitmix</string>
+			<key>link</key>
+			<string>http://94.136.28.10:8002/hitmix.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music (Linz, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life Radio Tirol</string>
+			<key>logo</key>
+			<string>Tir</string>
+			<key>link</key>
+			<string>http://www.liferadio-tirol.at/popup/webradio/liferadio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Innsbruck (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LoungeFM</string>
+			<key>logo</key>
+			<string>LoungeFM</string>
+			<key>link</key>
+			<string>http://stream.lounge.fm/loungefm128.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lounge, Soul, Jazz Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macjingle Classic Hits</string>
+			<key>logo</key>
+			<string>macjingle</string>
+			<key>link</key>
+			<string>http://www.cartwall.at:7210/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>70s/80s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macjingle Heartbeat</string>
+			<key>logo</key>
+			<string>Heartbeat</string>
+			<key>link</key>
+			<string>http://www.cartwall.at:7200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macjingle Todays Best</string>
+			<key>logo</key>
+			<string>Todays</string>
+			<key>link</key>
+			<string>http://fc.macjingle.at:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NJOY Radio</string>
+			<key>logo</key>
+			<string>NJOY</string>
+			<key>link</key>
+			<string>http://studio.njoyradio.at:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Deutschlandsberg (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NOW radio</string>
+			<key>logo</key>
+			<string>NOW</string>
+			<key>link</key>
+			<string>http://stream.erf.at/nowradio_192.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Orange 94,0</string>
+			<key>logo</key>
+			<string>Orange</string>
+			<key>link</key>
+			<string>http://streamintern.orange.or.at/live3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ö24</string>
+			<key>logo</key>
+			<string>24</string>
+			<key>link</key>
+			<string>http://streamplus14.leonex.de:24954/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music, News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ÖRadio.live</string>
+			<key>logo</key>
+			<string>ORadio.live</string>
+			<key>link</key>
+			<string>https://login.streamplus.de/app.php/shoutcast/public/playlist/download/24345.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Villach (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Agora</string>
+			<key>logo</key>
+			<string>Agora</string>
+			<key>link</key>
+			<string>http://host6.cartwall.at:9898/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Klagenfurt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Allelon</string>
+			<key>logo</key>
+			<string>Allelon</string>
+			<key>link</key>
+			<string>http://62.141.58.223:8000/stream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christian, Romanian</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Alpina</string>
+			<key>logo</key>
+			<string>Alpina</string>
+			<key>link</key>
+			<string>http://streamplus23.leonex.de:25708/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Saalfelden (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Wien</string>
+			<key>logo</key>
+			<string>Arabella</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8000/arabellavie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Oberösterreich</string>
+			<key>logo</key>
+			<string>Oberosterreic</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8002/arabellaooe.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Linz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Niederösterreich</string>
+			<key>logo</key>
+			<string>Niederosterreic</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8001/arabellanoe.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St. Leonhard am Forst (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella 4 Kids</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8004/arabella4kids.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Austropop</string>
+			<key>logo</key>
+			<string>Austropop</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8005/arabellaaustropop.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Ti Amo</string>
+			<key>logo</key>
+			<string>Amo</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8007/arabellatiamo.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Wiener Schmäh</string>
+			<key>logo</key>
+			<string>Wiener</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8008/arabellawiener.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Lovesongs</string>
+			<key>logo</key>
+			<string>Lovesongs</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8009/arabellalove.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Rock</string>
+			<key>logo</key>
+			<string>Roc</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8003/arabellarock.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Arabella Holiday</string>
+			<key>logo</key>
+			<string>Holiday</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8013/arabellaholiday.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiofabrik</string>
+			<key>logo</key>
+			<string>Radiofabrik</string>
+			<key>link</key>
+			<string>http://www.radiofabrik.at/rafab_stream_low.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Salzburg (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio FREEQUENNS</string>
+			<key>logo</key>
+			<string>FREEQUENNS</string>
+			<key>link</key>
+			<string>http://www.freequenns.at/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Liezen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio FRO</string>
+			<key>logo</key>
+			<string>FRO</string>
+			<key>link</key>
+			<string>http://www.fro.at:8008/fro-64.ogg.m3u</string>
+			<key>http</key>
+			<string>http://www.fro.at:8008/fro-128.ogg.m3u</string>
+			<key>note</key>
+			<string>Linz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Grün-Weiss</string>
+			<key>logo</key>
+			<string>Weiss</string>
+			<key>link</key>
+			<string>http://live.gruen-weiss.at/rgw.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Leoben (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Harmonie</string>
+			<key>logo</key>
+			<string>Harmonie</string>
+			<key>link</key>
+			<string>http://www.radioharmonie.at/stream/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Klagenfurt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Helsinki</string>
+			<key>logo</key>
+			<string>Helsinki</string>
+			<key>link</key>
+			<string>http://helsinki.at/livestream/live96mp3.pls</string>
+			<key>http</key>
+			<string>http://helsinki.at/livestream/live96ogg.pls</string>
+			<key>note</key>
+			<string>Graz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>radio klassik Stephansdom</string>
+			<key>logo</key>
+			<string>Stephansdom</string>
+			<key>link</key>
+			<string>http://streaming.lxcluster.at:8000/live56.m3u</string>
+			<key>http</key>
+			<string>http://streaming.lxcluster.at:8000/live128.m3u</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://live.radiomaria.at:8000/rma.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Catholic</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Melodie</string>
+			<key>logo</key>
+			<string>Melodie</string>
+			<key>link</key>
+			<string>http://arabella.stream.kapper.net:8014/radiomelodie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Osttirol</string>
+			<key>logo</key>
+			<string>Osttirol</string>
+			<key>link</key>
+			<string>http://login.streamplus.de/player.php?spt=10956.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lienz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Proton</string>
+			<key>logo</key>
+			<string>Proton</string>
+			<key>link</key>
+			<string>http://www.radioproton.at:8000/proton.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dornbirn (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio SoundPortal</string>
+			<key>logo</key>
+			<string>SoundPortal</string>
+			<key>link</key>
+			<string>http://soundportal.at/typo3conf/ext/aba_soundportal_webradio/pi1/res/r8235.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Graz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Technikum</string>
+			<key>logo</key>
+			<string>Technikum</string>
+			<key>link</key>
+			<string>http://fc.macjingle.net:8200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classic/Hits/Science/Education</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio U1 Tirol</string>
+			<key>logo</key>
+			<string>U1</string>
+			<key>link</key>
+			<string>http://streamplus42.leonex.de:24332/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Schwaz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Uno</string>
+			<key>logo</key>
+			<string>Uno</string>
+			<key>link</key>
+			<string>http://host5.cartwall.at:8888/listen.pls</string>
+			<key>http</key>
+			<string>http://www.radiouno.at/stream.m3u</string>
+			<key>note</key>
+			<string>Klagenfurt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Volksmusik</string>
+			<key>logo</key>
+			<string>Volksmusik</string>
+			<key>link</key>
+			<string>http://server1.cityedv.at:8021/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>radioYpsilon</string>
+			<key>logo</key>
+			<string>radioYpsilon</string>
+			<key>link</key>
+			<string>http://live.radioypsilon.at:85/broadwave.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hollabrunn (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radius 106,6</string>
+			<key>logo</key>
+			<string>Radius</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radius.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Freistadt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Superfly 98.3</string>
+			<key>logo</key>
+			<string>Superfly</string>
+			<key>link</key>
+			<string>http://stream01.superfly.fm:8080/live128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Soul/Blues Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Welle 1 Linz 91,8</string>
+			<key>logo</key>
+			<string>Linz</string>
+			<key>link</key>
+			<string>http://live.welle1.at:7128/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Welle 1 Salzburg 102,6</string>
+			<key>logo</key>
+			<string>Welle</string>
+			<key>link</key>
+			<string>http://live.welle1.at:8128/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Welle 1 Graz 104,6</string>
+			<key>logo</key>
+			<string>Graz</string>
+			<key>link</key>
+			<string>http://live.welle1.at:9128/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Welle 1 Kaernten 95,2</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://live.welle1.at:5128/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unzmarkt-Frauenburg LIVE</string>
+			<key>logo</key>
+			<string>Unzmarkt</string>
+			<key>link</key>
+			<string>http://www.cartwall.at:7320/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
