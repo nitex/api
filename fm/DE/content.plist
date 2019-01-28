@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>7170672535</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>1535202475</string>
 		<key>Banner</key>
-		<string>1</string>
+		<string>4248285281</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>7804386916</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>4739239872</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>8103769813</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>2276728064</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>5421766154</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>7090071049</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>3701490370</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>1263029298</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>9521503703</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1205306632</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1450677855</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -61,42 +61,6 @@
 	</array>
 	<key>Content</key>
 	<array>
-		<dict>
-			<key>name</key>
-			<string>Deutschlandfunk</string>
-			<key>logo</key>
-			<string>Deutschlandfunk</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlf_64.m3u</string>
-			<key>http</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlf_128.m3u</string>
-			<key>note</key>
-			<string>News / Information (Cologne)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Deutschlandradio Kultur</string>
-			<key>logo</key>
-			<string>Kultur</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_64.m3u</string>
-			<key>http</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_128.m3u</string>
-			<key>note</key>
-			<string>Arts / Culture</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Deutschlandfunk Nova</string>
-			<key>logo</key>
-			<string>Nova</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_64.m3u</string>
-			<key>http</key>
-			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_128.m3u</string>
-			<key>note</key>
-			<string>Education / Science (Cologne)</string>
-		</dict>
 		<dict>
 			<key>name</key>
 			<string>NDR 90,3</string>
@@ -203,7 +167,1171 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Alternative / Eclectic music (Hamburg)</string>
+			<string>Alternative Music (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>917xfm</string>
+			<key>logo</key>
+			<string>917xfm</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/917xfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Indie, Alternative, Electro, Jazz Music (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Absolut Radio</string>
+			<key>logo</key>
+			<string>Absolut</string>
+			<key>link</key>
+			<string>http://stream.absolutradio.de/hq/mp3/listenlive.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nürnberg (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Absolut Relax</string>
+			<key>logo</key>
+			<string>Relax</string>
+			<key>link</key>
+			<string>http://stream.absolutradio.de/relax/mp3-128/listenlive.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock/Soul Music (Nürnberg, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Absolut Hot</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://stream.absolutradio.de/hot/mp3-128/listenlive.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Music (Nürnberg, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>alsterradio</string>
+			<key>logo</key>
+			<string>alsterradio</string>
+			<key>link</key>
+			<string>http://live96.106acht.de/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock/Pop Music (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne AC</string>
+			<key>logo</key>
+			<string>AC</string>
+			<key>link</key>
+			<string>http://antenne-ac-mp3.skydisc.net:9000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Würselen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bad Kreuznach</string>
+			<key>logo</key>
+			<string>Kreuznach</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-kh-mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/antenne-kh-aac.m3u</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern</string>
+			<key>logo</key>
+			<string>Bayern</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/antenne.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/antenne.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Top 40</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/top-40.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/top-40.aac.pls</string>
+			<key>note</key>
+			<string>Top 40 (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Schlagersahne</string>
+			<key>logo</key>
+			<string>Schlagersahne</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/das-schlager-karussell.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/das-schlager-karussell.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Oldies but Goldies</string>
+			<key>logo</key>
+			<string>but</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/oldies-but-goldies.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/oldies-but-goldies.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Hits für Kids</string>
+			<key>logo</key>
+			<string>Kids</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/hits-fuer-kids.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/hits-fuer-kids.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Chillout</string>
+			<key>logo</key>
+			<string>Chillout</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/chillout.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/chillout.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Lovesongs</string>
+			<key>logo</key>
+			<string>Lovesongs</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/lovesongs.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/lovesongs.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern 80er Kulthits</string>
+			<key>logo</key>
+			<string>80er</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/80er-kulthits.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/80er-kulthits.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Black Beatz</string>
+			<key>logo</key>
+			<string>Beatz</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/black-beatz.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/black-beatz.aac.pls</string>
+			<key>note</key>
+			<string>HipHop/RnB/Soul Music (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Bayern Classic Rock Live</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://www.antenne.de/webradio/channels/classic-rock-live.m3u</string>
+			<key>http</key>
+			<string>http://www.antenne.de/webradio/channels/classic-rock-live.aac.pls</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Düsseldorf</string>
+			<key>logo</key>
+			<string>Dusseldorf</string>
+			<key>link</key>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-antennedus/livestream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Frankfurt</string>
+			<key>logo</key>
+			<string>Frankfurt</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-frankfurt-mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/antenne-frankfurt-aac.m3u</string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Idar-Oberstein</string>
+			<key>logo</key>
+			<string>Idar</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-io-mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/antenne-io-aac.m3u</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Kaiserslautern</string>
+			<key>logo</key>
+			<string>Kaiserslautern</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-kl-aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Koblenz</string>
+			<key>logo</key>
+			<string>Koblenz</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-koblenz-mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/antenne-koblenz-aac.m3u</string>
+			<key>note</key>
+			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Landau</string>
+			<key>logo</key>
+			<string>Landau</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-landau-aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Mainz</string>
+			<key>logo</key>
+			<string>Mainz</string>
+			<key>link</key>
+			<string>http://rs1.radiostreamer.com:8020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Münster</string>
+			<key>logo</key>
+			<string>Munster</string>
+			<key>link</key>
+			<string>http://stream.antennemuenster.de:8000/am128k.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne MV</string>
+			<key>logo</key>
+			<string>M</string>
+			<key>link</key>
+			<string>http://streams.antennemv.de/antennemv-live/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.antennemv.de/antennemv-live/aac-64/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Plate (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Neunkirchen</string>
+			<key>logo</key>
+			<string>Neunkirchen</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-neunkirchen-mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/antenne-neunkirchen-aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Niederrhein</string>
+			<key>logo</key>
+			<string>Niederrhein</string>
+			<key>link</key>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-antennenr/livestream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kleve (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Niedersachsen</string>
+			<key>logo</key>
+			<string>Nieder</string>
+			<key>link</key>
+			<string>http://stream.antenne.com/antenne-nds/mp3-64/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://stream.antenne.com/antenne-nds/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Hannover</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Niedersachsen 80er</string>
+			<key>logo</key>
+			<string>80</string>
+			<key>link</key>
+			<string>http://stream.antenne.com/antenne-nds-80er/mp3-64/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://stream.antenne.com/antenne-nds-80er/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Hannover</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Niedersachsen 90er</string>
+			<key>logo</key>
+			<string>90</string>
+			<key>link</key>
+			<string>http://stream.antenne.com/antenne-nds-90er/mp3-64/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://stream.antenne.com/antenne-nds-90er/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Hannover</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Niedersachsen Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://stream.antenne.com/rock/mp3-64/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://stream.antenne.com/rock/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Hannover</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Niedersachsen Oldies</string>
+			<key>logo</key>
+			<string>Oldies</string>
+			<key>link</key>
+			<string>http://stream.antenne.com/oldies/mp3-64/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://stream.antenne.com/oldies/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Hannover</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Niedersachsen Charts</string>
+			<key>logo</key>
+			<string>Charts</string>
+			<key>link</key>
+			<string>http://stream.antenne.com/charts/mp3-64/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://stream.antenne.com/charts/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Top 40 (Hannover)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Pfalz</string>
+			<key>logo</key>
+			<string>Pfalz</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-pfalz-aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Neustadt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Pirmasens</string>
+			<key>logo</key>
+			<string>Pirmasens</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-pirmasens-mp3.m3u</string>
+			<key>http</key>
+			<string>http://138.201.124.80:8000/strps</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Sylt</string>
+			<key>logo</key>
+			<string>Sylt</string>
+			<key>link</key>
+			<string>http://antenne-sylt.de/as-48.pls</string>
+			<key>http</key>
+			<string>http://antenne-sylt.de/as-128.pls</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Thüringen</string>
+			<key>logo</key>
+			<string>Thuringen</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/thueringen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Weimar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Unna</string>
+			<key>logo</key>
+			<string>Unna</string>
+			<key>link</key>
+			<string>http://dd11422.kasserver.com:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenne Zweibrücken</string>
+			<key>logo</key>
+			<string>Zweibrucken</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/antenne-zweibruecken-mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/antenne-zweibruecken-aac.m3u</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apollo Radio</string>
+			<key>logo</key>
+			<string>Apollo</string>
+			<key>link</key>
+			<string>http://stream.apolloradio.de/APOLLO/mp3.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classical/Jazz Music (Chemnitz, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Babelsberg Hitradio</string>
+			<key>logo</key>
+			<string>Babelsberg</string>
+			<key>link</key>
+			<string>http://babelsberg-hitradio.de/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Potsdam (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>baden.fm</string>
+			<key>logo</key>
+			<string>baden.fm</string>
+			<key>link</key>
+			<string>http://badenfm.ip-streaming.net:8006/badenfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 (Freiburg, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayern 1</string>
+			<key>logo</key>
+			<string>Bayern1</string>
+			<key>link</key>
+			<string>http://streams.br.de/bayern1_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/bayern1_2.m3u</string>
+			<key>note</key>
+			<string>News/Oldies/Music (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayern 2</string>
+			<key>logo</key>
+			<string>Bayern2</string>
+			<key>link</key>
+			<string>http://streams.br.de/bayern2_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/bayern2_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayern 3</string>
+			<key>logo</key>
+			<string>Bayern3</string>
+			<key>link</key>
+			<string>http://streams.br.de/bayern3_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/bayern3_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayern Plus</string>
+			<key>logo</key>
+			<string>Plus</string>
+			<key>link</key>
+			<string>http://streams.br.de/bayernplus_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/bayernplus_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayernwelle Süd Ost Freilassing</string>
+			<key>logo</key>
+			<string>Bayernwelle</string>
+			<key>link</key>
+			<string>http://icebwso2.srv.co.at:8000/bwbgl_hi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bayernwelle Süd Ost Chiemgau</string>
+			<key>logo</key>
+			<string>Chiemgau</string>
+			<key>link</key>
+			<string>http://icebwso2.srv.co.at:8000/bwchg_uplink.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BB Radio</string>
+			<key>logo</key>
+			<string>BB</string>
+			<key>link</key>
+			<string>http://streams.ir-media-tec.com/bbradio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Berliner Rundfunk</string>
+			<key>logo</key>
+			<string>Berliner</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/berliner.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hits</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>bermuda.funk</string>
+			<key>logo</key>
+			<string>bermuda.funk</string>
+			<key>link</key>
+			<string>http://streaming.fueralle.org:8000/bermudafunk.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mannheim (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big FM</string>
+			<key>logo</key>
+			<string>Big</string>
+			<key>link</key>
+			<string>http://srv04.bigstreams.de/bigfm-mp3-64.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 40 / Music (Stuttgart)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BR-Klassik</string>
+			<key>logo</key>
+			<string>BR</string>
+			<key>link</key>
+			<string>http://streams.br.de/br-klassik_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/br-klassik_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>B5 Aktuell</string>
+			<key>logo</key>
+			<string>Aktuell</string>
+			<key>link</key>
+			<string>http://streams.br.de/b5aktuell_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/b5aktuell_2.m3u</string>
+			<key>note</key>
+			<string>News (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>B5 Plus</string>
+			<key>logo</key>
+			<string>B5</string>
+			<key>link</key>
+			<string>http://streams.br.de/b5plus_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/b5plus_2.m3u</string>
+			<key>note</key>
+			<string>News (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BR Heimat</string>
+			<key>logo</key>
+			<string>Heimat</string>
+			<key>link</key>
+			<string>http://streams.br.de/brheimat_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/brheimat_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BR Puls</string>
+			<key>logo</key>
+			<string>Puls</string>
+			<key>link</key>
+			<string>http://streams.br.de/puls_1.m3u</string>
+			<key>http</key>
+			<string>http://streams.br.de/puls_2.m3u</string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bremen Eins</string>
+			<key>logo</key>
+			<string>Bremen</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremeneins_56.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremeneins_128.m3u</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bremen Vier</string>
+			<key>logo</key>
+			<string>Vier</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremenvier_56.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_bremenvier_128.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BurnFM</string>
+			<key>logo</key>
+			<string>BurnFM</string>
+			<key>link</key>
+			<string>http://www.burn-fm.de/live_mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.burn-fm.de/live_aac_32.m3u</string>
+			<key>note</key>
+			<string>Hof (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Byte FM</string>
+			<key>logo</key>
+			<string>Byte</string>
+			<key>link</key>
+			<string>http://www.byte.fm/stream/bytefm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alternative/Rock/Pop Music (Hamburg)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CampusFM</string>
+			<key>logo</key>
+			<string>CampusFM</string>
+			<key>link</key>
+			<string>http://132.252.179.253:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Essen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari 98.6</string>
+			<key>logo</key>
+			<string>98.6</string>
+			<key>link</key>
+			<string>http://webradio.charivari986.de:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nürnberg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari 95.5</string>
+			<key>logo</key>
+			<string>95.5</string>
+			<key>link</key>
+			<string>http://www.charivari.de/stream1.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari Partyhitmix</string>
+			<key>logo</key>
+			<string>Partyhitmix</string>
+			<key>link</key>
+			<string>http://rs5.stream24.net:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari 102.4</string>
+			<key>logo</key>
+			<string>102.4</string>
+			<key>link</key>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-charivariwb/livestream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Würzburg (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Charivari Regensburg</string>
+			<key>logo</key>
+			<string>Regensburg</string>
+			<key>link</key>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/ps-chari/livestream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CityRadio Trier</string>
+			<key>logo</key>
+			<string>Trier</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/cityradiotrier.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classical 102</string>
+			<key>logo</key>
+			<string>102</string>
+			<key>link</key>
+			<string>http://tuner.classical102.com/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic Rock Radio</string>
+			<key>logo</key>
+			<string>Roc</string>
+			<key>link</key>
+			<string>http://edge.live.mp3.mdn.newmedia.nacamar.net/radiosalueclassicrock/livestream96s.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Saarbrücken (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>coloRadio</string>
+			<key>logo</key>
+			<string>coloRadio</string>
+			<key>link</key>
+			<string>http://hub.fueralle.org/coloradio160mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dresden</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coolradio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://www.coolradio.de/streams/coolradio1-128.m3u</string>
+			<key>http</key>
+			<string>http://www.coolradio.de/streams/coolradio1-48.m3u</string>
+			<key>note</key>
+			<string>Ingolstadt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coolradio Jazz</string>
+			<key>logo</key>
+			<string>Coolradio</string>
+			<key>link</key>
+			<string>http://www.coolradio.de/streams/cooljazz-128.m3u</string>
+			<key>http</key>
+			<string>http://www.coolradio.de/streams/cooljazz-48.m3u</string>
+			<key>note</key>
+			<string>Ingolstadt (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Country 108</string>
+			<key>logo</key>
+			<string>108</string>
+			<key>link</key>
+			<string>http://www.country108.com/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CT das radio</string>
+			<key>logo</key>
+			<string>CT</string>
+			<key>link</key>
+			<string>http://live.radioct.de:8008/listen.pls</string>
+			<key>http</key>
+			<string>http://www.ctdasradio.de/listen.pls</string>
+			<key>note</key>
+			<string>Bochum</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing</string>
+			<key>logo</key>
+			<string>DasDing</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasding_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasding_m.m3u</string>
+			<key>note</key>
+			<string>Music / Top 40 (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing Lautstark</string>
+			<key>logo</key>
+			<string>Lautstark</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasdingraka01_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasdingraka01_m.m3u</string>
+			<key>note</key>
+			<string>Rock Music (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing Plattenleger</string>
+			<key>logo</key>
+			<string>Plattenleger</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasdingraka03_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasdingraka03_m.m3u</string>
+			<key>note</key>
+			<string>House Music (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DasDing Sprechstunde</string>
+			<key>logo</key>
+			<string>Sprechstunde</string>
+			<key>link</key>
+			<string>http://mp3-live.dasding.de/dasdingraka02_s.m3u</string>
+			<key>http</key>
+			<string>http://mp3-live.dasding.de/dasdingraka02_m.m3u</string>
+			<key>note</key>
+			<string>HipHop/RnB Music (Baden Baden)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Defjay Radio</string>
+			<key>logo</key>
+			<string>Defjay</string>
+			<key>link</key>
+			<string>http://www.defjay.de/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio</string>
+			<key>logo</key>
+			<string>delta</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-live/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-live/aac-48/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Rock Music (Kiel, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio ALTERNATIVE</string>
+			<key>logo</key>
+			<string>ALTERNATIVE</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-alternative/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-alternative/aac-64/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Kiel (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio GRUNGE</string>
+			<key>logo</key>
+			<string>GRUNGE</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-grunge/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-grunge/mp3-192/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Kiel (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio INDIE</string>
+			<key>logo</key>
+			<string>INDIE</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-indie/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-indie/aac-64/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Kiel (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>delta radio Föhnfrisur</string>
+			<key>logo</key>
+			<string>Fohnfrisur</string>
+			<key>link</key>
+			<string>http://streams.deltaradio.de/delta-foehnfrisur/mp3-128/listenlive/play.m3u</string>
+			<key>http</key>
+			<string>http://streams.deltaradio.de/delta-foehnfrisur/aac-64/listenlive/play.m3u</string>
+			<key>note</key>
+			<string>Rock Music (Kiel, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe</string>
+			<key>logo</key>
+			<string>Deluxe</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/deluxeradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz Music (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Lounge</string>
+			<key>logo</key>
+			<string>Lounge</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/lounge_web/mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Disco</string>
+			<key>logo</key>
+			<string>Disco</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/disco.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe 80s Extreme</string>
+			<key>logo</key>
+			<string>Extreme</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/80s.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Dinner and Bar Tunes</string>
+			<key>logo</key>
+			<string>Bar</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/dinner.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jazz / Lounge Music (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/gold.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies (Munich)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Rock</string>
+			<key>logo</key>
+			<string>Ro</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/rock.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Munich (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deluxe Lounge</string>
+			<key>logo</key>
+			<string>Loung</string>
+			<key>link</key>
+			<string>http://radio.cdn.deluxemusic.tv/deluxemusic.tv/lounge.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deutschlandfunk</string>
+			<key>logo</key>
+			<string>Deutschlandfunk</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlf_64.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlf_128.m3u</string>
+			<key>note</key>
+			<string>News / Information (Cologne)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deutschlandradio Kultur</string>
+			<key>logo</key>
+			<string>Kultur</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_64.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfkultur_128.m3u</string>
+			<key>note</key>
+			<string>Arts / Culture</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deutschlandfunk Nova</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_64.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/germany/de_dlfnova_128.m3u</string>
+			<key>note</key>
+			<string>Education / Science (Cologne)</string>
 		</dict>
 	</array>
 </dict>
