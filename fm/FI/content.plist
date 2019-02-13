@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>9825280099</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>4361910867</string>
 		<key>Banner</key>
-		<string>1</string>
+		<string>7554339976</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>8675849959</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>7171196592</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>9605788243</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>1727298227</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>8847950785</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>3399472541</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>1372075008</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>9222644863</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>1516255677</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1207634243</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1452777498</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://areena.yle.fi/radio/ohjelmat/yle-radio-1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>Suomi</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://areena.yle.fi/radio/ohjelmat/yle-radio-suomi</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>Puhe</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://areena.yle.fi/radio/ohjelmat/yle-puhe</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>YleX</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://areena.yle.fi/radio/ohjelmat/ylex</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,11 +115,155 @@
 			<key>logo</key>
 			<string>Klassinen</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://areena.yle.fi/radio/ohjelmat/yle-klassinen/</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Classical Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Finest FM</string>
+			<key>logo</key>
+			<string>Finest</string>
+			<key>link</key>
+			<string>http://69.175.94.98:8102/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kirkkonummi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Free Your Mind</string>
+			<key>logo</key>
+			<string>Mind</string>
+			<key>link</key>
+			<string>http://radio01.nk.hel.fi:8128/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Gramox</string>
+			<key>logo</key>
+			<string>Gramox</string>
+			<key>link</key>
+			<string>http://suomiradio.pro:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies / Nostalgia (Tampere, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Moreeni</string>
+			<key>logo</key>
+			<string>Moreeni</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/moreeni.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tampere (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Pro</string>
+			<key>logo</key>
+			<string>Pro</string>
+			<key>link</key>
+			<string>http://radioaktiivinen.lappia.fi:8000/play.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tornio (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sandels</string>
+			<key>logo</key>
+			<string>Sandels</string>
+			<key>link</key>
+			<string>http://suomiradio.pro:8080/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kuopio (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rondo Classic Klasu</string>
+			<key>logo</key>
+			<string>Klasu</string>
+			<key>link</key>
+			<string>http://stream.iradio.fi:8000/klasu-med.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.iradio.fi:8000/klasu-hi.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rondo Classic Klasu Pro</string>
+			<key>logo</key>
+			<string>Rondo</string>
+			<key>link</key>
+			<string>http://stream.iradio.fi:8000/klasupro-med.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.iradio.fi:8000/klasupro-hi.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sea FM</string>
+			<key>logo</key>
+			<string>Sea</string>
+			<key>link</key>
+			<string>http://s3.myradiostream.com:4976/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oulu (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spin FM</string>
+			<key>logo</key>
+			<string>Spin</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/spinfm_fi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB / HipHop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Steel FM</string>
+			<key>logo</key>
+			<string>Steel</string>
+			<key>link</key>
+			<string>http://ice6.securenetsystems.net/STEELFM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Current / Classic Hits (Åland, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Viva Classica</string>
+			<key>logo</key>
+			<string>Viva</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/vivaclassica.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>

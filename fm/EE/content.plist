@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>Vikerraadio</string>
 			<key>link</key>
-			<string>http://icecast.err.ee/vikerraadio.mp3.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://icecast.err.ee/raadio2.mp3.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>Klassikaraadio</string>
 			<key>link</key>
-			<string>http://icecast.err.ee/klassikaraadio.mp3.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>4</string>
 			<key>link</key>
-			<string>http://icecast.err.ee/raadio4.mp3.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>Tallinn</string>
 			<key>link</key>
-			<string>http://icecast.err.ee/raadiotallinn.mp3.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>DFM</string>
 			<key>link</key>
-			<string>http://striiming.trio.ee/dfm.mp3.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Hit</string>
 			<key>link</key>
-			<string>http://stream.hitfm.ee/HitFM_96.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>Yumor</string>
 			<key>link</key>
-			<string>http://81.19.85.196/umor128.mp3.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>Kuressaare</string>
 			<key>link</key>
-			<string>http://85.89.32.114:8080/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>Marta</string>
 			<key>link</key>
-			<string>http://icecast.mmm.elion.ee:8080/MartaFM.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>MyHits</string>
 			<key>link</key>
-			<string>http://striiming.trio.ee:8008/myhits_high.mp3</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,7 +199,7 @@
 			<key>logo</key>
 			<string>Narodnoe</string>
 			<key>link</key>
-			<string>http://striiming.trio.ee/narodnoe.mp3.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -211,227 +211,11 @@
 			<key>logo</key>
 			<string>NRJ</string>
 			<key>link</key>
-			<string>http://skymedia.babahhcdn.com/NRJ.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Dance</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Nõmme Raadio</string>
-			<key>logo</key>
-			<string>Nomme</string>
-			<key>link</key>
-			<string>http://149.210.165.176:8000/nommeraadio.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Power Hit Radio</string>
-			<key>logo</key>
-			<string>Power</string>
-			<key>link</key>
-			<string>http://stream.power.ee/PHR.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Raadio 7</string>
-			<key>logo</key>
-			<string>7</string>
-			<key>link</key>
-			<string>http://icecast.mmm.elion.ee:8080/Raadio7.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Raadio Elmar</string>
-			<key>logo</key>
-			<string>Elmar</string>
-			<key>link</key>
-			<string>http://striiming.trio.ee/elmar.mp3.m3u</string>
-			<key>http</key>
-			<string>http://striiming.trio.ee/elmar_high.mp3.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Raadio Kadi</string>
-			<key>logo</key>
-			<string>Kadi</string>
-			<key>link</key>
-			<string>http://icecast.mmm.elion.ee:8080/Kadi.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 10 (Kuressaare)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Raadio Kuku</string>
-			<key>logo</key>
-			<string>Kuku</string>
-			<key>link</key>
-			<string>http://striiming.trio.ee/kuku.mp3.m3u</string>
-			<key>http</key>
-			<string>http://striiming.trio.ee/kuku_high.mp3.m3u</string>
-			<key>note</key>
-			<string>News/Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Mania</string>
-			<key>logo</key>
-			<string>Mania</string>
-			<key>link</key>
-			<string>http://icecast.linxtelecom.com:8000/mania.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Rock</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Радио Волна 107.1</string>
-			<key>logo</key>
-			<string>Volna</string>
-			<key>link</key>
-			<string>http://volna.babahhcdn.com:8100/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Retro FM</string>
-			<key>logo</key>
-			<string>Retro</string>
-			<key>link</key>
-			<string>http://stream05.akaver.com/retrofm_low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://stream05.akaver.com/retrofm_low.ogg.m3u</string>
-			<key>note</key>
-			<string>Oldies</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ring FM</string>
-			<key>logo</key>
-			<string>Ring</string>
-			<key>link</key>
-			<string>http://www.listenlive.eu/ringfmee.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 10 (Võru)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Русское Радио</string>
-			<key>logo</key>
-			<string>Russkoe</string>
-			<key>link</key>
-			<string>http://194.106.119.241:8500/russkoeradio_low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://194.106.119.241:8500/russkoeradio_low.ogg.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sky Radio 98.4 FM</string>
-			<key>logo</key>
-			<string>Sky</string>
-			<key>link</key>
-			<string>http://194.106.119.241:8500/skyradio_low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://194.106.119.241:8500/skyradio_low.ogg.m3u</string>
-			<key>note</key>
-			<string>Top 10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SkyPlus</string>
-			<key>logo</key>
-			<string>SkyPlus</string>
-			<key>link</key>
-			<string>http://194.106.119.241:8500/skyplus_low.mp3.m3u</string>
-			<key>http</key>
-			<string>http://194.106.119.241:8500/skyplus_low.ogg.m3u</string>
-			<key>note</key>
-			<string>Top 10</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spin FM</string>
-			<key>logo</key>
-			<string>Spin</string>
-			<key>link</key>
-			<string>http://striiming.trio.ee/spinfm.mp3.m3u</string>
-			<key>http</key>
-			<string>http://striiming.trio.ee/spinfm_high.mp3.m3u</string>
-			<key>note</key>
-			<string>RnB/Soul</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Star FM</string>
-			<key>logo</key>
-			<string>StarFM</string>
-			<key>link</key>
-			<string>http://stream.power.ee/StarFM.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tartu Pereraadio</string>
-			<key>logo</key>
-			<string>Pereraadio</string>
-			<key>link</key>
-			<string>http://bee.pereraadio.ee:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tartu</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tre Raadio Rapla 91,3</string>
-			<key>logo</key>
-			<string>Tre</string>
-			<key>link</key>
-			<string>http://tre.ee/listen/radiotre.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tre Raadio Parnu 92,7</string>
-			<key>logo</key>
-			<string>Parnu</string>
-			<key>link</key>
-			<string>http://icecast.mmm.elion.ee:8080/paikeseraadio.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
 		</dict>
 	</array>
 </dict>
