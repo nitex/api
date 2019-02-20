@@ -47,99 +47,15 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
-	<key>Menu</key>
-	<array>
-		<string>Top</string>
-		<string>News</string>
-		<string>Local</string>
-		<string>Classic</string>
-		<string>Music</string>
-		<string>Sport</string>
-		<string>Talk</string>
-		<string>Youth</string>
-		<string>Oldies</string>
-	</array>
 	<key>Content</key>
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Polskie Radio 1 (Jedynka)</string>
-			<key>logo</key>
-			<string>1</string>
-			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8900/listen.pls</string>
-			<key>http</key>
 			<string></string>
-			<key>note</key>
-			<string>News/Features</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Polskie Radio 2 (Dwójka)</string>
 			<key>logo</key>
-			<string>2</string>
-			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8902/listen.pls</string>
-			<key>http</key>
 			<string></string>
-			<key>note</key>
-			<string>Classical/Culture</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Polskie Radio 3 (Trójka)</string>
-			<key>logo</key>
-			<string>3</string>
 			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8904/listen.pls</string>
-			<key>http</key>
 			<string></string>
-			<key>note</key>
-			<string>Pop/Rock</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Polskie Radio Czwórka</string>
-			<key>logo</key>
-			<string>4</string>
-			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8906/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Youth/Lifestyle</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Poland</string>
-			<key>logo</key>
-			<string>Poland</string>
-			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8908/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>International</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Polskie Radio 24</string>
-			<key>logo</key>
-			<string>24</string>
-			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8080/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News/Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Polskie Radio Rytm</string>
-			<key>logo</key>
-			<string>Rytm</string>
-			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8910/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,23 +63,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Polskie Radio dzieciom</string>
-			<key>logo</key>
-			<string>dzieciom</string>
-			<key>link</key>
-			<string>http://stream3.polskieradio.pl:8916/listen.pls</string>
-			<key>http</key>
 			<string></string>
-			<key>note</key>
-			<string>Children</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Polskie Radio Bialystok</string>
 			<key>logo</key>
-			<string>Bialystok</string>
+			<string></string>
 			<key>link</key>
-			<string>http://www.radio.bialystok.pl/internetowe/radioplayer/mp3stream.pls</string>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,11 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Polskie Radio Dla Ciebie</string>
+			<string></string>
 			<key>logo</key>
-			<string>Dla</string>
+			<string></string>
 			<key>link</key>
-			<string>http://www.rdc.pl/rdc.m3u</string>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -183,11 +87,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Polskie Radio Gdansk</string>
+			<string></string>
 			<key>logo</key>
-			<string>Gdansk</string>
+			<string></string>
 			<key>link</key>
-			<string>http://stream.task.gda.pl:8000/rg1.m3u</string>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,11 +99,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Polskie Radio Gorzów 95,6 FM</string>
+			<string></string>
 			<key>logo</key>
-			<string>95,6</string>
+			<string></string>
 			<key>link</key>
-			<string>http://stream02.radiogorzow.pl:10115/listen.pls</string>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +111,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Polskie Radio Katowice</string>
+			<string></string>
 			<key>logo</key>
-			<string>Katowice</string>
+			<string></string>
 			<key>link</key>
-			<string>http://panel.nadaje.com:9212/radiokatowice.m3u</string>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
