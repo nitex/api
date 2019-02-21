@@ -59,7 +59,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/cro1-128.mp3.m3u</string>
 			<key>note</key>
-			<string>News, current affairs and music</string>
+			<string>News, current affairs and Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -95,7 +95,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/croplus128.mp3.m3u</string>
 			<key>note</key>
-			<string>Analysis, current affairs and science</string>
+			<string>Analysis, News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,7 +107,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/crowave-128.mp3.m3u</string>
 			<key>note</key>
-			<string>Youth programming</string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +119,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/croddur-128.mp3.m3u</string>
 			<key>note</key>
-			<string>Classical music</string>
+			<string>Classical Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +131,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/crojazz128.mp3.m3u</string>
 			<key>note</key>
-			<string>Jazz music</string>
+			<string>Jazz Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +143,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/crojuniormaxi128.mp3.m3u</string>
 			<key>note</key>
-			<string>Children programmes</string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +167,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/crojuniormini128.mp3.m3u</string>
 			<key>note</key>
-			<string>Children programmes</string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -191,7 +191,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/crosport128.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,7 +203,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/crobrno128.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -311,7 +311,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/crosever32.aac.m3u</string>
 			<key>note</key>
-			<string>Ústí nad Labem</string>
+			<string>Ústí nad Labem (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -491,7 +491,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>HipHop/RnB</string>
+			<string>HipHop/RnB Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -503,7 +503,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Rock</string>
+			<string>Rock Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -515,7 +515,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Dance</string>
+			<string>Dance Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -527,7 +527,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 / RnB</string>
+			<string>Top 30 / RnB Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -539,7 +539,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Ústí nad Labem)</string>
+			<string>Top 30 (Ústí nad Labem, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -551,7 +551,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Chomutov)</string>
+			<string>Top 30 (Chomutov, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -563,7 +563,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Olomouc)</string>
+			<string>Top 30 (Olomouc, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -575,7 +575,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Pardubice)</string>
+			<string>Top 30 (Pardubice, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -587,7 +587,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Brno</string>
+			<string>Brno (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -647,7 +647,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>80s</string>
+			<string>80s Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -659,7 +659,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Disco</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -671,7 +671,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Folk</string>
+			<string>Folk Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -683,7 +683,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Most</string>
+			<string>Most (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -695,7 +695,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Trutnov</string>
+			<string>Trutnov (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -719,7 +719,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/dragon128.mp3.m3u</string>
 			<key>note</key>
-			<string>Karlovy Vary</string>
+			<string>Karlovy Vary (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -731,7 +731,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/faktor128.mp3.m3u</string>
 			<key>note</key>
-			<string>České Budějovice</string>
+			<string>České Budějovice (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -743,7 +743,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/fmplus128.mp3.m3u</string>
 			<key>note</key>
-			<string>Plzen</string>
+			<string>Plzen (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -755,7 +755,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/hitradiofm.mp3.m3u</string>
 			<key>note</key>
-			<string>Ústí nad Labem</string>
+			<string>Ústí nad Labem (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -767,7 +767,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/magic.mp3.m3u</string>
 			<key>note</key>
-			<string>Nachod</string>
+			<string>Nachod (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -779,7 +779,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/magicbrno128.mp3</string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -791,7 +791,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/orion128.mp3.m3u</string>
 			<key>note</key>
-			<string>Ostrava</string>
+			<string>Ostrava (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -803,7 +803,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/orionmorava128.mp3.m3u</string>
 			<key>note</key>
-			<string>Olomouc</string>
+			<string>Olomouc (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -815,7 +815,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/orionval128.mp3.m3u</string>
 			<key>note</key>
-			<string>Vsetín</string>
+			<string>Vsetín (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -827,7 +827,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/hit80128.mp3.m3u</string>
 			<key>note</key>
-			<string>Ostrava</string>
+			<string>Ostrava (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -839,7 +839,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/hit90128.mp3.m3u</string>
 			<key>note</key>
-			<string>Ostrava</string>
+			<string>Ostrava (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -851,7 +851,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/hitmi128.mp3.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Ostrava)</string>
+			<string>Top 30 (Ostrava, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -863,7 +863,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/hitpoprock128.mp3.m3u</string>
 			<key>note</key>
-			<string>Pop/Rock (Ostrava)</string>
+			<string>Pop/Rock Music (Ostrava, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -875,7 +875,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/hitzl128.mp3.m3u</string>
 			<key>note</key>
-			<string>Love (Ostrava)</string>
+			<string>Love (Ostrava, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -887,7 +887,7 @@
 			<key>http</key>
 			<string>http://ice5.abradio.cz/hitvysocina128.mp3.m3u</string>
 			<key>note</key>
-			<string>Jihlava</string>
+			<string>Jihlava (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -923,7 +923,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/kissdelta32.aac.m3u</string>
 			<key>note</key>
-			<string>Mladá Boleslav</string>
+			<string>Mladá Boleslav (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -935,7 +935,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/kissmorava128.mp3.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Olomouc)</string>
+			<string>Top 30 (Olomouc, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -947,7 +947,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/kissmoravaov128.mp3.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Ostrava)</string>
+			<string>Top 30 (Ostrava, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -959,7 +959,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/kissproton32.aac.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Plzen)</string>
+			<string>Top 30 (Plzen, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -971,7 +971,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/kisshady32.aac.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Brno)</string>
+			<string>Top 30 (Brno, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -983,7 +983,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/kissjc32.aac.m3u</string>
 			<key>note</key>
-			<string>Top 30 (České Budějovice)</string>
+			<string>Top 30 (České Budějovice, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -995,7 +995,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/kisspublikum32.aac.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Zlin)</string>
+			<string>Top 30 (Zlin, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1007,7 +1007,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>60s/70s</string>
+			<string>60s/70s Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1019,7 +1019,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Alternative/Indie/Dance</string>
+			<string>Alternative/Indie/Dance Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1031,7 +1031,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/beat32.aac.m3u</string>
 			<key>note</key>
-			<string>Classic Rock</string>
+			<string>Classic Rock Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1043,7 +1043,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz/blanikfm128.mp3.m3u</string>
 			<key>note</key>
-			<string>Mnichovice</string>
+			<string>Mnichovice (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1079,7 +1079,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/casradio32.aac.m3u</string>
 			<key>note</key>
-			<string>Ostrava</string>
+			<string>Ostrava (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1091,7 +1091,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Olomouc</string>
+			<string>Olomouc (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1103,7 +1103,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Zlín</string>
+			<string>Zlín (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1115,7 +1115,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Brno</string>
+			<string>Brno (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1127,7 +1127,7 @@
 			<key>http</key>
 			<string>http://icecast7.play.cz/casrock64.mp3.m3u</string>
 			<key>note</key>
-			<string>Ostrava</string>
+			<string>Ostrava (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1139,7 +1139,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Cheb)</string>
+			<string>Top 30 (Cheb, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1151,7 +1151,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/hana160.mp3.m3u</string>
 			<key>note</key>
-			<string>Olomouc</string>
+			<string>Olomouc (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1163,7 +1163,7 @@
 			<key>http</key>
 			<string>http://ice.abradio.cz:8000/helax64.aac.m3u</string>
 			<key>note</key>
-			<string>Pop/Rock/Dance (Ostrava)</string>
+			<string>Pop/Rock/Dance Music (Ostrava, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1175,7 +1175,7 @@
 			<key>http</key>
 			<string>http://www.play.cz/radio/jih128.mp3.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Hodonín)</string>
+			<string>Top 30 (Hodonín, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1187,7 +1187,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Brno)</string>
+			<string>Top 30 (Brno, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1199,7 +1199,7 @@
 			<key>http</key>
 			<string>https://api.play.cz/radio/proglas128.m3u</string>
 			<key>note</key>
-			<string>Culture (Brno)</string>
+			<string>Culture (Brno, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1211,7 +1211,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 30 (Kladno)</string>
+			<string>Top 30 (Kladno, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1223,7 +1223,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>RnB/HipHop/Soul</string>
+			<string>RnB/HipHop/Soul Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1235,7 +1235,7 @@
 			<key>http</key>
 			<string>http://212.111.2.151:8000/radiozlin_256.mp3.m3u</string>
 			<key>note</key>
-			<string>Top 30 (Zlín)</string>
+			<string>Top 30 (Zlín, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1247,7 +1247,7 @@
 			<key>http</key>
 			<string>http://www.radiozlin.cz/stream_blue/radiozlin_blue_256_mp3.m3u</string>
 			<key>note</key>
-			<string>Oldies/Classic/Rock (Zlín)</string>
+			<string>Oldies/Classic/Rock Music (Zlín, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1259,7 +1259,7 @@
 			<key>http</key>
 			<string>http://212.111.2.151:8000/radiozlin_ballads_256.mp3.m3u</string>
 			<key>note</key>
-			<string>Ballads ()</string>
+			<string>Ballads</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1271,7 +1271,7 @@
 			<key>http</key>
 			<string>http://212.111.2.151:8000/rockmax_256.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1283,7 +1283,7 @@
 			<key>http</key>
 			<string>http://212.111.2.151:8000/rm_old_256.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1307,7 +1307,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>České Budějovice</string>
+			<string>České Budějovice (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1319,7 +1319,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Pisek</string>
+			<string>Pisek (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1331,7 +1331,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Plzen</string>
+			<string>Plzen (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1355,7 +1355,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies/Folk (Mladá Boleslav)</string>
+			<string>Oldies/Folk Music (Mladá Boleslav, Local)</string>
 		</dict>
 	</array>
 </dict>
