@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>7131037251</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>5946658532</string>
 		<key>Banner</key>
-		<string>1</string>
+		<string>9502760166</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>3958202714</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>9035856306</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>7514304349</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>5124531454</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>2087304572</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>6748017582</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>4121730534</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>6054469741</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>7175979720</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1206536577</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1453819170</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -67,11 +67,11 @@
 			<key>logo</key>
 			<string>Cro</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://api.play.cz/radio/cro1-64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://api.play.cz/radio/cro1-128.mp3.m3u</string>
 			<key>note</key>
-			<string>News, current affairs and music</string>
+			<string>News, current affairs and Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>Dvojka</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://api.play.cz/radio/cro2-64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://api.play.cz/radio/cro2-128.mp3.m3u</string>
 			<key>note</key>
 			<string>Entertainment and education</string>
 		</dict>
@@ -91,9 +91,9 @@
 			<key>logo</key>
 			<string>Vltava</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://api.play.cz/radio/cro3-64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://api.play.cz/radio/cro3-128.mp3.m3u</string>
 			<key>note</key>
 			<string>Culture</string>
 		</dict>
@@ -103,11 +103,11 @@
 			<key>logo</key>
 			<string>Plus</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://api.play.cz/radio/croplus64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://api.play.cz/radio/croplus128.mp3.m3u</string>
 			<key>note</key>
-			<string>Analysis, current affairs and science</string>
+			<string>Analysis, News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -115,11 +115,11 @@
 			<key>logo</key>
 			<string>Wave</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://api.play.cz/radio/crowave-64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://api.play.cz/radio/crowave-128.mp3.m3u</string>
 			<key>note</key>
-			<string>Youth programming</string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -127,11 +127,11 @@
 			<key>logo</key>
 			<string>D-dur</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://api.play.cz/radio/croddur-64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://api.play.cz/radio/croddur-128.mp3.m3u</string>
 			<key>note</key>
-			<string>Classical music</string>
+			<string>Classical Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,11 +139,11 @@
 			<key>logo</key>
 			<string>Cro7</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://api.play.cz/radio/crojazz64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://api.play.cz/radio/crojazz128.mp3.m3u</string>
 			<key>note</key>
-			<string>Jazz music</string>
+			<string>Jazz Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -151,11 +151,11 @@
 			<key>logo</key>
 			<string>Junior1</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://api.play.cz/radio/crojuniormaxi64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://api.play.cz/radio/crojuniormaxi128.mp3.m3u</string>
 			<key>note</key>
-			<string>Children programmes</string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,9 +163,9 @@
 			<key>logo</key>
 			<string>Retro</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://api.play.cz/radio/croretro64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>https://api.play.cz/radio/croretro128.mp3.m3u</string>
 			<key>note</key>
 			<string>Archive programmes</string>
 		</dict>
@@ -175,11 +175,11 @@
 			<key>logo</key>
 			<string>Junior2</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://api.play.cz/radio/crojuniormini32.mp3.m3u</string>
 			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>https://api.play.cz/radio/crojuniormini128.mp3.m3u</string>
 			<key>note</key>
-			<string>Children programmes</string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,9 +187,9 @@
 			<key>logo</key>
 			<string>Praha</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://api.play.cz/radio/cro7-64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>https://api.play.cz/radio/cro7-128.mp3.m3u</string>
 			<key>note</key>
 			<string>International service</string>
 		</dict>
@@ -199,11 +199,11 @@
 			<key>logo</key>
 			<string>Sport</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://api.play.cz/radio/crosport64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://api.play.cz/radio/crosport128.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -211,11 +211,1163 @@
 			<key>logo</key>
 			<string>Brno</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://api.play.cz/radio/crobrno64.mp3.m3u</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>https://api.play.cz/radio/crobrno128.mp3.m3u</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo České Budějovice</string>
+			<key>logo</key>
+			<string>Budejovice</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crocb64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crocb32.aac.m3u</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Hradec Králové</string>
+			<key>logo</key>
+			<string>Hradec</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crohk64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crohk32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Olomouc</string>
+			<key>logo</key>
+			<string>Olomouc</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crool64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crool32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Ostrava</string>
+			<key>logo</key>
+			<string>Ostrava</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croov64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croov32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Pardubice</string>
+			<key>logo</key>
+			<string>Pardubice</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/cropardubice64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/cropardubice32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Plzeň</string>
+			<key>logo</key>
+			<string>Plzen</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croplzen64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croplzen32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Karlovy Vary</string>
+			<key>logo</key>
+			<string>Karlovy</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crokv64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crokv32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Regina DAB Praha</string>
+			<key>logo</key>
+			<string>Regina</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croregina64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croregina32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Sever</string>
+			<key>logo</key>
+			<string>Sever</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crosever64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crosever32.aac.m3u</string>
+			<key>note</key>
+			<string>Ústí nad Labem (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Liberec</string>
+			<key>logo</key>
+			<string>Liberec</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croliberec64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croliberec32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Region Střední Čechy</string>
+			<key>logo</key>
+			<string>Region</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/croregion64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/croregion32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ČRo Region Vysočina</string>
+			<key>logo</key>
+			<string>Vysocina</string>
+			<key>link</key>
+			<string>https://api.play.cz/radio/crovysocina64.mp3.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/crovysocina32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic Praha</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://icecast8.play.cz/classic128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Club Radio</string>
+			<key>logo</key>
+			<string>Club</string>
+			<key>link</key>
+			<string>http://radio.ipip.cz:7996/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Country Radio</string>
+			<key>logo</key>
+			<string>Country</string>
+			<key>link</key>
+			<string>http://icecast2.play.cz:8000/country64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/countryradio32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dance Radio</string>
+			<key>logo</key>
+			<string>Dance</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/danceradio128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/danceradio192.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Evropa 2</string>
+			<key>logo</key>
+			<string>Evropa</string>
+			<key>link</key>
+			<string>http://icecast4.play.cz/evropa2-64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast3.play.cz/evropa2-128.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Evropa 2 Top 40</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-e2-top40.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Evropa 2 Flashback</string>
+			<key>logo</key>
+			<string>Flashback</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-e2-flashback.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>90s</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Evropa 2 HOT</string>
+			<key>logo</key>
+			<string>HOT</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-e2-hot.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Evropa 2 Movin</string>
+			<key>logo</key>
+			<string>Movin</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-e2-movin.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Expres Radio</string>
+			<key>logo</key>
+			<string>Expres</string>
+			<key>link</key>
+			<string>http://icecast5.play.cz/expres64mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast5.play.cz/expres32aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Radio</string>
+			<key>logo</key>
+			<string>Fajn</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajn128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Radio Black</string>
+			<key>logo</key>
+			<string>Black</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnblack128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>HipHop/RnB Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Radio Hardcore</string>
+			<key>logo</key>
+			<string>Hardcore</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnhardcore128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Radio Club</string>
+			<key>logo</key>
+			<string>Clu</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnclub128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Radio Fresh</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnfresh128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 / RnB Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn North Music</string>
+			<key>logo</key>
+			<string>North</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnnorth128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Ústí nad Labem, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Rádio Agara</string>
+			<key>logo</key>
+			<string>Agara</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnagara128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Chomutov, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Rádio Hity</string>
+			<key>logo</key>
+			<string>Hity</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnhity128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Olomouc, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fajn Rádio Life</string>
+			<key>logo</key>
+			<string>Life</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fajnlife128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Pardubice, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Free Rádio 107 FM</string>
+			<key>logo</key>
+			<string>107</string>
+			<key>link</key>
+			<string>http://icecast8.play.cz/freeradio128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brno (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frekvence 1</string>
+			<key>logo</key>
+			<string>Frekvence</string>
+			<key>link</key>
+			<string>http://icecast3.play.cz/frekvence1-64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast4.play.cz/frekvence1-128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frekvence 1 Legendy</string>
+			<key>logo</key>
+			<string>Legendy</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-f1-legendy.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frekvence 1 Romantika</string>
+			<key>logo</key>
+			<string>Romantika</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-f1-romantika.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Love songs</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frekvence 1 Ceskoslovenské hity</string>
+			<key>logo</key>
+			<string>Ceskoslovenske</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-f1-cshity.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Czech/Slovak</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frekvence 1 Osmdesátky</string>
+			<key>logo</key>
+			<string>Osmdesatky</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-80.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>80s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frekvence 1 Ceskoslovenská Diskotéka</string>
+			<key>logo</key>
+			<string>Ceskoslovenska</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-csdisko.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frekvence 1 Trampská Osada</string>
+			<key>logo</key>
+			<string>Osada</string>
+			<key>link</key>
+			<string>http://ice-01.lagardere.cz/web-osada.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Folk Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gama (Rock Radio)</string>
+			<key>logo</key>
+			<string>Gama</string>
+			<key>link</key>
+			<string>http://217.117.216.144:8000/new128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Most (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cerná Hora</string>
+			<key>logo</key>
+			<string>Hora</string>
+			<key>link</key>
+			<string>http://icecast6.play.cz/cernahora128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Trutnov (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio City 93,7 FM</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz:8000/cityfm64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz:8000/cityfm64.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Dragon</string>
+			<key>logo</key>
+			<string>Dragon</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/dragon64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/dragon128.mp3.m3u</string>
+			<key>note</key>
+			<string>Karlovy Vary (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Faktor</string>
+			<key>logo</key>
+			<string>Faktor</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/faktor64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/faktor128.mp3.m3u</string>
+			<key>note</key>
+			<string>České Budějovice (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio FM Plus</string>
+			<key>logo</key>
+			<string>Plu</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/fmplus64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/fmplus128.mp3.m3u</string>
+			<key>note</key>
+			<string>Plzen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio FM</string>
+			<key>logo</key>
+			<string>Hitradio</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/hitradiofm64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/hitradiofm.mp3.m3u</string>
+			<key>note</key>
+			<string>Ústí nad Labem (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Magic</string>
+			<key>logo</key>
+			<string>Magic</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/magic64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/magic.mp3.m3u</string>
+			<key>note</key>
+			<string>Nachod (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Magic Brno</string>
+			<key>logo</key>
+			<string>Brn</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/magicbrno64.mp3</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/magicbrno128.mp3</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Orion</string>
+			<key>logo</key>
+			<string>Orion</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/orion64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/orion128.mp3.m3u</string>
+			<key>note</key>
+			<string>Ostrava (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Orion Morava</string>
+			<key>logo</key>
+			<string>Morav</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/orionmorava64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/orionmorava128.mp3.m3u</string>
+			<key>note</key>
+			<string>Olomouc (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Orion Valašsko</string>
+			<key>logo</key>
+			<string>Valassko</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/orionval64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/orionval128.mp3.m3u</string>
+			<key>note</key>
+			<string>Vsetín (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio 80tka</string>
+			<key>logo</key>
+			<string>80tka</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/hit8064.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/hit80128.mp3.m3u</string>
+			<key>note</key>
+			<string>Ostrava (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio 90tka</string>
+			<key>logo</key>
+			<string>90tka</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/hit9064.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/hit90128.mp3.m3u</string>
+			<key>note</key>
+			<string>Ostrava (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Millenium</string>
+			<key>logo</key>
+			<string>Millenium</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/hitmi64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/hitmi128.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Ostrava, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio PopRock</string>
+			<key>logo</key>
+			<string>PopRock</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/hitpoprock64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/hitpoprock128.mp3.m3u</string>
+			<key>note</key>
+			<string>Pop/Rock Music (Ostrava, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Zóna Lásky</string>
+			<key>logo</key>
+			<string>Zona</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/hitzl64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/hitzl128.mp3.m3u</string>
+			<key>note</key>
+			<string>Love (Ostrava, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitrádio Vysočina</string>
+			<key>logo</key>
+			<string>Vysocin</string>
+			<key>link</key>
+			<string>http://ice5.abradio.cz/hitvysocina64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice5.abradio.cz/hitvysocina128.mp3.m3u</string>
+			<key>note</key>
+			<string>Jihlava (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Impuls Ráááádio</string>
+			<key>logo</key>
+			<string>Impuls</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/impuls64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/impuls128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss 98FM</string>
+			<key>logo</key>
+			<string>98FM</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kiss64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kiss32.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss Delta</string>
+			<key>logo</key>
+			<string>Delta</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kissdelta64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kissdelta32.aac.m3u</string>
+			<key>note</key>
+			<string>Mladá Boleslav (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss Morava</string>
+			<key>logo</key>
+			<string>Morava</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kissmorava64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kissmorava128.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Olomouc, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss Morava</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kissmoravaov64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kissmoravaov128.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Ostrava, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss Proton</string>
+			<key>logo</key>
+			<string>Proton</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kissproton64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kissproton32.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Plzen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss Hády</string>
+			<key>logo</key>
+			<string>Hady</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kisshady64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kisshady32.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Brno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss Jižní Cechy</string>
+			<key>logo</key>
+			<string>Cechy</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kissjc64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kissjc32.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30 (České Budějovice, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss Publikum</string>
+			<key>logo</key>
+			<string>Publikum</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/kisspublikum64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/kisspublikum32.aac.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Zlin, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oldies Rádio 103.7 FM</string>
+			<key>logo</key>
+			<string>103.7</string>
+			<key>link</key>
+			<string>http://icecast7.play.cz:443/oldies128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>60s/70s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://icecast6.play.cz/radio1-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alternative/Indie/Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Beat</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/beat64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/beat32.aac.m3u</string>
+			<key>note</key>
+			<string>Classic Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Blaník</string>
+			<key>logo</key>
+			<string>Blanik</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/blanikfm64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/blanikfm128.mp3.m3u</string>
+			<key>note</key>
+			<string>Mnichovice (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Blaník CZ</string>
+			<key>logo</key>
+			<string>CZ</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/blanikcz64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz/blanikcz128.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Bonton</string>
+			<key>logo</key>
+			<string>Bonton</string>
+			<key>link</key>
+			<string>http://icecast4.play.cz/bonton-64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast3.play.cz/bonton-128.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Čas Ostravsko</string>
+			<key>logo</key>
+			<string>Ostravsko</string>
+			<key>link</key>
+			<string>http://icecast7.play.cz/casradio128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/casradio32.aac.m3u</string>
+			<key>note</key>
+			<string>Ostrava (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Čas Olomoucko</string>
+			<key>logo</key>
+			<string>Olomoucko</string>
+			<key>link</key>
+			<string>http://icecast7.play.cz/casradioolomouc128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Olomouc (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Čas Zlínsko</string>
+			<key>logo</key>
+			<string>Zlinsko</string>
+			<key>link</key>
+			<string>http://icecast7.play.cz/casradiozlin128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Zlín (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Čas Brnensko</string>
+			<key>logo</key>
+			<string>Brnensko</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/casbrno128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brno (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Čas Rock</string>
+			<key>logo</key>
+			<string>Ca</string>
+			<key>link</key>
+			<string>http://icecast7.play.cz/casrock32.mp3.m3u</string>
+			<key>http</key>
+			<string>http://icecast7.play.cz/casrock64.mp3.m3u</string>
+			<key>note</key>
+			<string>Ostrava (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Egrensis</string>
+			<key>logo</key>
+			<string>Egrensis</string>
+			<key>link</key>
+			<string>http://icecast6.play.cz/egrensis128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Cheb, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Haná</string>
+			<key>logo</key>
+			<string>Hana</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/hana64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/hana160.mp3.m3u</string>
+			<key>note</key>
+			<string>Olomouc (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Helax</string>
+			<key>logo</key>
+			<string>Helax</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz:8000/helax64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ice.abradio.cz:8000/helax64.aac.m3u</string>
+			<key>note</key>
+			<string>Pop/Rock/Dance Music (Ostrava, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Jih</string>
+			<key>logo</key>
+			<string>Jih</string>
+			<key>link</key>
+			<string>http://www.play.cz/radio/jih64.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.play.cz/radio/jih128.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Hodonín, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Krokodýl</string>
+			<key>logo</key>
+			<string>Krokodyl</string>
+			<key>link</key>
+			<string>http://icecast4.play.cz/krokodyl128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Brno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Proglas</string>
+			<key>logo</key>
+			<string>Proglas</string>
+			<key>link</key>
+			<string>http://icecast2.play.cz/proglas128.m3u</string>
+			<key>http</key>
+			<string>https://api.play.cz/radio/proglas128.m3u</string>
+			<key>note</key>
+			<string>Culture (Brno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Relax</string>
+			<key>logo</key>
+			<string>Relax</string>
+			<key>link</key>
+			<string>http://mp3stream3.abradio.cz:8000/relax128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Kladno, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Spin</string>
+			<key>logo</key>
+			<string>Spin</string>
+			<key>link</key>
+			<string>http://icecast4.play.cz/spin128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/HipHop/Soul Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Zlín</string>
+			<key>logo</key>
+			<string>Zlin</string>
+			<key>link</key>
+			<string>http://212.111.2.151:8000/radiozlin_128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://212.111.2.151:8000/radiozlin_256.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Zlín, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Zlín Na pohodu</string>
+			<key>logo</key>
+			<string>pohodu</string>
+			<key>link</key>
+			<string>http://www.radiozlin.cz/stream_blue/radiozlin_blue_128_mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.radiozlin.cz/stream_blue/radiozlin_blue_256_mp3.m3u</string>
+			<key>note</key>
+			<string>Oldies/Classic/Rock Music (Zlín, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádio Zlín S láskou</string>
+			<key>logo</key>
+			<string>S</string>
+			<key>link</key>
+			<string>http://212.111.2.151:8000/radiozlin_ballads_128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://212.111.2.151:8000/radiozlin_ballads_256.mp3.m3u</string>
+			<key>note</key>
+			<string>Ballads</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RockMax Rádio</string>
+			<key>logo</key>
+			<string>RockMax</string>
+			<key>link</key>
+			<string>http://212.111.2.151:8000/rockmax_128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://212.111.2.151:8000/rockmax_256.mp3.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RockMax Rádio Oldies</string>
+			<key>logo</key>
+			<string>RockMa</string>
+			<key>link</key>
+			<string>http://212.111.2.151:8000/rm_old_128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://212.111.2.151:8000/rm_old_256.mp3.m3u</string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RockMax Rádio Heavy</string>
+			<key>logo</key>
+			<string>Heavy</string>
+			<key>link</key>
+			<string>http://212.111.2.151:8000/rm_hard_128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://212.111.2.151:8000/rm_hard_256.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock Radio Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/gold128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>České Budějovice (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock Radio Práchen</string>
+			<key>logo</key>
+			<string>Prachen</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/prachen128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pisek (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock Radio Šumava</string>
+			<key>logo</key>
+			<string>Sumava</string>
+			<key>link</key>
+			<string>http://ice.abradio.cz/sumava128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Plzen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rockzone 105,9</string>
+			<key>logo</key>
+			<string>Rockzone</string>
+			<key>link</key>
+			<string>http://icecast5.play.cz/rockzone128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Signál Rádio</string>
+			<key>logo</key>
+			<string>Signal</string>
+			<key>link</key>
+			<string>http://icecast1.play.cz/signal128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies/Folk Music (Mladá Boleslav, Local)</string>
 		</dict>
 	</array>
 </dict>
