@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>A1</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/ra1.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>Val202</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/val202.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>Ars</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/ars.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Capodistria</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/capo.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>Koper</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/rakp.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>Maribor</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/rmb.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>International</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/rsi.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>MMR</string>
 			<key>link</key>
-			<string>http://mp3.rtvslo.si/mmr.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,9 +163,9 @@
 			<key>logo</key>
 			<string>Hitradio</string>
 			<key>link</key>
-			<string>http://stream.radiocenter.si/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://stream2.radiocenter.si:8068/listen.pls?sid=1</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>note</key>
 			<string>Top 40</string>
 		</dict>
@@ -175,9 +175,9 @@
 			<key>logo</key>
 			<string>Pop</string>
 			<key>link</key>
-			<string>http://stream2.radiocenter.si:8058/listen.pls?sid=1</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
-			<string>http://stream2.radiocenter.si:8072/listen.pls?sid=1</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -187,9 +187,9 @@
 			<key>logo</key>
 			<string>Love</string>
 			<key>link</key>
-			<string>http://stream2.radiocenter.si:8060/listen.pls?sid=1</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://stream2.radiocenter.si:8076/listen.pls?sid=1</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>80s</string>
 			<key>link</key>
-			<string>http://stream2.radiocenter.si:8064/listen.pls?sid=1</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>http://stream2.radiocenter.si:8078/listen.pls?sid=1</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -211,9 +211,9 @@
 			<key>logo</key>
 			<string>Megamix</string>
 			<key>link</key>
-			<string>http://stream2.radiocenter.si:8066/listen.pls?sid=1</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://stream2.radiocenter.si:8074/listen.pls?sid=1</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>note</key>
 			<string>Top 40</string>
 		</dict>
