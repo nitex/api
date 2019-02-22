@@ -47,6 +47,18 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
@@ -192,6 +204,18 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antena Zagreb</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://173.192.137.34:8050/listen.pls</string>
+			<key>http</key>
+			<string>http://173.192.137.34:8044/listen.pls</string>
+			<key>note</key>
+			<string>Top 30</string>
 		</dict>
 	</array>
 </dict>
