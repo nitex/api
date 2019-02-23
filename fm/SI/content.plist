@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>5129783776</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>6251293759</string>
 		<key>Banner</key>
-		<string>1</string>
+		<string>3920520170</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>1294356836</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>4575126297</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>8131227920</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>9252737902</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>5042030152</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>1517841821</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>7859765188</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>3537376798</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>7700106791</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1208536891</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1453980973</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>A1</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://mp3.rtvslo.si/ra1.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>Val202</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://mp3.rtvslo.si/val202.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>Ars</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://mp3.rtvslo.si/ars.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Capodistria</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://mp3.rtvslo.si/capo.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>Koper</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://mp3.rtvslo.si/rakp.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>Maribor</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://mp3.rtvslo.si/rmb.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>International</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://mp3.rtvslo.si/rsi.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>MMR</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://mp3.rtvslo.si/mmr.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,9 +163,9 @@
 			<key>logo</key>
 			<string>Hitradio</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://stream.radiocenter.si/listen.pls</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://stream2.radiocenter.si:8068/listen.pls?sid=1</string>
 			<key>note</key>
 			<string>Top 40</string>
 		</dict>
@@ -175,9 +175,9 @@
 			<key>logo</key>
 			<string>Pop</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream2.radiocenter.si:8058/listen.pls?sid=1</string>
 			<key>http</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream2.radiocenter.si:8072/listen.pls?sid=1</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -187,9 +187,9 @@
 			<key>logo</key>
 			<string>Love</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream2.radiocenter.si:8060/listen.pls?sid=1</string>
 			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream2.radiocenter.si:8076/listen.pls?sid=1</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>80s</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://stream2.radiocenter.si:8064/listen.pls?sid=1</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://stream2.radiocenter.si:8078/listen.pls?sid=1</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -211,11 +211,695 @@
 			<key>logo</key>
 			<string>Megamix</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream2.radiocenter.si:8066/listen.pls?sid=1</string>
 			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream2.radiocenter.si:8074/listen.pls?sid=1</string>
 			<key>note</key>
 			<string>Top 40</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Koroski Radio</string>
+			<key>logo</key>
+			<string>Koroski</string>
+			<key>link</key>
+			<string>http://shoutcast.netsi.net:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Slovenj Gradec (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Moj Radio</string>
+			<key>logo</key>
+			<string>Moj</string>
+			<key>link</key>
+			<string>http://www.mojradio.com/moj_radio_online.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Velenje (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Primorski val</string>
+			<key>logo</key>
+			<string>Primorski</string>
+			<key>link</key>
+			<string>http://212.44.99.35:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cerkno (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Ljubljana</string>
+			<key>logo</key>
+			<string>Ljubljana</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Maribor</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio1MB.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Obala</string>
+			<key>logo</key>
+			<string>Obala</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio1OB.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Primorska</string>
+			<key>logo</key>
+			<string>Primorska</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio1PRI.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sežana (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Novo Mesto</string>
+			<key>logo</key>
+			<string>Novo</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio1NM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Celje</string>
+			<key>logo</key>
+			<string>Celje</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio1CE.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Brezovica</string>
+			<key>logo</key>
+			<string>Brezovica</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio1VR.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://live.radio.si/Radio2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 94</string>
+			<key>logo</key>
+			<string>94</string>
+			<key>link</key>
+			<string>http://212.103.156.222:8000/hifi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Postojna (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Aktual</string>
+			<key>logo</key>
+			<string>Aktual</string>
+			<key>link</key>
+			<string>http://195.95.158.131:9040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HitRadio Antena</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://live.radio.si/Antena.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HitRadio Antena Štajerska</string>
+			<key>logo</key>
+			<string>Stajerska</string>
+			<key>link</key>
+			<string>http://live.radio.si/Antena-Stajerska.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Bob</string>
+			<key>logo</key>
+			<string>Bob</string>
+			<key>link</key>
+			<string>http://live.radiobob.si/Europa05.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Brezje</string>
+			<key>logo</key>
+			<string>Brezje</string>
+			<key>link</key>
+			<string>http://myradiostream.com/12/5036.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Maribor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris</string>
+			<key>logo</key>
+			<string>Capris</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koper (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris 90s</string>
+			<key>logo</key>
+			<string>90s</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/90.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koper (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/ROCK.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koper (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris Hits</string>
+			<key>logo</key>
+			<string>Hits</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/HITS.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koper (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris Klasik</string>
+			<key>logo</key>
+			<string>Klasik</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/KLASIK.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koper (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris EX-YU</string>
+			<key>logo</key>
+			<string>EX-YU</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/EXYU.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koper (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris Capital</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/ITA.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris Secret Disco</string>
+			<key>logo</key>
+			<string>Secret</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/SD.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capris Slo</string>
+			<key>logo</key>
+			<string>Slo</string>
+			<key>link</key>
+			<string>http://stream01.exit.si:8000/SLO.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Celje</string>
+			<key>logo</key>
+			<string>Celj</string>
+			<key>link</key>
+			<string>http://89.142.196.111:9032/listen.pls</string>
+			<key>http</key>
+			<string>http://89.142.196.111:9030/listen.pls</string>
+			<key>note</key>
+			<string>Celje (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio City</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radiocity.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Maribor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ekspres</string>
+			<key>logo</key>
+			<string>Ekspres</string>
+			<key>link</key>
+			<string>http://www.radioekspres.si/radioekspres.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classic</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Gorenc</string>
+			<key>logo</key>
+			<string>Gorenc</string>
+			<key>link</key>
+			<string>http://stream.radiogorenc.si:8000/radiogorenc.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tržič (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Hit</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://stream03.exit.si:8000/radiohit.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Domzale (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kranj</string>
+			<key>logo</key>
+			<string>Kranj</string>
+			<key>link</key>
+			<string>http://live.radio.si/Kranj.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Krka</string>
+			<key>logo</key>
+			<string>Krka</string>
+			<key>link</key>
+			<string>http://93.103.12.127:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Novo Mesto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kum24</string>
+			<key>logo</key>
+			<string>Kum24</string>
+			<key>link</key>
+			<string>http://195.95.158.131:7010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Trbovlje (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Laser</string>
+			<key>logo</key>
+			<string>Laser</string>
+			<key>link</key>
+			<string>http://shoutcast.netsi.net:8100/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Slovenj Gradec (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Mars</string>
+			<key>logo</key>
+			<string>Mars</string>
+			<key>link</key>
+			<string>http://frekvenca.eu:8000/radiomars.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Maribor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Maxi</string>
+			<key>logo</key>
+			<string>Maxi</string>
+			<key>link</key>
+			<string>http://46.150.34.194:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ljutomer (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Murski val</string>
+			<key>logo</key>
+			<string>Murski</string>
+			<key>link</key>
+			<string>http://webradio.murskival.si:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Murska Sobota (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Net FM</string>
+			<key>logo</key>
+			<string>Net</string>
+			<key>link</key>
+			<string>http://spletniradio.si-shell.net:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Maribor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ognjišče</string>
+			<key>logo</key>
+			<string>Ognj</string>
+			<key>link</key>
+			<string>http://radio.ognjisce.si/ognjisce/iradio/ognjisce40.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Koper (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ptuj</string>
+			<key>logo</key>
+			<string>Ptuj</string>
+			<key>link</key>
+			<string>http://stream.radio-ptuj.si:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ptuj (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Robin</string>
+			<key>logo</key>
+			<string>Robin</string>
+			<key>link</key>
+			<string>http://live.radio.si/Robin.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nova Gorica (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Rogla</string>
+			<key>logo</key>
+			<string>Rogla</string>
+			<key>link</key>
+			<string>http://www.radiorogla.si/radiostream/stream.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Slovenske Konjice (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio S</string>
+			<key>logo</key>
+			<string>S</string>
+			<key>link</key>
+			<string>http://live3.infonetmedia.si:8000/radios.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Salomon</string>
+			<key>logo</key>
+			<string>Salomon</string>
+			<key>link</key>
+			<string>http://www.radiosalomon.si/salomon.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dance Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Slovenske gorice</string>
+			<key>logo</key>
+			<string>gorice</string>
+			<key>link</key>
+			<string>http://91.185.194.102:8014/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lenart (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sora</string>
+			<key>logo</key>
+			<string>Sora</string>
+			<key>link</key>
+			<string>http://radio-sora.si:8000/radio-sora.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Škofja Loka (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Sraka</string>
+			<key>logo</key>
+			<string>Sraka</string>
+			<key>link</key>
+			<string>http://193.105.67.24/streamredirect/8006/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Novo Mesto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Student</string>
+			<key>logo</key>
+			<string>Student</string>
+			<key>link</key>
+			<string>http://kruljo.radiostudent.si:8000/loq.m3u</string>
+			<key>http</key>
+			<string>http://kruljo.radiostudent.si:8000/hiq.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Štajerski val</string>
+			<key>logo</key>
+			<string>val</string>
+			<key>link</key>
+			<string>http://stream.stajerskival.si:8004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Šmarje pri Jelšah (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Top</string>
+			<key>logo</key>
+			<string>Top</string>
+			<key>link</key>
+			<string>http://streamer1.siradiostream.net/streamredirect/8024/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Maribor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Triglav</string>
+			<key>logo</key>
+			<string>Triglav</string>
+			<key>link</key>
+			<string>http://live.radio.si/Triglav.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jesenice (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Velenje</string>
+			<key>logo</key>
+			<string>Velenje</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/velenje.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Veseljak</string>
+			<key>logo</key>
+			<string>Veseljak</string>
+			<key>link</key>
+			<string>http://stream.radioveseljak.si/Veseljak.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Zeleni val</string>
+			<key>logo</key>
+			<string>Zeleni</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/radiozelenival.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Grosuplje (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock Celje</string>
+			<key>logo</key>
+			<string>Cel</string>
+			<key>link</key>
+			<string>http://live.radio.si/RockCE.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock Maribor</string>
+			<key>logo</key>
+			<string>Maribo</string>
+			<key>link</key>
+			<string>http://live.radio.si/RockMB.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Rock Music</string>
 		</dict>
 	</array>
 </dict>

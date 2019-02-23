@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>HR1</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/program1aac.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>HR2</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/program2aac.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>HR3</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/program3aac.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Osijek</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/osijekaac.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>Pula</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/pulaaac.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>Rijeka</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/rijekaaac.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Split</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/splitaac.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>Sljeme</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/sljemeaac.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>Dubrovnik</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/dubrovnikaac.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>Knin</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/kninaac.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>Zadar</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/zadaraac.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,23 +199,11 @@
 			<key>logo</key>
 			<string>Glas</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/voiceofcroatiaaac.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Antena Zagreb</string>
-			<key>logo</key>
-			<string>Antena</string>
-			<key>link</key>
-			<string>http://173.192.137.34:8050/listen.pls</string>
-			<key>http</key>
-			<string>http://173.192.137.34:8044/listen.pls</string>
-			<key>note</key>
-			<string>Top 30</string>
 		</dict>
 	</array>
 </dict>
