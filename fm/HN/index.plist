@@ -51,11 +51,83 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Mega</string>
 			<key>logo</key>
-			<string></string>
+			<string>Mega</string>
 			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.202.243:8093/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.202.243:8093/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Perla</string>
+			<key>logo</key>
+			<string>Perla</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10640/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10640/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>98.1 FM</string>
+			<key>logo</key>
+			<string>98</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/98-1-fm,14812.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>El Paraiso (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ambiental 102.5 FM</string>
+			<key>logo</key>
+			<string>Ambiental</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ambiental-102-5-fm,18215.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (San Pedro Sula)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio América 94.7 FM</string>
+			<key>logo</key>
+			<string>America</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-america-94-7-fm,7514.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/america-610-am,45.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power 90.1 FM</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/power-90-1-fm,46.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/hrsc-power-90-1-fm,17319.m3u</string>
+			<key>note</key>
+			<string>San Pedro Sula</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luna FM</string>
+			<key>logo</key>
+			<string>Luna</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/luna-fm,18171.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +135,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio HRN - AM 680</string>
 			<key>logo</key>
-			<string></string>
+			<string>HRN</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-hrn,7512.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +147,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Progreso</string>
 			<key>logo</key>
-			<string></string>
+			<string>Progreso</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-progreso,7903.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Yoro</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Super 100 Stereo</string>
+			<key>logo</key>
+			<string>Super</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/super-100-stereo,10771.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +171,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Los 40 93.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/los-40-nicaragua-93-1-fm,20099.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Alfa 93.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>2</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-alfa-93-5-fm,20102.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,97 +195,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio León 106.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>3</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10890/listen.pls&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10890/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
