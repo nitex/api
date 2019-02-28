@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://149.202.214.27:8888/radiotirana1.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://149.202.214.27:8888/radiotirana2.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
-			<string>http://149.202.214.27:8888/rti.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Alfa</string>
 			<key>link</key>
-			<string>http://uk3-pn.mixstream.net:8102/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>AMC</string>
 			<key>link</key>
-			<string>http://80.78.76.171:6200/listen.pls?sid=1</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,9 +127,9 @@
 			<key>logo</key>
 			<string>Emigranti</string>
 			<key>link</key>
-			<string>http://www.radioemigranti.com:8000/radioauto48.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://www.radioemigranti.com:8000/radio.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Dardania</string>
 			<key>link</key>
-			<string>http://www.radiodardania.com/radio64.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>DJ</string>
 			<key>link</key>
-			<string>http://80.78.76.171:6500/listen.pls?sid=1</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>Jug</string>
 			<key>link</key>
-			<string>http://84.20.77.50:8000/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>Kontakt</string>
 			<key>link</key>
-			<string>http://46.252.34.91:88/broadwavehigh.mp3?src=1</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>Maria</string>
 			<key>link</key>
-			<string>http://cloudrad.io/radiomariaalbania/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,7 +199,7 @@
 			<key>logo</key>
 			<string>NRG</string>
 			<key>link</key>
-			<string>http://ice31.securenetsystems.net/AL09.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -211,47 +211,11 @@
 			<key>logo</key>
 			<string>Travel</string>
 			<key>link</key>
-			<string>http://93.190.141.15:7038/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Top Albania Radio</string>
-			<key>logo</key>
-			<string>Albania</string>
-			<key>link</key>
-			<string>http://tar.stream.dev.al:9078/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Top Gold</string>
-			<key>logo</key>
-			<string>Gold</string>
-			<key>link</key>
-			<string>http://tar.stream.dev.al:9080/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>VIP FM</string>
-			<key>logo</key>
-			<string>VIP</string>
-			<key>link</key>
-			<string>http://eu3.fastcast4u.com:5334/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 3 (Fier)</string>
 		</dict>
 	</array>
 </dict>
