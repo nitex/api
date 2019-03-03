@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Icon</key>
+		<string>Work</string>
+		<key>Title</key>
+		<string>Работа</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Политика</string>
+				<key>Link</key>
+				<string>https://bb.lv/kategorija/politika/politiki</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Правительство</string>
+				<key>Link</key>
+				<string>https://bb.lv/kategorija/politika/praviteljstvo</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Мнение</string>
+				<key>Link</key>
+				<string>https://bb.lv/kategorija/politika/mnenie</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Сейм</string>
+				<key>Link</key>
+				<string>https://bb.lv/kategorija/politika/seim</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Партии</string>
+				<key>Link</key>
+				<string>https://bb.lv/kategorija/politika/partii</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>Transport</string>
+		<key>Title</key>
+		<string>Транспорт</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Легковые авто (2467)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/transport/cars/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Коммерческий (91)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/transport/cargo_cars/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Мототранспорт (82)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/transport/mototransport/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Велосипеды (97)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/transport/bicycles/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Запчасти (3642)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/transport/spare_parts/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>Home</string>
+		<key>Title</key>
+		<string>Недвижимость</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Квартиры (4981)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/realty/apartments/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Дома (1532)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/realty/houses/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Земля (1241)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/realty/land/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Помещения (2170)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/realty/areas/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Офисы (874)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/realty/areas/interval,facilities,ofis/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>Tech</string>
+		<key>Title</key>
+		<string>Техника</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Компьютеры (964)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/technics/computers/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Бытовая техника (583)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/technics/household_appliances/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Фото, оптика (408)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/technics/photo_video_optics/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Аудио (399)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/technics/audio/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Телевидение (252)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/technics/television/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>Build</string>
+		<key>Title</key>
+		<string>Стройка</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Строительные материалы (653)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/manufacture/building_and_repairs/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Строительные работы (629)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/manufacture/build-works/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Окна, двери, лестницы (159)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/manufacture/building_and_repairs/logi_durvis/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Оборудование (519)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/manufacture/equipment/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Сырье, детали (242)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/manufacture/raw_stock/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>Farm</string>
+		<key>Title</key>
+		<string>Хозяйство</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Сельхозтехника (197)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/economy/agro_technics/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Хозинвентарь (138)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/economy/agricultural-implements/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Продукты (52)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/economy/products/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Хозработы (41)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/economy/economic_works/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Растениеводство, лес (29)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/economy/plant-growing/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>Cloth</string>
+		<key>Title</key>
+		<string>Одежда</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Одежда (684)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/clothes-boots/clothes/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Обувь (340)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/clothes-boots/shoes/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Часы, украшения... (322)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/clothes-boots/accessory/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Детская одежда (265)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/for_children/clothes/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Детская обувь (126)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/for_children/footwear/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>Kids</string>
+		<key>Title</key>
+		<string>Для детей</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Детская обувь (126)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/for_children/footwear/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Детская одежда (265)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/for_children/clothes/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Игрушки (165)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/for_children/toys/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Мебель (62)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/for_children/furniture/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Коляски (75)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/for_children/prams/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+	<dict>
+		<key>Icon</key>
+		<string>House</string>
+		<key>Title</key>
+		<string>Дом и быт</string>
+		<key>Content</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>Мебель (696)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/housekeeping/furniture/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Интерьер (662)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/housekeeping/minutiae/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Искусство, антиквариат (197)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/leisure/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Посуда (118)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/housekeeping/minutiae/crockery/menus.html</string>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Красота (1204)</string>
+				<key>Link</key>
+				<string>http://reklama.vesti.lv/ru/housekeeping/beauty/menus.html</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
