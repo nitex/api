@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.rtklive.com/video/t_radio/radkos.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://www.rtklive.com/video/t_radio/bluesky.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,9 +91,9 @@
 			<key>logo</key>
 			<string>Elit</string>
 			<key>link</key>
-			<string>http://78.129.234.163/stream.mp3?ipport=78.129.234.163_20632</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://50.22.219.37:25383/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>note</key>
 			<string>Plemetina</string>
 		</dict>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Dukagjini</string>
 			<key>link</key>
-			<string>http://s1.voscast.com:8226/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>K4</string>
 			<key>link</key>
-			<string>http://fm.radiokfor.com:8080/listen.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>96</string>
 			<key>link</key>
-			<string>http://fm.radiokfor.com:8090/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Kent</string>
 			<key>link</key>
-			<string>http://live4.radyotvonline.com:8180/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>KIM</string>
 			<key>link</key>
-			<string>http://82.114.78.158/uzivo.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>Kosova</string>
 			<key>link</key>
-			<string>http://www.radiokosovaelire.com/live/live.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,9 +175,9 @@
 			<key>logo</key>
 			<string>Llapi</string>
 			<key>link</key>
-			<string>http://radiollapi.com/wp-content/plugins/media-buttons/playlist.php?ip=radio1dhe1.com:8555&amp;mountpoint=&amp;format=M3U</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://radio.1dhe1.com:8555/listen.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>note</key>
 			<string>Podujevë</string>
 		</dict>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>Plus</string>
 			<key>link</key>
-			<string>http://www.radioplus.fm/live.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>Rinore</string>
 			<key>link</key>
-			<string>http://www.radiovalarinore.com/favourite-player/WinAmp-Player.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>http://84.22.46.10:8000/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
 			<string>News/Information/Features</string>
 		</dict>
@@ -211,23 +211,11 @@
 			<key>logo</key>
 			<string>Shtimes</string>
 			<key>link</key>
-			<string>http://radio.1dhe1.com:8080/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Štimlje</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Urban FM 103,5</string>
-			<key>logo</key>
-			<string>Urban</string>
-			<key>link</key>
-			<string>http://46.19.224.157:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Alternative</string>
 		</dict>
 	</array>
 </dict>
