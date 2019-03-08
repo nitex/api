@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>City</string>
 			<key>link</key>
-			<string>http://checast.com/listen/mk/city.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>Club</string>
 			<key>link</key>
-			<string>http://217.16.69.17:8000/club.mp3.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,9 +91,9 @@
 			<key>logo</key>
 			<string>Ekspres</string>
 			<key>link</key>
-			<string>http://vozivo.ekspresradio.com.mk/</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://ekspresradio.dyndns.org:8000/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>note</key>
 			<string>Pop/Rock (Strumica)</string>
 		</dict>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Folk</string>
 			<key>link</key>
-			<string>http://89.205.127.244:8000/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>Jazz</string>
 			<key>link</key>
-			<string>http://217.16.69.17:8000/jazz.mp3.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>4</string>
 			<key>link</key>
-			<string>http://195.26.152.94:8000/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>77</string>
 			<key>link</key>
-			<string>http://ss1.mk.checast.com:9002/live.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,9 +151,9 @@
 			<key>logo</key>
 			<string>103</string>
 			<key>link</key>
-			<string>http://radiostream.neotel.mk/kanal103</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://217.16.69.17:8000/kanal103.mp3.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>Life</string>
 			<key>link</key>
-			<string>http://217.16.69.17:8000/liveradio.mp3.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>Metropolis</string>
 			<key>link</key>
-			<string>http://217.16.69.17:8000/metropolis.mp3.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>MX</string>
 			<key>link</key>
-			<string>http://checast.com:27/mk/ohrid/mx.mp3.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>105</string>
 			<key>link</key>
-			<string>http://radio105bombarder.com/Radio105.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>http://radio105.makbots.com:21010/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
 			<string>Bitola</string>
 		</dict>
@@ -211,131 +211,11 @@
 			<key>logo</key>
 			<string>106</string>
 			<key>link</key>
-			<string>http://ss1.topstream24.net:21100/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Top 5 (Bitola)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio БУБА МАРА</string>
-			<key>logo</key>
-			<string>Bubamara</string>
-			<key>link</key>
-			<string>http://217.16.69.17:8000/bubamara.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Fortuna 96.8 FM</string>
-			<key>logo</key>
-			<string>Fortuna</string>
-			<key>link</key>
-			<string>http://50.7.129.122:8497/listen.pls</string>
-			<key>http</key>
-			<string>http://50.7.245.10:9998/listen.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Holidej 102.1 FM</string>
-			<key>logo</key>
-			<string>Holidej</string>
-			<key>link</key>
-			<string>http://217.16.69.10:8018/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music (Prilep)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Lav</string>
-			<key>logo</key>
-			<string>Lav</string>
-			<key>link</key>
-			<string>http://ss3.topstream24.net:27//mk/ohrid/lav.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Ohrid</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Plus Forte</string>
-			<key>logo</key>
-			<string>Forte</string>
-			<key>link</key>
-			<string>http://217.16.69.17:8000/plusforte.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tetovo</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Ravel 96.0 FM</string>
-			<key>logo</key>
-			<string>Ravel</string>
-			<key>link</key>
-			<string>http://217.16.69.17:8000/ravel.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Vati 88.4 FM</string>
-			<key>logo</key>
-			<string>Vati</string>
-			<key>link</key>
-			<string>http://www.vati.com.mk/live/live.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News/Features</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sky Radio 102.5 FM</string>
-			<key>logo</key>
-			<string>Sky</string>
-			<key>link</key>
-			<string>http://skyradio.com.mk/listen.m3u</string>
-			<key>http</key>
-			<string>http://89.205.123.70:8000/listen.pls</string>
-			<key>note</key>
-			<string>Pop Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sportsko Radio</string>
-			<key>logo</key>
-			<string>Sportsko</string>
-			<key>link</key>
-			<string>http://217.16.69.10:8020/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sport/Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SuperRadio</string>
-			<key>logo</key>
-			<string>SuperRadio</string>
-			<key>link</key>
-			<string>http://checast.com:27/mk/ohrid/super.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Ohrid</string>
 		</dict>
 	</array>
 </dict>
