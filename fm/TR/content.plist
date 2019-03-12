@@ -47,6 +47,18 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
@@ -180,6 +192,30 @@
 			<string>http://radyo.trt.net.tr/</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capital Radio</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://46.20.3.195/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>80s/90s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dinamo 103.8</string>
+			<key>logo</key>
+			<string>Dinamo</string>
+			<key>link</key>
+			<string>http://www.dinamo.fm/dinamo_aacplus.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Electronic/Urban Music</string>
 		</dict>
 	</array>
 </dict>
