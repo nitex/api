@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>Focus</string>
 			<key>link</key>
-			<string>http://online.focus-radio.net:8100/sofia.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -79,7 +79,7 @@
 			<key>logo</key>
 			<string>Kustendil</string>
 			<key>link</key>
-			<string>http://online.focus-radio.net:8100/kn.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>Pirin</string>
 			<key>link</key>
-			<string>http://online.focus-radio.net:8100/pirin.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,9 +103,9 @@
 			<key>logo</key>
 			<string>BNR1</string>
 			<key>link</key>
-			<string>http://stream.bnr.bg:8102/horizont_low.mp3.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
-			<string>http://stream.bnr.bg:8002/horizont.mp3.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>note</key>
 			<string>News/Music</string>
 		</dict>
@@ -115,9 +115,9 @@
 			<key>logo</key>
 			<string>Botev</string>
 			<key>link</key>
-			<string>http://stream.bnr.bg:8103/botev_low.mp3.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://stream.bnr.bg:8003/botev.mp3.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>note</key>
 			<string>Culture</string>
 		</dict>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>Blagoevgrad</string>
 			<key>link</key>
-			<string>http://195.24.37.210/stream.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,9 +139,9 @@
 			<key>logo</key>
 			<string>Burgas</string>
 			<key>link</key>
-			<string>http://212.95.175.63:8002/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>http://212.95.175.63:8000/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>Plovdiv</string>
 			<key>link</key>
-			<string>http://62.204.136.202:28/live128.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>Shumen</string>
 			<key>link</key>
-			<string>http://87.246.38.170:8001/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,9 +175,9 @@
 			<key>logo</key>
 			<string>Stara</string>
 			<key>link</key>
-			<string>http://82.103.99.99:8000/radiosz-low.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://82.103.99.99:8000/radiosz.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>Varna</string>
 			<key>link</key>
-			<string>http://broadcast.masters.bg:8000/live.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>Sofia</string>
 			<key>link</key>
-			<string>http://stream.bnr.bg:8105/sofia_low.mp3.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>http://stream.bnr.bg:8005/sofia.mp3.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -211,9 +211,9 @@
 			<key>logo</key>
 			<string>Vidin</string>
 			<key>link</key>
-			<string>http://89.106.110.85:8003/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://89.106.110.85:8000/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
