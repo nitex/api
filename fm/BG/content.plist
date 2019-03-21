@@ -7,37 +7,37 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>2911031111</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>5784606468</string>
 		<key>Banner</key>
-		<string>1</string>
+		<string>1715523033</string>
 		<key>Show1</key>
-		<string>1</string>
+		<string>5271624662</string>
 		<key>Show2</key>
-		<string>1</string>
+		<string>5598927723</string>
 		<key>Show3</key>
-		<string>1</string>
+		<string>7127152885</string>
 		<key>Show4</key>
-		<string>1</string>
+		<string>2617541169</string>
 		<key>Alarm</key>
-		<string>1</string>
+		<string>1270646385</string>
 		<key>CustomBanner</key>
-		<string>1</string>
+		<string>7327297581</string>
 		<key>CustomSplash</key>
-		<string>1</string>
+		<string>9532279782</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>1883399217</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>1500255830</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
-		<string>1</string>
+		<string>1446451282</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1457018923</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1360678770</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
@@ -63,49 +63,13 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Radio Focus Sofia</string>
-			<key>logo</key>
-			<string>Focus</string>
-			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News/information/music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Focus Kustendil</string>
-			<key>logo</key>
-			<string>Kustendil</string>
-			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Focus Pirin</string>
-			<key>logo</key>
-			<string>Pirin</string>
-			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>BNR1 Program Horizont</string>
 			<key>logo</key>
 			<string>BNR1</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream.bnr.bg:8102/horizont_low.mp3.m3u</string>
 			<key>http</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream.bnr.bg:8002/horizont.mp3.m3u</string>
 			<key>note</key>
 			<string>News/Music</string>
 		</dict>
@@ -115,9 +79,9 @@
 			<key>logo</key>
 			<string>Botev</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream.bnr.bg:8103/botev_low.mp3.m3u</string>
 			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream.bnr.bg:8003/botev.mp3.m3u</string>
 			<key>note</key>
 			<string>Culture</string>
 		</dict>
@@ -127,7 +91,7 @@
 			<key>logo</key>
 			<string>Blagoevgrad</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://195.24.37.210/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,9 +103,9 @@
 			<key>logo</key>
 			<string>Burgas</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://212.95.175.63:8002/listen.pls</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://212.95.175.63:8000/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -151,7 +115,7 @@
 			<key>logo</key>
 			<string>Plovdiv</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://62.204.136.202:28/live128.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +127,7 @@
 			<key>logo</key>
 			<string>Shumen</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://87.246.38.170:8001/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,9 +139,9 @@
 			<key>logo</key>
 			<string>Stara</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://82.103.99.99:8000/radiosz-low.m3u</string>
 			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://82.103.99.99:8000/radiosz.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -187,7 +151,7 @@
 			<key>logo</key>
 			<string>Varna</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://broadcast.masters.bg:8000/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,9 +163,9 @@
 			<key>logo</key>
 			<string>Sofia</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://stream.bnr.bg:8105/sofia_low.mp3.m3u</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://stream.bnr.bg:8005/sofia.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -211,11 +175,563 @@
 			<key>logo</key>
 			<string>Vidin</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://89.106.110.85:8003/listen.pls</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://89.106.110.85:8000/listen.pls</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alpha Radio</string>
+			<key>logo</key>
+			<string>Alpha</string>
+			<key>link</key>
+			<string>http://www.alpharadio.bg/mp3high.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BG Radio</string>
+			<key>logo</key>
+			<string>BG</string>
+			<key>link</key>
+			<string>http://149.13.0.80/bgradio128.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/bgradio.aac.m3u</string>
+			<key>note</key>
+			<string>Pop/Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BTV Radio</string>
+			<key>logo</key>
+			<string>BTV</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/btv-radio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Бумеранг FM</string>
+			<key>logo</key>
+			<string>Bumerang</string>
+			<key>link</key>
+			<string>http://185.20.88.1:8010/listen.pls</string>
+			<key>http</key>
+			<string>http://www.bumerangfm.net/BumerangFM.m3u</string>
+			<key>note</key>
+			<string>Gabrovo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic FM</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/classic-fm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Darik Radio</string>
+			<key>logo</key>
+			<string>Darik</string>
+			<key>link</key>
+			<string>http://darikradio.by.host.bg:8000/S2-128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Features</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Darik Nostalgie</string>
+			<key>logo</key>
+			<string>Nostalgie</string>
+			<key>link</key>
+			<string>http://darikradio.by.host.bg:8000/Nostalgie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Plus</string>
+			<key>logo</key>
+			<string>Plus</string>
+			<key>link</key>
+			<string>http://fmplus-stream.atlantis.bg:8000/fmplus_low.ogg.m3u</string>
+			<key>http</key>
+			<string>http://fmplus-stream.atlantis.bg:8000/fmplus.ogg.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jazz FM</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/jazz-fm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jazz 104 FM Lounge</string>
+			<key>logo</key>
+			<string>Lounge</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/jazz-fm-lounge.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Katra FM</string>
+			<key>logo</key>
+			<string>Katra</string>
+			<key>link</key>
+			<string>http://www.katrafm.net:8000/live.m3u</string>
+			<key>http</key>
+			<string>http://www.katrafm.net:9000/live.m3u</string>
+			<key>note</key>
+			<string>Plovdiv (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melody Radio</string>
+			<key>logo</key>
+			<string>Melody</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/melody.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NRJ</string>
+			<key>logo</key>
+			<string>NRJ</string>
+			<key>link</key>
+			<string>http://149.13.0.80/nrj128.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/nrj.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power FM</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://a1.virtualradio.eu:8000/powerfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bourgas (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://149.13.0.80/radio1128.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/radio1.aac.m3u</string>
+			<key>note</key>
+			<string>Classic Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://149.13.0.80/radio1rock64.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/radio1rock.aac.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 999</string>
+			<key>logo</key>
+			<string>999</string>
+			<key>link</key>
+			<string>http://62.204.158.5:8081/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yambol (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Antena</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://188.126.1.25:8000/antena.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Aurea</string>
+			<key>logo</key>
+			<string>Aurea</string>
+			<key>link</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Bella</string>
+			<key>logo</key>
+			<string>Bella</string>
+			<key>link</key>
+			<string>http://194.146.235.35:9999/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Petrich (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Berkk M</string>
+			<key>logo</key>
+			<string>Berkk</string>
+			<key>link</key>
+			<string>http://www.radioberk.com/on-air/radioberkk.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Montana (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio City</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://149.13.0.80/city64.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/city.aac.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Sofia</string>
+			<key>logo</key>
+			<string>Focus</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/sofia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Kustendil</string>
+			<key>logo</key>
+			<string>Kustendil</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/kn.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Pirin</string>
+			<key>logo</key>
+			<string>Piri</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/pirin.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Pazardjik</string>
+			<key>logo</key>
+			<string>Pazardjik</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/pazardjik.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Smolian</string>
+			<key>logo</key>
+			<string>Smolian</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/smolian.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Bourgas</string>
+			<key>logo</key>
+			<string>Bourgas</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/bs.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Varna</string>
+			<key>logo</key>
+			<string>Varn</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/varna.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Shumen</string>
+			<key>logo</key>
+			<string>Shume</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/shumen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Veliko Turnovo</string>
+			<key>logo</key>
+			<string>Veliko</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/vt.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Vidin</string>
+			<key>logo</key>
+			<string>Vidi</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/vidin.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus Sliven</string>
+			<key>logo</key>
+			<string>Sliven</string>
+			<key>link</key>
+			<string>http://online.focus-radio.net:8100/sliven.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Information/Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Fresh</string>
+			<key>logo</key>
+			<string>Fresh</string>
+			<key>link</key>
+			<string>http://193.108.24.21:8000/fresh.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio K2</string>
+			<key>logo</key>
+			<string>K2</string>
+			<key>link</key>
+			<string>http://radiok2.bg/radiok2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio N-Joy</string>
+			<key>logo</key>
+			<string>N-Joy</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/njoy.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Nova</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://149.13.0.80/nova128.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/nova.aac.m3u</string>
+			<key>note</key>
+			<string>Dance/Electronic Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ultra Petrich</string>
+			<key>logo</key>
+			<string>Petrich</string>
+			<key>link</key>
+			<string>http://www.ultranet.biz/ultra.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ultra Pernik</string>
+			<key>logo</key>
+			<string>Pernik</string>
+			<key>link</key>
+			<string>http://www.ultranet.biz/ultrapernik.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Ultra Blagoevgrad</string>
+			<key>logo</key>
+			<string>Blagoev</string>
+			<key>link</key>
+			<string>http://www.ultranet.biz/ultrablagoevgrad.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Vega+ Blagoevgrad</string>
+			<key>logo</key>
+			<string>Vega</string>
+			<key>link</key>
+			<string>http://www.ultranet.biz/vegablagoevgrad.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Vega+ Petrich</string>
+			<key>logo</key>
+			<string>Veg</string>
+			<key>link</key>
+			<string>http://www.ultranet.biz/vegasandanski.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Veronika</string>
+			<key>logo</key>
+			<string>Veronika</string>
+			<key>link</key>
+			<string>http://149.13.0.80/veronika64.m3u</string>
+			<key>http</key>
+			<string>http://149.13.0.80/veronika.aac.m3u</string>
+			<key>note</key>
+			<string>Pop/Folk Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Z-Rock</string>
+			<key>logo</key>
+			<string>Z-Rock</string>
+			<key>link</key>
+			<string>http://live.btvradio.bg/z-rock.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Zorana</string>
+			<key>logo</key>
+			<string>Zorana</string>
+			<key>link</key>
+			<string>http://streaming.gesbg.com/radio128_zorana.mp3.m3u</string>
+			<key>http</key>
+			<string>http://212.95.165.98:8001/listen.pls</string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM</string>
+			<key>logo</key>
+			<string>Star</string>
+			<key>link</key>
+			<string>http://pulsar.atlantis.bg:8000/starfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Classic/Rock Music</string>
 		</dict>
 	</array>
 </dict>

@@ -47,6 +47,18 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
@@ -55,9 +67,9 @@
 			<key>logo</key>
 			<string>Actualitati</string>
 			<key>link</key>
-			<string>http://stream2.srr.ro:8000/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://stream2.srr.ro:8002/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>note</key>
 			<string>News</string>
 		</dict>
@@ -67,9 +79,9 @@
 			<key>logo</key>
 			<string>Cultural</string>
 			<key>link</key>
-			<string>http://stream2.srr.ro:8010/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>http://stream2.srr.ro:8012/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
 			<string>Culture</string>
 		</dict>
@@ -79,9 +91,9 @@
 			<key>logo</key>
 			<string>Muzical</string>
 			<key>link</key>
-			<string>http://stream2.srr.ro:8020/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://stream2.srr.ro:8022/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>note</key>
 			<string>Classical Music</string>
 		</dict>
@@ -91,9 +103,9 @@
 			<key>logo</key>
 			<string>Satelor</string>
 			<key>link</key>
-			<string>http://stream2.srr.ro:8040/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
-			<string>http://stream2.srr.ro:8042/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>note</key>
 			<string>Talk / Music</string>
 		</dict>
@@ -103,9 +115,9 @@
 			<key>logo</key>
 			<string>3Net</string>
 			<key>link</key>
-			<string>http://media.3netmedia.ro:8000/Live32.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://media.3netmedia.ro:8000/Live.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>note</key>
 			<string>Youth</string>
 		</dict>
@@ -115,9 +127,9 @@
 			<key>logo</key>
 			<string>Bucuresti</string>
 			<key>link</key>
-			<string>http://stream2.srr.ro:8030/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://stream2.srr.ro:8032/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -127,7 +139,7 @@
 			<key>logo</key>
 			<string>Cluj</string>
 			<key>link</key>
-			<string>http://89.238.227.6:8384/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +151,7 @@
 			<key>logo</key>
 			<string>Sibiului</string>
 			<key>link</key>
-			<string>http://89.238.227.6:8380/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,9 +163,9 @@
 			<key>logo</key>
 			<string>Constanta</string>
 			<key>link</key>
-			<string>http://89.238.227.6:8332/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
-			<string>http://89.238.227.6:8336/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -163,9 +175,9 @@
 			<key>logo</key>
 			<string>Iasi</string>
 			<key>link</key>
-			<string>http://89.238.227.6:8202/listen.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://89.238.227.6:8200/listen.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -175,7 +187,7 @@
 			<key>logo</key>
 			<string>Resita</string>
 			<key>link</key>
-			<string>http://89.238.227.6:8344/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +199,7 @@
 			<key>logo</key>
 			<string>Craiova</string>
 			<key>link</key>
-			<string>http://stream2.srr.ro:8370/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,69 +211,9 @@
 			<key>logo</key>
 			<string>Mures</string>
 			<key>link</key>
-			<string>http://streaming.radiomures.ro:8302/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SRR Radio Timisoara</string>
-			<key>logo</key>
-			<string>Timisoara</string>
-			<key>link</key>
-			<string>http://www.radio-timisoara.ro/live/RT_FM.m3u</string>
-			<key>http</key>
-			<string>http://www.radio-timisoara.ro/live/RT_AM.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SRR Radio Arad</string>
-			<key>logo</key>
-			<string>Arad</string>
-			<key>link</key>
-			<string>http://www.radio-timisoara.ro/live/RT_FM_ARAD.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Timisoara</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Romania International 1</string>
-			<key>logo</key>
-			<string>International</string>
-			<key>link</key>
-			<string>http://stream2.srr.ro:8050/listen.pls</string>
-			<key>http</key>
-			<string>http://www.rri.ro/live_stream/rri_mp3_64_1.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Romania International 2</string>
-			<key>logo</key>
-			<string>2</string>
-			<key>link</key>
-			<string>http://stream2.srr.ro:8060/listen.pls</string>
-			<key>http</key>
-			<string>http://www.rri.ro/live_stream/rri_mp3_64_2.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Romania International 3</string>
-			<key>logo</key>
-			<string>3</string>
-			<key>link</key>
-			<string>http://stream2.srr.ro:8070/listen.pls</string>
-			<key>http</key>
-			<string>http://www.rri.ro/live_stream/rri_mp3_64_3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
