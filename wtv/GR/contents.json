@@ -7,51 +7,57 @@
    },
    {
       "name":"\u0395\u03a1\u03a41",
-      "logo":"\u0395\u03a1\u03a41",
-      "link":"http:\/\/webtv.ert.gr\/ert1\/",
+      "logo":"ept1",
+      "link":"https:\/\/webtv.ert.gr\/ert1-live\/",
       "http":"http:\/\/webtv.ert.gr\/"
    },
    {
       "name":"\u0395\u03a1\u03a42",
-      "logo":"\u0395\u03a1\u03a42",
-      "link":"http:\/\/webtv.ert.gr\/ert2\/",
+      "logo":"ept2",
+      "link":"https:\/\/webtv.ert.gr\/ert2-live\/",
       "http":"http:\/\/webtv.ert.gr\/"
    },
    {
       "name":"\u0395\u03a1\u03a43",
-      "logo":"\u0395\u03a1\u03a43",
-      "link":"http:\/\/webtv.ert.gr\/ert3\/",
+      "logo":"ept3",
+      "link":"https:\/\/webtv.ert.gr\/ert3-live\/",
       "http":"http:\/\/webtv.ert.gr\/"
    },
    {
       "name":"\u0395\u03a1\u03a4 World",
-      "logo":"\u0395\u03a1\u03a4",
-      "link":"http:\/\/webtv.ert.gr\/ertworld\/",
+      "logo":"ept",
+      "link":"https:\/\/webtv.ert.gr\/ertworld-live\/",
       "http":"http:\/\/webtv.ert.gr\/"
    },
    {
-      "name":"\u0395\u03a1\u03a4 Play",
+      "name":"\u0395\u03a1\u03a4 HD",
+      "logo":"HD",
+      "link":"https:\/\/webtv.ert.gr\/ert-hd\/",
+      "http":"https:\/\/webtv.ert.gr"
+   },
+   {
+      "name":"\u0395\u03a1\u03a4 Play 1",
       "logo":"Play",
-      "link":"http:\/\/webtv.ert.gr\/ertplay\/",
+      "link":"https:\/\/webtv.ert.gr\/ert-play-live\/",
       "http":"http:\/\/webtv.ert.gr\/"
+   },
+   {
+      "name":"\u0395\u03a1\u03a4 Play 2",
+      "logo":"2",
+      "link":"https:\/\/webtv.ert.gr\/ert-play-2-live\/",
+      "http":"https:\/\/webtv.ert.gr"
    },
    {
       "name":"Epsilon",
       "logo":"Epsilon",
-      "link":"http:\/\/www.epsilontv.gr\/live\/",
+      "link":"https:\/\/www.tvopen.gr\/live-tv",
       "http":"http:\/\/www.epsilontv.gr"
-   },
-   {
-      "name":"SBC",
-      "logo":"SBC",
-      "link":"http:\/\/www.sbctv.gr\/",
-      "http":"http:\/\/www.sbctv.gr\/"
    },
    {
       "name":"Alpha",
       "logo":"Alpha",
-      "link":"http:\/\/www.alphatv.gr\/webtv\/live",
-      "http":"http:\/\/www.alphatv.gr"
+      "link":"https:\/\/www.alphatv.gr\/live\/",
+      "http":"https:\/\/www.alphatv.gr"
    },
    {
       "name":"Skai",
@@ -62,7 +68,7 @@
    {
       "name":"\u0391\u03c1\u03c4 \u03a4\u03b7\u03bb\u03b5\u03bf\u03c1\u03b1\u03c3\u03b7",
       "logo":"Art",
-      "link":"http:\/\/www.arttv.info\/2014\/03\/art-tv-live.html",
+      "link":"http:\/\/www.arttv.info\/2017\/03\/arttvlive.html",
       "http":"http:\/\/www.arttv.info"
    },
    {
@@ -80,7 +86,7 @@
    {
       "name":"Star",
       "logo":"Star",
-      "link":"http:\/\/www.star.gr\/tv\/el\/Pages\/LiveStream.aspx",
+      "link":"http:\/\/www.star.gr\/tv\/live-stream\/",
       "http":"http:\/\/www.star.gr"
    },
    {
@@ -106,12 +112,6 @@
       "logo":"Architects",
       "link":"http:\/\/www.greekarchitects.gr\/tv.php",
       "http":"http:\/\/www.greekarchitects.gr"
-   },
-   {
-      "name":"\u039f\u0394\u0399\u0395",
-      "logo":"ODIE",
-      "link":"http:\/\/www.odie.gr\/el\/odiePage\/live",
-      "http":"http:\/\/www.odie.gr"
    },
    {
       "name":"TileSport",
@@ -150,28 +150,10 @@
       "http":"http:\/\/www.voiceofgod.gr"
    },
    {
-      "name":"Blue Sky",
-      "logo":"Blue",
-      "link":"https:\/\/www.youtube.com\/user\/blueskyathens\/videos?live_view=501&view=2&flow=grid",
-      "http":"http:\/\/www.blueskytv.gr\/"
-   },
-   {
       "name":"Kontra",
       "logo":"Kontra",
       "link":"http:\/\/live24.gr\/webtv\/kontrachannel\/",
       "http":"http:\/\/kontrachannel.gr\/"
-   },
-   {
-      "name":"\u0395\u039d\u0391",
-      "logo":"\u0395\u039d\u0391",
-      "link":"http:\/\/original.livestream.com\/lamiaenatv",
-      "http":"http:\/\/www.enatv.gr\/"
-   },
-   {
-      "name":"Star",
-      "logo":"TVStar",
-      "link":"https:\/\/tvstar.gr\/webtv",
-      "http":"https:\/\/tvstar.gr"
    },
    {
       "name":"TV100",
@@ -182,7 +164,7 @@
    {
       "name":"\u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ad\u03c2",
       "logo":"Epilioges",
-      "link":"http:\/\/epiloges.tv\/index.php?page=news_d&article_id=410&category_id=20",
+      "link":"https:\/\/epiloges.tv\/epiloges-live-tv\/",
       "http":"http:\/\/www.ustream.tv\/channel\/tv-epiloges\/pop-out"
    },
    {
@@ -212,7 +194,7 @@
    {
       "name":"\u0398\u03c1\u03b1\u03ba\u03b7\u039d\u03b5\u03c4 Thraki Net",
       "logo":"Thraki",
-      "link":"http:\/\/thrakinet.tv\/%CE%B4%CE%B5%CE%AF%CF%84%CE%B5-%CE%B6%CF%89%CE%BD%CF%84%CE%B1%CE%BD%CE%AC-thrakinet-live\/",
+      "link":"http:\/\/direct.e-radio.gr\/playervideo\/?thrakinettv",
       "http":"http:\/\/thrakinet.tv"
    },
    {
@@ -228,22 +210,16 @@
       "http":"http:\/\/www.tvrodopi.gr"
    },
    {
-      "name":"\u0389\u03c0\u03b5\u03b9\u03c1\u03bf\u03c2 TV1",
-      "logo":"TV1",
-      "link":"http:\/\/www.epirustv1.gr\/",
-      "http":"http:\/\/www.epirustv1.gr\/"
-   },
-   {
       "name":"\u0392\u03ae\u03bc\u03b1",
       "logo":"Vima",
-      "link":"http:\/\/www.vimanews.gr\/",
+      "link":"http:\/\/www.vimanews.gr\/index.php?option=com_wrapper&view=wrapper&Itemid=37",
       "http":"http:\/\/www.ustream.tv\/channel\/pluswebtv\/pop-out"
    },
    {
       "name":"Corfu",
       "logo":"Corfu",
-      "link":"http:\/\/www.corfutv.gr\/index.php?option=com_content&view=article&id=3583&Itemid=609",
-      "http":"http:\/\/www.corfutv.gr"
+      "link":"https:\/\/corfutvnews.gr\/live-stream\/",
+      "http":"https:\/\/corfutvnews.gr"
    },
    {
       "name":"\u03a3\u0391\u039c\u0399\u0391\u039a\u0397 Samiaki",
@@ -252,46 +228,16 @@
       "http":"http:\/\/samiaki.tv"
    },
    {
-      "name":"\u039c\u03c5\u03c4\u03b9\u03bb\u03ae\u03bd\u03b7\u03c2 Mitilini",
-      "logo":"Mitilini",
-      "link":"http:\/\/www.tvmitilini.gr\/tv-mitilini\/live-tv-mitilini",
-      "http":"http:\/\/www.tvmitilini.gr"
-   },
-   {
-      "name":"DR",
-      "logo":"DR",
-      "link":"http:\/\/drtvhellas.blogspot.gr\/",
-      "http":"http:\/\/original.livestream.com\/drtvhellas"
-   },
-   {
       "name":"Best",
       "logo":"Best",
-      "link":"http:\/\/www.best-tv.gr\/live-tv",
-      "http":"http:\/\/www.best-tv.gr"
-   },
-   {
-      "name":"\u0391\u03b9\u03b3\u03b1\u03af\u03bf Aigaio",
-      "logo":"Aigaio",
-      "link":"http:\/\/www.aigaio-tv.gr\/index.php\/livestream",
-      "http":"http:\/\/www.aigaio-tv.gr\/"
-   },
-   {
-      "name":"\u03a9\u03bc\u03ad\u03b3\u03b1",
-      "logo":"Omega",
-      "link":"http:\/\/www.omegatv.net\/channel-1_live.html",
-      "http":"http:\/\/www.omegatv.net\/"
+      "link":"https:\/\/best-tv.gr\/home\/best-live-tv\/",
+      "http":"https:\/\/best-tv.gr"
    },
    {
       "name":"\u03a3\u03cd\u03c1\u03bf\u03c2 TV1 Syros",
       "logo":"Syros",
       "link":"http:\/\/www.syrostv1.gr\/index.php?option=com_wrapper&view=wrapper&Itemid=69",
       "http":"http:\/\/www.syrostv1.gr"
-   },
-   {
-      "name":"Aigaio Ano Syros",
-      "logo":"Ano",
-      "link":"http:\/\/aigaiolive.gr\/tv_live\/",
-      "http":"http:\/\/original.livestream.com\/aigaiotv"
    },
    {
       "name":"Astra",
@@ -302,8 +248,8 @@
    {
       "name":"Lepanto",
       "logo":"Lepanto",
-      "link":"http:\/\/lepantortv.gr\/live-tv.html",
-      "http":"http:\/\/lepantortv.gr"
+      "link":"https:\/\/www.youtube.com\/channel\/UCsKDcheV6_Wu4hxYTDkncfw\/live",
+      "http":"http:\/\/lepantortv.gr\/live-tv.html"
    },
    {
       "name":"Flash",
@@ -316,6 +262,12 @@
       "logo":"West",
       "link":"http:\/\/www.westchannel.gr\/livetv\/",
       "http":"http:\/\/www.ustream.tv\/channel\/west-channel\/pop-out"
+   },
+   {
+      "name":"ANT1 \/ \u0391\u03c1\u03c7\u03b9\u03ba\u03ae \u03c3\u03b5\u03bb\u03af\u03b4\u03b1",
+      "logo":"ANT1",
+      "link":"https:\/\/www.antenna.gr\/Live",
+      "http":"https:\/\/www.antenna.gr"
    },
    {
       "name":"Bloomberg TV Europe",
@@ -332,7 +284,7 @@
    {
       "name":"Sky News",
       "logo":"Sky",
-      "link":"http:\/\/news.sky.com\/watch-live",
+      "link":"https:\/\/news.sky.com\/watch-live",
       "http":"https:\/\/www.youtube.com\/user\/skynews"
    }
 ]
