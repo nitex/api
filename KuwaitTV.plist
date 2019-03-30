@@ -32,6 +32,197 @@
 		<string>10</string>
 	</dict>
 	<key>Content</key>
-	<array/>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>الاولى - KTV 1</string>
+			<key>logo</key>
+			<string>KTV1</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait1.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>الثانية - KTV 2</string>
+			<key>logo</key>
+			<string>KTV2</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait2.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>الثالثة الرياضية - KTV Sport</string>
+			<key>logo</key>
+			<string>KTV3</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait3.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>بلس الرياضية - KTV Sport Plus</string>
+			<key>logo</key>
+			<string>KTV5</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait4.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>اثراء - KTV Ethraa</string>
+			<key>logo</key>
+			<string>KTV4</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait5.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>العربي - KTV Arabe</string>
+			<key>logo</key>
+			<string>KTV6</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait6.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>القرين - Al Qurain</string>
+			<key>logo</key>
+			<string>KTV7</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait7.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>المجلس - KTV Al Majlis</string>
+			<key>logo</key>
+			<string>KTV8</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait8.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Jazeera الجزيرة‎</string>
+			<key>logo</key>
+			<string>Jazeera</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Jazeera English الإنجليزية</string>
+			<key>logo</key>
+			<string>English</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera-en.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aljazeera Mubasher (الجزيرة مباشر‎)</string>
+			<key>logo</key>
+			<string>Mubasher</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera-mb.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Arabiya العربية‎</string>
+			<key>logo</key>
+			<string>Arabiya</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/arabiya.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>الحدث Al Hadath</string>
+			<key>logo</key>
+			<string>Hadath</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/hadath.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia (سكاي نيوز عربية‎)</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/sky-ar.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CNBC Arabia (سي إن بي سي عربية)</string>
+			<key>logo</key>
+			<string>CNBC</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/cnbc-ar.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Arabic (بي بي سي عربي)</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/bbc-ar.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>euronews عــربي</string>
+			<key>logo</key>
+			<string>euronews</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/euronews-ar.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RT Arabic</string>
+			<key>logo</key>
+			<string>RT</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/rt-ar.mp4</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CGTN Arabic سي جي تي أن العربية‎‎</string>
+			<key>logo</key>
+			<string>CGTN</string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string>https://raw.githubusercontent.com/nitex/api/master/v1/cgtn.mp4</string>
+		</dict>
+	</array>
 </dict>
 </plist>
