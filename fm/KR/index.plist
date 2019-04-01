@@ -51,11 +51,107 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Big B Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Big</string>
 			<key>link</key>
+			<string>https://www.bigbradio.net/stream/kpop128.pls</string>
+			<key>http</key>
+			<string>https://www.bigbradio.net/stream/kpop64.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WeKorea 위코리아</string>
+			<key>logo</key>
+			<string>WeKorea</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>San Diego Radio Korea</string>
+			<key>logo</key>
+			<string>San</string>
+			<key>link</key>
+			<string>http://fmt01.egihosting.com:9468/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.13.81.34:9468/listen.pls&amp;t=.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cafe 두레박</string>
+			<key>logo</key>
+			<string>Cafe</string>
+			<key>link</key>
+			<string>http://sc03.saycast.com:8150/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://222.122.178.186:5180/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FRED</string>
+			<key>logo</key>
+			<string>FRED</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GROMCO</string>
+			<key>logo</key>
+			<string>GROMCO</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Andong FM</string>
+			<key>logo</key>
+			<string>Andong</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/andong-am,16423.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/andong-fm,16422.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arirang Radio</string>
+			<key>logo</key>
+			<string>Arirang</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/arirang-radio,18386.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jeju (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBS 101.9 FM</string>
+			<key>logo</key>
+			<string>BBS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bbs-101-9-fm,12772.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +159,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CAST.CC</string>
 			<key>logo</key>
-			<string></string>
+			<string>CAST</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cast-cc,12768.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Changwon FM 98.1</string>
+			<key>logo</key>
+			<string>Changwon</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/changwon-fm-98-1,16421.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Chunchon AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Chunchon</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/chunchon-am,16424.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,119 +195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FEBC 106.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>FEBC</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/febc-106-9-fm,12773.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
