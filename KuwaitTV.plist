@@ -7,29 +7,29 @@
 		<key>ID</key>
 		<string>3694130267637407</string>
 		<key>Main</key>
-		<string>1</string>
+		<string>9837343609</string>
 		<key>Back</key>
-		<string>1</string>
+		<string>4393445234</string>
 		<key>Banner</key>
-		<string>1</string>
+		<string>9262628533</string>
 		<key>Header</key>
-		<string>1</string>
+		<string>2505648494</string>
 		<key>Footer</key>
-		<string>1</string>
+		<string>2314076801</string>
 		<key>Email</key>
-		<string>1</string>
+		<string>idenitecs@gmail.com</string>
 		<key>Alternative</key>
 		<string>1</string>
 		<key>Application</key>
-		<string>1</string>
+		<string>1458234252</string>
 		<key>Developer</key>
-		<string>1</string>
+		<string>1239592099</string>
 		<key>Minutes</key>
 		<string>4</string>
 		<key>Delay</key>
 		<integer>2</integer>
 		<key>DemoMode</key>
-		<string>10</string>
+		<string>8</string>
 	</dict>
 	<key>Content</key>
 	<array>
@@ -39,9 +39,9 @@
 			<key>logo</key>
 			<string>KTV1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTV1</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait1.mp4</string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -49,9 +49,9 @@
 			<key>logo</key>
 			<string>KTV2</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTV2</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait2.mp4</string>
+			<string>http://www.media.gov.kw</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -59,9 +59,9 @@
 			<key>logo</key>
 			<string>KTV3</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTVSports</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait3.mp4</string>
+			<string>http://www.media.gov.kw</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -69,9 +69,9 @@
 			<key>logo</key>
 			<string>KTV5</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTVSportPlus</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait4.mp4</string>
+			<string>http://www.media.gov.kw</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>KTV4</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTVEthraa</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait5.mp4</string>
+			<string>http://www.media.gov.kw</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -89,9 +89,9 @@
 			<key>logo</key>
 			<string>KTV6</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTVArabe</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait6.mp4</string>
+			<string>http://www.media.gov.kw</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -99,9 +99,9 @@
 			<key>logo</key>
 			<string>KTV7</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTVPlus</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait7.mp4</string>
+			<string>http://www.media.gov.kw</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -109,9 +109,39 @@
 			<key>logo</key>
 			<string>KTV8</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.media.gov.kw/LiveTV1.aspx?PanChannel=KTVSportExtra</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/kuwait8.mp4</string>
+			<string>http://www.media.gov.kw</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Rai الراي</string>
+			<key>logo</key>
+			<string>Rai</string>
+			<key>link</key>
+			<string>https://www.alraimedia.com/TV/ar/Home/Live</string>
+			<key>http</key>
+			<string>https://www.alraimedia.com/TV</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Shahed تلفزيون الشاهد</string>
+			<key>logo</key>
+			<string>Shahed</string>
+			<key>link</key>
+			<string>http://alshahed.tv/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1</string>
+			<key>http</key>
+			<string>http://alshahed.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marina</string>
+			<key>logo</key>
+			<string>Marina</string>
+			<key>link</key>
+			<string>https://www.youtube.com/user/alinajimfans/videos?shelf_id=0&amp;live_view=501&amp;sort=dd&amp;view=2</string>
+			<key>http</key>
+			<string>http://www.marinafm.com/</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,9 +149,9 @@
 			<key>logo</key>
 			<string>Jazeera</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.aljazeera.net/broadcastschedule</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera.mp4</string>
+			<string>https://www.youtube.com/user/aljazeerachannel/videos?live_view=501&amp;flow=grid&amp;view=2</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -129,9 +159,9 @@
 			<key>logo</key>
 			<string>English</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.aljazeera.com/live/</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera-en.mp4</string>
+			<string>https://www.youtube.com/user/AlJazeeraEnglish/videos?view=2&amp;live_view=501&amp;flow=grid</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,9 +169,9 @@
 			<key>logo</key>
 			<string>Mubasher</string>
 			<key>link</key>
-			<string></string>
+			<string>http://mubasher.aljazeera.net/</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/jazeera-mb.mp4</string>
+			<string>https://www.youtube.com/user/aljazeeramubasher/videos?flow=grid&amp;view=2&amp;live_view=501</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -149,9 +179,9 @@
 			<key>logo</key>
 			<string>Arabiya</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.alarabiya.net/live-stream.html?cref=navdesk</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/arabiya.mp4</string>
+			<string>https://www.youtube.com/user/AlArabiya/videos?live_view=501&amp;flow=grid&amp;view=2</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -159,9 +189,9 @@
 			<key>logo</key>
 			<string>Hadath</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.alhadath.net/live-stream.html?cref=navdesk</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/hadath.mp4</string>
+			<string>https://www.youtube.com/channel/UCrj5BGAhtWxDfqbza9T9hqA/videos?live_view=501&amp;flow=grid&amp;view=2</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -169,9 +199,9 @@
 			<key>logo</key>
 			<string>Sky</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.skynewsarabia.com/web/livestream</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/sky-ar.mp4</string>
+			<string>https://www.youtube.com/user/skynewsarabia/videos?flow=grid&amp;view=2&amp;live_view=501</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -179,9 +209,9 @@
 			<key>logo</key>
 			<string>CNBC</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.cnbcarabia.com/Pages/live</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/cnbc-ar.mp4</string>
+			<string>https://www.cnbcarabia.com/</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -189,9 +219,19 @@
 			<key>logo</key>
 			<string>BBC</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.bbc.com/arabic/tvandradio/2013/05/000000_bbcarabic_livetv</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/bbc-ar.mp4</string>
+			<string>https://www.youtube.com/user/BBCArabicNews/videos?flow=grid&amp;live_view=501&amp;view=2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>التلفزيون العربي Alaraby    </string>
+			<key>logo</key>
+			<string>Alaraby</string>
+			<key>link</key>
+			<string>http://alaraby.tv/live/61/alaraby</string>
+			<key>http</key>
+			<string>http://alaraby.tv</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -199,9 +239,49 @@
 			<key>logo</key>
 			<string>euronews</string>
 			<key>link</key>
-			<string></string>
+			<string>http://arabic.euronews.com/live</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/euronews-ar.mp4</string>
+			<string>http://arabic.euronews.com/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>فرانس 24 (FRANCE 24 Arabic)</string>
+			<key>logo</key>
+			<string>FRANCE</string>
+			<key>link</key>
+			<string>http://www.france24.com/ar/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/france24arabic/videos?flow=grid&amp;view=2&amp;live_view=501</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Mayadeen (قناة الميادين)</string>
+			<key>logo</key>
+			<string>Mayadeen</string>
+			<key>link</key>
+			<string>http://www.almayadeen.net/live</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/Mayadeentv/videos?view=2&amp;live_view=501&amp;flow=grid</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Almagharibia المغاربية‎</string>
+			<key>logo</key>
+			<string>Almagharibia</string>
+			<key>link</key>
+			<string>https://almagharibia.tv/</string>
+			<key>http</key>
+			<string>https://almagharibia.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alhurra الحرة</string>
+			<key>logo</key>
+			<string>Alhurra</string>
+			<key>link</key>
+			<string>https://www.alhurra.com/embed/player/tube/4.html</string>
+			<key>http</key>
+			<string>https://www.alhurra.com/embed/player/tube/5.html</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -209,9 +289,9 @@
 			<key>logo</key>
 			<string>RT</string>
 			<key>link</key>
-			<string></string>
+			<string>https://arabic.rt.com/live/</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/rt-ar.mp4</string>
+			<string>https://www.youtube.com/user/RTarabic/videos?view=2&amp;live_view=501&amp;flow=grid</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -219,9 +299,9 @@
 			<key>logo</key>
 			<string>CGTN</string>
 			<key>link</key>
-			<string></string>
+			<string>https://www.cgtn.com/channel/ar.do</string>
 			<key>http</key>
-			<string>https://raw.githubusercontent.com/nitex/api/master/v1/cgtn.mp4</string>
+			<string>https://www.cgtn.com</string>
 		</dict>
 	</array>
 </dict>
