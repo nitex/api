@@ -67,9 +67,9 @@
 			<key>logo</key>
 			<string>MR1</string>
 			<key>link</key>
-			<string>http://stream001.radio.hu:8080/mr1.aac.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://stream001.radio.hu:8080/mr1.mp3.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>note</key>
 			<string>News/Features</string>
 		</dict>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>MR2</string>
 			<key>link</key>
-			<string>http://stream001.radio.hu:8080/mr2.aac.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>http://stream001.radio.hu:8080/mr2.mp3.m3u</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
 			<string>Pop, Alternative, World</string>
 		</dict>
@@ -91,9 +91,9 @@
 			<key>logo</key>
 			<string>MR3</string>
 			<key>link</key>
-			<string>http://stream001.radio.hu:8080/mr3.aac.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://stream001.radio.hu:8080/mr3.mp3.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>note</key>
 			<string>Classical</string>
 		</dict>
@@ -103,9 +103,9 @@
 			<key>logo</key>
 			<string>MR4</string>
 			<key>link</key>
-			<string>http://stream001.radio.hu:8080/mr4.aac.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
-			<string>http://stream001.radio.hu:8080/mr4.mp3.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -115,9 +115,9 @@
 			<key>logo</key>
 			<string>MR5</string>
 			<key>link</key>
-			<string>http://stream001.radio.hu:8080/mr5.aac.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://stream001.radio.hu:8080/mr5.mp3.m3u</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -127,9 +127,9 @@
 			<key>logo</key>
 			<string>Danko</string>
 			<key>link</key>
-			<string>http://stream001.radio.hu:8080/mr7.aac.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://stream001.radio.hu:8080/mr7.mp3.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>note</key>
 			<string>Hungarian songs, Folk, Opera</string>
 		</dict>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Duna</string>
 			<key>link</key>
-			<string>https://www.mediaklikk.hu/duna-world-radio-elo/</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,7 +151,7 @@
 			<key>logo</key>
 			<string>Eger</string>
 			<key>link</key>
-			<string>http://stream.radioeger.hu:18000/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>TOP</string>
 			<key>link</key>
-			<string>http://stream.radioeger.hu:8160/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>Club</string>
 			<key>link</key>
-			<string>http://stream.radioeger.hu:8110/listen.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>Light</string>
 			<key>link</key>
-			<string>http://stream.radioeger.hu:8120/listen.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,7 +199,7 @@
 			<key>logo</key>
 			<string>Hazai</string>
 			<key>link</key>
-			<string>http://stream.radioeger.hu:8130/listen.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -211,7 +211,7 @@
 			<key>logo</key>
 			<string>Oldies</string>
 			<key>link</key>
-			<string>http://stream.radioeger.hu:8140/listen.pls</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -223,7 +223,7 @@
 			<key>logo</key>
 			<string>Retro</string>
 			<key>link</key>
-			<string>http://stream.radioeger.hu:8150/listen.pls</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
