@@ -67,9 +67,9 @@
 			<key>logo</key>
 			<string>MR1</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream001.radio.hu:8080/mr1.aac.m3u</string>
 			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream001.radio.hu:8080/mr1.mp3.m3u</string>
 			<key>note</key>
 			<string>News/Features</string>
 		</dict>
@@ -79,11 +79,11 @@
 			<key>logo</key>
 			<string>MR2</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://stream001.radio.hu:8080/mr2.aac.m3u</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://stream001.radio.hu:8080/mr2.mp3.m3u</string>
 			<key>note</key>
-			<string>Pop, Alternative, World</string>
+			<string>Pop, Alternative, World Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,9 +91,9 @@
 			<key>logo</key>
 			<string>MR3</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://stream001.radio.hu:8080/mr3.aac.m3u</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://stream001.radio.hu:8080/mr3.mp3.m3u</string>
 			<key>note</key>
 			<string>Classical</string>
 		</dict>
@@ -103,9 +103,9 @@
 			<key>logo</key>
 			<string>MR4</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream001.radio.hu:8080/mr4.aac.m3u</string>
 			<key>http</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream001.radio.hu:8080/mr4.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -115,9 +115,9 @@
 			<key>logo</key>
 			<string>MR5</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream001.radio.hu:8080/mr5.aac.m3u</string>
 			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream001.radio.hu:8080/mr5.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -127,11 +127,11 @@
 			<key>logo</key>
 			<string>Danko</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream001.radio.hu:8080/mr7.aac.m3u</string>
 			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream001.radio.hu:8080/mr7.mp3.m3u</string>
 			<key>note</key>
-			<string>Hungarian songs, Folk, Opera</string>
+			<string>Hungarian Music, Folk, Opera</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,11 +139,755 @@
 			<key>logo</key>
 			<string>Duna</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>https://www.mediaklikk.hu/duna-world-radio-elo/</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktív Rádió</string>
+			<key>logo</key>
+			<string>Aktiv</string>
+			<key>link</key>
+			<string>http://aktivradio.hu:8000/aktiv.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Szolnok (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Amadeus Rádió</string>
+			<key>logo</key>
+			<string>Amadeus</string>
+			<key>link</key>
+			<string>http://87.229.73.156:8004/stream192.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Szolnok (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aqua Rádió</string>
+			<key>logo</key>
+			<string>Aqua</string>
+			<key>link</key>
+			<string>http://hosting.42netmedia.com:13070/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barcs (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bajai Rádió</string>
+			<key>logo</key>
+			<string>Bajai</string>
+			<key>link</key>
+			<string>http://92.61.114.195:9950/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Balaton Rádió</string>
+			<key>logo</key>
+			<string>Balaton</string>
+			<key>link</key>
+			<string>http://wssgd.gdsinfo.com:8200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Siófok (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Civil Rádió</string>
+			<key>logo</key>
+			<string>Civil</string>
+			<key>link</key>
+			<string>http://civilradio.hu:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class FM</string>
+			<key>logo</key>
+			<string>Class</string>
+			<key>link</key>
+			<string>http://87.229.103.52:7058/CLASS_FM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Corvinus Rádió</string>
+			<key>logo</key>
+			<string>Corvinus</string>
+			<key>link</key>
+			<string>http://stream.soundglobe.hu:8044/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sopron (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Csaba Radio</string>
+			<key>logo</key>
+			<string>Csaba</string>
+			<key>link</key>
+			<string>http://online.csabaradio.hu:8000/128kbps.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Békéscsaba, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DióRádió</string>
+			<key>logo</key>
+			<string>DioRadio</string>
+			<key>link</key>
+			<string>http://www.dioradio.hu/dioradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gyöngyös (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El-Do Rádió</string>
+			<key>logo</key>
+			<string>El-Do</string>
+			<key>link</key>
+			<string>http://www.eldoradio.hu/stream.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Dunaújváros, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EPER</string>
+			<key>logo</key>
+			<string>EPER</string>
+			<key>link</key>
+			<string>http://eper.elte.hu/eper128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Eötvös Loránd University</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Európa Rádió</string>
+			<key>logo</key>
+			<string>Europa</string>
+			<key>link</key>
+			<string>http://radio2.tirek.hu:8000/europaradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Miskolc (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Európa Rádió Nyíregyháza</string>
+			<key>logo</key>
+			<string>Nyiregyhaza</string>
+			<key>link</key>
+			<string>http://radio2.tirek.hu:8000/nyiregyhaza.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Európa Rádió Debrecen</string>
+			<key>logo</key>
+			<string>Debrecen</string>
+			<key>link</key>
+			<string>http://radio2.tirek.hu:8000/debrecen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Európa Rádió Szeged</string>
+			<key>logo</key>
+			<string>Szeged</string>
+			<key>link</key>
+			<string>http://radio2.tirek.hu:8000/szeged.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fehérvár Rádió</string>
+			<key>logo</key>
+			<string>Fehervar</string>
+			<key>link</key>
+			<string>http://81.93.193.14:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Székesfehérvár (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FIKSZ Rádió</string>
+			<key>logo</key>
+			<string>FIKSZ</string>
+			<key>link</key>
+			<string>http://157.181.47.204:9000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM90 Friss Rádió</string>
+			<key>logo</key>
+			<string>FM90</string>
+			<key>link</key>
+			<string>http://stream.frissradio.hu:8000/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Alternative, Pop, Rock Music (Debrecen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Folk Radio</string>
+			<key>logo</key>
+			<string>Folk</string>
+			<key>link</key>
+			<string>http://list.folkradio.hu:443/modem16.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Forrás Rádió</string>
+			<key>logo</key>
+			<string>Forras</string>
+			<key>link</key>
+			<string>http://streamhost110.gtk.hu:9000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tatabánya (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fortuna Rádió</string>
+			<key>logo</key>
+			<string>Fortuna</string>
+			<key>link</key>
+			<string>http://streamer.impressive.hu:8000/fortuna_paks_live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Paks, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frisss FM</string>
+			<key>logo</key>
+			<string>Frisss</string>
+			<key>link</key>
+			<string>http://92.61.114.195:9800/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szombathely, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gazdasági Rádió (Trend FM)</string>
+			<key>logo</key>
+			<string>Gazdasagi</string>
+			<key>link</key>
+			<string>http://radio.nordtelekom.hu:8000/gazdasagiradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Jazz Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gong Radio</string>
+			<key>logo</key>
+			<string>Gong</string>
+			<key>link</key>
+			<string>http://www.gong.hu/gong-fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Kecskemét, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ha-Jó Rádió</string>
+			<key>logo</key>
+			<string>Ha</string>
+			<key>link</key>
+			<string>http://www.radioszerver.hu:8076/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Vaja (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Helikon Rádió</string>
+			<key>logo</key>
+			<string>Helikon</string>
+			<key>link</key>
+			<string>http://217.113.59.10:8010/live2.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Keszthely (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Info Rádió</string>
+			<key>logo</key>
+			<string>Inf</string>
+			<key>link</key>
+			<string>http://87.229.45.44:8400/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jazz Radio</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://194.38.105.21:8002/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>90.9 Jazzy</string>
+			<key>logo</key>
+			<string>Jazzy</string>
+			<key>link</key>
+			<string>http://www.jazzy.hu/jazzy909.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jazzy Groove</string>
+			<key>logo</key>
+			<string>Groove</string>
+			<key>link</key>
+			<string>http://online.jazzy.hu/jazzy-groove.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Juventus Radio</string>
+			<key>logo</key>
+			<string>Juventus</string>
+			<key>link</key>
+			<string>http://www.listenlive.eu/juventus.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop/Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kapos Rádió</string>
+			<key>logo</key>
+			<string>Kapos</string>
+			<key>link</key>
+			<string>http://195.56.77.207:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Kaposvár, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kaposvár Most</string>
+			<key>logo</key>
+			<string>Most</string>
+			<key>link</key>
+			<string>http://kaposvarmost.hu/radio/radiomost.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kék Duna Rádió</string>
+			<key>logo</key>
+			<string>Kek</string>
+			<key>link</key>
+			<string>http://webradio2.ev2.hu:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gyor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Klasszik Rádió 92.1</string>
+			<key>logo</key>
+			<string>Klasszik</string>
+			<key>link</key>
+			<string>http://online.klasszikradio.hu/klasszik.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Klubrádió</string>
+			<key>logo</key>
+			<string>Klubradio</string>
+			<key>link</key>
+			<string>http://www.klubradio.hu:8080/96kbit.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kontakt Rádió</string>
+			<key>logo</key>
+			<string>Kontakt</string>
+			<key>link</key>
+			<string>http://87.229.45.44:8700/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Korona Rádió</string>
+			<key>logo</key>
+			<string>Korona</string>
+			<key>link</key>
+			<string>http://koronaradio.hu/music/korona.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kalocsa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lakihegy Rádió</string>
+			<key>logo</key>
+			<string>Lakihegy</string>
+			<key>link</key>
+			<string>http://stream.composeit.hu:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szigetszentmiklós, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lánchíd Rádió</string>
+			<key>logo</key>
+			<string>Lanchid</string>
+			<key>link</key>
+			<string>http://91.82.85.44:9004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luxfunk Radio</string>
+			<key>logo</key>
+			<string>Luxfunk</string>
+			<key>link</key>
+			<string>http://87.229.45.44:8200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>RnB/Rap/Soul Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magyar Katolikus Rádió</string>
+			<key>logo</key>
+			<string>Magyar</string>
+			<key>link</key>
+			<string>http://katolikusradio.hu/listen-hi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mária Rádió</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://www.mariaradio.hu:8000/mr.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Méz Rádió</string>
+			<key>logo</key>
+			<string>Mez</string>
+			<key>link</key>
+			<string>http://host2.radioszerver.hu:9200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Veszprém, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Music 89.5</string>
+			<key>logo</key>
+			<string>Music</string>
+			<key>link</key>
+			<string>http://stream.musicfm.hu:8000/musicfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Music)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nap Rádió</string>
+			<key>logo</key>
+			<string>Nap</string>
+			<key>link</key>
+			<string>http://www.napradio.hu/napradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Sopron, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nyugat Rádió</string>
+			<key>logo</key>
+			<string>Nyugat</string>
+			<key>link</key>
+			<string>http://www.nyugatradio.hu/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Szombathely (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ozone (Oxygen Media Hírügynökség)</string>
+			<key>logo</key>
+			<string>Ozone</string>
+			<key>link</key>
+			<string>http://www.o3.hu/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Gyor, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 6</string>
+			<key>logo</key>
+			<string>6</string>
+			<key>link</key>
+			<string>http://www.radio6.hu/live.m3u</string>
+			<key>http</key>
+			<string>http://94.199.181.143:7080/live.mp3.m3u</string>
+			<key>note</key>
+			<string>Top 30 (Százhalombatta, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 7</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://radio7.mellesleg.fm:8200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Hódmezovásárhely (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió 8</string>
+			<key>logo</key>
+			<string>8</string>
+			<key>link</key>
+			<string>http://musorcsere.hu:8600/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Körmend (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió 17</string>
+			<key>logo</key>
+			<string>17</string>
+			<key>link</key>
+			<string>http://www.radio17.24hosting.hu:8111/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 24</string>
+			<key>logo</key>
+			<string>24</string>
+			<key>link</key>
+			<string>http://radio.nordtelekom.hu:8000/radio24dunaujvaros.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Dunaujvarus, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió 35</string>
+			<key>logo</key>
+			<string>35</string>
+			<key>link</key>
+			<string>http://195.191.222.207:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tiszaújváros (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88</string>
+			<key>logo</key>
+			<string>Radio88</string>
+			<key>link</key>
+			<string>http://www.radio88.hu/stream/radio88.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szeged, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88 Club 88</string>
+			<key>logo</key>
+			<string>881</string>
+			<key>link</key>
+			<string>http://stream2.radio88.hu:8400/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Szeged, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88 Retro 88</string>
+			<key>logo</key>
+			<string>882</string>
+			<key>link</key>
+			<string>http://stream1.radio88.hu:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies (Szeged, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio88 Top 88</string>
+			<key>logo</key>
+			<string>883</string>
+			<key>link</key>
+			<string>http://stream3.radio88.hu:8500/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szeged, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Antritt</string>
+			<key>logo</key>
+			<string>Antritt</string>
+			<key>link</key>
+			<string>http://radioantritt.hu/Antritt.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Szekszárd, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cafe 98.6</string>
+			<key>logo</key>
+			<string>Cafe</string>
+			<key>link</key>
+			<string>http://www.savetofile.net:7100/RadioCafe.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Dabas</string>
+			<key>logo</key>
+			<string>Dabas</string>
+			<key>link</key>
+			<string>http://37.221.209.189:7093/listen.pls</string>
+			<key>http</key>
+			<string>http://www.radiodabas.hu/files/listen.pls</string>
+			<key>note</key>
+			<string>Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -151,11 +895,11 @@
 			<key>logo</key>
 			<string>Eger</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://stream.radioeger.hu:18000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Pop</string>
+			<string>Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,7 +907,7 @@
 			<key>logo</key>
 			<string>TOP</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream.radioeger.hu:8160/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,11 +919,11 @@
 			<key>logo</key>
 			<string>Club</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://stream.radioeger.hu:8110/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Dance</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,11 +931,11 @@
 			<key>logo</key>
 			<string>Light</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://stream.radioeger.hu:8120/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Soft hits</string>
+			<string>Soft Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -199,11 +943,11 @@
 			<key>logo</key>
 			<string>Hazai</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://stream.radioeger.hu:8130/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Pop</string>
+			<string>Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -211,11 +955,11 @@
 			<key>logo</key>
 			<string>Oldies</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://stream.radioeger.hu:8140/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>60s/70s</string>
+			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -223,11 +967,287 @@
 			<key>logo</key>
 			<string>Retro</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://stream.radioeger.hu:8150/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>80s/90s</string>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Érd</string>
+			<key>logo</key>
+			<string>Erd</string>
+			<key>link</key>
+			<string>http://94.199.181.143:9340/live.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Face</string>
+			<key>logo</key>
+			<string>Face</string>
+			<key>link</key>
+			<string>http://www.savetofile.net:7000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio FM95</string>
+			<key>logo</key>
+			<string>FM95</string>
+			<key>link</key>
+			<string>http://stream.webthings.hu:8000/fm95-x-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Debrecen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Focus</string>
+			<key>logo</key>
+			<string>Focus</string>
+			<key>link</key>
+			<string>http://www.sztarnet.hu/Radio_focus/online_1.m3u</string>
+			<key>http</key>
+			<string>http://video72.onstreaming.de/Radio_focus/online_3.m3u</string>
+			<key>note</key>
+			<string>Salgótarján (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió M</string>
+			<key>logo</key>
+			<string>M</string>
+			<key>link</key>
+			<string>http://217.20.131.100:8000/radiom.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Miskolc, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió MAX</string>
+			<key>logo</key>
+			<string>MAX</string>
+			<key>link</key>
+			<string>http://www.maxfm.hu/streams/maxok.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Debrecen, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Mi</string>
+			<key>logo</key>
+			<string>Mi</string>
+			<key>link</key>
+			<string>http://stream.radiomi.hu/radiomi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Szeged (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Q</string>
+			<key>logo</key>
+			<string>Q</string>
+			<key>link</key>
+			<string>http://radioszerver.hu:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music/Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Sansz</string>
+			<key>logo</key>
+			<string>Sansz</string>
+			<key>link</key>
+			<string>http://www.sztarnet.hu/radio_sansz/online_3.m3u</string>
+			<key>http</key>
+			<string>http://webservices85.44.lexanetwork.com:9056/listen.pls</string>
+			<key>note</key>
+			<string>Székesfehérvár (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Smile 89,9MHz</string>
+			<key>logo</key>
+			<string>Smile</string>
+			<key>link</key>
+			<string>http://radiosmile.hu:8010/listen.pls</string>
+			<key>http</key>
+			<string>http://radiosmile.hu:8050/listen.pls</string>
+			<key>note</key>
+			<string>Top 30 (Kiskunfélegyháza, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rádió Top</string>
+			<key>logo</key>
+			<string>To</string>
+			<key>link</key>
+			<string>http://www.radiotop.hu:888/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Kazincbarcika, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Retro Radio</string>
+			<key>logo</key>
+			<string>Retr</string>
+			<key>link</key>
+			<string>http://www.retrofm.hu/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nyíregyháza (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rise FM Budapest</string>
+			<key>logo</key>
+			<string>Rise</string>
+			<key>link</key>
+			<string>http://live.risefm.hu:8080/radio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rise FM Balaton</string>
+			<key>logo</key>
+			<string>Balato</string>
+			<key>link</key>
+			<string>http://live.risefm.hu:8080/radio989.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sirius Rádió</string>
+			<key>logo</key>
+			<string>Sirius</string>
+			<key>link</key>
+			<string>http://www.siriusradio.hu/sirius.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Kiskunfélegyháza, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sunshine Rádió</string>
+			<key>logo</key>
+			<string>Sunshine</string>
+			<key>link</key>
+			<string>http://195.56.193.129:8100/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Nyíregyháza, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Szent István Rádió</string>
+			<key>logo</key>
+			<string>Szent</string>
+			<key>link</key>
+			<string>http://online.szentistvanradio.hu:7000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Eger (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Szentkorona Rádió</string>
+			<key>logo</key>
+			<string>Szentkorona</string>
+			<key>link</key>
+			<string>http://radio.szentkoronaradio.com:8048/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Szinva Radio</string>
+			<key>logo</key>
+			<string>Szinva</string>
+			<key>link</key>
+			<string>http://87.229.26.113:7260/in.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Miskolc (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tamási Rádió</string>
+			<key>logo</key>
+			<string>Tamasi</string>
+			<key>link</key>
+			<string>http://87.229.45.44:9100/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tilos Radio</string>
+			<key>logo</key>
+			<string>Tilos</string>
+			<key>link</key>
+			<string>http://stream.tilos.hu/tilos_128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.tilos.hu/tilos.m3u</string>
+			<key>note</key>
+			<string>Dance/Alternative/Freeform Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Torony Rádió</string>
+			<key>logo</key>
+			<string>Torony</string>
+			<key>link</key>
+			<string>http://37.221.209.105:8040/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Békés, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trió Rádió</string>
+			<key>logo</key>
+			<string>Trio</string>
+			<key>link</key>
+			<string>http://79.172.217.50:9090/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top 30 (Jászberény, Local)</string>
 		</dict>
 	</array>
 </dict>
