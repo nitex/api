@@ -181,6 +181,42 @@
 			<key>note</key>
 			<string>Top 40</string>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>Житомирська хвиля FM 103,4</string>
+			<key>logo</key>
+			<string>103,4</string>
+			<key>link</key>
+			<string>http://cast.streams.ovh:9069/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Запоріжжя FM</string>
+			<key>logo</key>
+			<string>Zaporizhzhia</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>http</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Best FM Донецк</string>
+			<key>logo</key>
+			<string>Best1</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
 	</array>
 </dict>
 </plist>
