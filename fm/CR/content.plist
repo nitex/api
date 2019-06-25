@@ -47,15 +47,39 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Kool 97 FM</string>
+			<string>911 La Radio</string>
 			<key>logo</key>
-			<string>Kool</string>
+			<string>911</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kool-97-fm,13732.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>http</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>95.5 Jazz</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,83 +87,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Linkz 96.5 FM</string>
+			<string>959 Nueve Siete Nueve</string>
 			<key>logo</key>
-			<string>Linkz</string>
+			<string>959</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/linkz-96-5-fm,17604.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music (Negril, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Love 101 FM</string>
-			<key>logo</key>
-			<string>101</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/love-101-fm,17605.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Megajamz 98 FM</string>
-			<key>logo</key>
-			<string>Megajamz</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/megajamz-98-fm,18193.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mello FM 88</string>
-			<key>logo</key>
-			<string>Mello</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mello-fm-88,17048.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Montego Bay (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Power 106 FM</string>
-			<key>logo</key>
-			<string>Power</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/power-106-fm,7582.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Reggae Sumfest</string>
-			<key>logo</key>
-			<string>Sumfest</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/reggae-sumfest,19569.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music (Montego Bay, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Stylz FM 96.1 FM</string>
-			<key>logo</key>
-			<string>Stylz</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/stylz-fm-96-1-fm,16696.m3u</string>
+			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,23 +99,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZIP 103 FM</string>
+			<string>Azul FM 99.9</string>
 			<key>logo</key>
-			<string>ZIP</string>
+			<string>Azul</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/zip-103-fm,11101.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Los 40</string>
+			<string>Columbia Estereo 92.7 FM</string>
+			<key>logo</key>
+			<string>Estereo</string>
+			<key>link</key>
+			<string>http://cast.streams.ovh:9069/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Conexión 97.9</string>
+			<key>logo</key>
+			<string>Conexion</string>
+			<key>link</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Guarco Radio</string>
+			<key>logo</key>
+			<string>Guarco</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cartago (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Súper Estación 89.1 FM</string>
+			<key>logo</key>
+			<string>Estacion</string>
+			<key>link</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Los 40 Principale Costa Rica</string>
 			<key>logo</key>
 			<string>Los</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/los-40-principale-costa-rica,7488.m3u</string>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,39 +171,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>i99Radio</string>
+			<string>Omega 105.1</string>
 			<key>logo</key>
-			<string>i99Radio</string>
+			<string>Omega</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://66.85.88.18:5469/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://66.85.88.18:5469/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Cult Radio A-Go-Go</string>
+			<string>Onda Brava Radio</string>
 			<key>logo</key>
-			<string>Cult</string>
+			<string>Onda</string>
 			<key>link</key>
-			<string>http://cdn.voscast.com/resources/?key=283ef72535f702ec1e01736689ee8390&amp;c=winamp</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://www.cultradioagogo.com/winamp.pls</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>XL Gurbani</string>
+			<string>Radio 104.7 Hit</string>
 			<key>logo</key>
-			<string>XL</string>
+			<string>104</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8554/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8554/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
