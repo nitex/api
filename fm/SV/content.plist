@@ -63,45 +63,105 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>La Estación FM</string>
+			<string>Radio Que Buena FM 88.9</string>
+			<key>logo</key>
+			<string>Que</string>
+			<key>link</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>http</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mi Radio 330 AM </string>
+			<key>logo</key>
+			<string>Mi</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>http</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Loca</string>
+			<key>logo</key>
+			<string>Loca</string>
+			<key>link</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Zona 503</string>
+			<key>logo</key>
+			<string>Zona</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<key>http</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Vicentina 503</string>
+			<key>logo</key>
+			<string>Vicentina</string>
+			<key>link</key>
+			<string>http://cast.streams.ovh:9069/live</string>
+			<key>http</key>
+			<string>http://cast.streams.ovh:9069/live</string>
+			<key>note</key>
+			<string>San Juan</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TOP FM 95,1</string>
+			<key>logo</key>
+			<string>95</string>
+			<key>link</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>http</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>note</key>
+			<string>90s Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Salvadoreñísima</string>
 			<key>logo</key>
 			<string>La</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
-			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
-			<key>note</key>
-			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Güemes</string>
-			<key>logo</key>
-			<string>Guemes</string>
-			<key>link</key>
 			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>http</key>
 			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
 			<key>note</key>
-			<string>Orán</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Streaming Internacional</string>
+			<string>Astral 94.9 FM</string>
 			<key>logo</key>
-			<string>Internacional</string>
+			<string>Astral</string>
 			<key>link</key>
 			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string></string>
 			<key>note</key>
-			<string>News (Freyre)</string>
+			<string>Rock Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LOS40 Argentina</string>
+			<string>Maranatha</string>
 			<key>logo</key>
-			<string>LOS40</string>
+			<string>Maranatha</string>
 			<key>link</key>
 			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
 			<key>http</key>
@@ -111,111 +171,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MQC</string>
+			<string>Femenina 102.5 FM</string>
 			<key>logo</key>
-			<string>MQC</string>
+			<string>Femenina</string>
 			<key>link</key>
 			<string>http://cast.streams.ovh:9069/live</string>
 			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
-			<key>note</key>
-			<string>Rock</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>01Argentina</string>
-			<key>logo</key>
-			<string>01Argentina</string>
-			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
-			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
-			<key>note</key>
-			<string>Río Cuarto Córdoba</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Soft FM 102.1</string>
-			<key>logo</key>
-			<string>Soft</string>
-			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
-			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
-			<key>note</key>
-			<string>Santiago del Estero</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mute Radio</string>
-			<key>logo</key>
-			<string>Mute</string>
-			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
-			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
-			<key>note</key>
-			<string>Pop</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM ACUARIO 98.1 (LRH 335)</string>
-			<key>logo</key>
-			<string>335</string>
-			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
-			<key>http</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
-			<key>note</key>
-			<string>Capiovi</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Wen 93.7</string>
-			<key>logo</key>
-			<string>Wen</string>
-			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
-			<key>http</key>
-			<string>http://cast.streams.ovh:9069/live</string>
-			<key>note</key>
-			<string>Quilmes</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cadena 10 Argentina</string>
-			<key>logo</key>
-			<string>10</string>
-			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
-			<key>http</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Poder de DIOS</string>
+			<string>La Chevere 100.9 FM</string>
 			<key>logo</key>
-			<string>Poder</string>
+			<string>Chevere</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
 			<key>http</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio BETEL 107.1</string>
+			<string>Radio Adventista 96.5</string>
 			<key>logo</key>
-			<string>BETEL</string>
+			<string>Adventista</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luz FM 97.7</string>
+			<key>logo</key>
+			<string>Luz</string>
 			<key>link</key>
 			<string>http://93.123.123.7:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string></string>
 			<key>note</key>
-			<string>Misiones</string>
+			<string></string>
 		</dict>
 	</array>
 </dict>
