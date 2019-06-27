@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string>3694130267637407</string>
+		<key>Main</key>
+		<string>1</string>
+		<key>Back</key>
+		<string>1</string>
+		<key>Banner</key>
+		<string>1</string>
+		<key>Show1</key>
+		<string>1</string>
+		<key>Show2</key>
+		<string>1</string>
+		<key>Show3</key>
+		<string>1</string>
+		<key>Show4</key>
+		<string>1</string>
+		<key>Alarm</key>
+		<string>1</string>
+		<key>CustomBanner</key>
+		<string>1</string>
+		<key>CustomSplash</key>
+		<string>1</string>
+		<key>Header</key>
+		<string>1</string>
+		<key>Footer</key>
+		<string>1</string>
+		<key>Email</key>
+		<string>1</string>
+		<key>Alternative</key>
+		<string>1</string>
+		<key>Application</key>
+		<string>1</string>
+		<key>Developer</key>
+		<string>1</string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>103FM</string>
+			<key>logo</key>
+			<string>103FM</string>
+			<key>link</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>91.1 Talk City</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>94.1 Boom Champions</string>
+			<key>logo</key>
+			<string>Boom</string>
+			<key>link</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>95.1 FM The Best Mix</string>
+			<key>logo</key>
+			<string>Best</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>96.1 WEFM</string>
+			<key>logo</key>
+			<string>WEFM</string>
+			<key>link</key>
+			<string>http://cast.streams.ovh:9069/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aakash Vani 106.5 FM</string>
+			<key>logo</key>
+			<string>Aakash</string>
+			<key>link</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bacchanal Radio</string>
+			<key>logo</key>
+			<string>Bacchanal</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Trincity (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Heritage Radio 101.7 FM</string>
+			<key>logo</key>
+			<string>Heritage</string>
+			<key>link</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>San Fernando (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>i95.5 FM</string>
+			<key>logo</key>
+			<string>i95</string>
+			<key>link</key>
+			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inspirational Radio 730AM</string>
+			<key>logo</key>
+			<string>Inspirational</string>
+			<key>link</key>
+			<string>http://cast.streams.ovh:9069/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isaac Radio 98.1 FM</string>
+			<key>logo</key>
+			<string>Isaac</string>
+			<key>link</key>
+			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Newtown (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power 102 FM</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Jaagriti 102.7 FM</string>
+			<key>logo</key>
+			<string>Jaagriti</string>
+			<key>link</key>
+			<string>http://93.123.123.7:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tunapuna (Local)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
