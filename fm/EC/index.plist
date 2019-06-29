@@ -63,11 +63,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio CRE Satelital 105.7 FM</string>
+			<string>Radio CRE Satelital</string>
 			<key>logo</key>
 			<string>CRE</string>
 			<key>link</key>
-			<string>https://ecuastreams.com/medios/radio/232-833-CRE/web/playlist.php?eiplist=listen.pls</string>
+			<string>http://www.surfmusic.de/m3u/cr-satelital-95-5-fm,10600.m3u</string>
 			<key>http</key>
 			<string>https://ecuastreams.com/medios/radio/232-833-CRE/web/playlist.php?eiplist=listen.m3u</string>
 			<key>note</key>
@@ -192,6 +192,114 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.19:3697/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RADIO LATINO ECUADOR</string>
+			<key>logo</key>
+			<string>LATINO</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:8490/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:8490/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cumbia</string>
+			<key>logo</key>
+			<string>Cumbia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Main Street Ecuatorianita</string>
+			<key>logo</key>
+			<string>Ecuatorianita</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.17.12:5821/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.17.12:5821/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tricolor FM</string>
+			<key>logo</key>
+			<string>Tricolor</string>
+			<key>link</key>
+			<string>http://184.107.210.202:1935/efrasyste/tricolormovil.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.203:7096/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cumbre 102.5 FM</string>
+			<key>logo</key>
+			<string>Cumbre</string>
+			<key>link</key>
+			<string>http://184.107.210.202:1935/efrasyste/cumbre.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.202:7048/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tu Vecina</string>
+			<key>logo</key>
+			<string>Tu</string>
+			<key>link</key>
+			<string>http://184.107.210.202:1935/efrasyste/cumbre.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.203:7056/listen.pls?sid=1&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Presencia Ecuatoriana</string>
+			<key>logo</key>
+			<string>Presencia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.76.247.162:9330/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.76.247.162:9330/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>40 Principales 97.7 FM</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/40-principales-97-7-fm,10602.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atalaya 680 AM</string>
+			<key>logo</key>
+			<string>Atalaya</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/atalaya-680-am,713.m3u</string>
+			<key>http</key>
+			<string>http://str.ecuastreaming.com:9978/;</string>
+			<key>note</key>
+			<string>Sport (Guayaquil, Local)</string>
 		</dict>
 	</array>
 </dict>
