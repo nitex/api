@@ -57,9 +57,9 @@
 			<key>link</key>
 			<string>http://www.megalink.com/radio/panamericana/panamericana.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.17.9:8070/listen.pls&amp;t=.m3u</string>
+			<string>http://www.surfmusic.de/m3u/panamericana-580-am,326.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>La Paz (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -69,7 +69,7 @@
 			<key>link</key>
 			<string>http://www.megalink.com/radio/chacaltaya/chacaltaya.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-chacaltaya-93-7-fm,18786.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -81,7 +81,7 @@
 			<key>link</key>
 			<string>http://www.megalink.com/radio/qhana/qhana.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rdio-qhana-98-5-fm,20132.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -165,9 +165,9 @@
 			<key>link</key>
 			<string>https://usa7.fastcast4u.com/tunein/grflores-stream.pls</string>
 			<key>http</key>
-			<string>http://149.56.175.167:5411/;</string>
+			<string>http://www.surfmusic.de/m3u/radio-fides-la-paz-100-3-fm,17595.m3u</string>
 			<key>note</key>
-			<string>Pop Music</string>
+			<string>Pop Music La Paz, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -420,6 +420,186 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.43.200.114:8834/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Audiokiss 90.7 FM</string>
+			<key>logo</key>
+			<string>Audiokiss</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/audiokiss-90-7-fm,10423.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Cruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Erbol 100.9 FM</string>
+			<key>logo</key>
+			<string>Erbol</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/erbol-100-9-fm,323.m3u</string>
+			<key>http</key>
+			<string>http://108.170.61.114:7223/live</string>
+			<key>note</key>
+			<string>La Paz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 104.3 Estudiantil UAP</string>
+			<key>logo</key>
+			<string>Estudiantil</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-104-3-estudiantil-uap-universidad-adventista-del-plata,18797.m3u</string>
+			<key>http</key>
+			<string>http://70.38.73.27:8129/live</string>
+			<key>note</key>
+			<string>Entre Ríos (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melodia 99.3 FM</string>
+			<key>logo</key>
+			<string>Melodia</string>
+			<key>link</key>
+			<string>http://icecasthd.net:27148/live.m3u</string>
+			<key>http</key>
+			<string>http://icecasthd.net:2199/tunein/fmmelodia.pls</string>
+			<key>note</key>
+			<string>Music (La Paz, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Patria Nueva 94.3 FM</string>
+			<key>logo</key>
+			<string>Patria</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/patria-nueva-94-3-fm,18799.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Paz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Activa 91.9 FM</string>
+			<key>logo</key>
+			<string>Activa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-activa-91-9-fm,327.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Santa Cruz, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Betania 93.7 FM</string>
+			<key>logo</key>
+			<string>Betania</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-betania-93-7-fm,18802.m3u</string>
+			<key>http</key>
+			<string>http://icecast.radiobetania.com:8000/betania.mp3</string>
+			<key>note</key>
+			<string>Santa Cruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio El Deber 103.3 FM</string>
+			<key>logo</key>
+			<string>Deber</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-el-deber-103-3-fm,18796.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Cruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Exito Bolivia 93.1 FM</string>
+			<key>logo</key>
+			<string>Exito</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-exito-bolivia-93-1-fm,18801.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Paz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio FM Bolivia 94.9 FM</string>
+			<key>logo</key>
+			<string>Boliv</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-fm-bolivia-94-9-fm,17594.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Paz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Kollasuyo 105.1 FM</string>
+			<key>logo</key>
+			<string>Kollasuyo</string>
+			<key>link</key>
+			<string>http://www.radiokollasuyo.net/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-kollasuyo-105-1-fm,18798.m3u</string>
+			<key>note</key>
+			<string>Potosí (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Transamericana</string>
+			<key>logo</key>
+			<string>Transamericana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-transamericana,10461.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies (Oruro, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Uno 96.7 FM</string>
+			<key>logo</key>
+			<string>Uno</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-uno-96-7-fm,20131.m3u</string>
+			<key>http</key>
+			<string>http://198.27.80.34:8020/;</string>
+			<key>note</key>
+			<string>Santa Cruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Yungas 92.1 FM</string>
+			<key>logo</key>
+			<string>Yungas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-yungas-92-1-fm,20133.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Cruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WKM 91.5 FM</string>
+			<key>logo</key>
+			<string>WKM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/wkm-91-5-fm,328.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Paz, Local)</string>
 		</dict>
 	</array>
 </dict>
