@@ -12,26 +12,26 @@
 		<key>http</key>
 		<string>https://canalantigua.tv/</string>
 	</dict>
-<dict>
-			<key>name</key>
-			<string>Vea</string>
-			<key>logo</key>
-			<string>Vea</string>
-			<key>link</key>
-			<string>http://veacanal.tv/tv-online/</string>
-			<key>http</key>
-			<string>http://veacanal.tv</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>TeleVos</string>
-			<key>logo</key>
-			<string>TeleVos</string>
-			<key>link</key>
-			<string>https://www.tvquetzachapin.tv/tv-online/</string>
-			<key>http</key>
-			<string>http://www.televos.tv/</string>
-		</dict>
+	<dict>
+		<key>name</key>
+		<string>Vea</string>
+		<key>logo</key>
+		<string>Vea</string>
+		<key>link</key>
+		<string>http://veacanal.tv/tv-online/</string>
+		<key>http</key>
+		<string>http://veacanal.tv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TeleVos</string>
+		<key>logo</key>
+		<string>TeleVos</string>
+		<key>link</key>
+		<string>https://www.tvquetzachapin.tv/tv-online/</string>
+		<key>http</key>
+		<string>http://www.televos.tv/</string>
+	</dict>
 	<dict>
 		<key>name</key>
 		<string>Chapin 3</string>
@@ -41,6 +41,16 @@
 		<string>http://www.chapintv.com/envivo-3</string>
 		<key>http</key>
 		<string>http://www.chapintv.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>RT en Español</string>
+		<key>logo</key>
+		<string>RT</string>
+		<key>link</key>
+		<string>https://actualidad.rt.com/en_vivo2</string>
+		<key>http</key>
+		<string>https://www.youtube.com/user/ActualidadRT/videos?view=2&amp;flow=grid&amp;live_view=501</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -161,6 +171,16 @@
 		<string>http://mcd.gob.gt/canal-oficial-gobierno-de-guatemala/</string>
 		<key>http</key>
 		<string>http://mcd.gob.gt</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>YOSITV</string>
+		<key>logo</key>
+		<string>YOSITV</string>
+		<key>link</key>
+		<string>https://emisorasunidas.com/yositvo/</string>
+		<key>http</key>
+		<string>https://emisorasunidas.com</string>
 	</dict>
 </array>
 </plist>
