@@ -67,9 +67,9 @@
 			<key>logo</key>
 			<string>Bylgjan</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://icecast.365net.is:8000/orbbylgjan.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/bylgjan-fm,1143.m3u</string>
 			<key>note</key>
 			<string>Top 5</string>
 		</dict>
@@ -79,9 +79,9 @@
 			<key>logo</key>
 			<string>FM957</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://icecast.365net.is:8000/orbFm957.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-95-7-dsl,1144.m3u</string>
 			<key>note</key>
 			<string>Top 5</string>
 		</dict>
@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>Extra</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://icecast.365net.is:8000/orbFmExtra.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,7 +103,7 @@
 			<key>logo</key>
 			<string>Gull</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -115,7 +115,7 @@
 			<key>logo</key>
 			<string>80s</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://icecast.365net.is:8000/orb80s.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -127,7 +127,7 @@
 			<key>logo</key>
 			<string>Kiss</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://www.surfmusic.de/m3u/kiss-fm-reykjavik,9511.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Lett</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -151,9 +151,9 @@
 			<key>logo</key>
 			<string>Lindin</string>
 			<key>link</key>
-			<string>http://93.123.123.7:8000/listen.pls</string>
+			<string>http://www.surfmusic.de/m3u/lindina-fm-102-9,1146.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://62.145.147.50:8001/stream.aac.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -163,7 +163,7 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://provisioning.streamtheworld.com/pls/SER_TOLEDO.pls</string>
+			<string>http://www.surfmusic.de/m3u/ras-1,1148.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -175,7 +175,7 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://cast.streams.ovh:9069/live</string>
+			<string>http://www.surfmusic.de/m3u/ras-2,1149.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -199,9 +199,9 @@
 			<key>logo</key>
 			<string>Saga</string>
 			<key>link</key>
-			<string>http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u</string>
+			<string>http://radio.is:443/saga.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/saga-fm,1150.m3u</string>
 			<key>note</key>
 			<string>News/Talk</string>
 		</dict>
@@ -211,7 +211,7 @@
 			<key>logo</key>
 			<string>X977</string>
 			<key>link</key>
-			<string>http://stream.it-solutions.ge:8000/mp3-starfm.m3u</string>
+			<string>http://icecast.365net.is:8000/orbXid.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
