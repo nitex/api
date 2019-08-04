@@ -527,7 +527,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Music (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -539,7 +539,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Music (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -551,7 +551,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -563,7 +563,31 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Bucaramanga (Local)</string>
+			<string>Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olimpica Stereo - Cartagena 90.5 FM</string>
+			<key>logo</key>
+			<string>Cartagena</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cartagena-90-5-fm-olimpica-stereo,16266.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olimpica Stereo - Cucuta 94.7 FM</string>
+			<key>logo</key>
+			<string>Cucuta</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cucuta-94-7-fm-olimpica-stereo,16267.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -723,11 +747,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ecos de Pasto</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ecos</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ecos-de-pasto,11307.m3u</string>
+			<key>http</key>
+			<string>http://stream1.emisorasvirtuales.com:8235/;</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ecos del Combeima 790 AM</string>
+			<key>logo</key>
+			<string>Combeima</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ecos-del-combeima-790-am,11402.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ibague (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Sol Cali 98.0 FM</string>
+			<key>logo</key>
+			<string>Sol</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/el-sol-cali-98-0-fm,18467.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Sol Medellin 107.9 FM</string>
+			<key>logo</key>
+			<string>El</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/el-sol-medellin-107-9-fm,18468.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Sol Tulua 96.1 FM</string>
+			<key>logo</key>
+			<string>Tulua</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/el-sol-tulua-96-1-fm,18469.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estereo 99.9 FM</string>
+			<key>logo</key>
+			<string>W</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/estereo-99-9-fm,736.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estrella Internacional</string>
+			<key>logo</key>
+			<string>Estrella</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/estrella-internacional,11415.m3u</string>
+			<key>http</key>
+			<string>http://147.135.5.58:7084/;</string>
+			<key>note</key>
+			<string>Music (Manizales, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Expresion Stereo</string>
+			<key>logo</key>
+			<string>Expresion</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/expresion-stereo,18442.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -735,131 +843,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Fantástica Medellin 96.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Fantastica</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fantastica-medellin-96-9-fm,18470.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>G12 Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>G12</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/g12-radio,20049.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
