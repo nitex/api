@@ -507,7 +507,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Olimpica Stereo - Armenia 96.1</string>
+			<string>Olimpica Stereo - Armenia 96.1 FM</string>
 			<key>logo</key>
 			<string>Olimpica</string>
 			<key>link</key>
@@ -519,7 +519,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Olimpica Stereo - Barranquilla 92.1</string>
+			<string>Olimpica Stereo - Barranquilla 92.1 FM</string>
 			<key>logo</key>
 			<string>Barranquilla</string>
 			<key>link</key>
@@ -531,7 +531,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Olimpica Stereo - Bogota 105.9</string>
+			<string>Olimpica Stereo - Bogota 105.9 FM</string>
 			<key>logo</key>
 			<string>Bogota</string>
 			<key>link</key>
@@ -543,7 +543,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Olimpica Stereo - Bucaramanga 97.7</string>
+			<string>Olimpica Stereo - Bucaramanga 97.7 FM</string>
 			<key>logo</key>
 			<string>Bucaramang</string>
 			<key>link</key>
@@ -659,7 +659,55 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olimpica Stereo - Santa Marta 97.1 FM</string>
+			<key>logo</key>
+			<string>Marta</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/santa-marta-97-1-fm-olimpica-stereo,16273.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olimpica Stereo - Sincelejo 101.5 FM</string>
+			<key>logo</key>
+			<string>Sincelejo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sincelejo-101-5-fm-olimpica-stereo,16274.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olimpica Stereo - Valledupar 93.7 FM</string>
+			<key>logo</key>
+			<string>Valledupar</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/valledupar-93-7-fm-olimpica-stereo,16275.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olimpica Stereo - Villavicencio 105.3 FM</string>
+			<key>logo</key>
+			<string>Villavicencio</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/villavicencio-105-3-fm-olimpica-stereo,16276.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1560,6 +1608,174 @@
 			<string></string>
 			<key>note</key>
 			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Uno Bogota</string>
+			<key>logo</key>
+			<string>Uno</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-uno-bogota,11390.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RCN La Radio</string>
+			<key>logo</key>
+			<string>RCN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rcn-la-radio,11392.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/rcn-radio,20016.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rumba 105.4 FM Bogota</string>
+			<key>logo</key>
+			<string>Rumba1</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rumba-105-4-fm,13829.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rumba 106.3 FM Medellin</string>
+			<key>logo</key>
+			<string>Rumba2</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rumba-medellin-106-3-fm,11391.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Señal Radio Colombia</string>
+			<key>logo</key>
+			<string>Senal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/senal-radio-colombia,17997.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Señal Radiónica 99.9 FM</string>
+			<key>logo</key>
+			<string>Radionica</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/senal-radionica-99-9-fm,11394.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sonora 1500 AM</string>
+			<key>logo</key>
+			<string>Sonora</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sonora-1500-am,14644.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Manizales (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Telemedellín Radio</string>
+			<key>logo</key>
+			<string>Telemedellin</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/telemedellin-radio,17946.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Todelar Básica 103.9 FM</string>
+			<key>logo</key>
+			<string>Todelar</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/todelar-basica-103-9-fm,743.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tolima FM Stereo 92.3</string>
+			<key>logo</key>
+			<string>Tolima</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/tolima-fm-stereo-92-3,17392.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tolima (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tropicana 102.9 FM</string>
+			<key>logo</key>
+			<string>Tropicana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/tropicana-102-9-fm,744.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
