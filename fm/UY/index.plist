@@ -363,23 +363,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Psyradio FM</string>
+			<string>PsyRadio Progressive</string>
 			<key>logo</key>
-			<string>Psyradio</string>
+			<string>Progressive</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streamer.psyradio.org:8010/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/psyradio-fm,18254.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>PsyRadio Chillout</string>
 			<key>logo</key>
-			<string></string>
+			<string>Chillout</string>
 			<key>link</key>
+			<string>http://streamer.psyradio.org:8020/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/psyradio-fm,18254.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PsyRadio Psytrance</string>
+			<key>logo</key>
+			<string>Psytrance</string>
+			<key>link</key>
+			<string>http://streamer.psyradio.org:8030/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/psyradio-fm,18254.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PsyRadio Alternative</string>
+			<key>logo</key>
+			<string>Alternative</string>
+			<key>link</key>
+			<string>http://streamer.psyradio.org:8040/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/psyradio-fm,18254.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Canelones 1570 AM</string>
+			<key>logo</key>
+			<string>Canelones</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-canelones-1570-am,20109.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Santa Lucía del Este (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Carve 850 AM</string>
+			<key>logo</key>
+			<string>Carve</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-carve-850-am,776.m3u</string>
+			<key>http</key>
+			<string>http://195.154.182.222:49037/;</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cuareim 1270 AM</string>
+			<key>logo</key>
+			<string>Cuareim</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-cuareim-1270-am,20054.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Artigas (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Futura 91.1 FM</string>
+			<key>logo</key>
+			<string>Futura</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-futura-91-1-fm,20094.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +459,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Libertadores 1020 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Libertadores</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-libertadores-1020-am,20053.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Salto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Oriental 770</string>
+			<key>logo</key>
+			<string>Oriental</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-oriental-770,20074.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +483,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Rural 610 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rural</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-rural-610-am,20024.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,93 +495,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Sport 890</string>
 			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
+			<string>890</string>
 			<key>link</key>
 			<string></string>
 			<key>http</key>
