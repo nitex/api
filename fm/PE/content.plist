@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>Bacan</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.9.238.4:8944/listen.pls&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-bacan-sat,18727.m3u</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.9.238.4:8944/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
@@ -83,15 +83,15 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://99.198.110.162:8038/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Arequipa, Local</string>
+			<string>Music (Arequipa, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>METROPOLITANA 1040</string>
+			<string>Metropolitana 1040</string>
 			<key>logo</key>
 			<string>METROPOLITANA</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://99.198.110.162:8130/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/metropolitana-radio,12935.m3u</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://99.198.110.162:8130/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
@@ -139,7 +139,7 @@
 			<key>logo</key>
 			<string>Libertad</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.244.80.118:3727/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-libertad-mundo,10393.m3u</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.244.80.118:3727/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
@@ -216,6 +216,438 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.203.184:8876/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Tarma, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Feliz - 1110 AM</string>
+			<key>logo</key>
+			<string>Feliz</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://31.177.57.51:8592/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://31.177.57.51:8592/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Milenia 1530 AM</string>
+			<key>logo</key>
+			<string>Milenia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7130/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7130/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PERU RADIO</string>
+			<key>logo</key>
+			<string>PER</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.7.58.248:35937/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.7.58.248:35937/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Antankallo (TVRADIOPERU)</string>
+			<key>logo</key>
+			<string>Antankallo</string>
+			<key>link</key>
+			<string>http://az-streamingserver.com:2199/tunein/radiomaria.pls</string>
+			<key>http</key>
+			<string>http://cast.az-streamingserver.com:9037/;stream.mp3</string>
+			<key>note</key>
+			<string>Matucana (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KHostPeru</string>
+			<key>logo</key>
+			<string>KHostPeru</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.154.235:8050/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.154.235:8050/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HUASCARAN 104.5</string>
+			<key>logo</key>
+			<string>HUASCARAN</string>
+			<key>link</key>
+			<string>http://69.30.218.190:27832/;</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://69.30.218.190:27832/listen.pls?sid=1&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PeruCumbia</string>
+			<key>logo</key>
+			<string>PeruCumbia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:8144/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:8144/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>107.1 Nueva Q FM</string>
+			<key>logo</key>
+			<string>Nueva</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/107-1-nueva-q-fm,17773.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cima FM 97.0</string>
+			<key>logo</key>
+			<string>Cima</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cima-fm-97-0,17768.m3u</string>
+			<key>http</key>
+			<string>http://94.23.84.122:7018/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Filarmonia 102.7FM</string>
+			<key>logo</key>
+			<string>Filarmonia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/filarmonia-102-7fm,10391.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frecuencia Primera FM</string>
+			<key>logo</key>
+			<string>Frecuencia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/frecuencia-primera-fm,759.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metropolitana Radio</string>
+			<key>logo</key>
+			<string>Metropolitana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/metropolitana-radio,12935.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Digital</string>
+			<key>logo</key>
+			<string>Onda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/onda-digital,12933.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oxigeno Rock</string>
+			<key>logo</key>
+			<string>Oxigeno</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/oxigeno-rock,19640.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Panamericana Radio</string>
+			<key>logo</key>
+			<string>Panamericana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/panamericana-radio,4413.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1550 La Radio Joven</string>
+			<key>logo</key>
+			<string>1550</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-1550-la-radio-joven,9666.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Huancayo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Amor Peru</string>
+			<key>logo</key>
+			<string>Amor</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-amor-peru,17774.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Capital 96.7 FM</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-capital-96-7-fm,17775.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Comas 101.7 FM</string>
+			<key>logo</key>
+			<string>Comas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-comas-101-7-fm,17769.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Corazón 94.3 FM</string>
+			<key>logo</key>
+			<string>Corazon</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-corazon-94-3-fm,17776.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Doble N 95.3FM</string>
+			<key>logo</key>
+			<string>N</string>
+			<key>link</key>
+			<string>http://www.radiodoblen.com/emision.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-doble-n-95-3fm,10431.m3u</string>
+			<key>note</key>
+			<string>Cajamarca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Doble Nueve 99.1 FM</string>
+			<key>logo</key>
+			<string>Nueve</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-doble-nueve-99-1-fm,10260.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Exito 1060</string>
+			<key>logo</key>
+			<string>Exito</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-exito-1060,12934.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Exitosa 92.5 FM</string>
+			<key>logo</key>
+			<string>Exitosa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-exitosa-92-5-fm,17766.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Fe Peru 1220</string>
+			<key>logo</key>
+			<string>Fe</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-fe-peru-1220,18728.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Felicidad 88.9 FM</string>
+			<key>logo</key>
+			<string>Felicidad</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-felicidad-88-9-fm,10425.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Fiesta 105.5 FM</string>
+			<key>logo</key>
+			<string>Fiesta</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-fiesta-105-5-fm,17772.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Impacto 90.1 FM</string>
+			<key>logo</key>
+			<string>Impacto</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-impacto-90-1-fm,17762.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Inca 540 AM</string>
+			<key>logo</key>
+			<string>Inca</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-inca-540-am,18720.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Karibena 94.9 FM</string>
+			<key>logo</key>
+			<string>Karibena</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-karibena-94-9-fm,17765.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio La Cronica</string>
+			<key>logo</key>
+			<string>La</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-la-cronica,18719.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio La Inolvidable 93.7 FM</string>
+			<key>logo</key>
+			<string>Inolvidable</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-la-inolvidable-93-7-fm,17764.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio La Kalle 96.1 FM</string>
+			<key>logo</key>
+			<string>Kalle</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-la-kalle-96-1-fm,17767.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio La Luz 1080AM</string>
+			<key>logo</key>
+			<string>Luz</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-la-luz-1080am,10395.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio La Zona 90.5 FM</string>
+			<key>logo</key>
+			<string>Zona</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-la-zona-90-5-fm,19037.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Magica 88.3 FM</string>
+			<key>logo</key>
+			<string>Magica</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-magica-88-3-fm,14968.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
