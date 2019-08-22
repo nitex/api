@@ -91,7 +91,7 @@
 			<key>logo</key>
 			<string>RBC</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:8730/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/rbc-satelital-104-7-fm,18729.m3u</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:8730/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
@@ -795,11 +795,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Tropical 99.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tropical</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tropical,10196.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Tarapoto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio TURBO MIX 92.5 FM</string>
+			<key>logo</key>
+			<string>TURBO</string>
+			<key>link</key>
+			<string>http://167.114.118.120:7624/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-turbomix-92-5-fm,17420.m3u</string>
+			<key>note</key>
+			<string>Music (Cajamarca, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio TURBO MIX 710 AM</string>
+			<key>logo</key>
+			<string>MIX</string>
+			<key>link</key>
+			<string>http://167.114.118.120:7626/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cajamarca, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio PIRATA 103.3 FM</string>
+			<key>logo</key>
+			<string>PIRATA</string>
+			<key>link</key>
+			<string>http://167.114.118.120:7628/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cajamarca, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Union 103.3 FM</string>
+			<key>logo</key>
+			<string>Union</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-union-103-3fm,10399.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Union 880AM</string>
+			<key>logo</key>
+			<string>880AM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-union-880am,10398.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -807,11 +867,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radiomar Plus 106.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Radiomar</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radiomar-plus-106-3-fm,17612.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -819,11 +879,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Red Radio 700 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Red</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/red-radio-700-am,18725.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -831,11 +891,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RPP Noticias 97.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>RPP</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rpp-noticias-97-1-fm,763.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sonica 88.1 FM</string>
+			<key>logo</key>
+			<string>Sonica</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sonica-88-1-fm,18730.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -843,11 +915,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Studio 92</string>
 			<key>logo</key>
-			<string></string>
+			<string>92</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/studio-92,10433.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -855,95 +927,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Viva FM 104.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Viva</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/viva-fm-104-7-fm,17771.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
