@@ -107,7 +107,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.134.147.168:9574/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Capiibary</string>
+			<string>Capiibary (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +143,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/94-7-fm-azul-y-oro,5852.m3u</string>
 			<key>note</key>
-			<string>Luque</string>
+			<string>Luque (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -179,7 +179,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Caazapa (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -204,6 +204,474 @@
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cardinal 730 AM</string>
+			<key>logo</key>
+			<string>Cardinal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cardinal-730-am,749.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chaco Boreal 1330 AM</string>
+			<key>logo</key>
+			<string>Chaco</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/chaco-boreal-1330-am,10065.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emisoras Paraguay 106.1 FM</string>
+			<key>logo</key>
+			<string>Emisoras</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/emisoras-paraguay-106-1-fm,10062.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Evolución 89.3</string>
+			<key>logo</key>
+			<string>Evolucion</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/evolucion-89-3,16962.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/evolucion-89-3-fm,10066.m3u</string>
+			<key>note</key>
+			<string>Eusebio Ayala (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fernando de la Mora 92.7 FM</string>
+			<key>logo</key>
+			<string>Fernando</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fernando-de-la-mora-92-7-fm,10063.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Itapúa 102.5 FM</string>
+			<key>logo</key>
+			<string>Itapua</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/itapua-102-5-fm,750.m3u</string>
+			<key>http</key>
+			<string>http://aire.itacom.com.py:8000/itapuafm</string>
+			<key>note</key>
+			<string>Tropical Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La 970 AM</string>
+			<key>logo</key>
+			<string>La</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-970-am,751.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Libertad 95.7 FM</string>
+			<key>logo</key>
+			<string>Libertad</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/libertad-95-7-fm,10058.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>San Estanislao (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Montecarlo 100.9 FM</string>
+			<key>logo</key>
+			<string>Montecarlo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/montecarlo-100-9-fm,10068.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Cámara 104.1 FM</string>
+			<key>logo</key>
+			<string>Camara</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-camara-104-1-fm,16955.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Centro 95.1 FM</string>
+			<key>logo</key>
+			<string>Centro</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-centro-95-1-fm,16961.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tropical Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Colmenar</string>
+			<key>logo</key>
+			<string>Colmenar</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-colmenar,9588.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Caaguazu (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
