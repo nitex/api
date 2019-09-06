@@ -51,7 +51,7 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Advent Stereo - Radio Adventista </string>
+			<string>Advent Stereo - Adventista </string>
 			<key>logo</key>
 			<string>Advent</string>
 			<key>link</key>
@@ -63,19 +63,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio La F</string>
+			<string>Alfa 93.5 FM</string>
 			<key>logo</key>
-			<string>F</string>
+			<string>Alfa</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10796/listen.pls&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-alfa-93-5-fm,20102.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10796/listen.pls&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Beat Doble L 94.1 FM</string>
+			<string>Beat Doble L 94.1 FM</string>
 			<key>logo</key>
 			<string>L</string>
 			<key>link</key>
@@ -87,55 +87,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio La Jefa</string>
+			<string>Corporacion 540 AM</string>
 			<key>logo</key>
-			<string>Jefa</string>
+			<string>Corporacion</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.23.6.53:8684/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-corporacion-540-am,20105.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.23.6.53:8684/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Nuevo Tiempo 98.9 FM</string>
-			<key>logo</key>
-			<string>Nuevo</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.155.140:20344/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.155.140:20344/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio León 106.5 FM</string>
-			<key>logo</key>
-			<string>Leon</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10890/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10890/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Universal</string>
-			<key>logo</key>
-			<string>Universal</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.164:9994/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.164:9994/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio CristoNica</string>
+			<string>CristoNica</string>
 			<key>logo</key>
 			<string>CristoNica</string>
 			<key>link</key>
@@ -147,11 +111,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hotmusic Radio</string>
+			<string>Hotmusic</string>
 			<key>logo</key>
 			<string>Hotmusic</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/hotmusic-radio,20123.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Joya FM 103.9</string>
+			<key>logo</key>
+			<string>Joya</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-joya-fm-103-9,20101.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La F</string>
+			<key>logo</key>
+			<string>F</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10796/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10796/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Jefa</string>
+			<key>logo</key>
+			<string>Jefa</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.23.6.53:8684/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.23.6.53:8684/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Marka 90.9 FM</string>
+			<key>logo</key>
+			<string>Marka</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-la-marka-90-9-fm,20098.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,6 +183,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>La Primerisima 91.7 FM</string>
+			<key>logo</key>
+			<string>Primerisima</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-la-primerisima-91-7-fm,20115.m3u</string>
+			<key>http</key>
+			<string>http://server.3hostingnica.com:9000/&amp;type=mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>León 106.5 FM</string>
+			<key>logo</key>
+			<string>Leon</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10890/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10890/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lite 107.1 FM</string>
+			<key>logo</key>
+			<string>Lite</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-lite-107-1-fm,20100.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Los 40 Nicaragua 93.1 FM</string>
 			<key>logo</key>
 			<string>40</string>
@@ -183,11 +231,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Alfa 93.5 FM</string>
+			<string>Monumental 96.5 FM</string>
 			<key>logo</key>
-			<string>Alfa</string>
+			<string>Monumental</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-alfa-93-5-fm,20102.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-monumental-96-5-fm,20103.m3u</string>
+			<key>http</key>
+			<string>http://107.6.142.243:9328/;stream.mp3</string>
+			<key>note</key>
+			<string>Jinotega (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nuevo Tiempo 98.9 FM</string>
+			<key>logo</key>
+			<string>Nuevo</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.155.140:20344/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.155.140:20344/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pirata 99.9 FM</string>
+			<key>logo</key>
+			<string>Pirata</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pirata-99-9-fm-dsl,49.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,11 +267,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Corporacion 540 AM</string>
+			<string>Radio Nicaragua 88.7 FM</string>
 			<key>logo</key>
-			<string>Corporacion</string>
+			<string>Nicaragu</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-corporacion-540-am,20105.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-nicaragua-88-7-fm,3670.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Universal</string>
+			<key>logo</key>
+			<string>Universal</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.164:9994/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.164:9994/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ya 600 AM</string>
+			<key>logo</key>
+			<string>Ya</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ya-600-am,20104.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
