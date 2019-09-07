@@ -63,30 +63,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>La Mega</string>
-			<key>logo</key>
-			<string>Mega</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.202.243:8093/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.202.243:8093/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Perla</string>
-			<key>logo</key>
-			<string>Perla</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10640/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10640/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>98.1 FM</string>
 			<key>logo</key>
 			<string>98</string>
@@ -111,13 +87,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio América 94.7 FM</string>
+			<string>GRT Radio 107.5 FM</string>
 			<key>logo</key>
-			<string>America</string>
+			<string>GRT</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-america-94-7-fm,7514.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://69.30.243.166:8038/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/america-610-am,45.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://69.30.243.166:8038/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mega</string>
+			<key>logo</key>
+			<string>Mega</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.202.243:8093/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.202.243:8093/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luna FM</string>
+			<key>logo</key>
+			<string>Luna</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/luna-fm,18171.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -135,13 +135,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Luna FM</string>
+			<string>Radio América 94.7 FM</string>
 			<key>logo</key>
-			<string>Luna</string>
+			<string>America</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/luna-fm,18171.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-america-94-7-fm,7514.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/america-610-am,45.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -154,6 +154,18 @@
 			<string>http://www.surfmusic.de/m3u/radio-hrn,7512.m3u</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Perla</string>
+			<key>logo</key>
+			<string>Perla</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10640/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.235.87.105:10640/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
