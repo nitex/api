@@ -209,13 +209,469 @@
 			<key>name</key>
 			<string>Digital 94 FM</string>
 			<key>logo</key>
-			<string>Digital</string>
+			<string>94</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/digital-94-fm,11339.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Macoris (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Digital 95.5 FM</string>
+			<key>logo</key>
+			<string>Digital</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/digital-95-5-fm,18207.m3u</string>
+			<key>http</key>
+			<string>http://stm2.grupointernet.com:8050/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disco 106.1 FM</string>
+			<key>logo</key>
+			<string>Disco</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/disco-106-1-fm,11359.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disco 89 - 88.9 FM</string>
+			<key>logo</key>
+			<string>89</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/disco-89-88-9-fm,18208.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Bacharengue</string>
+			<key>logo</key>
+			<string>Bacharengue</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/el-bacharengue,11351.m3u</string>
+			<key>http</key>
+			<string>http://195.154.33.87:9998/;</string>
+			<key>note</key>
+			<string>Santiago de los Caballeros (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Enamorada 99.9 FM</string>
+			<key>logo</key>
+			<string>Enamorada</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/enamorada-99-9-fm,17619.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Cruz de Barahona (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Escala 106 FM</string>
+			<key>logo</key>
+			<string>Escala</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/escala-106-fm,17617.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Cruz de Barahona (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Escandalo 102.5 FM</string>
+			<key>logo</key>
+			<string>Escandalo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/escandalo-102-5-fm,18132.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Escape 88.9</string>
+			<key>logo</key>
+			<string>Escape</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/escape-88-9,11360.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ESPN Radio 104.5 FM</string>
+			<key>logo</key>
+			<string>ESPN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/espn-radio-104-5-fm,18209.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estacion 97.7 FM</string>
+			<key>logo</key>
+			<string>Estacion</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/estacion-97-7-fm,18203.m3u</string>
+			<key>http</key>
+			<string>http://ca5.rcast.net:8072/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estrella FM 92.3</string>
+			<key>logo</key>
+			<string>Estrella</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/estrella-fm-92-3,11343.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bavaro (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fenomenal FM</string>
+			<key>logo</key>
+			<string>Fenomenal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fenomenal-fm,17254.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santiago (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fidelity 94.1 FM</string>
+			<key>logo</key>
+			<string>Fidelity</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fidelity-94-1-fm,11347.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flow 90.1 FM</string>
+			<key>logo</key>
+			<string>Flow</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/flow-90-1-fm,11368.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 107.5</string>
+			<key>logo</key>
+			<string>F</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-107-5,11342.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fuego 90 FM</string>
+			<key>logo</key>
+			<string>Fuego</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fuego-90-fm,11340.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/fuego-90-la-salsera-90-1-fm,18130.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Full 94.1</string>
+			<key>logo</key>
+			<string>Full</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/full-94-1,18210.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Guia 97.9 FM</string>
+			<key>logo</key>
+			<string>Guia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/guia-97-9-fm,13269.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barahona (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>I Love Bachata Radio</string>
+			<key>logo</key>
+			<string>I</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/i-love-bachata-radio,15995.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Puerto Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Independencia FM 93.3</string>
+			<key>logo</key>
+			<string>Independencia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/independencia-fm,17251.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santiago (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jumbo 92 FM</string>
+			<key>logo</key>
+			<string>Jumbo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/jumbo-92-fm,15017.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss 95 FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kiss-95-fm,11345.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bonao (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KV 94.7 FM</string>
+			<key>logo</key>
+			<string>KV</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kv-94-7-fm,18211.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La 91 FM</string>
+			<key>logo</key>
+			<string>91</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-91-fm,11788.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Bachatera</string>
+			<key>logo</key>
+			<string>Bachatera</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-bachatera,15994.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La H 102.3 FM</string>
+			<key>logo</key>
+			<string>H</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-h-102-3-fm,14264.m3u</string>
+			<key>http</key>
+			<string>http://radio7a.domint.net:8050/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Kalle 96.3 FM</string>
+			<key>logo</key>
+			<string>Kalle</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-kalle-96-3-fm,18212.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bani (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Llave FM 95.7</string>
+			<key>logo</key>
+			<string>Llave</string>
+			<key>link</key>
+			<string>http://radio7a.domint.net:8074/listen.pls</string>
+			<key>http</key>
+			<string>http://radio7a.domint.net:8074/listen.m3u</string>
+			<key>note</key>
+			<string>Tenares (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mega 102.5 FM</string>
+			<key>logo</key>
+			<string>La</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-mega-102-5-fm,18213.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La N 103.5 FM</string>
+			<key>logo</key>
+			<string>N</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-n-103-5-fm,3450.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santiago (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Nexia FM</string>
+			<key>logo</key>
+			<string>Nexia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-nexia-fm,18993.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Valverde (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latina 104</string>
+			<key>logo</key>
+			<string>104</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/latina-88-7-fm,17158.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latina 88.7 FM</string>
+			<key>logo</key>
+			<string>Latina</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/latina-88-7-fm,17158.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LatinaMix</string>
+			<key>logo</key>
+			<string>LatinaMix</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/latinamix,19730.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bavaro (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mambo 94.3 FM</string>
+			<key>logo</key>
+			<string>Mambo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mambo-94-3-fm,17153.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Higuey (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Manantial 89.5 FM</string>
+			<key>logo</key>
+			<string>Manantial</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/manantial-89-5-fm,13267.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Puerto Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maravillosa FM 89.7</string>
+			<key>logo</key>
+			<string>Maravillosa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/maravillosa-fm-89-7,11365.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barahona (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mega 105.1 FM</string>
+			<key>logo</key>
+			<string>Mega</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mega-105-1-fm,17615.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
