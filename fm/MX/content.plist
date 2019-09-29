@@ -83,7 +83,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Guadalajara</string>
+			<string>Guadalajara (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,7 +107,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8004/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Guadalajara</string>
+			<string>Guadalajara (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +119,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Durango</string>
+			<string>Durango (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +131,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8006/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Talk (Jalisco)</string>
+			<string>Talk (Jalisco, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +143,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Talk (Jalisco)</string>
+			<string>Talk (Jalisco, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +155,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8000/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Talk (Jalisco)</string>
+			<string>Talk (Jalisco, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +167,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.254.193.215:8007/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Tijuana</string>
+			<string>Tijuana (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,7 +187,7 @@
 			<key>logo</key>
 			<string>de</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8029/listen.pls?sid=1&amp;t=.pls</string>
+			<string>https://trappist.shoutca.st/tunein/radiodemexico.pls</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8029/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
@@ -203,7 +203,7 @@
 			<key>http</key>
 			<string>http://50.7.29.178:9386/;</string>
 			<key>note</key>
-			<string>Chihuahua</string>
+			<string>Chihuahua (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -215,7 +215,583 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8122/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Chihuahua</string>
+			<string>Chihuahua (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Casa de Oracion</string>
+			<key>logo</key>
+			<string>Casa</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8032/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8032/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La M</string>
+			<key>logo</key>
+			<string>M</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6011/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6011/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WE Salamanca 1560</string>
+			<key>logo</key>
+			<string>1560</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.187.112.50:8250/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>http://192.187.112.50:8250/;stream.mp3</string>
+			<key>note</key>
+			<string>Irapuato (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Grupera</string>
+			<key>logo</key>
+			<string>Grupera</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.158.214:11940/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.158.214:11940/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Neta 102.5 FM</string>
+			<key>logo</key>
+			<string>Neta</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.70.19:8040/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.70.19:8040/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Iniciador</string>
+			<key>logo</key>
+			<string>Iniciador</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.154.69:10062/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.154.69:10062/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Buena La Buena 105.1 FM</string>
+			<key>logo</key>
+			<string>Buena</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://75.147.133.197:8000/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://75.147.133.197:8000/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Raza 106.1 FM</string>
+			<key>logo</key>
+			<string>Raza</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.178.53.106:5100/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.178.53.106:5100/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pura Banda</string>
+			<key>logo</key>
+			<string>Pura</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.4.216.91:8080/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.4.216.91:8080/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ESNE (El Sembrador)</string>
+			<key>logo</key>
+			<string>ESNE</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Talk (Jalisco, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Del Panda Zambrano</string>
+			<key>logo</key>
+			<string>Panda</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.158.92:9376/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.158.92:9376/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Ley 1170 AM</string>
+			<key>logo</key>
+			<string>Ley</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.5:12178/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.5:12178/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Super Chivas - El Toque</string>
+			<key>logo</key>
+			<string>Toque</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://76.164.217.100:7632/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://76.164.217.100:7632/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Euro Music</string>
+			<key>logo</key>
+			<string>Euro</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.32.62.163:8415/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.32.62.163:8415/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Banda</string>
+			<key>logo</key>
+			<string>Banda</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8439/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8439/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mass Frontera 98.9 FM</string>
+			<key>logo</key>
+			<string>Mass</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9890/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9890/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Azteca</string>
+			<key>logo</key>
+			<string>Azteca</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8466/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8466/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio New Mexico Music</string>
+			<key>logo</key>
+			<string>New</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.105.124.120:8580/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.105.124.120:8580/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emisora De Salsa - SALSA INTERACTIVA</string>
+			<key>logo</key>
+			<string>INTERACTIVA</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.157.81:8399/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.157.81:8399/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Arrolladora</string>
+			<key>logo</key>
+			<string>Arrolladora</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.95.39.65:5419/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.95.39.65:5419/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stereo Salvaje</string>
+			<key>logo</key>
+			<string>Salvaje</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.254:4326/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.254:4326/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mega KC</string>
+			<key>logo</key>
+			<string>KC</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.2:9638/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.2:9638/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Norteño 104.1</string>
+			<key>logo</key>
+			<string>Norteno</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:9419/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:9419/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Poderosa 96.1</string>
+			<key>logo</key>
+			<string>Poderosa</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.66.225:9050/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.66.225:9050/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Picosa 91.9</string>
+			<key>logo</key>
+			<string>Picosa</string>
+			<key>link</key>
+			<string>http://192.187.112.50:8170/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Los 40 Irapuato 88.5</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://192.187.112.50:8174/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stereo 95.1</string>
+			<key>logo</key>
+			<string>Stereo</string>
+			<key>link</key>
+			<string>http://192.187.112.50:8091/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WE! 107.9</string>
+			<key>logo</key>
+			<string>WE</string>
+			<key>link</key>
+			<string>http://192.187.112.50:8305/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Salmantina 810 AM</string>
+			<key>logo</key>
+			<string>Salmantina</string>
+			<key>link</key>
+			<string>http://192.187.112.50:8398/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Éxitos 98.9</string>
+			<key>logo</key>
+			<string>Exitos</string>
+			<key>link</key>
+			<string>http://192.187.112.50:8359/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Peligrosa 99.1</string>
+			<key>logo</key>
+			<string>Peligrosa</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9988/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9988/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Max</string>
+			<key>logo</key>
+			<string>Max</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:5721/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:5721/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>New Mexico Tejano</string>
+			<key>logo</key>
+			<string>Tejano</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8921/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8921/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Capi</string>
+			<key>logo</key>
+			<string>Capi</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us3.internet-radio.com:8129/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us3.internet-radio.com:8129/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Fiera</string>
+			<key>logo</key>
+			<string>Fiera</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.8.192:3488/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.8.192:3488/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CSW</string>
+			<key>logo</key>
+			<string>CSW</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.227.220.171:8174/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.227.220.171:8174/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RUNRUN</string>
+			<key>logo</key>
+			<string>RUNRUN</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://185.193.112.155:18084/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://185.193.112.155:18084/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tu Palabra Es Verdad</string>
+			<key>logo</key>
+			<string>Palabra</string>
+			<key>link</key>
+			<string>http://192.240.102.5:7015/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.240.102.5:7015/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XHLUV - Calentana LuviMex 96.5 FM</string>
+			<key>logo</key>
+			<string>LuviMex</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.145:22190/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.145:22190/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KMPG 1520 AM - La Bonita</string>
+			<key>logo</key>
+			<string>KMPG</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7840/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7840/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Furia Mexicana</string>
+			<key>logo</key>
+			<string>Furia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.236.19.90:8226/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.236.19.90:8226/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antojitos Mexicanos</string>
+			<key>logo</key>
+			<string>Antojitos</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8198/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8198/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Mexicana</string>
+			<key>logo</key>
+			<string>Mexican</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6040/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6040/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IEDMexico</string>
+			<key>logo</key>
+			<string>IEDMexico</string>
+			<key>link</key>
+			<string>http://s27.myradiostream.com:7916/listen.pls</string>
+			<key>http</key>
+			<string>http://s27.myradiostream.com:7916/listen.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiovisión México</string>
+			<key>logo</key>
+			<string>Radiovision</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9870/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9870/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CRSO Tropilatino</string>
+			<key>logo</key>
+			<string>CRSO</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7146/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7146/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mera Musiquera</string>
+			<key>logo</key>
+			<string>Musiquera</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.8:9102/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.8:9102/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mexicanísima 98.9 FM</string>
+			<key>logo</key>
+			<string>Mexicanisima</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.39.89.17:6070/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.39.89.17:6070/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Merida (Local)</string>
 		</dict>
 	</array>
 </dict>
