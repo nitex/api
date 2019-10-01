@@ -123,6 +123,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Centro 1030</string>
+			<key>logo</key>
+			<string>1030</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/raddio-centro-103-0,190.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>D99 FM</string>
 			<key>logo</key>
 			<string>D99</string>
@@ -147,7 +159,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>EXA FM 104.9</string>
+			<string>EXA 91.1 FM</string>
+			<key>logo</key>
+			<string>EX</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ponte-exa-91-1-fm,17446.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ciudad Victoria (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EXA 104.9 FM</string>
 			<key>logo</key>
 			<string>EXA</string>
 			<key>link</key>
@@ -155,11 +179,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Ciudad Victoria (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>EXA FM 107.1 FM XHBJ</string>
+			<string>EXA 107.1 FM XHBJ</string>
 			<key>logo</key>
 			<string>XHBJ</string>
 			<key>link</key>
@@ -363,11 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Nueva 710</string>
 			<key>logo</key>
-			<string></string>
+			<string>710</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/la-nueva-710,188.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +399,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>XHXO 95.7 FM - LA SUPER BUENA</string>
 			<key>logo</key>
-			<string></string>
+			<string>XHXO</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-superbuena-95-7-fm,17443.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Ciudad Victoria (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La V de Victoria 104.1 XHRPV</string>
+			<key>logo</key>
+			<string>Victoria</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-v-de-victoria-104-1-fm,17442.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ciudad Victoria (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Z 107.3</string>
+			<key>logo</key>
+			<string>Z</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-z-107-3,189.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +435,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Latido 90.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Latido</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/latido-90-1-fm,16983.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Veracruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magia 100.7 FM</string>
+			<key>logo</key>
+			<string>Magia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/magia-100-7-fm,16390.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ciudad Juarez (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MASS W 1380 AM</string>
+			<key>logo</key>
+			<string>1380</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mass-w-1380-am,15905.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ciudad Victoria (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MVS Noticias 102.5</string>
+			<key>logo</key>
+			<string>MVS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/noticias-mvs-102-5,15907.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/mvs-radio,15867.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Opus 94 XHIMER 94.5 FM</string>
+			<key>logo</key>
+			<string>94</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/opus-94-xhimer-94-5-fm,19502.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,131 +495,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Panda Pop</string>
 			<key>logo</key>
-			<string></string>
+			<string>Panda</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/panda-pop-radio,18533.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.158.92:9376/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Vivero, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Panda Show</string>
 			<key>logo</key>
-			<string></string>
+			<string>Show</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/panda-show-radio,17421.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Vivero, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio 97.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>97</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-97-7-fm,191.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1359,18 +1359,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Del Panda Zambrano</string>
-			<key>logo</key>
-			<string>Panda</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.158.92:9376/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.158.92:9376/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>La Ley 1170 AM</string>
 			<key>logo</key>
 			<string>Ley</string>
@@ -1543,9 +1531,9 @@
 			<key>logo</key>
 			<string>40</string>
 			<key>link</key>
-			<string>http://192.187.112.50:8174/;stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/los-40-principales-xex-101-7-fm,18109.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://192.187.112.50:8174/;stream.mp3</string>
 			<key>note</key>
 			<string></string>
 		</dict>
