@@ -81,7 +81,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/ngel-guardian-106-1,18874.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/xerl-98-9-fm,12790.m3u</string>
 			<key>note</key>
 			<string>Colima (Local)</string>
 		</dict>
@@ -300,6 +300,18 @@
 			<string>http://192.99.44.11:9893/;</string>
 			<key>note</key>
 			<string>Misantla (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ke Buena 940 AM</string>
+			<key>logo</key>
+			<string>940</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xeq-radio,17151.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -603,18 +615,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Imagen 90.5 FM</string>
-			<key>logo</key>
-			<string>Imagen</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-imagen-90-5-fm,194.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Radio Lagarto 1560 AM</string>
 			<key>logo</key>
 			<string>Lagarto</string>
@@ -735,15 +735,207 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Romance 95.7 FM</string>
+			<key>logo</key>
+			<string>Romanc</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/romance-95-7-fm,16391.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chihuahua (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Romance 99.5 FM</string>
+			<key>logo</key>
+			<string>Roman</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/romance-99-5-fm,16392.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Guadalajara (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Salsa Mexico</string>
 			<key>logo</key>
 			<string>Salsa</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.107:8106/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/salsa-mexico,17080.m3u</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.107:8106/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universal Stereo 92.1 FM</string>
+			<key>logo</key>
+			<string>Universal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/universal-stereo-92-1-fm,10796.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>W Radio 106.1 FM</string>
+			<key>logo</key>
+			<string>W</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/w-radio-106-1-fm,6749.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/xew-wradio,9597.m3u</string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XEAVR Radio Fórmula Nacional</string>
+			<key>logo</key>
+			<string>XEAVR</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xeavr-radio-formula-nacional,9595.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Veracruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XEB 1220 AM La B Grande</string>
+			<key>logo</key>
+			<string>XEB</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xeb-1220-am-mexico-city,15898.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XEDA Imagen 90.5 FM</string>
+			<key>logo</key>
+			<string>Imagen</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-imagen-90-5-fm,194.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/xeda-imagen-90-5-fm,17739.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XEDF 104.1 FM Radio Formula</string>
+			<key>logo</key>
+			<string>XEDF</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xedf-104-1-fm-radio-formula-segunda-cadena-nacional,17740.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XEEM La Mexicana 880 AM</string>
+			<key>logo</key>
+			<string>XEEM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xeem-la-mexicana-880-am,18452.m3u</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6011/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Rio Verde (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XELL Latido 1430 AM</string>
+			<key>logo</key>
+			<string>XELL</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xell-latido-1430-am,9594.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Veracruz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XENK Radio 620 AM</string>
+			<key>logo</key>
+			<string>620</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xenk-radio-620-am,17738.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XEQK Tropicalísima 1350</string>
+			<key>logo</key>
+			<string>XEQK</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xeqk-tropicalisima-1350,19504.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XEUN Radio UNAM 96.1 FM</string>
+			<key>logo</key>
+			<string>XEUN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xeun-radio-unam-96-1-fm,17737.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XHUAQ Radio UAQ 89.5 FM</string>
+			<key>logo</key>
+			<string>UAQ</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xhuaq-radio-uaq-89-5-fm,17736.m3u</string>
+			<key>http</key>
+			<string>http://148.220.8.7:8080/stream</string>
+			<key>note</key>
+			<string>Queretaro (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XHUIA Ibero 90.9 FM</string>
+			<key>logo</key>
+			<string>Ibero</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xhuia-ibero-90-9-fm,17735.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XHYUC Yucatán FM 92.2</string>
+			<key>logo</key>
+			<string>XHYUC</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/xhyuc-yucatan-fm-92-2,19505.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yucatan (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -862,18 +1054,6 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8032/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8032/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La M</string>
-			<key>logo</key>
-			<string>M</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6011/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6011/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
