@@ -159,18 +159,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JAGA</string>
-			<key>logo</key>
-			<string>JAGA</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-jaga,12110.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>FM Karuizawa 77.5</string>
 			<key>logo</key>
 			<string>Karuizawa</string>
@@ -195,11 +183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM Nirai 76.2</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nirai</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-nirai-76-2,12107.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM Odawara 78.7</string>
 			<key>logo</key>
-			<string></string>
+			<string>Odawara</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-odawara-78-7,12121.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +207,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM Palulun 76.2 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Palulun</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-palulun-76-2-fm,12118.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +219,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM Wing 76.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Wing</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-wing-76-1,12111.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM-Mot.com</string>
+			<key>logo</key>
+			<string>Mot</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-mot-com,12116.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM N1 76.3</string>
 			<key>logo</key>
-			<string></string>
+			<string>N1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fmn1-76-3,12108.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,11 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>JAGA</string>
 			<key>logo</key>
-			<string></string>
+			<string>JAGA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-jaga,12110.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,11 +267,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>J-Wave 81.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Wave</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/j-wave-81-3-fm,13710.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JPOPSUKI Radio</string>
+			<key>logo</key>
+			<string>JPOPSUKI</string>
+			<key>link</key>
+			<string>http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/jpopsuki-radio,18415.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiku FM 77.9</string>
+			<key>logo</key>
+			<string>Kiku</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kiku-fm-77-9,12130.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Hirakata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mid FM 76.1</string>
+			<key>logo</key>
+			<string>Mid</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mid-fm-76-1,12125.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mumix - Kine Nato</string>
 			<key>logo</key>
-			<string></string>
+			<string>Mumix</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mumix-kine-nato,16713.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,51 +327,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ottava Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ottava</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/ottava-radio,12765.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
