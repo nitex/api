@@ -75,6 +75,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Armitages Dimension</string>
+			<key>logo</key>
+			<string>Armitages</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://62.75.253.56:8012/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://62.75.253.56:8012/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ban-Ban 86.9 FM</string>
 			<key>logo</key>
 			<string>Ban</string>
@@ -108,6 +120,54 @@
 			<string>http://150.95.174.29:8000/by_the_sea</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big B</string>
+			<key>logo</key>
+			<string>Big</string>
+			<key>link</key>
+			<string>https://www.bigbradio.net/stream/jpop64.pls</string>
+			<key>http</key>
+			<string>https://www.bigbradio.net/stream/jpop128.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Blue Heron</string>
+			<key>logo</key>
+			<string>Heron</string>
+			<key>link</key>
+			<string>http://www.streamlicensing.com/stations/blueheron/BlueHeronRadio.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CDJapan</string>
+			<key>logo</key>
+			<string>CDJapan</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7720/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7720/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chiru No</string>
+			<key>logo</key>
+			<string>Chiru</string>
+			<key>link</key>
+			<string>https://chiru.no:8080/stream.mp3</string>
+			<key>http</key>
+			<string>https://chiru.no/?chiru.no.m3u</string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -255,6 +315,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Friends Forever</string>
+			<key>logo</key>
+			<string>Friends</string>
+			<key>link</key>
+			<string>http://23.29.71.154:8066/listen.pls</string>
+			<key>http</key>
+			<string>http://23.29.71.154:8062/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>J1 GOLD</string>
+			<key>logo</key>
+			<string>GOLD</string>
+			<key>link</key>
+			<string>https://rec.torontocast.stream/J1gold.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://sky1.torontocast.com:9069/listen.pls?sid=1&amp;t=.pls</string>
+			<key>note</key>
+			<string>Oldies Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>J1 XTRA</string>
+			<key>logo</key>
+			<string>XTRA</string>
+			<key>link</key>
+			<string>https://rec.torontocast.stream/J1xtra.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>J1 HITS</string>
+			<key>logo</key>
+			<string>J1</string>
+			<key>link</key>
+			<string>https://rec.torontocast.stream/J1.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://sky1.torontocast.com:9041/listen.pls?sid=1&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>JAGA</string>
 			<key>logo</key>
 			<string>JAGA</string>
@@ -267,231 +375,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>J-Wave 81.3 FM</string>
+			<string>Japan-A-Radio</string>
 			<key>logo</key>
-			<string>Wave</string>
+			<string>Japan-A</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/j-wave-81-3-fm,13710.m3u</string>
+			<string>http://www.japanaradio.com/free/24kaacp.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.japanaradio.com/free/48kaacp.pls</string>
 			<key>note</key>
 			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JPOPSUKI Radio</string>
-			<key>logo</key>
-			<string>JPOPSUKI</string>
-			<key>link</key>
-			<string>http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/jpopsuki-radio,18415.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Kiku FM 77.9</string>
-			<key>logo</key>
-			<string>Kiku</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kiku-fm-77-9,12130.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music (Hirakata, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mid FM 76.1</string>
-			<key>logo</key>
-			<string>Mid</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mid-fm-76-1,12125.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mumix - Kine Nato</string>
-			<key>logo</key>
-			<string>Mumix</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mumix-kine-nato,16713.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ottava Radio</string>
-			<key>logo</key>
-			<string>Ottava</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ottava-radio,12765.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -502,6 +394,30 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.38.194:8796/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.38.194:8796/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JCLUB - Asia Dream</string>
+			<key>logo</key>
+			<string>JCLUB</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.131.253:8007/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.131.253:8007/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>J-Idols Project</string>
+			<key>logo</key>
+			<string>J-Idols</string>
+			<key>link</key>
+			<string>http://agnes.torontocast.com:8011/stream/;</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.75.223.178:8011/listen.pls?sid=1&amp;t=.pls</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -531,18 +447,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Big B</string>
-			<key>logo</key>
-			<string>Big</string>
-			<key>link</key>
-			<string>https://www.bigbradio.net/stream/jpop64.pls</string>
-			<key>http</key>
-			<string>https://www.bigbradio.net/stream/jpop128.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>J-Pop Project</string>
 			<key>logo</key>
 			<string>J-Pop</string>
@@ -555,109 +459,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>J-Idols Project</string>
+			<string>JPOPSUKI Radio</string>
 			<key>logo</key>
-			<string>J-Idols</string>
+			<string>JPOPSUKI</string>
 			<key>link</key>
-			<string>http://agnes.torontocast.com:8011/stream/;</string>
+			<string>http://jpopsuki.fm:2199/tunein/jpopsuki-stream.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.75.223.178:8011/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/jpopsuki-radio,18415.m3u</string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>J1 HITS</string>
+			<string>J-Wave 81.3 FM</string>
 			<key>logo</key>
-			<string>J1</string>
+			<string>Wave</string>
 			<key>link</key>
-			<string>https://rec.torontocast.stream/J1.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://sky1.torontocast.com:9041/listen.pls?sid=1&amp;t=.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>J1 XTRA</string>
-			<key>logo</key>
-			<string>XTRA</string>
-			<key>link</key>
-			<string>https://rec.torontocast.stream/J1xtra.pls</string>
+			<string>http://www.surfmusic.de/m3u/j-wave-81-3-fm,13710.m3u</string>
 			<key>http</key>
 			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>J1 GOLD</string>
-			<key>logo</key>
-			<string>GOLD</string>
-			<key>link</key>
-			<string>https://rec.torontocast.stream/J1gold.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://sky1.torontocast.com:9069/listen.pls?sid=1&amp;t=.pls</string>
-			<key>note</key>
-			<string>Oldies Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JCLUB - Asia Dream</string>
-			<key>logo</key>
-			<string>JCLUB</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.131.253:8007/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.44.131.253:8007/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Japan-A-Radio</string>
-			<key>logo</key>
-			<string>Japan-A</string>
-			<key>link</key>
-			<string>http://www.japanaradio.com/free/24kaacp.pls</string>
-			<key>http</key>
-			<string>http://www.japanaradio.com/free/48kaacp.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Friends Forever</string>
-			<key>logo</key>
-			<string>Friends</string>
-			<key>link</key>
-			<string>http://23.29.71.154:8066/listen.pls</string>
-			<key>http</key>
-			<string>http://23.29.71.154:8062/listen.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Blue Heron</string>
-			<key>logo</key>
-			<string>Heron</string>
-			<key>link</key>
-			<string>http://www.streamlicensing.com/stations/blueheron/BlueHeronRadio.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Moon Mission</string>
-			<key>logo</key>
-			<string>Moon</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -675,6 +495,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Kiku FM 77.9</string>
+			<key>logo</key>
+			<string>Kiku</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kiku-fm-77-9,12130.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Hirakata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mid FM 76.1</string>
+			<key>logo</key>
+			<string>Mid</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mid-fm-76-1,12125.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Moon Mission</string>
+			<key>logo</key>
+			<string>Moon</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://uk5.internet-radio.com:8306/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mumix - Kine Nato</string>
+			<key>logo</key>
+			<string>Mumix</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mumix-kine-nato,16713.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Otaku Music</string>
 			<key>logo</key>
 			<string>Otaku</string>
@@ -687,37 +555,109 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Armitages Dimension</string>
+			<string>Ottava Radio</string>
 			<key>logo</key>
-			<string>Armitages</string>
+			<string>Ottava</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://62.75.253.56:8012/listen.pls&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/ottava-radio,12765.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://62.75.253.56:8012/listen.pls&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Chiru No</string>
+			<string>Radio FMYY 77.8</string>
 			<key>logo</key>
-			<string>Chiru</string>
+			<string>FMYY</string>
 			<key>link</key>
-			<string>https://chiru.no:8080/stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/radio-fmyy-77-8,12127.m3u</string>
 			<key>http</key>
-			<string>https://chiru.no/?chiru.no.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CDJapan</string>
+			<string>Radio HNK Japan</string>
 			<key>logo</key>
-			<string>CDJapan</string>
+			<string>HNK</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7720/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-japan,5242.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7720/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Morioka 76.9 FM</string>
+			<key>logo</key>
+			<string>Morioka</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-morioka-76-9-fm,12114.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Tsukuba 84.2 (ラヂオつくば)</string>
+			<key>logo</key>
+			<string>Tsukuba</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tsukuba-84-2-fm,12123.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio3 76.2 FM</string>
+			<key>logo</key>
+			<string>Radio3</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio3-76-2-fm,12115.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sendai (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sankakuyama 76.2</string>
+			<key>logo</key>
+			<string>Sankakuyama</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sankakuyama-live,12109.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sapporo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sea Wave FM 76.2</string>
+			<key>logo</key>
+			<string>Sea</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sea-wave-fm-76-2,12117.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TBS Radio 954 AM</string>
+			<key>logo</key>
+			<string>TBS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/tbs-radio-954-am,13711.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
