@@ -59,7 +59,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.167.150.105:8462/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Pop</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -71,7 +71,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.61.250.140:8022/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Orán</string>
+			<string>Orán (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,7 +83,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.165.162:9028/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>News (Freyre)</string>
+			<string>News (Freyre, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,7 +107,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.229.102:8202/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Rock</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +119,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4344/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Río Cuarto Córdoba</string>
+			<string>Río Cuarto Córdoba (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +131,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.49.65.42:10700/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Santiago del Estero</string>
+			<string>Santiago del Estero (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +143,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.167.150.105:8100/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Pop</string>
+			<string>Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +155,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.59.37.173:6388/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Capiovi</string>
+			<string>Capiovi (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +167,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://69.175.88.11:8014/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Quilmes</string>
+			<string>Quilmes (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,7 +203,367 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.143.132.154:11560/listen.pls&amp;t=.pls</string>
 			<key>note</key>
-			<string>Misiones</string>
+			<string>Misiones (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aire De Santa Fe 91.1 FM</string>
+			<key>logo</key>
+			<string>Fe</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.165.162:9028/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.165.162:9028/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Argentine Tango</string>
+			<key>logo</key>
+			<string>Tango</string>
+			<key>link</key>
+			<string>http://streaming2.argentinetangoradio.com/2202_128.mp3</string>
+			<key>http</key>
+			<string>https://listen.argentinetangoradio.com/</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Bien</string>
+			<key>logo</key>
+			<string>Bien</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4036/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4036/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MEGA3 98.3 FM</string>
+			<key>logo</key>
+			<string>MEGA3</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4610/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4610/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RADIO DE FOLKLORE FM 98.9</string>
+			<key>logo</key>
+			<string>FOLKLORE</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.23.205.82:8476/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://94.23.205.82:8476/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Distorsion FM</string>
+			<key>logo</key>
+			<string>Distorsion</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.196.10.197:8100/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.196.10.197:8100/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Rock Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cristal FM 91.3</string>
+			<key>logo</key>
+			<string>Cristal</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:26493/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:26493/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 105.5</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.166.178:7198/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.166.178:7198/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>San Cristobal (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Filadelfia</string>
+			<key>logo</key>
+			<string>Filadelfia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.206.239:8042/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.206.239:8042/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Libre 92.7</string>
+			<key>logo</key>
+			<string>Libre</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.99.1:8220/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.99.1:8220/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Libertad - Devoto (Cba.)</string>
+			<key>logo</key>
+			<string>Devoto</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:26087/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:26087/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
