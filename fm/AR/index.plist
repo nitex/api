@@ -183,7 +183,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Cadena Cerealista 680 AM</string>
+			<string>LT3 Cerealista 680 AM</string>
 			<key>logo</key>
 			<string>Cerealista</string>
 			<key>link</key>
@@ -351,11 +351,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM Vida 97.9</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vida</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-vida-97-9,19292.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Rosario (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Welcome 105.9</string>
+			<key>logo</key>
+			<string>Welcome</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-welcome-105-9,9585.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +375,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM Fenix 93.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Fenix</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fmfenix-93-1-fm,279.m3u</string>
+			<key>http</key>
+			<string>http://173.243.114.218:8651/;stream.nsv</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GDS Radio</string>
+			<key>logo</key>
+			<string>GDS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/gds-radio,18987.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +399,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Guemes 106.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Guemes</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/guemes-106-3-fm,281.m3u</string>
+			<key>http</key>
+			<string>http://190.61.250.140:8022/;</string>
+			<key>note</key>
+			<string>San Raman de la Nueva Oran (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Imaginate FM 105.7</string>
+			<key>logo</key>
+			<string>Imaginate</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/imaginate-fm-105-7,5839.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LA 100 99.9 FM</string>
+			<key>logo</key>
+			<string>100</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-100-99-9-fm,19313.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +435,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Red 910 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Red</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/la-red-910-am,290.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +447,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Red Rosario 98.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rosario</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-red-rosario-98-3-fm,19294.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Litoral 103.1 FM</string>
+			<key>logo</key>
+			<string>Litoral</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/litoral-103-1-fm,293.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ri­o Negro (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mega</string>
+			<key>logo</key>
+			<string>MEGA3</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mega-98-3-fm,296.m3u</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4610/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metro 95.1 FM</string>
+			<key>logo</key>
+			<string>Metro</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/metro-95-1-fm,288.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,167 +495,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Metropolitana 100.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Metropolitana</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/metropolitana-100-5-fm,297.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,35 +519,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Güemes</string>
-			<key>logo</key>
-			<string>Guemes</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.61.250.140:8022/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.61.250.140:8022/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Orán (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Streaming Internacional</string>
-			<key>logo</key>
-			<string>Internacional</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.165.162:9028/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.165.162:9028/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string>News (Freyre, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>LOS40 Argentina</string>
 			<key>logo</key>
 			<string>LOS40</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.154.72:20156/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/los-40-principales-105-5-fm,17567.m3u</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.154.72:20156/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
@@ -766,18 +670,6 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4036/listen.pls&amp;t=.pls</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4036/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MEGA3 98.3 FM</string>
-			<key>logo</key>
-			<string>MEGA3</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4610/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://miradioenlaweb.com:4610/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
