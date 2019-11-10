@@ -659,15 +659,51 @@
 			<key>http</key>
 			<string>http://209.95.35.49:7012/stream</string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Romantica 99.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Romantica</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-romantica-99-7-fm,13247.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>San Luis (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Vos 95.5 FM</string>
+			<key>logo</key>
+			<string>Vos</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-vos-95-5-fm,20106.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brandsen (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiofonica 100.5 FM</string>
+			<key>logo</key>
+			<string>Radiofonica</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radiofonica-100-5-fm,305.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Fe (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red Vida 105.9 FM</string>
+			<key>logo</key>
+			<string>Vid</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/red-vida-105-9-fm,306.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -675,11 +711,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rio Cuarto 1010 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1010</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rio-cuarto-1010-am,307.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -687,11 +723,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rio Cuarto 93.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cuarto</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rio-cuarto-93-9-fm,16967.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -699,11 +735,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RNA Futbol</string>
 			<key>logo</key>
-			<string></string>
+			<string>RNA</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rna-futbol,17508.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock &amp; Pop 95.9 FM</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rock-pop-95-9-fm,309.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -711,11 +759,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sentir Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sentir</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/sentir-radio,18986.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -723,11 +771,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sudamericana 100.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sudamericana</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/sudamericana-100-3-fm,316.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -735,11 +783,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Transformacion 91.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Transformacion</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/transformacion-91-3-fm,318.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -747,359 +795,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Universidad 97.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Universidad</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/universidad-97-9-fm,319.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>San Luis (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Vale 97.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vale</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/vale-97-5,19315.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
