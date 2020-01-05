@@ -219,7 +219,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>94.3 FM</string>
+			<string>94.3 FM Manaus</string>
 			<key>logo</key>
 			<string>94.3</string>
 			<key>link</key>
@@ -227,7 +227,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Manaus (Local)</string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -675,7 +675,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>104 FM</string>
+			<string>104 FM Barbacena</string>
 			<key>logo</key>
 			<string>104</string>
 			<key>link</key>
@@ -683,11 +683,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Barbacena (Local)</string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>98 FM</string>
+			<string>98 FM Barbacena</string>
 			<key>logo</key>
 			<string>98</string>
 			<key>link</key>
@@ -695,7 +695,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Barbacena (Local)</string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -976,157 +976,193 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mundo Livre FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Livre</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mundo-livre-fm,17577.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Curitiba (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>104 FM Curitiba</string>
 			<key>logo</key>
-			<string></string>
+			<string>Curitiba</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-104-fm,438.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>97.7 FM Curitiba</string>
 			<key>logo</key>
-			<string></string>
+			<string>97</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-97-7-fm,445.m3u</string>
+			<key>http</key>
+			<string>http://209.133.199.180:9996/;</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>98 FM Curitiba</string>
+			<key>logo</key>
+			<string>98</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-98-fm-curitiba,446.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Aline 93.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Aline</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-aline-93-7-fm,447.m3u</string>
+			<key>http</key>
+			<string>http://65.182.104.113:10140/;</string>
+			<key>note</key>
+			<string>Curitiba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ampere 1460 AM</string>
+			<key>logo</key>
+			<string>Ampere</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ampere-1460-am,20135.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Antena Sul 102.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sul</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-antena-sul-102-7-fm,448.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Parana (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Arapuan 95.3 FM João Pessoa</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pessoa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-arapuan-95-3-fm,481.m3u</string>
+			<key>http</key>
+			<string>http://centova6.ciclanohost.com.br:9104/;stream.nsv</string>
+			<key>note</key>
+			<string>Paraíba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arapuan 107.3 FM Campina Grande</string>
+			<key>logo</key>
+			<string>Campina</string>
+			<key>link</key>
+			<string>http://centova6.ciclanohost.com.br:9518/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Paraíba (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Arapuan 93.9 FM Patos</string>
 			<key>logo</key>
-			<string></string>
+			<string>Patos</string>
 			<key>link</key>
-			<string></string>
+			<string>http://centova6.ciclanohost.com.br:9312/;stream.nsv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Paraíba (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Arapuan 98.5 FM Cajazeiras</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cajazeiras</string>
 			<key>link</key>
-			<string></string>
+			<string>http://centova6.ciclanohost.com.br:9346/;stream.nsv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Paraíba (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Banda B 550 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>B</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-banda-b-550-am,450.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Curitiba (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Brasil Hits</string>
 			<key>logo</key>
-			<string></string>
+			<string>Brasil</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-brasil-hits,15842.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Dois Vizinhos, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rádio Cabo Branco FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cabo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-cabo-branco-fm,19391.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>João Pessoa (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Capital 102.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Capita</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-capital-102-7-fm,456.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://198.50.197.90:9308/;</string>
 			<key>note</key>
-			<string></string>
+			<string>Curitiba (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CBN Curitiba 90.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CBN</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-cbn-curitiba-90-1-fm,451.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>blob:https://cbncuritiba.com/4bfb0b08-ac2e-40a7-ad7e-ea81d9d419d4</string>
 			<key>note</key>
 			<string></string>
 		</dict>
