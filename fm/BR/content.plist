@@ -1816,6 +1816,750 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Route 66 - Classic Rock Radio</string>
+			<key>logo</key>
+			<string>Route</string>
+			<key>link</key>
+			<string>http://listenn.radionomy.com/motherroadradio.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/route-66-classic-rock-radio,18981.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>95 FM Natal</string>
+			<key>logo</key>
+			<string>95</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-95-fm,495.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>96 FM Natal</string>
+			<key>logo</key>
+			<string>96</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-96-fm,496.m3u</string>
+			<key>http</key>
+			<string>http://centova10.ciclanohost.com.br:6258/stream</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>98 FM Natal</string>
+			<key>logo</key>
+			<string>Natal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-98-fm,497.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cidade 94.3 FM</string>
+			<key>logo</key>
+			<string>Cid</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-cidade-94-3-fm,498.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Globo Natal 640 AM</string>
+			<key>logo</key>
+			<string>64</string>
+			<key>link</key>
+			<string>http://streaming06.hstbr.net/player/radioglobonatal/itunes.pls</string>
+			<key>http</key>
+			<string>http://streaming06.hstbr.net/player/radioglobonatal/winamp.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Continental 98.3 FM</string>
+			<key>logo</key>
+			<string>Continental</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/continental-98-3-fm,19406.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Porto Alegre (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 107.1</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mix-107-1-porto-alegre,517.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>102 FM Porto Alegre</string>
+			<key>logo</key>
+			<string>Porto</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-102-fm,503.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>104 FM Porto Alegre</string>
+			<key>logo</key>
+			<string>Alegre</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-104-fm,16924.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ativa FM 94.9</string>
+			<key>logo</key>
+			<string>Ativa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ativa-fm,10545.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atual 103.5FM</string>
+			<key>logo</key>
+			<string>Atual</string>
+			<key>link</key>
+			<string>http://www.atualfm.com.br/aovivo/?pl=winamp&amp;c=Atual%20FM</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-atual-103-5fm,20169.m3u</string>
+			<key>note</key>
+			<string>Concórdia (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caxias 93,5 FM</string>
+			<key>logo</key>
+			<string>Caxias</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-caxias-93-5-fm,20004.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Caxias do Sul (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidade 1080 AM</string>
+			<key>logo</key>
+			<string>1080</string>
+			<key>link</key>
+			<string>http://radioaovivo.ufrgs.br:8000/stream.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-da-universidade-1080-am,523.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Difusora 1170 AM</string>
+			<key>logo</key>
+			<string>1170</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-difusora-1170-am,506.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eldorado FM 96.7</string>
+			<key>logo</key>
+			<string>Eldorado</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-eldorado-fm-96-7,16923.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Esmeralda 93.1 FM</string>
+			<key>logo</key>
+			<string>Esmeralda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-esmeralda-93-1-fm,507.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estação 89.5 FM</string>
+			<key>logo</key>
+			<string>Estao</string>
+			<key>link</key>
+			<string>https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-estacao-89-5-fm,508.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Cultura 107.7</string>
+			<key>logo</key>
+			<string>Cultur</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-fm-cultura-107-7,509.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fundação Cotrisel 1200 AM</string>
+			<key>logo</key>
+			<string>Cotrisel</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-fundacao-cotrisel-1200-am,510.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gaúcha 600 AM</string>
+			<key>logo</key>
+			<string>600</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-gaucha-600-am,512.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Grenal Futebol 95.9</string>
+			<key>logo</key>
+			<string>Grenal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-grenal-futebol,20155.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Guaíba 101.3</string>
+			<key>logo</key>
+			<string>Guaiba</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-guaiba-720-am,513.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Independente 950 AM</string>
+			<key>logo</key>
+			<string>950</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-independente-950-am,514.m3u</string>
+			<key>http</key>
+			<string>http://r18.ciclano.io:9630/stream</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jovem Pan FM 97.5</string>
+			<key>logo</key>
+			<string>Jove</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-jovem-pan-fm-97-5,16926.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pampa 970</string>
+			<key>logo</key>
+			<string>970</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pampa-970,516.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pelotense 620 AM</string>
+			<key>logo</key>
+			<string>Pelotense</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pelotense-620-am,20005.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pelotas (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Princesa</string>
+			<key>logo</key>
+			<string>Princesa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-princesa,16925.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Simpatia FM 91.7</string>
+			<key>logo</key>
+			<string>Simpatia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-simpatia-fm-91-7,20142.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tapejara 101.5 FM</string>
+			<key>logo</key>
+			<string>Tapejara</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tapejara-101-5-fm,20088.m3u</string>
+			<key>http</key>
+			<string>http://177.92.186.22:8000/stream.aac</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uirapuru 1170 AM</string>
+			<key>logo</key>
+			<string>117</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-uirapuru-1170-am,519.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uirapuru 90.1 FM</string>
+			<key>logo</key>
+			<string>Uirapuru</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-uirapuru-90-1-fm,20092.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Passo Fundo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Verdes Pampas 102.1 FM</string>
+			<key>logo</key>
+			<string>Verdes</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-verdes-pampas-102-1-fm,522.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maisnova 98.5 FM</string>
+			<key>logo</key>
+			<string>Maisnova</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rede-maisnova-98-5-fm,502.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Marau (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Itapiranga AM 990</string>
+			<key>logo</key>
+			<string>Itapiranga</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/itapiranga-am,18236.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Itapiranga (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capinzal 1540 AM</string>
+			<key>logo</key>
+			<string>Capinzal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-capinzal-1540-am,20156.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Catarinense</string>
+			<key>logo</key>
+			<string>Catarinense</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-catarinense,551.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cedro FM 101,9</string>
+			<key>logo</key>
+			<string>Cedro</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-cedro-fm,18522.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>São Miguel do Oeste (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cidade AM Florianópolis</string>
+			<key>logo</key>
+			<string>Florianopolis</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-cidade-am,18235.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eldorado 570 AM</string>
+			<key>logo</key>
+			<string>570</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-eldorado-570-am,554.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Figueira</string>
+			<key>logo</key>
+			<string>Figueira</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-figueira,20107.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Estreito (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hulha Negra 1450 AM</string>
+			<key>logo</key>
+			<string>Hulha</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-hulha-negra-1450-am,556.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Itapema 93.7 FM</string>
+			<key>logo</key>
+			<string>Itapema</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-itapema-93-7-fm,557.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Joinville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jaraguá 1010 AM</string>
+			<key>logo</key>
+			<string>1010</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-jaragua-1010-am,558.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oeste FM</string>
+			<key>logo</key>
+			<string>Oeste</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-oeste-fm,18523.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>São Miguel do Oeste (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Peperi AM 1370</string>
+			<key>logo</key>
+			<string>1370</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-peperi-am-1370,559.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>São Miguel do Oeste (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sintonia 1310 AM</string>
+			<key>logo</key>
+			<string>1310</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sintonia-1310-am,560.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Studio FM 99.1</string>
+			<key>logo</key>
+			<string>Studio</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-studio-fm-99-1,561.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Catarina (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Transamerica POP 99,7</string>
+			<key>logo</key>
+			<string>Transamer</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-transamerica-pop-99-7,548.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Balneario (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tuba 730 AM</string>
+			<key>logo</key>
+			<string>Tuba</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tuba-730-am,20134.m3u</string>
+			<key>http</key>
+			<string>http://caikron.com.br:8012/stream.aac</string>
+			<key>note</key>
+			<string>Tubarão (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uniao 96.5 FM</string>
+			<key>logo</key>
+			<string>Uniao</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-uniao-96-5-fm,3723.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Santa Catarina (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top 104 FM</string>
+			<key>logo</key>
+			<string>104FM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/top-104-fm,11291.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Florianópolis (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aparecida 94.7 FM</string>
+			<key>logo</key>
+			<string>Aparecida</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-aparecida-94-7-fm,562.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Lagarto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atalaia 770 AM</string>
+			<key>logo</key>
+			<string>Atalaia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-atalaia-770-am,563.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sergipe (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Itabaiana 93.1 FM</string>
+			<key>logo</key>
+			<string>Itabaiana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-itabaiana-93-1-fm,565.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sergipe (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Liberdade 99.7 FM</string>
+			<key>logo</key>
+			<string>Liberdad</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-liberdade-99-7-fm,566.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sergipe (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>95 FM Dracena</string>
+			<key>logo</key>
+			<string>Dracena</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/95-fm-dracena,11793.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>A Radio Rock 89 FM</string>
+			<key>logo</key>
+			<string>89</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/a-radio-rock-89-fm,16772.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antena 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/antena-1,579.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antena 1 SP 94.7 FM</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/antena-1-sp-94-7-fm,17474.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coca-Cola FM Brasil</string>
+			<key>logo</key>
+			<string>Cola</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/coca-cola-fm-brasil,18414.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Conquista FM 97.7</string>
+			<key>logo</key>
+			<string>Conquista</string>
+			<key>link</key>
+			<string>http://www.webnow.com.br/streaming/autoplaylist/v1/conquista.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/conquista-fm-97-7,18852.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>MANAWA</string>
 			<key>logo</key>
 			<string>MANAWA</string>
