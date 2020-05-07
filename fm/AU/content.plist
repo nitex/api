@@ -63,13 +63,25 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Energy FM</string>
+			<string>1</string>
 			<key>logo</key>
-			<string>Energy</string>
+			<string>1</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8502/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-1,14111.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8502/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
+			<key>note</key>
+			<string>Tahiti (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>101.7 WS-FM</string>
+			<key>logo</key>
+			<string>WS-FM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/101-7-ws-fm,6801.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -82,114 +94,6 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8930/listen.pls&amp;t=.pls</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8930/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio 2Moro - Sawt El Ghad</string>
-			<key>logo</key>
-			<string>2Moro</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:7648/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:7648/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Portuguese Radio</string>
-			<key>logo</key>
-			<string>Portuguese</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:8012/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:8012/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM107.5 Orange</string>
-			<key>logo</key>
-			<string>Orange</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:12134/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:12134/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CRC Radio</string>
-			<key>logo</key>
-			<string>CRC</string>
-			<key>link</key>
-			<string>http://www.xrn.com.au/serverlinks07.m3u</string>
-			<key>http</key>
-			<string>http://www.xrn.com.au/serverlinks08.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Station X</string>
-			<key>logo</key>
-			<string>Station</string>
-			<key>link</key>
-			<string>http://www.xrn.com.au/serverlinks11.m3u</string>
-			<key>http</key>
-			<string>http://www.xrn.com.au/serverlinks12.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rock Australia Radio</string>
-			<key>logo</key>
-			<string>Rock</string>
-			<key>link</key>
-			<string>http://cent2.serverhostingcenter.com:2199/tunein/rockaust-stream.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.99.155:12167/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Australian Radio Indie</string>
-			<key>logo</key>
-			<string>Australian</string>
-			<key>link</key>
-			<string>http://www.australianradio.audio/australianradioindie.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:9542/listen.pls?sid=1&amp;t=.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>AustraliaLatestNews.com</string>
-			<key>logo</key>
-			<string>AustraliaLatestNews</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.33.251.97:8329/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.33.251.97:8329/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>101.7 WS-FM</string>
-			<key>logo</key>
-			<string>WS-FM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/101-7-ws-fm,6801.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -228,6 +132,18 @@
 			<string>http://www.surfmusic.de/m3u/106-3-the-lounge,15186.m3u</string>
 			<key>note</key>
 			<string>Port Douglas (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>107.5 Orange</string>
+			<key>logo</key>
+			<string>Orange</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:12134/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:12134/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -312,6 +228,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>2Moro - Sawt El Ghad</string>
+			<key>logo</key>
+			<string>2Moro</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:7648/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:7648/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -915,6 +843,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>AustraliaLatestNews.com</string>
+			<key>logo</key>
+			<string>AustraliaLatestNews</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.33.251.97:8329/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.33.251.97:8329/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Australian Radio Indie</string>
+			<key>logo</key>
+			<string>Australian</string>
+			<key>link</key>
+			<string>http://www.australianradio.audio/australianradioindie.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:9542/listen.pls?sid=1&amp;t=.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Base FM 107.7</string>
 			<key>logo</key>
 			<string>Base</string>
@@ -923,7 +875,7 @@
 			<key>http</key>
 			<string>http://stream.basefm.co.nz:8000/BaseHi</string>
 			<key>note</key>
-			<string>Music (Auckland, Local)</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -971,19 +923,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Auckland (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Concert FM RNZ</string>
+			<string>CRC</string>
 			<key>logo</key>
-			<string>Concert</string>
+			<string>CRC</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/concert-fm,7490.m3u</string>
+			<string>http://www.xrn.com.au/serverlinks07.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.xrn.com.au/serverlinks08.m3u</string>
 			<key>note</key>
-			<string>Music (Wellington, Local)</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -994,6 +946,54 @@
 			<string>http://www.surfmusic.de/m3u/dig-radio,10670.m3u</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/dig-country-dsl,10672.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dunedin</string>
+			<key>logo</key>
+			<string>Dunedin</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-dunedin,16784.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eketahuna 106.5 FM</string>
+			<key>logo</key>
+			<string>Eketahuna</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-eketahuna-106-5-fm,19678.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tararua District (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ena</string>
+			<key>logo</key>
+			<string>Ena</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ena,9607.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Adelaide (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy FM</string>
+			<key>logo</key>
+			<string>Energy</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8502/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8502/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1019,7 +1019,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music (Auckland, Local)</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1032,6 +1032,810 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fox 101.9 FM</string>
+			<key>logo</key>
+			<string>Fox</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fox-101-9-fm,7769.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fremantle</string>
+			<key>logo</key>
+			<string>Fremantle</string>
+			<key>link</key>
+			<string>http://203.59.4.85:8000/live</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-fremantle,9575.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>George 96.8 FM</string>
+			<key>logo</key>
+			<string>George</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/george-96-8-fm,7776.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Golden Days Radio 95.7 FM</string>
+			<key>logo</key>
+			<string>Golden</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/golden-days-radio-95-7-fm,14278.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hauraki 99.0 FM</string>
+			<key>logo</key>
+			<string>Hauraki</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-hauraki-99-0-fm,18968.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Heads 106.4 FM</string>
+			<key>logo</key>
+			<string>Heads</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/heads-106-4-fm,18969.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit105 105.3 FM 4BBB</string>
+			<key>logo</key>
+			<string>Hit105</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hit105-105-3-fm-4bbb,18588.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Brisbane, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitz 93.9 FM</string>
+			<key>logo</key>
+			<string>Hitz</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hitz-93-9-fm,18566.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Bundaberg, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hope 103.2</string>
+			<key>logo</key>
+			<string>Hope</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hope-103-2,10532.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hot 100 FM</string>
+			<key>logo</key>
+			<string>100</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hot-100-fm,18564.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Darwin, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hot 91</string>
+			<key>logo</key>
+			<string>91</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hot-91,9313.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sunshine Coast (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hot FM 103.5</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hot-fm-103-5,18592.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Cairns, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>i98</string>
+			<key>logo</key>
+			<string>i98</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/i98,9311.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wollongong (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JOY 94.9</string>
+			<key>logo</key>
+			<string>JOY</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/joy-94-9,10543.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>K-Rock 95.5 FM</string>
+			<key>logo</key>
+			<string>K-Rock</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/k-rock-95-5-fm,18565.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Geelong, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latinos FM Australia</string>
+			<key>logo</key>
+			<string>Latinos</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/latinos-fm-australia,20352.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magic 1278</string>
+			<key>logo</key>
+			<string>1278</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/magic-1278,9310.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Magic FM 87.8</string>
+			<key>logo</key>
+			<string>Magic</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/magic-fm-87-8,18568.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Perth (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mai FM 88.6</string>
+			<key>logo</key>
+			<string>Mai</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mai-fm-88-6,17086.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria No Te Hau</string>
+			<key>logo</key>
+			<string>Hau</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-maria-no-te-hau,898.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 101.1 KIIS</string>
+			<key>logo</key>
+			<string>KIIS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mix-101-1-tt-fm,7768.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 104.9 FM</string>
+			<key>logo</key>
+			<string>104</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mix-104-9-fm,18572.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Darwin (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 106.5</string>
+			<key>logo</key>
+			<string>106</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mix-106-05,6795.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Portuguese Radio</string>
+			<key>logo</key>
+			<string>Portuguese</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:8012/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:8012/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Newstalk ZB 89.4 FM</string>
+			<key>logo</key>
+			<string>ZB</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/newstalk-zb-89-4-fm,18990.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Niu FM 103.8</string>
+			<key>logo</key>
+			<string>Niu</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/niu-fm-103-8,17087.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nova 100.3 FM Radio</string>
+			<key>logo</key>
+			<string>Nova</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nova-100-3-fm-radio,2550.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nova 96.9 FM</string>
+			<key>logo</key>
+			<string>Nov</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nova-93-7-fm,4057.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/nova-96-9-fm,2549.m3u</string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ONE FM 98.5</string>
+			<key>logo</key>
+			<string>ONE</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/one-fm-98-5,9610.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Shepparton (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power 94.9 FM</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/power-94-9-fm,18569.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Nowra, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PuradsiFM Tamil No.1</string>
+			<key>logo</key>
+			<string>PuradsiFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/puradsifm-tamil-no-1,19574.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red FM</string>
+			<key>logo</key>
+			<string>Red</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/red-fm-australia,20380.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>River 94.9 FM</string>
+			<key>logo</key>
+			<string>River</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/river-94-9-fm,2551.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Brisbane (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNZ Concert FM</string>
+			<key>logo</key>
+			<string>Concert</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/concert-fm,7490.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Wellington, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNZ International </string>
+			<key>logo</key>
+			<string>RNZ</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/neuseeland-int,896.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNZ National</string>
+			<key>logo</key>
+			<string>RN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/national-radio,7491.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock Australia Radio</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://cent2.serverhostingcenter.com:2199/tunein/rockaust-stream.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.99.155:12167/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RSN 927 AM Radio</string>
+			<key>logo</key>
+			<string>927</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sport-927-am-radio,2552.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SBS Chill</string>
+			<key>logo</key>
+			<string>Chill</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sbs-chill,19539.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SBS Pop Asia</string>
+			<key>logo</key>
+			<string>Asia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sbs-pop-asia,19538.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SBS Radio 3</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sbs-radio-3,17512.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SBS Radio 4</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sbs-radio-4,17511.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sea 91.9 FM</string>
+			<key>logo</key>
+			<string>S</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sea-91-9-fm,18570.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Sunshine Coast, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sen 1116 AM Sports Radio</string>
+			<key>logo</key>
+			<string>Sen</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sen-1116-am-sports-radio,3720.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SEN Sportsentral</string>
+			<key>logo</key>
+			<string>Sportsentral</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sen-sportsentral,15187.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sleep</string>
+			<key>logo</key>
+			<string>Sleep</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sleep-radio,19414.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Te Aroha, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sport - 1332 AM</string>
+			<key>logo</key>
+			<string>1332</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sport-1332-am,18966.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star 106.3 FM</string>
+			<key>logo</key>
+			<string>Star</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-106-3-fm,18575.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Townsville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star 96.9 FM</string>
+			<key>logo</key>
+			<string>Sta</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-fm-96-9,18591.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Shepparton, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Station X</string>
+			<key>logo</key>
+			<string>Station</string>
+			<key>link</key>
+			<string>http://www.xrn.com.au/serverlinks11.m3u</string>
+			<key>http</key>
+			<string>http://www.xrn.com.au/serverlinks12.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stereo974</string>
+			<key>logo</key>
+			<string>Stereo974</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/stereo974,9307.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swingtime</string>
+			<key>logo</key>
+			<string>Swingtime</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/swingtime-radio,20432.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Switch 1197</string>
+			<key>logo</key>
+			<string>1197</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/switch-1197,9609.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Brisbane, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SYN 90.7FM</string>
+			<key>logo</key>
+			<string>SYN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/syn-90-7fm,9306.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Thayagam Tamil Radio</string>
+			<key>logo</key>
+			<string>Thayagam</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/thayagam-tamil-radio,19956.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Breeze FM</string>
+			<key>logo</key>
+			<string>Breeze</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/the-breeze-fm,897.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Edge 94.2</string>
+			<key>logo</key>
+			<string>Edg</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/the-edge-94-2,12103.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Pulse Radio</string>
+			<key>logo</key>
+			<string>Pulse</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/the-pulse-radio,18970.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tiare FM</string>
+			<key>logo</key>
+			<string>Tiare</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/tiare-fm,899.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tahiti (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TRFM 99.5</string>
+			<key>logo</key>
+			<string>TRFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/trfm-99-5,19410.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Traralgon, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Triple M Sydney 104.9</string>
+			<key>logo</key>
+			<string>Triple</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/triple-m-104-9,4451.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Triple M Brisbane 104.5</string>
+			<key>logo</key>
+			<string>M</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/triple-m-brisbane,13811.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Triple M Melbourne 105.1</string>
+			<key>logo</key>
+			<string>Tripl</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/triple-m-melbourne,13812.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UNE 106.9 FM</string>
+			<key>logo</key>
+			<string>UNE</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/tune-106-9-fm-radio-dsl,2555.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Armidale (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Voice of Islam 87.6 FM</string>
+			<key>logo</key>
+			<string>Islam</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/voice-of-islam-87-6-fm,20087.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wave 96.5 FM</string>
+			<key>logo</key>
+			<string>Wave</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/wave-96-5-fm,18573.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wollongong (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zinc 96.1 FM</string>
+			<key>logo</key>
+			<string>Zinc</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/zinc-96-1-fm,9312.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Sunshine Coast, Local)</string>
 		</dict>
 	</array>
 </dict>
