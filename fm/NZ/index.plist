@@ -111,7 +111,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Chinese Voice Radio</string>
+			<string>Breeze FM</string>
+			<key>logo</key>
+			<string>Breeze</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/the-breeze-fm,897.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chinese Voice</string>
 			<key>logo</key>
 			<string>Chinese</string>
 			<key>link</key>
@@ -140,6 +152,18 @@
 			<string>Dunedin</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-dunedin,16784.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Edge 94.2</string>
+			<key>logo</key>
+			<string>Edg</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/the-edge-94-2,12103.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,6 +303,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Pulse</string>
+			<key>logo</key>
+			<string>Pulse</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/the-pulse-radio,18970.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Sport - 1332 AM</string>
 			<key>logo</key>
 			<string>1332</string>
@@ -300,42 +336,6 @@
 			<string></string>
 			<key>note</key>
 			<string>Music (Te Aroha, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>The Breeze FM</string>
-			<key>logo</key>
-			<string>Breeze</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/the-breeze-fm,897.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>The Edge 94.2</string>
-			<key>logo</key>
-			<string>Edg</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/the-edge-94-2,12103.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>The Pulse Radio</string>
-			<key>logo</key>
-			<string>Pulse</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/the-pulse-radio,18970.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
 		</dict>
 	</array>
 </dict>
