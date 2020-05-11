@@ -149,7 +149,7 @@
 			<key>name</key>
 			<string>Sikh Kirtan</string>
 			<key>logo</key>
-			<string>Sikh</string>
+			<string>Kirtan</string>
 			<key>link</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.151.153.234:9958/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
@@ -411,13 +411,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Akashvani Vividhbharati Kolkata</string>
+			<string>Akashvani Vividhbharati VBS</string>
 			<key>logo</key>
 			<string>Akashvani</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/akashvani-vividhbharati-kolkata,18759.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/vividh-bharati-service-vbs,17906.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -653,7 +653,7 @@
 			<key>name</key>
 			<string>Live Kirtan - Sri harmandir Sahib</string>
 			<key>logo</key>
-			<string>Kirtan</string>
+			<string>Sahib</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/live-kirtan-sri-harmandir-sahib-golden-temple,15267.m3u</string>
 			<key>http</key>
@@ -867,11 +867,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Girmet</string>
 			<key>logo</key>
-			<string></string>
+			<string>Girmet</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-girmet,11050.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Aakashvaani (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sharda 90.4 FM</string>
+			<key>logo</key>
+			<string>Sharda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sharda-90-4-fm,16705.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kashmir (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sindhi Classic</string>
+			<key>logo</key>
+			<string>Sindhi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-classic,19862.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -879,11 +903,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sindhi Dada Shyam</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dada</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-dada-shyam,19864.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -891,11 +915,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sindhi HD</string>
 			<key>logo</key>
-			<string></string>
+			<string>HD</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-hd,19861.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -903,11 +927,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sindhi Prime</string>
 			<key>logo</key>
-			<string></string>
+			<string>Prime</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-prime,16706.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -915,11 +939,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sindhi Vishwas</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vishwas</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-vishwas,19863.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -927,11 +951,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>TeenTaal</string>
 			<key>logo</key>
-			<string></string>
+			<string>TeenTaal</string>
 			<key>link</key>
+			<string>http://www.radioteentaal.com/masala128.m3u</string>
+			<key>http</key>
+			<string>http://www.radioteentaal.com/masala128.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red FM Delhi</string>
+			<key>logo</key>
+			<string>Red</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/red-fm-delhi,18757.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -939,11 +975,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>SHYAM</string>
 			<key>logo</key>
-			<string></string>
+			<string>SHYAM</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/shyam-radio,7991.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Chennai (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sikh</string>
+			<key>logo</key>
+			<string>Sikh</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sikh-radio,821.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -951,567 +999,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star Tamil</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tamil</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-radio-tamil,20353.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Chennai (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suryan FM 93.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Suryan</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/suryan-fm-93-5,10224.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Chennai (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>TRT Tamil Oli</string>
 			<key>logo</key>
-			<string></string>
+			<string>TRT</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/trt-tamil-oli,12695.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Madras (Local)</string>
 		</dict>
 	</array>
 </dict>

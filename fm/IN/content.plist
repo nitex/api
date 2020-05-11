@@ -75,7 +75,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio HSL</string>
+			<string>HSL</string>
 			<key>logo</key>
 			<string>HSL</string>
 			<key>link</key>
@@ -91,9 +91,21 @@
 			<key>logo</key>
 			<string>Bollywood</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.115:8174/listen.pls&amp;t=.pls</string>
+			<string>https://perseus.shoutca.st/tunein/yatinprabhat.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.115:8174/listen.pls&amp;t=.m3u</string>
+			<string>http://www.surfmusic.de/m3u/hits-of-bollywood,17957.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>New Hits Of Bollywood</string>
+			<key>logo</key>
+			<string>New</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/new-hits-of-bollywood,19357.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -111,7 +123,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Akhand Path Radio</string>
+			<string>Akhand Path</string>
 			<key>logo</key>
 			<string>Akhand</string>
 			<key>link</key>
@@ -123,7 +135,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Jagat Radio</string>
+			<string>Jagat</string>
 			<key>logo</key>
 			<string>Jagat</string>
 			<key>link</key>
@@ -135,7 +147,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Taj</string>
+			<string>Taj</string>
 			<key>logo</key>
 			<string>Taj</string>
 			<key>link</key>
@@ -149,7 +161,7 @@
 			<key>name</key>
 			<string>Sikh Kirtan</string>
 			<key>logo</key>
-			<string>Sikh</string>
+			<string>Kirtan</string>
 			<key>link</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.151.153.234:9958/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
@@ -216,6 +228,822 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.62.54.34:8300/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KMIC - Kerala Malabar Islamic Classroom</string>
+			<key>logo</key>
+			<string>KMIC</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:8068/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:8068/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oye India</string>
+			<key>logo</key>
+			<string>Oye</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/oye-fm-delhi,18754.m3u</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.195.24:8601/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ETR</string>
+			<key>logo</key>
+			<string>ETR</string>
+			<key>link</key>
+			<string>http://etr.fm/etr_audio/ext_players/live_radio/dp_win.m3u</string>
+			<key>http</key>
+			<string>http://etr.fm/ext_players/live_radio/win.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Taal</string>
+			<key>logo</key>
+			<string>Taal</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.punjabrocks.com:9998/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.punjabrocks.com:9998/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sandesh</string>
+			<key>logo</key>
+			<string>Sandesh</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.32.62.172:8608/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.32.62.172:8608/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sikh Katha</string>
+			<key>logo</key>
+			<string>Katha</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.punjabrocks.com:9978/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.punjabrocks.com:9978/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>British Indian Tamil</string>
+			<key>logo</key>
+			<string>British</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.165.240.90:8856/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.165.240.90:8856/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Garam Masala</string>
+			<key>logo</key>
+			<string>Masala</string>
+			<key>link</key>
+			<string>http://69.175.94.98:8146/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://69.175.94.98:8146/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Krishna Muzyka</string>
+			<key>logo</key>
+			<string>Muzyka</string>
+			<key>link</key>
+			<string>http://sc9320.xpx.pl:9320/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://81.219.54.6:8010/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Krishna Indie</string>
+			<key>logo</key>
+			<string>Indie</string>
+			<key>link</key>
+			<string>http://server1.xpx.pl:9322/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Krishna Traditional</string>
+			<key>logo</key>
+			<string>Traditional</string>
+			<key>link</key>
+			<string>http://server1.xpx.pl:9324/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Krishna Wiedza</string>
+			<key>logo</key>
+			<string>Wiedza</string>
+			<key>link</key>
+			<string>http://server1.xpx.pl:9326/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Krishna NRR</string>
+			<key>logo</key>
+			<string>NRR</string>
+			<key>link</key>
+			<string>http://81.219.54.211:8008/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dhammavani Vipassana</string>
+			<key>logo</key>
+			<string>Dhammavani</string>
+			<key>link</key>
+			<string>http://88.198.10.229:8131/stream</string>
+			<key>http</key>
+			<string>http://88.198.10.229:8135/stream</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aamar FM Kolkata</string>
+			<key>logo</key>
+			<string>Aamar</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/aamar-fm-kolkata,18758.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AIR Gold FM Delhi</string>
+			<key>logo</key>
+			<string>AIR</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/air-gold-fm-delhi,18755.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Akashvani Vividhbharati VBS</string>
+			<key>logo</key>
+			<string>Akashvani</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/akashvani-vividhbharati-kolkata,18759.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/vividh-bharati-service-vbs,17906.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bhakti World Guruvar</string>
+			<key>logo</key>
+			<string>Guruvar</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bhakti-world-guruvar,20354.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bhakti World Hanuman</string>
+			<key>logo</key>
+			<string>Hanuman</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bhakti-world-hanuman,20355.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bhakti World Krishna</string>
+			<key>logo</key>
+			<string>Krishna</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bhakti-world-krishna,20357.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bhakti World Shiva</string>
+			<key>logo</key>
+			<string>Shiva</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bhakti-world-shiva,20358.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bhakti World Shri Ram</string>
+			<key>logo</key>
+			<string>Shri</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bhakti-world-shri-ram,20356.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bhakti World Ganesh</string>
+			<key>logo</key>
+			<string>Ganesh</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bhakti-world-ganesh,20359.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big FM 92.7 Chennai</string>
+			<key>logo</key>
+			<string>Chennai</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/big-fm-92-7,19859.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big FM Delhi</string>
+			<key>logo</key>
+			<string>Delhi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/big-fm-delhi,18756.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big FM Kolkata</string>
+			<key>logo</key>
+			<string>BigFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/big-fm-kolkata,18760.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dj Gaurav</string>
+			<key>logo</key>
+			<string>Gaurav</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bollywood-radio-dj-gaurav,18717.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cyber FM India</string>
+			<key>logo</key>
+			<string>Cyber</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cyber-fm-india,13705.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DeSi</string>
+			<key>logo</key>
+			<string>DeSi</string>
+			<key>link</key>
+			<string>http://desi.canstream.co.uk:8001/live.mp3</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/desi-radio,7403.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fever FM 104 Delhi</string>
+			<key>logo</key>
+			<string>Fever</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fever-fm-delhi,18753.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fever FM Kolkata</string>
+			<key>logo</key>
+			<string>Kolkata</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fever-fm-kolkata,18762.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hindi Christian Radio</string>
+			<key>logo</key>
+			<string>Christian</string>
+			<key>link</key>
+			<string>https://eu2.fastcast4u.com/tunein/hindiradio.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/hindi-christian-radio,19238.m3u</string>
+			<key>note</key>
+			<string>Chennai (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IBC Tamil</string>
+			<key>logo</key>
+			<string>IBC</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ibc-tamil,7447.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Imayam FM</string>
+			<key>logo</key>
+			<string>Imayam</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/imayam-fm,18710.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jesus Alive</string>
+			<key>logo</key>
+			<string>Jesus</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/jesus-alive-radio,19948.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Patiala (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Khas Haryanvi</string>
+			<key>logo</key>
+			<string>Khas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/khas-haryanvi,19906.m3u</string>
+			<key>http</key>
+			<string>http://khasharyanvi.com:8000/live?type=.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Live Kirtan - Sri harmandir Sahib</string>
+			<key>logo</key>
+			<string>Sahib</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/live-kirtan-sri-harmandir-sahib-golden-temple,15267.m3u</string>
+			<key>http</key>
+			<string>http://live16.sgpc.net:8000/;nocache=889869</string>
+			<key>note</key>
+			<string>Amritsar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Malayalam Christian Radio</string>
+			<key>logo</key>
+			<string>Malayalam</string>
+			<key>link</key>
+			<string>https://eu2.fastcast4u.com/tunein/malayamradio.pls</string>
+			<key>http</key>
+			<string>http://178.33.135.245/stream/malayamradio.pls?mp=/stream</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mukil FM</string>
+			<key>logo</key>
+			<string>Mukil</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mukil-fm,18449.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Odissi</string>
+			<key>logo</key>
+			<string>Odissi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/odissi-com,7448.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bhubaneshwar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power FM 107.8 Kolkata</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/power-fm-kolkata,18761.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Puradsi FM</string>
+			<key>logo</key>
+			<string>Puradsi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/puradsi-fm,18025.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Afsana</string>
+			<key>logo</key>
+			<string>Afsana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-afsana,12732.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city,14110.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Freedom</string>
+			<key>logo</key>
+			<string>Freedom</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-freedom,16186.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Hindi</string>
+			<key>logo</key>
+			<string>Hindi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-hindi,16188.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City IndiPop</string>
+			<key>logo</key>
+			<string>IndiPop</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-indipop,16185.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Ishq</string>
+			<key>logo</key>
+			<string>Ishq</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-ishq,18263.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Kishore Kumar</string>
+			<key>logo</key>
+			<string>Kishore</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-kishore-kumar-radio,19060.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Lata Mangeshkar</string>
+			<key>logo</key>
+			<string>Lata</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-lata-mangeshkar-radio,19059.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City R D Burman</string>
+			<key>logo</key>
+			<string>Burman</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-r-d-burman-radio,19058.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Smaran</string>
+			<key>logo</key>
+			<string>Smaran</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-smaran,16187.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Wellness</string>
+			<key>logo</key>
+			<string>Wellness</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-city-wellness,18184.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dhaakad</string>
+			<key>logo</key>
+			<string>Dhaakad</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-dhaakad,19907.m3u</string>
+			<key>http</key>
+			<string>http://radiodhaakad.com:8000/live?type=.mp3</string>
+			<key>note</key>
+			<string>Rohtak (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Girmet</string>
+			<key>logo</key>
+			<string>Girmet</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-girmet,11050.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aakashvaani (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sharda 90.4 FM</string>
+			<key>logo</key>
+			<string>Sharda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sharda-90-4-fm,16705.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kashmir (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sindhi Classic</string>
+			<key>logo</key>
+			<string>Sindhi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-classic,19862.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sindhi Dada Shyam</string>
+			<key>logo</key>
+			<string>Dada</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-dada-shyam,19864.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sindhi HD</string>
+			<key>logo</key>
+			<string>HD</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-hd,19861.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sindhi Prime</string>
+			<key>logo</key>
+			<string>Prime</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-prime,16706.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sindhi Vishwas</string>
+			<key>logo</key>
+			<string>Vishwas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sindhi-vishwas,19863.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TeenTaal</string>
+			<key>logo</key>
+			<string>TeenTaal</string>
+			<key>link</key>
+			<string>http://www.radioteentaal.com/masala128.m3u</string>
+			<key>http</key>
+			<string>http://www.radioteentaal.com/masala128.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red FM Delhi</string>
+			<key>logo</key>
+			<string>Red</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/red-fm-delhi,18757.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SHYAM</string>
+			<key>logo</key>
+			<string>SHYAM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/shyam-radio,7991.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chennai (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sikh</string>
+			<key>logo</key>
+			<string>Sikh</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sikh-radio,821.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star Tamil</string>
+			<key>logo</key>
+			<string>Tamil</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-radio-tamil,20353.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chennai (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Suryan FM 93.5</string>
+			<key>logo</key>
+			<string>Suryan</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/suryan-fm-93-5,10224.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chennai (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TRT Tamil Oli</string>
+			<key>logo</key>
+			<string>TRT</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/trt-tamil-oli,12695.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Madras (Local)</string>
 		</dict>
 	</array>
 </dict>
