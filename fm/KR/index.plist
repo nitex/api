@@ -51,78 +51,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Big B Radio</string>
-			<key>logo</key>
-			<string>Big</string>
-			<key>link</key>
-			<string>https://www.bigbradio.net/stream/kpop128.pls</string>
-			<key>http</key>
-			<string>https://www.bigbradio.net/stream/kpop64.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>WeKorea 위코리아</string>
-			<key>logo</key>
-			<string>WeKorea</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>News</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>San Diego Radio Korea</string>
-			<key>logo</key>
-			<string>San</string>
-			<key>link</key>
-			<string>http://fmt01.egihosting.com:9468/listen.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.13.81.34:9468/listen.pls&amp;t=.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cafe 두레박</string>
-			<key>logo</key>
-			<string>Cafe</string>
-			<key>link</key>
-			<string>http://sc03.saycast.com:8150/listen.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://222.122.178.186:5180/listen.pls&amp;t=.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FRED</string>
-			<key>logo</key>
-			<string>FRED</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>GROMCO</string>
-			<key>logo</key>
-			<string>GROMCO</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Andong FM</string>
 			<key>logo</key>
 			<string>Andong</string>
@@ -156,6 +84,30 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big B Radio</string>
+			<key>logo</key>
+			<string>Big</string>
+			<key>link</key>
+			<string>https://www.bigbradio.net/stream/kpop128.pls</string>
+			<key>http</key>
+			<string>https://www.bigbradio.net/stream/kpop64.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cafe 두레박</string>
+			<key>logo</key>
+			<string>Cafe</string>
+			<key>link</key>
+			<string>http://sc03.saycast.com:8150/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://222.122.178.186:5180/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -204,6 +156,210 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FEBC Daejeon 93.3 FM</string>
+			<key>logo</key>
+			<string>Daejeon</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/febc-daejeon-93-3-fm,12777.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FRED</string>
+			<key>logo</key>
+			<string>FRED</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GN MBC 1287 AM</string>
+			<key>logo</key>
+			<string>1287</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/gn-mbc-1287-am,12774.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GROMCO</string>
+			<key>logo</key>
+			<string>GROMCO</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gugak FM 99.1</string>
+			<key>logo</key>
+			<string>Gugak</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/gugak-fm-99-1,12770.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KBS World Radio</string>
+			<key>logo</key>
+			<string>KBS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kbs-world-radio,5248.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MBC FM 92.7</string>
+			<key>logo</key>
+			<string>MBC</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mbc-fm-92-7,12771.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mokpo MBC FM</string>
+			<key>logo</key>
+			<string>Mokpo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mokpo-mbc-fm,12778.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>San Diego Radio Korea</string>
+			<key>logo</key>
+			<string>San</string>
+			<key>link</key>
+			<string>http://fmt01.egihosting.com:9468/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.13.81.34:9468/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SayCast Aa7701</string>
+			<key>logo</key>
+			<string>Aa7701</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/saycast-aa7701,16910.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SayCast Korean Music</string>
+			<key>logo</key>
+			<string>SayCast</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/saycast-korean-music,16914.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SoulnB</string>
+			<key>logo</key>
+			<string>SoulnB</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/soulnb,14539.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Taejon MBC FM</string>
+			<key>logo</key>
+			<string>Taejon</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/taejon-mbc-fm,12769.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TBS 95.1 FM</string>
+			<key>logo</key>
+			<string>TBS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/tbs-95-1-fm,12776.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TOP100 SOULNB.COM</string>
+			<key>logo</key>
+			<string>TOP100</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/top100-soulnb-com,13900.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WBS 97.9 FM</string>
+			<key>logo</key>
+			<string>WBS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/wbs-97-9-fm,12779.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WeKorea 위코리아</string>
+			<key>logo</key>
+			<string>WeKorea</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 	</array>
 </dict>
