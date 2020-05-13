@@ -51,11 +51,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Rodja 756AM</string>
+			<string>Rodja 756 AM</string>
 			<key>logo</key>
 			<string>Rodja</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://119.82.232.83:80/listen.pls&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-rodja-756-am,17790.m3u</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://119.82.232.83:80/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
@@ -783,11 +783,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Dangdut 97.1 FM MNC</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dangdut</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-dangdut-97-1-fm-mnc,16052.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -795,11 +795,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio GCD 98.6 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>GCD</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-gcd-98-6-fm,16745.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio IMSA</string>
+			<key>logo</key>
+			<string>IMSA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-imsa,12738.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -807,11 +819,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Pelangi Nusantara 882 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pelangi</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pelangi-nusantara-882-am,17942.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Bekasi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Pelita Kasih 96.3 FM</string>
+			<key>logo</key>
+			<string>Pelita</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pelita-kasih-96-3-fm,18256.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -819,11 +843,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Radio Waton Muni</string>
 			<key>logo</key>
-			<string></string>
+			<string>Waton</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-waton-muni,17034.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Palu (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAMA 104.7 FM</string>
+			<key>logo</key>
+			<string>RAMA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rama-104-7-fm,15883.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bandung (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rasika FM 105.6</string>
+			<key>logo</key>
+			<string>Rasika</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rasika-fm-105-6,17415.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ungaran (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Retjo Buntung 99.4 FM</string>
+			<key>logo</key>
+			<string>Retjo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/retjo-buntung-99-4-fm,16748.m3u</string>
+			<key>http</key>
+			<string>http://jkt.jogjastreamers.com:8000/rbfm456789stereo?s=611519390044992</string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Romansa FM 98.8</string>
+			<key>logo</key>
+			<string>Romansa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/romansa-fm,16114.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ponorgo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RRI World Service - Voice Of Indonesia</string>
+			<key>logo</key>
+			<string>RRI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rri-world-service-voice-of-indonesia,17893.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -831,97 +915,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RURU</string>
 			<key>logo</key>
-			<string></string>
+			<string>RURU</string>
 			<key>link</key>
-			<string></string>
+			<string>http://u.klikhost.com/singleplaylist.php?ip=u.klikhost.com&amp;port=7400&amp;format=PLS</string>
 			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
+			<string>http://u.klikhost.com/singleplaylist.php?ip=u.klikhost.com&amp;port=7400&amp;format=M3U</string>
 			<key>note</key>
 			<string></string>
 		</dict>
