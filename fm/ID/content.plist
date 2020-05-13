@@ -63,15 +63,747 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Rodja 756AM</string>
+			<string>101 Jak FM</string>
 			<key>logo</key>
-			<string>Rodja</string>
+			<string>101</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://119.82.232.83:80/listen.pls&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/101-jak-fm,17892.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://119.82.232.83:80/listen.pls&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>102.3 RASE FM</string>
+			<key>logo</key>
+			<string>RASE</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/102-3-rase-fm,15882.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bandung (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>103.1 OZ FM</string>
+			<key>logo</key>
+			<string>OZ</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/103-1-oz-fm,15884.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bandung (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>106.6 FM - V Radio FM</string>
+			<key>logo</key>
+			<string>V</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/106-6-fm-v-radio-fm,16061.m3u</string>
+			<key>http</key>
+			<string>http://202.147.199.100:8000/;stream.nsv</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>95.6 Bintang Tenggara</string>
+			<key>logo</key>
+			<string>Tenggara</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/95-6-radio-bintang-tenggara,15241.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Banyuwangi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>98.7 Gen FM Jakarta	</string>
+			<key>logo</key>
+			<string>Gen</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/98-7-gen-fm-jakarta,17891.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alay</string>
+			<key>logo</key>
+			<string>Alay</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-alay,16053.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ardan 105.9 FM</string>
+			<key>logo</key>
+			<string>Ardan</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ardan-105-9-fm,15887.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Bandung, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BIBLE TV Audio</string>
+			<key>logo</key>
+			<string>BIBLE</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bible-tv-audio,17321.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bogor FM 96.5</string>
+			<key>logo</key>
+			<string>Bogor</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bogor-fm-96-5,18285.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cakra 90.5 FM</string>
+			<key>logo</key>
+			<string>Cakra</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-cakra-90-5-fm,18851.m3u</string>
+			<key>http</key>
+			<string>http://dengerin.radiocakrabandung.com:8905/;</string>
+			<key>note</key>
+			<string>Bandung (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classy NetRadio</string>
+			<key>logo</key>
+			<string>Classy</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.167.134.163:7720/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.167.134.163:7720/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D OZ Radio 101.2 FM</string>
+			<key>logo</key>
+			<string>D</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/d-oz-radio-101-2-fm,17236.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bali (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DAHLIA 101.5 FM</string>
+			<key>logo</key>
+			<string>DAHLIA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/dahlia-101-5-fm,15885.m3u</string>
+			<key>http</key>
+			<string>http://dahlia-fm.simaya.net.id:1060/;</string>
+			<key>note</key>
+			<string>Bandung (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dairi 87.6 FM</string>
+			<key>logo</key>
+			<string>Dairi</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8656/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8656/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Cirebon (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dakta 107 FM</string>
+			<key>logo</key>
+			<string>107</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/dakta-107-fm,10720.m3u</string>
+			<key>http</key>
+			<string>http://175.103.56.9:9968/;stream.nsv&amp;type=mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dangdut 97.1 FM MNC</string>
+			<key>logo</key>
+			<string>Dangdut</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-dangdut-97-1-fm-mnc,16052.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Delta FM 99.1</string>
+			<key>logo</key>
+			<string>Delta</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/delta-fm-99-1,18038.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dengerin Musik Indonesia</string>
+			<key>logo</key>
+			<string>Dengerin</string>
+			<key>link</key>
+			<string>http://stream.denger.in:8888/dmi</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/dengerin-musik-indonesia,17046.m3u</string>
+			<key>note</key>
+			<string>Jogjakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DNA FM</string>
+			<key>logo</key>
+			<string>DNA</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://dengar.sukmafm.com:8000/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://dengar.sukmafm.com:8000/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El-Shinta News FM</string>
+			<key>logo</key>
+			<string>Shinta</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/el-shinta-news-fm,9542.m3u</string>
+			<key>http</key>
+			<string>https://www.elshinta.com/asset/upload/audio/2231_ELSHINTADOTCOM_20200512_dewi_rahmawati_-_bank_indonesia_menyiapkan_uang_tunai_.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elpas FM 103.6 FM</string>
+			<key>logo</key>
+			<string>Elpas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/elpas-fm-103-6-fm-bogor,14406.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bogor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FBI 91.8 FM</string>
+			<key>logo</key>
+			<string>FBI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fbi-91-8-fm,17234.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bali (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Garasi FM 106.5 FM</string>
+			<key>logo</key>
+			<string>Garasi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/garasi-fm-106-5-fm,18283.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sitobondo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GCD 98.6 FM</string>
+			<key>logo</key>
+			<string>GCD</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-gcd-98-6-fm,16745.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gemaya 104.5 FM</string>
+			<key>logo</key>
+			<string>Gemaya</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/gemaya-104-5-fm,16738.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Balikpapan (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Geronimo 106.1 FM</string>
+			<key>logo</key>
+			<string>Geronimo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/geronimo-106-1-fm,16746.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hardrock FM 87.5</string>
+			<key>logo</key>
+			<string>Hardrock</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hardrock-fm-87-5,3969.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hot 93.2 FM</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hot-93-2-fm,19488.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IMSA</string>
+			<key>logo</key>
+			<string>IMSA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-imsa,12738.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IndoSound NetRadio</string>
+			<key>logo</key>
+			<string>IndoSound</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8556/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8556/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jiz 89.5 FM</string>
+			<key>logo</key>
+			<string>Jiz</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/jiz-89-5-fm,16747.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KeiLove 93 FM Tasikmalaya</string>
+			<key>logo</key>
+			<string>KeiLove</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/keilove-107-3-fm-tasikmalaya,10778.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jawa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kidung Agung FM</string>
+			<key>logo</key>
+			<string>Kidung</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kidung-agung-fm,17322.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KIS FM 95.1</string>
+			<key>logo</key>
+			<string>KIS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/95-1-kis-fm,15886.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KISI FM 93.4</string>
+			<key>logo</key>
+			<string>KISI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/93-4-kisi-fm,20342.m3u</string>
+			<key>http</key>
+			<string>http://live.serverstreaming.net:9340/kisifm</string>
+			<key>note</key>
+			<string>Bogor (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LAZUAR 94.1 FM Karawang	</string>
+			<key>logo</key>
+			<string>LAZUAR</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/lazuar-94-1-fm-karawang,18940.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Jawa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Loker Musik</string>
+			<key>logo</key>
+			<string>Loker</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.130.182:8142/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.130.182:8142/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mazmur FM</string>
+			<key>logo</key>
+			<string>Mazmur</string>
+			<key>link</key>
+			<string>http://u.klikhost.com/singleplaylist.php?ip=199.167.134.163&amp;port=7118&amp;format=PLS</string>
+			<key>http</key>
+			<string>http://u.klikhost.com/singleplaylist.php?ip=199.167.134.163&amp;port=7118&amp;format=M3U</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MBS 92.7 FM</string>
+			<key>logo</key>
+			<string>MBS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mbs-92-7-fm,16749.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Menara 102.8 FM</string>
+			<key>logo</key>
+			<string>Menara</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/menara-102-8-fm,16193.m3u</string>
+			<key>http</key>
+			<string>http://server.menara-fm.com:10280/menarafmbali</string>
+			<key>note</key>
+			<string>Bali (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mercury 96 FM</string>
+			<key>logo</key>
+			<string>Mercury</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mercury-96-fm,12735.m3u</string>
+			<key>http</key>
+			<string>http://202.148.12.92:8010/radio.mp3?1555502720type=.mp3</string>
+			<key>note</key>
+			<string>Surabaya (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MFM 101.3</string>
+			<key>logo</key>
+			<string>MFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mfm-101-3,19508.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Malang (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MQFM 102.7</string>
+			<key>logo</key>
+			<string>MQFM</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://125.160.17.21:8200/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://125.160.17.21:8200/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Bandung (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mustang 88 FM</string>
+			<key>logo</key>
+			<string>Mustang</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mustang-88-fm,15877.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bali (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>My Radio 94.4 FM</string>
+			<key>logo</key>
+			<string>MyRadio</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/my-radio-94-4-fm,12734.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Surabaya (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nagaswara 99.7 FM Bogor</string>
+			<key>logo</key>
+			<string>Nagaswara</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nagaswara-99-7-fm-bogor,14099.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NagaswaraFM 94.1</string>
+			<key>logo</key>
+			<string>NagaswaraFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nagaswarafm-94-1-fm,12789.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Paduka 100.6 FM</string>
+			<key>logo</key>
+			<string>Paduka</string>
+			<key>link</key>
+			<string>http://streamingkita.com/?iphone=padukafm</string>
+			<key>http</key>
+			<string>http://streamingkita.com/player/?pls=padukafm</string>
+			<key>note</key>
+			<string>Purwokerto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PAS PATI 101FM</string>
+			<key>logo</key>
+			<string>PAS</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/pas-pati-101fm,12737.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pelangi Nusantara 882 AM</string>
+			<key>logo</key>
+			<string>Pelangi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pelangi-nusantara-882-am,17942.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bekasi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pelita Kasih 96.3 FM</string>
+			<key>logo</key>
+			<string>Pelita</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pelita-kasih-96-3-fm,18256.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Phoenix Radio Bali 91.0 FM</string>
+			<key>logo</key>
+			<string>Phoenix</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/phoenix-radio-bali-91-0-fm,15876.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pinoy Jutsu 99.6 FM</string>
+			<key>logo</key>
+			<string>Pinoy</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/pinoy-jutsu-99-6-fm,20350.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ortigas (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prambors 95.8 FM</string>
+			<key>logo</key>
+			<string>Prambors</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/prambors-95-8-fm,16751.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/prambors-fm,822.m3u</string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pratama 88.8 FM</string>
+			<key>logo</key>
+			<string>Pratama</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8030/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8030/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prestasi FM</string>
+			<key>logo</key>
+			<string>Prestasi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/prestasi-fm,17323.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Musik Indonesia</string>
+			<key>logo</key>
+			<string>Musik</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.64.98.181:8252/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.64.98.181:8252/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rajawali</string>
+			<key>logo</key>
+			<string>Rajawali</string>
+			<key>link</key>
+			<string>http://www.rajawaliradio.com/modules/mod_ngs_shoutcast/singleplaylist.php?ip=125.160.17.21&amp;port=8012&amp;format=M3U</string>
+			<key>http</key>
+			<string>http://www.rajawaliradio.com/modules/mod_ngs_shoutcast/singleplaylist.php?ip=125.160.17.21&amp;port=8012&amp;format=PLS</string>
+			<key>note</key>
+			<string>Top Music (Bandung, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAMA 104.7 FM</string>
+			<key>logo</key>
+			<string>RAMA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rama-104-7-fm,15883.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bandung (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rasika FM 105.6</string>
+			<key>logo</key>
+			<string>Rasika</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rasika-fm-105-6,17415.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ungaran (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Retjo Buntung 99.4 FM</string>
+			<key>logo</key>
+			<string>Retjo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/retjo-buntung-99-4-fm,16748.m3u</string>
+			<key>http</key>
+			<string>http://jkt.jogjastreamers.com:8000/rbfm456789stereo?s=611519390044992</string>
+			<key>note</key>
+			<string>Yogyakarta (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -87,15 +819,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MQFM 102.7</string>
+			<string>Rodja 756 AM</string>
 			<key>logo</key>
-			<string>MQFM</string>
+			<string>Rodja</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://125.160.17.21:8200/listen.pls&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-rodja-756-am,17790.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://125.160.17.21:8200/listen.pls&amp;t=.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://119.82.232.83:80/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Bandung (Local)</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Romansa FM 98.8</string>
+			<key>logo</key>
+			<string>Romansa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/romansa-fm,16114.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ponorgo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RRI World Service - Voice Of Indonesia</string>
+			<key>logo</key>
+			<string>RRI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rri-world-service-voice-of-indonesia,17893.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RURU</string>
+			<key>logo</key>
+			<string>RURU</string>
+			<key>link</key>
+			<string>http://u.klikhost.com/singleplaylist.php?ip=u.klikhost.com&amp;port=7400&amp;format=PLS</string>
+			<key>http</key>
+			<string>http://u.klikhost.com/singleplaylist.php?ip=u.klikhost.com&amp;port=7400&amp;format=M3U</string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -123,39 +891,111 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Musik Indonesia</string>
+			<string>She Radio 99.6 FM</string>
 			<key>logo</key>
-			<string>Musik</string>
+			<string>She</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.64.98.181:8252/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/she-radio-99-6-fm,17289.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.64.98.181:8252/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Surabaya (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Loker Musik</string>
+			<string>Sindo Radio Jogja 97 FM</string>
 			<key>logo</key>
-			<string>Loker</string>
+			<string>Jogja</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.130.182:8142/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/sindo-radio-jogja-97-fm,16049.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://206.190.130.182:8142/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Top Music</string>
+			<string>Yogykarta (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Classy NetRadio</string>
+			<string>Sindo Radio 104.6 FM Jakarta</string>
 			<key>logo</key>
-			<string>Classy</string>
+			<string>Sindo</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.167.134.163:7720/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/sindo-radio104-6-fm-jakarta,16058.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.167.134.163:7720/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sonora FM 92.0</string>
+			<key>logo</key>
+			<string>Sonora</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sonora-fm-92-0,11413.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SSFM Suara Surabaya 100 FM</string>
+			<key>logo</key>
+			<string>SSFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ssfm-suara-surabaya-100-fm,12733.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star Radio 107.3 FM Tangerang</string>
+			<key>logo</key>
+			<string>Tangerang</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-radio-107-3-fm-tangerang,15880.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SukmaFM</string>
+			<key>logo</key>
+			<string>SukmaFM</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://dengar.sukmafm.com:8000/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>http://172.83.43.170:8000/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swaragama 101.7 FM</string>
+			<key>logo</key>
+			<string>Swaragama</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/swaragama-101-7-fm,16744.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yogykarta (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Beat Radio Plus 98.5 FM</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/the-beat-radio-plus-98-5-fm,17235.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bali (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,39 +1011,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Dairi 87.6 FM</string>
+			<string>Top FM Padang 98.6</string>
 			<key>logo</key>
-			<string>Dairi</string>
+			<string>Padang</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8656/listen.pls&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/top-fm-padang-98-6,16948.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8656/listen.pls&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Cirebon (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Pratama 88.8 FM</string>
-			<key>logo</key>
-			<string>Pratama</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8030/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8030/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rajawali Radio</string>
-			<key>logo</key>
-			<string>Rajawali</string>
-			<key>link</key>
-			<string>http://www.rajawaliradio.com/modules/mod_ngs_shoutcast/singleplaylist.php?ip=125.160.17.21&amp;port=8012&amp;format=M3U</string>
-			<key>http</key>
-			<string>http://www.rajawaliradio.com/modules/mod_ngs_shoutcast/singleplaylist.php?ip=125.160.17.21&amp;port=8012&amp;format=PLS</string>
-			<key>note</key>
-			<string>Top Music (Bandung, Local)</string>
+			<string>Padangpanjang (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -216,6 +1032,90 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://103.28.148.18:8738/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string>Sumatera (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trax FM 101.4 Jakarta</string>
+			<key>logo</key>
+			<string>Trax</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/trax-fm-101-4-jakarta,15878.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trax FM 90.2 Semarang</string>
+			<key>logo</key>
+			<string>Semarang</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/trax-fm-90-2-semarang,20509.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trax FM 95.1 Palembang</string>
+			<key>logo</key>
+			<string>Palembang</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/trax-fm-95-1-palembang,20508.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Voice of Indonesia (VOI)</string>
+			<key>logo</key>
+			<string>VOI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/voice-of-indonesia-voi,12312.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Waton Muni</string>
+			<key>logo</key>
+			<string>Waton</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-waton-muni,17034.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Palu (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WinFM 95.7 Bogor</string>
+			<key>logo</key>
+			<string>WinFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/winfm-95-7-bogor,16561.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
