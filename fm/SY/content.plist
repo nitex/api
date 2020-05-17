@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Al Asemeh</string>
+			<key>logo</key>
+			<string>Asemeh</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/al-asemeh,20504.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Madina FM 101.5 FM</string>
+			<key>logo</key>
+			<string>Madina</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/al-madina-fm-101-5-fm,17295.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arabesque FM 102.3</string>
+			<key>logo</key>
+			<string>Arabesque</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/arabesque-fm,17293.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ARTA FM 99.5</string>
+			<key>logo</key>
+			<string>ARTA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/arta-fm-99-5,20505.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aamouda (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fuse FM 91.1</string>
+			<key>logo</key>
+			<string>Fuse</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fuse-fm-91-1,20506.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melody FM 97.9</string>
+			<key>logo</key>
+			<string>Melody</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/melody-fm,18311.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ninar FM 88.3</string>
+			<key>logo</key>
+			<string>Ninar</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ninar-fm-88-3,17296.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aleppo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rotana Style FM 105.0</string>
+			<key>logo</key>
+			<string>Rotana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rotana-style-fm-105-0,18310.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rozana 103.5 FM</string>
+			<key>logo</key>
+			<string>Rozana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-rozana-103-5-fm,20507.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Aleppo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sham FM</string>
+			<key>logo</key>
+			<string>Sham</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sham-fm,17292.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
