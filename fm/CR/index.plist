@@ -51,138 +51,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>911 La Radio</string>
-			<key>logo</key>
-			<string>911</string>
-			<key>link</key>
-			<string>http://www.911laradio.com/itunes.m3u</string>
-			<key>http</key>
-			<string>http://www.911laradio.com/winamp.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>95.5 Jazz</string>
-			<key>logo</key>
-			<string>Jazz</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/95-5-jazz,14822.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>959 Nueve Siete Nueve</string>
-			<key>logo</key>
-			<string>959</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/979-nueve-siete-nueve,17106.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Azul FM 99.9</string>
-			<key>logo</key>
-			<string>Azul</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/azul-fm-99-9,12176.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Columbia Estereo 92.7 FM</string>
-			<key>logo</key>
-			<string>Estereo</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/columbia-estereo-92-7-fm,14819.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Conexión 97.9</string>
-			<key>logo</key>
-			<string>Conexion</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/conexion-97-9,4612.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Guarco Radio</string>
-			<key>logo</key>
-			<string>Guarco</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/guarco-radio,16389.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Cartago (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Súper Estación 89.1 FM</string>
-			<key>logo</key>
-			<string>Estacion</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-super-estacion-89-1-fm,18504.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Los 40 Principale Costa Rica</string>
-			<key>logo</key>
-			<string>Los</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/los-40-principale-costa-rica,7488.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Omega 105.1</string>
-			<key>logo</key>
-			<string>Omega</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/omega-105-1,7487.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Onda Brava</string>
-			<key>logo</key>
-			<string>Onda</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/onda-brava-radio,14823.m3u</string>
-			<key>http</key>
-			<string>http://167.114.210.232:8221/;</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>104.7 Hit</string>
 			<key>logo</key>
 			<string>104</string>
@@ -219,11 +87,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>95.5 Jazz</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/95-5-jazz,14822.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>911 La Radio</string>
+			<key>logo</key>
+			<string>911</string>
+			<key>link</key>
+			<string>http://www.911laradio.com/itunes.m3u</string>
+			<key>http</key>
+			<string>http://www.911laradio.com/winamp.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>959 Nueve Siete Nueve</string>
+			<key>logo</key>
+			<string>959</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/979-nueve-siete-nueve,17106.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>ADN 90.7 FM</string>
 			<key>logo</key>
 			<string>ADN</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-adn-90-7-fm,14826.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Azul FM 99.9</string>
+			<key>logo</key>
+			<string>Azul</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/azul-fm-99-9,12176.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -252,6 +168,30 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Columbia Estereo 92.7 FM</string>
+			<key>logo</key>
+			<string>Estereo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/columbia-estereo-92-7-fm,14819.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Conexión 97.9</string>
+			<key>logo</key>
+			<string>Conexion</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/conexion-97-9,4612.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -303,11 +243,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Guarco Radio</string>
+			<key>logo</key>
+			<string>Guarco</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/guarco-radio,16389.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cartago (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ina</string>
 			<key>logo</key>
 			<string>Ina</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-ina,12180.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Súper Estación 89.1 FM</string>
+			<key>logo</key>
+			<string>Estacion</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-super-estacion-89-1-fm,18504.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Los 40 Principale Costa Rica</string>
+			<key>logo</key>
+			<string>Los</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/los-40-principale-costa-rica,7488.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,6 +315,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Omega 105.1</string>
+			<key>logo</key>
+			<string>Omega</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/omega-105-1,7487.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Brava</string>
+			<key>logo</key>
+			<string>Onda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/onda-brava-radio,14823.m3u</string>
+			<key>http</key>
+			<string>http://167.114.210.232:8221/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Reloj 94.3</string>
 			<key>logo</key>
 			<string>Reloj</string>
@@ -363,11 +363,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Teletica Radio 91.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Teletica</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/teletica-radio-91-5-fm,20069.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,171 +375,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Urbano 106 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Urbano</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-urbano-106-fm,20143.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Z FM 95.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Z</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-z-fm-95-1,17390.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Alajuela (Local)</string>
 		</dict>
 	</array>
 </dict>
