@@ -75,11 +75,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Clamor 89.3 FM</string>
+			<key>logo</key>
+			<string>Clamor</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-clamor-89-3-fm,18229.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Culebra (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Estereo Tempo 96.5 FM</string>
 			<key>logo</key>
 			<string>Estereo</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/estereo-tempo-96-5-fm,19565.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 96</string>
+			<key>logo</key>
+			<string>96</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-fm-96,19564.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,42 +171,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Clamor 89.3 FM</string>
-			<key>logo</key>
-			<string>Clamor</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-clamor-89-3-fm,18229.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Culebra (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio FM 96</string>
-			<key>logo</key>
-			<string>96</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-fm-96,19564.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Universidad 89.7 FM</string>
-			<key>logo</key>
-			<string>Universidad</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-universidad-89-7-fm,19558.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Redentor 104 FM</string>
 			<key>logo</key>
 			<string>Redentor</string>
@@ -200,6 +188,114 @@
 			<string>Renacer</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/renacer-106-1-fm,13723.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sacra 91.7 FM</string>
+			<key>logo</key>
+			<string>Sacra</string>
+			<key>link</key>
+			<string>http://wow.eleden.com/rsacrab/rsacrab.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/sacra-91-7-fm,19561.m3u</string>
+			<key>note</key>
+			<string>Quebradillas (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Super K 106</string>
+			<key>logo</key>
+			<string>106</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/super-k-106,19557.m3u</string>
+			<key>http</key>
+			<string>http://centova2.whsh4u.com:9179/stream?type=http&amp;nocache=1</string>
+			<key>note</key>
+			<string>Arecibo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Triunfo FM 96.9</string>
+			<key>logo</key>
+			<string>Triunfo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/triunfo-fm-96-9,18245.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Manati (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidad 89.7 FM</string>
+			<key>logo</key>
+			<string>Universidad</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-universidad-89-7-fm,19558.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VID 90 90.3 FM</string>
+			<key>logo</key>
+			<string>VID</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/vid-90-90-3-fm,19559.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Anasco (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WAPA Radio 680 AM</string>
+			<key>logo</key>
+			<string>WAPA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/wapa-radio-680-am,18232.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WOLA Radio Procer</string>
+			<key>logo</key>
+			<string>WOLA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/wola-radio-procer,18780.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barranquitas (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yunque 93</string>
+			<key>logo</key>
+			<string>Yunque</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/yunque-93,19562.m3u</string>
+			<key>http</key>
+			<string>http://server7.servistreaming.com:10021/stream?type=.mp3</string>
+			<key>note</key>
+			<string>Naguabo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zeta 93 FM</string>
+			<key>logo</key>
+			<string>Zeta</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/zeta-93-fm,13718.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
