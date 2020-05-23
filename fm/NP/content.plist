@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Big 101.2 FM Unik Chaa</string>
+			<key>logo</key>
+			<string>Unik</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/big-101-2-fm-unik-chaa,13786.m3u</string>
+			<key>http</key>
+			<string>http://192.240.102.133:12406/stream?type=http&amp;nocache=7</string>
+			<key>note</key>
+			<string>Pokhara (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Buddha Awaaz 89.6 FM</string>
+			<key>logo</key>
+			<string>Buddha</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-buddha-awaaz-89-6-fm,18030.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kapilvastu (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Butwal FM 94.4</string>
+			<key>logo</key>
+			<string>Butwal</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/butwal-fm-94-4,18031.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chitwan 94.6 FM</string>
+			<key>logo</key>
+			<string>Chitwan</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-chitwan-94-6-fm,20029.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Didi Bahini 95.2 FM</string>
+			<key>logo</key>
+			<string>Didi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-didi-bahini-95-2-fm,18032.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kusma (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dinesh FM 93.8 FM</string>
+			<key>logo</key>
+			<string>Dinesh</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/dinesh-fm-93-8-fm,19092.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dhangadhi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Himalaya</string>
+			<key>logo</key>
+			<string>Himalaya</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-himalaya,19632.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hits FM 91.2 FM</string>
+			<key>logo</key>
+			<string>Hits</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hits-fm-91-2-fm,13787.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jaljala 105.4 FM</string>
+			<key>logo</key>
+			<string>Jaljala</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-jaljala-105-4-fm,18033.m3u</string>
+			<key>http</key>
+			<string>https://live.itech.host:8149/stream</string>
+			<key>note</key>
+			<string>Rolpa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kalika FM 95.2 FM</string>
+			<key>logo</key>
+			<string>Kalika</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kalika-fm-95-2-fm,16363.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Chitwan (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kanchanjungha FM 92.6 FM</string>
+			<key>logo</key>
+			<string>Kanchanjungha</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kanchanjungha-fm-92-6-fm,18034.m3u</string>
+			<key>http</key>
+			<string>https://live.itech.host:8425/stream</string>
+			<key>note</key>
+			<string>Jhapa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kantipur FM</string>
+			<key>logo</key>
+			<string>Kantipur</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-kantipur-fm,13785.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lamjung 91.8 FM</string>
+			<key>logo</key>
+			<string>Lamjung</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-lamjung-91-8-fm,18035.m3u</string>
+			<key>http</key>
+			<string>https://live.itech.host:8951/stream?type=.mp3</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mithila 100.8 FM</string>
+			<key>logo</key>
+			<string>Mithila</string>
+			<key>link</key>
+			<string>http://streaming.hamropatro.com:8246/;stream.mp3</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-mithila-100-8-fm,17685.m3u</string>
+			<key>note</key>
+			<string>Chitwan (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MY FM</string>
+			<key>logo</key>
+			<string>Kota</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/my-fm,14778.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MY FM Kota Kinabalu</string>
+			<key>logo</key>
+			<string>Kinabalu</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/my-fm-kota-kinabalu,16148.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nepal</string>
+			<key>logo</key>
+			<string>Nepa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-nepal,18029.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+	</array>
+</dict>
+</plist>
