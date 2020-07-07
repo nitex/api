@@ -302,5 +302,25 @@
 		<key>http</key>
 		<string>http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&amp;feed=caneng</string>
 	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVA</string>
+		<key>logo</key>
+		<string>TVA</string>
+		<key>link</key>
+		<string>https://video.tva.ca/page/direct?clip=5972573923eec6000b4fe248</string>
+		<key>http</key>
+		<string>https://video.tva.ca/page/direct</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ICI</string>
+		<key>logo</key>
+		<string>ICI</string>
+		<key>link</key>
+		<string>https://ici.tou.tv/en-direct/IciTele?region=8&amp;lectureauto=1</string>
+		<key>http</key>
+		<string>https://ici.tou.tv/en-direct/IciTele?region=8&amp;</string>
+	</dict>
 </array>
 </plist>
