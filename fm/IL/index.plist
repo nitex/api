@@ -195,11 +195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mt. Scopus Radio 106.0 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Scopus</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mt-scopus-radio-106-0-fm,10266.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +207,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>100 FM רדיוס</string>
 			<key>logo</key>
-			<string></string>
+			<string>100</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-100-fm,2562.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Sharon (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>2000 Tel Aviv</string>
+			<key>logo</key>
+			<string>2000</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-2000-tel-aviv,18505.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Pervoe 89.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pervoe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-89-1-fm,3420.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +243,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Agape FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Agape</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-agape-fm,17788.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Netanya (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Akko</string>
+			<key>logo</key>
+			<string>Akko</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-akko,19950.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-beat,17561.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hamesh 99.5 FM</string>
+			<key>logo</key>
+			<string>Hamesh</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-hamesh-99-5-fm,17562.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Haifa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hamizrah רדיו המזרח</string>
+			<key>logo</key>
+			<string>Hamizrah</string>
+			<key>link</key>
+			<string>https://live.cradio.co.il:9046/arik_barda/1/winamp.m3u</string>
+			<key>http</key>
+			<string>https://ssl.shoutcaststreaming.us:8061/0/stream</string>
+			<key>note</key>
+			<string>Aschdod (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kol Barama</string>
+			<key>logo</key>
+			<string>Barama</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-kol-barama,17563.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +315,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kol Raga 91.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Raga</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-kol-raga-91-5-fm,17558.m3u</string>
+			<key>http</key>
+			<string>https://icy.streamgates.net/Radio_CDN/Kol_Rega/icecast.audio</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kol Rega 96 FM</string>
+			<key>logo</key>
+			<string>Rega</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-kol-rega-96-fm,15249.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,95 +339,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Lev Hamedina 91 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lev</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-lev-hamedina-91-fm,10268.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
