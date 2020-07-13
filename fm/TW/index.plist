@@ -239,7 +239,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -255,11 +255,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Good News Radio FM 90.9</string>
 			<key>logo</key>
-			<string></string>
+			<string>Good</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/good-news-radio-fm90-9,13945.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GreenPeace</string>
+			<key>logo</key>
+			<string>GreenPeac</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/greenpeace,11378.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,11 +279,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>GreenPeace Radio 97.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>GreenPeace</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/greenpeace-radio-97-3-fm,5262.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +291,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Hakka Radio FM 97.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hakka</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hakka-radio-fm97-1,13940.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,11 +303,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Heart Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hear</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/heart-radio,13944.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -303,11 +315,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Hit FM 90.1 Kaohsiung</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kaohsiun</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hit-fm-90-1,11379.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit FM 91.5 Taichung</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hit-fm-91-5,11380.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IC 97.5 FM</string>
+			<key>logo</key>
+			<string>IC</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ic-97-5-fm,11382.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -315,11 +351,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>ICRT 1007</string>
 			<key>logo</key>
-			<string></string>
+			<string>1007</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/icrt-1007-taipei,11456.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -327,11 +363,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>KISS Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>KISS</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kiss-radio,874.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,87 +375,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>MRadio FM 106</string>
 			<key>logo</key>
-			<string></string>
+			<string>MRadio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mradio-fm-106,13941.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Taichung (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>National Radio Music</string>
 			<key>logo</key>
-			<string></string>
+			<string>National</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/national-radio-music,13948.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>News 98</string>
 			<key>logo</key>
-			<string></string>
+			<string>98</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/news-98,875.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
