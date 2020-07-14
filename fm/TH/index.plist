@@ -51,6 +51,30 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>98 Pynk FM</string>
+			<key>logo</key>
+			<string>Pynk</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/98-pynk-fm,15204.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>95.5 Virgin Hitz</string>
+			<key>logo</key>
+			<string>Virgin</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/95-5-virgin-hitz,6048.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>101 สถานีวิทยุ FM</string>
 			<key>logo</key>
 			<string>101</string>
@@ -68,42 +92,6 @@
 			<string>103</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/103-like-fm,15205.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>EFM</string>
-			<key>logo</key>
-			<string>EFM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/94-efm,15202.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>95.5 Virgin Hitz</string>
-			<key>logo</key>
-			<string>Virgin</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/95-5-virgin-hitz,6048.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>98 Pynk FM</string>
-			<key>logo</key>
-			<string>Pynk</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/98-pynk-fm,15204.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -189,17 +177,29 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/cool-93-fm,11123.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/coolcelsius-91-5,17385.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Eazy FM 105.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Eazy</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/eazy-fm105-5,6050.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EFM</string>
+			<key>logo</key>
+			<string>EFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/94-efm,15202.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +207,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Fabulous 103 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Fabulous</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fabulous-103-fm,19532.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pattaya (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Family Radio FM 93.75</string>
+			<key>logo</key>
+			<string>Family</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/family-radio-fm-93-75,14537.m3u</string>
+			<key>http</key>
+			<string>https://radio14.plathong.net/7298/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 100.5 MCOT News Station</string>
+			<key>logo</key>
+			<string>Station</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-100-5-fm-news-station,11120.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM MET 107</string>
+			<key>logo</key>
+			<string>MET</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-107-met-107,11121.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM 88</string>
 			<key>logo</key>
-			<string></string>
+			<string>88</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-88,17164.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM 92.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>92</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-92-5,15199.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +279,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FungFungFung Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>FungFungFung</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fungfungfung-radio,18978.m3u</string>
+			<key>http</key>
+			<string>http://link2.onair.network:8006/;</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Get 102.5 FM</string>
+			<key>logo</key>
+			<string>Get</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/get-102-5-fm-dsl,6532.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,11 +303,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Greenwave 106.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Greenwave</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/greenwave-106-5-fm,11385.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,87 +315,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Hot 107 FM Pattaya</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hot</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hot-107-fm-pattaya,19926.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kiss 91.75</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kiss</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kiss-91-75,16583.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Pattaya (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
