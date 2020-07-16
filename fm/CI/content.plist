@@ -5,7 +5,7 @@
 	<key>IDs</key>
 	<dict>
 		<key>ID</key>
-		<string>3694130267637407</string>
+		<string></string>
 		<key>Main</key>
 		<string></string>
 		<key>Back</key>
@@ -31,7 +31,7 @@
 		<key>Footer</key>
 		<string></string>
 		<key>Email</key>
-		<string>idenitecs@gmail.com</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
 		<string></string>
 		<key>Application</key>
@@ -47,27 +47,27 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
 			<key>name</key>
-			<string>BBN</string>
+			<string>Fréquence 2</string>
 			<key>logo</key>
-			<string>BBN</string>
+			<string>2</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bbn-radio,18127.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM 97.1 Addis Abeba</string>
-			<key>logo</key>
-			<string>Addis</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-97-1-addis-abeba,15239.m3u</string>
+			<string>http://www.surfmusic.de/m3u/frequence-2,18023.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sheger 102.1 FM</string>
+			<string>Al Bayane 95.7 FM</string>
 			<key>logo</key>
-			<string>Sheger</string>
+			<string>Bayane</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sheger-102-1-fm,16624.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-albayane-95-7-fm,16630.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,27 +87,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Xoriyo</string>
+			<string>Espoir 102.8 FM</string>
 			<key>logo</key>
-			<string>Xoriyo</string>
+			<string>Espoir</string>
 			<key>link</key>
-			<string>http://www.ogadennet.com/rx/radioxor.mp3</string>
+			<string>http://www.surfmusic.de/m3u/radio-espoir-102-8-fm,18021.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-xoriyo,5149.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Ogaden (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Zami 90.7 FM</string>
+			<string>Jam 99.3 FM</string>
 			<key>logo</key>
-			<string>Zami</string>
+			<string>Jam</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/zami-90-7-fm,18219.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-jam-99-3-fm,16631.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nostalgie 101.1 FM</string>
+			<key>logo</key>
+			<string>Nostalgie</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nostalgie-101-1-fm,16629.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTI La Chaîne Nationale 88.0 FM</string>
+			<key>logo</key>
+			<string>RTI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rti-la-chaine-nationale-88-0-fm,18022.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trace FM Ivory Coast</string>
+			<key>logo</key>
+			<string>Trace</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/trace-fm-ivory-coast,17674.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Yamoussoukro (Local)</string>
 		</dict>
 	</array>
 </dict>
