@@ -63,11 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>99 FM Maputo</string>
+			<string>Benguela</string>
 			<key>logo</key>
-			<string>99</string>
+			<string>Benguela</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-99-fm-maputo,19026.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-benguela,20023.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Capital 90.7 FM Maputo</string>
+			<string>Canal A - Radio National</string>
 			<key>logo</key>
-			<string>Capital</string>
+			<string>Canal</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-capital-90-7-fm-maputo,19027.m3u</string>
+			<string>http://www.surfmusic.de/m3u/canal-a-radio-national,15544.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +87,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LM Radio 87.8 FM</string>
+			<string>Cinco 94.5 FM</string>
 			<key>logo</key>
-			<string>LM</string>
+			<string>Cinco</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/lm-radio-87-8-fm,19022.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-cinco-94-5-fm,18158.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +99,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mega Kizomba 88.5 FM</string>
+			<string>Cunene 92.2 FM</string>
 			<key>logo</key>
-			<string>Kizomba</string>
+			<string>Cunene</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mega-kizomba-88-5-fm,19601.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-cunene-92-2-fm,18155.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ondjiva (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ecclesia</string>
+			<key>logo</key>
+			<string>Ecclesia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ecclesia,13790.m3u</string>
+			<key>http</key>
+			<string>https://www.radioecclesia.org/jplayer/player.html</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ecclesia 97.5 FM</string>
+			<key>logo</key>
+			<string>Ecclesi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ecclesia-97-5-fm,17592.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,59 +135,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RM Antene Nacional</string>
+			<string>Huila 96.6 FM</string>
 			<key>logo</key>
-			<string>Antene</string>
+			<string>Huila</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rm-antene-nacional,19023.m3u</string>
-			<key>http</key>
-			<string>http://196.28.236.2:8000/;stream.mp3</string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RM Desporto</string>
-			<key>logo</key>
-			<string>Desporto</string>
-			<key>link</key>
-			<string>http://162.244.80.52:9260/;stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/radio-huila-96-6-fm,18159.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Sport</string>
+			<string>Lubango (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RM Gaza</string>
+			<string>Kuia Bue FM</string>
 			<key>logo</key>
-			<string>Gaza</string>
+			<string>Kuia</string>
 			<key>link</key>
-			<string>http://162.244.80.52:9256/;stream.mp3</string>
+			<string>http://app.kshost.com.br/player/9126/winamp.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kuia-bue-fm,19128.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RM Nampula</string>
+			<string>Kwanza Sul 97.6 FM</string>
 			<key>logo</key>
-			<string>Nampula</string>
+			<string>Kwanza</string>
 			<key>link</key>
-			<string>http://cast5.servcast.net:3303/;stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/radio-kwanza-sul-97-6-fm,18156.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Sumbe (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RM Sofala</string>
+			<string>LAC Luanda Antena Comercial</string>
 			<key>logo</key>
-			<string>Sofala</string>
+			<string>LAC</string>
 			<key>link</key>
-			<string>http://78.129.240.14:34727/;stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/lac-luanda-antena-comercial,13236.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,25 +183,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>SFM 94.6</string>
+			<string>Lobito 89.1 FM</string>
 			<key>logo</key>
-			<string>SFM</string>
+			<string>Lobito</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sfm-94-6,19024.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-lobito-89-1-fm,18157.m3u</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luanda 99.9 FM</string>
+			<key>logo</key>
+			<string>Luanda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-luanda,15543.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-luanda-99-9-fm,17591.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Super FM 101.9</string>
+			<string>Mais 99.1 FM</string>
 			<key>logo</key>
-			<string>Super</string>
+			<string>Mais</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/super-fm-101-9,19025.m3u</string>
+			<string>http://5.189.189.245:2199/tunein/maisluanda.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-mais-99-1-fm,20239.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
