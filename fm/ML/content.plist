@@ -5,7 +5,7 @@
 	<key>IDs</key>
 	<dict>
 		<key>ID</key>
-		<string>3694130267637407</string>
+		<string></string>
 		<key>Main</key>
 		<string></string>
 		<key>Back</key>
@@ -31,7 +31,7 @@
 		<key>Footer</key>
 		<string></string>
 		<key>Email</key>
-		<string>idenitecs@gmail.com</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
 		<string></string>
 		<key>Application</key>
@@ -47,39 +47,27 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Breeze FM Zambia</string>
+			<string>Bamakan 100.3 FM</string>
 			<key>logo</key>
-			<string>Breeze</string>
+			<string>Bamakan</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/breeze-fm-zambia,19302.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Chipata (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Chikuni Radio 91.9 FM</string>
-			<key>logo</key>
-			<string>Chikuni</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/chikuni-radio-91-9-fm,19303.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Monze (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Christian Voice - FM 106.1</string>
-			<key>logo</key>
-			<string>Christian</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-christian-voice-fm-106-1,19309.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-bamakan,16644.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,23 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Flawa FM 87.7 FM</string>
+			<string>ENERGIE 107.9 FM</string>
 			<key>logo</key>
-			<string>Flawa</string>
+			<string>ENERGIE</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/flawa-fm-87-7-fm,19304.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Kitwe (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Phoenix 89.5 FM</string>
-			<key>logo</key>
-			<string>Phoenix</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-phoenix-89-5-fm,19305.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-energie-107-9-fm,18507.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,11 +87,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Rock FM 96.5</string>
+			<string>Jekafo 100.7 FM</string>
 			<key>logo</key>
-			<string>Rock</string>
+			<string>Jekafo</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rock-fm-96-5,19306.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-jekafo,16646.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,27 +99,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Yar FM 89.9 FM</string>
+			<string>Joliba 105.0 FM</string>
 			<key>logo</key>
-			<string>Yar</string>
+			<string>Joliba</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/yar-fm-89-9-fm,19307.m3u</string>
+			<string>http://www.surfmusic.de/m3u/joliba-105-0-fm,20490.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Kitwe (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Zambezi FM 107.7</string>
+			<string>KLEDU 101.2 FM</string>
 			<key>logo</key>
-			<string>Zambezi</string>
+			<string>KLEDU</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/zambezi-fm-107-7,19308.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-kledu-101-2-fm,20465.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Livingstone (Local)</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mali Jet</string>
+			<key>logo</key>
+			<string>Jet</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mali-jet,16642.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ORTM Chaine 2</string>
+			<key>logo</key>
+			<string>ORTM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ortm-chaine2,16643.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
