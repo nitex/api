@@ -5,7 +5,7 @@
 	<key>IDs</key>
 	<dict>
 		<key>ID</key>
-		<string>3694130267637407</string>
+		<string></string>
 		<key>Main</key>
 		<string></string>
 		<key>Back</key>
@@ -31,7 +31,7 @@
 		<key>Footer</key>
 		<string></string>
 		<key>Email</key>
-		<string>idenitecs@gmail.com</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
 		<string></string>
 		<key>Application</key>
@@ -47,15 +47,27 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
 			<key>name</key>
-			<string>99 FM Maputo</string>
+			<string>EXO FM 105.9 FM</string>
 			<key>logo</key>
-			<string>99</string>
+			<string>EXO</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-99-fm-maputo,19026.m3u</string>
+			<string>http://www.surfmusic.de/m3u/exo-fm-105-9-fm,19550.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Capital 90.7 FM Maputo</string>
+			<string>Fun Radio Reunion 95.5 FM</string>
 			<key>logo</key>
-			<string>Capital</string>
+			<string>Fun</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-capital-90-7-fm-maputo,19027.m3u</string>
+			<string>http://www.surfmusic.de/m3u/fun-radio-reunion-95-5-fm,19551.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +87,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LM Radio 87.8 FM</string>
+			<string>HIT FM Reunion 101.9</string>
 			<key>logo</key>
-			<string>LM</string>
+			<string>HIT</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/lm-radio-87-8-fm,19022.m3u</string>
+			<string>http://www.surfmusic.de/m3u/hitfm-reunion,19552.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +99,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mega Kizomba 88.5 FM</string>
+			<string>NRJ Réunion 100.0 FM</string>
 			<key>logo</key>
-			<string>Kizomba</string>
+			<string>NRJ</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mega-kizomba-88-5-fm,19601.m3u</string>
+			<string>http://www.surfmusic.de/m3u/nrj-reunion-100-0-fm,19553.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,35 +111,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RM Antene Nacional</string>
+			<string>Radio Freedom</string>
 			<key>logo</key>
-			<string>Antene</string>
+			<string>Freedom</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rm-antene-nacional,19023.m3u</string>
-			<key>http</key>
-			<string>http://196.28.236.2:8000/;stream.mp3</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RM Desporto</string>
-			<key>logo</key>
-			<string>Desporto</string>
-			<key>link</key>
-			<string>http://162.244.80.52:9260/;stream.mp3</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sport</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RM Gaza</string>
-			<key>logo</key>
-			<string>Gaza</string>
-			<key>link</key>
-			<string>http://162.244.80.52:9256/;stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/radio-freedom,8.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,11 +123,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RM Nampula</string>
+			<string>Radio Pikan</string>
 			<key>logo</key>
-			<string>Nampula</string>
+			<string>Pikan</string>
 			<key>link</key>
-			<string>http://cast5.servcast.net:3303/;stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/radio-pikan,19554.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,11 +135,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RM Sofala</string>
+			<string>Radio Vie Reunion 105.5</string>
 			<key>logo</key>
-			<string>Sofala</string>
+			<string>Vie</string>
 			<key>link</key>
-			<string>http://78.129.240.14:34727/;stream.mp3</string>
+			<string>http://www.surfmusic.de/m3u/radio-vie-reunion,19555.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -159,25 +147,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>SFM 94.6</string>
+			<string>RSL Radio 104.7 FM</string>
 			<key>logo</key>
-			<string>SFM</string>
+			<string>RSL</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sfm-94-6,19024.m3u</string>
+			<string>http://www.surfmusic.de/m3u/rsl-radio-104-7-fm,18736.m3u</string>
 			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Super FM 101.9</string>
-			<key>logo</key>
-			<string>Super</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/super-fm-101-9,19025.m3u</string>
-			<key>http</key>
-			<string></string>
+			<string>http://rslradio.ice.infomaniak.ch/rslradio-128.mp3</string>
 			<key>note</key>
 			<string></string>
 		</dict>
