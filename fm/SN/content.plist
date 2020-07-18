@@ -63,11 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>HitFM Mauritius</string>
+			<string>90s FM Arabic</string>
 			<key>logo</key>
-			<string>HitFM</string>
+			<string>90s</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hitfm-mauritius,17743.m3u</string>
+			<string>http://www.surfmusic.de/m3u/90s-fm-arabic,19460.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +75,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MBC Best FM</string>
+			<string>Al Jazeera Radio English</string>
 			<key>logo</key>
-			<string>Best</string>
+			<string>Jazeera</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/best-fm,15894.m3u</string>
+			<string>http://www.surfmusic.de/m3u/al-jazeera-radio-english,17014.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Shark Al Awsat 89.5 FM</string>
+			<key>logo</key>
+			<string>Shark</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/al-sharq-al-awsat-89-5-fm,16607.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +99,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MBC Kool FM</string>
+			<string>Alhaya FM</string>
 			<key>logo</key>
-			<string>Kool</string>
+			<string>Alhaya</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kool-fm,37.m3u</string>
+			<string>http://www.surfmusic.de/m3u/alhaya-fm,16608.m3u</string>
+			<key>http</key>
+			<string>http://live.hayafm.com:8000/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bokra</string>
+			<key>logo</key>
+			<string>Bokra</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-bokra,15445.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +123,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MBC Music FM</string>
+			<string>Cairo</string>
 			<key>logo</key>
-			<string>MBC</string>
+			<string>Cairo</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mbc-music-fm,15803.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-cairo,5122.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,11 +135,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MBC Radio Maurice 1</string>
+			<string>Diab FM</string>
 			<key>logo</key>
-			<string>1</string>
+			<string>Diab</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/648-mbc-radio-maurice-1,15801.m3u</string>
+			<string>http://www.surfmusic.de/m3u/diab-fm,16609.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,11 +147,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MBC Radio Maurice 2</string>
+			<string>El Radio 9090</string>
 			<key>logo</key>
-			<string>2</string>
+			<string>9090</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mbc-radio-mauritius-2-819,15802.m3u</string>
+			<string>http://www.surfmusic.de/m3u/el-radio-9090,20212.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,83 +159,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Moris</string>
+			<string>Goal FM</string>
 			<key>logo</key>
-			<string>Moris</string>
+			<string>Goal</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-moris-modem,2234.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-moris-dsl,2233.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>NRJ Maurice</string>
-			<key>logo</key>
-			<string>NRJ</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/nrj-maurice,20047.m3u</string>
+			<string>http://www.surfmusic.de/m3u/goal-fm,16610.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>One</string>
-			<key>logo</key>
-			<string>One</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-one,11894.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Plus</string>
-			<key>logo</key>
-			<string>Plus</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-plus,11895.m3u</string>
-			<key>http</key>
-			<string>https://stream.radio.co/s8cc7a5da4/listen</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Plus Fever</string>
-			<key>logo</key>
-			<string>Fever</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-plus-fever,16822.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Plus Hits</string>
+			<string>Hits 88.2</string>
 			<key>logo</key>
 			<string>Hits</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-plus-hits,16821.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rock Mauritius</string>
-			<key>logo</key>
-			<string>Rock</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rock-mauritius-radio,16327.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-hits-88-2,16621.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Taal FM</string>
+			<string>راديو حريتنا Horytna</string>
 			<key>logo</key>
-			<string>Taal</string>
+			<string>Horytna</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/taal-fm,38.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-horytna,13312.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +195,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Top Radio FM</string>
+			<string>Mahatet Masr 88.7 FM</string>
 			<key>logo</key>
-			<string>T</string>
+			<string>Mahatet</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/top-radio-fm,3476.m3u</string>
+			<string>http://www.surfmusic.de/m3u/mahatet-masr-88-7-fm,20213.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Masr 88.7 FM</string>
+			<key>logo</key>
+			<string>Masr</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-masr-88-7-fm,16777.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mega FM 92.7</string>
+			<key>logo</key>
+			<string>Mega</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mega-fm-92-7,20214.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nile FM 104.2</string>
+			<key>logo</key>
+			<string>Nile</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nile-fm-104-2-dsl,5123.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nogoom FM</string>
+			<key>logo</key>
+			<string>Nogoom</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-nogoom-fm,13308.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nogoum 100.6 FM</string>
+			<key>logo</key>
+			<string>Nogoum</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nogoum-100-6-fm,16620.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ROBINSON FM 102.0</string>
+			<key>logo</key>
+			<string>ROBINSON</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/robinson-fm-102-0,16791.m3u</string>
+			<key>http</key>
+			<string>http://stream.robinsonfm.de/robinsonfm.mp3?_=2</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sawa Egypt</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sawa-egypt,14435.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
