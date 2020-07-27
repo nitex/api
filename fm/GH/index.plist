@@ -59,7 +59,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +155,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -215,7 +215,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -251,7 +251,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music, News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -287,7 +287,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/fox-97-9fm,12745.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -323,7 +323,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music, News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -347,15 +347,135 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk (Kumasi, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HighLife Radio</string>
+			<key>logo</key>
+			<string>HighLife</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/highlife-radio-ghana,17449.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hot 93.9 FM</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hot-93-9-fm,12746.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/hot-90-0-fm,10471.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Joy 99.7 FM</string>
+			<key>logo</key>
+			<string>Joy</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/joy-99-7-fm,10473.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music, News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kasapa FM 102.3</string>
+			<key>logo</key>
+			<string>Kasapa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kasapa-fm-102-3,10474.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kessben FM 93.3</string>
+			<key>logo</key>
+			<string>Kessben</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kessben-fm-93-3,17152.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Kumasi, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Koowaa FM</string>
+			<key>logo</key>
+			<string>Koowaa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/koowaa-fm,18937.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luv 99.5 FM</string>
+			<key>logo</key>
+			<string>Luv</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/luv-99-5-fm,13256.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music, News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melody 91.1 FM</string>
+			<key>logo</key>
+			<string>Melody</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/melody-91-1-fm,15965.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metro 94.1 FM</string>
+			<key>logo</key>
+			<string>Metro</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/metro-94-1-fm,18026.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
 			<string>Kumasi (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>MY FM 94.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>M</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/my-fm-94-5,19946.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Sport, News, (Koforidua, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naspa Radio</string>
+			<key>logo</key>
+			<string>Naspa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/naspa-radio,14262.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,147 +483,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Neat 100.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Neat</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/neat-100-9-fm,18508.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
