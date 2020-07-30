@@ -51,11 +51,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>105.1 Crossover FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Crossover</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/105-1-crossover-fm-manila,5254.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +63,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>106.1 Radio Boracay</string>
 			<key>logo</key>
-			<string></string>
+			<string>Boracay</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/106-1-radio-boracay,10631.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>89.5 Subic Bay Radio DWSB</string>
+			<key>logo</key>
+			<string>Subic</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/89-5-subic-bay-radio-dwsb,13200.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +87,83 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>90.7 Love Radio Manila</string>
 			<key>logo</key>
-			<string></string>
+			<string>Love</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/90-7-love-radio-manila,11791.m3u</string>
+			<key>http</key>
+			<string>https://manilabr.radioca.st/;</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>91.5 FM Win Radio</string>
+			<key>logo</key>
+			<string>Win</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/91-5-fm-win-radio,16395.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mandaluyong (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>911FM True Radio</string>
+			<key>logo</key>
+			<string>True</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/911fm-true-radio,20550.m3u</string>
+			<key>http</key>
+			<string>http://us7.streamingpulse.com/3361/?pl=winamp&amp;c=911FM</string>
+			<key>note</key>
+			<string>Tagbilaran (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>97.1 OKFM DWGB FM</string>
+			<key>logo</key>
+			<string>OKFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/97-1-okfm-dwgb-fm,17181.m3u</string>
+			<key>http</key>
+			<string>http://50.97.94.44:8020/;</string>
+			<key>note</key>
+			<string>Legazpi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>97.9 Home Radio</string>
+			<key>logo</key>
+			<string>Hom</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/97-9-home-radio,13205.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Iloilo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>99.1 Spirit FM DWAM FM</string>
+			<key>logo</key>
+			<string>DWAM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/99-1-spirit-fm-dwam-fm,13728.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Batanga (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Air Waves FM Mellow Touch AWFM</string>
+			<key>logo</key>
+			<string>AWFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/air-waves-fm-mellow-touch-awfm,13201.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +171,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Aksyon Radio Iloilo 720</string>
 			<key>logo</key>
-			<string></string>
+			<string>720</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/aksyon-radio-iloilo-720,16737.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,95 +183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Barangay 99.5 RT Cebu</string>
 			<key>logo</key>
-			<string></string>
+			<string>Barangay</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/barangay-99-5-rt-cebu,18126.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
