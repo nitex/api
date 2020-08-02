@@ -231,6 +231,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DWAV Wave 89.1 FM</string>
+			<key>logo</key>
+			<string>Wave</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/wave-89-1-fm,850.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DWBR Radio 104.3 FM</string>
 			<key>logo</key>
 			<string>DWBR</string>
@@ -543,6 +555,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DZRB RP1 Radyo Pilipinas Uno 738</string>
+			<key>logo</key>
+			<string>RP1</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rp1-radyo-pilipinas-uno,20171.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DZRB Radyo ng Bayan 738</string>
 			<key>logo</key>
 			<string>738</string>
@@ -579,6 +603,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DZRJ UR 105.9 FM</string>
+			<key>logo</key>
+			<string>DZRJ</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ur-105-9-fm-dzrj,13207.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DZRM 87.5 FM</string>
 			<key>logo</key>
 			<string>DZRM</string>
@@ -612,6 +648,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DZSR RP2 Radyo Pilipinas Dos 918</string>
+			<key>logo</key>
+			<string>RP2</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rp2-radyo-pilipinas-dos,20172.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -759,13 +807,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Monster Radio RX 93.1 FM</string>
+			<string>Monster RX 93.1 FM</string>
 			<key>logo</key>
 			<string>Monster</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/monster-radio-rx-93-1-fm,846.m3u</string>
 			<key>http</key>
 			<string>http://sg-icecast.eradioportal.com:8000/monsterrx</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Monster RX Cebu 105.9 FM</string>
+			<key>logo</key>
+			<string>RX</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rx-cebu-105-9-fm,17995.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -855,15 +915,87 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Natin 101.3 FM Kiamba</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kiamba</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radyo-natin-101-3-fm,14134.m3u</string>
+			<key>http</key>
+			<string>http://sg-icecast.eradioportal.com:8000/radyo_natin</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Natin 105.5 FM Whales</string>
+			<key>logo</key>
+			<string>Whales</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radyo-natin-fm-105-5,10792.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rakista</string>
+			<key>logo</key>
+			<string>Rakista</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rakista-radio,16785.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RJ 100.3 FM</string>
+			<key>logo</key>
+			<string>RJ</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rj-100-3-fm,13221.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RMN Cebu</string>
+			<key>logo</key>
+			<string>Cebu</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rmn-cebu,17994.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RMN Manila</string>
+			<key>logo</key>
+			<string>RMN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rmn-manila,11444.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock-it</string>
+			<key>logo</key>
+			<string>Rock-it</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rockit-radyo,14479.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -951,159 +1083,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UNTV RADIO LA VERDAD 1350</string>
 			<key>logo</key>
-			<string></string>
+			<string>UNTV</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/untv-radio-la-verdad-1350-khz,16364.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Quezon (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Wild 92.3 WT</string>
 			<key>logo</key>
-			<string></string>
+			<string>Wild</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/wild-fm,17347.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Zamboanga (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
