@@ -51,18 +51,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>5 News 92.3 FM DWFM</string>
-			<key>logo</key>
-			<string>5</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radyo-5-92-3-news-fm-dwfm,16195.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Sport (Mandaluyong, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>105.1 Crossover FM</string>
 			<key>logo</key>
 			<string>Crossover</string>
@@ -71,7 +59,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -87,18 +75,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>89.5 Subic Bay Radio DWSB</string>
-			<key>logo</key>
-			<string>Subic</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/89-5-subic-bay-radio-dwsb,13200.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>911FM True Radio</string>
 			<key>logo</key>
 			<string>True</string>
@@ -108,18 +84,6 @@
 			<string>http://us7.streamingpulse.com/3361/?pl=winamp&amp;c=911FM</string>
 			<key>note</key>
 			<string>Tagbilaran (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>97.1 OKFM DWGB FM</string>
-			<key>logo</key>
-			<string>OKFM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/97-1-okfm-dwgb-fm,17181.m3u</string>
-			<key>http</key>
-			<string>http://50.97.94.44:8020/;</string>
-			<key>note</key>
-			<string>Legazpi (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -135,19 +99,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>99.1 Spirit FM DWAM FM</string>
-			<key>logo</key>
-			<string>DWAM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/99-1-spirit-fm-dwam-fm,13728.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Batanga (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Air Waves FM Mellow Touch AWFM</string>
+			<string>Air Waves Mellow DWLL 94.7 FM</string>
 			<key>logo</key>
 			<string>AWFM</string>
 			<key>link</key>
@@ -155,11 +107,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Barangay 99.5 RT Cebu</string>
+			<string>Barangay 99.5 RT Cebu DWLS</string>
 			<key>logo</key>
 			<string>Barangay</string>
 			<key>link</key>
@@ -167,19 +119,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bombo Radyo Baguio DZWX</string>
-			<key>logo</key>
-			<string>DZWX</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bombo-radyo-baguio-dzwx,13202.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Baguio (Local)</string>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -191,7 +131,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Kalibo (Local)</string>
+			<string>Top Music (Kalibo, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -219,6 +159,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DWAM 99.1 Spirit FM</string>
+			<key>logo</key>
+			<string>DWAM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/99-1-spirit-fm-dwam-fm,13728.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Batanga (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DWAQ FM 107.5</string>
 			<key>logo</key>
 			<string>DWAQ</string>
@@ -239,7 +191,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -255,6 +207,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DWFM 5 News 92.3 FM</string>
+			<key>logo</key>
+			<string>5</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radyo-5-92-3-news-fm-dwfm,16195.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport (Mandaluyong, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DWGB 97.1 OKFM</string>
+			<key>logo</key>
+			<string>OKFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/97-1-okfm-dwgb-fm,17181.m3u</string>
+			<key>http</key>
+			<string>http://50.97.94.44:8020/;</string>
+			<key>note</key>
+			<string>Legazpi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DWIZ 882</string>
 			<key>logo</key>
 			<string>882</string>
@@ -263,7 +239,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -275,7 +251,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Local</string>
+			<string>News, Sport, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -311,7 +287,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-dwky-91-5-fm,847.m3u</string>
 			<key>note</key>
-			<string>Mandaluyong (Local)</string>
+			<string>Music (Mandaluyong, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -339,6 +315,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DWSB 89.5 Subic Bay</string>
+			<key>logo</key>
+			<string>Subic</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/89-5-subic-bay-radio-dwsb,13200.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DWXI El Shaddai 1314 AM</string>
 			<key>logo</key>
 			<string>DWXI</string>
@@ -348,6 +336,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Makati (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DXFR Freedom Online Radio 104.0</string>
+			<key>logo</key>
+			<string>Freedom</string>
+			<key>link</key>
+			<string>https://cp3.shoutcheap.com:2199/tunein/filgloba.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/freedom-online-radio-104-0,17060.m3u</string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -419,7 +419,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Tagbilaran (Local)</string>
+			<string>News, Talk (Tagbilaran, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -431,7 +431,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Bohol (Local)</string>
+			<string>News, Talk (Bohol, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -443,7 +443,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -503,7 +503,7 @@
 			<key>http</key>
 			<string>https://manilabr.radioca.st/;</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -527,7 +527,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Quezon (Local)</string>
+			<string>News (Quezon, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -551,7 +551,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Naga (Local)</string>
+			<string>Top Music (Naga, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -563,7 +563,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -663,6 +663,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DZWX Bombo Radyo Baguio</string>
+			<key>logo</key>
+			<string>DZWX</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/bombo-radyo-baguio-dzwx,13202.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Baguio, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DZXL RMN News 558</string>
 			<key>logo</key>
 			<string>DZXL</string>
@@ -699,18 +711,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Freedom Online Radio DXFR 104.0</string>
-			<key>logo</key>
-			<string>Freedom</string>
-			<key>link</key>
-			<string>https://cp3.shoutcheap.com:2199/tunein/filgloba.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/freedom-online-radio-104-0,17060.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Hot FM 104.5</string>
 			<key>logo</key>
 			<string>Hot</string>
@@ -731,7 +731,7 @@
 			<key>http</key>
 			<string>https://magic.radioca.st/stream</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -815,7 +815,7 @@
 			<key>http</key>
 			<string>http://sg-icecast.eradioportal.com:8000/monsterrx</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -827,7 +827,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -839,7 +839,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies, Local</string>
+			<string>Oldies, Local, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -851,7 +851,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies, Local</string>
+			<string>Oldies, Local, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -863,7 +863,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies, Local</string>
+			<string>Oldies, Local, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -875,7 +875,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies, Local</string>
+			<string>Oldies, Local, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -999,87 +999,135 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM Bacolod 93.3</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bacolo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-fm-bacolod-93-3-fm,18922.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM Baguio 89.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Baguio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-fm-baguio-89-5-fm,14592.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM Cebu 95.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ceb</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-fm-cebu-95-5-fm,18921.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM Cotabato 93.7</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cotabato</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-fm-cotabato-93-7-fm,14589.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM Dagupan 100.7</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dagupa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-fm-dagupan-100-7-fm,18920.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM Davao 96.3</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dava</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-fm-davao-96-3-fm,14593.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM Dipolog 93.3</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dipolog</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-fm-dipolog-93-3-fm,14591.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Top Music, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM Iloilo 99.5</string>
+			<key>logo</key>
+			<string>Iloil</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-fm-iloilo-99-5-fm,14595.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top Music, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM Manila 102.7</string>
+			<key>logo</key>
+			<string>Manila</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-fm-manila-102-7-fm,14588.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM Roxas 103.7</string>
+			<key>logo</key>
+			<string>Roxas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-fm-roxas-103-7-fm,14594.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM Zamboanga 93.9</string>
+			<key>logo</key>
+			<string>Zamboanga</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/star-fm-zamboanga-93-9-fm,14590.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1103,163 +1151,43 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Zamboanga (Local)</string>
+			<string>News, Music (Zamboanga, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>XFM 92.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>XFM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/xfm-92-3-fm,11445.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Y101 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Y101</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/y101-fm,13726.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies, Top Music (Cebu, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>YES! FM 101.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>YES</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/yes-fm-101-1-manila,16736.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Oldies Music</string>
 		</dict>
 	</array>
 </dict>
