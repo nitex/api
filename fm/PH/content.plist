@@ -99,18 +99,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>97.9 Home Radio</string>
-			<key>logo</key>
-			<string>Hom</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/97-9-home-radio,13205.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Iloilo (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Air Waves Mellow DWLL 94.7 FM</string>
 			<key>logo</key>
 			<string>AWFM</string>
@@ -303,6 +291,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>DWQZ 97.9 Home Radio</string>
+			<key>logo</key>
+			<string>DWQZ</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/97-9-home-radio,13205.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music (Iloilo, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>DWRK Easy Rock 96.9 FM</string>
 			<key>logo</key>
 			<string>DWRK</string>
@@ -419,7 +419,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/aksyon-radio-iloilo-720,16737.m3u</string>
 			<key>note</key>
-			<string>Iloilo (Local)</string>
+			<string>News, Talk (Iloilo, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -495,7 +495,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>DZLL FM 107.1 FM</string>
+			<string>DZLL FM 107.1 FM MemoRies</string>
 			<key>logo</key>
 			<string>DZLL</string>
 			<key>link</key>
@@ -503,7 +503,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Baguio (Local)</string>
+			<string>Music (Baguio, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -803,7 +803,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -935,7 +935,7 @@
 			<key>http</key>
 			<string>http://sg-icecast.eradioportal.com:8000/radyo_natin</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>News, Local, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -947,7 +947,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Local</string>
+			<string>News, Local, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
