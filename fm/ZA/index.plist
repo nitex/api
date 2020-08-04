@@ -51,18 +51,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Chai FM 101.9</string>
-			<key>logo</key>
-			<string>Chai</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/101-9-chai-fm,17556.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>5FM</string>
 			<key>logo</key>
 			<string>5FM</string>
@@ -195,11 +183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Bush Radio 89.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bush</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/bush-radio-89-5-fm,6878.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +195,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cape Pulpit 729 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>729</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cape-pulpit-729-am,18713.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Bellville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CapeTalk 567 AM</string>
+			<key>logo</key>
+			<string>567</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cape-talk-567-am,6876.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +219,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Capricorn 96.0 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Capricorn</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/capricorn-fm,16847.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music (Polokwane, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CCFM 107.5</string>
+			<key>logo</key>
+			<string>CCFM</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ccfm-107-5,20399.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chai FM 101.9</string>
+			<key>logo</key>
+			<string>Chai</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/101-9-chai-fm,17556.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/chai-fm,19955.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Channel Africa</string>
+			<key>logo</key>
+			<string>Africa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/channel-africa,18988.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +267,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CII - Channel Islam International</string>
 			<key>logo</key>
-			<string></string>
+			<string>CII</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cii-channel-islam-international,18915.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Bellville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic FM 102.7</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/classic-fm-102-7,6873.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CliffCentral</string>
+			<key>logo</key>
+			<string>CliffCentral</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cliffcentral,19736.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,99 +303,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cut FM 105.8</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cut</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/cut-fm-105-8-fm,20398.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Bloemfontein (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>East Coast Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Coast</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/east-coast-radio,16.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/east-coast-radio-durban,15170.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music, (Bloemfontein, Local))</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>East Rand Stereo 93.9</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rand</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/east-rand-stereo-93-9,16818.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Springs (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
