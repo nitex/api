@@ -99,18 +99,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>93.1 FM Kragbron</string>
-			<key>logo</key>
-			<string>Kragbron</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/93-1-fm-stereo,16409.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Padkaart (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Al-Ansaar 90.4 FM</string>
 			<key>logo</key>
 			<string>Al-Ansaar</string>
@@ -483,11 +471,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ikwekwezi FM 106.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ikwekwezi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/ikwekwezi-fm-106-3-fm,15918.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -495,11 +483,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Impact Radio 103.0 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Impact</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/impact-radio-103-0-fm,34.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,11 +495,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Inanda 88.4 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Inanda</string>
 			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/inanda-88-4-fm,18459.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Durban (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jacaranda 94.2 FM</string>
+			<key>logo</key>
+			<string>Jacaranda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/jacaranda-94-2-fm,14815.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gauteng (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jacaranda Afrikaans</string>
+			<key>logo</key>
+			<string>Afrikaans</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/ja-fm-jacaranda-afrikaans,18916.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Midrand (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jozi FM 105.8</string>
+			<key>logo</key>
+			<string>Jozi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/jozi-fm105-8,16819.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Soweto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kaya FM 95.9</string>
+			<key>logo</key>
+			<string>Kaya</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kaya-fm-95-9,4628.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -519,11 +555,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>KFM 94.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>KFM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kfm-94-5,4232.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -531,99 +567,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kingfisher FM 103.8</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kingfisher</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kingfisher-fm-103-8,20400.m3u</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Port Elisabeth (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KOVSIE FM 97.0</string>
+			<key>logo</key>
+			<string>KOVSIE</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kovsie-fm-97-0,20401.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bloemfontein (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kragbron 93.1 FM</string>
+			<key>logo</key>
+			<string>Kragbron</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/93-1-fm-stereo,16409.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Padkaart (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lekker FM 98.3 FM</string>
+			<key>logo</key>
+			<string>Lekker</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/lekker-fm-98-3-fm,18463.m3u</string>
+			<key>http</key>
+			<string>http://zas3.ndx.co.za:8000/;</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Lesedi 106.6 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lesedi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/lesedi-fm,15920.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Durban (Local)</string>
 		</dict>
 	</array>
 </dict>
