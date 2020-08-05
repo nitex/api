@@ -57,45 +57,21 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/5fm,15931.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-5-fm,36.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>702 Talk Radio</string>
+			<string>2000 97.2</string>
 			<key>logo</key>
-			<string>702</string>
+			<string>2000</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/702-talk-radio,13.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-2000-extra-sabc,18982.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-2000-fm-sabc,15924.m3u</string>
 			<key>note</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Smile FM 90.4</string>
-			<key>logo</key>
-			<string>Smile</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/90-4-smile-fm,17863.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>90.6 FM VCR</string>
-			<key>logo</key>
-			<string>VCR</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/90-6-fm-vcr,12214.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Vanderbijlpark (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -180,18 +156,6 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cape Pulpit 729 AM</string>
-			<key>logo</key>
-			<string>729</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/cape-pulpit-729-am,18713.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Bellville (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -300,6 +264,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Bloemfontein (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disa</string>
+			<key>logo</key>
+			<string>Disa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-disa,17052.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -507,6 +483,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Islam 1548 AM</string>
+			<key>logo</key>
+			<string>1548</string>
+			<key>link</key>
+			<string>http://listen.radioislam.org.za:8080/radioislam.mp3</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-islam-1548-am,18456.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Jacaranda 94.2 FM</string>
 			<key>logo</key>
 			<string>Jacaranda</string>
@@ -560,6 +548,18 @@
 			<string>KFM</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/kfm-94-5,4232.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Khwezi FM 90.5</string>
+			<key>logo</key>
+			<string>Khwezi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-khwezi-fm-90-5,18905.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -783,11 +783,143 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Power FM 98.7</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/power-fm-98-7,17929.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk (Houghton, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pretoria 104.2 FM</string>
+			<key>logo</key>
+			<string>Pretoria</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pretoria,17928.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PubRocK</string>
+			<key>logo</key>
+			<string>PubRocK</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/pubrock,17101.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PUKfm 93.6</string>
+			<key>logo</key>
+			<string>PUKfm</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/pukfm-93-6,16846.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Potchefstroom (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pulpit 657 AM</string>
+			<key>logo</key>
+			<string>657</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pulpit-657-am,17998.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pulpit 729 AM</string>
+			<key>logo</key>
+			<string>729</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cape-pulpit-729-am,18713.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bellville (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string></string>
 			<key>logo</key>
 			<string></string>
 			<key>link</key>
 			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Smile FM 90.4</string>
+			<key>logo</key>
+			<string>Smile</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/90-4-smile-fm,17863.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VCR 90.6 FM</string>
+			<key>logo</key>
+			<string>VCR</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/90-6-fm-vcr,12214.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Vanderbijlpark (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Talk Radio 702</string>
+			<key>logo</key>
+			<string>702</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/702-talk-radio,13.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rosestad 100.6 FM</string>
+			<key>logo</key>
+			<string>Rosestad</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-rosestad,9715.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bloemfontein (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Today 1485</string>
+			<key>logo</key>
+			<string>1485</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-today-1485,16851.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -807,11 +939,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rainbow FM 90.7</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rainbow</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rainbow-fm-90-7,16973.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -819,167 +951,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rainbow Gospel Radio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gospel</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rainbow-gospel-radio,18549.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
