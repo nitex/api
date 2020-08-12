@@ -87,13 +87,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Радіо Трек</string>
+			<string>Трек 106.4 FM</string>
 			<key>logo</key>
 			<string>Trek</string>
 			<key>link</key>
 			<string>http://radio.rivne.net:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://online2.radiotrek.rv.ua:8000/MP3_128.m3u</string>
 			<key>note</key>
 			<string>Rivne (Local)</string>
 		</dict>
@@ -351,13 +351,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Best FM Мариуполь</string>
+			<string>Best 102.8 FM Мариуполь</string>
 			<key>logo</key>
 			<string>Best2</string>
 			<key>link</key>
 			<string>http://radio.bestfm.fm:8080/bestfm_mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radio.bestfm.fm:8080/bestfm64.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -831,7 +831,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Одесса-Мама</string>
+			<string>Одесса-Мама 106.0 FM</string>
 			<key>logo</key>
 			<string>Mama</string>
 			<key>link</key>
@@ -839,7 +839,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1275,30 +1275,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Українське радіо</string>
-			<key>logo</key>
-			<string>Ukrain</string>
-			<key>link</key>
-			<string>http://radio.ukr.radio:8000/ur1-mp3-m.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Українське радіо - Всесвітня служба</string>
-			<key>logo</key>
-			<string>Ukrai</string>
-			<key>link</key>
-			<string>http://radio.ukr.radio:8000/ur4-mp3-m.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Країна ФМ</string>
 			<key>logo</key>
 			<string>Kraina</string>
@@ -1443,6 +1419,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Українське радіо</string>
+			<key>logo</key>
+			<string>Ukrain</string>
+			<key>link</key>
+			<string>http://radio.ukr.radio:8000/ur1-mp3-m.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Українське радіо - Всесвітня служба</string>
+			<key>logo</key>
+			<string>Ukrai</string>
+			<key>link</key>
+			<string>http://radio.ukr.radio:8000/ur4-mp3-m.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>UA: Українське радіо Києва</string>
 			<key>logo</key>
 			<string>UA1</string>
@@ -1563,11 +1563,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Радіо Львів</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA10</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/ur1-lv-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1575,11 +1575,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Радіо Голос Донбасу</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA11</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/golosdonbasu-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1587,11 +1587,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Українське радіо Миколаїв</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA12</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/ur1-mk-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1599,11 +1599,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Українське радіо Херсон</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA13</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/ur1-ks-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1611,11 +1611,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Радіо Лтава</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA14</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/ur1-pl-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1623,11 +1623,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Українське радіо Рівне</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA15</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/ur1-rv-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1635,11 +1635,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Українське радіо Суми</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA16</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/ur1-sm-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1647,11 +1647,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UA: Українське радіо Поділля</string>
 			<key>logo</key>
-			<string></string>
+			<string>UA17</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukr.radio:8000/ur1-km-mp3-m.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2007,51 +2007,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Херсон FM 99.4</string>
 			<key>logo</key>
-			<string></string>
+			<string>Herson</string>
 			<key>link</key>
-			<string></string>
+			<string>http://kherson.fm:8000/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Перше міське радіо 102.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Miske</string>
 			<key>link</key>
-			<string></string>
+			<string>http://195.138.92.174:8001/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Одеса</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Тризуб FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Trizub</string>
 			<key>link</key>
-			<string></string>
+			<string>http://134.249.132.206:8001/radio.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Діва 107.0 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Diva</string>
 			<key>link</key>
-			<string></string>
+			<string>http://194.28.4.17:8000/diva-radio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Суми (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
