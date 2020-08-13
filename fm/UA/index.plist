@@ -105,7 +105,7 @@
 			<key>link</key>
 			<string>http://212.26.129.2:8000/era96.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://212.26.129.2:8000/era24.m3u</string>
 			<key>note</key>
 			<string>News/Talk</string>
 		</dict>
@@ -399,7 +399,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Бизнес Радио 93.8 FM</string>
+			<string>Бізнес 93.8 FM</string>
 			<key>logo</key>
 			<string>Business</string>
 			<key>link</key>
@@ -885,7 +885,7 @@
 			<key>link</key>
 			<string>http://www.prosto.fm/files/ProstoRadio128-Odessa.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.prosto.fm/files/ProstoRadio64-Odessa.m3u</string>
 			<key>note</key>
 			<string>Top</string>
 		</dict>
@@ -1053,7 +1053,7 @@
 			<key>link</key>
 			<string>http://radio.net.ua:8000/radionet.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.radio.net.ua/radionet32.m3u</string>
 			<key>note</key>
 			<string>Bila Tserkva (Local)</string>
 		</dict>
@@ -1329,7 +1329,7 @@
 			<key>link</key>
 			<string>http://193.169.80.7:8001/efir.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://online.uhradio.com.ua:8001/efir32.m3u</string>
 			<key>note</key>
 			<string>Ternopil (Local)</string>
 		</dict>
@@ -1365,7 +1365,7 @@
 			<key>link</key>
 			<string>http://media2.brg.ua:8000/NRJ.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.nrj.com.ua/energy_hi.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -1413,7 +1413,7 @@
 			<key>link</key>
 			<string>http://stream.meydan.fm:8800/meydanhigh.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://195.189.98.14:8000/low.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1773,7 +1773,7 @@
 			<key>link</key>
 			<string>http://online.1043.com.ua:8000/1043fm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://62.122.200.27:9001/1043.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1899,15 +1899,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Тризуб FM</string>
+			<string>RADIOEX EDM</string>
 			<key>logo</key>
-			<string>Trizub</string>
+			<string>RADIOEX</string>
 			<key>link</key>
-			<string>http://134.249.132.206:8001/radio.mp3.m3u</string>
+			<string>http://www.listen.radioex.in.ua:8043/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1952,6 +1952,474 @@
 			<string>10</string>
 			<key>link</key>
 			<string>http://91.205.207.98:8081/acc.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FlyFM</string>
+			<key>logo</key>
+			<string>FlyFM</string>
+			<key>link</key>
+			<string>http://flyfm.net:8000/flyfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Премьер</string>
+			<key>logo</key>
+			<string>Premier</string>
+			<key>link</key>
+			<string>http://server.rpr.dp.ua:8000/live.m3u</string>
+			<key>http</key>
+			<string>http://91.204.122.100:8000/live.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>YOGA</string>
+			<key>logo</key>
+			<string>YOGA</string>
+			<key>link</key>
+			<string>http://play.yogaradio.org.ua:8000/YOGAradio.m3u</string>
+			<key>http</key>
+			<string>http://play.yogaradio.org.ua:8000/YOGAradio.ogg.m3u</string>
+			<key>note</key>
+			<string>Dnipro (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Вінниця 107,4 FM</string>
+			<key>logo</key>
+			<string>Vinnica</string>
+			<key>link</key>
+			<string>http://195.248.234.146:8000/radio2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Молоде</string>
+			<key>logo</key>
+			<string>Molode</string>
+			<key>link</key>
+			<string>http://molode.com.ua:8032/listen.pls</string>
+			<key>http</key>
+			<string>http://molode.com.ua:8128/listen.pls</string>
+			<key>note</key>
+			<string>Youth Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>49 параллель</string>
+			<key>logo</key>
+			<string>49</string>
+			<key>link</key>
+			<string>http://176.109.222.69:11290/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AFM 102.8</string>
+			<key>logo</key>
+			<string>AFM</string>
+			<key>link</key>
+			<string>http://78.154.164.191:18000/;stream.nsv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Sumy, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coma FM</string>
+			<key>logo</key>
+			<string>Coma</string>
+			<key>link</key>
+			<string>https://stream.radio.co/s4360dbc20/listen</string>
+			<key>http</key>
+			<string>https://stream.radio.co/s4360dbc20/low</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Тризуб FM</string>
+			<key>logo</key>
+			<string>Trizub</string>
+			<key>link</key>
+			<string>http://134.249.132.206:8001/radio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiolla Equalyza</string>
+			<key>logo</key>
+			<string>Radiolla</string>
+			<key>link</key>
+			<string>http://air.radiolla.com/equalyza128k.m3u</string>
+			<key>http</key>
+			<string>http://air.radiolla.com/equalyza32k.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiolla Mantra</string>
+			<key>logo</key>
+			<string>Mantra</string>
+			<key>link</key>
+			<string>http://air.radiolla.com/mantra192k.m3u</string>
+			<key>http</key>
+			<string>http://air.radiolla.com/mantra128k.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
