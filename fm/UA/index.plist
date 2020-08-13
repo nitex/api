@@ -1047,6 +1047,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Informator FM Rock</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://rock.inf.fm:9102/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Dnipropetrovsk, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Radio NET</string>
 			<key>logo</key>
 			<string>NET</string>
@@ -1389,7 +1401,7 @@
 			<key>link</key>
 			<string>http://62.80.190.246:8000/NRK128.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://62.80.190.247:8001/NRK64.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -1401,7 +1413,7 @@
 			<key>link</key>
 			<string>http://online.radiojazz.ua/RadioJazz_HD.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://online.radiojazz.ua/RadioJazz</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -2055,127 +2067,139 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Deep Pulse</string>
 			<key>logo</key>
-			<string></string>
+			<string>Deep</string>
 			<key>link</key>
-			<string></string>
+			<string>http://deeppulse.in.ua/wp-content/uploads/2016/02/Deep%20Pulse%20Radio.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://wp6150.ddns.mksat.net:8000/stream.mp3</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>GIKRadio</string>
 			<key>logo</key>
-			<string></string>
+			<string>GIKRadio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://77.120.162.12:8000/live320</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Kharkiv (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Greatest Songs</string>
 			<key>logo</key>
-			<string></string>
+			<string>Greatest</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.mjoy.ua:8000/radio-great.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kredens Cafe</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kredens</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.mjoy.ua:8000/kredens-cafe-radio_mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.mjoy.ua:8000/kredens-cafe-radio</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>KEXXX</string>
 			<key>logo</key>
-			<string></string>
+			<string>KEXXX</string>
 			<key>link</key>
-			<string></string>
+			<string>http://listen6.myradio24.com:9000/4171</string>
 			<key>http</key>
-			<string></string>
+			<string>http://listen6.myradio24.com:9000/5390</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>KEXXX Light</string>
 			<key>logo</key>
-			<string></string>
+			<string>Light</string>
 			<key>link</key>
-			<string></string>
+			<string>http://listen6.myradio24.com:9000/78387</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>KEXXX.ROCKS</string>
 			<key>logo</key>
-			<string></string>
+			<string>KEXXX.ROCKS</string>
 			<key>link</key>
-			<string></string>
+			<string>https://listen6.myradio24.com/51020</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Misto FM Spark</string>
 			<key>logo</key>
-			<string></string>
+			<string>Spark</string>
 			<key>link</key>
-			<string></string>
+			<string>https://stream.mistofm.com.ua/spark-music</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>MORE.FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>MORE.FM</string>
 			<key>link</key>
-			<string></string>
+			<string>https://more.fm/more128.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://more.fm/more256.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>MORE.FM Acoustic</string>
 			<key>logo</key>
-			<string></string>
+			<string>Acoustic</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/acoustic</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>MORE.FM Classic</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>https://cast.more.fm/uclassic</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
 			<key>logo</key>
 			<string></string>
 			<key>link</key>
@@ -2183,7 +2207,199 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
 			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
