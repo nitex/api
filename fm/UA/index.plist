@@ -687,9 +687,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Радио Маяк</string>
+			<string>BumbleBee</string>
 			<key>logo</key>
-			<string>Olexandriya</string>
+			<string>BumbleBee</string>
 			<key>link</key>
 			<string>http://live.bumblebeefm.ru:8000/mobile32.m3u</string>
 			<key>http</key>
@@ -801,7 +801,7 @@
 			<key>link</key>
 			<string>http://radio.tmwox.ru:8000/ns.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://195.211.212.82:8008/ns1024.mp3</string>
 			<key>note</key>
 			<string>Nikopol (Local)</string>
 		</dict>
@@ -813,7 +813,7 @@
 			<key>link</key>
 			<string>http://online.odessa.fm:8000/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://online.odessa.fm:8000/stream</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -909,7 +909,7 @@
 			<key>link</key>
 			<string>http://94.153.228.135:11270/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://78.129.229.113:36749/stream.ogg</string>
 			<key>note</key>
 			<string>Top (Vatutine, Local)</string>
 		</dict>
@@ -1107,7 +1107,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Радіо Relax</string>
+			<string>Relax</string>
 			<key>logo</key>
 			<string>Relax</string>
 			<key>link</key>
@@ -1797,7 +1797,7 @@
 			<key>link</key>
 			<string>http://195.114.96.103:7878/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://195.114.96.103:7878/</string>
 			<key>note</key>
 			<string>Local News</string>
 		</dict>
@@ -1905,7 +1905,7 @@
 			<key>link</key>
 			<string>http://195.138.92.174:8001/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://195.138.92.174:8001/lq.m3u</string>
 			<key>note</key>
 			<string>Одеса</string>
 		</dict>
@@ -1967,7 +1967,43 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Чернівці (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>10 ЗахХіт</string>
+			<key>logo</key>
+			<string>ZahHit</string>
+			<key>link</key>
+			<string>http://91.205.207.98:8083/zahhit.mp3</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Чернівці (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>10 Терраса</string>
+			<key>logo</key>
+			<string>Terrasa</string>
+			<key>link</key>
+			<string>http://91.205.207.98:8081/Terrasa.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Чернівці (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>10 УкрХіт</string>
+			<key>logo</key>
+			<string>UkrHit</string>
+			<key>link</key>
+			<string>http://91.205.207.98:8081/Ukrhit.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Чернівці (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2679,11 +2715,131 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Лем FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lem</string>
 			<key>link</key>
+			<string>http://lemfm.radiokitstream.org/lemfm.mp3</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Обрії FM 102.0</string>
+			<key>logo</key>
+			<string>Obrii</string>
+			<key>link</key>
+			<string>http://195.66.65.137:8000/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Smila, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Радехів</string>
+			<key>logo</key>
+			<string>Radehiv</string>
+			<key>link</key>
+			<string>http://194.44.230.64:8000/liveradio.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Кручі</string>
+			<key>logo</key>
+			<string>Kruchi</string>
+			<key>link</key>
+			<string>http://krucha.ddns.net:8000/</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kaniv (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>КРИВБАС</string>
+			<key>logo</key>
+			<string>KRYVBAS</string>
+			<key>link</key>
+			<string>https://cdn10.live-tv.od.ua:8083/radio/kryvbasfm/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>7 (Закарпаття)</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://eufrsrv001.technologicznie.net:8765/radio7ua.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GARTA</string>
+			<key>logo</key>
+			<string>GARTA</string>
+			<key>link</key>
+			<string>https://rockradioua.online:8433/kuznya128</string>
+			<key>http</key>
+			<string>https://rockradioua.online:8433/kuznya256</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Аристократи</string>
+			<key>logo</key>
+			<string>Arys</string>
+			<key>link</key>
+			<string>http://air.aristocrats.fm:8000/live2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Аристократи music</string>
+			<key>logo</key>
+			<string>Ary</string>
+			<key>link</key>
+			<string>http://air.aristocrats.fm:8000/amusic</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Вольниця</string>
+			<key>logo</key>
+			<string>Volnytsia</string>
+			<key>link</key>
+			<string>http://s6.radioheart.ru:8013/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Воскресіння</string>
+			<key>logo</key>
+			<string>Vosk</string>
+			<key>link</key>
+			<string>http://liveradio.ab.lviv.ua:8000/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2691,131 +2847,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Домівка</string>
 			<key>logo</key>
-			<string></string>
+			<string>Domivka</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://stream.radiodomivka.com:8000/listen.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
