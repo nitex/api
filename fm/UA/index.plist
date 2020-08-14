@@ -219,18 +219,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Ukraine International</string>
-			<key>logo</key>
-			<string>Ukraine</string>
-			<key>link</key>
-			<string>http://nrcu.gov.ua:8000/ur4-mp3-m.m3u</string>
-			<key>http</key>
-			<string>http://nrcu.gov.ua:8000/rui-aacplus-l.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Радіо Буковина</string>
 			<key>logo</key>
 			<string>Bukovyna</string>
@@ -333,7 +321,7 @@
 			<key>link</key>
 			<string>http://s1.radioheart.ru:8001/av.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://video.onet.zp.ua:8443/azovwave.aac</string>
 			<key>note</key>
 			<string>Top (Berdiansk, Local)</string>
 		</dict>
@@ -379,7 +367,7 @@
 			<key>logo</key>
 			<string>Blysk</string>
 			<key>link</key>
-			<string>http://91.205.205.18:8000/64.m3u</string>
+			<string>http://online.blysk.com.ua:8000/128.m3u</string>
 			<key>http</key>
 			<string>http://91.205.205.18:8000/128.m3u</string>
 			<key>note</key>
@@ -393,7 +381,7 @@
 			<key>link</key>
 			<string>http://100.cv.ua:8000/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://100.cv.ua:8000/live-low</string>
 			<key>note</key>
 			<string>Chernivtsi (Local)</string>
 		</dict>
@@ -403,7 +391,7 @@
 			<key>logo</key>
 			<string>Business</string>
 			<key>link</key>
-			<string>http://217.20.164.163:8018/listen.pls</string>
+			<string>http://media2.brg.ua:8000/bfm_l</string>
 			<key>http</key>
 			<string>http://media2.brg.ua:8000/bfm_h.m3u</string>
 			<key>note</key>
@@ -943,9 +931,9 @@
 			<key>logo</key>
 			<string>Arsi</string>
 			<key>link</key>
-			<string>http://stream4.radiostyle.ru/play.php?pltype=m3u&amp;media=http://stream4.radiostyle.ru:8004/arsi-radio</string>
+			<string>https://listen6.myradio24.com/radioarsi</string>
 			<key>http</key>
-			<string>http://stream4.radiostyle.ru:8004/arsi-radio.m3u</string>
+			<string>http://stream4.radiostyle.ru/play.php?pltype=m3u&amp;media=http://stream4.radiostyle.ru:8004/arsi-radio</string>
 			<key>note</key>
 			<string>Arciz (Local)</string>
 		</dict>
@@ -1101,7 +1089,7 @@
 			<key>link</key>
 			<string>http://176.110.43.117:8000/live320.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/pulsfm-mp3-m</string>
 			<key>note</key>
 			<string>Music (Starobilsk, Local)</string>
 		</dict>
@@ -1437,21 +1425,33 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1d</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Українське радіо - Всесвітня служба</string>
+			<string>Українське радіо - Всесвітня служба (ВСРУ)</string>
 			<key>logo</key>
 			<string>Ukrai</string>
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur4-mp3-m.m3u</string>
 			<key>http</key>
+			<string>http://91.218.213.49:8000/ur1-aacplus-l.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UA: Казки</string>
+			<key>logo</key>
+			<string>Kazki</string>
+			<key>link</key>
+			<string>http://91.218.213.49:8000/kazka-mp3</string>
+			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Youth</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1461,7 +1461,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-kyiv-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-kyiv-aacp-ulow</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1473,7 +1473,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-od-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/odesa1</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1485,7 +1485,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-vn-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-vn-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1497,7 +1497,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-dp-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-dp-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1509,7 +1509,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-zt-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-zt-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1521,7 +1521,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-zp-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-zp-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1533,7 +1533,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-if-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-if-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1545,7 +1545,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-krr-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-krr-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1557,19 +1557,19 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-kr-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-kr-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>UA: Українське радіо Волинь</string>
+			<string>UA: Українське радіо Волинь - Луцьк</string>
 			<key>logo</key>
 			<string>UA9</string>
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-vo-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-vo-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1581,7 +1581,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-lv-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-lv-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1593,7 +1593,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/golosdonbasu-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/golosdonbasu-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1605,7 +1605,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-mk-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-mk-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1617,7 +1617,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-ks-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-ks-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1629,7 +1629,19 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-pl-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-pl-mp3</string>
+			<key>note</key>
+			<string>News, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UA: Українське Радіо Луганщина</string>
+			<key>logo</key>
+			<string>UA24</string>
+			<key>link</key>
+			<string>http://91.218.213.49:8000/ur1-lg-mp3-m</string>
+			<key>http</key>
+			<string>http://91.218.213.49:8000/ur1-lg-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1641,7 +1653,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-rv-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-rv-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1653,7 +1665,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-sm-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-sm-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1665,7 +1677,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-km-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-km-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1677,7 +1689,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-te-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-te-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1701,7 +1713,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-kh-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-kh-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1713,7 +1725,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-ck-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-ck-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1725,7 +1737,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-cv-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-cv-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1737,7 +1749,7 @@
 			<key>link</key>
 			<string>http://radio.ukr.radio:8000/ur1-cn-mp3-m.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.213.49:8000/ur1-cn-mp3</string>
 			<key>note</key>
 			<string>News, Local</string>
 		</dict>
@@ -1953,7 +1965,7 @@
 			<key>link</key>
 			<string>http://stream.hope.ua:7777/golos/128</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.hope.ua:7777/golos/256</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1983,7 +1995,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Премьер</string>
+			<string>Вечірній Бриз (Премьер)</string>
 			<key>logo</key>
 			<string>Premier</string>
 			<key>link</key>
@@ -2163,25 +2175,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>Sweeter</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sweeter</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.mjoy.ua:8000/radio-sweeter</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.mjoy.ua:8000/radio-sweeter-aac</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>Urban Space</string>
 			<key>logo</key>
-			<string></string>
+			<string>Urban</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.mjoy.ua:8000/urban-space-radio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.mjoy.ua:8000/urban-space-radio-aac</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -2391,59 +2403,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>Nisaja</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nisaja</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MORE.FM </string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MORE.FM </string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MORE.FM </string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://radio.ukraudio.com:8000/channel2</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2451,11 +2415,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nisaja INT</string>
 			<key>logo</key>
-			<string></string>
+			<string>INT</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.ukraudio.com:8000/channel3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2463,11 +2427,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>ReLife (Решетилівка)</string>
 			<key>logo</key>
-			<string></string>
+			<string>ReLife</string>
 			<key>link</key>
+			<string>http://176.102.194.71:44808/radio?fbclid=IwAR2jtV0-NULBcYZLLwtnRFmHQhI9LtXB3KAjCG8mbaJBV3aFcTQV6BaStIY</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVA FM</string>
+			<key>logo</key>
+			<string>TVA</string>
+			<key>link</key>
+			<string>http://51.83.132.157/128</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Чернівці, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ukie Drive</string>
+			<key>logo</key>
+			<string>Ukie</string>
+			<key>link</key>
+			<string>http://usa8.fastcast4u.com:5453/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2475,135 +2463,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Агро FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Agro</string>
 			<key>link</key>
-			<string></string>
+			<string>http://162.13.25.174/svfq9a9ccz4tv?1490373763</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Бліц FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bliz</string>
 			<key>link</key>
-			<string></string>
+			<string>https://stream.blits-fm.ua/stream320</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Біла Церква, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Версія FM 101.6</string>
 			<key>logo</key>
-			<string></string>
+			<string>Versia</string>
 			<key>link</key>
-			<string></string>
+			<string>http://213.174.8.35:8002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Ужгород (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2616,6 +2508,30 @@
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Вільне радіо</string>
+			<key>logo</key>
+			<string>Vilne</string>
+			<key>link</key>
+			<string>http://eu3.radioboss.fm:8081/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Жовква (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Голос Свободи</string>
+			<key>logo</key>
+			<string>Svobody</string>
+			<key>link</key>
+			<string>http://holos.fm:8000/holos.m3u</string>
+			<key>http</key>
+			<string>http://holos.fm:8000/holos64.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2640,42 +2556,6 @@
 			<string>http://air.radiolla.com/mantra128k.m3u</string>
 			<key>note</key>
 			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
 		</dict>
 	</array>
 </dict>
