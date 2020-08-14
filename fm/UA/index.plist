@@ -2115,6 +2115,78 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Mousse</string>
+			<key>logo</key>
+			<string>Mousse</string>
+			<key>link</key>
+			<string>http://stream.mjoy.ua:8000/radio-mousse</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>412</string>
+			<key>logo</key>
+			<string>412</string>
+			<key>link</key>
+			<string>http://stream.mjoy.ua:8000/radio-412</string>
+			<key>http</key>
+			<string>http://stream.mjoy.ua:8000/radio-412-aac</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EgoЇсти</string>
+			<key>logo</key>
+			<string>Ego</string>
+			<key>link</key>
+			<string>http://stream.mjoy.ua:8000/radio-egoisty</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ваше Радіо</string>
+			<key>logo</key>
+			<string>Vashe</string>
+			<key>link</key>
+			<string>http://stream.mjoy.ua:8000/radio-medicover</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MORE.FM </string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>KEXXX</string>
 			<key>logo</key>
 			<string>KEXXX</string>
@@ -2199,11 +2271,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>MORE.FM Depeche Mode</string>
 			<key>logo</key>
-			<string></string>
+			<string>Depeche</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/dm</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2211,11 +2283,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>MORE.FM Hip-Hop and RnB</string>
 			<key>logo</key>
-			<string></string>
+			<string>RnB</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/rnb</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2223,11 +2295,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>MORE.FM Indie</string>
 			<key>logo</key>
-			<string></string>
+			<string>Indie</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/indie</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2235,11 +2307,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>MORE.FM Jazz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Jaz</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/jazz</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2247,11 +2319,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>MORE.FM Lounge</string>
 			<key>logo</key>
-			<string></string>
+			<string>Loung</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/lounge</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2259,11 +2331,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>MORE.FM Music Only</string>
 			<key>logo</key>
-			<string></string>
+			<string>Only</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/music</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2271,11 +2343,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>MORE.FM Rock</string>
 			<key>logo</key>
-			<string></string>
+			<string>Roc</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.more.fm/rock</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2283,71 +2355,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>OFR Funk and Soul</string>
 			<key>logo</key>
-			<string></string>
+			<string>Funk</string>
 			<key>link</key>
-			<string></string>
+			<string>http://air.ofr.fm:8000/show/mp3/128</string>
 			<key>http</key>
-			<string></string>
+			<string>http://air.ofr.fm:8000/show/mp3/256</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>OFR Jazz and Blues</string>
 			<key>logo</key>
-			<string></string>
+			<string>Blues</string>
 			<key>link</key>
-			<string></string>
+			<string>http://air.ofr.fm:8008/jazz/mp3/128</string>
 			<key>http</key>
-			<string></string>
+			<string>http://air.ofr.fm:8008/listen.pls?sid=3</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MORE.FM </string>
+			<string>OFR Rock</string>
 			<key>logo</key>
-			<string></string>
+			<string>OFR</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MORE.FM </string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MORE.FM </string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MORE.FM </string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://air.ofr.fm:8012/rock/mp3/128</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
