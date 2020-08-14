@@ -153,7 +153,7 @@
 			<key>link</key>
 			<string>http://radio.adamant.ua/europafm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://217.20.173.105:8100/live.m3u</string>
 			<key>note</key>
 			<string>Top</string>
 		</dict>
@@ -177,7 +177,7 @@
 			<key>link</key>
 			<string>http://europaplus.dp.ua:8000/evropa.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://217.20.173.105:8100/live.m3u</string>
 			<key>note</key>
 			<string>Dnipro (Local)</string>
 		</dict>
@@ -429,7 +429,7 @@
 			<key>link</key>
 			<string>http://express.listen2myradio.com/</string>
 			<key>http</key>
-			<string></string>
+			<string>http://130.185.144.199:29369/;</string>
 			<key>note</key>
 			<string>Top (Konotop, Local)</string>
 		</dict>
@@ -516,18 +516,6 @@
 			<string>http://cast.radiogroup.com.ua:8000/106fm.aac.m3u</string>
 			<key>note</key>
 			<string>News, Talk, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Gorod FM</string>
-			<key>logo</key>
-			<string>Gorod</string>
-			<key>link</key>
-			<string>http://listen2.myradio24.com:9000/8338.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Kryvyi Rig (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1235,7 +1223,7 @@
 			<key>http</key>
 			<string>http://radio.ukr.radio:8000/tysafm-mp3-m.m3u</string>
 			<key>note</key>
-			<string>Uzhgorod</string>
+			<string>Uzhgorod (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1281,7 +1269,7 @@
 			<key>link</key>
 			<string>http://185.65.245.34:8000/kiev.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://185.65.245.34:8000/kievhi.m3u</string>
 			<key>note</key>
 			<string>News/Talk</string>
 		</dict>
@@ -1341,7 +1329,7 @@
 			<key>link</key>
 			<string>http://online.svitle.org:6728/sre.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://online.svitle.org:6728/fm.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1377,7 +1365,7 @@
 			<key>link</key>
 			<string>http://91.218.212.67:8000/stream-ps-hi.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://91.218.212.67:8000/stream-ps-low</string>
 			<key>note</key>
 			<string>News/Talk</string>
 		</dict>
@@ -1881,7 +1869,7 @@
 			<key>link</key>
 			<string>http://ua.uar.net:8000/duzhefm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://178.136.125.252:8008/duzhefm</string>
 			<key>note</key>
 			<string>Львів (Local)</string>
 		</dict>
@@ -2499,18 +2487,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Тризуб FM</string>
-			<key>logo</key>
-			<string>Trizub</string>
-			<key>link</key>
-			<string>http://134.249.132.206:8001/radio.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Вільне радіо</string>
 			<key>logo</key>
 			<string>Vilne</string>
@@ -2532,6 +2508,678 @@
 			<string>http://holos.fm:8000/holos64.m3u</string>
 			<key>note</key>
 			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Город FM 105.2</string>
+			<key>logo</key>
+			<string>Gorod</string>
+			<key>link</key>
+			<string>https://onair.gorodfm.com.ua/onair</string>
+			<key>http</key>
+			<string>http://online.gorodfm.com.ua:8000/OnAir64k</string>
+			<key>note</key>
+			<string>Кривий Ріг (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Добре 105.4 FM</string>
+			<key>logo</key>
+			<string>Dobre</string>
+			<key>link</key>
+			<string>http://78.129.193.82:34896/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Тростянець (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Домашнє</string>
+			<key>logo</key>
+			<string>Domashne</string>
+			<key>link</key>
+			<string>http://radio.ukraudio.com:8000/domashnee-radio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EKO</string>
+			<key>logo</key>
+			<string>EKO</string>
+			<key>link</key>
+			<string>http://ekoradio.com.ua/listen.pls</string>
+			<key>http</key>
+			<string>http://ekoradio.com.ua/audio.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Емігрантське</string>
+			<key>logo</key>
+			<string>Emigrantske</string>
+			<key>link</key>
+			<string>https://stream.emradio.com.ua:8080/appradio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Забава</string>
+			<key>logo</key>
+			<string>Zabava</string>
+			<key>link</key>
+			<string>http://s02.radio-tochka.com:4870/radio</string>
+			<key>http</key>
+			<string>https://laradiofm.ru/download/2381-ru-m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Закарпаття FM 101.9</string>
+			<key>logo</key>
+			<string>Zakarpattya</string>
+			<key>link</key>
+			<string>http://195.234.148.51:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Класне радіо Ізюм</string>
+			<key>logo</key>
+			<string>Klasne</string>
+			<key>link</key>
+			<string>http://1037.izyum.net.ua/2-Klassnoe-Radio-Izyum-103.7FM-Stereo-VBR-128k.ogg</string>
+			<key>http</key>
+			<string>http://1037.izyum.net.ua/1-Klassnoe-Radio-Izyum-103.7FM-Stereo-VBR-256k.ogg</string>
+			<key>note</key>
+			<string>Music, News, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Класне радіо Словянськ</string>
+			<key>logo</key>
+			<string>Sloviansk</string>
+			<key>link</key>
+			<string>http://176.101.223.52:8000/klassnoe</string>
+			<key>http</key>
+			<string>http://176.101.223.52:8000/klassnoe_aac</string>
+			<key>note</key>
+			<string>Music, News, Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Клубер FM</string>
+			<key>logo</key>
+			<string>Kluber</string>
+			<key>link</key>
+			<string>http://195.78.93.18:8000/cluber</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KPOK</string>
+			<key>logo</key>
+			<string>KPOK</string>
+			<key>link</key>
+			<string>http://46.219.19.29:8004/onair</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Zhytomyr, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Лада ФМ Вінниця</string>
+			<key>logo</key>
+			<string>Lada1</string>
+			<key>link</key>
+			<string>http://195.248.234.146:8000/radio3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Лада ФМ Гайсин</string>
+			<key>logo</key>
+			<string>Lada2</string>
+			<key>link</key>
+			<string>http://195.248.234.146:8000/radio1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Лада ФМ Могилів-Подільський</string>
+			<key>logo</key>
+			<string>Lada3</string>
+			<key>link</key>
+			<string>http://195.248.234.146:8000/radio2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Тризуб FM</string>
+			<key>logo</key>
+			<string>Trizub</string>
+			<key>link</key>
+			<string>http://134.249.132.206:8001/radio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
