@@ -1761,7 +1761,7 @@
 			<key>link</key>
 			<string>http://skycast.su:2007/4739.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://skycast.su:2007/5017.m3u</string>
 			<key>note</key>
 			<string>Бердичів (Local)</string>
 		</dict>
@@ -1809,7 +1809,7 @@
 			<key>link</key>
 			<string>http://stream.radiom.org.ua:8020/mp3_high.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.radiom.org.ua:8020/aac_hq</string>
 			<key>note</key>
 			<string>Talk</string>
 		</dict>
@@ -2223,6 +2223,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>RzK Радіо з Криївки</string>
+			<key>logo</key>
+			<string>RzK</string>
+			<key>link</key>
+			<string>http://stream.mjoy.ua:8000/radio-z-kryjivky</string>
+			<key>http</key>
+			<string>http://stream.mjoy.ua:8000/rzk-aac</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>KEXXX</string>
 			<key>logo</key>
 			<string>KEXXX</string>
@@ -2386,6 +2398,18 @@
 			<string>https://cast.more.fm/rock</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>OFR</string>
+			<key>logo</key>
+			<string>OF</string>
+			<key>link</key>
+			<string>http://air.ofr.fm:8004/listen.pls</string>
+			<key>http</key>
+			<string>http://air.ofr.fm:8004/listen.pls?sid=3</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -2576,6 +2600,18 @@
 			<string>Domashne</string>
 			<key>link</key>
 			<string>http://radio.ukraudio.com:8000/domashnee-radio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Родинне</string>
+			<key>logo</key>
+			<string>Rodynne</string>
+			<key>link</key>
+			<string>http://radio.ukraudio.com:8000/rodynne-radio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2859,11 +2895,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ісландія</string>
 			<key>logo</key>
-			<string></string>
+			<string>Islandia</string>
 			<key>link</key>
-			<string></string>
+			<string>https://s3.radio.co/sa3e464c40/listen</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2871,11 +2907,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Куреш</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kuresh</string>
 			<key>link</key>
+			<string>http://kuresh.info:8000/kuresh1.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Херсон (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Лозова</string>
+			<key>logo</key>
+			<string>Lozova</string>
+			<key>link</key>
+			<string>http://91.193.83.103:8000/radiolozova?fbclid=IwAR3pMRbvj01wxA345ejheBxbbeGn6vULes1_CVVmxluUPC4ZgBsxJtpMECE</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Магніт 99.7 FM</string>
+			<key>logo</key>
+			<string>Magnit</string>
+			<key>link</key>
+			<string>http://176.67.8.31:8000/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Канів (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CEC</string>
+			<key>logo</key>
+			<string>CEC</string>
+			<key>link</key>
+			<string>http://185.65.245.34:8000/tatarfm</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2883,11 +2955,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Сковорода</string>
 			<key>logo</key>
-			<string></string>
+			<string>Skovoroda</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.radioskovoroda.com:8000/radioskovoroda</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2895,11 +2967,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Сковорода Music</string>
 			<key>logo</key>
-			<string></string>
+			<string>Skovorod</string>
 			<key>link</key>
+			<string>http://stream.radioskovoroda.com:8060/skovoroda_music</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>THTY</string>
+			<key>logo</key>
+			<string>THT</string>
+			<key>link</key>
+			<string>http://radio.tntu.edu.ua:8000/ukr</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2907,123 +2991,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>THTY Heavy</string>
 			<key>logo</key>
-			<string></string>
+			<string>Heavy</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.tntu.edu.ua:8000/heavy</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>THTY Jazz</string>
 			<key>logo</key>
-			<string></string>
+			<string>THTY</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.tntu.edu.ua:8000/jazz</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Хуст 89.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hust</string>
 			<key>link</key>
-			<string></string>
+			<string>http://de1.internet-radio.com:8277/stream?</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ренесанс 94.2 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Renesans</string>
 			<key>link</key>
-			<string></string>
+			<string>http://media.brg.ua/m3u/renessans64.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://media2.brg.ua:8000/jazz_h.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
