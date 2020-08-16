@@ -4,6 +4,16 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>UA ПЕРШИЙ</string>
+		<key>logo</key>
+		<string>1</string>
+		<key>link</key>
+		<string>https://tv.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://tv.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>112</string>
 		<key>logo</key>
 		<string>112</string>
@@ -54,26 +64,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Первый городской</string>
-		<key>logo</key>
-		<string>1CTV</string>
-		<key>link</key>
-		<string>http://live-tv.od.ua/tv/1tvod/1tvod.php?w=242&amp;h=200&amp;cnee&amp;a=0&amp;ff=0</string>
-		<key>http</key>
-		<string>http://www.1tv.od.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ПЕРШИЙ</string>
-		<key>logo</key>
-		<string>1</string>
-		<key>link</key>
-		<string>http://1tv.com.ua/live</string>
-		<key>http</key>
-		<string>http://1tv.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>XSPORT</string>
 		<key>logo</key>
 		<string>XSPORT</string>
@@ -98,7 +88,7 @@
 		<key>logo</key>
 		<string>Sfera</string>
 		<key>link</key>
-		<string>https://player.twitch.tv/?channel=sferatvrivne</string>
+		<string>http://sfera-tv.com.ua/online</string>
 		<key>http</key>
 		<string>http://sfera-tv.com.ua</string>
 	</dict>
@@ -164,16 +154,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>УНТ</string>
-		<key>logo</key>
-		<string>unt</string>
-		<key>link</key>
-		<string>http://www.unt.ua/ether/</string>
-		<key>http</key>
-		<string>http://www.unt.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>ATR</string>
 		<key>logo</key>
 		<string>atr</string>
@@ -184,36 +164,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>UKRAINE TODAY</string>
-		<key>logo</key>
-		<string>UT</string>
-		<key>link</key>
-		<string>http://uatoday.tv/live</string>
-		<key>http</key>
-		<string>http://uatoday.tv/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>51</string>
-		<key>logo</key>
-		<string>51</string>
-		<key>link</key>
-		<string>http://edge.hitechstreaming.com/htsplayer/htsplayer.php?id=51tv</string>
-		<key>http</key>
-		<string>http://www.dodtrk.com.ua/p/online.html</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Карпати</string>
-		<key>logo</key>
-		<string>Karpati</string>
-		<key>link</key>
-		<string>http://odtrk.if.ua/</string>
-		<key>http</key>
-		<string>http://odtrk.if.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Луганская ОДТРК</string>
 		<key>logo</key>
 		<string>lodtrk</string>
@@ -221,56 +171,6 @@
 		<string>http://lot.lg.ua/live</string>
 		<key>http</key>
 		<string>http://lot.lg.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>РДТРК &quot;Сіверська&quot;</string>
-		<key>logo</key>
-		<string>siver</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/18641095?html5ui</string>
-		<key>http</key>
-		<string>http://www.trksiver.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ЛТАВА</string>
-		<key>logo</key>
-		<string>ltava</string>
-		<key>link</key>
-		<string>http://www.ltava.poltava.ua/online/tv</string>
-		<key>http</key>
-		<string>http://www.ltava.poltava.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ТОДТРК</string>
-		<key>logo</key>
-		<string>TOD</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/9702423?html5ui</string>
-		<key>http</key>
-		<string>http://todtrk.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Сівер-центр</string>
-		<key>logo</key>
-		<string>siver-centr</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/18640053?html5ui=1</string>
-		<key>http</key>
-		<string>http://chodtrk.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>9 канал</string>
-		<key>logo</key>
-		<string>9</string>
-		<key>link</key>
-		<string>http://edge.hitechstreaming.com/htsplayer/htsplayer.php?id=9tv</string>
-		<key>http</key>
-		<string>http://9-channel.com/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -304,16 +204,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ПРАВО</string>
-		<key>logo</key>
-		<string>pravo</string>
-		<key>link</key>
-		<string>http://www.pravotv.ua/ru/live</string>
-		<key>http</key>
-		<string>http://www.pravotv.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>РІВНЕ 1</string>
 		<key>logo</key>
 		<string>rivne1</string>
@@ -324,33 +214,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>СОВЕРШЕННО СЕКРЕТНО</string>
-		<key>logo</key>
-		<string>SECRETNO</string>
-		<key>link</key>
-		<string>http://sovsekretno.tv/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D1%82%D0%B2/</string>
-		<key>http</key>
-		<string>http://sovsekretno.tv/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>МАКСІ ТВ</string>
-		<key>logo</key>
-		<string>maxxi</string>
-		<key>link</key>
-		<string>http://megogo.net/e/1412441</string>
-		<key>http</key>
-		<string>http://maxxi.tv/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Music BOX</string>
 		<key>logo</key>
 		<string>musicbox</string>
 		<key>link</key>
-		<string>http://radio.adamant.ua/adamant_player/mb_ua/mb_ua_v.html</string>
+		<string>https://musicbox.ua/musicbox-online/</string>
 		<key>http</key>
-		<string>http://www.musicboxua.tv/</string>
+		<string>https://musicbox.ua</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -384,16 +254,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Гамма</string>
-		<key>logo</key>
-		<string>gamma</string>
-		<key>link</key>
-		<string>http://www.gamma.tv/play.php</string>
-		<key>http</key>
-		<string>http://www.gamma.tv/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string> SPORT 1</string>
 		<key>logo</key>
 		<string>sport1</string>
@@ -418,7 +278,7 @@
 		<key>logo</key>
 		<string>CNL</string>
 		<key>link</key>
-		<string>http://embed.cdn01.net/player.php?width=640&amp;height=360&amp;skinColor=000000&amp;autoStart=false&amp;tvButtonID=crosstv&amp;id=10429&amp;type=live</string>
+		<string>https://cnl.tv/ru/live#cnl-ukr</string>
 		<key>http</key>
 		<string>https://cnl.tv/</string>
 	</dict>
@@ -474,16 +334,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Соціальна країна</string>
-		<key>logo</key>
-		<string>sockraina</string>
-		<key>link</key>
-		<string>http://sockraina.com/live/</string>
-		<key>http</key>
-		<string>http://sockraina.com/live/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>ПравдаТУТ</string>
 		<key>logo</key>
 		<string>pravdatut</string>
@@ -514,26 +364,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>БЕСТ</string>
-		<key>logo</key>
-		<string>best</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/20545036?html5ui</string>
-		<key>http</key>
-		<string>http://www.trkbest.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ТРК Круг</string>
-		<key>logo</key>
-		<string>krug</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/13822645?html5ui</string>
-		<key>http</key>
-		<string>http://www.krug.com.ua/main</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>KRATU</string>
 		<key>logo</key>
 		<string>kratu</string>
@@ -541,36 +371,6 @@
 		<string>http://kratu.ua/live/</string>
 		<key>http</key>
 		<string>http://kratu.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ВПТВ</string>
-		<key>logo</key>
-		<string>vptv</string>
-		<key>link</key>
-		<string>http://cdn.ua/code/machouse.ua/live/?stream=live5.stream&amp;width=640&amp;height=360&amp;view=1</string>
-		<key>http</key>
-		<string>http://formatmedia.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ГУМОР TV</string>
-		<key>logo</key>
-		<string>gumor</string>
-		<key>link</key>
-		<string>http://radio.adamant.ua/adamant_player/gumor_babai/gumor_babai_v.html?width=500&amp;height=400&amp;iframe=true</string>
-		<key>http</key>
-		<string>http://www.gumortv.com.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ООДТРК</string>
-		<key>logo</key>
-		<string>OODTRK</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/9256855?html5ui</string>
-		<key>http</key>
-		<string>http://oodtrk.od.ua/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -584,6 +384,16 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Первый городской</string>
+		<key>logo</key>
+		<string>1CTV</string>
+		<key>link</key>
+		<string>http://live-tv.od.ua/tv/1tvod/1tvod.php?w=242&amp;h=200&amp;cnee&amp;a=0&amp;ff=0</string>
+		<key>http</key>
+		<string>http://www.1tv.od.ua/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Репортер</string>
 		<key>logo</key>
 		<string>Reporter</string>
@@ -594,16 +404,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ТВ-ГОЛД</string>
-		<key>logo</key>
-		<string>tvgold</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/17930685?html5ui</string>
-		<key>http</key>
-		<string>http://www.ustream.tv/embed/17930685?html5ui</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Южная Волна</string>
 		<key>logo</key>
 		<string>volna</string>
@@ -611,26 +411,6 @@
 		<string>http://live-tv.od.ua/tv/wave/wave.php?w=720&amp;h=576&amp;cnee&amp;a=0&amp;ff=0</string>
 		<key>http</key>
 		<string>https://volnatv.com/online-translyaciya.html</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Бессарабия ТВ</string>
-		<key>logo</key>
-		<string>besarabia</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/13638739?html5ui</string>
-		<key>http</key>
-		<string>https://www.youtube.com/user/BessarabiaTV/featured</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>News Network</string>
-		<key>logo</key>
-		<string>Network</string>
-		<key>link</key>
-		<string>https://newsnetwork.tv/</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UCbvkn0tNFrX2YtAJqPmWAjA/videos?view=2&amp;flow=grid&amp;live_view=501</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -684,16 +464,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>BITA</string>
-		<key>logo</key>
-		<string>BITA</string>
-		<key>link</key>
-		<string>http://vitatv.com.ua/teleprograma/v-pryamomu-efiri/</string>
-		<key>http</key>
-		<string>http://vitatv.com.ua</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Z Запоріжжя</string>
 		<key>logo</key>
 		<string>Z</string>
@@ -731,116 +501,6 @@
 		<string>https://tv5.zp.ua/online/</string>
 		<key>http</key>
 		<string>https://tv5.zp.ua</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: КУЛЬТУРА</string>
-		<key>logo</key>
-		<string>UA</string>
-		<key>link</key>
-		<string>https://culture.suspilne.media/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Центральний</string>
-		<key>logo</key>
-		<string>UA1</string>
-		<key>link</key>
-		<string>http://central.suspilne.media/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Крим</string>
-		<key>logo</key>
-		<string>UA2</string>
-		<key>link</key>
-		<string>http://crimea.suspilne.media/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Вінниця (ВІНТЕРА)</string>
-		<key>logo</key>
-		<string>UA3</string>
-		<key>link</key>
-		<string>https://vintera.com.ua/on-line-tv/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Житомир</string>
-		<key>logo</key>
-		<string>UA4</string>
-		<key>link</key>
-		<string>http://tvradiozt.com.ua/online/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Рівне</string>
-		<key>logo</key>
-		<string>Rivne</string>
-		<key>link</key>
-		<string>http://rtb.rv.ua/company/tele/online/</string>
-		<key>http</key>
-		<string>http://rtb.rv.ua</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Миколаїв</string>
-		<key>logo</key>
-		<string>UA5</string>
-		<key>link</key>
-		<string>http://mtrk.tv/%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B5%D0%B2-%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Харків</string>
-		<key>logo</key>
-		<string>UA6</string>
-		<key>link</key>
-		<string>https://otb.com.ua/online-tv/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Скіфія</string>
-		<key>logo</key>
-		<string>Skifia</string>
-		<key>link</key>
-		<string>http://skifija.ua/online</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Донбас</string>
-		<key>logo</key>
-		<string>UA7</string>
-		<key>link</key>
-		<string>https://www.uadonbas.com/live</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Волинь</string>
-		<key>logo</key>
-		<string>UA8</string>
-		<key>link</key>
-		<string>https://vo.suspilne.media/live</string>
-		<key>http</key>
-		<string>https://vo.suspilne.media</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1130,7 +790,7 @@
 		<key>link</key>
 		<string>http://www.nta.ua/%d0%bd%d0%b0%d0%b6%d0%b8%d0%b2%d0%be/</string>
 		<key>http</key>
-		<string></string>
+		<string>http://www.nta.ua</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1311,6 +971,106 @@
 		<string>http://www.tistv.news/live-tv/</string>
 		<key>http</key>
 		<string>http://www.tistv.news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: КУЛЬТУРА</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://culture.suspilne.media/</string>
+		<key>http</key>
+		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Центральний</string>
+		<key>logo</key>
+		<string>UA1</string>
+		<key>link</key>
+		<string>http://central.suspilne.media/</string>
+		<key>http</key>
+		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Крим</string>
+		<key>logo</key>
+		<string>UA2</string>
+		<key>link</key>
+		<string>https://crimea.suspilne.media/ua/online</string>
+		<key>http</key>
+		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Вінниця</string>
+		<key>logo</key>
+		<string>UA3</string>
+		<key>link</key>
+		<string>https://vn.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://vn.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Житомир</string>
+		<key>logo</key>
+		<string>UA4</string>
+		<key>link</key>
+		<string>https://zt.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://zt.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Рівне</string>
+		<key>logo</key>
+		<string>Rivne</string>
+		<key>link</key>
+		<string>https://rv.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://rv.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Миколаїв</string>
+		<key>logo</key>
+		<string>UA5</string>
+		<key>link</key>
+		<string>https://mk.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Харків</string>
+		<key>logo</key>
+		<string>UA6</string>
+		<key>link</key>
+		<string>https://kh.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Донбас</string>
+		<key>logo</key>
+		<string>UA7</string>
+		<key>link</key>
+		<string>https://dn.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Волинь</string>
+		<key>logo</key>
+		<string>UA8</string>
+		<key>link</key>
+		<string>https://vo.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://vo.suspilne.media</string>
 	</dict>
 	<dict>
 		<key>name</key>
