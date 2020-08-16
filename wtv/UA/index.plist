@@ -114,7 +114,7 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Магнолія</string>
+		<string>ЧП.INFO (Магнолія-ТВ)</string>
 		<key>logo</key>
 		<string>magnonila</string>
 		<key>link</key>
@@ -301,16 +301,6 @@
 		<string>https://galtv.if.ua/online</string>
 		<key>http</key>
 		<string>http://galtv.if.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Перший автомобільний</string>
-		<key>logo</key>
-		<string>1avto</string>
-		<key>link</key>
-		<string>http://1auto.tv/online/</string>
-		<key>http</key>
-		<string>http://1auto.tv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -620,7 +610,7 @@
 		<key>link</key>
 		<string>http://live-tv.od.ua/tv/wave/wave.php?w=720&amp;h=576&amp;cnee&amp;a=0&amp;ff=0</string>
 		<key>http</key>
-		<string>http://volnatv.com/</string>
+		<string>https://volnatv.com/online-translyaciya.html</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -854,6 +844,16 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Настоящее Время</string>
+		<key>logo</key>
+		<string>Vremya</string>
+		<key>link</key>
+		<string>https://www.currenttime.tv/live/video/92</string>
+		<key>http</key>
+		<string>https://www.youtube.com/c/CurrenttimeTvofficial/videos?view=2&amp;live_view=501</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>11 Дніпро</string>
 		<key>logo</key>
 		<string>11</string>
@@ -891,6 +891,16 @@
 		<string>https://34.ua/online</string>
 		<key>http</key>
 		<string>https://34.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>7 канал</string>
+		<key>logo</key>
+		<string>7</string>
+		<key>link</key>
+		<string>http://7kanal.com.ua/live/</string>
+		<key>http</key>
+		<string>http://7kanal.com.ua</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1214,9 +1224,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>TBA</string>
 		<key>logo</key>
-		<string></string>
+		<string>TBA</string>
 		<key>link</key>
 		<string>https://tva.ua/onair/</string>
 		<key>http</key>
@@ -1224,103 +1234,83 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>Трофей</string>
 		<key>logo</key>
-		<string></string>
+		<string>Trofey</string>
 		<key>link</key>
-		<string></string>
+		<string>https://trofey.tv/</string>
 		<key>http</key>
-		<string></string>
+		<string>https://trofey.tv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>Україна 24</string>
 		<key>logo</key>
-		<string></string>
+		<string>24</string>
 		<key>link</key>
-		<string></string>
+		<string>https://ukraina24.segodnya.ua/online</string>
 		<key>http</key>
-		<string></string>
+		<string>https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/videos?view=2&amp;live_view=501</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>Херсон Плюс</string>
 		<key>logo</key>
-		<string></string>
+		<string>Herson</string>
 		<key>link</key>
-		<string></string>
+		<string>http://khersontv.com/onlinetv/</string>
 		<key>http</key>
-		<string></string>
+		<string>http://khersontv.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>Центральний</string>
 		<key>logo</key>
-		<string></string>
+		<string>Centralnyy</string>
 		<key>link</key>
-		<string></string>
+		<string>https://central-ua.tv/efir/</string>
 		<key>http</key>
-		<string></string>
+		<string>https://central-ua.tv</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>Думская</string>
 		<key>logo</key>
-		<string></string>
+		<string>Dumskaya</string>
 		<key>link</key>
-		<string></string>
+		<string>https://dumskaya.net/tv//live/</string>
 		<key>http</key>
-		<string></string>
+		<string>https://dumskaya.net</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>Медіа-Інформ</string>
 		<key>logo</key>
-		<string></string>
+		<string>Media</string>
 		<key>link</key>
-		<string></string>
+		<string>http://www.mediainform.in.ua/</string>
 		<key>http</key>
-		<string></string>
+		<string>http://www.mediainform.in.ua/</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>ГЛАС</string>
 		<key>logo</key>
-		<string></string>
+		<string>GLAS</string>
 		<key>link</key>
-		<string></string>
+		<string>https://glas.org.ua/</string>
 		<key>http</key>
-		<string></string>
+		<string>https://glas.org.ua/</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>TIC</string>
 		<key>logo</key>
-		<string></string>
+		<string>TIC</string>
 		<key>link</key>
-		<string></string>
+		<string>http://www.tistv.news/live-tv/</string>
 		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
+		<string>http://www.tistv.news</string>
 	</dict>
 	<dict>
 		<key>name</key>
