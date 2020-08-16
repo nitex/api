@@ -294,11 +294,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Галичина</string>
+		<string>Галичина ОТБ</string>
 		<key>logo</key>
 		<string>galtv</string>
 		<key>link</key>
-		<string>http://www.ustream.tv/embed/9807474?html5ui=1</string>
+		<string>https://galtv.if.ua/online</string>
 		<key>http</key>
 		<string>http://galtv.if.ua/</string>
 	</dict>
@@ -328,9 +328,9 @@
 		<key>logo</key>
 		<string>rivne1</string>
 		<key>link</key>
-		<string>http://www.rivne1.tv/online/</string>
+		<string>https://rivne1.tv/online</string>
 		<key>http</key>
-		<string>http://www.rivne1.tv/</string>
+		<string>https://rivne1.tv</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -498,19 +498,19 @@
 		<key>logo</key>
 		<string>pravdatut</string>
 		<key>link</key>
-		<string>http://pravdatyt.tv/#pravdatythls</string>
+		<string>https://www.tut.media/online.html</string>
 		<key>http</key>
-		<string>http://pravdatyt.com/</string>
+		<string>https://www.tut.media</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>РУДАНА</string>
+		<string>Pудана</string>
 		<key>logo</key>
 		<string>rudana</string>
 		<key>link</key>
-		<string>http://cdn.livestream.com/embed/rudana?layout=4&amp;color=0xe7e7e7&amp;autoPlay=true&amp;mute=false&amp;iconColorOver=0x888888&amp;iconColor=0x777777&amp;allowchat=true&amp;height=340&amp;width=560</string>
+		<string>https://rudana.com.ua/online</string>
 		<key>http</key>
-		<string>http://rudana.com.ua/</string>
+		<string>https://rudana.com.ua</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -588,7 +588,7 @@
 		<key>logo</key>
 		<string>orbita</string>
 		<key>link</key>
-		<string>http://www.ustream.tv/embed/10366979?html5ui</string>
+		<string>http://orbita.dn.ua/video</string>
 		<key>http</key>
 		<string>http://orbita.dn.ua/</string>
 	</dict>
@@ -596,11 +596,11 @@
 		<key>name</key>
 		<string>Репортер</string>
 		<key>logo</key>
-		<string>reporter</string>
+		<string>Reporter</string>
 		<key>link</key>
-		<string>http://live-tv.od.ua/tv/31chod/31chod.php?w=720&amp;h=576&amp;cnee&amp;a=0&amp;ff=0</string>
+		<string>http://reporter.od.ua/pryamoy-efir/</string>
 		<key>http</key>
-		<string>http://reporter.od.ua/</string>
+		<string>http://live-tv.od.ua/tv/31chod/31chod.php?w=720&amp;h=576&amp;cnee&amp;a=0&amp;ff=0</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -644,7 +644,7 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ОБОЗ</string>
+		<string>OBOZREVATEL</string>
 		<key>logo</key>
 		<string>OBOZ</string>
 		<key>link</key>
@@ -688,7 +688,7 @@
 		<key>logo</key>
 		<string>prm</string>
 		<key>link</key>
-		<string>https://prm.ua/online/</string>
+		<string>https://prm.ua</string>
 		<key>http</key>
 		<string>https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/videos?view=2&amp;flow=grid&amp;live_view=501</string>
 	</dict>
@@ -728,7 +728,7 @@
 		<key>logo</key>
 		<string>FBC</string>
 		<key>link</key>
-		<string>https://fbc.net.ua/online_video/</string>
+		<string>https://fbc.net.ua/tv/online_video/</string>
 		<key>http</key>
 		<string>https://fbc.net.ua</string>
 	</dict>
@@ -1134,13 +1134,83 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string></string>
+		<string>Перший Західний</string>
 		<key>logo</key>
-		<string></string>
+		<string>1zahid</string>
 		<key>link</key>
-		<string></string>
+		<string>http://1zahid.com/online/</string>
 		<key>http</key>
-		<string></string>
+		<string>http://1zahid.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Перший Подільський</string>
+		<key>logo</key>
+		<string>1podil</string>
+		<key>link</key>
+		<string>https://www.youtube.com/c/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9/videos?view=2&amp;live_view=501</string>
+		<key>http</key>
+		<string>https://www.youtube.com/channel/UC-HlSzVsIkTw7mcH6rzxgsA</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Погляд</string>
+		<key>logo</key>
+		<string>Poglyad</string>
+		<key>link</key>
+		<string>https://www.youtube.com/channel/UCnN6PLPAqdlZyeQ3fp3EEjA/videos?view=2&amp;live_view=501</string>
+		<key>http</key>
+		<string>https://www.poglyad.tv/on-line/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PAI</string>
+		<key>logo</key>
+		<string>PAI</string>
+		<key>link</key>
+		<string>https://rai.ua/#stream</string>
+		<key>http</key>
+		<string>https://rai.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>РИТМ</string>
+		<key>logo</key>
+		<string>Rytm</string>
+		<key>link</key>
+		<string>https://ritm.tv/tv/</string>
+		<key>http</key>
+		<string>https://ritm.tv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Сварожичи</string>
+		<key>logo</key>
+		<string>Svarogichi</string>
+		<key>link</key>
+		<string>http://svarozhichi.ua/</string>
+		<key>http</key>
+		<string>http://svarozhichi.ua/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>СИГМА</string>
+		<key>logo</key>
+		<string>Sigma</string>
+		<key>link</key>
+		<string>https://sigmatv.com.ua/ru/online</string>
+		<key>http</key>
+		<string>https://sigmatv.com.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ТБ Бердянськ</string>
+		<key>logo</key>
+		<string>Berdyansk</string>
+		<key>link</key>
+		<string>http://tv.berdyansk.net/online</string>
+		<key>http</key>
+		<string>http://tv.berdyansk.net</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1148,89 +1218,9 @@
 		<key>logo</key>
 		<string></string>
 		<key>link</key>
-		<string></string>
+		<string>https://tva.ua/onair/</string>
 		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
+		<string>https://tva.ua</string>
 	</dict>
 	<dict>
 		<key>name</key>
