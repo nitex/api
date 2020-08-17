@@ -974,53 +974,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>UA: КУЛЬТУРА</string>
+		<string></string>
 		<key>logo</key>
 		<string>UA</string>
 		<key>link</key>
-		<string>https://culture.suspilne.media/</string>
+		<string></string>
 		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Центральний</string>
-		<key>logo</key>
-		<string>UA1</string>
-		<key>link</key>
-		<string>http://central.suspilne.media/</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Крим</string>
-		<key>logo</key>
-		<string>UA2</string>
-		<key>link</key>
-		<string>https://crimea.suspilne.media/ua/online</string>
-		<key>http</key>
-		<string>https://suspilne.media/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Вінниця</string>
-		<key>logo</key>
-		<string>UA3</string>
-		<key>link</key>
-		<string>https://vn.suspilne.media/live</string>
-		<key>http</key>
-		<string>https://vn.suspilne.media</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>UA: Житомир</string>
-		<key>logo</key>
-		<string>UA4</string>
-		<key>link</key>
-		<string>https://zt.suspilne.media/live</string>
-		<key>http</key>
-		<string>https://zt.suspilne.media</string>
+		<string></string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1054,13 +1014,43 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>UA: Донбас</string>
+		<string></string>
 		<key>logo</key>
-		<string>UA7</string>
+		<string></string>
 		<key>link</key>
-		<string>https://dn.suspilne.media/live</string>
+		<string></string>
+		<key>http</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Культура</string>
+		<key>logo</key>
+		<string>UAK</string>
+		<key>link</key>
+		<string>https://culture.suspilne.media/</string>
 		<key>http</key>
 		<string>https://suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Буковина (Чернівці)</string>
+		<key>logo</key>
+		<string>UA9</string>
+		<key>link</key>
+		<string>https://cv.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://cv.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Вінниця</string>
+		<key>logo</key>
+		<string>UA3</string>
+		<key>link</key>
+		<string>https://vn.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://vn.suspilne.media</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1074,9 +1064,219 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>UA: Дніпро</string>
+		<key>logo</key>
+		<string>UA10</string>
+		<key>link</key>
+		<string>https://dp.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://dp.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Донбас</string>
+		<key>logo</key>
+		<string>UA7</string>
+		<key>link</key>
+		<string>https://dn.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://dn.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Житомир</string>
+		<key>logo</key>
+		<string>UA4</string>
+		<key>link</key>
+		<string>https://zt.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://zt.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Закарпаття (Ужгород)</string>
+		<key>logo</key>
+		<string>UA11</string>
+		<key>link</key>
+		<string>https://uz.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://uz.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Запоріжжя</string>
+		<key>logo</key>
+		<string>UA12</string>
+		<key>link</key>
+		<string>https://zp.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://zp.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Карпати (Івано-Франківськ)</string>
+		<key>logo</key>
+		<string>UA13</string>
+		<key>link</key>
+		<string>https://if.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://if.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Київ (Центральний)</string>
+		<key>logo</key>
+		<string>UA1</string>
+		<key>link</key>
+		<string>https://central.suspilne.media/</string>
+		<key>http</key>
+		<string>https://central.suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Крим</string>
+		<key>logo</key>
+		<string>UA2</string>
+		<key>link</key>
+		<string>https://crimea.suspilne.media/ua/online</string>
+		<key>http</key>
+		<string>https://crimea.suspilne.media/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Кропивницький</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://kr.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://kr.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Львів</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://lv.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://lv.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Миколаїв</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://mk.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://mk.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Одеса</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://od.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://od.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Поділля (Хмельницький)</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://km.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://km.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Полтава</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://pl.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://pl.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Рівне</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://rv.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://rv.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Суми</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://sm.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://sm.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Тернопіль</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://te.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://te.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Харків</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://kh.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://kh.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Херсон</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://ks.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://ks.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Черкаси</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://ck.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://ck.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>UA: Чернігів</string>
+		<key>logo</key>
+		<string>UA</string>
+		<key>link</key>
+		<string>https://cn.suspilne.media/live</string>
+		<key>http</key>
+		<string>https://cn.suspilne.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string></string>
 		<key>logo</key>
-		<string></string>
+		<string>UA</string>
 		<key>link</key>
 		<string></string>
 		<key>http</key>
@@ -1086,7 +1286,7 @@
 		<key>name</key>
 		<string></string>
 		<key>logo</key>
-		<string></string>
+		<string>UA</string>
 		<key>link</key>
 		<string></string>
 		<key>http</key>
@@ -1096,127 +1296,7 @@
 		<key>name</key>
 		<string></string>
 		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
-		<key>link</key>
-		<string></string>
-		<key>http</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string></string>
-		<key>logo</key>
-		<string></string>
+		<string>UA</string>
 		<key>link</key>
 		<string></string>
 		<key>http</key>
