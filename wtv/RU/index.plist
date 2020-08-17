@@ -8,7 +8,7 @@
 		<key>logo</key>
 		<string>1</string>
 		<key>link</key>
-		<string>http://stream.1tv.ru/live/</string>
+		<string>https://www.1tv.ru/live</string>
 		<key>http</key>
 		<string>http://www.1tv.ru/</string>
 	</dict>
@@ -34,16 +34,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>LIFENEWS</string>
-		<key>logo</key>
-		<string>LIFENEWS</string>
-		<key>link</key>
-		<string>http://lifenews.ru/watch-live</string>
-		<key>http</key>
-		<string>http://lifenews.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>RT News</string>
 		<key>logo</key>
 		<string>RT1</string>
@@ -61,16 +51,6 @@
 		<string>http://www.otr-online.ru/online/</string>
 		<key>http</key>
 		<string>http://www.otr-online.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>МТВ Столица</string>
-		<key>logo</key>
-		<string>mtv</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/18605731?html5ui</string>
-		<key>http</key>
-		<string>http://mtv-stolica.ru/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -138,9 +118,9 @@
 		<key>logo</key>
 		<string>THT</string>
 		<key>link</key>
-		<string>http://tnt-online.ru/</string>
+		<string>https://tnt-online.ru/live</string>
 		<key>http</key>
-		<string>http://tnt-online.ru/</string>
+		<string>https://tnt-online.ru</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -178,7 +158,7 @@
 		<key>logo</key>
 		<string>TNT</string>
 		<key>link</key>
-		<string>https://tntmusic.ru/live/</string>
+		<string>https://tntmusic.ru/channel/#broadcast</string>
 		<key>http</key>
 		<string>https://tntmusic.ru</string>
 	</dict>
@@ -188,7 +168,7 @@
 		<key>logo</key>
 		<string>musicbox-tv</string>
 		<key>link</key>
-		<string>http://www.mboxtv.ru/</string>
+		<string>http://www.mboxtv.ru/pryamoj-efir</string>
 		<key>http</key>
 		<string>http://www.mboxtv.ru/</string>
 	</dict>
@@ -204,23 +184,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>KURGAN</string>
-		<key>logo</key>
-		<string>kurgan</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/18185333?html5ui</string>
-		<key>http</key>
-		<string>http://www.kurgan.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Первый Тульский</string>
 		<key>logo</key>
 		<string>1tul</string>
 		<key>link</key>
-		<string>http://www.ustream.tv/embed/18213437?html5ui </string>
+		<string>https://1tulatv.ru/live</string>
 		<key>http</key>
-		<string>http://1tulatv.ru/</string>
+		<string>https://1tulatv.ru/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -228,69 +198,19 @@
 		<key>logo</key>
 		<string>yamal</string>
 		<key>link</key>
-		<string>http://www.ustream.tv/embed/16143936?html5ui</string>
+		<string>https://yamal-region.tv/on-line/</string>
 		<key>http</key>
-		<string>http://yamal-region.tv/</string>
+		<string>https://yamal-region.tv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Ставропольское телевидение</string>
+		<string>Своё (Ставропольское телевидение)</string>
 		<key>logo</key>
 		<string>stv</string>
 		<key>link</key>
-		<string>http://www.ustream.tv/embed/21513552?html5ui</string>
+		<string>https://stv24.tv/online/</string>
 		<key>http</key>
-		<string>http://stv24.tv/index.php</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Народный Канал</string>
-		<key>logo</key>
-		<string>nk</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch?v=Du_KYJEIpm8</string>
-		<key>http</key>
-		<string>http://tvnk.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ЕДА</string>
-		<key>logo</key>
-		<string>eda</string>
-		<key>link</key>
-		<string>https://www.youtube.com/watch?v=043IEMz9WaY</string>
-		<key>http</key>
-		<string>http://www.tveda.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>КРЫМ 1</string>
-		<key>logo</key>
-		<string>krym1</string>
-		<key>link</key>
-		<string>http://1tvcrimea.ru/pages/live/1tvcrimea</string>
-		<key>http</key>
-		<string>http://1tvcrimea.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>КРЫМ 24</string>
-		<key>logo</key>
-		<string>krym24</string>
-		<key>link</key>
-		<string>http://1tvcrimea.ru/pages/live/crimea24</string>
-		<key>http</key>
-		<string>http://1tvcrimea.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ИКС-ТВ Севастополь</string>
-		<key>logo</key>
-		<string>iks</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/7958810?html5ui</string>
-		<key>http</key>
-		<string>http://ikstv.ru/</string>
+		<string>https://stv24.tv</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -300,7 +220,7 @@
 		<key>link</key>
 		<string>https://www.rt.com/on-air/rt-america-air/embed/</string>
 		<key>http</key>
-		<string>https://www.rt.com/</string>
+		<string>https://www.rt.com/on-air/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -310,7 +230,7 @@
 		<key>link</key>
 		<string>https://www.rt.com/on-air/rt-uk-air/embed/</string>
 		<key>http</key>
-		<string>https://www.rt.com/</string>
+		<string>https://www.rt.com/on-air/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -318,9 +238,9 @@
 		<key>logo</key>
 		<string>RT4</string>
 		<key>link</key>
-		<string>https://rtd.rt.com/on-air/embed/</string>
+		<string>https://rtd.rt.com/on-air/</string>
 		<key>http</key>
-		<string>https://www.rt.com/</string>
+		<string>https://rtd.rt.com/on-air/embed/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -328,39 +248,9 @@
 		<key>logo</key>
 		<string>RZD</string>
 		<key>link</key>
-		<string>http://www.rzdtv.ru/onair/</string>
+		<string>http://rzdtv.ru/onair/</string>
 		<key>http</key>
-		<string>http://www.rzdtv.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>O2</string>
-		<key>logo</key>
-		<string>O2</string>
-		<key>link</key>
-		<string>http://o2tv.ru/?page_id=4164</string>
-		<key>http</key>
-		<string>http://o2tv.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ЮМОР</string>
-		<key>logo</key>
-		<string>humor-tv</string>
-		<key>link</key>
-		<string>http://www.humor-tv.com/</string>
-		<key>http</key>
-		<string>http://www.humor-tv.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>NEBISET</string>
-		<key>logo</key>
-		<string>NEBISET</string>
-		<key>link</key>
-		<string>http://www.nebiset.tv/</string>
-		<key>http</key>
-		<string>http://www.nebiset.tv/</string>
+		<string>http://rzdtv.ru/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -384,33 +274,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>JUCE</string>
-		<key>logo</key>
-		<string>JUCE</string>
-		<key>link</key>
-		<string>http://b.tbnit.spb.ru/player/jucetv.html </string>
-		<key>http</key>
-		<string>http://www.juce.tv/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Дамам</string>
-		<key>logo</key>
-		<string>Damam</string>
-		<key>link</key>
-		<string>http://www.sovetidamam.ru/webcast.htm</string>
-		<key>http</key>
-		<string>http://www.sovetidamam.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>SHOPPING-LIVE</string>
 		<key>logo</key>
 		<string>shopping</string>
 		<key>link</key>
-		<string>http://up.mediacdn.ru/shoppinglive/</string>
+		<string>https://www.shoppinglive.ru/online</string>
 		<key>http</key>
-		<string>http://www.shoppinglive.ru/</string>
+		<string>https://www.shoppinglive.ru</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -418,9 +288,9 @@
 		<key>logo</key>
 		<string>synergy</string>
 		<key>link</key>
-		<string>http://smena.streaming.eagleplatform.com/api/player/12469/iframe.html?player_template_id=3990&amp;width=640&amp;height=360</string>
+		<string>https://synergytv.ru/</string>
 		<key>http</key>
-		<string>http://synergytv.ru/</string>
+		<string>https://synergytv.ru/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -434,53 +304,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Калининград - Первый Городской</string>
-		<key>logo</key>
-		<string>kaliningrad</string>
-		<key>link</key>
-		<string>http://kaliningrad.1gorodskoi.ru/online</string>
-		<key>http</key>
-		<string>http://kaliningrad.1gorodskoi.ru</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Киров - Первый Городской</string>
-		<key>logo</key>
-		<string>Kirov</string>
-		<key>link</key>
-		<string>http://kirov.1gorodskoi.ru/online</string>
-		<key>http</key>
-		<string>http://kirov.1gorodskoi.ru</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Н. Новгород - Первый Городской</string>
-		<key>logo</key>
-		<string>NN</string>
-		<key>link</key>
-		<string>http://nn.1gorodskoi.ru/online</string>
-		<key>http</key>
-		<string>http://nn.1gorodskoi.ru</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Казань - Первый Городской</string>
-		<key>logo</key>
-		<string>kazan1</string>
-		<key>link</key>
-		<string>http://kazan.1gorodskoi.ru/online</string>
-		<key>http</key>
-		<string>http://kazan.1gorodskoi.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>НИКА</string>
 		<key>logo</key>
 		<string>nika</string>
 		<key>link</key>
-		<string>http://nikatv.ru/radio/radio-online-veschanie</string>
+		<string>https://nikatv.ru/tv/online-veschanie</string>
 		<key>http</key>
-		<string>http://nikatv.ru/</string>
+		<string>https://nikatv.ru</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -491,16 +321,6 @@
 		<string>http://mirbelogorya.ru/live.html</string>
 		<key>http</key>
 		<string>http://mirbelogorya.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>РСН</string>
-		<key>logo</key>
-		<string>rsn</string>
-		<key>link</key>
-		<string>http://rusnovosti.ru/videos</string>
-		<key>http</key>
-		<string>http://rusnovosti.ru/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -528,19 +348,9 @@
 		<key>logo</key>
 		<string>prosvesh</string>
 		<key>link</key>
-		<string>http://www.prosveshenie.tv/onairview.php</string>
+		<string>http://www.prosveshenie.tv/</string>
 		<key>http</key>
 		<string>http://www.prosveshenie.tv/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ШАЛОМ</string>
-		<key>logo</key>
-		<string>shalom</string>
-		<key>link</key>
-		<string>http://b.tbnit.spb.ru/player/israil-tv.html</string>
-		<key>http</key>
-		<string>http://shalom.media/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -548,9 +358,9 @@
 		<key>logo</key>
 		<string>24</string>
 		<key>link</key>
-		<string>http://b.tbnit.spb.ru/player/vera24.html</string>
+		<string>https://vera24.tv/online/</string>
 		<key>http</key>
-		<string>http://vera24.tv/</string>
+		<string>https://vera24.tv</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -558,9 +368,9 @@
 		<key>logo</key>
 		<string>tbn</string>
 		<key>link</key>
-		<string>http://tbn-tv.com/online/</string>
+		<string>https://tbn-tv.com/online-us/</string>
 		<key>http</key>
-		<string>http://tbn-tv.com/online/</string>
+		<string>https://tbn-tv.com/online/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -578,7 +388,7 @@
 		<key>logo</key>
 		<string>Hope</string>
 		<key>link</key>
-		<string>http://www.hopetv.org/watch/russia/</string>
+		<string>https://hopetv.ru/</string>
 		<key>http</key>
 		<string>https://hopetv.ru/</string>
 	</dict>
@@ -648,9 +458,9 @@
 		<key>logo</key>
 		<string>Impact</string>
 		<key>link</key>
-		<string>http://impacttv.tv/new/onlinetv/</string>
+		<string>http://206.190.141.27:1935/live/impact.smil/playlist.m3u8</string>
 		<key>http</key>
-		<string>http://impacttv.tv/new/</string>
+		<string>http://impacttv.tv/onlinetv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -660,7 +470,7 @@
 		<key>link</key>
 		<string>http://www.ibrattv.com/broadcasting-ru/</string>
 		<key>http</key>
-		<string>http://www.ibrattv.com/flowplayer-for-website-ru/</string>
+		<string>http://www.ibrattv.com/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -688,39 +498,19 @@
 		<key>logo</key>
 		<string>26</string>
 		<key>link</key>
-		<string>http://www.26region.tv/online/</string>
+		<string>https://frontend.vh.yandex.ru/player/4353bd946f8a1c628afc5faf901ebf7e?from=26region.tv</string>
 		<key>http</key>
-		<string>http://www.26region.tv</string>
+		<string>https://26region.tv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Своё</string>
-		<key>logo</key>
-		<string>stv</string>
-		<key>link</key>
-		<string>http://stv24.tv/online/</string>
-		<key>http</key>
-		<string>http://stv24.tv</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Катунь 24</string>
+		<string>K24 Катунь</string>
 		<key>logo</key>
 		<string>K24</string>
 		<key>link</key>
-		<string>http://www.katun24.ru/</string>
+		<string>https://katun24.ru/k24</string>
 		<key>http</key>
-		<string>http://www.katun24.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>АИСТ</string>
-		<key>logo</key>
-		<string>AIST</string>
-		<key>link</key>
-		<string>http://aisttv.ru/live/</string>
-		<key>http</key>
-		<string>http://aisttv.ru</string>
+		<string>https://katun24.ru</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -728,9 +518,9 @@
 		<key>logo</key>
 		<string>Krasnodar</string>
 		<key>link</key>
-		<string>http://tvkrasnodar.ru/pryamoj-efir/</string>
+		<string>https://tvkrasnodar.ru/tv/pryamoy-efir/</string>
 		<key>http</key>
-		<string>http://tvkrasnodar.ru</string>
+		<string>https://tvkrasnodar.ru</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -754,23 +544,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ТРК Пенза</string>
-		<key>logo</key>
-		<string>Penza</string>
-		<key>link</key>
-		<string>http://tv-penza.ru/</string>
-		<key>http</key>
-		<string>http://tv-penza.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>ТРК Казань</string>
+		<string>Эфир</string>
 		<key>logo</key>
 		<string>Kazan</string>
 		<key>link</key>
-		<string>http://kzn.tv/online/</string>
+		<string>http://www.efir24.tv/kazan/player/efir.php</string>
 		<key>http</key>
-		<string>http://kzn.tv/projects/live/</string>
+		<string>http://www.efir24.tv</string>
 	</dict>
 	<dict>
 		<key>name</key>
