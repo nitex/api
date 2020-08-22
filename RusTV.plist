@@ -425,9 +425,9 @@
 			<key>logo</key>
 			<string>1HD</string>
 			<key>link</key>
-			<string>http://1hd.ru/</string>
+			<string>https://1hd.ru/</string>
 			<key>http</key>
-			<string>http://1hd.ru/</string>
+			<string>https://1hd.ru/</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -448,16 +448,6 @@
 			<string>http://www.globalstar.tv/online.aspx</string>
 			<key>http</key>
 			<string>http://www.globalstar.tv</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Top Shop</string>
-			<key>logo</key>
-			<string>Shop</string>
-			<key>link</key>
-			<string>http://www.top-shop.ru/genre/12-tv-tovary/</string>
-			<key>http</key>
-			<string>https://www.youtube.com/user/TopShopRU/videos?live_view=501&amp;flow=grid&amp;view=2</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -495,9 +485,9 @@
 			<key>logo</key>
 			<string>Dagestan</string>
 			<key>link</key>
-			<string>http://www.rgvktv.ru/live</string>
+			<string>https://www.rgvktv.ru/live</string>
 			<key>http</key>
-			<string>http://www.rgvktv.ru</string>
+			<string>https://www.rgvktv.ru</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -661,6 +651,46 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Shop And Show</string>
+			<key>logo</key>
+			<string>And</string>
+			<key>link</key>
+			<string>https://shopandshow.ru/onair/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/c/ShopShow/videos?view=2&amp;live_view=501</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Shop</string>
+			<key>logo</key>
+			<string>Shop</string>
+			<key>link</key>
+			<string>http://www.top-shop.ru/genre/12-tv-tovary/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/user/TopShopRU/videos?live_view=501&amp;flow=grid&amp;view=2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LEOMAX24</string>
+			<key>logo</key>
+			<string>LEOMAX24</string>
+			<key>link</key>
+			<string>https://www.leomax24.ru/telecast/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/c/Shop24com/videos?view=2&amp;live_view=501</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LEOMAX+</string>
+			<key>logo</key>
+			<string>LEOMAX+</string>
+			<key>link</key>
+			<string>https://www.leomax24.ru/leomax-plus/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/channel/UCf9drl7pFjRIZoVd7WXDW4g/videos?view=2&amp;live_view=501</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Вместе-РФ</string>
 			<key>logo</key>
 			<string>vmeste</string>
@@ -685,9 +715,9 @@
 			<key>logo</key>
 			<string>Kuban</string>
 			<key>link</key>
-			<string>http://kuban24.tv/tv/</string>
+			<string>https://kuban24.tv/tv/</string>
 			<key>http</key>
-			<string>http://kuban24.tv</string>
+			<string>https://kuban24.tv</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -808,6 +838,986 @@
 			<string>https://superkanal.ru/live</string>
 			<key>http</key>
 			<string>https://superkanal.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Жар-Птица</string>
+			<key>logo</key>
+			<string>Zhar</string>
+			<key>link</key>
+			<string>http://www.zhar-ptica.tv/</string>
+			<key>http</key>
+			<string>http://www.zhar-ptica.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Калейдоскоп</string>
+			<key>logo</key>
+			<string>Kaleydoskop</string>
+			<key>link</key>
+			<string>http://www.kaleidoskoptv.tv/online/</string>
+			<key>http</key>
+			<string>http://www.kaleidoskoptv.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Точка</string>
+			<key>logo</key>
+			<string>Tochka</string>
+			<key>link</key>
+			<string>https://tochkatv.tv/onlajn-veshhanie.html</string>
+			<key>http</key>
+			<string>https://tochkatv.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UNIVER</string>
+			<key>logo</key>
+			<string>UNIVER</string>
+			<key>link</key>
+			<string>https://universmotri.ru/index.php/live/univertv</string>
+			<key>http</key>
+			<string>https://universmotri.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>КФУ</string>
+			<key>logo</key>
+			<string>KFU</string>
+			<key>link</key>
+			<string>https://universmotri.ru/index.php/live/kfutv</string>
+			<key>http</key>
+			<string>https://universmotri.ru/index.php/live/kfutv-2</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Океан</string>
+			<key>logo</key>
+			<string>OCEAN</string>
+			<key>link</key>
+			<string>http://ocean-tv.media/programma/</string>
+			<key>http</key>
+			<string>http://ocean-tv.media</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Большая Азия</string>
+			<key>logo</key>
+			<string>Big</string>
+			<key>link</key>
+			<string>https://bigasia.ru/tv/</string>
+			<key>http</key>
+			<string>https://bigasia.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>7</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://7-tv.tv/</string>
+			<key>http</key>
+			<string>http://7-tv.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TVM</string>
+			<key>logo</key>
+			<string>TVM</string>
+			<key>link</key>
+			<string>https://tvmchannel.ru/</string>
+			<key>http</key>
+			<string>http://tvmchannel.ru/videoplayer1.html</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Продвижение</string>
+			<key>logo</key>
+			<string>Prod</string>
+			<key>link</key>
+			<string>https://pro-tv.info/live/</string>
+			<key>http</key>
+			<string>https://pro-tv.info</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Министерство Идей</string>
+			<key>logo</key>
+			<string>Idey</string>
+			<key>link</key>
+			<string>https://minidey.ru/prjamoj-jefir/</string>
+			<key>http</key>
+			<string>https://minidey.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Russian America</string>
+			<key>logo</key>
+			<string>America</string>
+			<key>link</key>
+			<string>https://russianamerica.tv/live-stream</string>
+			<key>http</key>
+			<string>https://russianamerica.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Волга</string>
+			<key>logo</key>
+			<string>Volga</string>
+			<key>link</key>
+			<string>https://www.volga-tv.ru/live/</string>
+			<key>http</key>
+			<string>https://www.volga-tv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>OTB Екатеринбург</string>
+			<key>logo</key>
+			<string>OTB</string>
+			<key>link</key>
+			<string>https://www.obltv.ru/broadcasting/online/</string>
+			<key>http</key>
+			<string>https://www.obltv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Каскад Калининград</string>
+			<key>logo</key>
+			<string>Kaskad</string>
+			<key>link</key>
+			<string>https://kaskad.tv/efir</string>
+			<key>http</key>
+			<string>https://kaskad.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Солнечногорское</string>
+			<key>logo</key>
+			<string>Soln</string>
+			<key>link</key>
+			<string>https://solntv.ru/</string>
+			<key>http</key>
+			<string>https://solntv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TBP24 Сергиев Посад</string>
+			<key>logo</key>
+			<string>TBP24</string>
+			<key>link</key>
+			<string>https://tvr24.tv/live-broadcast</string>
+			<key>http</key>
+			<string>https://tvr24.tv/playlist.m3u</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HHTB (Н. Новгород)</string>
+			<key>logo</key>
+			<string>HHTB</string>
+			<key>link</key>
+			<string>http://nntv.tv/online</string>
+			<key>http</key>
+			<string>http://nntv.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Губерния 33 Владимир</string>
+			<key>logo</key>
+			<string>Vladimir</string>
+			<key>link</key>
+			<string>https://trc33.ru/tv/</string>
+			<key>http</key>
+			<string>https://trc33.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Чӑваш Ен</string>
+			<key>logo</key>
+			<string>Chavash</string>
+			<key>link</key>
+			<string>http://www.ntrk21.ru/live</string>
+			<key>http</key>
+			<string>http://www.ntrk21.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maidan</string>
+			<key>logo</key>
+			<string>Maidan</string>
+			<key>link</key>
+			<string>https://maidan.tv/</string>
+			<key>http</key>
+			<string>https://maidan.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Хузур</string>
+			<key>logo</key>
+			<string>Huzur</string>
+			<key>link</key>
+			<string>http://playercdn.cdnvideo.ru/aloha/players/mycdn08724960135_player_stream1.html</string>
+			<key>http</key>
+			<string>http://huzurtv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>АРИС</string>
+			<key>logo</key>
+			<string>Aris</string>
+			<key>link</key>
+			<string>http://aris-tv.ru/aris-24</string>
+			<key>http</key>
+			<string>http://aris-tv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Вся Уфа</string>
+			<key>logo</key>
+			<string>Ufa</string>
+			<key>link</key>
+			<string>https://www.allufa.ru/online/</string>
+			<key>http</key>
+			<string>https://www.allufa.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>OTC</string>
+			<key>logo</key>
+			<string>OTC</string>
+			<key>link</key>
+			<string>http://otstv.ru/efirots.php</string>
+			<key>http</key>
+			<string>http://otstv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>8 Новосибирск</string>
+			<key>logo</key>
+			<string>Novosibirsk</string>
+			<key>link</key>
+			<string>http://nsk.8tv.ru/bc.html</string>
+			<key>http</key>
+			<string>http://nsk.8tv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>12 Канал Омск</string>
+			<key>logo</key>
+			<string>12</string>
+			<key>link</key>
+			<string>https://12-kanal.ru/online/</string>
+			<key>http</key>
+			<string>https://12-kanal.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Сочи 24</string>
+			<key>logo</key>
+			<string>Sochi</string>
+			<key>link</key>
+			<string>https://sochi24.tv/online</string>
+			<key>http</key>
+			<string>https://sochi24.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SOCHI LIVE</string>
+			<key>logo</key>
+			<string>SOCH</string>
+			<key>link</key>
+			<string>https://sochilive.tv/#translation</string>
+			<key>http</key>
+			<string>https://sochilive.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Инфо 24</string>
+			<key>logo</key>
+			<string>Info24</string>
+			<key>link</key>
+			<string>http://info24tv.ru/online/</string>
+			<key>http</key>
+			<string>http://info24tv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ингушетия</string>
+			<key>logo</key>
+			<string>Ingushetiya</string>
+			<key>link</key>
+			<string>https://ingushetiya.tv/pryamoy-yefir/</string>
+			<key>http</key>
+			<string>https://ingushetiya.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Губерния Хабаровск</string>
+			<key>logo</key>
+			<string>Gubernia</string>
+			<key>link</key>
+			<string>https://www.gubernia.com/projects/online/</string>
+			<key>http</key>
+			<string>https://www.gubernia.com</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CEBEP</string>
+			<key>logo</key>
+			<string>CEBEP</string>
+			<key>link</key>
+			<string>http://trksever.ru/on-line/</string>
+			<key>http</key>
+			<string>http://trksever.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Юрган (Сыктывкар)</string>
+			<key>logo</key>
+			<string>Urgan</string>
+			<key>link</key>
+			<string>http://www.xn--80af5aj3e.xn--p1ai/online</string>
+			<key>http</key>
+			<string>http://www.xn--80af5aj3e.xn--p1ai/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ЮТВ Чебоксары</string>
+			<key>logo</key>
+			<string>UTV</string>
+			<key>link</key>
+			<string>http://xn--21-dlc7dxc.xn--p1ai/pryamoj-efir.html</string>
+			<key>http</key>
+			<string>http://xn--21-dlc7dxc.xn--p1ai/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>МосОбр</string>
+			<key>logo</key>
+			<string>MosObr</string>
+			<key>link</key>
+			<string>https://mosobr.tv/</string>
+			<key>http</key>
+			<string>https://mosobr.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Саратов 24</string>
+			<key>logo</key>
+			<string>Saratov</string>
+			<key>link</key>
+			<string>https://saratov24.tv/online/</string>
+			<key>http</key>
+			<string>https://saratov24.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>11 Канал (Пенза)</string>
+			<key>logo</key>
+			<string>11</string>
+			<key>link</key>
+			<string>http://www.penzainform.ru/tv/online/11channel.html</string>
+			<key>http</key>
+			<string>http://www.penzainform.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Липецкое время</string>
+			<key>logo</key>
+			<string>Lipeck</string>
+			<key>link</key>
+			<string>http://lipetsktime.ru/tv/online.php</string>
+			<key>http</key>
+			<string>http://lipetsktime.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Губерния (Воронеж)</string>
+			<key>logo</key>
+			<string>Voronej</string>
+			<key>link</key>
+			<string>http://tv-gubernia.ru/online/</string>
+			<key>http</key>
+			<string>http://tv-gubernia.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Губерния (Самара)</string>
+			<key>logo</key>
+			<string>Samara</string>
+			<key>link</key>
+			<string>https://sova.info/tv/online/</string>
+			<key>http</key>
+			<string>https://sova.info</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Моя Удмуртия</string>
+			<key>logo</key>
+			<string>Moya</string>
+			<key>link</key>
+			<string>http://www.myudm.ru/online-efir-udmurtia</string>
+			<key>http</key>
+			<string>http://www.myudm.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>OPT Оренбург</string>
+			<key>logo</key>
+			<string>OPT</string>
+			<key>link</key>
+			<string>https://media56.ru/live/</string>
+			<key>http</key>
+			<string>https://media56.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ВЕТТА 24</string>
+			<key>logo</key>
+			<string>VETTA</string>
+			<key>link</key>
+			<string>https://vetta.tv/online/</string>
+			<key>http</key>
+			<string>https://vetta.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Астрахань 24</string>
+			<key>logo</key>
+			<string>Astrahan</string>
+			<key>link</key>
+			<string>https://astrakhan-24.ru/live</string>
+			<key>http</key>
+			<string>https://astrakhan-24.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Экспресс (Пенза)</string>
+			<key>logo</key>
+			<string>Ekspres</string>
+			<key>link</key>
+			<string>http://tv-express.ru/</string>
+			<key>http</key>
+			<string>http://tv-express.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Енисей</string>
+			<key>logo</key>
+			<string>Enisey</string>
+			<key>link</key>
+			<string>https://www.enisey.tv/live/</string>
+			<key>http</key>
+			<string>https://www.enisey.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HTM - Народное Телевидение Мордовии</string>
+			<key>logo</key>
+			<string>HTM</string>
+			<key>link</key>
+			<string>https://ntm13.ru/</string>
+			<key>http</key>
+			<string>https://ntm13.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Тольятти 24</string>
+			<key>logo</key>
+			<string>Tolyati</string>
+			<key>link</key>
+			<string>http://vaztv.ru/live/</string>
+			<key>http</key>
+			<string>http://vaztv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ЭХО-ТВ 24 Новоуральск</string>
+			<key>logo</key>
+			<string>EXO24</string>
+			<key>link</key>
+			<string>http://novouralsk-news.ru/%D1%8D%D1%85%D0%BE-%D1%82%D0%B2-24/</string>
+			<key>http</key>
+			<string>http://stream.novouralsk-news.ru/echotv24/live.m3u8</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Городской (Брянск)</string>
+			<key>logo</key>
+			<string>Gorodskoy</string>
+			<key>link</key>
+			<string>https://gorod-tv.com/static/onair</string>
+			<key>http</key>
+			<string>https://gorod-tv.com</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Русский Север (Вологда)</string>
+			<key>logo</key>
+			<string>Sever</string>
+			<key>link</key>
+			<string>http://rusevertv.ru/</string>
+			<key>http</key>
+			<string>http://rusevertv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ЛУЧ</string>
+			<key>logo</key>
+			<string>Luch</string>
+			<key>link</key>
+			<string>https://trk-luch.ru/online/</string>
+			<key>http</key>
+			<string>https://trk-luch.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TPK CKAT</string>
+			<key>logo</key>
+			<string>CKAT</string>
+			<key>link</key>
+			<string>https://www.scat-tv.ru/online/</string>
+			<key>http</key>
+			<string>https://www.scat-tv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Татарстан-24</string>
+			<key>logo</key>
+			<string>Tatarstan</string>
+			<key>link</key>
+			<string>http://tatarstan24.tv/news/rubric/list/programmy-telekanala</string>
+			<key>http</key>
+			<string>http://tatarstan24.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZAB.TV</string>
+			<key>logo</key>
+			<string>ZAB</string>
+			<key>link</key>
+			<string>https://zab.tv/live</string>
+			<key>http</key>
+			<string>https://zab.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Рыбинск-40</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://r40.ru/live/</string>
+			<key>http</key>
+			<string>http://r40.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ТКР Рязань</string>
+			<key>logo</key>
+			<string>TKP</string>
+			<key>link</key>
+			<string>https://www.tkr.su/online</string>
+			<key>http</key>
+			<string>https://www.tkr.su</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Белгород 24</string>
+			<key>logo</key>
+			<string>Belgorod</string>
+			<key>link</key>
+			<string>https://www.belnovosti.ru/live24.html</string>
+			<key>http</key>
+			<string>https://www.belnovosti.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ТВК Красноярск</string>
+			<key>logo</key>
+			<string>TBK</string>
+			<key>link</key>
+			<string>https://tvk6.ru/</string>
+			<key>http</key>
+			<string>https://tvk6.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ариг Ус 24</string>
+			<key>logo</key>
+			<string>Arig</string>
+			<key>link</key>
+			<string>https://arigus.tv/tv/</string>
+			<key>http</key>
+			<string>https://arigus.tv/tv/24.php</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Вестник Надыма</string>
+			<key>logo</key>
+			<string>Nadym</string>
+			<key>link</key>
+			<string>http://trknadym.ru/online/</string>
+			<key>http</key>
+			<string>http://trknadym.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Импульс (Новый Уренгой)</string>
+			<key>logo</key>
+			<string>Impuls</string>
+			<key>link</key>
+			<string>https://www.tv-impulse.ru/air/</string>
+			<key>http</key>
+			<string>https://www.tv-impulse.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Самара-ГИС</string>
+			<key>logo</key>
+			<string>GIS</string>
+			<key>link</key>
+			<string>https://samaragis.ru/pryamoj-efir-samara-gis/</string>
+			<key>http</key>
+			<string>https://samaragis.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HOBO-TB (Новокузнецк)</string>
+			<key>logo</key>
+			<string>HOBO</string>
+			<key>link</key>
+			<string>http://novotv.ru/</string>
+			<key>http</key>
+			<string>http://novotv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>МИГ</string>
+			<key>logo</key>
+			<string>MIG</string>
+			<key>link</key>
+			<string>https://tvmig.ru/stream/</string>
+			<key>http</key>
+			<string>https://tvmig.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Алмазный край</string>
+			<key>logo</key>
+			<string>Almaz</string>
+			<key>link</key>
+			<string>https://almaz-media.tv/iptv.html</string>
+			<key>http</key>
+			<string>https://almaz-media.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Якутия 24</string>
+			<key>logo</key>
+			<string>Yakutia</string>
+			<key>link</key>
+			<string>https://yk24.ru/index/strimyi/live</string>
+			<key>http</key>
+			<string>https://yk24.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Туапсе24</string>
+			<key>logo</key>
+			<string>Tuapse24</string>
+			<key>link</key>
+			<string>http://tuapse24.tv/on-line/</string>
+			<key>http</key>
+			<string>http://tuapse24.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Евразия - Орск</string>
+			<key>logo</key>
+			<string>Orsk</string>
+			<key>link</key>
+			<string>http://eurasia.orsk.ru/</string>
+			<key>http</key>
+			<string>http://eurasia.orsk.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Тивиком (Улан-Удэ)</string>
+			<key>logo</key>
+			<string>tvcom</string>
+			<key>link</key>
+			<string>https://tvcom-tv.ru/online.html</string>
+			<key>http</key>
+			<string>https://tvcom-tv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>41 (Воронеж)</string>
+			<key>logo</key>
+			<string>41</string>
+			<key>link</key>
+			<string>http://41-tv.ru/pryamoj-efir/</string>
+			<key>http</key>
+			<string>http://41-tv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Центр Красноярск</string>
+			<key>logo</key>
+			<string>Centr</string>
+			<key>link</key>
+			<string>https://www.tck.tv/</string>
+			<key>http</key>
+			<string>https://www.tck.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Вариант (Владимир)</string>
+			<key>logo</key>
+			<string>Variant</string>
+			<key>link</key>
+			<string>http://variant-v.ru/online/</string>
+			<key>http</key>
+			<string>http://variant-v.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TMTV Татарстан</string>
+			<key>logo</key>
+			<string>TMTV</string>
+			<key>link</key>
+			<string>https://tmtv.tatar/2017/?page_id=407</string>
+			<key>http</key>
+			<string>https://tmtv.tatar</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>41 Регион (Камчатка)</string>
+			<key>logo</key>
+			<string>Region</string>
+			<key>link</key>
+			<string>https://41region.tv/</string>
+			<key>http</key>
+			<string>https://www.youtube.com/channel/UCtpckPN5SqTinhLJCp6egSw/videos?view=2&amp;live_view=501</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Первый Псковский</string>
+			<key>logo</key>
+			<string>Pskov</string>
+			<key>link</key>
+			<string>http://1pskov.tv/</string>
+			<key>http</key>
+			<string>http://1pskov.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Кузбасс 1</string>
+			<key>logo</key>
+			<string>Kuzbass</string>
+			<key>link</key>
+			<string>https://kuzbass1.ru/kuzbass1hd-online</string>
+			<key>http</key>
+			<string>https://kuzbass1.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Квант</string>
+			<key>logo</key>
+			<string>Kvant</string>
+			<key>link</key>
+			<string>https://tmkvant.ru/</string>
+			<key>http</key>
+			<string>https://tmkvant.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Region04.online Алтай</string>
+			<key>logo</key>
+			<string>Region04.online</string>
+			<key>link</key>
+			<string>http://region04.online/online</string>
+			<key>http</key>
+			<string>http://region04.online</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Самотлор</string>
+			<key>logo</key>
+			<string>Samotlor</string>
+			<key>link</key>
+			<string>http://online.samotlor.tv/</string>
+			<key>http</key>
+			<string>https://samotlor.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TOK TB</string>
+			<key>logo</key>
+			<string>TOK</string>
+			<key>link</key>
+			<string>https://xn--b1aplpc.xn--p1ai/</string>
+			<key>http</key>
+			<string>https://xn--b1aplpc.xn--p1ai/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ОТВ Одинцово</string>
+			<key>logo</key>
+			<string>Odintsovo</string>
+			<key>link</key>
+			<string>http://otv.odintv.ru/otv-online/</string>
+			<key>http</key>
+			<string>http://otv.odintv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MTVMIX Уфа</string>
+			<key>logo</key>
+			<string>MTVMIX</string>
+			<key>link</key>
+			<string>http://mtvmix.ru/online</string>
+			<key>http</key>
+			<string>http://mtvmix.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BRICS</string>
+			<key>logo</key>
+			<string>BRICS</string>
+			<key>link</key>
+			<string>https://tvbrics.com/live/</string>
+			<key>http</key>
+			<string>https://tvbrics.com</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ювелирочка</string>
+			<key>logo</key>
+			<string>Uvelirochka</string>
+			<key>link</key>
+			<string>https://xn--80adjmkewp8d3c.xn--p1ai/online/</string>
+			<key>http</key>
+			<string>https://xn--80adjmkewp8d3c.xn--p1ai</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IvanovoNews Барс</string>
+			<key>logo</key>
+			<string>IvanovoNews</string>
+			<key>link</key>
+			<string>https://www.ivanovonews.ru/live/</string>
+			<key>http</key>
+			<string>https://www.ivanovonews.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>КРИК</string>
+			<key>logo</key>
+			<string>KRIK</string>
+			<key>link</key>
+			<string>http://kriknews.ru/</string>
+			<key>http</key>
+			<string>http://www.ricekb.ru/?ELEMENT_ID=1847</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Мордовия 24 (Саранск)</string>
+			<key>logo</key>
+			<string>Mordovia</string>
+			<key>link</key>
+			<string>https://info-rm.com/</string>
+			<key>http</key>
+			<string>https://info-rm.com/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Сургут 24</string>
+			<key>logo</key>
+			<string>Surgut</string>
+			<key>link</key>
+			<string>https://in-news.ru/tv/</string>
+			<key>http</key>
+			<string>https://in-news.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Славянский МIРЪ</string>
+			<key>logo</key>
+			<string>Slav</string>
+			<key>link</key>
+			<string>https://www.slavmir.tv/</string>
+			<key>http</key>
+			<string>https://www.slavmir.tv/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ТНВ-Планета</string>
+			<key>logo</key>
+			<string>THB</string>
+			<key>link</key>
+			<string>https://tnv.ru/</string>
+			<key>http</key>
+			<string>https://tnv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Томское время</string>
+			<key>logo</key>
+			<string>Tomsk</string>
+			<key>link</key>
+			<string>https://tomsk-time.ru/</string>
+			<key>http</key>
+			<string>https://tomsk-time.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Первый Ярославский</string>
+			<key>logo</key>
+			<string>1yar</string>
+			<key>link</key>
+			<string>https://1yar.tv/live/</string>
+			<key>http</key>
+			<string>https://1yar.tv</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Новгород-ТВ</string>
+			<key>logo</key>
+			<string>Novgorod</string>
+			<key>link</key>
+			<string>https://novgorod-tv.ru/pryamoj-efir.html</string>
+			<key>http</key>
+			<string>https://novgorod-tv.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HBK CAXA</string>
+			<key>logo</key>
+			<string>CAXA</string>
+			<key>link</key>
+			<string>http://nvk-online.ru/new/online/</string>
+			<key>http</key>
+			<string>http://nvk-online.ru</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Матур</string>
+			<key>logo</key>
+			<string>Matur</string>
+			<key>link</key>
+			<string>https://matur-tv.ru/</string>
+			<key>http</key>
+			<string>https://matur-tv.ru/</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ЧГТРК Грозный</string>
+			<key>logo</key>
+			<string>Grozny</string>
+			<key>link</key>
+			<string>https://grozny.tv/live.php</string>
+			<key>http</key>
+			<string>https://grozny.tv</string>
 		</dict>
 	</array>
 </dict>
