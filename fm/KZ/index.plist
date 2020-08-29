@@ -51,11 +51,83 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Gakku</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gakku</string>
 			<key>link</key>
+			<string>http://stream.gakku.tv/radio/recordfm_192.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Qazaq Radıosy</string>
+			<key>logo</key>
+			<string>Qazaq</string>
+			<key>link</key>
+			<string>http://onradio.kaztrk.kz:8000/kazradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shalqar Radıosy</string>
+			<key>logo</key>
+			<string>Shalqar</string>
+			<key>link</key>
+			<string>http://onradio.kaztrk.kz:8000/shalkar.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Astana Radıosy 101.4 FM</string>
+			<key>logo</key>
+			<string>Astana</string>
+			<key>link</key>
+			<string>http://onradio.kaztrk.kz:8000/astana.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic Radıosy</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://onradio.kaztrk.kz:8000/classic.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Жұлдыз</string>
+			<key>logo</key>
+			<string>Zhuldyz</string>
+			<key>link</key>
+			<string>http://195.210.47.197:8000/zhulduz.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youth Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dala</string>
+			<key>logo</key>
+			<string>Dala</string>
+			<key>link</key>
+			<string>http://95.56.234.40:8080/DALA_128.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +135,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Русское Радио Казахстан</string>
 			<key>logo</key>
-			<string></string>
+			<string>Russkoe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://31.148.22.35:9000/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +147,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Business</string>
 			<key>logo</key>
-			<string></string>
+			<string>Business</string>
 			<key>link</key>
-			<string></string>
+			<string>http://94.247.130.243:5050/business.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +159,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>NS</string>
 			<key>logo</key>
-			<string></string>
+			<string>NS</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ne.fm/mp3/radions-kz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +171,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Авторадио</string>
 			<key>logo</key>
-			<string></string>
+			<string>Avtoradio</string>
 			<key>link</key>
+			<string>http://ps.ne.fm/AVTORADIO.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Дача 107.3 FM</string>
+			<key>logo</key>
+			<string>Dacha</string>
+			<key>link</key>
+			<string>https://stream.gakku.tv/dacha.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,107 +195,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Lux</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lux</string>
 			<key>link</key>
-			<string></string>
+			<string>http://icecastlv.luxnet.ua/lux_kz.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>City</string>
 			<key>logo</key>
-			<string></string>
+			<string>City</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://94.247.130.243:5050/city.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
