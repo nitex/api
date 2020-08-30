@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>106 FM</string>
+			<key>logo</key>
+			<string>106</string>
+			<key>link</key>
+			<string>http://85.132.81.184:8080/106new/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antenn 101 FM</string>
+			<key>logo</key>
+			<string>Antenn</string>
+			<key>link</key>
+			<string>http://85.132.71.10:8000/antenn-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Araz FM 103.3 FM</string>
+			<key>logo</key>
+			<string>Araz</string>
+			<key>link</key>
+			<string>http://s39.myradiostream.com:5458/listen.pls</string>
+			<key>http</key>
+			<string>http://s14.myradiostream.com:30454/listen.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ASAN 100.0 FM</string>
+			<key>logo</key>
+			<string>ASAN</string>
+			<key>link</key>
+			<string>http://94.20.74.206:4448/stream1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Avto FM 107.7</string>
+			<key>logo</key>
+			<string>Avto</string>
+			<key>link</key>
+			<string>http://85.132.71.10:8000/avtofm.m3u</string>
+			<key>http</key>
+			<string>http://85.132.71.10:8000/avtofm</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Azad 106.3 FM</string>
+			<key>logo</key>
+			<string>Azad</string>
+			<key>link</key>
+			<string>http://85.132.71.10:8000/atv1063fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fərqli 100.5 FM</string>
+			<key>logo</key>
+			<string>fergli</string>
+			<key>link</key>
+			<string>http://s31.myradiostream.com:7572/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ictimai 90.0 FM</string>
+			<key>logo</key>
+			<string>ictimai</string>
+			<key>link</key>
+			<string>http://85.132.81.13:8888/2702</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kəpəz FM 93.3</string>
+			<key>logo</key>
+			<string>kepez</string>
+			<key>link</key>
+			<string>http://85.132.78.122:3344/now.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Gəncə (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Media FM 105.5</string>
+			<key>logo</key>
+			<string>Media</string>
+			<key>link</key>
+			<string>http://85.132.71.10:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vətən 92.3 FM</string>
+			<key>logo</key>
+			<string>veten</string>
+			<key>link</key>
+			<string>https://node-16.zeno.fm/0kgkkzanmueuv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xəzər Hit FM 103.0</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://s30.myradiostream.com:32684/listen.pls</string>
+			<key>http</key>
+			<string>https://s30.myradiostream.com/32684/listen.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+	</array>
+</dict>
+</plist>
