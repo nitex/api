@@ -73,9 +73,9 @@
 			<key>logo</key>
 			<string>ARB</string>
 			<key>link</key>
-			<string>http://www.arbtv.az/az/pages/canli_yayim</string>
+			<string>http://arbtv.az/az/pages/live</string>
 			<key>http</key>
-			<string>http://www.arbtv.az</string>
+			<string>http://www.arbtv.az/az/pages/canli_yayim</string>
 		</dict>
 		<dict>
 			<key>country</key>
@@ -121,9 +121,9 @@
 			<key>logo</key>
 			<string>Lider</string>
 			<key>link</key>
-			<string>http://www.lidertv.com/az/onlinetv.html</string>
+			<string>http://www.lidertv.com/</string>
 			<key>http</key>
-			<string>http://www.lidertv.com</string>
+			<string>http://www.lidertv.com/az/onlinetv.html</string>
 		</dict>
 		<dict>
 			<key>country</key>
@@ -145,9 +145,9 @@
 			<key>logo</key>
 			<string>InterAz</string>
 			<key>link</key>
-			<string>http://www.interaztv.com/live/</string>
+			<string>https://interaztv.com/stream/</string>
 			<key>http</key>
-			<string>http://www.interaztv.com</string>
+			<string>https://interaztv.com</string>
 		</dict>
 		<dict>
 			<key>country</key>
@@ -157,9 +157,9 @@
 			<key>logo</key>
 			<string>APA</string>
 			<key>link</key>
-			<string>http://www.apa.tv/live</string>
+			<string>https://www.apa.tv/live</string>
 			<key>http</key>
-			<string>http://www.apa.tv/</string>
+			<string>https://www.apa.tv/</string>
 		</dict>
 		<dict>
 			<key>country</key>
@@ -169,7 +169,7 @@
 			<key>logo</key>
 			<string>idman</string>
 			<key>link</key>
-			<string>http://www.idmantv.az/canli/idman-canli-yayim.htm</string>
+			<string>http://yoda.az/idmanlive/index.php</string>
 			<key>http</key>
 			<string>http://www.idmantv.az</string>
 		</dict>
@@ -181,7 +181,7 @@
 			<key>logo</key>
 			<string>medeniyyet</string>
 			<key>link</key>
-			<string>http://medeniyyettv.az/canliyayim.html</string>
+			<string>http://yoda.az/medenlive/index.php</string>
 			<key>http</key>
 			<string>http://medeniyyettv.az</string>
 		</dict>
@@ -645,30 +645,6 @@
 			<key>country</key>
 			<string>Россия</string>
 			<key>name</key>
-			<string>CTC</string>
-			<key>logo</key>
-			<string>CTC</string>
-			<key>link</key>
-			<string>https://ctc.ru/online/</string>
-			<key>http</key>
-			<string>https://ctc.ru</string>
-		</dict>
-		<dict>
-			<key>country</key>
-			<string>Россия</string>
-			<key>name</key>
-			<string>CTC Love</string>
-			<key>logo</key>
-			<string>Love</string>
-			<key>link</key>
-			<string>https://www.ctclove.ru/online/</string>
-			<key>http</key>
-			<string>https://www.ctclove.ru</string>
-		</dict>
-		<dict>
-			<key>country</key>
-			<string>Россия</string>
-			<key>name</key>
 			<string>НТВ</string>
 			<key>logo</key>
 			<string>NTV1</string>
@@ -796,18 +772,6 @@
 			<string>https://rtd.rt.com/on-air/embed/</string>
 			<key>http</key>
 			<string>https://www.rt.com/</string>
-		</dict>
-		<dict>
-			<key>country</key>
-			<string>Россия</string>
-			<key>name</key>
-			<string>ЛенТВ 24</string>
-			<key>logo</key>
-			<string>24</string>
-			<key>link</key>
-			<string>https://lentv24.ru/timetable/</string>
-			<key>http</key>
-			<string>https://47channel.ru/on_air/</string>
 		</dict>
 		<dict>
 			<key>country</key>
@@ -945,13 +909,13 @@
 			<key>country</key>
 			<string>Україна</string>
 			<key>name</key>
-			<string>ПЕРШИЙ</string>
+			<string>UA: ПЕРШИЙ</string>
 			<key>logo</key>
 			<string>ua1</string>
 			<key>link</key>
-			<string>http://1tv.com.ua/live</string>
+			<string>https://tv.suspilne.media/live</string>
 			<key>http</key>
-			<string>http://1tv.com.ua/</string>
+			<string>https://tv.suspilne.media</string>
 		</dict>
 		<dict>
 			<key>country</key>
