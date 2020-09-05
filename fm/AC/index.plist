@@ -51,11 +51,47 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Duma FM</string>
+			<key>logo</key>
+			<string>Duma</string>
+			<key>link</key>
+			<string>http://50.7.99.163:16170/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Botswana</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Gabz FM 96.2</string>
 			<key>logo</key>
 			<string>Gabz</string>
 			<key>link</key>
+			<string>http://fmt01.egihosting.com:17721/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/gabz-fm-96-2,18262.m3u</string>
+			<key>note</key>
+			<string>Botswana</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RB1</string>
+			<key>logo</key>
+			<string>RB1</string>
+			<key>link</key>
+			<string>http://168.167.134.26:8000/rb1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Botswana</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RB2 103.0 FM</string>
+			<key>logo</key>
+			<string>RB2</string>
+			<key>link</key>
+			<string>http://168.167.134.26:8000/rb2.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
