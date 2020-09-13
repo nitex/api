@@ -195,27 +195,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RNA Antalaha Madagascar</string>
+			<string>K-Radio 97.2 FM</string>
 			<key>logo</key>
-			<string>RNA</string>
+			<string>K</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-rna-antalaha-madagascar,14407.m3u</string>
+			<string>http://www.k-ent.sc:8000/kradio.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.k-ent.sc:8000/kradio.mp3</string>
 			<key>note</key>
-			<string>Madagascar</string>
+			<string>Seychelles</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Vazogasy</string>
+			<string>Pure FM 90.7</string>
 			<key>logo</key>
-			<string>Vazogasy</string>
+			<string>Pure</string>
 			<key>link</key>
-			<string>https://radiovazogasy.com/media/player/winamp.pls</string>
+			<string>http://radio.sbc.sc:8010/purefmlive.mp3.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-vazogasy,6583.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Madagascar</string>
+			<string>Seychelles</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SBC Paradise FM</string>
+			<key>logo</key>
+			<string>Paradise</string>
+			<key>link</key>
+			<string>https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Seychelles</string>
 		</dict>
 		<dict>
 			<key>name</key>
