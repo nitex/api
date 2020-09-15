@@ -171,6 +171,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CASM FM</string>
+			<key>logo</key>
+			<string>CASM</string>
+			<key>link</key>
+			<string>https://casmfm.ice.infomaniak.ch/casmfm-32.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Comores</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RCM13 Comores</string>
+			<key>logo</key>
+			<string>RCM13</string>
+			<key>link</key>
+			<string>http://sv1.vestaradio.com/rcm13.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Comores</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTMC Mbéni</string>
+			<key>logo</key>
+			<string>RTMC</string>
+			<key>link</key>
+			<string>http://rtmc.ice.infomaniak.ch/rtmc-32.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Comores</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Congo Planet</string>
 			<key>logo</key>
 			<string>Planet</string>
@@ -207,27 +243,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RNA Antalaha Madagascar</string>
+			<string>K-Radio 97.2 FM</string>
 			<key>logo</key>
-			<string>RNA</string>
+			<string>K</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-rna-antalaha-madagascar,14407.m3u</string>
+			<string>http://www.k-ent.sc:8000/kradio.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.k-ent.sc:8000/kradio.mp3</string>
 			<key>note</key>
-			<string>Madagascar</string>
+			<string>Seychelles</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Vazogasy</string>
+			<string>Pure FM 90.7</string>
 			<key>logo</key>
-			<string>Vazogasy</string>
+			<string>Pure</string>
 			<key>link</key>
-			<string>https://radiovazogasy.com/media/player/winamp.pls</string>
+			<string>http://radio.sbc.sc:8010/purefmlive.mp3.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-vazogasy,6583.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Madagascar</string>
+			<string>Seychelles</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SBC Paradise FM</string>
+			<key>logo</key>
+			<string>Paradise</string>
+			<key>link</key>
+			<string>https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Seychelles</string>
 		</dict>
 		<dict>
 			<key>name</key>
