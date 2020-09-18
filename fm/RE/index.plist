@@ -51,15 +51,63 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>100% Jazz 104.9 FM</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>https://listen.radioking.com/radio/14180/stream/26828</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capital FM</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chérie FM</string>
+			<key>logo</key>
+			<string>Cherie</string>
+			<key>link</key>
+			<string>http://185.52.127.170/fr_re/55731/mp3_128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>EXO FM 105.9 FM</string>
 			<key>logo</key>
 			<string>EXO</string>
 			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/exofm/exofm-64.aac/playlist.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/exo-fm-105-9-fm,19550.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>First Réunion</string>
+			<key>logo</key>
+			<string>First</string>
+			<key>link</key>
+			<string>http://firstreunion.ice.infomaniak.ch/firstreunion-128.m3u.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -71,7 +119,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/fun-radio-reunion-95-5-fm,19551.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -80,6 +128,66 @@
 			<string>HIT</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/hitfm-reunion,19552.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kayanm FM</string>
+			<key>logo</key>
+			<string>Kayanm</string>
+			<key>link</key>
+			<string>http://165.169.22.3:8005/radio-kayanm-fm-reunion.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kréol FM</string>
+			<key>logo</key>
+			<string>Kreol</string>
+			<key>link</key>
+			<string>http://kreolfm.ice.infomaniak.ch/kreolfm-96.aac</string>
+			<key>http</key>
+			<string>http://91.121.107.206:8700/kreol.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LFM</string>
+			<key>logo</key>
+			<string>LFM</string>
+			<key>link</key>
+			<string>http://81.248.237.204:8005/LFM-Reunion-160-AAC.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LGB FM 91.9</string>
+			<key>logo</key>
+			<string>LGB</string>
+			<key>link</key>
+			<string>http://radiolgb.ice.infomaniak.ch/radiolgb-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nostalgie</string>
+			<key>logo</key>
+			<string>Nostalgie</string>
+			<key>link</key>
+			<string>http://185.52.127.160/fr/30601/mp3_128.mp3?origine=tune-in-radio</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -95,7 +203,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/nrj-reunion-100-0-fm,19553.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +239,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -147,6 +255,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>RER - Radio Est Réunion</string>
+			<key>logo</key>
+			<string>RER</string>
+			<key>link</key>
+			<string>http://rerreunion.ice.infomaniak.ch/rerreunion-64.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM</string>
+			<key>logo</key>
+			<string>RFM</string>
+			<key>link</key>
+			<string>http://rfm-live.akamaized.net/rfm.isml/rfm-audio=128000.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>R.i.L FM</string>
+			<key>logo</key>
+			<string>R.i.L</string>
+			<key>link</key>
+			<string>http://91.121.29.128:8068/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rire et Chansons</string>
+			<key>logo</key>
+			<string>Rire</string>
+			<key>link</key>
+			<string>http://185.52.127.170/fr_re/55730/aac_64.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>RSL Radio 104.7 FM</string>
 			<key>logo</key>
 			<string>RSL</string>
@@ -155,7 +311,31 @@
 			<key>http</key>
 			<string>http://rslradio.ice.infomaniak.ch/rslradio-128.mp3</string>
 			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTL</string>
+			<key>logo</key>
+			<string>RTL</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/rtlreunion/rtlreunion-64.aac/playlist.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTL2</string>
+			<key>logo</key>
+			<string>RTL2</string>
+			<key>link</key>
+			<string>http://icecast.rtl.fr/rtl2-1-44-128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,18 +351,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RFM</string>
-			<key>logo</key>
-			<string>RFM</string>
-			<key>link</key>
-			<string>http://rfm-live.akamaized.net/rfm.isml/rfm-audio=128000.m3u8</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Trace FM</string>
 			<key>logo</key>
 			<string>Trace</string>
@@ -191,319 +359,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Capital FM</string>
-			<key>logo</key>
-			<string>Capital</string>
-			<key>link</key>
-			<string>http://capitalfmreunion.ice.infomaniak.ch/capitalfmreunion.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>First Réunion</string>
-			<key>logo</key>
-			<string>First</string>
-			<key>link</key>
-			<string>http://firstreunion.ice.infomaniak.ch/firstreunion-128.m3u.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LGB FM 91.9</string>
-			<key>logo</key>
-			<string>LGB</string>
-			<key>link</key>
-			<string>http://radiolgb.ice.infomaniak.ch/radiolgb-128.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Kréol FM</string>
-			<key>logo</key>
-			<string>Kreol</string>
-			<key>link</key>
-			<string>http://kreolfm.ice.infomaniak.ch/kreolfm-96.aac</string>
-			<key>http</key>
-			<string>http://91.121.107.206:8700/kreol.mp3</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RER - Radio Est Réunion</string>
-			<key>logo</key>
-			<string>RER</string>
-			<key>link</key>
-			<string>http://rerreunion.ice.infomaniak.ch/rerreunion-64.aac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LFM</string>
-			<key>logo</key>
-			<string>LFM</string>
-			<key>link</key>
-			<string>http://81.248.237.204:8005/LFM-Reunion-160-AAC.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>R.i.L FM</string>
-			<key>logo</key>
-			<string>R.i.L</string>
-			<key>link</key>
-			<string>http://91.121.29.128:8068/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Nostalgie</string>
-			<key>logo</key>
-			<string>Nostalgie</string>
-			<key>link</key>
-			<string>http://185.52.127.160/fr/30601/mp3_128.mp3?origine=tune-in-radio</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTL</string>
-			<key>logo</key>
-			<string>RTL</string>
-			<key>link</key>
-			<string>http://statslive.infomaniak.ch/playlist/rtlreunion/rtlreunion-64.aac/playlist.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTL2</string>
-			<key>logo</key>
-			<string>RTL2</string>
-			<key>link</key>
-			<string>http://icecast.rtl.fr/rtl2-1-44-128.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Chérie FM</string>
-			<key>logo</key>
-			<string>Cherie</string>
-			<key>link</key>
-			<string>http://185.52.127.170/fr_re/55731/mp3_128.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 	</array>
 </dict>
