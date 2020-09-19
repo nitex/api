@@ -399,15 +399,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 100 Alnour Radio</string>
+			<string>88.4 City FM</string>
 			<key>logo</key>
-			<string>Alnour</string>
+			<string>City</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-100-alnour-radio,13332.m3u</string>
+			<string>http://streams.radio.co/s27dd498f6/listen</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Sudan</string>
+			<string>South Sudan</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eye Radio 98.6 FM</string>
+			<key>logo</key>
+			<string>Eye</string>
+			<key>link</key>
+			<string>http://eyeradio.primcast.com:9588/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>South Sudan</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -415,23 +427,11 @@
 			<key>logo</key>
 			<string>Miraya</string>
 			<key>link</key>
+			<string>http://s3.myradiostream.com:15918/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/miraya-fm,13333.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string>Sudan</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sawa Sudan</string>
-			<key>logo</key>
-			<string>Sawa</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sawa-sudan,14438.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sudan</string>
+			<string>South Sudan</string>
 		</dict>
 		<dict>
 			<key>name</key>
