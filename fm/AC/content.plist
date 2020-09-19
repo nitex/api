@@ -63,6 +63,30 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>BFBS Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://direct.sharp-stream.com/ssvcbfbs1.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ascension Island</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BFBS Radio 2</string>
+			<key>logo</key>
+			<string>BFBS</string>
+			<key>link</key>
+			<string>http://direct.sharp-stream.com/ssvcbfbs2.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ascension Island</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Duma FM</string>
 			<key>logo</key>
 			<string>Duma</string>
@@ -243,6 +267,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Dziani 104.8 FM</string>
+			<key>logo</key>
+			<string>Dziani</string>
+			<key>link</key>
+			<string>http://listen.radioking.com/radio/3331/stream/63166</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mayotte</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kwezi FM</string>
+			<key>logo</key>
+			<string>Kwezi</string>
+			<key>link</key>
+			<string>http://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mayotte</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mawoua 88.1 FM</string>
+			<key>logo</key>
+			<string>Mawoua</string>
+			<key>link</key>
+			<string>http://mawoua.ice.infomaniak.ch/mawoua-32.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mayotte</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mayana FM</string>
+			<key>logo</key>
+			<string>Mayana</string>
+			<key>link</key>
+			<string>http://62.210.131.27:8029/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mayotte</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>K-Radio 97.2 FM</string>
 			<key>logo</key>
 			<string>K</string>
@@ -312,6 +384,30 @@
 			<string>https://443-1.autopo.st/60/;stream.mp3</string>
 			<key>note</key>
 			<string>Somalia</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Saint FM Community</string>
+			<key>logo</key>
+			<string>Saint</string>
+			<key>link</key>
+			<string>http://radio.canstream.co.uk:8013/live96.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St. Helena Island</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SAMS</string>
+			<key>logo</key>
+			<string>SAMS</string>
+			<key>link</key>
+			<string>http://lush.wavestreamer.com:7465/Live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>St. Helena Island</string>
 		</dict>
 		<dict>
 			<key>name</key>
