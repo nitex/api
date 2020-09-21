@@ -868,13 +868,25 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>ISANGO</string>
+		<key>logo</key>
+		<string>ISANGO</string>
+		<key>link</key>
+		<string>http://www.isangostar.rw/?page=tv</string>
+		<key>http</key>
+		<string></string>
+		<key>country</key>
+		<string>Rwanda</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>RTV (RBA)</string>
 		<key>logo</key>
 		<string>RBA</string>
 		<key>link</key>
-		<string>http://www.rba.co.rw/tv</string>
+		<string>https://www.rba.co.rw/tv</string>
 		<key>http</key>
-		<string>http://www.rba.co.rw</string>
+		<string>https://www.rba.co.rw</string>
 		<key>country</key>
 		<string>Rwanda</string>
 	</dict>
@@ -1144,6 +1156,18 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Barmedas</string>
+		<key>logo</key>
+		<string>Barmedas</string>
+		<key>link</key>
+		<string>http://www.ustream.tv/channel/barmedasonline-tv</string>
+		<key>http</key>
+		<string>http://www.barmedas.tv/</string>
+		<key>country</key>
+		<string>Tanzania</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Habari Star</string>
 		<key>logo</key>
 		<string>Habari</string>
@@ -1168,13 +1192,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Barmedas</string>
+		<string>TBC</string>
 		<key>logo</key>
-		<string>Barmedas</string>
+		<string>TBC</string>
 		<key>link</key>
-		<string>http://www.ustream.tv/channel/barmedasonline-tv</string>
+		<string>https://tbc.go.tz/livestream/</string>
 		<key>http</key>
-		<string>http://www.barmedas.tv/</string>
+		<string>https://tbc.go.tz</string>
 		<key>country</key>
 		<string>Tanzania</string>
 	</dict>
