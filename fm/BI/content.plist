@@ -5,7 +5,7 @@
 	<key>IDs</key>
 	<dict>
 		<key>ID</key>
-		<string>3694130267637407</string>
+		<string></string>
 		<key>Main</key>
 		<string></string>
 		<key>Back</key>
@@ -31,7 +31,7 @@
 		<key>Footer</key>
 		<string></string>
 		<key>Email</key>
-		<string>idenitecs@gmail.com</string>
+		<string>ios.apps.community@gmail.com</string>
 		<key>Alternative</key>
 		<string></string>
 		<key>Application</key>
@@ -47,15 +47,27 @@
 		<key>Deprecated</key>
 		<string>1</string>
 	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
 	<key>Content</key>
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Afro 105.3 FM</string>
+			<string>Agakiza 97.9 FM</string>
 			<key>logo</key>
-			<string>Afro</string>
+			<string>Agakiza</string>
 			<key>link</key>
-			<string>http://node-15.zeno.fm/t5td4ky6hkeuv</string>
+			<string>http://162.244.80.52:4154/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,23 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BBN</string>
+			<string>Buja FM 87.6</string>
 			<key>logo</key>
-			<string>BBN</string>
+			<string>Buja</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bbn-radio,18127.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM 97.1 Addis Abeba</string>
-			<key>logo</key>
-			<string>Addis</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-97-1-addis-abeba,15239.m3u</string>
+			<string>http://154.70.196.39:8000/bujafm.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,87 +87,63 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sheger 102.1 FM ሸገር ኤፍ ኤም</string>
+			<string>Culture 97.3 FM</string>
 			<key>logo</key>
-			<string>Sheger</string>
+			<string>Culture</string>
 			<key>link</key>
-			<string>http://node-23.zeno.fm/st55ta775wquv</string>
+			<string>http://bagenzitv.com:8003/radioculture.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/sheger-102-1-fm,16624.m3u</string>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isanganiro 89.7 FM</string>
+			<key>logo</key>
+			<string>Isanganiro</string>
+			<key>link</key>
+			<string>http://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTNB Chaîne 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://41.79.226.195:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Xoriyo</string>
+			<string>RTNB Chaîne 2</string>
 			<key>logo</key>
-			<string>Xoriyo</string>
+			<string>2</string>
 			<key>link</key>
-			<string>http://www.ogadennet.com/rx/radioxor.mp3</string>
+			<string>http://41.79.226.196:8000/stream.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-xoriyo,5149.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Ogaden (Local)</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Zami 90.7 FM (ዛሚ ሬዲዮ 90.7 ኤፍ ኤም)</string>
+			<string>Scolaire Nderagakura FM 87.9</string>
 			<key>logo</key>
-			<string>Zami</string>
+			<string>Scolaire</string>
 			<key>link</key>
-			<string>http://node-27.zeno.fm/61hxscaatxquv</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/zami-90-7-fm,18219.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ኤፍ ኤም 96.3</string>
-			<key>logo</key>
-			<string>96</string>
-			<key>link</key>
-			<string>http://rrsatrtmp.tulix.tv/addis1/addis1radio/playlist.m3u8</string>
+			<string>http://eu8.fastcast4u.com/proxy/radiosco?mp=/1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ፋና ኤፍ ኤም 98.1</string>
-			<key>logo</key>
-			<string>98</string>
-			<key>link</key>
-			<string>http://wowhe1.vixtream.net/vcdnedge1/_definst_/fbcfm/playlist.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ብስራት ሬድዮ 101.1 FM</string>
-			<key>logo</key>
-			<string>101</string>
-			<key>link</key>
-			<string>http://node-15.zeno.fm/zvaru17saxquv</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ኢትዮ ኤፍ ኤም 107.8 Ethio</string>
-			<key>logo</key>
-			<string>107</string>
-			<key>link</key>
-			<string>http://stream.radiojar.com/evu0e26m7p5tv.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
