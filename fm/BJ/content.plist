@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>CAPP FM 99.6</string>
+			<key>logo</key>
+			<string>CAPP</string>
+			<key>link</key>
+			<string>http://cappfm.ice.infomaniak.ch/cappfm-96.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frissons FM 95.2</string>
+			<key>logo</key>
+			<string>Frissons</string>
+			<key>link</key>
+			<string>http://frissonsradio.ice.infomaniak.ch/frissonsradio-128.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cotonou (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hémicycle</string>
+			<key>logo</key>
+			<string>Hemicycle</string>
+			<key>link</key>
+			<string>http://listen.radioking.com/radio/116164/stream/155470</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Immaculée Conception</string>
+			<key>logo</key>
+			<string>Conception</string>
+			<key>link</key>
+			<string>http://146.185.18.251:7034/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maranatha</string>
+			<key>logo</key>
+			<string>Maranatha</string>
+			<key>link</key>
+			<string>http://154.72.112.49:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ORTB Atlantic FM</string>
+			<key>logo</key>
+			<string>Atlantic</string>
+			<key>link</key>
+			<string>http://listen.radioking.com/radio/25120/stream/57844</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ORTB Radio Bénin</string>
+			<key>logo</key>
+			<string>ORTB</string>
+			<key>link</key>
+			<string>http://listen.radioking.com/radio/47608/stream/84430</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Planète FM 95.7</string>
+			<key>logo</key>
+			<string>Planete</string>
+			<key>link</key>
+			<string>http://listen.radioking.com/radio/111193/stream/150295</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cotonou (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Soleil FM</string>
+			<key>logo</key>
+			<string>Soleil</string>
+			<key>link</key>
+			<string>http://audio1.meway.tv/tunein/soleil.pls</string>
+			<key>http</key>
+			<string>http://94.23.66.114:8135/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa Radio 107.5 FM</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Afrique</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Africa</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
