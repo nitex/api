@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Balafon 90.3 FM</string>
+			<key>logo</key>
+			<string>Balafon</string>
+			<key>link</key>
+			<string>https://uk4-vn.mixstream.net/8142/listen.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bonne Nouvelle</string>
+			<key>logo</key>
+			<string>Bonne</string>
+			<key>link</key>
+			<string>http://radiobonnenouvelle2.ice.infomaniak.ch/radiobonnenouvelle2-96.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CRTV National Radio</string>
+			<key>logo</key>
+			<string>CRTV</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/crtv-national-radio,12102.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Equinoxe 93.0 FM (Cameroon Voice)</string>
+			<key>logo</key>
+			<string>Equinoxe</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/equinoxe-93-0-fm,12101.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kalak FM 94.5</string>
+			<key>logo</key>
+			<string>Kalak</string>
+			<key>link</key>
+			<string>http://streams4.museter.com:8384/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Miango FM 88.4</string>
+			<key>logo</key>
+			<string>Miango</string>
+			<key>link</key>
+			<string>http://s26.myradiostream.com:5470/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tiéméni Siantou 90.5 FM</string>
+			<key>logo</key>
+			<string>Siantou</string>
+			<key>link</key>
+			<string>http://www.cameroonvoice.com:1724/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vie Nouvelle 107.8 FM</string>
+			<key>logo</key>
+			<string>Vie</string>
+			<key>link</key>
+			<string>http://rvn-lafrequencedevie.ice.infomaniak.ch/rvn-lafrequencedevie-32.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Afrique</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Africa</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
