@@ -139,9 +139,9 @@
 			<key>logo</key>
 			<string>Ouaga</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/pulsar-94-8-fm-ouaga,16626.m3u</string>
+			<string>http://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-64.mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/pulsar-94-8-fm-ouaga,16626.m3u</string>
 			<key>note</key>
 			<string>Burkina Faso</string>
 		</dict>
@@ -152,6 +152,18 @@
 			<string>Pulsar</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/pulsar-fm,13849.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Burkina Faso</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Savane FM</string>
+			<key>logo</key>
+			<string>Savane</string>
+			<key>link</key>
+			<string>http://node-07.zeno.fm/khc1vp4mb</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,6 +303,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>ELBC 99.9 FM</string>
+			<key>logo</key>
+			<string>ELBC</string>
+			<key>link</key>
+			<string>http://stream.zenolive.com/g2wp7rzbaq5tv.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Liberia</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>K-Radio 97.2 FM</string>
 			<key>logo</key>
 			<string>K</string>
@@ -392,6 +416,54 @@
 			<string>Degnigban</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-degnigban,18160.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Togo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kara</string>
+			<key>logo</key>
+			<string>Kara</string>
+			<key>link</key>
+			<string>http://node-15.zeno.fm/2bsx1sxr2vduv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Togo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lomé</string>
+			<key>logo</key>
+			<string>Lome</string>
+			<key>link</key>
+			<string>http://node-12.zeno.fm/umeg0b00hyduv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Togo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp2.com:8050/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Togo</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zéphyr</string>
+			<key>logo</key>
+			<string>Zephyr</string>
+			<key>link</key>
+			<string>http://node-12.zeno.fm/n8hq8w5nxueuv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
