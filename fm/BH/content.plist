@@ -63,71 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>راديو روتانا - السعودية</string>
+			<string>بحرين إف إم 93.3 - بحرين</string>
 			<key>logo</key>
-			<string>Rotana</string>
+			<string>93</string>
 			<key>link</key>
-			<string>http://philae.shoutca.st:8114/listen.pls</string>
-			<key>http</key>
-			<string>http://philae.shoutca.st:8114/;stream.mp3</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>راديو UFM - السعودية</string>
-			<key>logo</key>
-			<string>UFM</string>
-			<key>link</key>
-			<string>http://104.200.150.186:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة الرياض</string>
-			<key>logo</key>
-			<string>Riyadh</string>
-			<key>link</key>
-			<string>http://87.98.130.255:8234/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة جدة</string>
-			<key>logo</key>
-			<string>sba</string>
-			<key>link</key>
-			<string>http://87.98.130.255:8509/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SBC Saudia</string>
-			<key>logo</key>
-			<string>SBC</string>
-			<key>link</key>
-			<string>http://live.badrshfaqah.sa:8021/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة القرأن الكريم</string>
-			<key>logo</key>
-			<string>Quran</string>
-			<key>link</key>
-			<string>http://live2.badrshfaqah.sa:8027/stream.m3u</string>
+			<string>http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,27 +75,75 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو ألف ألف FM - السعودية</string>
+			<string>الشعبية 95 - بحرين</string>
 			<key>logo</key>
-			<string>Alifalif</string>
+			<string>95</string>
 			<key>link</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3.m3u</string>
+			<string>http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8</string>
 			<key>http</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3</string>
+			<string></string>
 			<key>note</key>
 			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو مكس FM - السعودية</string>
+			<string>الشـبـابـيـة 98.4 - بحرين</string>
 			<key>logo</key>
-			<string>mix</string>
+			<string>98</string>
 			<key>link</key>
-			<string>http://s2.voscast.com:11376/live.m3u</string>
+			<string>http://185.105.4.106:1935/live/radio-98-4/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة البحرين 102.3 - بحرين</string>
+			<key>logo</key>
+			<string>102</string>
+			<key>link</key>
+			<string>http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>القرآن الكريم 106.1 - بحرين</string>
+			<key>logo</key>
+			<string>106</string>
+			<key>link</key>
+			<string>http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mirchi 104.2 FM</string>
+			<key>logo</key>
+			<string>Mirchi</string>
+			<key>link</key>
+			<string>http://162.244.80.118:4055/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Bahrain 96.5 FM</string>
+			<key>logo</key>
+			<string>96</string>
+			<key>link</key>
+			<string>http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
