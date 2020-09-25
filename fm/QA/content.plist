@@ -63,71 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>راديو روتانا - السعودية</string>
+			<string>إذاعة صوت الخليج - الدوحة‎</string>
 			<key>logo</key>
-			<string>Rotana</string>
+			<string>alkhaleej</string>
 			<key>link</key>
-			<string>http://philae.shoutca.st:8114/listen.pls</string>
-			<key>http</key>
-			<string>http://philae.shoutca.st:8114/;stream.mp3</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>راديو UFM - السعودية</string>
-			<key>logo</key>
-			<string>UFM</string>
-			<key>link</key>
-			<string>http://104.200.150.186:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة الرياض</string>
-			<key>logo</key>
-			<string>Riyadh</string>
-			<key>link</key>
-			<string>http://87.98.130.255:8234/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة جدة</string>
-			<key>logo</key>
-			<string>sba</string>
-			<key>link</key>
-			<string>http://87.98.130.255:8509/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SBC Saudia</string>
-			<key>logo</key>
-			<string>SBC</string>
-			<key>link</key>
-			<string>http://live.badrshfaqah.sa:8021/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة القرأن الكريم</string>
-			<key>logo</key>
-			<string>Quran</string>
-			<key>link</key>
-			<string>http://live2.badrshfaqah.sa:8027/stream.m3u</string>
+			<string>http://icy1.abacast.com/ihorizonsradio-sakfmmp3-48.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,23 +75,119 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو ألف ألف FM - السعودية</string>
+			<string>إذاعة قطر - الدوحة‎، قطر‎‎</string>
 			<key>logo</key>
-			<string>Alifalif</string>
+			<string>qmc</string>
 			<key>link</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3.m3u</string>
+			<string>http://wowzaprod134-i.akamaihd.net/hls/live/577826/b7d46749/playlist.m3u8</string>
 			<key>http</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3</string>
+			<string></string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو مكس FM - السعودية</string>
+			<string>قنوات الكأس الرياضية - الدوحة قطر</string>
 			<key>logo</key>
-			<string>mix</string>
+			<string>alkass</string>
 			<key>link</key>
-			<string>http://s2.voscast.com:11376/live.m3u</string>
+			<string>http://msqbstreamer1.qatarbroadcast.qa:1935/HR05/RD05.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة صوت الريان - 102 FM الدوحة، قطر</string>
+			<key>logo</key>
+			<string>102</string>
+			<key>link</key>
+			<string>http://msqbstreamer1.qatarbroadcast.qa:1935/HR03/RD03.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة القرآن الكريم - الدوحة قطر</string>
+			<key>logo</key>
+			<string>quran</string>
+			<key>link</key>
+			<string>http://wowzaprod134-i.akamaihd.net/hls/live/577826/63529851/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Malayalam 98.6 FM</string>
+			<key>logo</key>
+			<string>Malayalam</string>
+			<key>link</key>
+			<string>http://vokcast.bluecast.in:8227/986fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Olive 106.3 FM</string>
+			<key>logo</key>
+			<string>Olive</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/OLIVE1063.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oryx 94.0 FM</string>
+			<key>logo</key>
+			<string>Oryx</string>
+			<key>link</key>
+			<string>http://wowzaprod134-i.akamaihd.net/hls/live/577826/121fdb6b/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>QBS 97.5 FM</string>
+			<key>logo</key>
+			<string>QBS</string>
+			<key>link</key>
+			<string>http://wowzaprod134-i.akamaihd.net/hls/live/577826/26f07e74/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Suno 91.7 FM</string>
+			<key>logo</key>
+			<string>Suno</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/SUNO917.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urdu 107.0 FM</string>
+			<key>logo</key>
+			<string>Urdu</string>
+			<key>link</key>
+			<string>http://wowzaprod134-i.akamaihd.net/hls/live/577826/4745c18c/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
