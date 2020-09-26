@@ -63,59 +63,47 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>راديو روتانا - السعودية</string>
+			<string>راديو دجلة</string>
 			<key>logo</key>
-			<string>Rotana</string>
+			<string>dijla</string>
 			<key>link</key>
-			<string>http://philae.shoutca.st:8114/listen.pls</string>
+			<string>http://radio.radiodijla.com:8443/listen.pls</string>
 			<key>http</key>
-			<string>http://philae.shoutca.st:8114/;stream.mp3</string>
+			<string>http://eu3.radioboss.fm:8164/stream</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو UFM - السعودية</string>
+			<string>راديو نوا - بغداد 89.9 FM</string>
 			<key>logo</key>
-			<string>UFM</string>
+			<string>nawa</string>
 			<key>link</key>
-			<string>http://104.200.150.186:8000/listen.pls</string>
+			<string>http://nawaradio2.primcast.com:1344/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة الرياض</string>
+			<string>راديو الرشيد FM 91.5 </string>
 			<key>logo</key>
-			<string>Riyadh</string>
+			<string>alrasheed</string>
 			<key>link</key>
-			<string>http://87.98.130.255:8234/stream.m3u</string>
+			<string>http://alrasheedmedia.com:9998/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://alrasheedmedia.com:9998/;</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة جدة</string>
+			<string>اذاعة المدى - بغداد 92.8 FM</string>
 			<key>logo</key>
-			<string>sba</string>
+			<string>almada</string>
 			<key>link</key>
-			<string>http://87.98.130.255:8509/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SBC Saudia</string>
-			<key>logo</key>
-			<string>SBC</string>
-			<key>link</key>
-			<string>http://live.badrshfaqah.sa:8021/stream.m3u</string>
+			<string>http://almadaradio.primcast.com:8604/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,38 +111,72 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة القرأن الكريم</string>
+			<string>راديو الحرية </string>
 			<key>logo</key>
-			<string>Quran</string>
+			<string>alhurria</string>
 			<key>link</key>
-			<string>http://live2.badrshfaqah.sa:8027/stream.m3u</string>
+			<string>http://109.224.60.54:8686/alhurriafm.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو ألف ألف FM - السعودية</string>
+			<string>راديو اور FM - بغداد 98.9</string>
 			<key>logo</key>
-			<string>Alifalif</string>
+			<string>98</string>
 			<key>link</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3.m3u</string>
-			<key>http</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3</string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>راديو مكس FM - السعودية</string>
-			<key>logo</key>
-			<string>mix</string>
-			<key>link</key>
-			<string>http://s2.voscast.com:11376/live.m3u</string>
+			<string>http://162.244.80.32:6252/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو سومر FM - العراق</string>
+			<key>logo</key>
+			<string>sumer</string>
+			<key>link</key>
+			<string>http://audiostreaming.itworkscdn.com:9012/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو ديموزي - بغداد FM 104.1</string>
+			<key>logo</key>
+			<string>demozy</string>
+			<key>link</key>
+			<string>http://162.244.81.30:6584/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة الكفيل - العراق</string>
+			<key>logo</key>
+			<string>alkafeel</string>
+			<key>link</key>
+			<string>https://stream.alkafeel.net/live/radio/manifest.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة صوت النجباء - العراق</string>
+			<key>logo</key>
+			<string>alnujaba</string>
+			<key>link</key>
+			<string>http://51.254.197.101:9300/listen.pls?sid=1</string>
+			<key>http</key>
 			<string></string>
 		</dict>
 		<dict>
@@ -171,11 +193,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو سوا الخليج</string>
+			<string>راديو سوا العراق</string>
 			<key>logo</key>
 			<string>Sawa</string>
 			<key>link</key>
-			<string>http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01</string>
+			<string>http://mbn-channel-05.akacast.akamaistream.net/7/25/233454/v1/ibb.akacast.akamaistream.net/mbn_channel_05</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
