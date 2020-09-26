@@ -63,23 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>راديو روتانا - السعودية</string>
+			<string>ڕادیۆ ناوخۆ</string>
 			<key>logo</key>
-			<string>Rotana</string>
+			<string>nawxo</string>
 			<key>link</key>
-			<string>http://philae.shoutca.st:8114/listen.pls</string>
-			<key>http</key>
-			<string>http://philae.shoutca.st:8114/;stream.mp3</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>راديو UFM - السعودية</string>
-			<key>logo</key>
-			<string>UFM</string>
-			<key>link</key>
-			<string>http://104.200.150.186:8000/listen.pls</string>
+			<string>http://95.159.70.166:88/broadwave.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +75,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة الرياض</string>
+			<string>ڕادیۆ نەوا - هەرێمی کوردستان</string>
 			<key>logo</key>
-			<string>Riyadh</string>
+			<string>nawa</string>
 			<key>link</key>
-			<string>http://87.98.130.255:8234/stream.m3u</string>
+			<string>http://nawaradio.primcast.com:4098/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ڕادیۆ هه‌ولێر 90.7 FM - هەرێمی کوردستان</string>
+			<key>logo</key>
+			<string>hawler</string>
+			<key>link</key>
+			<string>http://198.178.121.76:8240/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +99,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة جدة</string>
+			<string>دەنگی کوردسات 96.3 FM </string>
 			<key>logo</key>
-			<string>sba</string>
+			<string>dengi</string>
 			<key>link</key>
-			<string>http://87.98.130.255:8509/stream.m3u</string>
+			<string>http://uk3.internet-radio.com:8158/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,23 +111,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>SBC Saudia</string>
+			<string>ڕادیۆ نالیا</string>
 			<key>logo</key>
-			<string>SBC</string>
+			<string>nalia</string>
 			<key>link</key>
-			<string>http://live.badrshfaqah.sa:8021/stream.m3u</string>
+			<string>http://178.248.241.123:8000/radionrt.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعات المملكة العربية السعودية - إذاعة القرأن الكريم</string>
+			<string>راديو الحياة الجديدة - أربيل ٩٧.١ فم</string>
 			<key>logo</key>
-			<string>Quran</string>
+			<string>alhayat</string>
 			<key>link</key>
-			<string>http://live2.badrshfaqah.sa:8027/stream.m3u</string>
+			<string>https://s2.radio.co/sd3c7f8539/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>په‌خشی ڕادیۆ</string>
+			<key>logo</key>
+			<string>24</string>
+			<key>link</key>
+			<string>http://edge.mixlr.com/channel/ajqeg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,23 +147,239 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو ألف ألف FM - السعودية</string>
+			<string>ڕادیۆ دەوران</string>
 			<key>logo</key>
-			<string>Alifalif</string>
+			<string>dewran</string>
 			<key>link</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3.m3u</string>
+			<string>http://dewran1.primcast.com:8456/listen.pls</string>
 			<key>http</key>
-			<string>http://www.alifaliffm.com:8800/AlifAlif.mp3</string>
+			<string></string>
 			<key>note</key>
 			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو مكس FM - السعودية</string>
+			<string>ڕادیۆ رووداو</string>
 			<key>logo</key>
-			<string>mix</string>
+			<string>rudaw</string>
 			<key>link</key>
-			<string>http://s2.voscast.com:11376/live.m3u</string>
+			<string>http://audiostreaming.itworkscdn.com:9006/listen.pls</string>
+			<key>http</key>
+			<string>http://audiostreaming.itworkscdn.com:9006/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>هێلین ڕادیۆ</string>
+			<key>logo</key>
+			<string>helin</string>
+			<key>link</key>
+			<string>http://heleen1.primcast.com:8564/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو مريم (أربيل)</string>
+			<key>logo</key>
+			<string>maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp4.com:8044/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ڕادیۆ خەندان</string>
+			<key>logo</key>
+			<string>xendan</string>
+			<key>link</key>
+			<string>http://38.96.148.28:8146/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Amed</string>
+			<key>logo</key>
+			<string>Amed</string>
+			<key>link</key>
+			<string>http://radyo.amedradyotv.net:8000/listen.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Azelya</string>
+			<key>logo</key>
+			<string>Azelya</string>
+			<key>link</key>
+			<string>http://yayin.yayindakiler.com:3012/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Babylon FM</string>
+			<key>logo</key>
+			<string>Babylon</string>
+			<key>link</key>
+			<string>http://94.23.62.189:5558/listen.pls?sid=2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Can</string>
+			<key>logo</key>
+			<string>Can</string>
+			<key>link</key>
+			<string>http://yayin1.yayindakiler.com:2028/;audio.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cemre</string>
+			<key>logo</key>
+			<string>Cemre</string>
+			<key>link</key>
+			<string>http://yayin1.canliyayin.org:8024/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Doğan 21 FM</string>
+			<key>logo</key>
+			<string>21</string>
+			<key>link</key>
+			<string>http://yayin.yayindakiler.com:3024/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Duhok</string>
+			<key>logo</key>
+			<string>Duhok</string>
+			<key>link</key>
+			<string>http://radio.duhokradio.org:9992/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Erbil 98.1 FM</string>
+			<key>logo</key>
+			<string>Erbil</string>
+			<key>link</key>
+			<string>http://95.173.188.166:9810/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hakkari FM</string>
+			<key>logo</key>
+			<string>Hakkari</string>
+			<key>link</key>
+			<string>http://46.101.171.110:1999/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Havin</string>
+			<key>logo</key>
+			<string>Havin</string>
+			<key>link</key>
+			<string>http://radyolar.yayindinle.net:7764/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Heval FM</string>
+			<key>logo</key>
+			<string>Heval</string>
+			<key>link</key>
+			<string>http://95.173.162.182:9992/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kurd FM</string>
+			<key>logo</key>
+			<string>Kurd</string>
+			<key>link</key>
+			<string>http://iphone.kurdfm.com:4747/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MED</string>
+			<key>logo</key>
+			<string>MED</string>
+			<key>link</key>
+			<string>http://medradyo.kesintisizyayin.com:8062/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Helex</string>
+			<key>logo</key>
+			<string>Helex</string>
+			<key>link</key>
+			<string>http://radyolar.yayindinle.net:9306/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mori</string>
+			<key>logo</key>
+			<string>Mori</string>
+			<key>link</key>
+			<string>http://95.173.162.182:9992/;stream.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>راديو سوا الخليج</string>
+			<string>راديو سوا العراق</string>
 			<key>logo</key>
 			<string>Sawa</string>
 			<key>link</key>
-			<string>http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01</string>
+			<string>http://mbn-channel-05.akacast.akamaistream.net/7/25/233454/v1/ibb.akacast.akamaistream.net/mbn_channel_05</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>

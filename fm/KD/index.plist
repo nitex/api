@@ -63,18 +63,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Duhok</string>
-			<key>logo</key>
-			<string>Duhok</string>
-			<key>link</key>
-			<string>http://radio.duhokradio.org:9992/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>ڕادیۆ نەوا - هەرێمی کوردستان</string>
 			<key>logo</key>
 			<string>nawa</string>
@@ -83,7 +71,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +107,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,31 +119,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Erbil 98.1 FM</string>
-			<key>logo</key>
-			<string>Erbil</string>
-			<key>link</key>
-			<string>http://95.173.188.166:9810/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Babylon FM</string>
-			<key>logo</key>
-			<string>Babylon</string>
-			<key>link</key>
-			<string>http://94.23.62.189:5558/listen.pls?sid=2</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +131,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -179,7 +143,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -243,11 +207,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Azelya</string>
 			<key>logo</key>
-			<string></string>
+			<string>Azelya</string>
 			<key>link</key>
-			<string></string>
+			<string>http://yayin.yayindakiler.com:3012/;stream.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,11 +219,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Babylon FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Babylon</string>
 			<key>link</key>
+			<string>http://94.23.62.189:5558/listen.pls?sid=2</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Can</string>
+			<key>logo</key>
+			<string>Can</string>
+			<key>link</key>
+			<string>http://yayin1.yayindakiler.com:2028/;audio.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,11 +243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cemre</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cemre</string>
 			<key>link</key>
-			<string></string>
+			<string>http://yayin1.canliyayin.org:8024/;stream.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Doğan 21 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>21</string>
 			<key>link</key>
-			<string></string>
+			<string>http://yayin.yayindakiler.com:3024/;stream.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Duhok</string>
 			<key>logo</key>
-			<string></string>
+			<string>Duhok</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.duhokradio.org:9992/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -303,11 +279,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Erbil 98.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Erbil</string>
 			<key>link</key>
-			<string></string>
+			<string>http://95.173.188.166:9810/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -315,11 +291,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Hakkari FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hakkari</string>
 			<key>link</key>
-			<string></string>
+			<string>http://46.101.171.110:1999/;stream.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -327,11 +303,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Havin</string>
 			<key>logo</key>
-			<string></string>
+			<string>Havin</string>
 			<key>link</key>
+			<string>http://radyolar.yayindinle.net:7764/;stream.mp3</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Heval FM</string>
+			<key>logo</key>
+			<string>Heval</string>
+			<key>link</key>
+			<string>http://95.173.162.182:9992/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kurd FM</string>
+			<key>logo</key>
+			<string>Kurd</string>
+			<key>link</key>
+			<string>http://iphone.kurdfm.com:4747/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MED</string>
+			<key>logo</key>
+			<string>MED</string>
+			<key>link</key>
+			<string>http://medradyo.kesintisizyayin.com:8062/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Helex</string>
+			<key>logo</key>
+			<string>Helex</string>
+			<key>link</key>
+			<string>http://radyolar.yayindinle.net:9306/;stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mori</string>
+			<key>logo</key>
+			<string>Mori</string>
+			<key>link</key>
+			<string>http://95.173.162.182:9992/;stream.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
