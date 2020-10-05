@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capital Media HD 99.3 FM</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/capital-media-hd-99-3-fm,19163.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CBC 94.7 FM</string>
+			<key>logo</key>
+			<string>CBC</string>
+			<key>link</key>
+			<string>http://184.154.57.230:8000/947fm128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/cbc-94-7-fm,16665.m3u</string>
+			<key>note</key>
+			<string>Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CBC Q 100.7 FM</string>
+			<key>logo</key>
+			<string>Q</string>
+			<key>link</key>
+			<string>http://184.154.57.230:8000/qfm128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/cbc-q-100-7-fm,16667.m3u</string>
+			<key>note</key>
+			<string>Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CBC The One</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://184.154.57.230:8000/981fm128.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/cbc-98-1-the-one,16666.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CITA Radio 90.1 FM</string>
+			<key>logo</key>
+			<string>CITA</string>
+			<key>link</key>
+			<string>http://192.99.8.192:5016/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/cita-radio-90-1-fm,17033.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HOTT 95.3 FM</string>
+			<key>logo</key>
+			<string>HOTT</string>
+			<key>link</key>
+			<string>http://icy2.wostreaming.net/starcom-hottmp3-32.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/hott-95-3-fm,13928.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life 97.5 FM</string>
+			<key>logo</key>
+			<string>Life</string>
+			<key>link</key>
+			<string>http://icy2.wostreaming.net/starcom-lifemp3-32.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/life-97-5,13927.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 96.9 FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mix-96-9-fm,13929.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SLAM 101.1 FM</string>
+			<key>logo</key>
+			<string>SLAM</string>
+			<key>link</key>
+			<string>http://s2.nexuscast.com:8014/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/slam-101-1-fm,12805.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Beat 104.1</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://icy2.wostreaming.net/starcom-lovemp3-32.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/the-beat-104-1-fm,16668.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Voice of Barbados 92.9 FM</string>
+			<key>logo</key>
+			<string>Voice</string>
+			<key>link</key>
+			<string>http://icy2.wostreaming.net/starcom-vobmp3-32.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/voice-of-barbados-92-9-fm,2209.m3u</string>
+			<key>note</key>
+			<string>News, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Y 103.3 FM</string>
+			<key>logo</key>
+			<string>Y</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/y-103-3-fm,19779.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Oldies, Top Music</string>
+		</dict>
+	</array>
+</dict>
+</plist>
