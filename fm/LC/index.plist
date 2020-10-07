@@ -51,11 +51,23 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Joy FM</string>
+			<string>100 FM</string>
 			<key>logo</key>
-			<string>Joy</string>
+			<string>100</string>
 			<key>link</key>
-			<string>http://joyfm.dyndns.org:85/broadwave.m3u</string>
+			<string>http://media.carib.pro/radio100.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-100,60.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Blazin FM 99.3</string>
+			<key>logo</key>
+			<string>Blazin</string>
+			<key>link</key>
+			<string>http://stereo.wavestreamer.com:3439/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,11 +75,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Real FM</string>
+			<string>Caribbean Hot FM</string>
 			<key>logo</key>
-			<string>Real</string>
+			<string>Hot</string>
 			<key>link</key>
-			<string>http://s7.voscast.com:8840/listen.pls</string>
+			<string>http://auds1.intacs.com/caribbeanhotfm.m3u</string>
+			<key>http</key>
+			<string>https://auds1.intacs.com/caribbeanhotfm</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caribbean Kiss FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://auds1.intacs.com/caribbeankissfm.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/caribbean-kiss-fm,19533.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caribbean Power Jam</string>
+			<key>logo</key>
+			<string>Jam</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/caribbean-power-jam-radio,19534.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fire Online</string>
+			<key>logo</key>
+			<string>Fire</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fire-online-radio,19240.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -81,17 +129,17 @@
 			<key>link</key>
 			<string>http://ice41.securenetsystems.net/HITZFM.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hitz-fm-91-1,18847.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Vybe</string>
+			<string>Joy FM</string>
 			<key>logo</key>
-			<string>Vybe</string>
+			<string>Joy</string>
 			<key>link</key>
-			<string>http://us2.internet-radio.com:8103/live.m3u</string>
+			<string>http://joyfm.dyndns.org:85/broadwave.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,35 +159,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>The Wave</string>
+			<string>Liberty FM 92.3</string>
 			<key>logo</key>
-			<string>Wave</string>
+			<string>Liberty</string>
 			<key>link</key>
-			<string>http://ice66.securenetsystems.net/THEWAVE.m3u</string>
+			<string>http://www.surfmusic.de/m3u/92-3-liberty-fm,18733.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Blazin FM 99.3</string>
+			<string>Prayz FM 98.5 The Power and The Glory</string>
 			<key>logo</key>
-			<string>Blazin</string>
+			<string>Prayz</string>
 			<key>link</key>
-			<string>http://stereo.wavestreamer.com:3439/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>100 Helen FM</string>
-			<key>logo</key>
-			<string>Helen</string>
-			<key>link</key>
-			<string>http://media.carib.pro/radio100.m3u</string>
+			<string>http://www.surfmusic.de/m3u/prayz-fm-the-power-and-the-glory,15159.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -152,6 +188,30 @@
 			<string>RCI</string>
 			<key>link</key>
 			<string>http://media.carib.pro/RCI.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-caribbean-international-rci,6612.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Real FM</string>
+			<key>logo</key>
+			<string>Real</string>
+			<key>link</key>
+			<string>http://s7.voscast.com:8840/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI 102.1 FM</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rfi-102-1-fm,19771.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,23 +231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Caribbean Hot FM</string>
+			<string>Saint Lucia</string>
 			<key>logo</key>
-			<string>Hot</string>
+			<string>Saint</string>
 			<key>link</key>
-			<string>http://auds1.intacs.com/caribbeanhotfm.m3u</string>
-			<key>http</key>
-			<string>https://auds1.intacs.com/caribbeanhotfm</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Caribbean Kiss FM</string>
-			<key>logo</key>
-			<string>Kiss</string>
-			<key>link</key>
-			<string>http://auds1.intacs.com/caribbeankissfm.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-saint-lucia,10441.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,459 +243,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Liberty FM 92.3</string>
+			<string>The Wave</string>
 			<key>logo</key>
-			<string>Liberty</string>
+			<string>Wave</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/92-3-liberty-fm,18733.m3u</string>
+			<string>http://ice66.securenetsystems.net/THEWAVE.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/the-wave-st-lucia-93-7-fm,16367.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Vybe</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vybe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://us2.internet-radio.com:8103/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/vybe-radio-100-9-fm-st-lucia,19015.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News, Music</string>
 		</dict>
 	</array>
 </dict>

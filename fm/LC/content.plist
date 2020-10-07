@@ -63,35 +63,95 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>BBC World Service</string>
+			<string>100 FM</string>
 			<key>logo</key>
-			<string>BBC</string>
+			<string>100</string>
 			<key>link</key>
-			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<string>http://media.carib.pro/radio100.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-100,60.m3u</string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Freedom FM 106.5</string>
+			<string>Blazin FM 99.3</string>
 			<key>logo</key>
-			<string>Freedom</string>
+			<string>Blazin</string>
 			<key>link</key>
-			<string>http://162.244.81.111:4000/listen.pls</string>
+			<string>http://stereo.wavestreamer.com:3439/listen.pls</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caribbean Hot FM</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://auds1.intacs.com/caribbeanhotfm.m3u</string>
+			<key>http</key>
+			<string>https://auds1.intacs.com/caribbeanhotfm</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caribbean Kiss FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://auds1.intacs.com/caribbeankissfm.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/caribbean-kiss-fm,19533.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caribbean Power Jam</string>
+			<key>logo</key>
+			<string>Jam</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/caribbean-power-jam-radio,19534.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fire Online</string>
+			<key>logo</key>
+			<string>Fire</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fire-online-radio,19240.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hitz 92.1 FM</string>
+			<key>logo</key>
+			<string>Hitz</string>
+			<key>link</key>
+			<string>http://ice41.securenetsystems.net/HITZFM.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/hitz-fm-91-1,18847.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kyss FM</string>
+			<string>Joy FM</string>
 			<key>logo</key>
-			<string>Kyss</string>
+			<string>Joy</string>
 			<key>link</key>
-			<string>http://edge.mixlr.com/channel/uhzee</string>
+			<string>http://joyfm.dyndns.org:85/broadwave.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +159,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Praise FM 99.3</string>
+			<string>Kairi FM 93.1</string>
 			<key>logo</key>
-			<string>Praise</string>
+			<string>Kairi</string>
 			<key>link</key>
-			<string>http://78.129.175.157:28790/listen.pls</string>
+			<string>http://199.189.115.207:8000/lucia.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,51 +171,111 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>St. Kitts Nevis 90.7 FM</string>
+			<string>Liberty FM 92.3</string>
 			<key>logo</key>
-			<string>Nevis</string>
+			<string>Liberty</string>
 			<key>link</key>
-			<string>http://ic2.mainstreamnetwork.com/stkittsradio.m3u</string>
+			<string>http://www.surfmusic.de/m3u/92-3-liberty-fm,18733.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Voice of Nevis</string>
+			<string>Prayz FM 98.5 The Power and The Glory</string>
 			<key>logo</key>
-			<string>Voice</string>
+			<string>Prayz</string>
 			<key>link</key>
-			<string>http://vonradio.streamon.fm/listen.m3u</string>
+			<string>http://www.surfmusic.de/m3u/prayz-fm-the-power-and-the-glory,15159.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>WINN FM 98.9</string>
+			<string>RCI Caribbean International</string>
 			<key>logo</key>
-			<string>WINN</string>
+			<string>RCI</string>
 			<key>link</key>
-			<string>http://winnfm.primcast.com:9486/listen.pls</string>
+			<string>http://media.carib.pro/RCI.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-caribbean-international-rci,6612.m3u</string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZIZ</string>
+			<string>Real FM</string>
 			<key>logo</key>
-			<string>ZIZ</string>
+			<string>Real</string>
 			<key>link</key>
-			<string>http://31.14.40.141:5000/listen.pls</string>
+			<string>http://s7.voscast.com:8840/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI 102.1 FM</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rfi-102-1-fm,19771.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rizzen 102 FM</string>
+			<key>logo</key>
+			<string>Rizzen</string>
+			<key>link</key>
+			<string>http://38.96.148.38:9668/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Saint Lucia</string>
+			<key>logo</key>
+			<string>Saint</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-saint-lucia,10441.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Wave</string>
+			<key>logo</key>
+			<string>Wave</string>
+			<key>link</key>
+			<string>http://ice66.securenetsystems.net/THEWAVE.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/the-wave-st-lucia-93-7-fm,16367.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vybe</string>
+			<key>logo</key>
+			<string>Vybe</string>
+			<key>link</key>
+			<string>http://us2.internet-radio.com:8103/live.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/vybe-radio-100-9-fm-st-lucia,19015.m3u</string>
+			<key>note</key>
+			<string>News, Music</string>
 		</dict>
 	</array>
 </dict>
