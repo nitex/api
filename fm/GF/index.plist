@@ -51,39 +51,15 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Actif FM 92.8</string>
+			<string>BBlack</string>
 			<key>logo</key>
-			<string>Actif</string>
+			<string>BBlack</string>
 			<key>link</key>
-			<string>http://198.27.68.65:2199/tunein/actifradio.pls</string>
+			<string>http://srv2.streaming-ingenierie.fr:8162/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bel&apos;</string>
-			<key>logo</key>
-			<string>Bel</string>
-			<key>link</key>
-			<string>https://stream.rcs.revma.com/9b1a2gyspwzuv</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Canal Antilles 100.6 FM</string>
-			<key>logo</key>
-			<string>Canal</string>
-			<key>link</key>
-			<string>http://81.248.108.29:88/broadwavehigh.mp3?src=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,7 +67,7 @@
 			<key>logo</key>
 			<string>Cherie</string>
 			<key>link</key>
-			<string>http://2stream.dyndns.org:8000/cheriefmmq.m3u</string>
+			<string>http://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,59 +75,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fusion 103.2 FM</string>
+			<string>Classica</string>
 			<key>logo</key>
-			<string>Fusion</string>
+			<string>Classica</string>
 			<key>link</key>
-			<string>http://france16.coollabel-productions.com:8276/listen.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/fusion-95-3-fm,16697.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Imagine</string>
-			<key>logo</key>
-			<string>Imagine</string>
-			<key>link</key>
-			<string>https://www.radioking.com/play/radioimagine.m3u</string>
+			<string>http://france16.coollabel-productions.com:8280/listen.pls</string>
 			<key>http</key>
 			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Inter Tropicale</string>
-			<key>logo</key>
-			<string>Tropicale</string>
-			<key>link</key>
-			<string>http://intertropical.vestaradio.com/listen.pls</string>
-			<key>http</key>
-			<string>http://intertropical.vestaradio.com/listen.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Martinique la 1ère</string>
+			<string>France Inter</string>
+			<key>logo</key>
+			<string>Inter</string>
+			<key>link</key>
+			<string>http://icecast.radiofrance.fr/franceinter-midfi.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fun</string>
+			<key>logo</key>
+			<string>Fun</string>
+			<key>link</key>
+			<string>http://manager2.streaming-ingenierie.fr:8050/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KFM 91.6</string>
+			<key>logo</key>
+			<string>KFM</string>
+			<key>link</key>
+			<string>http://10191.go2stream.fr:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La 1ère</string>
 			<key>logo</key>
 			<string>1ere</string>
 			<key>link</key>
-			<string>http://radios.la1ere.fr/martinique</string>
+			<string>http://radios.la1ere.fr/guyane</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/rfo-martinique,16699.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>News, Talk, Music</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mouv FM</string>
+			<string>Métis FM</string>
 			<key>logo</key>
-			<string>Mouv</string>
+			<string>Metis</string>
 			<key>link</key>
-			<string>http://91.121.29.104:8136/listen.pls</string>
+			<string>http://str0.creacast.com/metisfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -163,11 +151,11 @@
 			<key>logo</key>
 			<string>Nostalgie</string>
 			<key>link</key>
-			<string>http://2stream.dyndns.org:8000/nostalgiemq.m3u</string>
+			<string>http://2stream.dyndns.org/nostalgieguy.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -175,19 +163,7 @@
 			<key>logo</key>
 			<string>NRJ</string>
 			<key>link</key>
-			<string>http://185.52.127.163/fr_an/55248/mp3_128.mp3.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/nrj-martinique,6212.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RBR 103.4 FM</string>
-			<key>logo</key>
-			<string>RBR</string>
-			<key>link</key>
-			<string>https://sv1.vestaradio.com/rbr.m3u</string>
+			<string>http://nrjguyane.ice.infomaniak.ch/nrjguyane-64.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,39 +171,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RCI</string>
+			<string>Péyi</string>
 			<key>logo</key>
-			<string>RCI</string>
+			<string>Peyi</string>
 			<key>link</key>
-			<string>https://stream.rcs.revma.com/t0abpqyspwzuv</string>
+			<string>https://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.mp3</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-caraibe-rci-martinique,17081.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Talk, Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RFC</string>
+			<string>RCF</string>
 			<key>logo</key>
-			<string>RFC</string>
+			<string>RCF</string>
 			<key>link</key>
-			<string>http://163.172.59.44/player/playlist.php?name=listen.pls</string>
+			<string>http://rcf.streamakaci.com/rcf.mp3.m3u</string>
 			<key>http</key>
-			<string>http://163.172.59.44/player/playlist.php?name=listen.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFC Muzique</string>
-			<key>logo</key>
-			<string>Muzique</string>
-			<key>link</key>
-			<string>http://163.172.59.44/player2/playlist.php?name=listen.pls</string>
-			<key>http</key>
-			<string>http://163.172.59.44/player2/playlist.php?name=listen.m3u</string>
-			<key>note</key>
-			<string>Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -239,7 +203,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Talk, Music</string>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RKS 92.4 FM</string>
+			<key>logo</key>
+			<string>RKS</string>
+			<key>link</key>
+			<string>http://37.187.119.81:8122/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kourou (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -255,23 +231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Saint-Louis FM 99.5</string>
+			<string>Rossignol 107.2 FM</string>
 			<key>logo</key>
-			<string>Louis</string>
+			<string>Rossignol</string>
 			<key>link</key>
-			<string>http://91.121.29.104:8142/listen.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-st-louis-martinique,17077.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sud Est 89.3</string>
-			<key>logo</key>
-			<string>Sud</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sud-est-89-3,6211.m3u</string>
+			<string>http://radio3.pro-fhi.net:9004/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +243,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Super</string>
+			<string>RTL2</string>
 			<key>logo</key>
-			<string>Super</string>
+			<string>RTL2</string>
 			<key>link</key>
-			<string>http://str81.streamakaci.com:9160/listen.pls</string>
+			<string>http://coollabel1.streaming-ingenierie.fr:8136/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM 103.3 FM</string>
+			<key>logo</key>
+			<string>RTM</string>
+			<key>link</key>
+			<string>http://euroticast5.euroti.com.br:8046/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RVLD - Radio Voix dans le Désert</string>
+			<key>logo</key>
+			<string>RVLD</string>
+			<key>link</key>
+			<string>http://str0.creacast.com/metisfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -295,23 +283,11 @@
 			<key>logo</key>
 			<string>Trace</string>
 			<key>link</key>
-			<string>http://stream.trace.tv/trace_fm_martinique-midfi.aac</string>
+			<string>http://stream.trace.tv/trace_fm_guyane-midfi.aac</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/trace-fm-martinique,17675.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Transat</string>
-			<key>logo</key>
-			<string>Transat</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-transat,48.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
 		</dict>
 	</array>
 </dict>
