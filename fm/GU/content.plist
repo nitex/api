@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>KGCA Melodies of Prayer</string>
+			<key>logo</key>
+			<string>KGCA</string>
+			<key>link</key>
+			<string>http://67.212.189.122:8187/listen.pls</string>
+			<key>http</key>
+			<string>http://99.198.118.250:8152/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KGUM 105.1 KAT-FM</string>
+			<key>logo</key>
+			<string>KGUM</string>
+			<key>link</key>
+			<string>http://ice2.securenetsystems.net/KGUMFM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KGUM Newstalk 567 AM</string>
+			<key>logo</key>
+			<string>567</string>
+			<key>link</key>
+			<string>http://ice2.securenetsystems.net/KGUM2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KHMG Harvest Family 88.1 FM</string>
+			<key>logo</key>
+			<string>KHMG</string>
+			<key>link</key>
+			<string>https://ic1.sslstream.com/khmg-fm?rnd=7386</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KIJI The Boss 104.3 FM</string>
+			<key>logo</key>
+			<string>KIJI</string>
+			<key>link</key>
+			<string>http://ice10.securenetsystems.net/KIJI.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KPRG Public 89.3 FM</string>
+			<key>logo</key>
+			<string>KPRG</string>
+			<key>link</key>
+			<string>http://peridot.streamguys.com:5090/live.m3u</string>
+			<key>http</key>
+			<string>http://peridot.streamguys.com:5090/live</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KSDA Joy FM</string>
+			<key>logo</key>
+			<string>KSDA</string>
+			<key>link</key>
+			<string>http://thassos.cdnstream.com:5281/streaming.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KUAM 93.9 FM</string>
+			<key>logo</key>
+			<string>KUAM</string>
+			<key>link</key>
+			<string>http://www.ophanim.net:8370/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KZGU The Shark 99.5 FM</string>
+			<key>logo</key>
+			<string>KZGU</string>
+			<key>link</key>
+			<string>http://ice8.securenetsystems.net/KRSI.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KZGZ Power 98 FM</string>
+			<key>logo</key>
+			<string>KZGZ</string>
+			<key>link</key>
+			<string>http://ice3.securenetsystems.net/KZGZ.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+	</array>
+</dict>
+</plist>
