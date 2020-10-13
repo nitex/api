@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Çar Tarapdan</string>
+			<key>logo</key>
+			<string>Tarapdan</string>
+			<key>link</key>
+			<string>http://217.174.238.59/tarap.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Turkmenistan (Туркменистан)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Miras</string>
+			<key>logo</key>
+			<string>Miras</string>
+			<key>link</key>
+			<string>http://217.174.238.59/miras.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Turkmenistan (Туркменистан)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Watan</string>
+			<key>logo</key>
+			<string>Watan</string>
+			<key>link</key>
+			<string>http://217.174.238.59/watan.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Turkmenistan (Туркменистан)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Owaz 101.3 FM</string>
+			<key>logo</key>
+			<string>Owaz</string>
+			<key>link</key>
+			<string>http://217.174.238.59/owaz.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Turkmenistan (Туркменистан)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pars Today (Türkmen)</string>
+			<key>logo</key>
+			<string>Pars</string>
+			<key>link</key>
+			<string>http://cdn1.live.irib.ir:1935/channel-live/smil:r-torkaman/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Turkmenistan (Туркменистан)</string>
+		</dict>
+	</array>
+</dict>
+</plist>
