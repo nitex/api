@@ -63,59 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Алмаз-ФМ</string>
+			<string>Азия-Плюс</string>
 			<key>logo</key>
-			<string>Almaz</string>
+			<string>Asia</string>
 			<key>link</key>
-			<string>http://almazfm.ddns.net:8888/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Европа Плюс</string>
-			<key>logo</key>
-			<string>Europa</string>
-			<key>link</key>
-			<string>http://ep256.hostingradio.ru:8052/europaplus256.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>КТРК Кыргыз</string>
-			<key>logo</key>
-			<string>KTRK</string>
-			<key>link</key>
-			<string>http://212.112.96.232:8083/</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Кыргызстан Обондору</string>
-			<key>logo</key>
-			<string>Obondoru</string>
-			<key>link</key>
-			<string>http://31.192.250.52:8000/obondoru128.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Manas 102.9 FM</string>
-			<key>logo</key>
-			<string>Manas</string>
-			<key>link</key>
-			<string>http://live.mediamanas.kg:8000/online.m3u</string>
+			<string>http://62.122.137.82:8020/ap.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,23 +75,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Марал</string>
+			<string>Ватан 106.0 FM</string>
 			<key>logo</key>
-			<string>Maral</string>
+			<string>Vatan</string>
 			<key>link</key>
-			<string>http://212.42.115.186:8000/listen.pls</string>
+			<string>http://217.11.177.201:8000/sr128.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ОК</string>
+			<string>Имруз 107.4 FM</string>
 			<key>logo</key>
-			<string>OK</string>
+			<string>Imruz</string>
 			<key>link</key>
-			<string>http://stream.okradio.kg:8000/mp3-hq.m3u</string>
+			<string>http://109.74.75.131:8000/Imruz64.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,39 +99,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Рекорд</string>
+			<string>Овози тоҷик 105.5 FM</string>
 			<key>logo</key>
-			<string>Record</string>
+			<string>Ovozi</string>
 			<key>link</key>
-			<string>http://air.radiorecord.ru:8101/rr_320.m3u</string>
+			<string>https://str-4.mediabay.tv/Radio_OvoziTojik/tracks-a1/mono.m3u8?token=4531178f567650fd14ee711f3294f6c8914a03f4-445d9ebfbd6cea5082cc68197ae824db-1573839741-1573828941</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ретро FM</string>
+			<string>Садои Душанбе</string>
 			<key>logo</key>
-			<string>Retro</string>
+			<string>Sadoidushanbe</string>
 			<key>link</key>
-			<string>http://retroserver.streamr.ru:8043/retro256.mp3.m3u</string>
+			<string>https://str-4.mediabay.tv/Radio_SadoiDushanbe/tracks-a1/mono.m3u8?token=1b0201334d3466862f7bab7b01e1f2ad106cd9be-ca4298883a3c245b1ca4f69970481cb1-1573839741-1573828941</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Romantika</string>
-			<key>logo</key>
-			<string>Romantika</string>
-			<key>link</key>
-			<string>https://pub0302.101.ru:8443/stream/air/aac/64/101.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,7 +127,19 @@
 			<key>logo</key>
 			<string>Sputnik</string>
 			<key>link</key>
-			<string>http://nfw.ria.ru/flv/audio.aspx?ID=34872596&amp;type=mp3</string>
+			<string>http://nfw.ria.ru/flv/audio.aspx?ID=68862011&amp;type=mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Тоҷикистон 104.7 FM</string>
+			<key>logo</key>
+			<string>Tojikiston</string>
+			<key>link</key>
+			<string>https://str-4.mediabay.tv/Radio_Tajik/tracks-a1/mono.m3u8?token=18e5687350f827906133ae3d87474ab923c09c5f-8398d55fb99611192ca40c3b52577e36-1573839741-1573828941</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,39 +147,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Тумар FM 101.3</string>
+			<string>Фарҳанг 106.5 FM</string>
 			<key>logo</key>
-			<string>Tumar</string>
+			<string>Farhang</string>
 			<key>link</key>
-			<string>http://live.tumar.fm:8000/online.m3u</string>
+			<string>https://str-4.mediabay.tv/Radio_Farhang/tracks-a1/mono.m3u8?token=675a828662eaea0613bed07596f2a3d31cd65193-ace3cfa278cc70a25a5469002ccf559d-1573839741-1573828941</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Talk</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Хит FM 105.6</string>
+			<string>Ховар 101.5 FM</string>
 			<key>logo</key>
-			<string>Hit</string>
+			<string>Hobar</string>
 			<key>link</key>
-			<string>http://radio.city.kg:8000/hitfm-bishkek.mp3.m3u</string>
+			<string>http://193.124.66.132:8001/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Эхо Москвы 91.2 FM</string>
-			<key>logo</key>
-			<string>Echo</string>
-			<key>link</key>
-			<string>http://ice912.echo.msk.ru:9120/32.aac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News</string>
+			<string>Talk</string>
 		</dict>
 	</array>
 </dict>
