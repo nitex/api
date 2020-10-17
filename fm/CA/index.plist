@@ -501,7 +501,7 @@
 			<key>link</key>
 			<string>http://cjsi.streamon.fm/listen.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://cjry.streamon.fm/listen.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -987,11 +987,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFBR The Bear 100.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFBR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CFBRFM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -999,11 +999,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKER 101.7 World FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKER</string>
 			<key>link</key>
-			<string></string>
+			<string>http://rogers-hls.leanstream.co/rogers/edm1017.stream/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1011,11 +1011,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHDI Sonic 102.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHDI</string>
 			<key>link</key>
-			<string></string>
+			<string>http://rogers-hls.leanstream.co/rogers/edm1029.stream/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1023,11 +1023,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CISN Country 103.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CISN</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.leanstream.co/CISNFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1035,11 +1035,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJNW Hot 107.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJNW</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cjnw.streamon.fm/listen.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1047,11 +1047,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKFT Mix 107.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKFT</string>
 			<key>link</key>
-			<string></string>
+			<string>http://goldenwestsites.com/stream/ckft_mp3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1059,11 +1059,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFCW Country Legend 840 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Legend</string>
 			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CFCWAM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1071,11 +1071,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKJR W1440 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKJR</string>
 			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CKJRAM.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Olies Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHNI Q88.9</string>
+			<key>logo</key>
+			<string>CHNI</string>
+			<key>link</key>
+			<string>http://newcap.leanstream.co/CHNIFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1083,11 +1095,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJPN 90.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJPN</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream2.statsradio.com:8022/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1095,11 +1107,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFRK New Country 92.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFRK</string>
 			<key>link</key>
+			<string>http://newcap.leanstream.co/CFRKFM.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CIHI Up! 93.1 FM</string>
+			<key>logo</key>
+			<string>CIHI</string>
+			<key>link</key>
+			<string>http://newcap.leanstream.co/CIHIFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
