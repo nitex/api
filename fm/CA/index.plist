@@ -219,13 +219,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CJWL Jewel 98.5 FM</string>
+			<string>Jewel</string>
 			<key>logo</key>
-			<string>CJWL</string>
+			<string>Jewel</string>
 			<key>link</key>
 			<string>http://ice2.securenetsystems.net/CJWL.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://ice41.securenetsystems.net/CKHY.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -915,13 +915,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CKRA The Breeze 96.3 FM</string>
+			<string>The Breeze</string>
 			<key>logo</key>
-			<string>CKRA</string>
+			<string>Breeze</string>
 			<key>link</key>
 			<string>http://newcap.leanstream.co/CKRAFM-MP3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CKULFM-MP3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1287,9 +1287,105 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKWM Magic 94.9 FM</string>
 			<key>logo</key>
+			<string>CKWM</string>
+			<key>link</key>
+			<string>http://mbsradio.leanstream.co/CKWMFM-MP3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJNI News 95.7 FM</string>
+			<key>logo</key>
+			<string>CJNI</string>
+			<key>link</key>
+			<string>http://rogers-hls.leanstream.co/rogers/hal957.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKRH Oui 98.5 FM</string>
+			<key>logo</key>
+			<string>CKRH</string>
+			<key>link</key>
+			<string>https://stream2.statsradio.com/8076/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHHU Middle East Radio</string>
+			<key>logo</key>
+			<string>CHHU</string>
+			<key>link</key>
+			<string>https://s7.voscast.com:10567/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CIOO 100.1 FM</string>
+			<key>logo</key>
+			<string>CIOO</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CIOOFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHFX FX101.9 FM</string>
+			<key>logo</key>
+			<string>CHFX</string>
+			<key>link</key>
+			<string>http://mbsradio.leanstream.co/CHFXFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKHZ Hot Country 103.5 FM</string>
+			<key>logo</key>
+			<string>CKHZ</string>
+			<key>link</key>
+			<string>http://ice41.securenetsystems.net/CKHZ.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFRQ Q104.3 FM</string>
+			<key>logo</key>
+			<string>CFRQ</string>
+			<key>link</key>
+			<string>http://newcap.leanstream.co/CFRQFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKHY Jewel 105.1 FM</string>
+			<key>logo</key>
+			<string>CKHY</string>
 			<key>link</key>
 			<string></string>
 			<key>http</key>
@@ -1299,11 +1395,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFEP 105.9 Seaside FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFEP</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cassini.shoutca.st:8215/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1311,11 +1407,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKEN AVR 97.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>AVR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://mbsradio.leanstream.co/CKENFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1323,107 +1419,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CIND Indie 88.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CIND</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://cob-ais.leanstream.co/CINDFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
