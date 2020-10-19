@@ -207,13 +207,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CJLL-FM 97.9 International</string>
+			<string>International Radio</string>
 			<key>logo</key>
-			<string>CJLL</string>
+			<string>International</string>
 			<key>link</key>
 			<string>http://ice7.securenetsystems.net/CJLLFM.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://ice7.securenetsystems.net/CHINFM.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1575,11 +1575,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CING Energy 95.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CING</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.leanstream.co/CINGFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1587,11 +1587,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFMZ Classical 96.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFMZ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radiostream.zoomer.ca:8000/cfmz.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1599,11 +1599,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Perfect Music Mix</string>
 			<key>logo</key>
-			<string></string>
+			<string>Perfect</string>
 			<key>link</key>
+			<string>http://rogers-hls.leanstream.co/rogers/kit967.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://rogers-hls.leanstream.co/rogers/tor981.stream/playlist.m3u8</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHBM Boom 97.3 FM</string>
+			<key>logo</key>
+			<string>CHBM</string>
+			<key>link</key>
+			<string>http://newcap.leanstream.co/CHBMFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1611,11 +1623,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHTZ 97.7 HTZ-FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHTZ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CHTZFM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1623,11 +1635,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFRB Newstalk 1010</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFRB</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CFRBAM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1635,11 +1647,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFLZ 101.1 More FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFLZ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ais-sa1.streamon.fm/7133_48k.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1647,11 +1659,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFNY The Edge 102.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFNY</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.leanstream.co/CFNYFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1659,11 +1671,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKLH K-Lite 102.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKLH</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CKLHFM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1671,11 +1683,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CIDC Z103.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CIDC</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ice23.securenetsystems.net/CIDC.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1683,11 +1695,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKDK Country 104</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKDK</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.leanstream.co/CKDKFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1695,59 +1707,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHUM 104.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHUM</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CHUMFM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
