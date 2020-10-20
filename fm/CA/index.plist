@@ -279,13 +279,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CFGO TSN Radio 1200 AM</string>
+			<string>TSN</string>
 			<key>logo</key>
-			<string>CFGO</string>
+			<string>TSN</string>
 			<key>link</key>
-			<string>http://playerservices.streamtheworld.com/pls/CFGOAM.pls</string>
+			<string>http://playerservices.streamtheworld.com/pls/CHUMAM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CFGOAM.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -751,9 +751,9 @@
 			<key>logo</key>
 			<string>Q107</string>
 			<key>link</key>
-			<string>http://live.leanstream.co/CFGQFM-MP3.m3u</string>
+			<string>http://live.leanstream.co/CILQFM-MP3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live.leanstream.co/CFGQFM-MP3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -807,25 +807,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CFAC Sportsnet The Fan 960 AM</string>
+			<string>Sportsnet The Fan</string>
 			<key>logo</key>
-			<string>CFAC</string>
+			<string>Sportsnet</string>
 			<key>link</key>
-			<string>http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8</string>
+			<string>http://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://rogers-hls.leanstream.co/rogers/cal960.stream/playlist.m3u8</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CKMX Funny 1060 AM</string>
+			<string>Funny</string>
 			<key>logo</key>
-			<string>CKMX</string>
+			<string>Funny</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/CKMXAM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CHAMAM.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1143,18 +1143,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CKHJ Pure Country 1260 AM</string>
-			<key>logo</key>
-			<string>CKHJ</string>
-			<key>link</key>
-			<string>http://playerservices.streamtheworld.com/pls/CKHJAM.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>CKTP 95.7 The Wolf</string>
 			<key>logo</key>
 			<string>CKTP</string>
@@ -1376,18 +1364,6 @@
 			<string>CFRQ</string>
 			<key>link</key>
 			<string>http://newcap.leanstream.co/CFRQFM-MP3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CKHY Jewel 105.1 FM</string>
-			<key>logo</key>
-			<string>CKHY</string>
-			<key>link</key>
-			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1712,6 +1688,618 @@
 			<string>CHUM</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/CHUMFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHRE 105.7 FM - Niagara&apos;s EZ Rock</string>
+			<key>logo</key>
+			<string>CHRE</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CHREFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CIMJ Magic 106.1 FM</string>
+			<key>logo</key>
+			<string>CIMJ</string>
+			<key>link</key>
+			<string>http://live.leanstream.co/CIMJFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJXY 107.9 FM - Y108</string>
+			<key>logo</key>
+			<string>CJXY</string>
+			<key>link</key>
+			<string>http://live.leanstream.co/CJXYFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XMJ225 Weatheradio</string>
+			<key>logo</key>
+			<string>Weatheradio</string>
+			<key>link</key>
+			<string>http://wxradio.dyndns.org:8000/vicarage.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHLO Multicultural 530 AM</string>
+			<key>logo</key>
+			<string>CHLO</string>
+			<key>link</key>
+			<string>http://ice23.securenetsystems.net/CIAO.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKGL 570 News</string>
+			<key>logo</key>
+			<string>CKGL</string>
+			<key>link</key>
+			<string>http://rogers-hls.leanstream.co/rogers/kit570.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKTB Newstalk 610 AM</string>
+			<key>logo</key>
+			<string>CKTB</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CKTBAM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKLW AM800</string>
+			<key>logo</key>
+			<string>CKLW</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CKLWAM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKNT Sauga 960 AM</string>
+			<key>logo</key>
+			<string>CKNT</string>
+			<key>link</key>
+			<string>http://stream2.statsradio.com:8066/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJYE Joy 1250 AM</string>
+			<key>logo</key>
+			<string>CJYE</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/JOY1250AAC.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJMR Voice of the City 1320 AM</string>
+			<key>logo</key>
+			<string>CJMR</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CJMRAM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJMR Parvasi</string>
+			<key>logo</key>
+			<string>Parvasi</string>
+			<key>link</key>
+			<string>http://shout.audionow.com:8000/RadioBuggi.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
