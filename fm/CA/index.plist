@@ -543,13 +543,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CHKF 加拿大中文電台 94.7 FM</string>
+			<string>加拿大中文電台</string>
 			<key>logo</key>
 			<string>CHKF</string>
 			<key>link</key>
-			<string>https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8</string>
+			<string>https://5b2959fe11444.streamlock.net/radio/am1430.stream/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>https://5b2959fe11444.streamlock.net/radio/fm947.stream/playlist.m3u8</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1695,13 +1695,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CHRE 105.7 FM - Niagara&apos;s EZ Rock</string>
+			<string>EZ Rock</string>
 			<key>logo</key>
-			<string>CHRE</string>
+			<string>EZ</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/CHREFM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CILKFM.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1839,11 +1839,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJMR Rangla Punjab</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rangla</string>
 			<key>link</key>
-			<string></string>
+			<string>http://shout.audionow.com:8000/ANPunjab.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1851,11 +1851,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJOY Greatest Hits 1460 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJOY</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.leanstream.co/CJOYAM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1863,11 +1863,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>A1中文電台 AM1540</string>
 			<key>logo</key>
-			<string></string>
+			<string>A1</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streams.museter.com:8560/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1875,11 +1875,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHHA Voces Latinas 1610 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHHA</string>
 			<key>link</key>
+			<string>http://192.168.10.126:100/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string>http://72.139.27.130:100/broadwave.mp3?src=1&amp;rate=1</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gaunda Punjab</string>
+			<key>logo</key>
+			<string>Gaunda</string>
+			<key>link</key>
+			<string>http://192.168.10.126:100/broadwave.m3u?src=1&amp;rate=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1887,11 +1899,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CINA Radio India 1650 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CINA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ice8.securenetsystems.net/CINA.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1899,11 +1911,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHTO Hellenic Radio 1690 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHTO</string>
 			<key>link</key>
-			<string></string>
+			<string>http://sc8.spacialnet.com:25868/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1911,11 +1923,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKGC 103.5 Capital FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKGC</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ca2.rcast.net:8018/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1923,11 +1935,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFRT Radio francophone 107.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFRT</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream2.statsradio.com:8058/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1935,11 +1947,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKKO K96.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKKO</string>
 			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CKKOFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1947,11 +1959,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHSU 99.9 Sun FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHSU</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CHSUFM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1959,23 +1971,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CIGV Country 100.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CIGV</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CIGVFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
