@@ -159,13 +159,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CIMF 94.9 Rouge FM</string>
+			<string>Rouge FM</string>
 			<key>logo</key>
-			<string>CIMF</string>
+			<string>Rouge</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/CIMFFM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CITE1FM.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1737,7 +1737,7 @@
 			<key>link</key>
 			<string>http://wxradio.dyndns.org:8000/vicarage.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://wxradio.dyndns.org:8000/NickWeatherBlog/Montreal.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2727,11 +2727,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHMP 98.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHMP</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cogecomedia.leanstream.co/CHMPFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2739,11 +2739,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJPX Classique 99.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJPX</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream2.statsradio.com:8006/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2751,11 +2751,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKVL LaSalle 100.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKVL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://72.29.89.48:8002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2763,11 +2763,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CIBL Radio-Montréal 101.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CIBL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream02.ustream.ca/cibl128.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2775,11 +2775,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CINQ Centre-Ville 102.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CINQ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radiocen.streaming.webboreal.com:10002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2787,11 +2787,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHAA 103.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHAA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.statsradio.com:8062/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2799,11 +2799,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKRK K103.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKRK</string>
 			<key>link</key>
-			<string></string>
+			<string>http://knw-stream.mohawk.ca:8000/k103.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2811,11 +2811,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CIME 103.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CIME</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cogecomedia.leanstream.co/CIMEFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2823,11 +2823,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFGL Rythme 105.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFGL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cogecomedia.leanstream.co/CFGLFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2835,11 +2835,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKIN 106.3 FM - CINA</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKIN</string>
 			<key>link</key>
+			<string>http://ice64.securenetsystems.net/CKIN.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJAD News Talk 800 AM</string>
+			<key>logo</key>
+			<string>CJAD</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CJADAM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2847,11 +2859,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJMS Country 1040 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJMS</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.xltrax.com:8860/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2859,35 +2871,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJWI CPAM Radio Union 1410 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJWI</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://s1.voscast.com:7538/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
