@@ -75,13 +75,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CIHT Hot 89.9 FM</string>
+			<string>Hot</string>
 			<key>logo</key>
-			<string>CIHT</string>
+			<string>Hot</string>
 			<key>link</key>
 			<string>http://newcap.leanstream.co/CIHTFM-MP3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CKQKFM.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -339,13 +339,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CKTF Énergie</string>
+			<string>Énergie</string>
 			<key>logo</key>
-			<string>CKTF</string>
+			<string>Energie</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/CKTFFM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CKMFFM.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2583,11 +2583,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKDH Country 101.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKDH</string>
 			<key>link</key>
-			<string></string>
+			<string>http://mbsradio.leanstream.co/CKDHFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2595,11 +2595,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJMO 103.1 FM - C103</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJMO</string>
 			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CJMOFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2607,11 +2607,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFQM 103.9 Max FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFQM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://mbsradio.leanstream.co/CFQMFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2619,11 +2619,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CITA 105.1 Harvesters FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CITA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cassini.shoutca.st:8833/stream3/listen.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2631,11 +2631,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKOE 107.3 FM (CKO-1)</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKOE</string>
 			<key>link</key>
+			<string>http://us7.maindigitalstream.com/1922/?pl=winamp&amp;c=CKO1%20Radio%20107.3%20FM</string>
+			<key>http</key>
+			<string>http://us2.streamingpulse.com:8110/stream.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFTA 107.9 FM</string>
+			<key>logo</key>
+			<string>CFTA</string>
+			<key>link</key>
+			<string>http://s15.myradiostream.com:14808/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2643,11 +2655,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CISM 89.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CISM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream03.ustream.ca/cism128.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2655,11 +2667,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKUT Radio McGill 90.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKUT</string>
 			<key>link</key>
-			<string></string>
+			<string>http://icecast.ckut.ca:8000/903fm-128-stereo.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2667,11 +2679,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CIRA Radio VM 91.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CIRA</string>
 			<key>link</key>
-			<string></string>
+			<string>http://192.240.102.130:7601/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2679,11 +2691,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKLX Sports 91.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKLX</string>
 			<key>link</key>
-			<string></string>
+			<string>http://icecast-cklx.rncm.ca/cklx.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2691,11 +2703,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKBE The Beat 92.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKBE</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cogecomedia.leanstream.co/CKBEFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2703,23 +2715,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKOI 96.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKOI</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://cogecomedia.leanstream.co/CKOIFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
