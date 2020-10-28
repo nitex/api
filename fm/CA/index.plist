@@ -2643,6 +2643,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CJRP 103.5 FM (CKO-2)</string>
+			<key>logo</key>
+			<string>CJRP</string>
+			<key>link</key>
+			<string>http://us7.maindigitalstream.com/1459/?pl=winamp&amp;c=CKO%202%20Radio</string>
+			<key>http</key>
+			<string>http://us2.streamingpulse.com:8112/stream.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>CFTA 107.9 FM</string>
 			<key>logo</key>
 			<string>CFTA</string>
@@ -3171,11 +3183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CILG Country 100.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CILG</string>
 			<key>link</key>
-			<string></string>
+			<string>http://goldenwestsites.com/stream/cilg_mp3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3183,11 +3195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJAW Mix 103.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJAW</string>
 			<key>link</key>
-			<string></string>
+			<string>http://goldenwestsites.com/stream/cjaw_mp3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3195,11 +3207,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFWF The Wolf 104.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFWF</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cfwf.streamon.fm/listen.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3207,11 +3219,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKRM The Source 620 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKRM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ckrm.streamon.fm/listen.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3219,11 +3231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHAB 800 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHAB</string>
 			<key>link</key>
-			<string></string>
+			<string>http://goldenwestsites.com/stream/800chabmp3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3231,11 +3243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJGX 940 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJGX</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cjgx.streamon.fm/listen.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3243,11 +3255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFSL 1190 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFSL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://goldenwestsites.com/stream/cfsl_mp3.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3255,11 +3267,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CINB New Song 96.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CINB</string>
 			<key>link</key>
+			<string>http://ic2.sslstream.com/cinb-fm.m3u</string>
+			<key>http</key>
+			<string>https://us7.maindigitalstream.com/3596/?pl=winamp&amp;c=NewSong%20FM</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHTD 98.1 Charlotte FM</string>
+			<key>logo</key>
+			<string>CHTD</string>
+			<key>link</key>
+			<string>http://ais-sa1.streamon.fm/7236_48k.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3267,11 +3291,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHQC 105.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHQC</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream2.statsradio.com:8026/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3279,11 +3303,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFMH Local 107.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFMH</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cfmh-listen.unbsj.ca:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3291,47 +3315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CICQ 92.3 FM Tourist</string>
 			<key>logo</key>
-			<string></string>
+			<string>CICQ</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://stream.haxent.ca:8010/cicqfm.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
