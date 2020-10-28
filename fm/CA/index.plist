@@ -903,13 +903,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CKEA Cruz 95.7 FM</string>
+			<string>Cruz FM</string>
 			<key>logo</key>
-			<string>CKEA</string>
+			<string>Cruz</string>
 			<key>link</key>
 			<string>http://ckea.streamon.fm/listen.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://cfwd.streamon.fm/listen.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -3327,11 +3327,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHMR 93.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHMR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://mp3srv.munsu.mun.ca:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3339,11 +3339,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHOZ 94.7 OZFM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHOZ</string>
 			<key>link</key>
-			<string></string>
+			<string>http://174.37.159.206:8262/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3351,11 +3351,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VOAR Lighthouse 96.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>VOAR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s3.voscast.com:7820/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3363,11 +3363,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VOCM K-Rock 97.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>VOCM</string>
 			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/VOCMFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3375,11 +3375,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKIX 99.1 Hits FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKIX</string>
 			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CKIXFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3387,11 +3387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKSJ Coast 101.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKSJ</string>
 			<key>link</key>
-			<string></string>
+			<string>https://canada1.reliastream.com/proxy/coastbr1?mp=/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3399,11 +3399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CHVO Kixx Country 103.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CHVO</string>
 			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/CHVOFM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3411,11 +3411,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VOCM Local News Now 590 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>590</string>
 			<key>link</key>
-			<string></string>
+			<string>http://newcap.leanstream.co/VOCMAM-MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3423,11 +3423,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VOWR 800 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>VOWR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/VOWRAM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3435,11 +3435,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CFCR 90.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CFCR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair.cfcr.ca/compatible.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -3447,87 +3447,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CKBL The Bull 92.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>CKBL</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CKBLFM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CJMK 98.3 FM - 98 Cool</string>
 			<key>logo</key>
-			<string></string>
+			<string>CJMK</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CJMKFM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
