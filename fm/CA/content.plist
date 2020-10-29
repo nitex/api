@@ -183,13 +183,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CFPO 95.7 Elmnt FM</string>
+			<string>Elmnt FM</string>
 			<key>logo</key>
-			<string>CFPO</string>
+			<string>Elmnt</string>
 			<key>link</key>
-			<string>http://ice10.securenetsystems.net/CFPO.m3u</string>
+			<string>http://ice10.securenetsystems.net/CFPT.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://ice10.securenetsystems.net/CFPO.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1527,13 +1527,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CHKX 94.7 FM - New Country KX94.7</string>
+			<string>New Country KX</string>
 			<key>logo</key>
-			<string>CHKX</string>
+			<string>KX</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/CHKXFM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/CJKXFM.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1575,13 +1575,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CFMZ Classical 96.3 FM</string>
+			<string>Classical FM</string>
 			<key>logo</key>
-			<string>CFMZ</string>
+			<string>Classical</string>
 			<key>link</key>
 			<string>http://radiostream.zoomer.ca:8000/cfmz.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radiostream.zoomer.ca:8000/cfmx.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -3480,6 +3480,630 @@
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFGW 94.1 Fox FM</string>
+			<key>logo</key>
+			<string>CFGW</string>
+			<key>link</key>
+			<string>http://cfgw.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHQX Mix 101.5 FM</string>
+			<key>logo</key>
+			<string>CHQX</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/MIX101FM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHBO Bolt 107.5 FM</string>
+			<key>logo</key>
+			<string>CHBO</string>
+			<key>link</key>
+			<string>http://goldenwestsites.com/stream/chbo_mp3.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKSW 570 AM</string>
+			<key>logo</key>
+			<string>CKSW</string>
+			<key>link</key>
+			<string>http://goldenwestsites.com/stream/cksw_mp3.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJWW 600 AM</string>
+			<key>logo</key>
+			<string>CJWW</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CJWWAM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKJH 750 AM</string>
+			<key>logo</key>
+			<string>CKJH</string>
+			<key>link</key>
+			<string>http://ckjh.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKBI Today&apos;s Country 900 AM</string>
+			<key>logo</key>
+			<string>CKBI</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/900CKBI.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJRQ Rock 92.7 FM</string>
+			<key>logo</key>
+			<string>CJRQ</string>
+			<key>link</key>
+			<string>http://rogers-hls.leanstream.co/rogers/sud927.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKNR 94.1 Moose FM</string>
+			<key>logo</key>
+			<string>CKNR</string>
+			<key>link</key>
+			<string>http://listenlive.vistaradio.ca/CKNR.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJTK 95.5 KFM</string>
+			<key>logo</key>
+			<string>CJTK</string>
+			<key>link</key>
+			<string>http://173.193.205.96:8116/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKLU Campus Radio 96.7 FM</string>
+			<key>logo</key>
+			<string>CKLU</string>
+			<key>link</key>
+			<string>http://ckluradio.laurentian.ca:88/broadwave.mp3.m3u</string>
+			<key>http</key>
+			<string>http://ckluradio.laurentian.ca:88/broadwave.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFRM The Island 100.7 FM</string>
+			<key>logo</key>
+			<string>CFRM</string>
+			<key>link</key>
+			<string>http://cfrm.vianet.ca:8101/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHNO Rewind 103.9 FM</string>
+			<key>logo</key>
+			<string>CHNO</string>
+			<key>link</key>
+			<string>http://newcap.leanstream.co/CHNOFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKPR Best Music 91.5 FM</string>
+			<key>logo</key>
+			<string>CKPR</string>
+			<key>link</key>
+			<string>http://ckpr.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJSD Rock 94.3 FM</string>
+			<key>logo</key>
+			<string>CJSD</string>
+			<key>link</key>
+			<string>http://cjsd.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJUK 99.9 The Bay</string>
+			<key>logo</key>
+			<string>CJUK</string>
+			<key>link</key>
+			<string>http://ais-sa1.streamon.fm/7237_48k.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CILU LU 102.7 FM</string>
+			<key>logo</key>
+			<string>CILU</string>
+			<key>link</key>
+			<string>http://luradio-server.lakeheadu.ca:8000/stereo128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energy 103-104</string>
+			<key>logo</key>
+			<string>Energy</string>
+			<key>link</key>
+			<string>http://cfqk.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKTG 105.3 FM - Country 105</string>
+			<key>logo</key>
+			<string>CKTG</string>
+			<key>link</key>
+			<string>http://ais-sa1.streamon.fm/7238_48k.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFXJ Flow 93.5 FM</string>
+			<key>logo</key>
+			<string>CFXJ</string>
+			<key>link</key>
+			<string>http://newcap.leanstream.co/CFXJFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKGE The Rock 94.9 FM</string>
+			<key>logo</key>
+			<string>CKGE</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CKGEFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKHC Radio Humber 96.9 FM</string>
+			<key>logo</key>
+			<string>CKHC</string>
+			<key>link</key>
+			<string>http://live.leanstream.co/CKHCFM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKFG G 98.7 FM</string>
+			<key>logo</key>
+			<string>CKFG</string>
+			<key>link</key>
+			<string>http://ic1.sslstream.com/ckfg-fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJLF Life 100.3 FM</string>
+			<key>logo</key>
+			<string>CJLF</string>
+			<key>link</key>
+			<string>https://netstream.lifeonline.fm/CJLF/128mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CMR Diversity - CJSA 101.3 FM</string>
+			<key>logo</key>
+			<string>CJSA</string>
+			<key>link</key>
+			<string>https://live.cmr24.net/CMR/CMR-MQ/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CMR 101.3 HD2 - Tamil</string>
+			<key>logo</key>
+			<string>HD2</string>
+			<key>link</key>
+			<string>https://live.cmr24.net/CMR/TamilHD-MQ/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CMR 101.3 HD3 - Hindi/Urdu</string>
+			<key>logo</key>
+			<string>HD3</string>
+			<key>link</key>
+			<string>https://live.cmr24.net/CMR/Desi_Music-MQ/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CMR 101.3 HD4 - Punjabi</string>
+			<key>logo</key>
+			<string>HD4</string>
+			<key>link</key>
+			<string>https://live.cmr24.net/CMR/Punjabi-MQ/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJRK 102.7 East FM</string>
+			<key>logo</key>
+			<string>CJRK</string>
+			<key>link</key>
+			<string>http://174.142.215.249:9966/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>華語電台 - 多伦多 (CCR)</string>
+			<key>logo</key>
+			<string>CCR</string>
+			<key>link</key>
+			<string>http://50.7.68.251:7038/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CIRR Proud 103.9 FM</string>
+			<key>logo</key>
+			<string>CIRR</string>
+			<key>link</key>
+			<string>http://ice7.securenetsystems.net/CIRR.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHOQ 105.1 FM</string>
+			<key>logo</key>
+			<string>CHOQ</string>
+			<key>link</key>
+			<string>http://ice9.securenetsystems.net/CHOQ.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHRY Vibe 105.5 FM</string>
+			<key>logo</key>
+			<string>CHRY</string>
+			<key>link</key>
+			<string>http://ice7.securenetsystems.net/CHRY.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFMS The Region 105.9 FM</string>
+			<key>logo</key>
+			<string>CFMS</string>
+			<key>link</key>
+			<string>http://174.142.215.249:9966/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFMS 105.9 Chinese</string>
+			<key>logo</key>
+			<string>Chinese</string>
+			<key>link</key>
+			<string>http://s3.voscast.com:9272/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFMS 105.9 Farsi</string>
+			<key>logo</key>
+			<string>Farsi</string>
+			<key>link</key>
+			<string>http://s5.voscast.com:8554/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJRU The Scope 1280 AM</string>
+			<key>logo</key>
+			<string>CJRU</string>
+			<key>link</key>
+			<string>http://ryerson.out.airtime.pro:8000/ryerson_a.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJSU 89.7 Juice FM</string>
+			<key>logo</key>
+			<string>CJSU</string>
+			<key>link</key>
+			<string>http://listenlive.vistaradio.ca/CJSU.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJSF 90.1 FM</string>
+			<key>logo</key>
+			<string>CJSF</string>
+			<key>link</key>
+			<string>http://www.cjsf.ca:8000/listen-hq.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJZN The Zone 91.3 FM</string>
+			<key>logo</key>
+			<string>CJZN</string>
+			<key>link</key>
+			<string>http://cjzn.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKAY 91.7 Coast FM</string>
+			<key>logo</key>
+			<string>CKAY</string>
+			<key>link</key>
+			<string>http://listenlive.vistaradio.ca/CKAY.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CJJR 93.7 JRfm</string>
+			<key>logo</key>
+			<string>CJJR</string>
+			<key>link</key>
+			<string>http://jrfm.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKZZ Z95.3 FM</string>
+			<key>logo</key>
+			<string>CKZZ</string>
+			<key>link</key>
+			<string>http://newcap.leanstream.co/CKZZFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bepa 96.1 FM</string>
+			<key>logo</key>
+			<string>Bepa</string>
+			<key>link</key>
+			<string>http://online.veracanada.fm/128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CIRH 98.3 FM - Roundhouse</string>
+			<key>logo</key>
+			<string>CIRH</string>
+			<key>link</key>
+			<string>http://cirh2.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CIOC Ocean 98.5 FM</string>
+			<key>logo</key>
+			<string>CIOC</string>
+			<key>link</key>
+			<string>http://rogers-hls.leanstream.co/rogers/vic985.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFOX 99.3 FM</string>
+			<key>logo</key>
+			<string>CFOX</string>
+			<key>link</key>
+			<string>http://live.leanstream.co/CFOXFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKKQ The Q 100.3 FM</string>
+			<key>logo</key>
+			<string>CKKQ</string>
+			<key>link</key>
+			<string>http://ckkq.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFRO Co-op 100.5 FM</string>
+			<key>logo</key>
+			<string>CFRO</string>
+			<key>link</key>
+			<string>http://www.virishi.net:8000/cfro-64k-mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CFMI Rock 101.1 FM</string>
+			<key>logo</key>
+			<string>CFMI</string>
+			<key>link</key>
+			<string>http://live.leanstream.co/CFMIFM-MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CHLY Malaspina 101.7 FM</string>
+			<key>logo</key>
+			<string>CHLY</string>
+			<key>link</key>
+			<string>http://184.69.114.194:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CKWV The Wave 102.3 FM</string>
+			<key>logo</key>
+			<string>CKWV</string>
+			<key>link</key>
+			<string>http://ckwv.streamon.fm/listen.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
