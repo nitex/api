@@ -63,31 +63,67 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>98.1 Arman FM</string>
+			<string>Arazokia FM 90.3</string>
+			<key>logo</key>
+			<string>Arazokia</string>
+			<key>link</key>
+			<string>http://158.69.225.238:4723/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/arazokia-90-3-fm,17586.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ariana FM 93.5 - کابل</string>
+			<key>logo</key>
+			<string>Ariana</string>
+			<key>link</key>
+			<string>https://streams.radio.co/sa3345aaa8/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arman FM 98.1</string>
 			<key>logo</key>
 			<string>Arman</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/98-1-arman-fm,10311.m3u</string>
+			<string>http://158.69.225.238:3953/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/98-1-arman-fm,10311.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Arazokia 90.3 FM</string>
+			<string>ATN News FM 100.2 - کابل</string>
 			<key>logo</key>
-			<string>Arazokia</string>
+			<string>ATN</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/arazokia-90-3-fm,17586.m3u</string>
+			<string>https://streams.radio.co/sb55071395/listen</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bakhtar Radio</string>
+			<string>Azadi</string>
+			<key>logo</key>
+			<string>Azadi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-azadi,19718.m3u</string>
+			<key>http</key>
+			<string>https://audio.rferl.org/AF/2020/05/17/20200517-140000-AF061-program.mp3?download=1</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bakhtar</string>
 			<key>logo</key>
 			<string>Bakhtar</string>
 			<key>link</key>
@@ -107,7 +143,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -115,23 +151,71 @@
 			<key>logo</key>
 			<string>BFBS</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bfbs-afghanistan,15832.m3u</string>
+			<string>http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/bfbs-afghanistan,15832.m3u</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Azadi</string>
+			<string>Sky News Arabia</string>
 			<key>logo</key>
-			<string>Azadi</string>
+			<string>Sky</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-azadi,19718.m3u</string>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
 			<key>http</key>
-			<string>https://audio.rferl.org/AF/2020/05/17/20200517-140000-AF061-program.mp3?download=1</string>
+			<string></string>
 			<key>note</key>
-			<string>News</string>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>رادیو جوانان - کابل 97.5 اف ام</string>
+			<key>logo</key>
+			<string>Jawanan</string>
+			<key>link</key>
+			<string>https://s3.radio.co/s3a13a855f/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو سلام وطندار - افغانستان</string>
+			<key>logo</key>
+			<string>Salam</string>
+			<key>link</key>
+			<string>http://176.31.248.14:12238/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>سپوږمۍ راډیو - کابل</string>
+			<key>logo</key>
+			<string>Spogmai</string>
+			<key>link</key>
+			<string>http://ca10.rcast.net:8026/listen.pls</string>
+			<key>http</key>
+			<string>https://ca10ssl.rcast.net/stream/61805.mp3</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو سوا الخليج</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
