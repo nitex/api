@@ -93,7 +93,7 @@
 			<key>link</key>
 			<string>https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac</string>
 			<key>http</key>
-			<string></string>
+			<string>http://elbahdja.ice.infomaniak.ch/elbahdja-32.aac.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -175,9 +175,9 @@
 			<key>logo</key>
 			<string>Blida</string>
 			<key>link</key>
-			<string>https://blida.ice.infomaniak.ch/09.aac</string>
+			<string>http://blida.ice.infomaniak.ch/09.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://blida.ice.infomaniak.ch/09.aac</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -211,9 +211,9 @@
 			<key>logo</key>
 			<string>Boumerdes</string>
 			<key>link</key>
-			<string>https://boumerdes.ice.infomaniak.ch/35.aac</string>
+			<string>http://boumerdes.ice.infomaniak.ch/35.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://boumerdes.ice.infomaniak.ch/35.aac</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -227,7 +227,7 @@
 			<key>http</key>
 			<string>https://ch1.ice.infomaniak.ch/ch1-32.aac</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -239,7 +239,7 @@
 			<key>http</key>
 			<string>https://ch2.ice.infomaniak.ch/ch2-32.aac</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -251,7 +251,7 @@
 			<key>http</key>
 			<string>https://ch3.ice.infomaniak.ch/ch3-32.aac</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -363,6 +363,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Coran</string>
+			<key>logo</key>
+			<string>Coran</string>
+			<key>link</key>
+			<string>http://coran.ice.infomaniak.ch/coran-64.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>El Bahdja (إذاعة البهجة)</string>
 			<key>logo</key>
 			<string>Bahdja</string>
@@ -371,7 +383,7 @@
 			<key>http</key>
 			<string>https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -451,9 +463,9 @@
 			<key>logo</key>
 			<string>Jil</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/jil-fm,17631.m3u</string>
+			<string>http://jil-fm.ice.infomaniak.ch/jilfm.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/jil-fm,17631.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -739,9 +751,9 @@
 			<key>logo</key>
 			<string>Tipaza</string>
 			<key>link</key>
-			<string>https://tipaza.ice.infomaniak.ch/42.aac</string>
+			<string>http://tipaza.ice.infomaniak.ch/42.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://tipaza.ice.infomaniak.ch/42.aac</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>

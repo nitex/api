@@ -67,11 +67,11 @@
 			<key>logo</key>
 			<string>Canal</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/canal-a-radio-national,15544.m3u</string>
+			<string>http://radios.vpn.sapo.pt/AO/radio3.mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/canal-a-radio-national,15544.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,11 +79,11 @@
 			<key>logo</key>
 			<string>Cinco</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-cinco-94-5-fm,18158.m3u</string>
+			<string>http://radios.vpn.sapo.pt/AO/radio5.mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-cinco-94-5-fm,18158.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -103,23 +103,23 @@
 			<key>logo</key>
 			<string>Ecclesia</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-ecclesia,13790.m3u</string>
-			<key>http</key>
 			<string>https://www.radioecclesia.org/jplayer/player.html</string>
+			<key>http</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio8.mp3</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ecclesia 97.5 FM</string>
+			<string>Escola 88.5 FM</string>
 			<key>logo</key>
-			<string>Ecclesi</string>
+			<string>Escola</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-ecclesia-97-5-fm,17592.m3u</string>
+			<string>http://radios.vpn.sapo.pt/AO/radio1.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -132,6 +132,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Lubango (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kairós 98.4 FM</string>
+			<key>logo</key>
+			<string>Kairos</string>
+			<key>link</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio9.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,11 +175,11 @@
 			<key>logo</key>
 			<string>LAC</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/lac-luanda-antena-comercial,13236.m3u</string>
+			<string>http://radios.vpn.sapo.pt/AO/radio14.mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/lac-luanda-antena-comercial,13236.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -183,7 +195,55 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Luanda 99.9 FM</string>
+			<string>Mais 99.1 FM</string>
+			<key>logo</key>
+			<string>Mais</string>
+			<key>link</key>
+			<string>http://5.189.189.245:2199/tunein/maisluanda.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-mais-99-1-fm,20239.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MFM 91.7</string>
+			<key>logo</key>
+			<string>MFM</string>
+			<key>link</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio9.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RD 91.0 FM Despertar</string>
+			<key>logo</key>
+			<string>Despertar</string>
+			<key>link</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio15.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNA Cacuaco 105.0 FM</string>
+			<key>logo</key>
+			<string>Cacuaco</string>
+			<key>link</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio17.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNA Luanda 99.9 FM</string>
 			<key>logo</key>
 			<string>Luanda</string>
 			<key>link</key>
@@ -195,15 +255,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mais 99.1 FM</string>
+			<string>RNA N&apos;gola Yetu 101.4 FM</string>
 			<key>logo</key>
-			<string>Mais</string>
+			<string>Yetu</string>
 			<key>link</key>
-			<string>http://5.189.189.245:2199/tunein/maisluanda.pls</string>
+			<string>http://radios.vpn.sapo.pt/AO/radio12.mp3</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-mais-99-1-fm,20239.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNA Viana Cultural 92.8 FM</string>
+			<key>logo</key>
+			<string>Viana</string>
+			<key>link</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio16.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Romantica 97.9 FM</string>
+			<key>logo</key>
+			<string>Romantica</string>
+			<key>link</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio4.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UnIA 92.3 FM</string>
+			<key>logo</key>
+			<string>UnIA</string>
+			<key>link</key>
+			<string>http://radios.vpn.sapo.pt/AO/radio2.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
