@@ -63,6 +63,18 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Breeze FM Zambia</string>
 			<key>logo</key>
 			<string>Breeze</string>
@@ -71,7 +83,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Chipata (Local)</string>
+			<string>Talk (Chipata, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,7 +103,43 @@
 			<key>logo</key>
 			<string>Christian</string>
 			<key>link</key>
+			<string>http://zas2.ndx.co.za/proxy/cvglobal</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-christian-voice-fm-106-1,19309.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flava FM 87.7 FM</string>
+			<key>logo</key>
+			<string>Flava</string>
+			<key>link</key>
+			<string>http://s2.voscast.com:9304/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/flawa-fm-87-7-fm,19304.m3u</string>
+			<key>note</key>
+			<string>Music (Kitwe, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hot FM</string>
+			<key>logo</key>
+			<string>Hot</string>
+			<key>link</key>
+			<string>http://s2.yesstreaming.net:7091/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Komboni FM 94.9</string>
+			<key>logo</key>
+			<string>Komboni</string>
+			<key>link</key>
+			<string>http://164.160.13.136:88/broadwave.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,15 +147,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Flawa FM 87.7 FM</string>
+			<string>Maria</string>
 			<key>logo</key>
-			<string>Flawa</string>
+			<string>Maria</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/flawa-fm-87-7-fm,19304.m3u</string>
+			<string>http://dreamsiteradiocp2.com:8060/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Kitwe (Local)</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Money FM 93.7</string>
+			<key>logo</key>
+			<string>Money</string>
+			<key>link</key>
+			<string>http://s26.myradiostream.com:18162/listen.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>One Love</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://usa11.fastcast4u.com/proxy/thidhzuy</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -115,11 +187,35 @@
 			<key>logo</key>
 			<string>Phoenix</string>
 			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/RADIO_PHOENIXAAC.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-phoenix-89-5-fm,19305.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power FM</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://41.60.195.11:8000/stream.ogg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI English</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +227,31 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://voa-37.ng.akacast.akamaistream.net/7/420/322049/v1/ibb.akacast.akamaistream.net/voa-37</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Voice of Hope</string>
+			<key>logo</key>
+			<string>Hope</string>
+			<key>link</key>
+			<string>http://99.198.118.250:8164/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,11 +259,11 @@
 			<key>logo</key>
 			<string>Yar</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/yar-fm-89-9-fm,19307.m3u</string>
+			<string>http://196.46.210.116:8000/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/yar-fm-89-9-fm,19307.m3u</string>
 			<key>note</key>
-			<string>Kitwe (Local)</string>
+			<string>Local (Kitwe, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -156,6 +276,42 @@
 			<string></string>
 			<key>note</key>
 			<string>Livingstone (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZNBC 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://eu6.fastcast4u.com/proxy/radio1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZNBC 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://eu6.fastcast4u.com/proxy/radio2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZNBC 4</string>
+			<key>logo</key>
+			<string>4</string>
+			<key>link</key>
+			<string>http://eu6.fastcast4u.com/proxy/radio4</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 	</array>
 </dict>
