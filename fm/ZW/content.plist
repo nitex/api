@@ -63,6 +63,18 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Nehanda</string>
 			<key>logo</key>
 			<string>Nehanda</string>
@@ -71,19 +83,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Power FM Zimbabwe</string>
+			<string>RFI English</string>
 			<key>logo</key>
-			<string>Power</string>
+			<string>RFI</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/power-fm-zimbabwe,17647.m3u</string>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -99,27 +111,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZBC</string>
+			<string>Star FM</string>
 			<key>logo</key>
-			<string>ZBC</string>
+			<string>Sta</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-simbabwe,11.m3u</string>
+			<string>http://anton.antfarm.co.za:8000/StarFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Oldies, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZIFM STEREO</string>
+			<string>VOA</string>
 			<key>logo</key>
-			<string>ZIFM</string>
+			<string>VOA</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/zifm-stereo,15983.m3u</string>
+			<string>http://voa-37.ng.akacast.akamaistream.net/7/420/322049/v1/ibb.akacast.akamaistream.net/voa-37</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZiFM Stereo</string>
+			<key>logo</key>
+			<string>ZIFM</string>
+			<key>link</key>
+			<string>http://ice31.securenetsystems.net/ZIFM.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/zifm-stereo,15983.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -135,6 +159,66 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>ZBC Classic 263</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://41.220.21.66:88/broadwave.mp3?src=2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC Khulumani FM 95.0</string>
+			<key>logo</key>
+			<string>Khulumani</string>
+			<key>link</key>
+			<string>http://197.221.250.170:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bulawayo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC National FM</string>
+			<key>logo</key>
+			<string>National</string>
+			<key>link</key>
+			<string>http://41.220.21.70:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC Power FM</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://41.220.21.66:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/power-fm-zimbabwe,17647.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC Radio Zimbabwe</string>
+			<key>logo</key>
+			<string>ZBC</string>
+			<key>link</key>
+			<string>http://41.220.21.70:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-simbabwe,11.m3u</string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>zim NET Gospel Channel</string>
 			<key>logo</key>
 			<string>NET</string>
@@ -143,7 +227,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Music</string>
 		</dict>
 	</array>
 </dict>
