@@ -51,6 +51,30 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Afrique</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>HitFM Mauritius</string>
 			<key>logo</key>
 			<string>HitFM</string>
@@ -67,9 +91,9 @@
 			<key>logo</key>
 			<string>Best</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/best-fm,15894.m3u</string>
+			<string>http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/bestfm.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/best-fm,15894.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -79,11 +103,11 @@
 			<key>logo</key>
 			<string>Kool</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kool-fm,37.m3u</string>
+			<string>http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/koolfm.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kool-fm,37.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -103,23 +127,35 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/648-mbc-radio-maurice-1,15801.m3u</string>
+			<string>http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/648-mbc-radio-maurice-1,15801.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MBC Radio Maurice 2</string>
+			<string>MBC Radio Mauritius 2</string>
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mbc-radio-mauritius-2-819,15802.m3u</string>
+			<string>http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomauritius.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mbc-radio-mauritius-2-819,15802.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MBC Taal FM</string>
+			<key>logo</key>
+			<string>Taal</string>
+			<key>link</key>
+			<string>http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/taalfm.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/taal-fm,38.m3u</string>
+			<key>note</key>
+			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +167,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-moris-dsl,2233.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,9 +175,9 @@
 			<key>logo</key>
 			<string>NRJ</string>
 			<key>link</key>
+			<string>http://185.52.127.170/mu/55802/mp3_128.mp3.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/nrj-maurice,20047.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -151,11 +187,11 @@
 			<key>logo</key>
 			<string>One</string>
 			<key>link</key>
+			<string>http://173.208.157.101:8020/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-one,11894.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,11 +199,11 @@
 			<key>logo</key>
 			<string>Plus</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-plus,11895.m3u</string>
+			<string>http://s4.voscast.com:8432/listen.pls</string>
 			<key>http</key>
 			<string>https://stream.radio.co/s8cc7a5da4/listen</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -195,6 +231,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Rock Mauritius</string>
 			<key>logo</key>
 			<string>Rock</string>
@@ -207,27 +255,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Taal FM</string>
-			<key>logo</key>
-			<string>Taal</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/taal-fm,38.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Top Radio FM</string>
+			<string>Top FM</string>
 			<key>logo</key>
 			<string>T</string>
 			<key>link</key>
+			<string>http://webcast.orange.mu:1935/TopFM/TopFM.sdp/playlist.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/top-radio-fm,3476.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
