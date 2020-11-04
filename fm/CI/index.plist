@@ -51,15 +51,39 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Al Bayane 95.7 FM</string>
 			<key>logo</key>
 			<string>Bayane</string>
 			<key>link</key>
+			<string>http://46.105.105.118:8000/albayane.mp3.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-albayane-95-7-fm,16630.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Afrique</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -67,11 +91,11 @@
 			<key>logo</key>
 			<string>Espoir</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-espoir-102-8-fm,18021.m3u</string>
+			<string>http://93.190.141.15:8440/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-espoir-102-8-fm,18021.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -87,13 +111,61 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Fréquence Vie 89.4 FM</string>
+			<key>logo</key>
+			<string>Vie</string>
+			<key>link</key>
+			<string>http://188.40.32.140:8023/frequencevie.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ivoire FM 103.4</string>
+			<key>logo</key>
+			<string>Ivoire</string>
+			<key>link</key>
+			<string>http://eu4.fastcast4u.com:5270/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Jam 99.3 FM</string>
 			<key>logo</key>
 			<string>Jam</string>
 			<key>link</key>
+			<string>https://www.radioking.com/play/my-radio-jam</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-jam-99-3-fm,16631.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Voix de l&apos;Espérance 101.6 FM</string>
+			<key>logo</key>
+			<string>Voix</string>
+			<key>link</key>
+			<string>http://213.136.96.99:8000/esperance.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nationale Catholique</string>
+			<key>logo</key>
+			<string>Catholique</string>
+			<key>link</key>
+			<string>http://72.10.166.2:9078/listen.pls</string>
+			<key>http</key>
+			<string>http://93.190.141.15:7026/rncabidjan-48.mp3</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -103,11 +175,23 @@
 			<key>logo</key>
 			<string>Nostalgie</string>
 			<key>link</key>
+			<string>http://213.136.96.14:8000/nostalgie.mp3.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/nostalgie-101-1-fm,16629.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -127,11 +211,35 @@
 			<key>logo</key>
 			<string>Trace</string>
 			<key>link</key>
+			<string>http://stream.trace.tv/trace_fm_ci-midfi.aac.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/trace-fm-ivory-coast,17674.m3u</string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibe 94.6 FM</string>
+			<key>logo</key>
+			<string>Vibe</string>
+			<key>link</key>
+			<string>http://217.182.132.143:8000/viberadio-ci.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Yamoussoukro (Local)</string>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
