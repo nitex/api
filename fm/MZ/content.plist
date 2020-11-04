@@ -75,6 +75,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Acção 106.2 FM</string>
+			<key>logo</key>
+			<string>Accao</string>
+			<key>link</key>
+			<string>http://130.185.144.199:21547/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Afrique</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Capital 90.7 FM Maputo</string>
 			<key>logo</key>
 			<string>Capital</string>
@@ -87,11 +123,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LM Radio 87.8 FM</string>
+			<string>Golo FM</string>
+			<key>logo</key>
+			<string>Golo</string>
+			<key>link</key>
+			<string>http://95.217.75.38:7988/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LM 87.8 FM</string>
 			<key>logo</key>
 			<string>LM</string>
 			<key>link</key>
+			<string>http://50.7.70.58:8945/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/lm-radio-87-8-fm,19022.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp2.com:8088/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -108,6 +168,30 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RDP África</string>
+			<key>logo</key>
+			<string>RDP</string>
+			<key>link</key>
+			<string>http://radiocast.rtp.pt/rdpafrica80a.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +227,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +239,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -167,7 +251,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -192,6 +276,18 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
