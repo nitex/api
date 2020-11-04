@@ -71,7 +71,43 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Afrique</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dambé 104.8</string>
+			<key>logo</key>
+			<string>Dambe</string>
+			<key>link</key>
+			<string>https://stream.zenolive.com/3zv2my45xreuv.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Donko 103.8</string>
+			<key>logo</key>
+			<string>Donko</string>
+			<key>link</key>
+			<string>http://ample-zeno-16.radiojar.com/0scg4m6btumtv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -80,6 +116,42 @@
 			<string>ENERGIE</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-energie-107-9-fm,18507.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Horonya FM 90.4</string>
+			<key>logo</key>
+			<string>Horonya</string>
+			<key>link</key>
+			<string>https://stream.zenolive.com/8y212swrwv5tv.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IKA FM 93.5</string>
+			<key>logo</key>
+			<string>IKA</string>
+			<key>link</key>
+			<string>https://stream.zeno.fm/x5t7h686xreuv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Islamique de Bamako 107.4 FM</string>
+			<key>logo</key>
+			<string>Islamique</string>
+			<key>link</key>
+			<string>https://stream.zenolive.com/zpvcpub6f2zuv.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -103,23 +175,23 @@
 			<key>logo</key>
 			<string>Joliba</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/joliba-105-0-fm,20490.m3u</string>
+			<string>http://83.142.226.45:25072/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/joliba-105-0-fm,20490.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>KLEDU 101.2 FM</string>
+			<string>Klédu 101.2 FM</string>
 			<key>logo</key>
 			<string>KLEDU</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kledu-101-2-fm,20465.m3u</string>
+			<string>http://ample-zeno-13.radiojar.com/yerp85sughwtv</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kledu-101-2-fm,20465.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +203,43 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mikado FM 106.6</string>
+			<key>logo</key>
+			<string>Mikado</string>
+			<key>link</key>
+			<string>http://154.118.155.44:8000/stream.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nieta 103.3</string>
+			<key>logo</key>
+			<string>Nieta</string>
+			<key>link</key>
+			<string>http://ample-zeno-13.radiojar.com/u0dd022mb</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ORTM Nationale</string>
+			<key>logo</key>
+			<string>Nationale</string>
+			<key>link</key>
+			<string>http://fluoz-10.radiojar.com/cyva9z92cq5tv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,11 +247,47 @@
 			<key>logo</key>
 			<string>ORTM</string>
 			<key>link</key>
+			<string>http://fluoz-02.radiojar.com/yb10r889aq5tv</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/ortm-chaine2,16643.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTFM</string>
+			<key>logo</key>
+			<string>RTFM</string>
+			<key>link</key>
+			<string>http://185.41.154.86:8008/listen.pls?sid=1</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
