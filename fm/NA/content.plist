@@ -71,19 +71,55 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Africa</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EFM</string>
+			<key>logo</key>
+			<string>EFM</string>
+			<key>link</key>
+			<string>http://s2.stationplaylist.com:9140/listen.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Energy 100FM</string>
+			<string>Energy 100 FM</string>
 			<key>logo</key>
-			<string>100FM</string>
+			<string>Energy</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/energy-100fm,18039.m3u</string>
+			<string>http://196.44.136.119:8080/listen.pls</string>
 			<key>http</key>
 			<string>https://s2.stationplaylist.com:7094/listen.aac</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -95,7 +131,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Sport, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -115,11 +151,11 @@
 			<key>logo</key>
 			<string>Hitradio</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hitradio-namibia,15952.m3u</string>
+			<string>http://85.25.217.22:8000/hitradio-namibia.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hitradio-namibia,15952.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -127,9 +163,9 @@
 			<key>logo</key>
 			<string>7</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kanaal-7-channel-7-namibia,15890.m3u</string>
+			<string>http://85.25.164.52/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kanaal-7-channel-7-namibia,15890.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -139,23 +175,11 @@
 			<key>logo</key>
 			<string>Kosmos</string>
 			<key>link</key>
+			<string>http://sirius.shoutca.st:9171/stream.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/kosmos-94-1-fm,13070.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Lozi Service 93.5 FM	</string>
-			<key>logo</key>
-			<string>Lozi</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/lozi-service-93-5-fm,18746.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,15 +195,111 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>NBC Namibia German Radio</string>
+			<string>NBC</string>
 			<key>logo</key>
-			<string>Namibia</string>
+			<string>NBC</string>
 			<key>link</key>
+			<string>http://197.243.227.19:8802/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/nbc-namibia-german-radio,16161.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC Hartklop FM</string>
+			<key>logo</key>
+			<string>Hartklop</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8801/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC Kaisames FM</string>
+			<key>logo</key>
+			<string>Kaisames</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8812/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC Kati FM</string>
+			<key>logo</key>
+			<string>Kati</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8808/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC Lozi Service 93.5 FM	</string>
+			<key>logo</key>
+			<string>Lozi</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8814/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/lozi-service-93-5-fm,18746.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC National FM</string>
+			<key>logo</key>
+			<string>Nation</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8812/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC Omurari FM</string>
+			<key>logo</key>
+			<string>Omurari</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8806/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC TYS FM (Tirelo Ya Sechaba)</string>
+			<key>logo</key>
+			<string>TYS</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8810/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NBC Wato FM</string>
+			<key>logo</key>
+			<string>Wato</string>
+			<key>link</key>
+			<string>http://197.243.227.19:8816/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -191,7 +311,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -207,6 +327,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>RFI English</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Wave 96.7 FM</string>
 			<key>logo</key>
 			<string>Wave</string>
@@ -215,7 +359,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -227,7 +371,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 	</array>
 </dict>
