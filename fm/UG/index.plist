@@ -51,87 +51,15 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>100.2 Galaxy FM</string>
+			<string>Africa Radio</string>
 			<key>logo</key>
-			<string>Galaxy</string>
+			<string>Afric</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/100-2-galaxy-fm,17856.m3u</string>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>107.0 SALT FM</string>
-			<key>logo</key>
-			<string>SALT</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/107-0-salt-fm,18859.m3u</string>
-			<key>http</key>
-			<string>http://uk6.internet-radio.com:8358/stream</string>
-			<key>note</key>
-			<string>News, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>107.9 Pearl FM - Pearl Of Africa</string>
-			<key>logo</key>
-			<string>Pearl</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/107-9-pearl-fm-pearl-of-africa,19041.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>88.8 CBS FM Buganda</string>
-			<key>logo</key>
-			<string>CBS</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/88-8-cbs-fm-buganda,15008.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Local</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>89.2 CBS Radio Buganda</string>
-			<key>logo</key>
-			<string>Buganda</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/89-2-cbs-radio-buganda,15007.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Buganda</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>91.3 Capital FM</string>
-			<key>logo</key>
-			<string>Capital</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/91-3-capital-fm,18857.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>93.3 KFM Kampala</string>
-			<key>logo</key>
-			<string>KFM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/93-3-kfm-kampala,17524.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,11 +67,119 @@
 			<key>logo</key>
 			<string>Akaboozi</string>
 			<key>link</key>
+			<string>https://www.radiouganda.net/kaboozi.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/akaboozi-87-9-fm-kampala,16603.m3u</string>
+			<key>note</key>
+			<string>News, Talk (Buganda, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Idhaa ya Kiswahili</string>
+			<key>logo</key>
+			<string>Idhaa</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-swaha_backup.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Buganda (Local)</string>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat 96.3 FM</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>http://144.217.203.226:8354/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bob FM 92.7</string>
+			<key>logo</key>
+			<string>Bob</string>
+			<key>link</key>
+			<string>http://216.104.207.60:88//broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Buddu</string>
+			<key>logo</key>
+			<string>Buddu</string>
+			<key>link</key>
+			<string>http://66.55.145.43:7344/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capital FM 91.3</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>https://www.radiouganda.net/capital.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/91-3-capital-fm,18857.m3u</string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CBS Buganda 88.8</string>
+			<key>logo</key>
+			<string>CBS</string>
+			<key>link</key>
+			<string>http://streamer.radiouganda.net:8000/cbs888.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/88-8-cbs-fm-buganda,15008.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CBS Buganda 89.2</string>
+			<key>logo</key>
+			<string>Buganda</string>
+			<key>link</key>
+			<string>http://streamer.radiouganda.net:8000/cbs892.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/89-2-cbs-radio-buganda,15007.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City 97.0 FM</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radiocity-97-0-fm,17904.m3u</string>
+			<key>http</key>
+			<string>http://185.5.55.194:8050/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,13 +207,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Digida 106.5 FM</string>
+			<key>logo</key>
+			<string>Digida</string>
+			<key>link</key>
+			<string>http://66.55.145.43:7383/arabellavie.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galaxy FM 100.2</string>
+			<key>logo</key>
+			<string>Galaxy</string>
+			<key>link</key>
+			<string>http://192.184.9.158:8638/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/100-2-galaxy-fm,17856.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>HOT100 Kampala</string>
 			<key>logo</key>
 			<string>HOT100</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hot100-kampala,19354.m3u</string>
+			<string>http://5.189.157.59:8000/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hot100-kampala,19354.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -207,11 +267,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>KFM Kampala 93.3</string>
+			<key>logo</key>
+			<string>KFM</string>
+			<key>link</key>
+			<string>http://41.221.93.134:8000/stream.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/93-3-kfm-kampala,17524.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Maria</string>
 			<key>logo</key>
 			<string>Maria</string>
 			<key>link</key>
+			<string>http://dreamsiteradiocp.com:8052/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-maria,11225.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MCF 98.7 FM</string>
+			<key>logo</key>
+			<string>MCF</string>
+			<key>link</key>
+			<string>http://shaincast.caster.fm:34777/listen.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metro FM 90.8</string>
+			<key>logo</key>
+			<string>Metro</string>
+			<key>link</key>
+			<string>http://66.55.145.43:7757/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,6 +327,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>One 90.0 FM</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://rselvis.serverroom.net:5116/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pearl FM 107.9</string>
+			<key>logo</key>
+			<string>Pearl</string>
+			<key>link</key>
+			<string>http://66.55.145.43:7404/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/107-9-pearl-fm-pearl-of-africa,19041.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>POWER FM 104.1 Kampala</string>
 			<key>logo</key>
 			<string>POWER</string>
@@ -243,15 +363,75 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RadioCity 97.0 FM</string>
+			<string>Prime 91.9 FM</string>
 			<key>logo</key>
-			<string>RadioCity</string>
+			<string>Prime</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radiocity-97-0-fm,17904.m3u</string>
+			<string>http://cast5.servcast.net:8266/listen.pls</string>
 			<key>http</key>
-			<string>http://162.244.80.106:10853/stream</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>Afrique</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI English</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Kiswahili</string>
+			<key>logo</key>
+			<string>Kiswahili</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiswahili-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SALT FM 107.0</string>
+			<key>logo</key>
+			<string>SALT</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/107-0-salt-fm,18859.m3u</string>
+			<key>http</key>
+			<string>http://uk6.internet-radio.com:8358/stream</string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sanyu FM 88.2</string>
+			<key>logo</key>
+			<string>Sanyu</string>
+			<key>link</key>
+			<string>http://s44.myradiostream.com:8138/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -259,15 +439,15 @@
 			<key>logo</key>
 			<string>Sapientia</string>
 			<key>link</key>
+			<string>http://streamer.radiouganda.net:8000/sapientia.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-sapientia,15006.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Simba Kampala</string>
+			<string>Simba 97.3 FM</string>
 			<key>logo</key>
 			<string>Simba</string>
 			<key>link</key>
@@ -275,7 +455,19 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/simba-fm,13214.m3u</string>
 			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spirit FM 96.6</string>
+			<key>logo</key>
+			<string>Spirit</string>
+			<key>link</key>
+			<string>http://216.104.207.60:89/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -288,6 +480,18 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
