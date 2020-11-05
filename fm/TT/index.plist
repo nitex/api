@@ -51,11 +51,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>103FM</string>
+			<string>Pulse 89.5 FM</string>
 			<key>logo</key>
-			<string>103FM</string>
+			<string>Pulse</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/103fm,11296.m3u</string>
+			<string>https://radio.kgitsolutions.net/8002/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -63,19 +63,307 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>91.1 Talk City</string>
+			<string>Radio 90.5 FM</string>
+			<key>logo</key>
+			<string>Radi</string>
+			<key>link</key>
+			<string>http://ice42.securenetsystems.net/CR90.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hott 93.5 FM</string>
+			<key>logo</key>
+			<string>Hott</string>
+			<key>link</key>
+			<string>http://ice41.securenetsystems.net/HOTT93.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star 94.7 HD FM</string>
+			<key>logo</key>
+			<string>HD</string>
+			<key>link</key>
+			<string>https://fms.ttrn.org/live/star947.sdp/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Remix 95.1 FM</string>
+			<key>logo</key>
+			<string>Remix</string>
+			<key>link</key>
+			<string>https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Music Radio 97.1 FM</string>
+			<key>logo</key>
+			<string>MusicRadio</string>
+			<key>link</key>
+			<string>http://ice42.securenetsystems.net/MR97.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>U97.5 FM - Hot Like Pepper!</string>
+			<key>logo</key>
+			<string>Pepper</string>
+			<key>link</key>
+			<string>http://s7.voscast.com:7490/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://cdn.voscast.com/resources/?key=46e359b87cc242c77f5c7ecacde6a8eb&amp;c=winamp</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Next 99.1 FM</string>
+			<key>logo</key>
+			<string>Next</string>
+			<key>link</key>
+			<string>http://162.244.80.52:8972/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky 99.5 FM</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>https://www.radiomast.io/stream/efe56859-e3cb-4563-8e94-0320488b7cbd/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lime 101.7 FM</string>
+			<key>logo</key>
+			<string>Lime</string>
+			<key>link</key>
+			<string>https://www.radioking.com/play/lime-101-7fm-trinidad</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Platinum Hits 103.5 FM</string>
+			<key>logo</key>
+			<string>Platinum</string>
+			<key>link</key>
+			<string>http://ice42.securenetsystems.net/PLATHITS.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Heartbeat 104.1 FM</string>
+			<key>logo</key>
+			<string>Heartbeat</string>
+			<key>link</key>
+			<string>http://ice42.securenetsystems.net/CLCL.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>More 104.7 FM</string>
+			<key>logo</key>
+			<string>More</string>
+			<key>link</key>
+			<string>https://stream.radio.co/se599d8fd9/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>103 FM</string>
+			<key>logo</key>
+			<string>103</string>
+			<key>link</key>
+			<string>http://s4.myradiostream.com/14348/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/103fm,11296.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Talk City 91.1 FM</string>
 			<key>logo</key>
 			<string>City</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/91-1-talk-city,12211.m3u</string>
+			<string>http://162.244.80.52:9356/listen.pls?sid=1</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/talk-city-91-1-fm,12209.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>94.1 Boom Champions</string>
+			<string>Boom Champions 94.1</string>
 			<key>logo</key>
 			<string>Boom</string>
 			<key>link</key>
@@ -91,23 +379,23 @@
 			<key>logo</key>
 			<string>Best</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/95-1-fm-the-best-mix,12208.m3u</string>
+			<string>http://ttaccount.com:8080/m94.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/95-1-fm-the-best-mix,12208.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>96.1 WEFM</string>
+			<string>WEFM 96.1</string>
 			<key>logo</key>
 			<string>WEFM</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/96-1-wefm,16663.m3u</string>
+			<string>https://fms.ttrn.org/live/961wefm.sdp/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/96-1-wefm,16663.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -151,9 +439,9 @@
 			<key>logo</key>
 			<string>i95</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/i95-5-fm,4616.m3u</string>
+			<string>http://104.238.99.1:8000/i955fm.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/i95-5-fm,4616.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -171,25 +459,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Isaac Radio 98.1 FM</string>
+			<string>ISAAC 98.1 FM The Promise</string>
 			<key>logo</key>
 			<string>Isaac</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/isaac-radio-98-1-fm,12205.m3u</string>
+			<string>http://ice66.securenetsystems.net/FFBN.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/isaac-radio-98-1-fm,12205.m3u</string>
 			<key>note</key>
 			<string>Newtown (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Power 102 FM</string>
+			<string>Power 102.1 FM</string>
 			<key>logo</key>
 			<string>Power</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/power-102-fm,12199.m3u</string>
+			<string>http://ttaccount.com:8080/m102.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/power-102-fm,12199.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -207,13 +495,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Tambrin 92.7 FM</string>
+			<string>Tambrin 92.7 FM</string>
 			<key>logo</key>
 			<string>Tambrin</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-tambrin-92-7-fm,12198.m3u</string>
+			<string>http://ice42.securenetsystems.net/TAMBRIN.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-tambrin-92-7-fm,12198.m3u</string>
 			<key>note</key>
 			<string>Tobago (Local)</string>
 		</dict>
@@ -223,11 +511,11 @@
 			<key>logo</key>
 			<string>Red</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/red-96-7-fm,12207.m3u</string>
+			<string>http://104.238.99.1:8000/red967.mp3.m3u</string>
 			<key>http</key>
-			<string>http://104.238.99.1:8000/red967.mp3</string>
+			<string>http://www.surfmusic.de/m3u/red-96-7-fm,12207.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -247,9 +535,9 @@
 			<key>logo</key>
 			<string>Slam</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/slam-100-5-fm,16743.m3u</string>
+			<string>https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/slam-100-5-fm,16743.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -271,9 +559,9 @@
 			<key>logo</key>
 			<string>Sweet</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sweet-100-fm,17243.m3u</string>
+			<string>http://185.105.4.53:6030/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/sweet-100-fm,17243.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -283,9 +571,9 @@
 			<key>logo</key>
 			<string>TAJ</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/taj-92-3-fm,19301.m3u</string>
+			<string>http://ice66.securenetsystems.net/TAJ.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/taj-92-3-fm,19301.m3u</string>
 			<key>note</key>
 			<string>Curepe (Local)</string>
 		</dict>
@@ -315,13 +603,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Wack Radio 90.1 FM</string>
+			<string>Wack 90.1 FM</string>
 			<key>logo</key>
 			<string>Wack</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/wack-radio-90-1-fm,12200.m3u</string>
+			<string>https://stream.zeno.fm/4h2xb1zme3vtv</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/wack-radio-90-1-fm,12200.m3u</string>
 			<key>note</key>
 			<string>San Fernando (Local)</string>
 		</dict>
