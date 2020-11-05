@@ -51,6 +51,18 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Арга Билиг FM 91.7</string>
+			<key>logo</key>
+			<string>Arga</string>
+			<key>link</key>
+			<string>http://96.31.83.94:8026/listen.pls</string>
+			<key>http</key>
+			<string>http://s2.free-shoutcast.com:18438/;?type=http&amp;nocache=1</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>МҮОНР-1 FM 106</string>
 			<key>logo</key>
 			<string>106</string>
@@ -59,7 +71,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -71,7 +83,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,11 +91,23 @@
 			<key>logo</key>
 			<string>Best</string>
 			<key>link</key>
-			<string>http://www.bestfm.mn/Best_FM_98.5.m3u</string>
+			<string>http://103.48.116.109:9000/listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/best-fm-98-5,20201.m3u</string>
+			<string>http://www.bestfm.mn/Best_FM_98.5.m3u</string>
 			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Business FM 98.9</string>
+			<key>logo</key>
+			<string>Business</string>
+			<key>link</key>
+			<string>http://202.131.233.43:8443/live.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -99,27 +123,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Gerbul Radio 104.5 FM</string>
+			<string>Гэр бүлийн 104.5 FM</string>
 			<key>logo</key>
 			<string>Gerbul</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/gerbul-radio-104-5-fm,20202.m3u</string>
+			<string>http://c4.radioboss.fm/stream/87</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/gerbul-radio-104-5-fm,20202.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MGL RADIO 102.1 FM</string>
+			<string>Metro Lounge FM 91.7</string>
 			<key>logo</key>
-			<string>MGL</string>
+			<string>Metro</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mglradio-102-1-fm,18973.m3u</string>
+			<string>http://202.70.34.57:8000/live.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MGL 102.1 FM</string>
+			<key>logo</key>
+			<string>MGL</string>
+			<key>link</key>
+			<string>http://50.7.76.251:8080/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/mglradio-102-1-fm,18973.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -128,6 +164,18 @@
 			<string>P3</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/p3-fm-100-9,18976.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM 98.5</string>
+			<key>logo</key>
+			<string>StarFM</string>
+			<key>link</key>
+			<string>http://153.127.247.79:30002/listen.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
