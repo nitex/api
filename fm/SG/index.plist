@@ -59,19 +59,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>96.3 Hao FM</string>
+			<string>96.3好 FM</string>
 			<key>logo</key>
 			<string>Hao</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/96-3-hao-fm,19705.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/HAO_963.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/96-3-hao-fm,19705.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,23 +79,23 @@
 			<key>logo</key>
 			<string>987</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/987-fm,865.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/987FM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/987-fm,865.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Capital Radio 95.8 FM</string>
+			<string>Capital 95.8 FM</string>
 			<key>logo</key>
 			<string>Capital</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/capital-radio-95-8-fm,5255.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/CAPITAL958FM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/capital-radio-95-8-fm,5255.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -103,11 +103,23 @@
 			<key>logo</key>
 			<string>95</string>
 			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CLASS95.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/class-95-fm,860.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CNA 938</string>
+			<key>logo</key>
+			<string>CNA</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/938NOW.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,19 +131,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Gold 90 FM</string>
+			<string>Gold 905 FM</string>
 			<key>logo</key>
-			<string>90</string>
+			<string>905</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/gold-90-fm,861.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/GOLD905.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/gold-90-fm,861.m3u</string>
 			<key>note</key>
-			<string>Oldies</string>
+			<string>Oldies Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -139,9 +151,9 @@
 			<key>logo</key>
 			<string>Jia</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/jia-88-3-fm,14768.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/883JIA.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/jia-88-3-fm,14768.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -151,11 +163,11 @@
 			<key>logo</key>
 			<string>Kiss92</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kiss92-92-0-fm-singapore,17581.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/KISS_92.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kiss92-92-0-fm-singapore,17581.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,11 +175,11 @@
 			<key>logo</key>
 			<string>Love</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/love-97-2,15002.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/LOVE972FM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/love-97-2,15002.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -183,6 +195,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Money 89.3 FM</string>
+			<key>logo</key>
+			<string>Money</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/MONEY_893.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Naga FM</string>
 			<key>logo</key>
 			<string>Naga</string>
@@ -191,19 +215,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Oli 96.8 FM</string>
+			<string>Oli 96.8 FM - சிங்கப்பூர்</string>
 			<key>logo</key>
 			<string>Oli</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/oli-96-8-fm,5261.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/OLI968FM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/oli-96-8-fm,5261.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -211,11 +235,11 @@
 			<key>logo</key>
 			<string>One</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/one-fm-91-3,13293.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/ONE_FM_913.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/one-fm-91-3,13293.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -223,11 +247,11 @@
 			<key>logo</key>
 			<string>Power</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/power-98-fm,5256.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/POWER98.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/power-98-fm,5256.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -235,9 +259,9 @@
 			<key>logo</key>
 			<string>Ria</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ria-89-7-fm,5257.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/RIA897FM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/ria-89-7-fm,5257.m3u</string>
 			<key>note</key>
 			<string>Top</string>
 		</dict>
@@ -247,11 +271,11 @@
 			<key>logo</key>
 			<string>Symphony</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/symphony-92-4-fm,866.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/SYMPHONY924.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/symphony-92-4-fm,866.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -263,7 +287,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -271,35 +295,35 @@
 			<key>logo</key>
 			<string>UFM</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ufm-100-3,17582.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/UFM_1003.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/ufm-100-3,17582.m3u</string>
 			<key>note</key>
 			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>WARNA 94.2FM</string>
+			<string>WARNA 94.2 FM</string>
 			<key>logo</key>
 			<string>WARNA</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/warna-94-2fm,5259.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/WARNA942FM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/warna-94-2fm,5259.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Yes 93.3 FM</string>
+			<string>YES 933 FM 93.3</string>
 			<key>logo</key>
-			<string>Yes</string>
+			<string>933</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/yes-93-3-fm,867.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/YES933.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/yes-93-3-fm,867.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 	</array>
 </dict>
