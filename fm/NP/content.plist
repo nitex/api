@@ -63,6 +63,66 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Adhyatma Jyoti FM 104.8 रेडियो अध्यात्म ज्योति</string>
+			<key>logo</key>
+			<string>Adhyatma</string>
+			<key>link</key>
+			<string>http://108.166.174.131:8060/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Annapurna रेडियो अन्नपूर्ण</string>
+			<key>logo</key>
+			<string>Annapurna</string>
+			<key>link</key>
+			<string>http://streaming.softnep.net:8091/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Audio 103.6 FM रेडियो अडियो</string>
+			<key>logo</key>
+			<string>Audio</string>
+			<key>link</key>
+			<string>http://streaming.softnep.net:8049/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BFBS Gurkha</string>
+			<key>logo</key>
+			<string>BFBS</string>
+			<key>link</key>
+			<string>http://direct.sharp-stream.com/ssvcbfbs3.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bhaktapur FM 105.4 भक्तपुर एफ.एम</string>
+			<key>logo</key>
+			<string>Bhaktapur</string>
+			<key>link</key>
+			<string>http://49.236.212.220:88/broadwave.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Big 101.2 FM Unik Chaa</string>
 			<key>logo</key>
 			<string>Unik</string>
@@ -99,6 +159,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Capital FM क्यापिटल एफ.एम</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://streaming.softnep.net:8037/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Chitwan 94.6 FM</string>
 			<key>logo</key>
 			<string>Chitwan</string>
@@ -108,6 +180,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City 98.8 FM रेडियो सिटी</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://108.166.174.131:8006/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -135,6 +219,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Gorkha FM 93 पर्यावरण चक्र रेडियो</string>
+			<key>logo</key>
+			<string>Gorkha</string>
+			<key>link</key>
+			<string>http://icecast.eastlinkhost.com:8001/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Himalaya</string>
 			<key>logo</key>
 			<string>Himalaya</string>
@@ -151,11 +247,35 @@
 			<key>logo</key>
 			<string>Hits</string>
 			<key>link</key>
+			<string>http://webstream.hitsfm.com.np:5098/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/hits-fm-91-2-fm,13787.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Image 97.9 FM</string>
+			<key>logo</key>
+			<string>Image</string>
+			<key>link</key>
+			<string>http://172.17.10.29:89/broadwave.m3u?src=1&amp;rate=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Image News FM 103.6</string>
+			<key>logo</key>
+			<string>Imag</string>
+			<key>link</key>
+			<string>http://172.17.10.29:88/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -168,6 +288,18 @@
 			<string>https://live.itech.host:8149/stream</string>
 			<key>note</key>
 			<string>Rolpa (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Janasanchar 107.9 FM रेडियो जनसंचार</string>
+			<key>logo</key>
+			<string>Janasanchar</string>
+			<key>link</key>
+			<string>http://jfm.online.org.np:5998/listen.pls</string>
+			<key>http</key>
+			<string>http://jfm.online.org.np:5998/;stream.mp3?_=1</string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -199,11 +331,11 @@
 			<key>logo</key>
 			<string>Kantipur</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kantipur-fm,13785.m3u</string>
+			<string>http://broadcast.radiokantipur.com:7248/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kantipur-fm,13785.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -219,6 +351,42 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Mero FM 93.3 मेरो एफ.एम</string>
+			<key>logo</key>
+			<string>Mero</string>
+			<key>link</key>
+			<string>http://37.59.42.207:8134/listen.pls</string>
+			<key>http</key>
+			<string>http://streaming.hamropatro.com:8078/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metro Traffic FM 95.6 मेट्रो ट्राफिक एफ.एम</string>
+			<key>logo</key>
+			<string>Metro</string>
+			<key>link</key>
+			<string>http://91.121.113.129:8260/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mirmire 89.4 FM रेडियो मिर्मिरे</string>
+			<key>logo</key>
+			<string>Mirmire</string>
+			<key>link</key>
+			<string>http://108.166.174.131:8232/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Mithila 100.8 FM</string>
 			<key>logo</key>
 			<string>Mithila</string>
@@ -227,7 +395,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-mithila-100-8-fm,17685.m3u</string>
 			<key>note</key>
-			<string>Chitwan (Local)</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -255,15 +423,111 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Nepal</string>
+			<string>Nepal FM नेपाल एफ.एम</string>
+			<key>logo</key>
+			<string>NepalFM</string>
+			<key>link</key>
+			<string>http://radio.itechnepal.com/nfm/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nepal रेडियो नेपाल</string>
 			<key>logo</key>
 			<string>Nepa</string>
 			<key>link</key>
+			<string>http://radionepal.gov.np:40100/stream.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-nepal,18029.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nepaliko नेपालीको रेडियो</string>
+			<key>logo</key>
+			<string>Nepaliko</string>
+			<key>link</key>
+			<string>http://144.76.110.138:9888/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Paryabaran FM 104.2 पर्यावरण चक्र रेडियो</string>
+			<key>logo</key>
+			<string>Paryabaran</string>
+			<key>link</key>
+			<string>http://icecast.eastlinkhost.com:8001/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Reeyaz FM 96.8 रेडियो रीयाज़</string>
+			<key>logo</key>
+			<string>Reeyaz</string>
+			<key>link</key>
+			<string>http://50.7.70.58:8658/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sagarmatha 102.4 FM रेडियाे सगरमाथा</string>
+			<key>logo</key>
+			<string>Sagarmatha</string>
+			<key>link</key>
+			<string>http://108.166.174.131:8004/listen.pls</string>
+			<key>http</key>
+			<string>http://143.95.89.54:9322/;&amp;autostart=true</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>STAR FM 95.2</string>
+			<key>logo</key>
+			<string>STA</string>
+			<key>link</key>
+			<string>https://live.itech.host:9544/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ujyaalo उज्यालो एफ.एम</string>
+			<key>logo</key>
+			<string>Ujyaalo</string>
+			<key>link</key>
+			<string>http://ujyaalo-stream.softnep.com:7710/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Upatyaka 87.6 FM रेडियो उपत्यका</string>
+			<key>logo</key>
+			<string>Upatyaka</string>
+			<key>link</key>
+			<string>http://live.radioupatyaka.com.np:8124/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
 		</dict>
 	</array>
 </dict>
