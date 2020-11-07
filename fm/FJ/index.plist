@@ -51,135 +51,51 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Bula FM</string>
-			<key>logo</key>
-			<string>Bula</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bula-fm,11107.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mirchi FM 98.3</string>
-			<key>logo</key>
-			<string>Mirchi</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mirchi-fm,17126.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-mirchi,11108.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mirchi PEHLA NASHA</string>
-			<key>logo</key>
-			<string>PEHLA</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mirchi-pehla-nasha,18455.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio 2Day FM Suva</string>
+			<string>FBC 2Day FM</string>
 			<key>logo</key>
 			<string>2Day</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-2day-fm-suva,11110.m3u</string>
+			<string>http://peridot.streamguys.com:7150/2Day.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-2day-fm-suva,11110.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Fiji Gold</string>
+			<string>FBC Bula FM</string>
+			<key>logo</key>
+			<string>Bula</string>
+			<key>link</key>
+			<string>http://peridot.streamguys.com:7150/Bula.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/bula-fm,11107.m3u</string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FBC Gold</string>
 			<key>logo</key>
 			<string>Gold</string>
 			<key>link</key>
+			<string>http://peridot.streamguys.com:7150/Gold.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-fiji-gold,11109.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Fiji One</string>
+			<string>FBC Mirchi FM</string>
 			<key>logo</key>
-			<string>One</string>
+			<string>Mirchi</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-fiji-one,11105.m3u</string>
+			<string>http://peridot.streamguys.com:7150/Mirchi.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-mirchi,11108.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Fiji Two</string>
-			<key>logo</key>
-			<string>Two</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-fiji-two,11106.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Tarana</string>
-			<key>logo</key>
-			<string>Tarana</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-tarana,17002.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio 1</string>
-			<key>logo</key>
-			<string>1</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-1,14111.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tahiti</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Maria No Te Hau</string>
-			<key>logo</key>
-			<string>Maria</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-maria-no-te-hau,898.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tahiti</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tiare FM</string>
-			<key>logo</key>
-			<string>Tiare</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/tiare-fm,899.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tahiti</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -191,7 +107,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Sport, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -207,7 +123,43 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Navtarang FM 101</string>
+			<string>Maria No Te Hau</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-maria-no-te-hau,898.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tahiti</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix FM - Fiji&apos;s Best Mix</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://fijiradio.net:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mirchi PEHLA NASHA</string>
+			<key>logo</key>
+			<string>PEHLA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/mirchi-pehla-nasha,18455.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Navtarang FM 101</string>
 			<key>logo</key>
 			<string>Navtarang</string>
 			<key>link</key>
@@ -215,17 +167,77 @@
 			<key>http</key>
 			<string>http://192.111.142.176:8000/NAVTARANG?session=11103817249</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Sargam Fiji</string>
+			<string>Radio 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-1,14111.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Tahiti</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Fiji One</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://peridot.streamguys.com:7150/RFOne.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-fiji-one,11105.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Fiji Two</string>
+			<key>logo</key>
+			<string>Two</string>
+			<key>link</key>
+			<string>http://peridot.streamguys.com:7150/RFTwo.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-fiji-two,11106.m3u</string>
+			<key>note</key>
+			<string>News, Oldies Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sargam Fiji</string>
 			<key>logo</key>
 			<string>Sargam</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-sargam-fiji,20244.m3u</string>
 			<key>http</key>
 			<string>http://192.111.142.176:8000/SARGAM?session=11103818323</string>
+			<key>note</key>
+			<string>News, Sport, Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tarana</string>
+			<key>logo</key>
+			<string>Tarana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tarana,17002.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tiare FM</string>
+			<key>logo</key>
+			<string>Tiare</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/tiare-fm,899.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -239,7 +251,7 @@
 			<key>http</key>
 			<string>http://192.111.142.176:8000/VITIFM?session=11103818855</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top Music</string>
 		</dict>
 	</array>
 </dict>
