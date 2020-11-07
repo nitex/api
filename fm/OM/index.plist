@@ -51,27 +51,27 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Al Wisal 96.5 FM</string>
+			<string>Al Wisal 96.5 FM الوصال</string>
 			<key>logo</key>
 			<string>Wisal</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/al-wisal-96-5-fm,18913.m3u</string>
+			<string>http://uk7.internet-radio.com:8067/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/al-wisal-96-5-fm,18913.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hala FM</string>
+			<string>Hala FM هلا اف ام</string>
 			<key>logo</key>
 			<string>Hala</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hala-fm,17196.m3u</string>
+			<string>http://s8.viastreaming.net:7850/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hala-fm,17196.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,11 +79,11 @@
 			<key>logo</key>
 			<string>Hi</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hi-fm-95-5-fm,18910.m3u</string>
+			<string>http://s8.viastreaming.net:8965/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hi-fm-95-5-fm,18910.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,11 +91,11 @@
 			<key>logo</key>
 			<string>Merge</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/merge-104-8-fm,18914.m3u</string>
+			<string>http://uk7.internet-radio.com:8040/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/merge-104-8-fm,18914.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,7 +107,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/Talk</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -123,7 +123,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Oman R English 90.4 FM</string>
+			<string>Oman English 90.4 FM</string>
 			<key>logo</key>
 			<string>English</string>
 			<key>link</key>
@@ -131,7 +131,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,7 +143,55 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Virgin 100.9 FM</string>
+			<key>logo</key>
+			<string>Virgin</string>
+			<key>link</key>
+			<string>http://uk5.internet-radio.com:8115/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Arabic</string>
+			<key>logo</key>
+			<string>Arabic</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو سوا الخليج</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
