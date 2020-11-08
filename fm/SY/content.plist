@@ -63,39 +63,51 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Al Asemeh</string>
+			<string>إذاعة دمشق</string>
+			<key>logo</key>
+			<string>Dimashq</string>
+			<key>link</key>
+			<string>http://radioliveb.rtv.gov.sy:8002/RadioDimshq.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Asemeh - العاصمة إف إم</string>
 			<key>logo</key>
 			<string>Asemeh</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/al-asemeh,20504.m3u</string>
+			<string>http://asima.out.airtime.pro:8000/asima_a.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/al-asemeh,20504.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Al Madina FM 101.5 FM</string>
+			<string>Al Madina FM 101.5 المدينة اف ام</string>
 			<key>logo</key>
 			<string>Madina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/al-madina-fm-101-5-fm,17295.m3u</string>
+			<string>http://192.99.17.12:4978/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/al-madina-fm-101-5-fm,17295.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Arabesque FM 102.3</string>
+			<string>Arabesque FM 102.3 أرابيسك اف ام</string>
 			<key>logo</key>
 			<string>Arabesque</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/arabesque-fm,17293.m3u</string>
+			<string>http://185.4.87.79:8765/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/arabesque-fm,17293.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,31 +119,55 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Aamouda (Local)</string>
+			<string>News, Music (Aamouda, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fuse FM 91.1</string>
+			<string>فرح اف ام Farah FM 97.3</string>
+			<key>logo</key>
+			<string>Farah</string>
+			<key>link</key>
+			<string>http://www.farah.fm/playar/play.m3u</string>
+			<key>http</key>
+			<string>http://radio.farah.fm:8015/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fuse FM 91.1 فيوز اف ام</string>
 			<key>logo</key>
 			<string>Fuse</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fuse-fm-91-1,20506.m3u</string>
+			<string>http://192.99.17.12:4986/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fuse-fm-91-1,20506.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Melody FM 97.9</string>
+			<string>Melody FM 97.9 ميلودي اف ام</string>
 			<key>logo</key>
 			<string>Melody</string>
 			<key>link</key>
+			<string>http://streaming.inet.sy:8000/melodyfm.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/melody-fm,18311.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix FM 105.7</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://192.99.17.12:5102/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -143,17 +179,29 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Aleppo (Local)</string>
+			<string>News, Talk (Aleppo, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Rotana Style FM 105.0</string>
+			<string>راديو أورينت Orient  </string>
+			<key>logo</key>
+			<string>Orient</string>
+			<key>link</key>
+			<string>https://svs.itworkscdn.net/orientradiolive/orlive/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rotana Style FM 105.0 روتانا ستايل</string>
 			<key>logo</key>
 			<string>Rotana</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rotana-style-fm-105-0,18310.m3u</string>
+			<string>http://192.99.17.12:5098/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rotana-style-fm-105-0,18310.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -163,15 +211,27 @@
 			<key>logo</key>
 			<string>Rozana</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-rozana-103-5-fm,20507.m3u</string>
+			<string>http://38.96.175.97:5980/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-rozana-103-5-fm,20507.m3u</string>
 			<key>note</key>
 			<string>Aleppo (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sham FM</string>
+			<string>إذاعة صوت الشباب - Sawt Alshabab FM </string>
+			<key>logo</key>
+			<string>Sawt</string>
+			<key>link</key>
+			<string>http://radioliveb.rtv.gov.sy:8002/RadioShabab.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sham FM شام إف إم</string>
 			<key>logo</key>
 			<string>Sham</string>
 			<key>link</key>
@@ -180,6 +240,66 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة سوريانا - Souryana 88.3 FM                  </string>
+			<key>logo</key>
+			<string>Souryana</string>
+			<key>link</key>
+			<string>http://radioliveb.rtv.gov.sy:8008/RadioSouryana.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Version FM - دمشق 94.4</string>
+			<key>logo</key>
+			<string>Version</string>
+			<key>link</key>
+			<string>http://5.39.218.151:8400/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Arabic</string>
+			<key>logo</key>
+			<string>Arabic</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو سوا الخليج</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
