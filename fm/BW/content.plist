@@ -63,11 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Yemen Times</string>
+			<string>Africa Radio</string>
 			<key>logo</key>
-			<string>Times</string>
+			<string>Afric</string>
 			<key>link</key>
-			<string>http://listen1.mixlr.com/bb11ece661e2c705decae70a1e637a5d</string>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,59 +75,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Eram FM - إيرام إف إم 94.9</string>
+			<string>BBC Afrique</string>
 			<key>logo</key>
-			<string>Eram</string>
+			<string>BBC</string>
 			<key>link</key>
-			<string>http://icecast2.edisimo.com:8000/eramfm.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعة صنعاء - اليمن</string>
-			<key>logo</key>
-			<string>Sanaa</string>
-			<key>link</key>
-			<string>http://cp6.serverse.com:7183/live.m3u</string>
-			<key>http</key>
-			<string>http://93.190.141.15:7183/live</string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>إذاعة وطن - اليمن - صنعاء</string>
-			<key>logo</key>
-			<string>Watan</string>
-			<key>link</key>
-			<string>http://s12.myradiostream.com:16308/listen.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>اذاعة صوت اليمن FM 98.1  - اليمن - صنعاء</string>
-			<key>logo</key>
-			<string>Sawt</string>
-			<key>link</key>
-			<string>http://192.240.102.133:12484/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>سام إف إم 99.1 - اليمن - صنعاء</string>
-			<key>logo</key>
-			<string>Sam</string>
-			<key>link</key>
-			<string>http://edge.mixlr.com/channel/kijwr</string>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,11 +87,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>اذاعة المسيرة - اليمن - صنعاء</string>
+			<string>Duma FM</string>
 			<key>logo</key>
-			<string>Almasirah</string>
+			<string>Duma</string>
 			<key>link</key>
-			<string>https://svs.itworkscdn.net/almasiralive/almasira/playlist.m3u8</string>
+			<string>http://50.7.99.163:16170/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,51 +99,75 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعة دلتا اف ام - اليمن - 101.9 صنعاء</string>
+			<string>Gabz FM 96.2</string>
 			<key>logo</key>
-			<string>Delta</string>
+			<string>Gabz</string>
 			<key>link</key>
-			<string>http://108.61.34.50:7057/live.m3u</string>
+			<string>http://fmt01.egihosting.com:17721/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/gabz-fm-96-2,18262.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RB1</string>
+			<key>logo</key>
+			<string>RB1</string>
+			<key>link</key>
+			<string>http://168.167.134.26:8000/rb1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RB2 103.0 FM</string>
+			<key>logo</key>
+			<string>RB2</string>
+			<key>link</key>
+			<string>http://168.167.134.26:8000/rb2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Africa</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yarona FM 106.8</string>
+			<key>logo</key>
+			<string>Yarona</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/yarona-fm-106-8,18918.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>BBC World Arabic</string>
-			<key>logo</key>
-			<string>Arabic</string>
-			<key>link</key>
-			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>راديو سوا الخليج</string>
-			<key>logo</key>
-			<string>Sawa</string>
-			<key>link</key>
-			<string>http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sky News Arabia</string>
-			<key>logo</key>
-			<string>Sky</string>
-			<key>link</key>
-			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
