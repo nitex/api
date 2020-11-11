@@ -63,13 +63,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa7</string>
+			<key>logo</key>
+			<string>Africa7</string>
+			<key>link</key>
+			<string>http://162.254.149.235:8081/africa7radio/live/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Al Fayda FM 90.1</string>
 			<key>logo</key>
 			<string>Fayda</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/al-fayda-fm-90-1,19234.m3u</string>
+			<string>http://192.99.35.93:6310/listen.pls</string>
 			<key>http</key>
-			<string>http://usa5.fastcast4u.com/proxy/lyartech?mp=/1</string>
+			<string>http://www.surfmusic.de/m3u/al-fayda-fm-90-1,19234.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -111,6 +135,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>BBC Afrique</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carrefour FM 90.0</string>
+			<key>logo</key>
+			<string>Carrefour</string>
+			<key>link</key>
+			<string>https://carrefourfm.ice.infomaniak.ch/carrefour.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Diamalahi FM 92.3</string>
 			<key>logo</key>
 			<string>Diamalahi</string>
@@ -123,6 +171,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Dunyaa 88.9 FM</string>
+			<key>logo</key>
+			<string>Dunyaa</string>
+			<key>link</key>
+			<string>http://node-06.zeno.fm/a7whxn0hq9duv.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Sénégal 103.1</string>
+			<key>logo</key>
+			<string>Senegal</string>
+			<key>link</key>
+			<string>http://stream.zenolive.com/t8gcyq6ts0quv.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Futurs Médias</string>
+			<key>logo</key>
+			<string>Futurs</string>
+			<key>link</key>
+			<string>http://node-35.zeno.fm/f480h9xkrxquv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iRadio</string>
+			<key>logo</key>
+			<string>iRadio</string>
+			<key>link</key>
+			<string>https://listen.radioking.com/radio/250102/stream/306970</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Lamp Fall FM</string>
 			<key>logo</key>
 			<string>Lamp</string>
@@ -131,7 +227,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -163,35 +259,83 @@
 			<key>logo</key>
 			<string>Rewmi</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rewmi-fm-97-5,18243.m3u</string>
+			<string>http://node-10.zeno.fm/nkzsqg16t8quv</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rewmi-fm-97-5,18243.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RFM Radio 94 FM</string>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFM (Futurs Médias) 94 FM</string>
 			<key>logo</key>
 			<string>RFM</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rfm-radio-94-fm,5154.m3u</string>
+			<string>http://node-35.zeno.fm/f480h9xkrxquv</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rfm-radio-94-fm,5154.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTS Sedhiou FM</string>
+			<string>RTS Chaîne Nationale</string>
 			<key>logo</key>
-			<string>RTS</string>
+			<string>Nationale</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rts-sedhiou-fm,18242.m3u</string>
+			<string>http://node-16.zeno.fm/6c5cv8nrt1duv.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTS Dakar FM 94.5</string>
+			<key>logo</key>
+			<string>Dakar</string>
+			<key>link</key>
+			<string>http://node-29.zeno.fm/cbff588f03duv</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTS International</string>
+			<key>logo</key>
+			<string>International</string>
+			<key>link</key>
+			<string>http://node-24.zeno.fm/4ug134nd28quv</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/rts-sedhiou-fm,18242.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTS Thiès FM</string>
+			<key>logo</key>
+			<string>RTS</string>
+			<key>link</key>
+			<string>http://node-07.zeno.fm/ccefz6rss1duv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,17 +347,29 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>SudFM</string>
+			<string>Soxna FM 99.9</string>
 			<key>logo</key>
-			<string>SudFM</string>
+			<string>Soxna</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sudfm,10026.m3u</string>
+			<string>http://stream.zenolive.com/qkm1zuqb4rquv.aac</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sud FM</string>
+			<key>logo</key>
+			<string>Sud</string>
+			<key>link</key>
+			<string>http://node-11.zeno.fm/rq40edfn3reuv.mp3</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/sudfm,10026.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -243,13 +399,109 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Top FM 97.8</string>
+			<key>logo</key>
+			<string>TopFM</string>
+			<key>link</key>
+			<string>http://node-20.zeno.fm/dxdd1x3a2mruv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trace FM</string>
+			<key>logo</key>
+			<string>Trace</string>
+			<key>link</key>
+			<string>http://stream.trace.tv/trace_fm_senegal-midfi.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trade FM 88.1</string>
+			<key>logo</key>
+			<string>Trade</string>
+			<key>link</key>
+			<string>http://tradefm.ice.infomaniak.ch/tradefm-192.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCAD FM 94.7</string>
+			<key>logo</key>
+			<string>UCAD</string>
+			<key>link</key>
+			<string>http://node-18.zeno.fm/b38a68a1krquv.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urban Africa 97.1 FM</string>
+			<key>logo</key>
+			<string>Urban</string>
+			<key>link</key>
+			<string>http://node-19.zeno.fm/708hahhk22quv.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vibe 102.3 FM</string>
+			<key>logo</key>
+			<string>Vibe</string>
+			<key>link</key>
+			<string>http://217.182.132.137:8000/viberadio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WADR West Africa Democracy 94.9 FM</string>
+			<key>logo</key>
+			<string>WADR</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/westafricademocracyradio/westafricademocracyradio.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string>http://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Walf FM 99.0</string>
 			<key>logo</key>
 			<string>Walf</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/walf-fm-99-0,19235.m3u</string>
+			<string>http://206.190.135.28:8036/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/walf-fm-99-0,19235.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -283,11 +535,11 @@
 			<key>logo</key>
 			<string>Zik</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/zik-105-9-fm-dakar,16651.m3u</string>
+			<string>https://node-13.zeno.fm/vtxarcfpmnruv</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/zik-105-9-fm-dakar,16651.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 	</array>
 </dict>
