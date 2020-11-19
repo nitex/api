@@ -843,15 +843,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CBS Sports 1300 AM</string>
+			<string>CBS News</string>
 			<key>logo</key>
-			<string>CBS</string>
+			<string>CBSNews</string>
 			<key>link</key>
-			<string>http://playerservices.streamtheworld.com/pls/WJZAM.pls</string>
+			<string>http://playerservices.streamtheworld.com/pls/CBSNEWS.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Sport (Baltimore, MD)</string>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CBS Sports</string>
+			<key>logo</key>
+			<string>CBS</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/CBSSPORTS.pls</string>
+			<key>http</key>
+			<string>http://playerservices.streamtheworld.com/pls/WJZAM.pls</string>
+			<key>note</key>
+			<string>Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1083,15 +1095,591 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>WUST 1120 AM - DMV&apos;s BIN</string>
+			<string>BIN</string>
 			<key>logo</key>
-			<string>WUST</string>
+			<string>BIN</string>
 			<key>link</key>
 			<string>http://stream.revma.ihrhls.com/zc8726.m3u</string>
 			<key>http</key>
+			<string>http://stream.revma.ihrhls.com/zc5382.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WRVA NewsRadio</string>
+			<key>logo</key>
+			<string>WRVA</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WRVAAM.pls</string>
+			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News (Washington, DC)</string>
+			<string>News (Richmond, VA)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>China Plus</string>
+			<key>logo</key>
+			<string>China</string>
+			<key>link</key>
+			<string>http://174.77.155.180:88/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WPHT Talk Radio 1210 AM</string>
+			<key>logo</key>
+			<string>WPHT</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WPHTAM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk (Philadelphia, PA)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WDCT 기쁜소리방송은 1310 AM</string>
+			<key>logo</key>
+			<string>WDCT</string>
+			<key>link</key>
+			<string>http://173.73.108.38/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Washington (DC)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WNAV Your Hometown Station</string>
+			<key>logo</key>
+			<string>WNAV</string>
+			<key>link</key>
+			<string>http://ice9.securenetsystems.net/WNAV.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Annapolis (MD)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WPWC We Act Radio 1480 AM</string>
+			<key>logo</key>
+			<string>WPWC</string>
+			<key>link</key>
+			<string>http://server3.whiterosesociety.org:8000/ProgressiveDC.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WTRI Chai 1520 AM</string>
+			<key>logo</key>
+			<string>WTRI</string>
+			<key>link</key>
+			<string>http://c11icy.prod.playlists.ihrhls.com/6167_icy</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Brunswick, MD)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WACA Radio América 1540 AM</string>
+			<key>logo</key>
+			<string>WACA</string>
+			<key>link</key>
+			<string>https://node-01.zeno.fm/a1s86ymequeuv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wheaton (MD)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WKIK Country 102.9 FM</string>
+			<key>logo</key>
+			<string>WKIK</string>
+			<key>link</key>
+			<string>http://ice3.securenetsystems.net/WKIK.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (California, MD)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WJFK El Zol Deportes 1580 AM</string>
+			<key>logo</key>
+			<string>WJFK</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WJFKAM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport (Washington, DC)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WQHS749 1670 AM - Fairfax County</string>
+			<key>logo</key>
+			<string>WQHS749</string>
+			<key>link</key>
+			<string>http://fairfax.appcomm.net:7513/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WZIP 88.1 FM</string>
+			<key>logo</key>
+			<string>WZIP</string>
+			<key>link</key>
+			<string>http://www.streamvortex.com:11300/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Akron, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WKSU Public 89.7 FM</string>
+			<key>logo</key>
+			<string>Public</string>
+			<key>link</key>
+			<string>http://stream.wksu.org/wksu1.mp3.128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Kent, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Folk Alley 89.7 FM</string>
+			<key>logo</key>
+			<string>Folk</string>
+			<key>link</key>
+			<string>https://freshgrass.streamguys1.com/folkalley-128mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Kent (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WKSU Classical 89.7 FM</string>
+			<key>logo</key>
+			<string>Classical</string>
+			<key>link</key>
+			<string>https://stream.wksu.org/wksu3.mp3.128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Kent, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WKSU News 89.7 FM</string>
+			<key>logo</key>
+			<string>WKSU</string>
+			<key>link</key>
+			<string>https://stream.wksu.org/wksu4.mp3.128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Kent, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WCPN 90.3 FM - Cleveland Public</string>
+			<key>logo</key>
+			<string>WCPN</string>
+			<key>link</key>
+			<string>http://audio1.ideastream.org/wcpn128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cleveland (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WCLV 104.9 FM - Cleveland&apos;s Classical</string>
+			<key>logo</key>
+			<string>WCLV</string>
+			<key>link</key>
+			<string>http://audio1.ideastream.org/wclv.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WAPS The Summit 91.3 FM</string>
+			<key>logo</key>
+			<string>WAPS</string>
+			<key>link</key>
+			<string>http://streamer2.legatocommunications.com/wapshq.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Akron (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KRTM 88.1 FM</string>
+			<key>logo</key>
+			<string>KRTM</string>
+			<key>link</key>
+			<string>http://live.kdkr.org:8000/krtm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WKRK The Fan 92.3 FM</string>
+			<key>logo</key>
+			<string>WKRK</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WKRKFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WDJQ Q92.5 FM</string>
+			<key>logo</key>
+			<string>WDJQ</string>
+			<key>link</key>
+			<string>http://live.wostreaming.net/direct/dapeterson-wdjqfmmp3-ibc4</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music, Sport (Alliance, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WZAK R&amp;B Leader 93.1 FM</string>
+			<key>logo</key>
+			<string>WZAK</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WZAKFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WAKR Soft Hits 93.5 FM</string>
+			<key>logo</key>
+			<string>WAKR</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WAKRAM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport, Music (Akron, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WHBC Mix 94.1 FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://live.wostreaming.net/playlist/alphacorporate-whbcfmmp3-ibc4.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Canton, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WQMX Your Country 94.9 FM</string>
+			<key>logo</key>
+			<string>WQMX</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WQMXFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Canton, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WFHM The Fish 95.5 FM</string>
+			<key>logo</key>
+			<string>WFHM</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WFHMFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WCFI-LP 96.1 FM</string>
+			<key>logo</key>
+			<string>WCFI</string>
+			<key>link</key>
+			<string>http://162.210.196.142:16982/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cuyahoga Falls (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WAKS 96.5 Kiss FM</string>
+			<key>logo</key>
+			<string>WAKS</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc1729.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WONE Rock&amp;Roll 97.5 FM</string>
+			<key>logo</key>
+			<string>WONE</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WONEFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Akron, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WKDD 98.1 FM</string>
+			<key>logo</key>
+			<string>WKDD</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc1685.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Akron, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WNCX Classic Rock 98.5 FM</string>
+			<key>logo</key>
+			<string>WNCX</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WNCXFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WMXY Mix 98.9 FM</string>
+			<key>logo</key>
+			<string>WMXY</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc2772.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Youngstown, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WGAR Country 99.5 FM</string>
+			<key>logo</key>
+			<string>WGAR</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc1733.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WNIR The Talk 100.1 FM</string>
+			<key>logo</key>
+			<string>WNIR</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WNIRFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk (Akron, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WMMS Rock 100.7 FM</string>
+			<key>logo</key>
+			<string>WMMS</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc1741.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WHOT Hot 101.1 FM</string>
+			<key>logo</key>
+			<string>WHOT</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WHOTFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Youngstown, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WHOF Sunny 101.7 FM</string>
+			<key>logo</key>
+			<string>WHOF</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc3298.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WDOK 102.1 FM - Star 102</string>
+			<key>logo</key>
+			<string>WDOK</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WDOKFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cleveland (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WYFM 102.9 FM - Y-103</string>
+			<key>logo</key>
+			<string>WYFM</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WYFMFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youngstown (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WQAL Q104.1 FM</string>
+			<key>logo</key>
+			<string>WQAL</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WQALFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cleveland (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WQAL New Music Channel</string>
+			<key>logo</key>
+			<string>Channel</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WQALHD2.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WQKT Sports*Country 104.5 FM</string>
+			<key>logo</key>
+			<string>WQKT</string>
+			<key>link</key>
+			<string>http://206.190.131.100:9958/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport (Wooster, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WQXK Country K-105.1 FM</string>
+			<key>logo</key>
+			<string>WQXK</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/WQXKFM.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youngstown (OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WMJI Majic 105.7 FM</string>
+			<key>logo</key>
+			<string>WMJI</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc1737.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>W291BV Real 106.1 FM</string>
+			<key>logo</key>
+			<string>W291BV</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc8172.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WHLK The Lake 106.5 FM</string>
+			<key>logo</key>
+			<string>WHLK</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc4958.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Cleveland, OH)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WRQK Rock 106.9 FM</string>
+			<key>logo</key>
+			<string>WRQK</string>
+			<key>link</key>
+			<string>http://stream.revma.ihrhls.com/zc3294.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Canton, OH)</string>
 		</dict>
 		<dict>
 			<key>name</key>
