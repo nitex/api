@@ -51,6 +51,390 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Pars Today (English)</string>
+			<key>logo</key>
+			<string>Today</string>
+			<key>link</key>
+			<string>http://stream.parstoday.com:1935/ws/irib8/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IRIB QOM (رادیو قم)</string>
+			<key>logo</key>
+			<string>QOM</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-qom/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IRIB Alborz (رادیو البرز‎)</string>
+			<key>logo</key>
+			<string>Alborz</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-alborz/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IRIB Edalat (رادیو عدالت)</string>
+			<key>logo</key>
+			<string>Edalat</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-enghelab/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IRIB Telavat (رادیو تلاوت)</string>
+			<key>logo</key>
+			<string>Telavat</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-talavat/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Isfahan (رادیو اصفهان)</string>
+			<key>logo</key>
+			<string>Isfahan</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-esfahan/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Qazvin (رادیو قزوین)</string>
+			<key>logo</key>
+			<string>Qazvin</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-qazvin/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mazandaran (رادیو مازندران)</string>
+			<key>logo</key>
+			<string>Mazandaran</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-sari/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tabriz (رادیو آذربایجان شرقی)</string>
+			<key>logo</key>
+			<string>Tabriz</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-tabriz/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urmia (رادیو آذربایجان غربی)</string>
+			<key>logo</key>
+			<string>Urmia</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-azgharbi/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shahrekord (رادیو چهارمحال و بختیاری)</string>
+			<key>logo</key>
+			<string>Shahrekord</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-shahrekord/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fars (رادیو فارس)</string>
+			<key>logo</key>
+			<string>Fars</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-fars/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bushehr (رادیو ‎بوشهر)</string>
+			<key>logo</key>
+			<string>Bushehr</string>
+			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-bushehr/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>1</string>
 			<key>logo</key>
 			<string>1</string>
@@ -75,37 +459,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Arabic Tehran</string>
+			<string>IRIB Arabic (اذاعة طهران العربية)</string>
 			<key>logo</key>
 			<string>Arabic</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-arabic-tehran,20427.m3u</string>
+			<string>http://cdn1.live.irib.ir:1935/channel-live/smil:r-world3/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-arabic-tehran,20427.m3u</string>
 			<key>note</key>
-			<string>News/Talk</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ava 93.5 FM</string>
+			<string>IRIB Ava (رادیو آوا)</string>
 			<key>logo</key>
 			<string>Ava</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-ava-93-5-fm,17690.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-ava/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-ava-93-5-fm,17690.m3u</string>
 			<key>note</key>
-			<string>Music/Talk</string>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Eghtesad</string>
+			<string>Eghtesad (رادیو اقتصاد)</string>
 			<key>logo</key>
 			<string>Eghtesad</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-eghtesad,20428.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-eghtesad/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-eghtesad,20428.m3u</string>
 			<key>note</key>
 			<string>News</string>
 		</dict>
@@ -131,41 +515,41 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/Talk</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Farhang</string>
+			<string>IRIB Farhang (راديو فرهنگ)</string>
 			<key>logo</key>
 			<string>Farhang</string>
 			<key>link</key>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-farhang/playlist.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-farhang,824.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string>Music/Talk/News</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Goftegoo</string>
+			<string>IRIB Goftogoo (رادیو گفتگو)</string>
 			<key>logo</key>
 			<string>Goftegoo</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-goftegoo,20430.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-goftego/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-goftegoo,20430.m3u</string>
 			<key>note</key>
-			<string>Talk/News</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Iran</string>
+			<string>IRIB Iran (رادیو ایران)</string>
 			<key>logo</key>
 			<string>Ira</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-iran,20422.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-iran/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-iran,20422.m3u</string>
 			<key>note</key>
 			<string>Talk</string>
 		</dict>
@@ -195,25 +579,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Javan Tehran 91.3 FM</string>
+			<string>IRIB Javan (رادیو جوان)</string>
 			<key>logo</key>
 			<string>Javan</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-javan-tehran,20426.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-javan/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-javan-tehran,20426.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Maaref 96 FM</string>
+			<string>IRIB Maaref 96 FM (راديو معارف)</string>
 			<key>logo</key>
 			<string>Maaref</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-maref,825.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-maaref/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-maref,825.m3u</string>
 			<key>note</key>
 			<string>Talk</string>
 		</dict>
@@ -231,13 +615,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Namayesh</string>
+			<string>Namayesh (رادیو نمایش)</string>
 			<key>logo</key>
 			<string>Namayesh</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-namayesh,20423.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-namayesh/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-namayesh,20423.m3u</string>
 			<key>note</key>
 			<string>Music/News</string>
 		</dict>
@@ -255,39 +639,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Payam 104 FM</string>
+			<string>IRIB Payam 104 FM (رادیو پیام)</string>
 			<key>logo</key>
 			<string>Payam</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-payam-104-fm,13706.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-payam/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-payam-104-fm,13706.m3u</string>
 			<key>note</key>
-			<string>Music/News/Talk</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Quran</string>
+			<string>IRIB Quran (رادیو قرآن)</string>
 			<key>logo</key>
 			<string>Quran</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-quran,6661.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-quran/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-quran,6661.m3u</string>
 			<key>note</key>
 			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Saba</string>
+			<string>IRIB Saba (رادیو صبا)</string>
 			<key>logo</key>
 			<string>Saba</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-saba,20429.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-saba/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-saba,20429.m3u</string>
 			<key>note</key>
-			<string>Music/Youth</string>
+			<string>Youth, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -303,13 +687,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Salamat</string>
+			<string>IRIB Salamat (راديو سلامت)</string>
 			<key>logo</key>
 			<string>Salamat</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-salamat,12755.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-salamat/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-salamat,12755.m3u</string>
 			<key>note</key>
 			<string>Talk</string>
 		</dict>
@@ -339,27 +723,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tehran</string>
+			<string>IRIB Tehran (رادیو تهران)</string>
 			<key>logo</key>
 			<string>Tehran</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-tehran,20179.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-tehran/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-tehran,20179.m3u</string>
 			<key>note</key>
-			<string>News/Talk</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Varzesh</string>
+			<string>IRIB Varzesh (رادیو ورزش)</string>
 			<key>logo</key>
 			<string>Varzesh</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-varzesh,20008.m3u</string>
+			<string>http://altcdn.iranseda.ir:1935/channel-live/smil:r-varzesh/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-varzesh,20008.m3u</string>
 			<key>note</key>
-			<string>News/Sport</string>
+			<string>News, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
