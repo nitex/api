@@ -63,6 +63,42 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>רדיו קול חי</string>
+			<key>logo</key>
+			<string>Chai</string>
+			<key>link</key>
+			<string>http://media.93fm.co.il/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>רדיו דרום</string>
+			<key>logo</key>
+			<string>Darom</string>
+			<key>link</key>
+			<string>http://audio-darom.ecast.co.il:9000/darom97fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>רדיו אמצע הדרך 90FM</string>
+			<key>logo</key>
+			<string>90FM</string>
+			<key>link</key>
+			<string>http://90.cdnwz.net/90fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>90.3 Kol Israel Reshet Dalet</string>
 			<key>logo</key>
 			<string>Kol</string>
@@ -79,11 +115,47 @@
 			<key>logo</key>
 			<string>100</string>
 			<key>link</key>
+			<string>http://100fm.streamgates.net/Radios100Fm.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-100-fm,2562.m3u</string>
+			<key>note</key>
+			<string>Music (Sharon, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>רדיו 101.5 FM</string>
+			<key>logo</key>
+			<string>101.5</string>
+			<key>link</key>
+			<string>http://audio-darom.ecast.co.il/darom101.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Sharon (Local)</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>קול רמת השרון 103.6</string>
+			<key>logo</key>
+			<string>103.6</string>
+			<key>link</key>
+			<string>http://1036fm.livecast.co.il/live1036fm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IDC הרדיו הבינתחומי 106.2</string>
+			<key>logo</key>
+			<string>IDC</string>
+			<key>link</key>
+			<string>http://194.153.101.160:8000/idc123.mp3.%D0%BC3%D1%83</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,9 +163,9 @@
 			<key>logo</key>
 			<string>Haifa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/107-5-radio-haifa,9774.m3u</string>
+			<string>http://1075.livecdn.biz/radiohaifa.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/107-5-radio-haifa,9774.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -119,7 +191,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Netanya (Local)</string>
+			<string>Talk (Netanya, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +227,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -183,15 +255,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Eco 99 FM</string>
+			<string>אקו Eco 99 FM</string>
 			<key>logo</key>
 			<string>Eco</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/eco-99-fm,17559.m3u</string>
+			<string>http://99.livecdn.biz/99fm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/eco-99-fm,17559.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,27 +275,39 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 102</string>
+			<string>רדיו תל אביב 102 FM</string>
 			<key>logo</key>
 			<string>102</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-102,827.m3u</string>
+			<string>http://102.livecdn.biz/102fm_aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-tel-aviv-102-fm,10267.m3u</string>
 			<key>note</key>
-			<string>Eilat (Local)</string>
+			<string>Talk, Top Music (Eilat, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 103</string>
+			<string>103 Lelo Hafsaka</string>
 			<key>logo</key>
 			<string>103</string>
 			<key>link</key>
+			<string>http://103fm.live.streamgates.net/103fm_live/1multix/icecast.audio</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/fm-103,828.m3u</string>
+			<key>note</key>
+			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galey Israel גלי ישראל</string>
+			<key>logo</key>
+			<string>Galey</string>
+			<key>link</key>
+			<string>http://gly-audioswitch1.ecast.co.il:9000/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,27 +315,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Galei Zahal 102.3 FM</string>
+			<string>גלי צה&quot;ל  Galei Zahal 102.3 FM</string>
 			<key>logo</key>
 			<string>Galei</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/galei-zahal-102-3-fm,14213.m3u</string>
+			<string>http://glzwizzlv.bynetcdn.com/glz_mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/galei-zahal-102-3-fm,14213.m3u</string>
 			<key>note</key>
-			<string>Haifa (Local)</string>
+			<string>News (Haifa, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Galgalatz 91.8 FM</string>
+			<string>רדיו גלגלצ Galgalatz 91.8 FM</string>
 			<key>logo</key>
 			<string>Galgalatz</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/galgalatz-91-8fm,6566.m3u</string>
+			<string>http://glzwizzlv.bynetcdn.com/glglz_mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/galgalatz-91-8fm,6566.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -267,7 +351,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hamesh 99.5 FM</string>
+			<string>רדיו חם אש - 99.5FM</string>
 			<key>logo</key>
 			<string>Hamesh</string>
 			<key>link</key>
@@ -275,7 +359,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Haifa (Local)</string>
+			<string>Music (Haifa, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -291,7 +375,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Israel National Radio</string>
+			<string>Israel National (Arutz Sheva)</string>
 			<key>logo</key>
 			<string>National</string>
 			<key>link</key>
@@ -299,31 +383,31 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/aruz-sheva,6755.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Jerusalem FM 101</string>
+			<string>רדיו ירושלים FM 101</string>
 			<key>logo</key>
 			<string>101</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/jerusalem-fm-101,10265.m3u</string>
+			<string>http://101.cdnwz.net/101fm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/jerusalem-fm-101,10265.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kol Barama</string>
+			<string>Kol Barama רדיו קול ברמה</string>
 			<key>logo</key>
 			<string>Barama</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kol-barama,17563.m3u</string>
+			<string>http://kb.cdnwz.net/kol_barama.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kol-barama,17563.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -335,7 +419,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -359,19 +443,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Lev Hamedina 91 FM</string>
+			<string>רדיו לב המדינה 91 FM</string>
 			<key>logo</key>
 			<string>Lev</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-lev-hamedina-91-fm,10268.m3u</string>
+			<string>http://91fm.streamgates.net/Lev91Fm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-lev-hamedina-91-fm,10268.m3u</string>
 			<key>note</key>
-			<string>Rishon Leziyon (Local)</string>
+			<string>Music (Rishon Leziyon, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -383,7 +467,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -395,19 +479,31 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Talk (Haifa, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Лучшее 106.4 FM</string>
+			<key>logo</key>
+			<string>Luchee</string>
+			<key>link</key>
+			<string>https://a2.streamgates.net/TheBest/live/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
 			<string>Haifa (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Pervoe 89.1 FM</string>
+			<string>Первое 89.1 FM</string>
 			<key>logo</key>
 			<string>Pervoe</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-89-1-fm,3420.m3u</string>
+			<string>http://891fm.streamgates.net/891Fm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-89-1-fm,3420.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -435,18 +531,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tel Aviv 102 FM	</string>
-			<key>logo</key>
-			<string>Tel</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-tel-aviv-102-fm,10267.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>The Voice of Peace</string>
 			<key>logo</key>
 			<string>Voice</string>
@@ -467,7 +551,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
