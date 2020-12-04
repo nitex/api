@@ -195,11 +195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>إذاعة البشائر</string>
 			<key>logo</key>
-			<string></string>
+			<string>bachaer</string>
 			<key>link</key>
-			<string></string>
+			<string>http://audiostreaming.itworkscdn.com:9014/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +207,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>صوت النجوم</string>
 			<key>logo</key>
-			<string></string>
+			<string>noujoum</string>
 			<key>link</key>
-			<string></string>
+			<string>http://elie91.primcast.com:7992/listen.pls</string>
+			<key>http</key>
+			<string>http://s25.myradiostream.com:15298/listen.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة لبنان  Radio Liban</string>
+			<key>logo</key>
+			<string>Liban</string>
+			<key>link</key>
+			<string>http://162.244.80.118:3160/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +231,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>صوت النعمة Voice of Grace</string>
 			<key>logo</key>
-			<string></string>
+			<string>Grace</string>
 			<key>link</key>
+			<string>http://199.195.194.94:8065/stream.m3u</string>
+			<key>http</key>
+			<string>https://securestreams5.reliastream.com:1820/;</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Play FM 98.7</string>
+			<key>logo</key>
+			<string>PlayFM</string>
+			<key>link</key>
+			<string>https://usa5.fastcast4u.com/proxy/radioplay?mp=/1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sancta Maria 99.3 FM</string>
+			<key>logo</key>
+			<string>Sancta</string>
+			<key>link</key>
+			<string>http://streaming.radio.co/sa7e0251a2/listen</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +267,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>صوت لبنان Voice of Lebanon 100.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>Voice</string>
 			<key>link</key>
+			<string>http://audiostreaming.itworkscdn.com:9054/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة الفجر Fajr    </string>
+			<key>logo</key>
+			<string>Fajr</string>
+			<key>link</key>
+			<string>http://vps1.osina.cloud:9306/listen.pls</string>
+			<key>http</key>
+			<string>http://vps1.osina.cloud:9306/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Power FM 101.3</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://s28.myradiostream.com:14784/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو دلتا Delta</string>
+			<key>logo</key>
+			<string>Delta</string>
+			<key>link</key>
+			<string>http://s45.myradiostream.com:18408/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pax 103.0 FM</string>
+			<key>logo</key>
+			<string>Pax</string>
+			<key>link</key>
+			<string>http://78.129.190.50:3307/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,75 +327,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>صوت الشعب Sawt El Shaeb </string>
 			<key>logo</key>
-			<string></string>
+			<string>Shaeb</string>
 			<key>link</key>
-			<string></string>
+			<string>http://vps1.osina.cloud:9320/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://vps1.osina.cloud:9320/;</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Երտասարդութեան ձայն 106.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>tsayne</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s9.streammonster.com/tunein/kderderi.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://199.189.111.28:8023/live.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Youth, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -375,15 +411,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fame FM</string>
+			<string>Fame FM 99.5</string>
 			<key>logo</key>
 			<string>Fame</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fame-fm-95-5,833.m3u</string>
+			<string>http://stream.famefm.com:8200/fame.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fame-fm-95-5,833.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -391,9 +427,9 @@
 			<key>logo</key>
 			<string>Jaras</string>
 			<key>link</key>
-			<string>http://www.jarasfm.com/JarasScoop.m3u</string>
+			<string>http://s6.myradiostream.com:44798/listen.mp3.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/jaras-scoop-fm,18307.m3u</string>
+			<string>http://www.jarasfm.com/JarasScoop.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -447,9 +483,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Liban Libre RLL Live</string>
+			<string>Liban Libre RLL إذاعة لبنان الحر</string>
 			<key>logo</key>
-			<string>Liban</string>
+			<string>RLL</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-liban-libre-rll-live,5249.m3u</string>
 			<key>http</key>
@@ -499,9 +535,9 @@
 			<key>logo</key>
 			<string>NRJ</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/nrj-lebanon-99-1-fm,16590.m3u</string>
+			<string>http://185.52.127.172/lb/55219/mp3_128.mp3</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-99fm-rml,5251.m3u</string>
+			<string>http://www.surfmusic.de/m3u/nrj-lebanon-99-1-fm,16590.m3u</string>
 			<key>note</key>
 			<string>Top</string>
 		</dict>
@@ -567,11 +603,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sawt El Ghad</string>
+			<string>Sawt El Ghad صوت الغد</string>
 			<key>logo</key>
 			<string>Ghad</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sawt-el-ghad,13307.m3u</string>
+			<string>https://live.hibridcdn.net/ghadciel/ghadradio/playlist.m3u8</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/sawt-el-ghad-96-7-fm-lebanon,18764.m3u</string>
 			<key>note</key>
