@@ -71,7 +71,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,19 +83,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعة الرسالة</string>
+			<string>إذاعة الرسالة Risala</string>
 			<key>logo</key>
-			<string>risala</string>
+			<string>Risala</string>
 			<key>link</key>
 			<string>http://38.96.175.97:4376/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +119,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,19 +131,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعة النور</string>
+			<string>إذاعة النور Al Nour</string>
 			<key>logo</key>
-			<string>alnour</string>
+			<string>Nour</string>
 			<key>link</key>
 			<string>http://audiostreaming.itworkscdn.com:9066/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,15 +171,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>إذاعة القرآن الكريم</string>
+			<string>إذاعة القرآن الكريم Quran</string>
 			<key>logo</key>
-			<string>quran</string>
+			<string>Quran</string>
 			<key>link</key>
 			<string>http://162.244.81.30:8224/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -275,7 +275,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -287,7 +287,7 @@
 			<key>http</key>
 			<string>http://vps1.osina.cloud:9306/;</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -311,7 +311,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Top, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -335,7 +335,7 @@
 			<key>http</key>
 			<string>http://vps1.osina.cloud:9320/;</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -351,27 +351,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>R1L 105.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>R1L</string>
 			<key>link</key>
-			<string></string>
+			<string>http://rss-streaming.co.uk:8026/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Star FM - لبنان</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sta</string>
 			<key>link</key>
-			<string></string>
+			<string>http://audiostreaming.itworkscdn.com:9014/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>اذاعة صوت المحبة Voice of Charity</string>
+			<key>logo</key>
+			<string>Charity</string>
+			<key>link</key>
+			<string>http://cast5.servcast.net:9980/stream.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة جبل لبنان JABAL </string>
+			<key>logo</key>
+			<string>JABAL</string>
+			<key>link</key>
+			<string>http://cdn.nrjaudio.fm/audio1/lb/2/mp3_128.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -383,7 +407,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -419,7 +443,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/fame-fm-95-5,833.m3u</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -431,7 +455,7 @@
 			<key>http</key>
 			<string>http://www.jarasfm.com/JarasScoop.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -443,7 +467,7 @@
 			<key>http</key>
 			<string>http://212.83.138.48:8039/;stream.mp3</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -455,7 +479,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -491,7 +515,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -499,11 +523,11 @@
 			<key>logo</key>
 			<string>Mix</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mix-fm-104-4,834.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/MIXFM_LEBANONAAC.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mix-fm-104-4,834.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -515,7 +539,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/nidaa-fm,16589.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -539,7 +563,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/nrj-lebanon-99-1-fm,16590.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -563,7 +587,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -611,7 +635,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/sawt-el-ghad-96-7-fm-lebanon,18764.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -623,7 +647,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-sawt-el-mada,13304.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -635,7 +659,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/vdl-voice-of-lebanon,8451.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
