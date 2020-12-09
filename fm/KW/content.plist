@@ -63,13 +63,37 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>راديو سوا الخليج</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة الكويت</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://svs.itworkscdn.net/kradioonelive/kone/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>2 (البرنامج الثاني)97.5 </string>
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kuwait-2,17746.m3u</string>
+			<string>http://svs.itworkscdn.net/kradio2live/kradio2/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kuwait-2,17746.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -79,11 +103,23 @@
 			<key>logo</key>
 			<string>Alkarem</string>
 			<key>link</key>
+			<string>http://svs.itworkscdn.net/kquranlive/kquran/playlist.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-kuwait-koran,4260.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Arabic</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,9 +127,9 @@
 			<key>logo</key>
 			<string>Easy</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kuwait-easy-92-5-fm,18880.m3u</string>
+			<string>http://svs.itworkscdn.net/keasylive/keasy/playlist.m3u8</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/fm-92-5,4262.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-kuwait-easy-92-5-fm,18880.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -115,11 +151,11 @@
 			<key>logo</key>
 			<string>Marina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/marina-fm-88-8,10233.m3u</string>
+			<string>http://31.14.40.102:8090/stream.ogg.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/marina-fm-88-8,10233.m3u</string>
 			<key>note</key>
-			<string>Salmiya (Local)</string>
+			<string>Music (Salmiya, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -127,9 +163,9 @@
 			<key>logo</key>
 			<string>Arabic</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kuwait-arabic-music,13311.m3u</string>
+			<string>http://svs.itworkscdn.net/koldlive/kold/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kuwait-arabic-music,13311.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -139,33 +175,21 @@
 			<key>logo</key>
 			<string>Kuwai</string>
 			<key>link</key>
+			<string>http://svs.itworkscdn.net/kuwaitfmlive/kfm/playlist.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-kuwait-fm,4261.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kuwait FM 99.7 Super Station</string>
-			<key>logo</key>
-			<string>Station</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kuwait-fm-99-7-super-station,17307.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Kuwait Shaabya</string>
+			<string>Kuwait Shaabya (الشعبية)</string>
 			<key>logo</key>
 			<string>Shaabya</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kuwait-shaabya,17744.m3u</string>
+			<string>http://svs.itworkscdn.net/ktraditionallive/ktraditional/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kuwait-shaabya,17744.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -178,6 +202,54 @@
 			<string>http://www.surfmusic.de/m3u/radio-kuwait-main,4259.m3u</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>صوت الشباب 93.9 OFM</string>
+			<key>logo</key>
+			<string>OFM</string>
+			<key>link</key>
+			<string>http://svs.itworkscdn.net/kofmlive/kofm/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Q8 PULSE 88.8FM</string>
+			<key>logo</key>
+			<string>Q8</string>
+			<key>link</key>
+			<string>http://162.244.80.118:3020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Super Station RKFM</string>
+			<key>logo</key>
+			<string>RKFM</string>
+			<key>link</key>
+			<string>http://svs.itworkscdn.net/ksuperstationlive/ksuper/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-kuwait-fm-99-7-super-station,17307.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
