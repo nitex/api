@@ -63,15 +63,87 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>الاذاعة الاردنية</string>
+			<key>logo</key>
+			<string>jrtv</string>
+			<key>link</key>
+			<string>http://stream1.joinvisions.net:1935/jorlive/ar/master.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة القران الكريم</string>
+			<key>logo</key>
+			<string>quran</string>
+			<key>link</key>
+			<string>http://stream1.joinvisions.net:1935/jorlive/quranaudio/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو دهب ٩٤.١ إف إم</string>
+			<key>logo</key>
+			<string>Dahab</string>
+			<key>link</key>
+			<string>http://dahab.ice.infomaniak.ch/dahab-192.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>نشامى اف ام</string>
+			<key>logo</key>
+			<string>nashama</string>
+			<key>link</key>
+			<string>http://edge.mixlr.com/channel/ssbzr</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>الإذاعة الرياضية هدف اف ام</string>
+			<key>logo</key>
+			<string>hadaf</string>
+			<key>link</key>
+			<string>http://stream1.joinvisions.net:1935/jorlive/Hadaf_FM/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>برنامج عمان FM</string>
+			<key>logo</key>
+			<string>Amman</string>
+			<key>link</key>
+			<string>http://stream1.joinvisions.net:1935/jorlive/Amman-FM-audio/master.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>102.5 Beat FM</string>
 			<key>logo</key>
 			<string>Beat</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/102-5-beat-fm,8416.m3u</string>
+			<string>http://192.184.9.81:8049/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/102-5-beat-fm,8416.m3u</string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,55 +163,91 @@
 			<key>logo</key>
 			<string>AmmanNet</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ammannet,9337.m3u</string>
+			<string>http://s3.voscast.com:8964/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/ammannet,9337.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BLISS FM 104.2</string>
+			<string>BBC Arabic</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BLISS FM 104.3</string>
 			<key>logo</key>
 			<string>BLISS</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bliss-fm-104-2,16047.m3u</string>
+			<string>http://66.55.145.43:7008/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/bliss-fm-104-2,16047.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fann 104.2 FM</string>
+			<string>Fann 104.2 FM راديو فن</string>
 			<key>logo</key>
 			<string>Fann</string>
 			<key>link</key>
-			<string>http://188.247.86.66/RadioFann/Audio128/playlist.m3u8</string>
+			<string>http://188.247.86.67:8000/listen.pls?sid=3</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-fann-104-2-fm,6409.m3u</string>
+			<string>http://188.247.86.66/RadioFann/Audio128/playlist.m3u8</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hala FM</string>
+			<string>Farah Al Nas 98.5 FM - راديو فرح الناس</string>
+			<key>logo</key>
+			<string>Farah</string>
+			<key>link</key>
+			<string>http://stream.joinvisions.net:1935/farahlive/farahalnas/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hala FM راديو هلا</string>
 			<key>logo</key>
 			<string>Hala</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hala-fm,16045.m3u</string>
+			<string>http://76.164.217.100:7302/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hala-fm,16045.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hayat FM 104.7</string>
+			<string>Hayat FM 104.7 موقع حياة</string>
 			<key>logo</key>
 			<string>Hayat</string>
 			<key>link</key>
+			<string>http://104.238.193.114:7048/liveStreaming/</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/hayat-fm-104-7,12664.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HUSNA حسنى اف ام 93.4</string>
+			<key>logo</key>
+			<string>HUSNA</string>
+			<key>link</key>
+			<string>http://s2.voscast.com:10444/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -159,15 +267,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mazaj FM</string>
+			<string>Jordan Radio Foreign Service 96.3 FM</string>
 			<key>logo</key>
-			<string>Mazaj</string>
+			<string>Foreign</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mazaj-fm,8415.m3u</string>
+			<string>http://stream1.joinvisions.net:1935/jorlive/Radio_Jordan_96.3/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>اذاعة الجامعة الأردنية JU FM 94.9</string>
+			<key>logo</key>
+			<string>JU</string>
+			<key>link</key>
+			<string>http://jufmstreaming.ju.edu.jo/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mazaj FM مزاج إف إم</string>
+			<key>logo</key>
+			<string>Mazaj</string>
+			<key>link</key>
+			<string>http://ice5.securenetsystems.net/MAZAJFM.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/mazaj-fm,8415.m3u</string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -175,11 +307,11 @@
 			<key>logo</key>
 			<string>Melody</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/melody-fm,16046.m3u</string>
+			<string>http://s3.voscast.com:9966/;stream.mp3?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/melody-fm,16046.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,9 +319,9 @@
 			<key>logo</key>
 			<string>Mood</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mood-fm,8417.m3u</string>
+			<string>http://192.184.9.81:8048/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mood-fm,8417.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -199,23 +331,23 @@
 			<key>logo</key>
 			<string>Pla</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/play-99-6-fm,6040.m3u</string>
-			<key>http</key>
 			<string>http://edge.mixlr.com/channel/hynza</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/play-99-6-fm,6040.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Rotana Radio Jordan 99.9 FM</string>
+			<string>Rotana 99.9 FM</string>
 			<key>logo</key>
 			<string>Rotana</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rotana-radio-jordan-99-9-fm,17019.m3u</string>
+			<string>http://188.247.86.67:8002/listen.pls?sid=3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rotana-radio-jordan-99-9-fm,17019.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -223,11 +355,11 @@
 			<key>logo</key>
 			<string>Sawa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sawa-jordan,18765.m3u</string>
+			<string>http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-sawa-jordan,18765.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -235,11 +367,47 @@
 			<key>logo</key>
 			<string>Ghad</string>
 			<key>link</key>
+			<string>https://edge.mixlr.com/channel/llhwd</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/sawt-el-ghad-101-5-fm-jordan,10074.m3u</string>
+			<key>note</key>
+			<string>News, Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Watar وتر ف.م</string>
+			<key>logo</key>
+			<string>Watar</string>
+			<key>link</key>
+			<string>http://192.184.9.81:8388/live.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wattan وطن FM</string>
+			<key>logo</key>
+			<string>Wattan</string>
+			<key>link</key>
+			<string>http://46.43.64.50:8091/wattan.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -247,11 +415,23 @@
 			<key>logo</key>
 			<string>Yaqeen</string>
 			<key>link</key>
+			<string>http://188.247.86.67:8004/listen.pls?sid=3</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/yaqeen-fm-103-7,18766.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yarmouk FM 105.7</string>
+			<key>logo</key>
+			<string>Yarmouk</string>
+			<key>link</key>
+			<string>http://yufm.yu.edu.jo/broadwave.mp3?src=1&amp;rate=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
