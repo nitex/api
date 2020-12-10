@@ -63,11 +63,35 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>إذاعة القرآن الكريم نابلس</string>
+			<key>logo</key>
+			<string>Quran</string>
+			<key>link</key>
+			<string>http://www.quran-radio.org:8002/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة 24FM</string>
+			<key>logo</key>
+			<string>24FM</string>
+			<key>link</key>
+			<string>http://24fm.callu.ps:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ajyal راديو أجيال 103.4</string>
 			<key>logo</key>
 			<string>Ajyal</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ajyal-radio,14816.m3u</string>
+			<string>http://streamer.mada.ps:8008/ajyal.m3u</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-ajyal,6580.m3u</string>
 			<key>note</key>
@@ -75,15 +99,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Angham 92.3 FM</string>
+			<string>إذاعة البرج أف أم AlBurj 104.2 FM</string>
 			<key>logo</key>
-			<string>Angham</string>
+			<string>AlBurj</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/angham-radio,10176.m3u</string>
+			<string>http://82.213.26.67:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Ramallah (Local)</string>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو أنغام Angham</string>
+			<key>logo</key>
+			<string>Angham</string>
+			<key>link</key>
+			<string>http://streamer.mada.ps:8010/angham.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/angham-radio,10176.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Arabic</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,11 +139,11 @@
 			<key>logo</key>
 			<string>Cool</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/cool-fm-104,18516.m3u</string>
+			<string>http://streamer.mada.ps:8043/coolfm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/cool-fm-104,18516.m3u</string>
 			<key>note</key>
-			<string>Bethlehem (Local)</string>
+			<string>News, Music (Bethlehem, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -107,19 +155,103 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Gaza (Local)</string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mawwal</string>
+			<string>Mawwal راديو موال</string>
 			<key>logo</key>
 			<string>Mawwal</string>
 			<key>link</key>
+			<string>http://streamer.mada.ps:8041/mawwal.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-mawwal,9782.m3u</string>
+			<key>note</key>
+			<string>Bethlehem (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة نساء إف إم Nisaa</string>
+			<key>logo</key>
+			<string>Nisaa</string>
+			<key>link</key>
+			<string>http://5.34.160.144:8000/stream.m3u</string>
+			<key>http</key>
+			<string>http://5.34.160.144:8000/stream</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>رام الله اف ام  RAMALLAH 103.8</string>
+			<key>logo</key>
+			<string>RAMALLAH</string>
+			<key>link</key>
+			<string>http://streamer.mada.ps:8012/tarab.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Bethlehem (Local)</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة راية اف ام Raya FM</string>
+			<key>logo</key>
+			<string>Raya</string>
+			<key>link</key>
+			<string>http://live.raya.ps:8064/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sawa راديو سوا</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-sawa-jordan,18765.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOP اذاعة صوت فلسطين</string>
+			<key>logo</key>
+			<string>VOP</string>
+			<key>link</key>
+			<string>http://46.43.69.146:8008/listen.pls</string>
+			<key>http</key>
+			<string>http://46.43.69.146:8008/;stream.nsv&amp;type=mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>WATTAN وطن اف ام</string>
+			<key>logo</key>
+			<string>WATTAN</string>
+			<key>link</key>
+			<string>http://46.43.64.50:8091/wattan.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 	</array>
 </dict>
