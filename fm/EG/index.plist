@@ -51,6 +51,66 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>إذاعة القرآن الكريم</string>
+			<key>logo</key>
+			<string>Qurankareem</string>
+			<key>link</key>
+			<string>http://livestreaming5.onlinehorizons.net/hls-live/Qurankareem/_definst_/liveevent/livestream.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة الأغاني</string>
+			<key>logo</key>
+			<string>aghany</string>
+			<key>link</key>
+			<string>http://livestreaming5.onlinehorizons.net/hls-live/Aghany/_definst_/liveevent/livestream.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة صوت العرب</string>
+			<key>logo</key>
+			<string>arab</string>
+			<key>link</key>
+			<string>http://livestreaming5.onlinehorizons.net/hls-live/SootArab/_definst_/liveevent/livestream.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة البرنامج العام</string>
+			<key>logo</key>
+			<string>aam</string>
+			<key>link</key>
+			<string>http://livestreaming5.onlinehorizons.net/hls-live/pernamegaam/_definst_/liveevent/livestream.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة الشباب و الرياضة</string>
+			<key>logo</key>
+			<string>riyadah</string>
+			<key>link</key>
+			<string>http://livestreaming5.onlinehorizons.net/hls-live/Shabawreada/_definst_/liveevent/livestream.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>90s FM Arabic</string>
 			<key>logo</key>
 			<string>90s</string>
@@ -63,25 +123,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Al Jazeera Radio English</string>
-			<key>logo</key>
-			<string>Jazeera</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/al-jazeera-radio-english,17014.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Al Shark Al Awsat 89.5 FM</string>
-			<key>logo</key>
+			<string>Al Sharq Al Awsat 89.5 FM (إذاعة الشرق الأوسط)</string>
+			<key>Q</key>
 			<string>Shark</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/al-sharq-al-awsat-89-5-fm,16607.m3u</string>
+			<string>https://livestreaming5.onlinehorizons.net/hls-live/SharkAwsat/_definst_/liveevent/livestream.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/al-sharq-al-awsat-89-5-fm,16607.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -96,6 +144,18 @@
 			<string>http://live.hayafm.com:8000/;</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Arabic</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,17 +191,17 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>El Radio 9090</string>
+			<string>El-Radio 9090 (الراديو)</string>
 			<key>logo</key>
 			<string>9090</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/el-radio-9090,20212.m3u</string>
+			<string>http://9090streaming.mobtada.com/9090FMEGYPT.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/el-radio-9090,20212.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -159,15 +219,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hits 88.2</string>
+			<string>Hits 88.2 راديو هيتس</string>
 			<key>logo</key>
 			<string>Hits</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-hits-88-2,16621.m3u</string>
+			<string>http://178.32.62.154:8957/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-hits-88-2,16621.m3u</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -183,7 +243,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mahatet Masr 88.7 FM</string>
+			<string>Mahatet Masr</string>
 			<key>logo</key>
 			<string>Mahatet</string>
 			<key>link</key>
@@ -191,31 +251,31 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Masr 88.7 FM</string>
+			<string>Masr 88.7 FM راديو مصر</string>
 			<key>logo</key>
 			<string>Masr</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-masr-88-7-fm,16777.m3u</string>
+			<string>https://live.radiomasr.net/RADIOMASR.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-masr-88-7-fm,16777.m3u</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mega FM 92.7</string>
+			<string>Mega FM 92.7 ميجا اف ام</string>
 			<key>logo</key>
 			<string>Mega</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mega-fm-92-7,20214.m3u</string>
+			<string>http://nebula.shoutca.st:8211/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mega-fm-92-7,20214.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -223,35 +283,23 @@
 			<key>logo</key>
 			<string>Nile</string>
 			<key>link</key>
+			<string>https://reach-audio.esteam.rocks/radio/8010/live.mp3</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/nile-fm-104-2-dsl,5123.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Nogoom FM</string>
-			<key>logo</key>
-			<string>Nogoom</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-nogoom-fm,13308.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Nogoum 100.6 FM</string>
+			<string>Nogoum 100.6 نجوم إف إم</string>
 			<key>logo</key>
 			<string>Nogoum</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/nogoum-100-6-fm,16620.m3u</string>
+			<string>http://ice31.securenetsystems.net/NOGOUM.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/nogoum-100-6-fm,16620.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -267,15 +315,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sawa Egypt</string>
+			<string>Sawa راديو سوا</string>
 			<key>logo</key>
 			<string>Sawa</string>
 			<key>link</key>
+			<string>http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-sawa-egypt,14435.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
