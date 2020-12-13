@@ -137,7 +137,7 @@
 			<key>name</key>
 			<string>Al Sharq Al Awsat 89.5 FM (إذاعة الشرق الأوسط)</string>
 			<key>Q</key>
-			<string>Shark</string>
+			<string>Sharq</string>
 			<key>link</key>
 			<string>https://livestreaming5.onlinehorizons.net/hls-live/SharkAwsat/_definst_/liveevent/livestream.m3u8</string>
 			<key>http</key>
@@ -215,7 +215,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/el-radio-9090,20212.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -237,7 +237,7 @@
 			<key>link</key>
 			<string>http://178.32.62.154:8957/listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-hits-88-2,16621.m3u</string>
+			<string>http://178.32.62.154:8957/;</string>
 			<key>note</key>
 			<string>News, Talk, Music</string>
 		</dict>
@@ -333,9 +333,21 @@
 			<key>link</key>
 			<string>http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-sawa-egypt,14435.m3u</string>
+			<string>https://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03</string>
 			<key>note</key>
 			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shaaby FM - شعبي إف إم</string>
+			<key>logo</key>
+			<string>Shaaby</string>
+			<key>link</key>
+			<string>http://178.32.62.154:9010/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
