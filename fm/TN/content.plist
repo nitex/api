@@ -67,11 +67,23 @@
 			<key>logo</key>
 			<string>6</string>
 			<key>link</key>
+			<string>http://streaming.radio6tunis.net:8000/radio6tunis.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-6-tunis,13321.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,19 +95,31 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Oldies, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Cap FM</string>
+			<string>BBC Arabic</string>
 			<key>logo</key>
-			<string>Cap</string>
+			<string>BBC</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/cap-fm,16652.m3u</string>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cap FM (إذاعة كاب فم)</string>
+			<key>logo</key>
+			<string>Cap</string>
+			<key>link</key>
+			<string>http://stream6.tanitweb.com/capfm.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/cap-fm,16652.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -111,15 +135,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Diwan FM 91.2</string>
+			<string>Diwan FM 91.2 (ديوان آف آم)</string>
 			<key>logo</key>
 			<string>Diwan</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/diwan-fm,18997.m3u</string>
+			<string>http://stream6.tanitweb.com/diwanfm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/diwan-fm,18997.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -135,39 +159,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Express FM</string>
+			<string>Express FM (اكسبرس فم)</string>
 			<key>logo</key>
 			<string>Express</string>
 			<key>link</key>
+			<string>http://stream6.tanitweb.com/expressfm.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/express-fm,16654.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>IFM</string>
+			<string>إذاعة IFM</string>
 			<key>logo</key>
 			<string>IFM</string>
 			<key>link</key>
+			<string>http://5.135.138.182:8000/direct.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/ifm-tunis,16655.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Jawhara</string>
+			<string>Jawhara (راديو جوهرة أف آم)</string>
 			<key>logo</key>
 			<string>Jawhara</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-jawhara-fm,13313.m3u</string>
+			<string>http://streaming2.toutech.net/jawharafm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-jawhara-fm,13313.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -179,7 +203,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -191,7 +215,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,7 +227,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -215,6 +239,42 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو ماد MED </string>
+			<key>logo</key>
+			<string>MED</string>
+			<key>link</key>
+			<string>http://stream6.tanitweb.com/radiomed.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MISK</string>
+			<key>logo</key>
+			<string>MISK</string>
+			<key>link</key>
+			<string>http://live.misk.tn:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ML (تونس‎‎)</string>
+			<key>logo</key>
+			<string>ML</string>
+			<key>link</key>
+			<string>http://41.225.14.100:8008/radioml.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
@@ -223,9 +283,9 @@
 			<key>logo</key>
 			<string>Mosaique</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mosaique-fm,7628.m3u</string>
+			<string>http://radio.mosaiquefm.net:8000/mosalive.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mosaique-fm,7628.m3u</string>
 			<key>note</key>
 			<string>Top Music (Boukrim, Local)</string>
 		</dict>
@@ -243,13 +303,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Oxygene FM Bizerte</string>
+			<string>Oxygene FM (أكسيجان إف إم)</string>
 			<key>logo</key>
 			<string>Oxygene</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/oxygene-fm-bizerte,17785.m3u</string>
+			<string>http://radiooxygenefm.ice.infomaniak.ch/radiooxygenefm-64.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/oxygene-fm-bizerte,17785.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -259,59 +319,59 @@
 			<key>logo</key>
 			<string>Culturelle</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-culturelle,17782.m3u</string>
+			<string>http://rtstream.tanitweb.com/culturelle.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-culturelle,17782.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Gafsa</string>
+			<string>Radio Gafsa (إذاعة قفصة)</string>
 			<key>logo</key>
 			<string>Gafsa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-gafsa,13324.m3u</string>
+			<string>http://rtstream.tanitweb.com/gafsa.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-gafsa,13324.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Jeunes</string>
+			<string>Radio Jeunes (إذاعة الشباب)</string>
 			<key>logo</key>
 			<string>Jeunes</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-jeunes,13316.m3u</string>
+			<string>http://rtstream.tanitweb.com/jeunes.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-jeunes,13316.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Kef</string>
+			<string>Radio Kef (إذاعة تطاوين)</string>
 			<key>logo</key>
 			<string>Kef</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-kef,13317.m3u</string>
+			<string>http://rtstream.tanitweb.com/kef.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-kef,13317.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Monastir</string>
+			<string>Radio Monastir (إذاعة المنستير)</string>
 			<key>logo</key>
 			<string>Monastir</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-monastir,13319.m3u</string>
+			<string>http://rtstream.tanitweb.com/monastir.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-monastir,13319.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -319,35 +379,47 @@
 			<key>logo</key>
 			<string>Nationale</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-nationale,13323.m3u</string>
+			<string>http://rtstream.tanitweb.com/nationale.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-nationale,13323.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Sfax</string>
+			<string>Radio Sfax (إذاعة صفاقس)</string>
 			<key>logo</key>
 			<string>Sfax</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sfax,13314.m3u</string>
+			<string>http://rtstream.tanitweb.com/sfax.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-sfax,13314.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Tataouine</string>
+			<string>Radio Tataouine (إذاعة تطاوين)</string>
 			<key>logo</key>
 			<string>Tataouine</string>
 			<key>link</key>
+			<string>http://rtstream.tanitweb.com/tataouine.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-tataouine,17783.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -355,11 +427,11 @@
 			<key>logo</key>
 			<string>RTCI</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rtci,13325.m3u</string>
+			<string>http://rtstream.tanitweb.com/rtci.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rtci,13325.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -375,15 +447,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Sawa راديو سوا</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06</string>
+			<key>http</key>
+			<string>https://mbn-channel-03.akacast.akamaistream.net/7/31/233452/v1/ibb.akacast.akamaistream.net/mbn_channel_03</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Shems FM 106.5</string>
 			<key>logo</key>
 			<string>Shems</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/shems-106-5-fm,16662.m3u</string>
+			<string>http://stream6.tanitweb.com/shems.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/shems-106-5-fm,16662.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -435,6 +519,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ulysse FM 104.3</string>
 			<key>logo</key>
 			<string>Ulysse</string>
@@ -443,19 +539,31 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Djerba (Local)</string>
+			<string>News, Talk, (Djerba, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Zitouna</string>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zitouna (إذاعة الزيتونة)</string>
 			<key>logo</key>
 			<string>Zitouna</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-zitouna-fm,13315.m3u</string>
+			<string>http://87.98.172.205:8000/listen.pls</string>
 			<key>http</key>
 			<string>https://stream6.tanitweb.com/zitounafm</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 	</array>
 </dict>
