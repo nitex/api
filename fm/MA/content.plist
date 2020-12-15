@@ -63,11 +63,275 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>2M 93.1 FM (راديو 2 م)</string>
+			<string>Adrar 1089 AM (إذاعة أدرار)</string>
 			<key>logo</key>
-			<string>2M</string>
+			<string>1089</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-2m,4242.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-adrar-1089-am,16453.m3u</string>
+			<key>http</key>
+			<string>https://adrar.ice.infomaniak.ch/01.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ain Defla (عين الدفلى)</string>
+			<key>logo</key>
+			<string>Ain</string>
+			<key>link</key>
+			<string>https://aindefla.ice.infomaniak.ch/44.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ain Timouchent 95.9 FM (عين تموشنت)</string>
+			<key>logo</key>
+			<string>Timouchent</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ain-temouchent-95-9-fm,16454.m3u</string>
+			<key>http</key>
+			<string>https://aintemouchent.ice.infomaniak.ch/46.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alger (الجزائر العاصمة)</string>
+			<key>logo</key>
+			<string>Alger</string>
+			<key>link</key>
+			<string>https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac</string>
+			<key>http</key>
+			<string>http://elbahdja.ice.infomaniak.ch/elbahdja-32.aac.m3u</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Algerie Internationale (نشرة الواحدة )</string>
+			<key>logo</key>
+			<string>Internationale</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-algerie-internationale,12001.m3u</string>
+			<key>http</key>
+			<string>https://rai.ice.infomaniak.ch/rai-32.aac</string>
+			<key>note</key>
+			<string>El Bahdja (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Annaba (عنابة)</string>
+			<key>logo</key>
+			<string>Annaba</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-annaba,16455.m3u</string>
+			<key>http</key>
+			<string>https://annaba.ice.infomaniak.ch/23.aac</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Batna (باتنة)</string>
+			<key>logo</key>
+			<string>Batna</string>
+			<key>link</key>
+			<string>https://batna.ice.infomaniak.ch/05.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Arabic</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bechar (بشار)</string>
+			<key>logo</key>
+			<string>Bechar</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-bechar,16456.m3u</string>
+			<key>http</key>
+			<string>https://bechar.ice.infomaniak.ch/08.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bejaia (بجاية)</string>
+			<key>logo</key>
+			<string>Bejaia</string>
+			<key>link</key>
+			<string>https://bejaia.ice.infomaniak.ch/06.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Biskra (بسكرة)</string>
+			<key>logo</key>
+			<string>Biskra</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-biskra,16457.m3u</string>
+			<key>http</key>
+			<string>https://biskra.ice.infomaniak.ch/07.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Blida (البليدة)</string>
+			<key>logo</key>
+			<string>Blida</string>
+			<key>link</key>
+			<string>http://blida.ice.infomaniak.ch/09.aac.m3u</string>
+			<key>http</key>
+			<string>https://blida.ice.infomaniak.ch/09.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bordj Bou Arreridj (برج بوعريريج)</string>
+			<key>logo</key>
+			<string>Bordj</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-bordj-bou-arreridj,16458.m3u</string>
+			<key>http</key>
+			<string>https://bba.ice.infomaniak.ch/34.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bouira (البويرة)</string>
+			<key>logo</key>
+			<string>Bouira</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-bouira,16459.m3u</string>
+			<key>http</key>
+			<string>https://bouira.ice.infomaniak.ch/10.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boumerdes (بومرداس)</string>
+			<key>logo</key>
+			<string>Boumerdes</string>
+			<key>link</key>
+			<string>http://boumerdes.ice.infomaniak.ch/35.aac.m3u</string>
+			<key>http</key>
+			<string>https://boumerdes.ice.infomaniak.ch/35.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chaine 1 (القناة الأولى)</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-chaine-1,3466.m3u</string>
+			<key>http</key>
+			<string>https://ch1.ice.infomaniak.ch/ch1-32.aac</string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chaine 2 (القناة الثانية)</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-chaine-2,3467.m3u</string>
+			<key>http</key>
+			<string>https://ch2.ice.infomaniak.ch/ch2-32.aac</string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chaine 3 (القناة الثالثة)</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-chaine-3,3468.m3u</string>
+			<key>http</key>
+			<string>https://ch3.ice.infomaniak.ch/ch3-32.aac</string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chlef (الشلف)</string>
+			<key>logo</key>
+			<string>Chlef</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-chlef,16460.m3u</string>
+			<key>http</key>
+			<string>https://chlef.ice.infomaniak.ch/02.aac</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Constantine (قسنطينة)</string>
+			<key>logo</key>
+			<string>Constantine</string>
+			<key>link</key>
+			<string>https://constantine.ice.infomaniak.ch/25.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Djelfa (الجلفة)</string>
+			<key>logo</key>
+			<string>Djelfa</string>
+			<key>link</key>
+			<string>https://djelfa.ice.infomaniak.ch/17.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dzair</string>
+			<key>logo</key>
+			<string>Dzair</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-dzair,12002.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +339,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>AMAZIGHIA</string>
+			<string>Dzair Aures</string>
 			<key>logo</key>
-			<string>AMAZIGHIA</string>
+			<string>Aures</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/amazigh,15127.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-dzair-aures,12003.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +351,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Aswat</string>
+			<string>Dzair Chaabia el Andaloussia</string>
 			<key>logo</key>
-			<string>Aswat</string>
+			<string>Chaabia</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/aswat,12896.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-dzair-chaabia-el-andaloussia,12004.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +363,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Atbir</string>
+			<string>Dzair Izuran</string>
 			<key>logo</key>
-			<string>Atbir</string>
+			<string>Izuran</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-atbir,19492.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-dzair-izuran,12005.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,35 +375,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Atlantic Radio 92.5 FM</string>
+			<string>Dzair Orientale</string>
 			<key>logo</key>
-			<string>Atlantic</string>
+			<string>Orientale</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/atlantic-radio-92-5-fm,10789.m3u</string>
-			<key>http</key>
-			<string>https://atlanticradio.ma:8090/;</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cap Radio (كاب راديو)</string>
-			<key>logo</key>
-			<string>Cap</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/cap-radio,12663.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tanger (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Chada FM</string>
-			<key>logo</key>
-			<string>Chada</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/chada-fm,10279.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-dzair-orientale,12006.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,23 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Chaine Inter</string>
+			<string>Dzair Raina</string>
 			<key>logo</key>
-			<string>Chaine</string>
+			<string>Raina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/chaine-inter,15125.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tanger (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>France-Maghreb</string>
-			<key>logo</key>
-			<string>Maghreb</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-france-maghreb,4424.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-dzair-raina,12008.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,83 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hit Radio BUZZ (هيت راديو)</string>
+			<string>Coran</string>
 			<key>logo</key>
-			<string>BUZZ</string>
+			<string>Coran</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-buzz,15835.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hit Radio DANCEFLOOR</string>
-			<key>logo</key>
-			<string>DANCEFLOOR</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-dancefloor,15836.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hit Radio FM</string>
-			<key>logo</key>
-			<string>Hit</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-fm,10516.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hit Radio GOLD</string>
-			<key>logo</key>
-			<string>GOLD</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-gold,18863.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hit Radio LATINO (هيت راديو)</string>
-			<key>logo</key>
-			<string>LATINO</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-latino,18864.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hit Radio MGHARBA</string>
-			<key>logo</key>
-			<string>MGHARBA</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-mgharba,15837.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hit Radio RnB</string>
-			<key>logo</key>
-			<string>RnB</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-rnb,15838.m3u</string>
+			<string>http://coran.ice.infomaniak.ch/coran-64.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,147 +411,471 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hit Radio Maroc</string>
+			<string>El Bahdja (إذاعة البهجة)</string>
 			<key>logo</key>
-			<string>Maroc</string>
+			<string>Bahdja</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hitradio-maroc,12895.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-el-bahdja,3469.m3u</string>
+			<key>http</key>
+			<string>https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Bayadh</string>
+			<key>logo</key>
+			<string>Bayadh</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-el-bayadh,16462.m3u</string>
+			<key>http</key>
+			<string>https://bayadh.ice.infomaniak.ch/32.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Oued (الوادي)</string>
+			<key>logo</key>
+			<string>Oued</string>
+			<key>link</key>
+			<string>https://eloued.ice.infomaniak.ch/39.aac</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Tarf (الطارف)</string>
+			<key>logo</key>
+			<string>Tarf</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-el-taref,16463.m3u</string>
+			<key>http</key>
+			<string>https://eltarf.ice.infomaniak.ch/36.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ghardaia (غرداية)</string>
+			<key>logo</key>
+			<string>Ghardaia</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ghardaia,16465.m3u</string>
+			<key>http</key>
+			<string>https://ghardaia.ice.infomaniak.ch/47.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Guelma (قالمة)</string>
+			<key>logo</key>
+			<string>Guelma</string>
+			<key>link</key>
+			<string>https://guelma.ice.infomaniak.ch/24.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Illizi (اليزي)</string>
+			<key>logo</key>
+			<string>Illizi</string>
+			<key>link</key>
+			<string>https://illizi.ice.infomaniak.ch/33.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jil FM (جيل إف إم)</string>
+			<key>logo</key>
+			<string>Jil</string>
+			<key>link</key>
+			<string>http://jil-fm.ice.infomaniak.ch/jilfm.aac.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/jil-fm,17631.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Idaa Al Watania 96.0 FM</string>
+			<string>Jijel (جيجل)</string>
 			<key>logo</key>
-			<string>Idaa</string>
+			<string>Jijel</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/idaa-al-watania-96-0-fm,14214.m3u</string>
+			<string>https://jijel.ice.infomaniak.ch/18.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Luxe Radio</string>
+			<string>Khenchla (خنشلة)</string>
 			<key>logo</key>
-			<string>Luxe</string>
+			<string>Khenchla</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/luxe-radio,12900.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-ghardaia,16465.m3u</string>
+			<key>http</key>
+			<string>https://khenchla.ice.infomaniak.ch/40.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Laghouat (الأغواط)</string>
+			<key>logo</key>
+			<string>Laghouat</string>
+			<key>link</key>
+			<string>https://laghouat.ice.infomaniak.ch/03.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Maroc</string>
+			<string>Mascara (معسكر)</string>
 			<key>logo</key>
-			<string>Maro</string>
+			<string>Mascara</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-maroc,12899.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-mascara,16470.m3u</string>
+			<key>http</key>
+			<string>https://mascara.ice.infomaniak.ch/29.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Medea (المدية)</string>
+			<key>logo</key>
+			<string>Medea</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-medea,16471.m3u</string>
+			<key>http</key>
+			<string>https://medea.ice.infomaniak.ch/26.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mila (ميلة)</string>
+			<key>logo</key>
+			<string>Mila</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-mila,16472.m3u</string>
+			<key>http</key>
+			<string>https://mila.ice.infomaniak.ch/43.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mostaganem (مستغانم)</string>
+			<key>logo</key>
+			<string>Mostaganem</string>
+			<key>link</key>
+			<string>https://mostaganem.ice.infomaniak.ch/27.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mars</string>
+			<string>Msila (المسيلة)</string>
 			<key>logo</key>
-			<string>Mars</string>
+			<string>Msila</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-mars,15129.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-msila,16473.m3u</string>
+			<key>http</key>
+			<string>https://msila.ice.infomaniak.ch/28.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Naama FM	 (النعامة)</string>
+			<key>logo</key>
+			<string>Naama</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-naama-fm,16474.m3u</string>
+			<key>http</key>
+			<string>https://naama.ice.infomaniak.ch/45.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oran (وهران)</string>
+			<key>logo</key>
+			<string>Oran</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-oran,16475.m3u</string>
+			<key>http</key>
+			<string>https://oran.ice.infomaniak.ch/31.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ouargla (ورقلة)</string>
+			<key>logo</key>
+			<string>Ouargla</string>
+			<key>link</key>
+			<string>https://ouargla.ice.infomaniak.ch/30.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Tanger (Local)</string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Med Radio</string>
+			<string>Oum El Bouaghi (أم البواقي)</string>
 			<key>logo</key>
-			<string>Med</string>
+			<string>Oum</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/medradio,15130.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-oum-el-bouaghi,16476.m3u</string>
+			<key>http</key>
+			<string>https://oeb.ice.infomaniak.ch/04.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Relizane (غليزان)</string>
+			<key>logo</key>
+			<string>Relizane</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-relizane,16477.m3u</string>
+			<key>http</key>
+			<string>https://relizane.ice.infomaniak.ch/48.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Medi 1</string>
+			<string>Saida (سعيدة)</string>
 			<key>logo</key>
-			<string>Medi</string>
+			<string>Saida</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-medi-1,1.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-saida,16478.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://saida.ice.infomaniak.ch/20.aac</string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Medina FM</string>
-			<key>logo</key>
-			<string>Medina</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/medina-fm,15126.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MFM</string>
-			<key>logo</key>
-			<string>MFM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mfm-radio-maroc,18104.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Plus Marrakech (راديو بلس أكادير)</string>
-			<key>logo</key>
-			<string>Marrakech</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-plus-marrakech,15128.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sawa Morocco</string>
+			<string>راديو سوا المغرب</string>
 			<key>logo</key>
 			<string>Sawa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sawa-morocco,12893.m3u</string>
+			<string>http://mbn-channel-04.akacast.akamaistream.net/7/26/233453/v1/ibb.akacast.akamaistream.net/mbn_channel_04</string>
 			<key>http</key>
-			<string></string>
+			<string>http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06;stream.mp3</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Yabiladi</string>
+			<string>Setif 90.4 FM إذاعة سطيف الجهوية</string>
 			<key>logo</key>
-			<string>Yabiladi</string>
+			<string>Setif</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/yabiladi-radio,12898.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-setif,16479.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-yabiladi-dsl,4422.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-setif-fm,13234.m3u</string>
 			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sidi Bel Abbes (سيدي بلعباس)</string>
+			<key>logo</key>
+			<string>Sidi</string>
+			<key>link</key>
+			<string>https://sidibelabbes.ice.infomaniak.ch/22.aac</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Skikda (سكيكدة)</string>
+			<key>logo</key>
+			<string>Skikda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-skikda,16480.m3u</string>
+			<key>http</key>
+			<string>https://skikda.ice.infomaniak.ch/21.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Souk Ahras (سوق أهراس)</string>
+			<key>logo</key>
+			<string>Souk</string>
+			<key>link</key>
+			<string>https://soukahras.ice.infomaniak.ch/41.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Soummam</string>
+			<key>logo</key>
+			<string>Soummam</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-soummam,13298.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tamenrasset (تمنراست)</string>
+			<key>logo</key>
+			<string>Tamenrasset</string>
+			<key>link</key>
+			<string>https://tamanrasset.ice.infomaniak.ch/11.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tebessa (تبسة)</string>
+			<key>logo</key>
+			<string>Tebessa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tebessa,16482.m3u</string>
+			<key>http</key>
+			<string>https://radiotebessa.ice.infomaniak.ch/12.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tiaret 92.5 FM (تيارت)</string>
+			<key>logo</key>
+			<string>Tiaret</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tiaret-92-5-fm,20127.m3u</string>
+			<key>http</key>
+			<string>https://tiaret.ice.infomaniak.ch/14.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tindouf (تندوف)</string>
+			<key>logo</key>
+			<string>Tindouf</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tindouf,16483.m3u</string>
+			<key>http</key>
+			<string>https://tindouf.ice.infomaniak.ch/37.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tipaza (تيبازة)</string>
+			<key>logo</key>
+			<string>Tipaza</string>
+			<key>link</key>
+			<string>http://tipaza.ice.infomaniak.ch/42.aac.m3u</string>
+			<key>http</key>
+			<string>https://tipaza.ice.infomaniak.ch/42.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tissemsilt (تسمسيلت)</string>
+			<key>logo</key>
+			<string>Tissemsilt</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tissemsilt,16484.m3u</string>
+			<key>http</key>
+			<string>https://tissemsilt.ice.infomaniak.ch/38.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tizi Ouzou (تيزي وزو)</string>
+			<key>logo</key>
+			<string>Tizi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tizi-ouzou,16485.m3u</string>
+			<key>http</key>
+			<string>https://tiziouzou.ice.infomaniak.ch/15.aac</string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tlemcen (تلمسان)</string>
+			<key>logo</key>
+			<string>Tlemcen</string>
+			<key>link</key>
+			<string>https://tlemcen.ice.infomaniak.ch/13.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>

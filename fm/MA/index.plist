@@ -51,39 +51,147 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>اذاعة محمد السادس للقرآن الكريم</string>
+			<key>logo</key>
+			<string>idaat</string>
+			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_mohammed_6/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>راديو سوا المغرب</string>
+			<key>logo</key>
+			<string>Sawa</string>
+			<key>link</key>
+			<string>http://mbn-channel-04.akacast.akamaistream.net/7/26/233453/v1/ibb.akacast.akamaistream.net/mbn_channel_04</string>
+			<key>http</key>
+			<string>http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06;stream.mp3</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة مكناس الجهوية</string>
+			<key>logo</key>
+			<string>meknes</string>
+			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_meknes/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة فاس الجهوية</string>
+			<key>logo</key>
+			<string>fes</string>
+			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_fes/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة مراكش الجهوية</string>
+			<key>logo</key>
+			<string>marrakec</string>
+			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_marrakech/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة تطوان الجهوية</string>
+			<key>logo</key>
+			<string>tetouan</string>
+			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tetouan/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>إذاعة طنجة الجهوية</string>
+			<key>logo</key>
+			<string>tanger</string>
+			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_tanger/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>حبايب</string>
+			<key>logo</key>
+			<string>habayiib</string>
+			<key>link</key>
+			<string>http://85.214.110.29:8000/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>2M 93.1 FM (راديو 2 م)</string>
 			<key>logo</key>
 			<string>2M</string>
 			<key>link</key>
+			<string>https://radio2m-i.akamaihd.net/hls/live/624355/radio2m/playlist.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-2m,4242.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>AMAZIGHIA</string>
+			<string>Africa Radio</string>
+			<key>logo</key>
+			<string>Afric</string>
+			<key>link</key>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Al Amazighia (الامازيغية)</string>
 			<key>logo</key>
 			<string>AMAZIGHIA</string>
 			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_amazigh/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/amazigh,15127.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Aswat</string>
+			<string>Aswat أصوات</string>
 			<key>logo</key>
 			<string>Aswat</string>
 			<key>link</key>
+			<string>http://broadcast.ice.infomaniak.ch/aswat-high.mp3.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/aswat,12896.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,9 +199,9 @@
 			<key>logo</key>
 			<string>Atbir</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-atbir,19492.m3u</string>
+			<string>http://node-02.zeno.fm/bqdbb6hd0neuv?rj-ttl=5&amp;rj-token=AAABazKxBezba4ZJDnwfjUdabcqwX9Fa1O6m0_3_Zc2TsNPNXt8snw</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-atbir,19492.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -103,11 +211,23 @@
 			<key>logo</key>
 			<string>Atlantic</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/atlantic-radio-92-5-fm,10789.m3u</string>
+			<string>http://68.168.117.130:8000/listen.pls</string>
 			<key>http</key>
 			<string>https://atlanticradio.ma:8090/;</string>
 			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC Arabic</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -115,35 +235,23 @@
 			<key>logo</key>
 			<string>Cap</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/cap-radio,12663.m3u</string>
+			<string>http://51.255.235.165:5548/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://51.255.235.165:5548/stream/1/</string>
 			<key>note</key>
-			<string>Tanger (Local)</string>
+			<string>Top News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Chada FM</string>
+			<string>Chada FM شدى</string>
 			<key>logo</key>
 			<string>Chada</string>
 			<key>link</key>
+			<string>http://broadcast.infomaniak.net/chadafm-high.mp3.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/chada-fm,10279.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Chaine Inter</string>
-			<key>logo</key>
-			<string>Chaine</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/chaine-inter,15125.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Tanger (Local)</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -155,7 +263,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,11 +295,11 @@
 			<key>logo</key>
 			<string>Hit</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hit-radio-fm,10516.m3u</string>
+			<string>http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -251,19 +359,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Idaa Al Watania 96.0 FM</string>
+			<string>Idaa Al Watania 96.0 FM (الوطنية)</string>
 			<key>logo</key>
 			<string>Idaa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/idaa-al-watania-96-0-fm,14214.m3u</string>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/index.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/idaa-al-watania-96-0-fm,14214.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -291,25 +399,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mars</string>
+			<string>Mars المريخ</string>
 			<key>logo</key>
 			<string>Mars</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-mars,15129.m3u</string>
+			<string>http://radiomars.ice.infomaniak.ch/radiomars-128.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-mars,15129.m3u</string>
 			<key>note</key>
-			<string>Tanger (Local)</string>
+			<string>Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Med Radio</string>
+			<string>Med ميد</string>
 			<key>logo</key>
 			<string>Med</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/medradio,15130.m3u</string>
+			<string>http://medradio-maroc.ice.infomaniak.ch/medradio-maroc-64.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/medradio,15130.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -319,23 +427,23 @@
 			<key>logo</key>
 			<string>Medi</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-medi-1,1.m3u</string>
+			<string>http://live.medi1.com/medi1#.mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streaming07.mit.ovea.com/medi1</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Medina FM</string>
+			<string>Medina FM مدينة اف</string>
 			<key>logo</key>
 			<string>Medina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/medina-fm,15126.m3u</string>
+			<string>http://medinafm.ice.infomaniak.ch/medinafm-64.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://medinafm.ice.infomaniak.ch/medinafm-64.mp3</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -343,35 +451,83 @@
 			<key>logo</key>
 			<string>MFM</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mfm-radio-maroc,18104.m3u</string>
+			<string>http://newpub-stream01.itols.com/casa.ogg.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/mfm-radio-maroc,18104.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Plus Marrakech (راديو بلس أكادير)</string>
+			<string>Orient</string>
+			<key>logo</key>
+			<string>Orient</string>
+			<key>link</key>
+			<string>http://stream3.broadcast-associes.com:8405/Radio-Orient</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Plus 94.0 FM (راديو بلوس)</string>
 			<key>logo</key>
 			<string>Marrakech</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-plus-marrakech,15128.m3u</string>
+			<string>http://149.202.139.76:8000/casablanca.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://rpc.ice.infomaniak.ch/rpc-casa.mp3</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sawa Morocco</string>
+			<string>RFI Afrique</string>
 			<key>logo</key>
-			<string>Sawa</string>
+			<string>RFI</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sawa-morocco,12893.m3u</string>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sky News Arabia</string>
+			<key>logo</key>
+			<string>Sky</string>
+			<key>link</key>
+			<string>http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SNRT Chaine Inter</string>
+			<key>logo</key>
+			<string>Chaine</string>
+			<key>link</key>
+			<string>http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_chaine_inter/hls_snrt_radio/index.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/chaine-inter,15125.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Afrique</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://stream.radiojar.com/yuqn4nngq3quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
