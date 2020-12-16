@@ -51,6 +51,18 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>راديو مرجاجو</string>
+			<key>logo</key>
+			<string>Marjago</string>
+			<key>link</key>
+			<string>http://listen.radionomy.com/murdjajo</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Adrar 1089 AM (إذاعة أدرار)</string>
 			<key>logo</key>
 			<string>1089</string>
@@ -99,7 +111,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Alger (الجزائر العاصمة)</string>
+			<string>Alger Bahdja (الجزائر العاصمة)</string>
 			<key>logo</key>
 			<string>Alger</string>
 			<key>link</key>
@@ -115,11 +127,11 @@
 			<key>logo</key>
 			<string>Internationale</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-algerie-internationale,12001.m3u</string>
-			<key>http</key>
 			<string>https://rai.ice.infomaniak.ch/rai-32.aac</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-algerie-internationale,12001.m3u</string>
 			<key>note</key>
-			<string>El Bahdja (Local)</string>
+			<string>News (El Bahdja, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -180,6 +192,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beur FM</string>
+			<key>logo</key>
+			<string>Beur</string>
+			<key>link</key>
+			<string>http://beurfm.ice.infomaniak.ch/beurfm-high.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -247,9 +271,9 @@
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-chaine-1,3466.m3u</string>
-			<key>http</key>
 			<string>https://ch1.ice.infomaniak.ch/ch1-32.aac</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-chaine-1,3466.m3u</string>
 			<key>note</key>
 			<string>News, Talk, Sport</string>
 		</dict>
@@ -259,9 +283,9 @@
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-chaine-2,3467.m3u</string>
-			<key>http</key>
 			<string>https://ch2.ice.infomaniak.ch/ch2-32.aac</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-chaine-2,3467.m3u</string>
 			<key>note</key>
 			<string>News, Talk, Sport</string>
 		</dict>
@@ -271,9 +295,9 @@
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-chaine-3,3468.m3u</string>
-			<key>http</key>
 			<string>https://ch3.ice.infomaniak.ch/ch3-32.aac</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-chaine-3,3468.m3u</string>
 			<key>note</key>
 			<string>News, Talk, Sport</string>
 		</dict>
@@ -297,9 +321,9 @@
 			<key>link</key>
 			<string>https://constantine.ice.infomaniak.ch/25.aac</string>
 			<key>http</key>
-			<string></string>
+			<string>http://listen.radionomy.com/radiomalouf</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -429,7 +453,7 @@
 			<key>link</key>
 			<string>https://eloued.ice.infomaniak.ch/39.aac</string>
 			<key>http</key>
-			<string></string>
+			<string>http://eloued.ice.infomaniak.ch/39.aac</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -504,6 +528,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Local</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kaina</string>
+			<key>logo</key>
+			<string>Kaina</string>
+			<key>link</key>
+			<string>http://listen.radionomy.com/kaina-radio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -691,7 +727,7 @@
 			<key>logo</key>
 			<string>Setif</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-setif,16479.m3u</string>
+			<string>http://listen.radionomy.com/radio-setif-fm</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-setif-fm,13234.m3u</string>
 			<key>note</key>
@@ -705,7 +741,7 @@
 			<key>link</key>
 			<string>https://sidibelabbes.ice.infomaniak.ch/22.aac</string>
 			<key>http</key>
-			<string></string>
+			<string>http://sidibelabbes.ice.infomaniak.ch/22.aac</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -864,6 +900,18 @@
 			<string></string>
 			<key>note</key>
 			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wah Rai</string>
+			<key>logo</key>
+			<string>Rai</string>
+			<key>link</key>
+			<string>http://radio-dzair.net:8000/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
