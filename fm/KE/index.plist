@@ -51,15 +51,27 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Midnimo</string>
+			<string>Africa Radio</string>
 			<key>logo</key>
-			<string>Midnimo</string>
+			<string>Afric</string>
 			<key>link</key>
-			<string>http://uk4-vn.webcast-server.net:8118/listen.pls</string>
+			<string>http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>African Hit Radio</string>
+			<key>logo</key>
+			<string>African</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/african-hit-radio,16189.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -71,91 +83,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kubamba FM 91.6</string>
+			<string>Athiani FM 99.2</string>
 			<key>logo</key>
-			<string>Kubamba</string>
+			<string>Athiani</string>
 			<key>link</key>
-			<string>http://50.7.130.2:7834/stream.mp3.m3u</string>
+			<string>http://www.surfmusic.de/m3u/athiani-fm-99-2,17240.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>CRI China Plus Kenya</string>
-			<key>logo</key>
-			<string>CRI</string>
-			<key>link</key>
-			<string>http://sk.cri.cn/kenya.m3u8</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Muuga FM</string>
-			<key>logo</key>
-			<string>Muuga</string>
-			<key>link</key>
-			<string>http://radio.citizentv.co.ke/muugafm/muugafm/playlist.m3u8</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Qwetu</string>
-			<key>logo</key>
-			<string>Qwetu</string>
-			<key>link</key>
-			<string>http://ample-03.radiojar.com/2zyh3gv2zceuv</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Nation FM</string>
-			<key>logo</key>
-			<string>Nation</string>
-			<key>link</key>
-			<string>http://ample-zeno-17.radiojar.com/29vhavh1p3mtv</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Biblia Husema</string>
-			<key>logo</key>
-			<string>Husema</string>
-			<key>link</key>
-			<string>http://uk1-vn.mixstream.net:9958/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Star FM</string>
-			<key>logo</key>
-			<string>Sta</string>
-			<key>link</key>
-			<string>http://217.21.124.75:88/broadwave.m3u?src=1&amp;rate=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music, Talk (Machakos, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,303 +111,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Lulu FM</string>
+			<string>Baraka FM</string>
 			<key>logo</key>
-			<string>Lulu</string>
+			<string>Baraka</string>
 			<key>link</key>
-			<string>http://95.154.202.117:27979/listen.pls</string>
+			<string>http://s2.myradiostream.com:5788/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kaya</string>
+			<string>BBC World Service</string>
 			<key>logo</key>
-			<string>Kaya</string>
+			<string>BBC</string>
 			<key>link</key>
-			<string>http://usa9-vn.webcast-server.net:8084/listen.pls</string>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Njata FM</string>
+			<string>BBC Idhaa ya Kiswahili</string>
 			<key>logo</key>
-			<string>Njata</string>
+			<string>Idhaa</string>
 			<key>link</key>
-			<string>http://njatatv.ddns.net:8000/njatafm.m3u</string>
+			<string>http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-swaha_backup.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sauti ya Pwani FM</string>
+			<string>Biblia Husema</string>
 			<key>logo</key>
-			<string>Sauti</string>
+			<string>Husema</string>
 			<key>link</key>
-			<string>http://myradiostream.com/s37/11968/</string>
+			<string>http://uk1-vn.mixstream.net:9958/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>African Hit Radio</string>
-			<key>logo</key>
-			<string>African</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/african-hit-radio,16189.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Athiani FM 99.2</string>
-			<key>logo</key>
-			<string>Athiani</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/athiani-fm-99-2,17240.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music, Talk (Machakos, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -540,6 +228,30 @@
 			<string>https://stream.zeno.fm/65sw1gyst5quv</string>
 			<key>note</key>
 			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CRI China Plus Kenya</string>
+			<key>logo</key>
+			<string>CRI</string>
+			<key>link</key>
+			<string>http://sk.cri.cn/kenya.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>East Africa Radio</string>
+			<key>logo</key>
+			<string>Africa</string>
+			<key>link</key>
+			<string>http://eatv.radioca.st/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -795,6 +507,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Kaya</string>
+			<key>logo</key>
+			<string>Kaya</string>
+			<key>link</key>
+			<string>http://usa9-vn.webcast-server.net:8084/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Kigooco FM</string>
 			<key>logo</key>
 			<string>Kigooco</string>
@@ -831,6 +555,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Kubamba FM 91.6</string>
+			<key>logo</key>
+			<string>Kubamba</string>
+			<key>link</key>
+			<string>http://50.7.130.2:7834/stream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lulu FM</string>
+			<key>logo</key>
+			<string>Lulu</string>
+			<key>link</key>
+			<string>http://95.154.202.117:27979/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Maisha</string>
 			<key>logo</key>
 			<string>Maisha</string>
@@ -840,6 +588,18 @@
 			<string></string>
 			<key>note</key>
 			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp2.com:8092/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -891,6 +651,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Midnimo</string>
+			<key>logo</key>
+			<string>Midnimo</string>
+			<key>link</key>
+			<string>http://uk4-vn.webcast-server.net:8118/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Milele FM 93.6</string>
 			<key>logo</key>
 			<string>Milele</string>
@@ -934,6 +706,42 @@
 			<string>http://radio.citizentv.co.ke/musyifm/musyifm/playlist.m3u8</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/musyi-fm,16732.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Muuga FM</string>
+			<key>logo</key>
+			<string>Muuga</string>
+			<key>link</key>
+			<string>http://radio.citizentv.co.ke/muugafm/muugafm/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nation FM</string>
+			<key>logo</key>
+			<string>Nation</string>
+			<key>link</key>
+			<string>http://ample-zeno-17.radiojar.com/29vhavh1p3mtv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Njata FM</string>
+			<key>logo</key>
+			<string>Njata</string>
+			<key>link</key>
+			<string>http://njatatv.ddns.net:8000/njatafm.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1143,6 +951,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Qwetu</string>
+			<key>logo</key>
+			<string>Qwetu</string>
+			<key>link</key>
+			<string>http://ample-03.radiojar.com/2zyh3gv2zceuv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Ramogi FM</string>
 			<key>logo</key>
 			<string>Ramogi</string>
@@ -1152,6 +972,54 @@
 			<string>http://www.surfmusic.de/m3u/ramogi-fm,15252.m3u</string>
 			<key>note</key>
 			<string>News (Nyanza, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI English</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Kiswahili</string>
+			<key>logo</key>
+			<string>Kiswahili</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiswahili-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI Afrique</string>
+			<key>logo</key>
+			<string>Afrique</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sauti ya Pwani FM</string>
+			<key>logo</key>
+			<string>Sauti</string>
+			<key>link</key>
+			<string>http://myradiostream.com/s37/11968/</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1175,7 +1043,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1203,6 +1071,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Star FM</string>
+			<key>logo</key>
+			<string>Sta</string>
+			<key>link</key>
+			<string>http://217.21.124.75:88/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Taifa 92.9 FM</string>
 			<key>logo</key>
 			<string>Taifa</string>
@@ -1227,11 +1107,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Urban 90.7 FM</string>
+			<key>logo</key>
+			<string>Urban</string>
+			<key>link</key>
+			<string>http://41.90.97.142:8025/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Venus FM 101.9</string>
 			<key>logo</key>
 			<string>Venus</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/venus-fm-101-9,17304.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Africa</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA Swahili</string>
+			<key>logo</key>
+			<string>Swahili</string>
+			<key>link</key>
+			<string>http://voa-39.ng.akacast.akamaistream.net/7/434/322051/v1/ibb.akacast.akamaistream.net/voa-39</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vuuka FM</string>
+			<key>logo</key>
+			<string>Vuuka</string>
+			<key>link</key>
+			<string>http://radio.citizentv.co.ke/vuukafm/vuukafm/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
