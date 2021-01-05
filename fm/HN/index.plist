@@ -111,18 +111,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kairos FM 90.9</string>
-			<key>logo</key>
-			<string>Kairos</string>
-			<key>link</key>
-			<string>rtmp://85.25.119.176:1935/livemedia/kairos</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>La Buenísima 91.7 FM</string>
 			<key>logo</key>
 			<string>Buenisima</string>
@@ -327,11 +315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Satélite 104.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Satelite</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ice42.securenetsystems.net/SATELITE.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,11 +327,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Musiquera 105.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Musiquera</string>
 			<key>link</key>
+			<string>http://s9.voscast.com:7584/listen.pls</string>
+			<key>http</key>
+			<string>https://node-24.zeno.fm/zeu4mw9u8rquv?rj-ttl=5&amp;amprj-tok=AAABcyWvzOIAhIOVA3CEelrJJg</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estéreo Clásica</string>
+			<key>logo</key>
+			<string>Clasica</string>
+			<key>link</key>
+			<string>http://stereo.wavestreamer.com:1410/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>W107</string>
+			<key>logo</key>
+			<string>W107</string>
+			<key>link</key>
+			<string>http://ic.streann.com:8000/w107.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -351,11 +363,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Top 107.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>La</string>
 			<key>link</key>
+			<string>http://stream.playerlive.info:8041/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ABC 550 AM</string>
+			<key>logo</key>
+			<string>ABC</string>
+			<key>link</key>
+			<string>http://radio.grupoabchn.com:8000/abcradiohn.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Centro 730 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Centro</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ice42.securenetsystems.net/CENTRO.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Moderna</string>
 			<key>logo</key>
-			<string></string>
+			<string>Moderna</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/MODERNA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +411,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Voz de Suyapa 910 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>910</string>
 			<key>link</key>
-			<string></string>
+			<string>http://173.236.71.61:9992/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +423,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Millenium 970 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Millenium</string>
 			<key>link</key>
-			<string></string>
+			<string>http://giss.tv:8000/millenium2.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,11 +435,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cadena Radial Samaritano</string>
 			<key>logo</key>
-			<string></string>
+			<string>Samaritano</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.az-streamingserver.com/proxy/samaritano?mp=/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,11 +447,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Fiesta 1120 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Fiesta</string>
 			<key>link</key>
-			<string></string>
+			<string>http://giss.tv:8000/fiesta2.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -435,59 +459,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Universal 1150 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Universal</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/UNIVERSAL.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
