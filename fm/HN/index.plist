@@ -195,11 +195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Stereo Fé 98.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Fe</string>
 			<key>link</key>
-			<string></string>
+			<string>http://173.236.71.61:9970/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +207,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suprema FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Suprema</string>
 			<key>link</key>
+			<string>http://stream.playerlive.info:8095/live.aac.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit 99.7 FM</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://node-10.zeno.fm/cf7azhtr3qruv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Vertical FM 100.9</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vertical</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radios.innovandote.com:8004/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RNH - Nacional de Honduras</string>
 			<key>logo</key>
-			<string></string>
+			<string>RNH</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.playerlive.info:8049/rnh.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VOX</string>
 			<key>logo</key>
-			<string></string>
+			<string>VOX</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ice42.securenetsystems.net/VOXFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suyapa Éstereo 102.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Suyapa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://173.236.71.61:9990/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,11 +279,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suave</string>
 			<key>logo</key>
-			<string></string>
+			<string>Suave</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ice42.securenetsystems.net/SUAVE.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +291,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM 102.9</string>
 			<key>logo</key>
-			<string></string>
+			<string>102</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.playerlive.info:8033/FM1029.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,11 +303,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Stereo Luz 103.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Luz</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.playerlive.info:8081/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -303,23 +315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ultra FM 104.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ultra</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/ULTRA.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -631,11 +631,11 @@
 			<key>logo</key>
 			<string>Progreso</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-progreso,7903.m3u</string>
+			<string>http://192.99.233.46:8900/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-progreso,7903.m3u</string>
 			<key>note</key>
-			<string>Yoro</string>
+			<string>Yoro (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -643,9 +643,9 @@
 			<key>logo</key>
 			<string>Super</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/super-100-stereo,10771.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/SUPER100.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/super-100-stereo,10771.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
