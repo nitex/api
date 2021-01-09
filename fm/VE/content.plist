@@ -63,25 +63,61 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Amiga Radio Web</string>
+			<string>91.9 FM</string>
 			<key>logo</key>
-			<string>Amiga</string>
+			<string>91</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.243.114.26:7132/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://www.surfmusic.de/m3u/91-9-fm,9363.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.243.114.26:7132/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Circuito Radio Ideal</string>
+			<string>Advanta 98.7 FM</string>
 			<key>logo</key>
-			<string>Circuito</string>
+			<string>Advanta</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.57.90:20500/listen.pls&amp;t=.pls</string>
+			<string>http://cp2.lorini.net:2020/venfmcaracas.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/circuito-cnb-102-3-fm,792.m3u</string>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AGN</string>
+			<key>logo</key>
+			<string>AGN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-agn,20000.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alazana 88.3 FM</string>
+			<key>logo</key>
+			<string>Alazana</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/alazana-88-3-fm,18474.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alba Ciudad 96.3 FM</string>
+			<key>logo</key>
+			<string>Alba</string>
+			<key>link</key>
+			<string>http://envivo.albaciudad.org:8000/albaciudad.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -99,25 +135,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>91.9 FM</string>
+			<string>Amiga Radio Web</string>
 			<key>logo</key>
-			<string>91</string>
+			<string>Amiga</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/91-9-fm,9363.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.243.114.26:7132/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Alazana 88.3 FM</string>
-			<key>logo</key>
-			<string>Alazana</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/alazana-88-3-fm,18474.m3u</string>
-			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.243.114.26:7132/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -147,15 +171,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Barquisimento 690 AM</string>
+			<key>logo</key>
+			<string>Barquisimento</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-barquisimento-690-am,15916.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-barquisimeto-690-am,17226.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Candela Pura 91.1 FM</string>
 			<key>logo</key>
 			<string>Candela</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/candela-pura-91-1-fm,15915.m3u</string>
+			<string>http://streaming3.globalhost.net.ve:9020/listen.pls?sid=1</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/estrella-91-9-fm,14421.m3u</string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Circuito Radio Venezuela 790 AM</string>
+			<key>logo</key>
+			<string>790</string>
+			<key>link</key>
+			<string>http://streamingned.com:7294/listen.pls?sid=1</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Digital 100.7 FM</string>
+			<key>logo</key>
+			<string>Digital</string>
+			<key>link</key>
+			<string>http://content.jwplatform.com/videos/pWskYheD-480.mp4</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,11 +231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fiesta Latina 106.1 FM</string>
+			<string>CRP 91.5 FM</string>
 			<key>logo</key>
-			<string>Fiesta</string>
+			<string>CRP</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fiesta-latina-106-1-fm,10079.m3u</string>
+			<string>http://162.252.57.90:9988/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -183,15 +243,111 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Deporte 1590 AM</string>
+			<key>logo</key>
+			<string>Deporte</string>
+			<key>link</key>
+			<string>http://lortel58.lorini.net:44004/RADIODEPORTE.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deportiva 1300 AM center</string>
+			<key>logo</key>
+			<string>Deportiva</string>
+			<key>link</key>
+			<string>http://streaming3.globalhost.net.ve:9018/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Éxitos 99.9 FM</string>
+			<key>logo</key>
+			<string>Exitos</string>
+			<key>link</key>
+			<string>http://ur58.lorini.net:2070/EXITOS.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fe y Alegría 105.7 FM</string>
+			<key>logo</key>
+			<string>Alegria</string>
+			<key>link</key>
+			<string>http://www.aler.org:8000/caracasfm.aac.m3u</string>
+			<key>http</key>
+			<string>http://www.aler.org:8000/caracasam.aac.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiesta 106.5 FM</string>
+			<key>logo</key>
+			<string>Fiesta</string>
+			<key>link</key>
+			<string>http://streaming3.globalhost.net.ve:9012/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiesta Latina 106.1 FM</string>
+			<key>logo</key>
+			<string>Latina</string>
+			<key>link</key>
+			<string>http://laradiohd.com:10313/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/fiesta-latina-106-1-fm,10079.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Hot 94.1 FM</string>
 			<key>logo</key>
 			<string>Hot</string>
 			<key>link</key>
+			<string>http://streaming3.globalhost.net.ve:9016/listen.pls?sid=1</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/hot-94-1-fm,796.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ideal</string>
+			<key>logo</key>
+			<string>Ideal</string>
+			<key>link</key>
+			<string>http://204.12.217.178:8018/listen.pls</string>
+			<key>http</key>
+			<string>http://162.252.57.90:20500/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inolvidable 96.9 FM</string>
+			<key>logo</key>
+			<string>Inolvidable</string>
+			<key>link</key>
+			<string>http://cp4.lorini.net:36172/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -204,6 +360,30 @@
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Primera 100.5 FM</string>
+			<key>logo</key>
+			<string>Primera</string>
+			<key>link</key>
+			<string>http://srv2.plugstreaming.com:8152/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LA ROMANTICA 88.9 FM</string>
+			<key>logo</key>
+			<string>ROMANTIC</string>
+			<key>link</key>
+			<string>http://streaming3.globalhost.net.ve:8068/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -231,15 +411,87 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>La X 89.7 FM</string>
+			<key>logo</key>
+			<string>X</string>
+			<key>link</key>
+			<string>http://cp2.lorini.net:39500/araguenafm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lider 94.9 FM</string>
+			<key>logo</key>
+			<string>Lider</string>
+			<key>link</key>
+			<string>http://94.23.35.151:9934/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>María</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp.com:8096/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Mega 107.3 FM</string>
 			<key>logo</key>
 			<string>Mega</string>
 			<key>link</key>
+			<string>http://ur58.lorini.net:2050/LAMEGA.aac.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/mega-107-3-fm,800.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melodía Stereo 93.5 FM</string>
+			<key>logo</key>
+			<string>Stereo</string>
+			<key>link</key>
+			<string>http://cp2.lorini.net:27004/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Miraflores 95.9 FM</string>
+			<key>logo</key>
+			<string>Miraflores</string>
+			<key>link</key>
+			<string>http://live2.mediastreaming.com.ve:8000/RadioMiraflores.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda La Superestación 107.9 FM</string>
+			<key>logo</key>
+			<string>Onda</string>
+			<key>link</key>
+			<string>http://ur58.lorini.net:2060/ONDA.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -255,55 +507,31 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio AGN</string>
+			<string>Planeta 105.3 FM</string>
 			<key>logo</key>
-			<string>AGN</string>
+			<string>Planeta</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-agn,20000.m3u</string>
+			<string>http://srv2.plugstreaming.com:8246/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Barquisimento 690 AM</string>
+			<string>Radiorama Stereo 103.3 FM</string>
 			<key>logo</key>
-			<string>Barquisimento</string>
+			<string>Radiorama</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-barquisimento-690-am,15916.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-barquisimeto-690-am,17226.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Caracas Radio YVKS 750 AM</string>
-			<key>logo</key>
-			<string>YVKS</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-caracas-radio-yvks-750-am,18201.m3u</string>
+			<string>http://lortel58.lorini.net:44002/RADIORAMA1033FM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Nacional de Venezuela</string>
-			<key>logo</key>
-			<string>Nacional</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-nacional-de-venezuela,803.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Recuerdos 1300 AM</string>
+			<string>Recuerdos 1300 AM</string>
 			<key>logo</key>
 			<string>Recuerdos</string>
 			<key>link</key>
@@ -315,15 +543,159 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RQ910</string>
+			<string>RNV Activa</string>
 			<key>logo</key>
-			<string>RQ910</string>
+			<string>Activa</string>
 			<key>link</key>
+			<string>http://rnv.lorini.net:29010/RNVACTIVA.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNV Informativo</string>
+			<key>logo</key>
+			<string>RNV</string>
+			<key>link</key>
+			<string>http://rnv.lorini.net:29100/RNVINFORMATIVO.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-nacional-de-venezuela,803.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNV Musical</string>
+			<key>logo</key>
+			<string>Musical</string>
+			<key>link</key>
+			<string>http://rnv.lorini.net:29030/RNVMUSICAL.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RQ 910 AM</string>
+			<key>logo</key>
+			<string>RQ</string>
+			<key>link</key>
+			<string>http://streaming3.globalhost.net.ve:9014/listen.pls?sid=1</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/rq910,9361.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rumbos 670 AM</string>
+			<key>logo</key>
+			<string>Rumbos</string>
+			<key>link</key>
+			<string>http://live.tritonmedias.com.ve:7379/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sintonía 1420 AM</string>
+			<key>logo</key>
+			<string>1420</string>
+			<key>link</key>
+			<string>http://lortel58.lorini.net:30038/radiosintonia1420.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tiuna 101.9 FM</string>
+			<key>logo</key>
+			<string>Tiuna</string>
+			<key>link</key>
+			<string>http://lortel58.lorini.net:12000/TIUNAFM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unión Actualidad 90.3 FM</string>
+			<key>logo</key>
+			<string>Actualidad</string>
+			<key>link</key>
+			<string>http://ur58.lorini.net:2080/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unión Deportes 1090 AM</string>
+			<key>logo</key>
+			<string>Deportes</string>
+			<key>link</key>
+			<string>http://ur58.lorini.net:2090/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uno 1340 AM</string>
+			<key>logo</key>
+			<string>Uno</string>
+			<key>link</key>
+			<string>http://streaming3.globalhostla.com:9494/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urquia 97.5 FM</string>
+			<key>logo</key>
+			<string>Urquia</string>
+			<key>link</key>
+			<string>http://190.9.130.31:8000/urquiafm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>YVKE Mundial 94.5 FM</string>
+			<key>logo</key>
+			<string>YVKE</string>
+			<key>link</key>
+			<string>http://190.9.128.238:8080/radiomundial.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>YVKS Caracas Radio 750 AM</string>
+			<key>logo</key>
+			<string>YVKS</string>
+			<key>link</key>
+			<string>http://lortel58.lorini.net:1062/RCRenlace.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-caracas-radio-yvks-750-am,18201.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Sport, Music</string>
 		</dict>
 	</array>
 </dict>
