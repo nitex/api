@@ -63,15 +63,75 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>3 Ombúes 88.7 FM</string>
+			<key>logo</key>
+			<string>3</string>
+			<key>link</key>
+			<string>http://217.147.94.171:30477/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>41</string>
+			<key>logo</key>
+			<string>41</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.170.111.32:2990/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.170.111.32:2990/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1010 AM</string>
+			<key>logo</key>
+			<string>1010</string>
+			<key>link</key>
+			<string>https://radiolatina.live/9204/stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aire 100.3 FM</string>
+			<key>logo</key>
+			<string>Aire</string>
+			<key>link</key>
+			<string>http://198.204.234.10:27125/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Alfa 96.3 FM</string>
 			<key>logo</key>
 			<string>Alfa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/alfa-96-3-fm,774.m3u</string>
+			<string>http://radioonline.netgate.com.uy:8000/alfafm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/alfa-96-3-fm,774.m3u</string>
 			<key>note</key>
-			<string>Rock Music</string>
+			<string>News, Top, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>América 1450 AM</string>
+			<key>logo</key>
+			<string>1450</string>
+			<key>link</key>
+			<string>https://radiocx46-zikoxweb.radioca.st/stream</string>
+			<key>http</key>
+			<string>http://radios.cxnlive.com:8006/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,7 +143,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Tango Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -103,11 +163,11 @@
 			<key>logo</key>
 			<string>Babel</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/babel-97-1-fm,18153.m3u</string>
+			<string>http://173.249.7.231:8092/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/babel-97-1-fm,18153.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -123,6 +183,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Canelones 1570 AM</string>
+			<key>logo</key>
+			<string>Canelones</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-canelones-1570-am,20109.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Canto y Fogon</string>
 			<key>logo</key>
 			<string>Canto</string>
@@ -135,13 +207,61 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Carve 850 AM</string>
+			<key>logo</key>
+			<string>Carve</string>
+			<key>link</key>
+			<string>https://radiolatina.live/9202/stream</string>
+			<key>http</key>
+			<string>http://195.154.182.222:49037/;</string>
+			<key>note</key>
+			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Centenario 1250 AM</string>
+			<key>logo</key>
+			<string>Centenario</string>
+			<key>link</key>
+			<string>http://rfm.radio.netgate.com.uy:8000/centenario.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cero 104.3 FM</string>
+			<key>logo</key>
+			<string>Cero</string>
+			<key>link</key>
+			<string>http://199.217.118.9:7902/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Clarín 580 AM</string>
+			<key>logo</key>
+			<string>Clarin</string>
+			<key>link</key>
+			<string>http://usa15.ciudaddigital.com.uy:8032/ClarinAM.m3u</string>
+			<key>http</key>
+			<string>https://medios.ciudaddigital.com.uy:18032/ClarinAM</string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Clásica 650 AM</string>
 			<key>logo</key>
 			<string>Clasica</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/clasica-650-am,18151.m3u</string>
+			<string>http://173.249.7.231:8076/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/clasica-650-am,18151.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -155,7 +275,19 @@
 			<key>http</key>
 			<string>http://www.servidorstreaming2.com:9962/;</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cuareim 1270 AM</string>
+			<key>logo</key>
+			<string>Cuareim</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-cuareim-1270-am,20054.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Artigas (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -175,11 +307,23 @@
 			<key>logo</key>
 			<string>Plata</string>
 			<key>link</key>
+			<string>http://199.217.118.9:7920/listen.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/del-plata-fm-95-5,10411.m3u</string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Del Sol 99.5 FM</string>
+			<key>logo</key>
+			<string>Sol</string>
+			<key>link</key>
+			<string>https://radio2.dl.uy:9952/stream/1/?type=http&amp;nocache=2780</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Local</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,11 +331,35 @@
 			<key>logo</key>
 			<string>Diamante</string>
 			<key>link</key>
+			<string>http://panel.zwcast.com:9220/diamante.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/diamante-fm-98-7,778.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dios es Amor</string>
+			<key>logo</key>
+			<string>Dios</string>
+			<key>link</key>
+			<string>http://230.stm-ip.com:8822/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disney 91.9 FM</string>
+			<key>logo</key>
+			<string>Disney</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:25282/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>http://streamrd1.sarandi.com.uy:9350/listen.pls</string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -199,11 +367,35 @@
 			<key>logo</key>
 			<string>Espectador</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/el-espectador-810-am,779.m3u</string>
+			<string>http://streaming.espectador.com/envivo.m3u</string>
 			<key>http</key>
 			<string>http://espectador1.net.com.uy:8120/stream/13/</string>
 			<key>note</key>
-			<string>Sport</string>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EL Prado 99.9 FM</string>
+			<key>logo</key>
+			<string>Prado</string>
+			<key>link</key>
+			<string>http://radios-online.info:3270/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emisora Ciudad de Montevideo 1370 AM</string>
+			<key>logo</key>
+			<string>Ciudad</string>
+			<key>link</key>
+			<string>http://usa15.ciudaddigital.com.uy/medios/EmisoraCiudadDeMontevideo/audio/directo.pls</string>
+			<key>http</key>
+			<string>http://usa15.ciudaddigital.com.uy:8138/EmisoraCiudadDeMontevideo.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -211,9 +403,9 @@
 			<key>logo</key>
 			<string>Sur</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/emisora-del-sur-94-7,18154.m3u</string>
+			<string>http://173.249.7.231:8100/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/emisora-del-sur-94-7,18154.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -227,7 +419,19 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.49.65.42:10312/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Pop Latin Music</string>
+			<string>News, Talk, Pop Latin Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emisora Principal 107.9 FM</string>
+			<key>logo</key>
+			<string>Principal</string>
+			<key>link</key>
+			<string>http://94.23.205.82:10764/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -243,13 +447,49 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Fénix 1330 AM</string>
+			<key>logo</key>
+			<string>Fenix</string>
+			<key>link</key>
+			<string>http://usa15.ciudaddigital.com.uy:28060/B-fenix.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 105.3 del Carmen</string>
+			<key>logo</key>
+			<string>Carmen</string>
+			<key>link</key>
+			<string>http://radios-online.info:2930/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Futura 91.1 FM</string>
+			<key>logo</key>
+			<string>Futura</string>
+			<key>link</key>
+			<string>http://199.217.118.9:7916/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-futura-91-1-fm,20094.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Inolvidable FM 93.1</string>
 			<key>logo</key>
 			<string>Inolvidable</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/93-1-fm-inolvidable,7896.m3u</string>
+			<string>http://50.30.33.105:9123/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/93-1-fm-inolvidable,7896.m3u</string>
 			<key>note</key>
 			<string>Latino Music (Canelones, Local)</string>
 		</dict>
@@ -263,6 +503,42 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Catorce 10</string>
+			<key>logo</key>
+			<string>Catorce</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/lacatorce10,773.m3u</string>
+			<key>http</key>
+			<string>http://radio.lacatorce10.com.uy:8060/;</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Costa 88.3 FM</string>
+			<key>logo</key>
+			<string>Costa</string>
+			<key>link</key>
+			<string>http://200.58.118.108:8235/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Cotorra 94.3 FM</string>
+			<key>logo</key>
+			<string>Cotorra</string>
+			<key>link</key>
+			<string>http://204.197.245.100:8238/;</string>
+			<key>http</key>
+			<string>http://192.99.2.81:8238/listen.pls</string>
+			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
@@ -271,23 +547,23 @@
 			<key>logo</key>
 			<string>Ley</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-ley-106-7,11086.m3u</string>
+			<string>http://s1.centovapanel.com:8061/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/la-ley-106-7,11086.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LaCatorce10</string>
+			<string>La Treinta 1130 AM</string>
 			<key>logo</key>
-			<string>LaCatorce10</string>
+			<string>Treinta</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/lacatorce10,773.m3u</string>
+			<string>http://radio.radionacional.com.uy:8090/listen.pls</string>
 			<key>http</key>
-			<string>http://radio.lacatorce10.com.uy:8060/;</string>
+			<string></string>
 			<key>note</key>
-			<string>News</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -303,15 +579,111 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Oceano 93.9 FM</string>
+			<string>Latina 103.7 FM</string>
 			<key>logo</key>
-			<string>Oceano</string>
+			<string>Latina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/oceano-93-9-fm,10235.m3u</string>
+			<string>http://199.217.118.9:7930/listen.pls</string>
+			<key>http</key>
+			<string>https://s2.yesstreaming.net:2199/tunein/enalur-stream.pls</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Libertadores 1020 AM</string>
+			<key>logo</key>
+			<string>Libertadores</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-libertadores-1020-am,20053.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Salto (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>María</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp.com:8088/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metrópolis 104.9 FM</string>
+			<key>logo</key>
+			<string>Metropolis</string>
+			<key>link</key>
+			<string>http://51.15.152.81:8141/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Monte Carlo 930 AM</string>
+			<key>logo</key>
+			<string>Monte</string>
+			<key>link</key>
+			<string>http://199.217.118.9:7900/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nuevo Tiempo 101.3 FM</string>
+			<key>logo</key>
+			<string>Nuevo</string>
+			<key>link</key>
+			<string>https://stream.live.novotempo.com/radio/smil:rntMontevideoUY.smil/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oceano 93.9 FM</string>
+			<key>logo</key>
+			<string>Oceano</string>
+			<key>link</key>
+			<string>http://radio3.oceanofm.com:8010/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/oceano-93-9-fm,10235.m3u</string>
+			<key>note</key>
+			<string>Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oldies 90.3 FM</string>
+			<key>logo</key>
+			<string>Oldie</string>
+			<key>link</key>
+			<string>http://radios.cxnlive.com:8004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oriental 770 AM</string>
+			<key>logo</key>
+			<string>Oriental</string>
+			<key>link</key>
+			<string>http://radiolatina.live:7906/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-oriental-770,20074.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -363,127 +735,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio 41</string>
-			<key>logo</key>
-			<string>41</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.170.111.32:2990/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.170.111.32:2990/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string>News</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Canelones 1570 AM</string>
-			<key>logo</key>
-			<string>Canelones</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-canelones-1570-am,20109.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Santa Lucía del Este (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Carve 850 AM</string>
-			<key>logo</key>
-			<string>Carve</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-carve-850-am,776.m3u</string>
-			<key>http</key>
-			<string>http://195.154.182.222:49037/;</string>
-			<key>note</key>
-			<string>News</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Cuareim 1270 AM</string>
-			<key>logo</key>
-			<string>Cuareim</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-cuareim-1270-am,20054.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Artigas (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Disney 91.9 FM</string>
-			<key>logo</key>
-			<string>Disney</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:25282/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:25282/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Futura 91.1 FM</string>
-			<key>logo</key>
-			<string>Futura</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-futura-91-1-fm,20094.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Libertadores 1020 AM</string>
-			<key>logo</key>
-			<string>Libertadores</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-libertadores-1020-am,20053.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Salto (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Oriental 770</string>
-			<key>logo</key>
-			<string>Oriental</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-oriental-770,20074.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Rural 610 AM</string>
+			<string>Rural 610 AM</string>
 			<key>logo</key>
 			<string>Rural</string>
 			<key>link</key>
+			<string>http://radiolatina.live:9206/listen.pls?sid=1</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-rural-610-am,20024.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Sport 890</string>
-			<key>logo</key>
-			<string>890</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sport-890,20095.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sport</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio UNO Digital</string>
+			<string>UNO Digital</string>
 			<key>logo</key>
 			<string>UNO</string>
 			<key>link</key>
@@ -503,7 +767,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8008/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -515,11 +779,11 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://195.154.182.222:25156/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sarandi 690 AM - CX8</string>
+			<string>Sarandi 690 AM</string>
 			<key>logo</key>
 			<string>Sarandi</string>
 			<key>link</key>
@@ -527,19 +791,67 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Universal 970 AM - CX22</string>
+			<string>Señal Zoe 91.5 FM</string>
+			<key>logo</key>
+			<string>Zoe</string>
+			<key>link</key>
+			<string>http://tvportal.unored.com:4023/mvtv.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sport 890</string>
+			<key>logo</key>
+			<string>890</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sport-890,20095.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UNI 89.1 FM</string>
+			<key>logo</key>
+			<string>UNI</string>
+			<key>link</key>
+			<string>http://164.73.2.137:8008/uniradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universal 970 AM</string>
 			<key>logo</key>
 			<string>Universal</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/universal-970-am-cx22,788.m3u</string>
+			<string>https://radio.970universal.com:8012/listen.pls</string>
 			<key>http</key>
 			<string>http://radio.970universal.com:8010/;</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urbana 92.5 FM</string>
+			<key>logo</key>
+			<string>Urbana</string>
+			<key>link</key>
+			<string>http://streaming.urbana.com.uy/urbana.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -547,11 +859,11 @@
 			<key>logo</key>
 			<string>1050</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/uruguay-1050-am,18152.m3u</string>
+			<string>http://173.249.7.231:8084/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/uruguay-1050-am,18152.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
