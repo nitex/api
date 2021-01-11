@@ -51,27 +51,63 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Bylgjan 98,9</string>
+			<string>80s Bylgjan</string>
 			<key>logo</key>
-			<string>Bylgjan</string>
+			<string>80s</string>
 			<key>link</key>
-			<string>http://icecast.365net.is:8000/orbbylgjan.aac.m3u</string>
+			<string>http://icecast.365net.is:8000/orb80s.aac.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/bylgjan-fm,1143.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Top 5</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM957</string>
+			<string>80s FlashBack 101.5 FM</string>
 			<key>logo</key>
-			<string>FM957</string>
+			<string>80</string>
 			<key>link</key>
-			<string>http://icecast.365net.is:8000/orbFm957.aac.m3u</string>
+			<string>http://radio.is:443/80flashback.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/fm-95-7-dsl,1144.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string>Top 5</string>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bylgjan 98.9 FM</string>
+			<key>logo</key>
+			<string>Bylgjan</string>
+			<key>link</key>
+			<string>http://live.visir.is/hls-radio/bylgjan/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://icecast.365net.is:8000/orbbylgjan.aac.m3u</string>
+			<key>note</key>
+			<string>News, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FlashBack 91.9 FM</string>
+			<key>logo</key>
+			<string>FlashBack</string>
+			<key>link</key>
+			<string>http://radio.is:443/flashback.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 95.7</string>
+			<key>logo</key>
+			<string>95</string>
+			<key>link</key>
+			<string>http://live.visir.is/hls-radio/fm957/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://icecast.365net.is:8000/orbFm957.aac.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,7 +119,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>RnB/Dance Music</string>
+			<string>RnB, Dance Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -91,35 +127,47 @@
 			<key>logo</key>
 			<string>Gull</string>
 			<key>link</key>
+			<string>http://live.visir.is/hls-radio/gullbylgjan/playlist.m3u8</string>
+			<key>http</key>
 			<string>http://icecast.365net.is:8000/orbGullBylgjan.aac.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>80s Bylgjan</string>
+			<string>Íslenska Bylgjan 103.9 FM</string>
 			<key>logo</key>
-			<string>80s</string>
+			<string>Islenska</string>
 			<key>link</key>
-			<string>http://icecast.365net.is:8000/orb80s.aac.m3u</string>
+			<string>http://live.visir.is/hls-radio/fmx/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kiss FM</string>
+			<string>K100 FM</string>
+			<key>logo</key>
+			<string>K100</string>
+			<key>link</key>
+			<string>http://radio.is:443/kaninnmobile.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM 104.5</string>
 			<key>logo</key>
 			<string>Kiss</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kiss-fm-reykjavik,9511.m3u</string>
+			<string>http://radio.is:443/kiss.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/kiss-fm-reykjavik,9511.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -127,31 +175,103 @@
 			<key>logo</key>
 			<string>Lett</string>
 			<key>link</key>
-			<string>http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u</string>
+			<string>http://live.visir.is/hls-radio/lettbylgjan/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.365net.is:8000/orbLettBylgjan.aac.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Lindina FM 102.9</string>
+			<string>Lindin FM 102.9</string>
 			<key>logo</key>
 			<string>Lindin</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/lindina-fm-102-9,1146.m3u</string>
+			<string>http://62.145.147.50:8001/lindin.m3u</string>
 			<key>http</key>
 			<string>http://62.145.147.50:8001/stream.aac.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ras 1</string>
+			<string>Retro FM</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>http://radio.is:443/retromobile.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RÚV Ras 1</string>
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
+			<string>http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/ras-1,1148.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RÚV Ras 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/ras-2,1149.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RÚV Rondó</string>
+			<key>logo</key>
+			<string>Rondo</string>
+			<key>link</key>
+			<string>http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras3/_definst_/live.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sport 102.5 FM</string>
+			<key>logo</key>
+			<string>Spor</string>
+			<key>link</key>
+			<string>http://radio.is:443/sportveitan.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Suðurland FM</string>
+			<key>logo</key>
+			<string>Sudurland</string>
+			<key>link</key>
+			<string>http://178.19.58.119:1818/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Útvarp 101</string>
+			<key>logo</key>
+			<string>101</string>
+			<key>link</key>
+			<string>http://stream.101.live/audio/101/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -159,15 +279,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ras 2</string>
+			<string>Útvarp Boðun 105.5 FM</string>
 			<key>logo</key>
-			<string>2</string>
+			<string>Bodun</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ras-2,1149.m3u</string>
+			<string>http://radio.bodun.is:8000/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Classic Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -179,11 +299,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Skagaströnd</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Utvarp Saga 99,4</string>
+			<string>Utvarp Saga 99.4 FM</string>
 			<key>logo</key>
 			<string>Saga</string>
 			<key>link</key>
@@ -191,7 +311,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/saga-fm,1150.m3u</string>
 			<key>note</key>
-			<string>News/Talk</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -199,11 +319,11 @@
 			<key>logo</key>
 			<string>X977</string>
 			<key>link</key>
-			<string>http://icecast.365net.is:8000/orbXid.aac.m3u</string>
+			<string>http://live.visir.is/hls-radio/x977/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://icecast.365net.is:8000/orbXid.aac.m3u</string>
 			<key>note</key>
-			<string>Rock Music</string>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
