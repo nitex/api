@@ -63,39 +63,99 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Monaco</string>
+			<string>RTVA Nacional d&apos;Andorra</string>
 			<key>logo</key>
-			<string>Monaco</string>
+			<string>Nacional</string>
 			<key>link</key>
-			<string>http://radiomonaco.ice.infomaniak.ch/radiomonaco-128.mp3.m3u</string>
+			<string>https://videos.rtva.ad/live/rna/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rna-radio,5994.m3u</string>
 			<key>note</key>
-			<string>News, Music</string>
+			<string>News, Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Riviera</string>
+			<string>Valira 93.3 FM</string>
 			<key>logo</key>
-			<string>Riviera</string>
+			<string>Valira</string>
 			<key>link</key>
-			<string>http://rivieraradio.ice.infomaniak.ch/rivieraradio-high.m3u</string>
+			<string>http://91.187.93.115:8020/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News, Music</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ethic</string>
+			<string>Pròxima FM</string>
 			<key>logo</key>
-			<string>Ethic</string>
+			<string>Proxima</string>
 			<key>link</key>
-			<string>http://163.172.37.18:8000/radioethic.mp3.m3u</string>
+			<string>http://91.187.93.115:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Talk, Music</string>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTVA Andorra Música</string>
+			<key>logo</key>
+			<string>RTVA</string>
+			<key>link</key>
+			<string>https://videos.rtva.ad/live/am/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SER Principat d&apos;Andorra 102.3 FM</string>
+			<key>logo</key>
+			<string>SER</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/SER_ANDORRA.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena 100 95.0 FM</string>
+			<key>logo</key>
+			<string>100</string>
+			<key>link</key>
+			<string>http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/cadena-100-95-0-fm,17589.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Seu 107.2 FM</string>
+			<key>logo</key>
+			<string>Seu</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-seu-107-2-fm,20128.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE Cataluña</string>
+			<key>logo</key>
+			<string>RNE</string>
+			<key>link</key>
+			<string>http://rne.rtveradio.cires21.com/rnecat.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,42 +231,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Monte Carlo</string>
-			<key>logo</key>
-			<string>Monte</string>
-			<key>link</key>
-			<string>http://icy.unitedradio.it/RMC.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Monte Carlo 2</string>
-			<key>logo</key>
-			<string>2</string>
-			<key>link</key>
-			<string>http://edge.singsingmusic.net/MC2.mp3</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RMC Info Talk Sport</string>
-			<key>logo</key>
-			<string>RMC</string>
-			<key>link</key>
-			<string>http://chai5she.cdn.dvmr.fr/rmcinfo</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Maria</string>
 			<key>logo</key>
 			<string>Maria</string>
@@ -215,31 +239,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RDS - Radio Dimensione Suono</string>
-			<key>logo</key>
-			<string>RDS</string>
-			<key>link</key>
-			<string>https://icstream.rds.radio/rds.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTL</string>
-			<key>logo</key>
-			<string>RTL</string>
-			<key>link</key>
-			<string>http://streaming.radio.rtl.fr/rtl-1-48-192.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
+			<string>Talk</string>
 		</dict>
 	</array>
 </dict>
