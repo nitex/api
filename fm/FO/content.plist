@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Kringvarp Føroya</string>
+			<key>logo</key>
+			<string>Kringvarp</string>
+			<key>link</key>
+			<string>http://netvarp.kringvarp.fo:443/uvhm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VoxPop</string>
+			<key>logo</key>
+			<string>VoxPop</string>
+			<key>link</key>
+			<string>http://stream.midlar.fo/voxpop.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM1</string>
+			<key>logo</key>
+			<string>FM1</string>
+			<key>link</key>
+			<string>http://stream.midlar.fo/ras2.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lindin Kristiligt Kringvarp</string>
+			<key>logo</key>
+			<string>Lindin</string>
+			<key>link</key>
+			<string>http://lindinhigh.stream.fo:8000/lindinhigh.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>R7 Kringsvarp</string>
+			<key>logo</key>
+			<string>R7</string>
+			<key>link</key>
+			<string>http://lurta.r7.fo:8080/r7_high.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RÚV Ras 1</string>
+			<key>logo</key>
+			<string>1</string>
+			<key>link</key>
+			<string>http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/ras-1,1148.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RÚV Ras 2</string>
+			<key>logo</key>
+			<string>2</string>
+			<key>link</key>
+			<string>http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/ras-2,1149.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
