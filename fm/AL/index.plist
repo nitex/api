@@ -159,11 +159,131 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RASH 97.0 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>RASH</string>
 			<key>link</key>
+			<string>http://5.196.97.98:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://5.196.97.98:8000/;stream.mp3</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>My Music Radio 97.3 FM</string>
+			<key>logo</key>
+			<string>My</string>
+			<key>link</key>
+			<string>https://live.top-media.al/mmr.m3u</string>
+			<key>http</key>
+			<string>https://live.top-media.al/mmr</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>7</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://cp1.sednastream.com:8013/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss 98.5 FM</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>https://stream.kissfm.com.al:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Club 100.4 FM</string>
+			<key>logo</key>
+			<string>Club</string>
+			<key>link</key>
+			<string>https://cp1.sednastream.com/proxy/clubfm?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Big 101.6 FM</string>
+			<key>logo</key>
+			<string>Big</string>
+			<key>link</key>
+			<string>http://46.252.33.58:9310/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MCN</string>
+			<key>logo</key>
+			<string>MCN</string>
+			<key>link</key>
+			<string>http://149.202.220.47:8888/mcnradio.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IN 105.7 FM</string>
+			<key>logo</key>
+			<string>IN</string>
+			<key>link</key>
+			<string>http://80.90.86.194:8000/inradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTSH Shkodra 92.0 FM</string>
+			<key>logo</key>
+			<string>Shkodra</string>
+			<key>link</key>
+			<string>https://radiolive.rtsh.dev/radioshkodra</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>7 Nord</string>
+			<key>logo</key>
+			<string>Nord</string>
+			<key>link</key>
+			<string>http://radio-7.net/live7nord/?pl=winamp&amp;c=Radio%207%20Nord</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jehona 107.6 FM</string>
+			<key>logo</key>
+			<string>Jehona</string>
+			<key>link</key>
+			<string>http://46.105.43.31:8086/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -327,507 +447,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Tirana 1</string>
+			<string>RTSH Tirana 1</string>
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://149.202.214.27:8888/radiotirana1.m3u</string>
+			<string>https://radiolive.rtsh.dev/radiotirana1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://149.202.214.27:8888/radiotirana1.m3u</string>
 			<key>note</key>
-			<string>News, Talk, Features</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -843,7 +471,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Tirana 3</string>
+			<string>RTSH Tirana 3</string>
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
@@ -855,13 +483,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>RTSH Tirana Klasik 101.2 FM</string>
+			<key>logo</key>
+			<string>RTSH</string>
+			<key>link</key>
+			<string>https://radiolive.rtsh.dev/radiotiranaklasik1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Alfa dhe Omega Radio</string>
 			<key>logo</key>
 			<string>Alfa</string>
 			<key>link</key>
 			<string>http://uk3-pn.mixstream.net:8102/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://cp11.shoutcheap.com:8037/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -903,13 +543,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio DJ 96.1</string>
+			<string>DJ</string>
 			<key>logo</key>
 			<string>DJ</string>
 			<key>link</key>
 			<string>http://80.78.76.171:6500/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://95.107.173.168:6500/listen.pls?sid=1</string>
 			<key>note</key>
 			<string>Dance, House Music</string>
 		</dict>
@@ -951,7 +591,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio NRG</string>
+			<string>NRG</string>
 			<key>logo</key>
 			<string>NRG</string>
 			<key>link</key>
@@ -959,17 +599,17 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Travel</string>
+			<string>Travel 104.6 FM</string>
 			<key>logo</key>
 			<string>Travel</string>
 			<key>link</key>
-			<string>http://93.190.141.15:7038/listen.pls</string>
+			<string>http://cp1.sednastream.com:8050/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://93.190.141.15:7038/listen.pls</string>
 			<key>note</key>
 			<string>Pop Music</string>
 		</dict>
@@ -979,9 +619,9 @@
 			<key>logo</key>
 			<string>Albania</string>
 			<key>link</key>
-			<string>http://tar.stream.dev.al:9078/listen.pls</string>
+			<string>https://live.topgold.al/tar.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://tar.stream.dev.al:9078/listen.pls</string>
 			<key>note</key>
 			<string>Pop Music</string>
 		</dict>
@@ -991,11 +631,11 @@
 			<key>logo</key>
 			<string>Gold</string>
 			<key>link</key>
-			<string>http://tar.stream.dev.al:9080/listen.pls</string>
+			<string>https://live.topgold.al/topgold.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://tar.stream.dev.al:9080/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
