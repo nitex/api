@@ -51,402 +51,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>City 88.0 FM</string>
-			<key>logo</key>
-			<string>City</string>
-			<key>link</key>
-			<string>https://cp1.sednastream.com/proxy/cityradio?mp=/stream</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ngjallja</string>
-			<key>logo</key>
-			<string>Ngjallja</string>
-			<key>link</key>
-			<string>http://84.20.84.114:1234/radiongjallja.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Syri.net 89.8 FM</string>
-			<key>logo</key>
-			<string>Syri.net</string>
-			<key>link</key>
-			<string>https://tv.syri.net/syrilive/webtv/playlist.m3u8</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Shqip 92.0 FM</string>
-			<key>logo</key>
-			<string>Shqip</string>
-			<key>link</key>
-			<string>https://cp1.sednastream.com/proxy/radioshqip?mp=/stream</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Klan 92.9 FM</string>
-			<key>logo</key>
-			<string>Klan</string>
-			<key>link</key>
-			<string>http://79.106.48.2:4040/live/klanmusicradio1/playlist.m3u8</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio 1 93.2 FM</string>
-			<key>logo</key>
-			<string>93</string>
-			<key>link</key>
-			<string>http://80.90.87.67:88/broadwave.m3u?src=1&amp;rate=0</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>One 94.0 FM</string>
-			<key>logo</key>
-			<string>One</string>
-			<key>link</key>
-			<string>https://cp1.sednastream.com/proxy/radioone94?mp=/stream</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Eurostar 94.4 FM</string>
-			<key>logo</key>
-			<string>Eurostar</string>
-			<key>link</key>
-			<string>http://radioeurostar.al:9000/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spektrum 96.4 FM</string>
-			<key>logo</key>
-			<string>Spektrum</string>
-			<key>link</key>
-			<string>http://92.119.237.186:88/broadwave.m3u?src=1&amp;rate=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RASH 97.0 FM</string>
-			<key>logo</key>
-			<string>RASH</string>
-			<key>link</key>
-			<string>http://5.196.97.98:8000/listen.pls</string>
-			<key>http</key>
-			<string>http://5.196.97.98:8000/;stream.mp3</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>My Music Radio 97.3 FM</string>
-			<key>logo</key>
-			<string>My</string>
-			<key>link</key>
-			<string>https://live.top-media.al/mmr.m3u</string>
-			<key>http</key>
-			<string>https://live.top-media.al/mmr</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>7</string>
-			<key>logo</key>
-			<string>7</string>
-			<key>link</key>
-			<string>http://cp1.sednastream.com:8013/live.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Kiss 98.5 FM</string>
-			<key>logo</key>
-			<string>Kiss</string>
-			<key>link</key>
-			<string>https://stream.kissfm.com.al:8000/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Club 100.4 FM</string>
-			<key>logo</key>
-			<string>Club</string>
-			<key>link</key>
-			<string>https://cp1.sednastream.com/proxy/clubfm?mp=/stream</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Big 101.6 FM</string>
-			<key>logo</key>
-			<string>Big</string>
-			<key>link</key>
-			<string>http://46.252.33.58:9310/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MCN</string>
-			<key>logo</key>
-			<string>MCN</string>
-			<key>link</key>
-			<string>http://149.202.220.47:8888/mcnradio.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>IN 105.7 FM</string>
-			<key>logo</key>
-			<string>IN</string>
-			<key>link</key>
-			<string>http://80.90.86.194:8000/inradio.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RTSH Shkodra 92.0 FM</string>
-			<key>logo</key>
-			<string>Shkodra</string>
-			<key>link</key>
-			<string>https://radiolive.rtsh.dev/radioshkodra</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>7 Nord</string>
-			<key>logo</key>
-			<string>Nord</string>
-			<key>link</key>
-			<string>http://radio-7.net/live7nord/?pl=winamp&amp;c=Radio%207%20Nord</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Jehona 107.6 FM</string>
-			<key>logo</key>
-			<string>Jehona</string>
-			<key>link</key>
-			<string>http://46.105.43.31:8086/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>RTSH Tirana 1</string>
 			<key>logo</key>
 			<string>1</string>
@@ -477,7 +81,7 @@
 			<key>link</key>
 			<string>http://149.202.214.27:8888/rti.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-tirana-3,12186.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -495,7 +99,55 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Alfa dhe Omega Radio</string>
+			<string>RTSH Tirana International</string>
+			<key>logo</key>
+			<string>International</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tirana-international,21134.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTSH Shkodra 92.0 FM</string>
+			<key>logo</key>
+			<string>Shkodra</string>
+			<key>link</key>
+			<string>https://radiolive.rtsh.dev/radioshkodra</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>7</string>
+			<key>logo</key>
+			<string>7</string>
+			<key>link</key>
+			<string>http://cp1.sednastream.com:8013/live.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-7-97-7-fm,12808.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>7 Nord</string>
+			<key>logo</key>
+			<string>Nord</string>
+			<key>link</key>
+			<string>http://radio-7.net/live7nord/?pl=winamp&amp;c=Radio%207%20Nord</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alfa dhe Omega</string>
 			<key>logo</key>
 			<string>Alfa</string>
 			<key>link</key>
@@ -507,39 +159,75 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Love 90.7 FM</string>
+			<string>Audionur</string>
 			<key>logo</key>
-			<string>Love</string>
+			<string>Audionur</string>
 			<key>link</key>
-			<string>http://80.78.76.171:6200/listen.pls?sid=1</string>
+			<string>http://www.surfmusic.de/m3u/radio-audionur,13637.m3u</string>
 			<key>http</key>
-			<string>http://95.107.173.168:6200/listen.pls?sid=1</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Emigranti</string>
+			<string>Big 101.6 FM</string>
 			<key>logo</key>
-			<string>Emigranti</string>
+			<string>Big</string>
 			<key>link</key>
-			<string>http://www.radioemigranti.com:8000/radioauto48.m3u</string>
+			<string>http://46.252.33.58:9310/listen.pls</string>
 			<key>http</key>
-			<string>http://www.radioemigranti.com:8000/radio.m3u</string>
-			<key>note</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RadioDardania</string>
+			<string>City 88.0 FM</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>https://cp1.sednastream.com/proxy/cityradio?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Club 100.4 FM</string>
+			<key>logo</key>
+			<string>Club</string>
+			<key>link</key>
+			<string>https://cp1.sednastream.com/proxy/clubfm?mp=/stream</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/club-fm-100-4,13697.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cmendina</string>
+			<key>logo</key>
+			<string>Cmendina</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/cmendina-radio,19726.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dardania</string>
 			<key>logo</key>
 			<string>Dardania</string>
 			<key>link</key>
 			<string>http://www.radiodardania.com/radio64.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-dardania,12811.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -555,7 +243,55 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Jug</string>
+			<string>Emigranti</string>
+			<key>logo</key>
+			<string>Emigranti</string>
+			<key>link</key>
+			<string>http://www.radioemigranti.com:8000/radioauto48.m3u</string>
+			<key>http</key>
+			<string>http://www.radioemigranti.com:8000/radio.m3u</string>
+			<key>note</key>
+			<string>Oldies Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eurostar 94.4 FM</string>
+			<key>logo</key>
+			<string>Eurostar</string>
+			<key>link</key>
+			<string>http://radioeurostar.al:9000/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>IN 105.7 FM</string>
+			<key>logo</key>
+			<string>IN</string>
+			<key>link</key>
+			<string>http://80.90.86.194:8000/inradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jehona 107.6 FM</string>
+			<key>logo</key>
+			<string>Jehona</string>
+			<key>link</key>
+			<string>http://46.105.43.31:8086/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Jug</string>
 			<key>logo</key>
 			<string>Jug</string>
 			<key>link</key>
@@ -564,6 +300,42 @@
 			<string></string>
 			<key>note</key>
 			<string>Pop Music (Fier, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kanali Shqip</string>
+			<key>logo</key>
+			<string>Kanali</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-kanali-shqip,13624.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM 98.5</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>https://stream.kissfm.com.al:8000/stream.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/kiss-fm-albania-98-5,19725.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Klan 92.9 FM</string>
+			<key>logo</key>
+			<string>Klan</string>
+			<key>link</key>
+			<string>http://79.106.48.2:4040/live/klanmusicradio1/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -579,6 +351,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Love 90.7 FM</string>
+			<key>logo</key>
+			<string>Love</string>
+			<key>link</key>
+			<string>http://80.78.76.171:6200/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://95.107.173.168:6200/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lushnja 95.5 FM</string>
+			<key>logo</key>
+			<string>Lushnja</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-lushnja-95-5-fm,16811.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Maria Shqiperi</string>
 			<key>logo</key>
 			<string>Maria</string>
@@ -586,6 +382,54 @@
 			<string>http://dreamsiteradiocp2.com:8028/listen.pls</string>
 			<key>http</key>
 			<string>http://cloudrad.io/radiomariaalbania/listen.pls</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marimanga</string>
+			<key>logo</key>
+			<string>Marimanga</string>
+			<key>link</key>
+			<string>https://s11.ssl-stream.com:2199/tunein/marimanga.pls</string>
+			<key>http</key>
+			<string>https://s11.ssl-stream.com/ssl/marimanga?mp=/stream</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MCN</string>
+			<key>logo</key>
+			<string>MCN</string>
+			<key>link</key>
+			<string>http://149.202.220.47:8888/mcnradio.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>My Music Radio 97.3 FM</string>
+			<key>logo</key>
+			<string>My</string>
+			<key>link</key>
+			<string>https://live.top-media.al/mmr.m3u</string>
+			<key>http</key>
+			<string>https://live.top-media.al/mmr</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ngjallja</string>
+			<key>logo</key>
+			<string>Ngjallja</string>
+			<key>link</key>
+			<string>http://84.20.84.114:1234/radiongjallja.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -597,7 +441,127 @@
 			<key>link</key>
 			<string>http://ice31.securenetsystems.net/AL09.m3u</string>
 			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/nrg-106-6-fm,12810.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>One 94.0 FM</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>https://cp1.sednastream.com/proxy/radioone94?mp=/stream</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-one-albania,20126.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pendimi</string>
+			<key>logo</key>
+			<string>Pendimi</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-pendimi,13622.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio 1 93.2 FM</string>
+			<key>logo</key>
+			<string>93</string>
+			<key>link</key>
+			<string>http://80.90.87.67:88/broadwave.m3u?src=1&amp;rate=0</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rainca</string>
+			<key>logo</key>
+			<string>Rainca</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-rainca,11884.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RASH 97.0 FM</string>
+			<key>logo</key>
+			<string>RASH</string>
+			<key>link</key>
+			<string>http://5.196.97.98:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://5.196.97.98:8000/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shqip 92.0 FM</string>
+			<key>logo</key>
+			<string>Shqip</string>
+			<key>link</key>
+			<string>https://cp1.sednastream.com/proxy/radioshqip?mp=/stream</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-shqip,19889.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spektrum 96.4 FM</string>
+			<key>logo</key>
+			<string>Spektrum</string>
+			<key>link</key>
+			<string>http://92.119.237.186:88/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Syri.net 89.8 FM</string>
+			<key>logo</key>
+			<string>Syri.net</string>
+			<key>link</key>
+			<string>https://tv.syri.net/syrilive/webtv/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Albania Radio</string>
+			<key>logo</key>
+			<string>Albania</string>
+			<key>link</key>
+			<string>https://live.topgold.al/tar.m3u</string>
+			<key>http</key>
+			<string>http://tar.stream.dev.al:9078/listen.pls</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>https://live.topgold.al/topgold.m3u</string>
+			<key>http</key>
+			<string>http://tar.stream.dev.al:9080/listen.pls</string>
 			<key>note</key>
 			<string>Top Music</string>
 		</dict>
@@ -615,27 +579,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Top Albania Radio</string>
+			<string>Viciana</string>
 			<key>logo</key>
-			<string>Albania</string>
+			<string>Viciana</string>
 			<key>link</key>
-			<string>https://live.topgold.al/tar.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-viciana,13623.m3u</string>
 			<key>http</key>
-			<string>http://tar.stream.dev.al:9078/listen.pls</string>
+			<string></string>
 			<key>note</key>
-			<string>Pop Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Top Gold</string>
-			<key>logo</key>
-			<string>Gold</string>
-			<key>link</key>
-			<string>https://live.topgold.al/topgold.m3u</string>
-			<key>http</key>
-			<string>http://tar.stream.dev.al:9080/listen.pls</string>
-			<key>note</key>
-			<string>Pop Music</string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
