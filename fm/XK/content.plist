@@ -63,31 +63,55 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>RTK Radio Kosova 1</string>
+			<string>7</string>
 			<key>logo</key>
-			<string>1</string>
+			<string>7</string>
 			<key>link</key>
-			<string>http://www.rtklive.com/video/t_radio/radkos.pls</string>
+			<string>http://radio-7kosova.net/live/?pl=winamp&amp;c=Radio%207%20Kosova</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTK Radio Kosova 2</string>
+			<string>21</string>
 			<key>logo</key>
-			<string>2</string>
+			<string>21</string>
 			<key>link</key>
-			<string>http://www.rtklive.com/video/t_radio/bluesky.pls</string>
+			<string>http://84.22.44.247:1935/live/radio.stream/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Youth</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Elit Radio 91,6</string>
+			<string>Capital 92.1 FM</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>http://cfm.albaservers.com:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dukagjini 99.7 / 106.3 FM</string>
+			<key>logo</key>
+			<string>Dukagjini</string>
+			<key>link</key>
+			<string>http://s6.voscast.com:8824/listen.pls</string>
+			<key>http</key>
+			<string>http://s1.voscast.com:8226/listen.pls</string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elit 91.6 FM</string>
 			<key>logo</key>
 			<string>Elit</string>
 			<key>link</key>
@@ -99,55 +123,55 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Dukagjini 99,7</string>
+			<string>Fontana 98.8 FM</string>
 			<key>logo</key>
-			<string>Dukagjini</string>
+			<string>Fontana</string>
 			<key>link</key>
-			<string>http://s1.voscast.com:8226/listen.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-fontana-98-8-fm,17417.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio K4 90,2 FM</string>
+			<string>Gračanica 90.7 FM</string>
+			<key>logo</key>
+			<string>Gracanica</string>
+			<key>link</key>
+			<string>http://188.40.95.74:8012/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>K4 90.2 FM (KFOR)</string>
 			<key>logo</key>
 			<string>K4</string>
 			<key>link</key>
+			<string>http://208.98.1.43:9090/listen.pls</string>
+			<key>http</key>
 			<string>http://fm.radiokfor.com:8080/listen.pls</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio K4 96,6 FM</string>
-			<key>logo</key>
-			<string>96</string>
-			<key>link</key>
-			<string>http://fm.radiokfor.com:8090/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Kent FM</string>
+			<string>Kent 95.2 FM</string>
 			<key>logo</key>
 			<string>Kent</string>
 			<key>link</key>
 			<string>http://live4.radyotvonline.com:8180/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://95.130.169.222/listen.pls?sid=1</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio KIM</string>
+			<string>KIM</string>
 			<key>logo</key>
 			<string>KIM</string>
 			<key>link</key>
@@ -159,11 +183,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Kosova e Lirë 94,2 FM</string>
+			<string>Kosova e Lirë 94.2 FM</string>
 			<key>logo</key>
 			<string>Kosova</string>
 			<key>link</key>
+			<string>http://quasar.shoutca.st:8018/listen.pls</string>
+			<key>http</key>
 			<string>http://www.radiokosovaelire.com/live/live.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kosova.Net</string>
+			<key>logo</key>
+			<string>Kosova.Net</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-kosova-net,13638.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,55 +207,91 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Llapi</string>
+			<string>Llapi 103.2 FM</string>
 			<key>logo</key>
 			<string>Llapi</string>
 			<key>link</key>
-			<string>http://radiollapi.com/wp-content/plugins/media-buttons/playlist.php?ip=radio1dhe1.com:8555&amp;mountpoint=&amp;format=M3U</string>
-			<key>http</key>
 			<string>http://radio.1dhe1.com:8555/listen.pls</string>
+			<key>http</key>
+			<string>http://radiollapi.com/wp-content/plugins/media-buttons/playlist.php?ip=radio1dhe1.com:8555&amp;mountpoint=&amp;format=M3U</string>
 			<key>note</key>
-			<string>Podujevë (Local)</string>
+			<string>News, Sport (Podujevë, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Plus 102,2FM</string>
+			<string>Maria - Kosovë</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp.com:8110/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Plus 102.2 FM</string>
 			<key>logo</key>
 			<string>Plus</string>
 			<key>link</key>
+			<string>http://82.114.72.178:8000/;listen.pls?sid=1</string>
+			<key>http</key>
 			<string>http://www.radioplus.fm/live.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prishtina 89.8 FM</string>
+			<key>logo</key>
+			<string>Prishtina</string>
+			<key>link</key>
+			<string>https://stream.radio.co/sbe73908d2/listen</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Dance Music</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Vala Rinore</string>
+			<string>RTK Kosova 1</string>
 			<key>logo</key>
-			<string>Rinore</string>
+			<string>1</string>
 			<key>link</key>
-			<string>http://www.radiovalarinore.com/favourite-player/WinAmp-Player.pls</string>
+			<string>http://82.114.72.2:8088/listen.pls</string>
 			<key>http</key>
-			<string>http://84.22.46.10:8000/listen.pls</string>
+			<string>http://www.rtklive.com/video/t_radio/radkos.pls</string>
 			<key>note</key>
-			<string>News/Information/Features</string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Zëri i Shtimes</string>
+			<string>RTK Kosova 2</string>
 			<key>logo</key>
-			<string>Shtimes</string>
+			<string>2</string>
 			<key>link</key>
-			<string>http://radio.1dhe1.com:8080/listen.pls</string>
+			<string>http://82.114.72.2:8098/listen.pls</string>
 			<key>http</key>
+			<string>http://www.rtklive.com/video/t_radio/bluesky.pls</string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SHARRI Dragash</string>
+			<key>logo</key>
+			<string>SHARRI</string>
+			<key>link</key>
+			<string>http://live.radio-sharri.info:8020/listen.pls</string>
+			<key>http</key>
+			<string>http://radio-sharri.info:8020/;</string>
+			<key>note</key>
 			<string></string>
-			<key>note</key>
-			<string>Štimlje (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Urban FM 103,5</string>
+			<string>Urban FM 103.5</string>
 			<key>logo</key>
 			<string>Urban</string>
 			<key>link</key>
@@ -228,6 +300,42 @@
 			<string></string>
 			<key>note</key>
 			<string>Alternative Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vala Rinore</string>
+			<key>logo</key>
+			<string>Rinore</string>
+			<key>link</key>
+			<string>https://radiovalarinore.com/favourite-player/WinAmp-Player.pls</string>
+			<key>http</key>
+			<string>https://radiovalarinore.com/listen-live.pls</string>
+			<key>note</key>
+			<string>News, Talk, Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vizioni 88.1 FM</string>
+			<key>logo</key>
+			<string>Vizioni</string>
+			<key>link</key>
+			<string>http://live.rcast.net:8570/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zëri i Shtimes 89.6 FM</string>
+			<key>logo</key>
+			<string>Shtimes</string>
+			<key>link</key>
+			<string>http://radio.1dhe1.com:8080/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk (Štimlje, Local)</string>
 		</dict>
 	</array>
 </dict>
