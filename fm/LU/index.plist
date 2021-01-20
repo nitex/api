@@ -63,13 +63,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>AFN Benelux</string>
+			<key>logo</key>
+			<string>AFN</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/afn-benelux,17199.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Aktiv 106,5</string>
 			<key>logo</key>
 			<string>Aktiv</string>
 			<key>link</key>
 			<string>http://zeus.lrb.lu:8000/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-aktiv-106-5,4435.m3u</string>
 			<key>note</key>
 			<string>Top Music</string>
 		</dict>
@@ -165,7 +177,7 @@
 			<key>link</key>
 			<string>http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/l-essentiel-radio,18699.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -183,13 +195,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>LNW LYCEE du NORD</string>
+			<key>logo</key>
+			<string>LNW</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-lnw,4437.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Wiltz (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>LRB</string>
 			<key>logo</key>
 			<string>LRB</string>
 			<key>link</key>
 			<string>http://zeus.lrb.lu:8000/lrb.live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/lrb-bettemburg,4434.m3u</string>
 			<key>note</key>
 			<string>Top Music</string>
 		</dict>
@@ -219,23 +243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RBV - Belle Vallée 107 FM</string>
+			<string>PULS Luxembourg</string>
 			<key>logo</key>
-			<string>RBV</string>
+			<string>PULS</string>
 			<key>link</key>
-			<string>http://rbv.lu:8002/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Oldies, Top Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RGL - Gutt Laun</string>
-			<key>logo</key>
-			<string>Gutt</string>
-			<key>link</key>
-			<string>http://soho.wavestreamer.com:7168/listen.pls?sid=1</string>
+			<string>http://www.surfmusic.de/m3u/radio-puls-luxembourg,19264.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,13 +255,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ROM</string>
+			<string>RBV - Belle Vallée 107 FM</string>
+			<key>logo</key>
+			<string>RBV</string>
+			<key>link</key>
+			<string>http://rbv.lu:8002/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-rbv-107-0-fm,19701.m3u</string>
+			<key>note</key>
+			<string>Oldies, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RGL - Gutt Laun</string>
+			<key>logo</key>
+			<string>RGL</string>
+			<key>link</key>
+			<string>http://soho.wavestreamer.com:7168/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-gutt-laun-rgl-106-0-fm,8773.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ROM 106.5 FM</string>
 			<key>logo</key>
 			<string>ROM</string>
 			<key>link</key>
 			<string>http://rs1.radiostreamer.com:8270/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rom-106-5-fm,9711.m3u</string>
 			<key>note</key>
 			<string>Top Music (Medernach, Local)</string>
 		</dict>
@@ -261,7 +297,7 @@
 			<key>link</key>
 			<string>http://81.92.237.118/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rtl-radio,1203.m3u</string>
 			<key>note</key>
 			<string>Oldies</string>
 		</dict>
