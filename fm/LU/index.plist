@@ -51,15 +51,39 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Free Radio Luxembourg FRL</string>
+			<string>100,7</string>
 			<key>logo</key>
-			<string>FRL</string>
+			<string>100,7</string>
 			<key>link</key>
-			<string>https://www.radioking.com/play/rfm-luxembourg/137599</string>
+			<string>http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.listenlive.eu/streams/luxembourg/100komma7.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aktiv 106,5</string>
+			<key>logo</key>
+			<string>Aktiv</string>
+			<key>link</key>
+			<string>http://zeus.lrb.lu:8000/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Pop, Rock, Disco Music</string>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ARA</string>
+			<key>logo</key>
+			<string>ARA</string>
+			<key>link</key>
+			<string>http://stream.ara.lu/stream.mp3.m3u</string>
+			<key>http</key>
+			<string>http://stream.ara.lu:80/stream.mp3</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -67,11 +91,11 @@
 			<key>logo</key>
 			<string>EldoRadio</string>
 			<key>link</key>
-			<string>http://sc-eldolive.newmedia.lu/listen.pls</string>
+			<string>http://eldoradiolive.newmedia.lu/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://sc-eldolive.newmedia.lu/listen.pls</string>
 			<key>note</key>
-			<string>Top 5</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -119,7 +143,43 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 5</string>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FRL - Free Radio Luxembourg</string>
+			<key>logo</key>
+			<string>FRL</string>
+			<key>link</key>
+			<string>https://www.radioking.com/play/rfm-luxembourg/137599</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Pop, Rock, Disco Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>L&apos;essentiel 107.7 FM</string>
+			<key>logo</key>
+			<string>essentiel</string>
+			<key>link</key>
+			<string>http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latina</string>
+			<key>logo</key>
+			<string>Latina</string>
+			<key>link</key>
+			<string>http://www.radiolatina.lu:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,31 +191,67 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Top 5 / Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTL Radio Lëtzebuerg</string>
+			<string>Péiteng on Air 102.2 FM</string>
 			<key>logo</key>
-			<string>Letzebuerg</string>
+			<string>Air</string>
 			<key>link</key>
-			<string>http://radio.rtl.lu/mp3.pls</string>
+			<string>http://stream.petangeonair.lu:9000/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RTL Radio</string>
+			<string>Positive</string>
 			<key>logo</key>
-			<string>RTL</string>
+			<string>Positive</string>
 			<key>link</key>
-			<string>http://81.92.237.123:8080/listen.pls</string>
+			<string>https://nl.digitalrm.pt:8078/stream.m3u</string>
+			<key>http</key>
+			<string>https://nl.digitalrm.pt:8076/stream.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RBV - Belle Vallée 107 FM</string>
+			<key>logo</key>
+			<string>RBV</string>
+			<key>link</key>
+			<string>http://rbv.lu:8002/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Oldies</string>
+			<string>Oldies, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RGL - Gutt Laun</string>
+			<key>logo</key>
+			<string>Gutt</string>
+			<key>link</key>
+			<string>http://soho.wavestreamer.com:7168/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ROM</string>
+			<key>logo</key>
+			<string>ROM</string>
+			<key>link</key>
+			<string>http://rs1.radiostreamer.com:8270/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music (Medernach, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -171,63 +267,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio 100,7</string>
+			<string>RTL Lëtzebuerg</string>
 			<key>logo</key>
-			<string>100,7</string>
+			<string>Letzebuerg</string>
 			<key>link</key>
-			<string>http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3</string>
+			<string>http://live.newmedia.lu/listen.pls</string>
 			<key>http</key>
-			<string>http://www.listenlive.eu/streams/luxembourg/100komma7.m3u</string>
+			<string>http://radio.rtl.lu/mp3.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Aktiv 106,5</string>
+			<string>RTL Radio</string>
 			<key>logo</key>
-			<string>Aktiv</string>
+			<string>RTL</string>
 			<key>link</key>
-			<string>http://zeus.lrb.lu:8000/stream.m3u</string>
+			<string>http://sec-rtldtl.hoerradar.de/rtldtl-national-mp3-128</string>
 			<key>http</key>
-			<string></string>
+			<string>http://81.92.237.123:8080/listen.pls</string>
 			<key>note</key>
-			<string>Top 5 (Echternach, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio ARA</string>
-			<key>logo</key>
-			<string>ARA</string>
-			<key>link</key>
-			<string>http://stream.ara.lu:80/stream.mp3</string>
-			<key>http</key>
-			<string>http://rs1.radiostreamer.com:8030/listen.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Gutt Laun</string>
-			<key>logo</key>
-			<string>Gutt</string>
-			<key>link</key>
-			<string>http://soho.wavestreamer.com:7168/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Esch sur Alzette (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio ROM</string>
-			<key>logo</key>
-			<string>ROM</string>
-			<key>link</key>
-			<string>http://rs1.radiostreamer.com:8270/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Top 5 (Medernach, Local)</string>
+			<string>News, Talk, Music</string>
 		</dict>
 	</array>
 </dict>
