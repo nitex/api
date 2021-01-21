@@ -51,27 +51,15 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Radio Crne Gore</string>
+			<string>083</string>
 			<key>logo</key>
-			<string>Crne</string>
+			<string>083</string>
 			<key>link</key>
-			<string>http://radio.beotel.net:8008/listen.pls</string>
+			<string>http://46.4.76.142:2083/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News/Features/Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>R98</string>
-			<key>logo</key>
-			<string>R98</string>
-			<key>link</key>
-			<string>http://radio.beotel.net:8010/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Youth</string>
+			<string>Nikšić (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -79,15 +67,15 @@
 			<key>logo</key>
 			<string>M</string>
 			<key>link</key>
-			<string>http://radioservis.me:8010/antenamlive</string>
-			<key>http</key>
 			<string>http://radioservis.me:8010/antenamlive.m3u</string>
+			<key>http</key>
+			<string>http://radioservis.me:8010/antenamlive</string>
 			<key>note</key>
-			<string>Pop Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Atlas Radio</string>
+			<string>Atlas</string>
 			<key>logo</key>
 			<string>Atlas</string>
 			<key>link</key>
@@ -95,7 +83,139 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bar 91.8 &amp; 106.7 FM</string>
+			<key>logo</key>
+			<string>Bar</string>
+			<key>link</key>
+			<string>http://85.25.150.27:9000/listen.pls</string>
+			<key>http</key>
+			<string>http://85.25.33.7:9000/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Berane</string>
+			<key>logo</key>
+			<string>Berane</string>
+			<key>link</key>
+			<string>http://adriastream.net/cast/tunein.php/radioberane/playlist.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bijelo Polje</string>
+			<key>logo</key>
+			<string>Bijelo</string>
+			<key>link</key>
+			<string>http://46.105.43.31:8122/stream</string>
+			<key>http</key>
+			<string>http://79.142.73.139:2055/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City 93.3 FM</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://eu7.fastcast4u.com:6166/stream.m3u</string>
+			<key>http</key>
+			<string>http://cp.eu7.fastcast4u.com:2199/tunein/mbogojev.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Corona 88.9 FM</string>
+			<key>logo</key>
+			<string>Corona</string>
+			<key>link</key>
+			<string>http://213.136.72.86:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://178.238.236.240:8000/listen.pls</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D</string>
+			<key>logo</key>
+			<string>D</string>
+			<key>link</key>
+			<string>http://tachyon.shoutca.st:8289/xstream.m3u</string>
+			<key>http</key>
+			<string>http://128.127.108.4:2036/listen.pls</string>
+			<key>note</key>
 			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>D Plus</string>
+			<key>logo</key>
+			<string>Plus</string>
+			<key>link</key>
+			<string>http://tachyon.shoutca.st:8303/xstream.m3u</string>
+			<key>http</key>
+			<string>http://128.127.108.4:2033/listen.pls</string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Delfin</string>
+			<key>logo</key>
+			<string>Delfin</string>
+			<key>link</key>
+			<string>http://46.4.76.142:2121/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DRS - Drugačija Radio Stanica</string>
+			<key>logo</key>
+			<string>DRS</string>
+			<key>link</key>
+			<string>https://eu2.fastcast4u.com/proxy/mic0?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dux</string>
+			<key>logo</key>
+			<string>Dux</string>
+			<key>link</key>
+			<string>http://www.radiodux.me:8000/radiodux.m3u</string>
+			<key>http</key>
+			<string>http://s1.iqstreaming.com/tunein.php/radiodux/playlist.pls</string>
+			<key>note</key>
+			<string>News, Talk (Tivat, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EL MAG</string>
+			<key>logo</key>
+			<string>EL</string>
+			<key>link</key>
+			<string>http://radio.elmag.me/elmag.mp3</string>
+			<key>http</key>
+			<string>http://www.simplexstream.com/tunein.php/elmagrad/playlist.pls</string>
+			<key>note</key>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -111,139 +231,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Jupok Radio</string>
-			<key>logo</key>
-			<string>Jupok</string>
-			<key>link</key>
-			<string>http://176.9.59.144:8062/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Rožaje (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio083</string>
-			<key>logo</key>
-			<string>Radio083</string>
-			<key>link</key>
-			<string>http://46.4.76.142:2083/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Nikšić (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Bar</string>
-			<key>logo</key>
-			<string>Bar</string>
-			<key>link</key>
-			<string>http://85.25.150.27:9000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Berane</string>
-			<key>logo</key>
-			<string>Berane</string>
-			<key>link</key>
-			<string>http://adriastream.net/cast/tunein.php/radioberane/playlist.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Bijelo Polje</string>
-			<key>logo</key>
-			<string>Bijelo</string>
-			<key>link</key>
-			<string>http://46.105.43.31:8122/stream</string>
-			<key>http</key>
-			<string>http://79.142.73.139:2055/listen.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Corona</string>
-			<key>logo</key>
-			<string>Corona</string>
-			<key>link</key>
-			<string>http://213.136.72.86:8000/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music (Bar, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio D</string>
-			<key>logo</key>
-			<string>D</string>
-			<key>link</key>
-			<string>http://128.127.108.4:2036/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Pop Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio D Plus</string>
-			<key>logo</key>
-			<string>Plus</string>
-			<key>link</key>
-			<string>http://128.127.108.4:2033/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Delfin</string>
-			<key>logo</key>
-			<string>Delfin</string>
-			<key>link</key>
-			<string>http://46.4.76.142:2121/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Dux</string>
-			<key>logo</key>
-			<string>Dux</string>
-			<key>link</key>
-			<string>http://www.radiodux.me:8000/radiodux.m3u</string>
-			<key>http</key>
-			<string>http://s1.iqstreaming.com/tunein.php/radiodux/playlist.pls</string>
-			<key>note</key>
-			<string>Tivat (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Elmag</string>
-			<key>logo</key>
-			<string>Elmag</string>
-			<key>link</key>
-			<string>http://www.simplexstream.com/tunein.php/elmagrad/playlist.pls</string>
-			<key>http</key>
-			<string>http://5.152.208.98:8000/listen.pls</string>
-			<key>note</key>
-			<string>Pop Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Gusinje</string>
+			<string>Gusinje</string>
 			<key>logo</key>
 			<string>Gusinje</string>
 			<key>link</key>
@@ -255,7 +243,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Herceg Novi</string>
+			<string>Herceg Novi</string>
 			<key>logo</key>
 			<string>Herceg</string>
 			<key>link</key>
@@ -263,23 +251,23 @@
 			<key>http</key>
 			<string>http://radiohn.dlinkddns.com:8000/streaming.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Homer</string>
+			<string>Homer 100.6 FM</string>
 			<key>logo</key>
 			<string>Homer</string>
 			<key>link</key>
-			<string>http://178.77.101.181:8030/listen.pls</string>
+			<string>http://149.56.147.197:8792/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://178.77.101.181:8030/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Jadran</string>
+			<string>Jadran</string>
 			<key>logo</key>
 			<string>Jadran</string>
 			<key>link</key>
@@ -287,11 +275,23 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Herceg Novi (Local)</string>
+			<string>Top Music (Herceg Novi, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Kotor</string>
+			<string>Jupok</string>
+			<key>logo</key>
+			<string>Jupok</string>
+			<key>link</key>
+			<string>http://176.9.59.144:8062/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top (Rožaje, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kotor</string>
 			<key>logo</key>
 			<string>Kotor</string>
 			<key>link</key>
@@ -299,11 +299,23 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Petnjica</string>
+			<string>MAG</string>
+			<key>logo</key>
+			<string>MAG</string>
+			<key>link</key>
+			<string>http://radio.elmag.me/mag.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Petnjica</string>
 			<key>logo</key>
 			<string>Petnjica</string>
 			<key>link</key>
@@ -315,31 +327,67 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Радио Светигора</string>
+			<string>PRVA</string>
 			<key>logo</key>
-			<string>Svetigora</string>
+			<string>PRVA</string>
 			<key>link</key>
-			<string>http://www.svetigoralive.com:8879/listen.pls?sid=1</string>
+			<string>http://stream.prvatv.me:8001/prva.mp3.m3u</string>
 			<key>http</key>
-			<string>http://svetigoralive.com:8879/listen.pls</string>
-			<key>note</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Tivat</string>
+			<string>RCG1 Crne Gore</string>
 			<key>logo</key>
-			<string>Tivat</string>
+			<string>Crne</string>
 			<key>link</key>
-			<string>http://radiotivat.com/livestream/playlist.pls</string>
+			<string>http://radio.beotel.net:8008/listen.pls</string>
 			<key>http</key>
-			<string>http://95.211.166.127:8006/listen.pls</string>
-			<key>note</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Skala Radio</string>
+			<string>RCG2 R98 Crne Gore</string>
+			<key>logo</key>
+			<string>R98</string>
+			<key>link</key>
+			<string>http://radio.beotel.net:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Youth</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>S1</string>
+			<key>logo</key>
+			<string>S1</string>
+			<key>link</key>
+			<string>http://176.9.59.144:8032/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>S2</string>
+			<key>logo</key>
+			<string>S2</string>
+			<key>link</key>
+			<string>http://edge-rs-01.maksnet.tv/asmedia/radios2-cg/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Skala</string>
 			<key>logo</key>
 			<string>Skala</string>
 			<key>link</key>
@@ -347,7 +395,7 @@
 			<key>http</key>
 			<string>http://mediadots.primcast.com:8176/listen.pls</string>
 			<key>note</key>
-			<string>Kotor (Local)</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -359,7 +407,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Pop/Rock Music (Cetinje, Local)</string>
+			<string>Pop, Rock Music (Cetinje, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -367,23 +415,83 @@
 			<key>logo</key>
 			<string>Studentski</string>
 			<key>link</key>
-			<string>http://radioservis.me:8030/live?type=.mp3</string>
+			<string>https://stream.radiokrs.me:8443/live.mp3.m3u</string>
 			<key>http</key>
 			<string>http://radioservis.me:8030/live.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Youth, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>TDI Radio</string>
+			<string>Светигора</string>
 			<key>logo</key>
-			<string>TDI</string>
+			<string>Svetigora</string>
 			<key>link</key>
-			<string>http://streaming.tdiradio.com:8000/crnagora.m3u</string>
+			<string>http://svetigoralive.com:8879/listen.pls</string>
+			<key>http</key>
+			<string>http://www.svetigoralive.com:8879/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Српски Радио - Црна Гора</string>
+			<key>logo</key>
+			<string>srpski</string>
+			<key>link</key>
+			<string>http://188.166.30.166:8000/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TDI</string>
+			<key>logo</key>
+			<string>TDI</string>
+			<key>link</key>
+			<string>http://streaming.tdiradio.com:8000/crnagora.mp3.m3u</string>
+			<key>http</key>
+			<string>http://streaming.tdiradio.com:8000/crnagora.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Titograd 101.1 FM</string>
+			<key>logo</key>
+			<string>Titograd</string>
+			<key>link</key>
+			<string>http://ca.rcast.net:8016/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tivat</string>
+			<key>logo</key>
+			<string>Tivat</string>
+			<key>link</key>
+			<string>http://radiotivat.com/livestream/playlist.pls</string>
+			<key>http</key>
+			<string>http://95.211.166.127:8006/listen.pls</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zeta 93.8 FM</string>
+			<key>logo</key>
+			<string>Zeta</string>
+			<key>link</key>
+			<string>http://176.9.59.144:8082/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 	</array>
 </dict>
