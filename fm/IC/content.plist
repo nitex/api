@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDs</key>
+	<dict>
+		<key>ID</key>
+		<string></string>
+		<key>Main</key>
+		<string></string>
+		<key>Back</key>
+		<string></string>
+		<key>Banner</key>
+		<string></string>
+		<key>Show1</key>
+		<string></string>
+		<key>Show2</key>
+		<string></string>
+		<key>Show3</key>
+		<string></string>
+		<key>Show4</key>
+		<string></string>
+		<key>Alarm</key>
+		<string></string>
+		<key>CustomBanner</key>
+		<string></string>
+		<key>CustomSplash</key>
+		<string></string>
+		<key>Header</key>
+		<string></string>
+		<key>Footer</key>
+		<string></string>
+		<key>Email</key>
+		<string>ios.apps.community@gmail.com</string>
+		<key>Alternative</key>
+		<string></string>
+		<key>Application</key>
+		<string></string>
+		<key>Developer</key>
+		<string></string>
+		<key>Minutes</key>
+		<string>4</string>
+		<key>Delay</key>
+		<string>2</string>
+		<key>MenuMode</key>
+		<string>10</string>
+		<key>Deprecated</key>
+		<string>1</string>
+	</dict>
+	<key>Menu</key>
+	<array>
+		<string>Top</string>
+		<string>News</string>
+		<string>Local</string>
+		<string>Classic</string>
+		<string>Music</string>
+		<string>Sport</string>
+		<string>Talk</string>
+		<string>Youth</string>
+		<string>Oldies</string>
+	</array>
+	<key>Content</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nehanda</string>
+			<key>logo</key>
+			<string>Nehanda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/nehanda-radio,19036.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RFI English</string>
+			<key>logo</key>
+			<string>RFI</string>
+			<key>link</key>
+			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spot FM</string>
+			<key>logo</key>
+			<string>Spot</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/spot-fm,12.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM</string>
+			<key>logo</key>
+			<string>Sta</string>
+			<key>link</key>
+			<string>http://anton.antfarm.co.za:8000/StarFM.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VOA</string>
+			<key>logo</key>
+			<string>VOA</string>
+			<key>link</key>
+			<string>http://voa-37.ng.akacast.akamaistream.net/7/420/322049/v1/ibb.akacast.akamaistream.net/voa-37</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZiFM Stereo</string>
+			<key>logo</key>
+			<string>ZIFM</string>
+			<key>link</key>
+			<string>http://ice31.securenetsystems.net/ZIFM.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/zifm-stereo,15983.m3u</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC Classic 263</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://41.220.21.66:88/broadwave.mp3?src=2</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC Khulumani FM 95.0</string>
+			<key>logo</key>
+			<string>Khulumani</string>
+			<key>link</key>
+			<string>http://197.221.250.170:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bulawayo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC National FM</string>
+			<key>logo</key>
+			<string>National</string>
+			<key>link</key>
+			<string>http://41.220.21.70:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC Power FM</string>
+			<key>logo</key>
+			<string>Power</string>
+			<key>link</key>
+			<string>http://41.220.21.66:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/power-fm-zimbabwe,17647.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZBC Radio Zimbabwe</string>
+			<key>logo</key>
+			<string>ZBC</string>
+			<key>link</key>
+			<string>http://41.220.21.70:88/broadwave.mp3?src=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-simbabwe,11.m3u</string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>zim NET radio</string>
+			<key>logo</key>
+			<string>zim</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/zim-net-radio,16560.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>zim NET Gospel Channel</string>
+			<key>logo</key>
+			<string>NET</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/zim-net-radio-gospel-channel,16559.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+	</array>
+</dict>
+</plist>
