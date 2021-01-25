@@ -63,11 +63,35 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>BBC World Service</string>
+			<string>7.7 (7 punto 7)</string>
 			<key>logo</key>
-			<string>BBC</string>
+			<string>7</string>
 			<key>link</key>
-			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<string>http://195.154.33.95:8078/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/7-7-radio-tenerife,12807.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>9</string>
+			<key>logo</key>
+			<string>9</string>
+			<key>link</key>
+			<string>http://eu.cdn.egostreaming.com:8060/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arucas 107.9 FM</string>
+			<key>logo</key>
+			<string>Arucas</string>
+			<key>link</key>
+			<string>http://88.2.204.200:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,83 +99,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Nehanda</string>
+			<string>Atlantis 101.7 FM</string>
 			<key>logo</key>
-			<string>Nehanda</string>
+			<string>Atlantis</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/nehanda-radio,19036.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RFI English</string>
-			<key>logo</key>
-			<string>RFI</string>
-			<key>link</key>
-			<string>http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Spot FM</string>
-			<key>logo</key>
-			<string>Spot</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/spot-fm,12.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Star FM</string>
-			<key>logo</key>
-			<string>Sta</string>
-			<key>link</key>
-			<string>http://anton.antfarm.co.za:8000/StarFM.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Oldies, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>VOA</string>
-			<key>logo</key>
-			<string>VOA</string>
-			<key>link</key>
-			<string>http://voa-37.ng.akacast.akamaistream.net/7/420/322049/v1/ibb.akacast.akamaistream.net/voa-37</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Talk</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ZiFM Stereo</string>
-			<key>logo</key>
-			<string>ZIFM</string>
-			<key>link</key>
-			<string>http://ice31.securenetsystems.net/ZIFM.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/zifm-stereo,15983.m3u</string>
-			<key>note</key>
-			<string>Top Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ZBC Classic 263</string>
-			<key>logo</key>
-			<string>Classic</string>
-			<key>link</key>
-			<string>http://41.220.21.66:88/broadwave.mp3?src=2</string>
+			<string>http://www.surfmusic.de/m3u/101-7-atlantis-fm,9233.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -159,23 +111,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZBC Khulumani FM 95.0</string>
+			<string>Aventura 107.8 FM</string>
 			<key>logo</key>
-			<string>Khulumani</string>
+			<string>Aventura</string>
 			<key>link</key>
-			<string>http://197.221.250.170:88/broadwave.mp3?src=1</string>
+			<string>http://www.surfmusic.de/m3u/radio-aventura-107-8-fm,4284.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Bulawayo (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZBC National FM</string>
+			<string>Bambustrommel 93.5 FM</string>
 			<key>logo</key>
-			<string>National</string>
+			<string>Bambustrommel</string>
 			<key>link</key>
-			<string>http://41.220.21.70:88/broadwave.mp3?src=1</string>
+			<string>http://streaming2.elitecomunicacion.es:8138/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Calimbre 104.7 FM</string>
+			<key>logo</key>
+			<string>Calimbre</string>
+			<key>link</key>
+			<string>http://calimbreweb.streaming-pro.com:6048/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>COPE Gran Canaria 99.1 FM</string>
+			<key>logo</key>
+			<string>COPE</string>
+			<key>link</key>
+			<string>http://laspalmas.copesedes.stream.flumotion.com/copesedes/laspalmas.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dance Las Palmas 91.2 FM</string>
+			<key>logo</key>
+			<string>Palmas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/dance-las-palmas-91-2-fm,4277.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -183,35 +171,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ZBC Power FM</string>
+			<string>Decibelios</string>
 			<key>logo</key>
-			<string>Power</string>
+			<string>Decibelios</string>
 			<key>link</key>
-			<string>http://41.220.21.66:88/broadwave.mp3?src=1</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/power-fm-zimbabwe,17647.m3u</string>
-			<key>note</key>
-			<string>News</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ZBC Radio Zimbabwe</string>
-			<key>logo</key>
-			<string>ZBC</string>
-			<key>link</key>
-			<string>http://41.220.21.70:88/broadwave.mp3?src=1</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-simbabwe,11.m3u</string>
-			<key>note</key>
-			<string>Talk, Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>zim NET radio</string>
-			<key>logo</key>
-			<string>zim</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/zim-net-radio,16560.m3u</string>
+			<string>http://streaming6.elitecomunicacion.es:8222/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,15 +183,483 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>zim NET Gospel Channel</string>
+			<string>ECCA 90.6 FM</string>
 			<key>logo</key>
-			<string>NET</string>
+			<string>ECCA</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/zim-net-radio-gospel-channel,16559.m3u</string>
+			<string>http://audio1.ipercast.net/endirecto22.es/mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-ecca-90-6-fm,4286.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ECO Canarias</string>
+			<key>logo</key>
+			<string>ECO</string>
+			<key>link</key>
+			<string>http://185.129.248.251:9988/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Talk, Music</string>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Espejo Canario</string>
+			<key>logo</key>
+			<string>Espejo</string>
+			<key>link</key>
+			<string>http://37.59.56.227:8140/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Europa 102.5 FM</string>
+			<key>logo</key>
+			<string>Europa</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-europa-102-5-fm,9852.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Faycán</string>
+			<key>logo</key>
+			<string>Faycan</string>
+			<key>link</key>
+			<string>http://212.83.151.18:30269/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Flaix FM</string>
+			<key>logo</key>
+			<string>Flaix</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/flaix-fm,4278.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gigante</string>
+			<key>logo</key>
+			<string>Gigante</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-gigante,11017.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gigante Expresso</string>
+			<key>logo</key>
+			<string>Expresso</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-gigante-expresso,21132.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Global FM</string>
+			<key>logo</key>
+			<string>Global</string>
+			<key>link</key>
+			<string>http://s2.free-shoutcast.com:18046/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gold FM</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/gold-fm-103-8-fm,18557.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Guiniguada FM</string>
+			<key>logo</key>
+			<string>Guiniguada</string>
+			<key>link</key>
+			<string>http://185.129.248.251:9874/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-guiniguada-105-9-fm,4287.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Illa Formentera 107.9 FM</string>
+			<key>logo</key>
+			<string>Formentera</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radioilla-107-9-fm-formentera,17035.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inolvidable FM</string>
+			<key>logo</key>
+			<string>Inolvidable</string>
+			<key>link</key>
+			<string>http://s7.voscast.com:7608/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inter Radio Tenerife</string>
+			<key>logo</key>
+			<string>Inter</string>
+			<key>link</key>
+			<string>http://server8.emitironline.com:8200/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Juventud</string>
+			<key>logo</key>
+			<string>Juventud</string>
+			<key>link</key>
+			<string>http://streaming12.elitecomunicacion.es:8070/stream.m3u</string>
+			<key>http</key>
+			<string>http://streaming12.elitecomunicacion.es:8070/stream?type=.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kiss FM Canarias</string>
+			<key>logo</key>
+			<string>Kiss</string>
+			<key>link</key>
+			<string>http://kissfmcanarias.kissfmradio.cires21.com/kissfmcanarias.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mueve 92.5 FM</string>
+			<key>logo</key>
+			<string>Mueve</string>
+			<key>link</key>
+			<string>http://5.135.183.124:8186/stream.m3u</string>
+			<key>http</key>
+			<string>https://relay.stream.enacast-cloud.com:40227/lamuevefmHD.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Las Medianías</string>
+			<key>logo</key>
+			<string>Las</string>
+			<key>link</key>
+			<string>http://enacast.com/lasmedianias/streams/HD.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marca - Gran Canaria 88.2 FM</string>
+			<key>logo</key>
+			<string>Marca</string>
+			<key>link</key>
+			<string>http://server9.emitironline.com:10922/</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marcha FM</string>
+			<key>logo</key>
+			<string>Marcha</string>
+			<key>link</key>
+			<string>http://213.231.83.12:9050/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 101 FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/hola-fm,16157.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MUZ.FM</string>
+			<key>logo</key>
+			<string>MUZ</string>
+			<key>link</key>
+			<string>http://185.229.9.121:8000/muzfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oasis FM</string>
+			<key>logo</key>
+			<string>Oasis</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/oasis-fm,12531.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Cero</string>
+			<key>logo</key>
+			<string>Onda</string>
+			<key>link</key>
+			<string>http://icecast-streaming.nice264.com/canarias</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Colectiva</string>
+			<key>logo</key>
+			<string>Colectiva</string>
+			<key>link</key>
+			<string>http://83.56.30.101:3030/listen.pls</string>
+			<key>http</key>
+			<string>http://217.127.103.157:3030/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prima Vera</string>
+			<key>logo</key>
+			<string>Prima</string>
+			<key>link</key>
+			<string>https://stream.radio-pv.com/</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-prima-vera,19646.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Qfm 94.3</string>
+			<key>logo</key>
+			<string>Qfm</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/qfm-94-3,8501.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE 5 (Las Palmas)</string>
+			<key>logo</key>
+			<string>5</string>
+			<key>link</key>
+			<string>http://radio5.rtveradio.cires21.com/radio5cnr.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE Nacional (Canarias)</string>
+			<key>logo</key>
+			<string>Canarias</string>
+			<key>link</key>
+			<string>http://rne.rtveradio.cires21.com/rnecnr.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTVC Canarias</string>
+			<key>logo</key>
+			<string>RTVC</string>
+			<key>link</key>
+			<string>http://streaming2.mad.idec.net/rtvcradio/rtvcradio.drb.stream/Playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rumberos FM</string>
+			<key>logo</key>
+			<string>Rumberos</string>
+			<key>link</key>
+			<string>http://212.129.60.86:9952/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SER+ Las Palmas 99.8 FM</string>
+			<key>logo</key>
+			<string>SER</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/SER_MAS_LAS_PALMAS.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Swing Latinos FM</string>
+			<key>logo</key>
+			<string>Swing</string>
+			<key>link</key>
+			<string>https://eu1.lhdserver.es:9033/stream</string>
+			<key>http</key>
+			<string>http://ns6.emisionlocal.com:9004/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tamaraceite 95.5 FM</string>
+			<key>logo</key>
+			<string>Tamaraceite</string>
+			<key>link</key>
+			<string>http://enacast.com/radiotamaraceite/streams/HD.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tamarán FM</string>
+			<key>logo</key>
+			<string>Tamaran</string>
+			<key>link</key>
+			<string>http://server2.20comunicacion.com:8038/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Temperatura FM</string>
+			<key>logo</key>
+			<string>Temperatura</string>
+			<key>link</key>
+			<string>http://ns100.emisionlocal.com:9500/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tentacion 91.5 FM</string>
+			<key>logo</key>
+			<string>Tentacion</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tentacion-91-5-fm-dsl,6686.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tinamar - Gran Canaria</string>
+			<key>logo</key>
+			<string>Tinamar</string>
+			<key>link</key>
+			<string>http://srv0435.lcinternet.com:9521/live.m3u</string>
+			<key>http</key>
+			<string>http://srv0435.lcinternet.com:9521/live</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Voz</string>
+			<key>logo</key>
+			<string>Voz</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-voz,9950.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yumbo FM</string>
+			<key>logo</key>
+			<string>Yumbo</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/yumbofm,17110.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
