@@ -67,7 +67,7 @@
 			<key>logo</key>
 			<string>7</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/7-7-radio-gran-canaria,12806.m3u</string>
+			<string>http://195.154.33.95:8078/listen.pls?sid=1</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/7-7-radio-tenerife,12807.m3u</string>
 			<key>note</key>
@@ -171,13 +171,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ecca 90.6 FM</string>
+			<string>ECCA 90.6 FM</string>
 			<key>logo</key>
-			<string>Ecca</string>
+			<string>ECCA</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-ecca-90-6-fm,4286.m3u</string>
+			<string>http://audio1.ipercast.net/endirecto22.es/mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-ecca-90-6-fm,4286.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -207,11 +207,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Gigante Expresso</string>
 			<key>logo</key>
-			<string></string>
+			<string>Expresso</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-gigante-expresso,21132.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +219,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Guiniguada FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Guiniguada</string>
 			<key>link</key>
+			<string>http://185.129.248.251:9874/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-guiniguada-105-9-fm,4287.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prima Vera</string>
+			<key>logo</key>
+			<string>Prima</string>
+			<key>link</key>
+			<string>https://stream.radio-pv.com/</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-prima-vera,19646.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tentacion 91.5 FM</string>
+			<key>logo</key>
+			<string>Tentacion</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-tentacion-91-5-fm-dsl,6686.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Voz</string>
 			<key>logo</key>
-			<string></string>
+			<string>Voz</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-voz,9950.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Illa Formentera 107.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Formentera</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radioilla-107-9-fm-formentera,17035.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,11 +279,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Yumbo FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Yumbo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/yumbofm,17110.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,11 +291,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Marca - Gran Canaria 88.2 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Marca</string>
 			<key>link</key>
-			<string></string>
+			<string>http://server9.emitironline.com:10922/</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +303,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RNE 5 (Las Palmas)</string>
 			<key>logo</key>
-			<string></string>
+			<string>5</string>
 			<key>link</key>
+			<string>http://radio5.rtveradio.cires21.com/radio5cnr.mp3</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tinamar - Gran Canaria</string>
+			<key>logo</key>
+			<string>Tinamar</string>
+			<key>link</key>
+			<string>http://srv0435.lcinternet.com:9521/live.m3u</string>
+			<key>http</key>
+			<string>http://srv0435.lcinternet.com:9521/live</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tamarán FM</string>
+			<key>logo</key>
+			<string>Tamaran</string>
+			<key>link</key>
+			<string>http://server2.20comunicacion.com:8038/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,11 +339,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Faycán</string>
 			<key>logo</key>
-			<string></string>
+			<string>Faycan</string>
 			<key>link</key>
-			<string></string>
+			<string>http://212.83.151.18:30269/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -303,11 +351,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Las Medianías</string>
 			<key>logo</key>
-			<string></string>
+			<string>Las</string>
 			<key>link</key>
+			<string>http://enacast.com/lasmedianias/streams/HD.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mueve 92.5 FM</string>
+			<key>logo</key>
+			<string>Mueve</string>
+			<key>link</key>
+			<string>http://5.135.183.124:8186/stream.m3u</string>
+			<key>http</key>
+			<string>https://relay.stream.enacast-cloud.com:40227/lamuevefmHD.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNE Nacional (Canarias)</string>
+			<key>logo</key>
+			<string>Canarias</string>
+			<key>link</key>
+			<string>http://rne.rtveradio.cires21.com/rnecnr.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -315,83 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>ECO Canarias</string>
 			<key>logo</key>
-			<string></string>
+			<string>ECO</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://185.129.248.251:9988/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
