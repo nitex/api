@@ -63,63 +63,63 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>1 RTHK FM 926</string>
+			<string>1 RTHK</string>
 			<key>logo</key>
 			<string>1</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-1-rthk,813.m3u</string>
+			<string>http://stm.rthk.hk/radio1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-1-rthk,813.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>2 RTHK FM 948</string>
+			<string>2 RTHK</string>
 			<key>logo</key>
 			<string>2</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-2-rthk,814.m3u</string>
+			<string>http://stm.rthk.hk/radio2.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-2-rthk,814.m3u</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>3 RTHK AM 567</string>
+			<string>3 RTHK</string>
 			<key>logo</key>
 			<string>3</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-3-rthk,815.m3u</string>
+			<string>http://stm.rthk.hk/radio3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-3-rthk,815.m3u</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>4 RTHK FM 976</string>
+			<string>4 RTHK</string>
 			<key>logo</key>
 			<string>4</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-4-rthk,816.m3u</string>
+			<string>http://stm.rthk.hk/radio4.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-4-rthk,816.m3u</string>
 			<key>note</key>
-			<string>Talk</string>
+			<string>Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>5 RTHK AM 783</string>
+			<string>5 RTHK</string>
 			<key>logo</key>
 			<string>5</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-5-rthk,817.m3u</string>
+			<string>http://stm.rthk.hk/radio5.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-5-rthk,817.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -131,7 +131,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>香港電台普通話台 AM 621</string>
+			<key>logo</key>
+			<string>RTHK</string>
+			<key>link</key>
+			<string>http://stm.rthk.hk/radiopth.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -144,6 +156,18 @@
 			<string>http://sc.apple-fm.net:9020/listen.pls</string>
 			<key>note</key>
 			<string>Oldies</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -231,6 +255,18 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>CRI China Plus</string>
+			<key>logo</key>
+			<string>CRI</string>
+			<key>link</key>
+			<string>http://sk.cri.cn/am846.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>HKCR1 88.1 FM</string>
 			<key>logo</key>
 			<string>HKCR1</string>
@@ -239,7 +275,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -251,31 +287,43 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Metro Finance Live</string>
+			<string>Metro 99.7 FM 新城知訊台</string>
 			<key>logo</key>
-			<string>Finance</string>
+			<string>Metro</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/metro-finance-live,12727.m3u</string>
+			<string>http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>News</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Metro Info Live</string>
+			<string>Metro Finance FM 104</string>
 			<key>logo</key>
-			<string>Metro</string>
+			<string>Finance</string>
+			<key>link</key>
+			<string>http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/metro-finance-live,12727.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Metro Info</string>
+			<key>logo</key>
+			<string>Info</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/metro-info-live,12729.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -283,11 +331,11 @@
 			<key>logo</key>
 			<string>1044</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/metro-plus-1044-am,12730.m3u</string>
+			<string>http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/metro-plus-1044-am,12730.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -300,6 +348,18 @@
 			<string></string>
 			<key>note</key>
 			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TDM 100.7 FM 澳門電台</string>
+			<key>logo</key>
+			<string>TDM</string>
+			<key>link</key>
+			<string>http://live4.tdm.com.mo/live/rch2.live/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 	</array>
 </dict>
