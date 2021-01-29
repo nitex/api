@@ -51,11 +51,155 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>101</string>
+			<key>logo</key>
+			<string>101</string>
+			<key>link</key>
+			<string>http://lush.wavestreamer.com:6961/listen.m3u?sid=1</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-101,16569.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>103</string>
+			<key>logo</key>
+			<string>103</string>
+			<key>link</key>
+			<string>http://s2.radio.co/s955b1ced9/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>105</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>http://s5.voscast.com:9304/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>All Rock FM</string>
 			<key>logo</key>
 			<string>All</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/all-rock-fm,17606.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bastjaniżi 95.0 FM</string>
+			<key>logo</key>
+			<string>Bastjanizi</string>
+			<key>link</key>
+			<string>http://bfmlive.ddns.net:88/broadwave.m3u?src=1&amp;rate=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bay Radio</string>
+			<key>logo</key>
+			<string>Bay</string>
+			<key>link</key>
+			<string>http://178.32.161.194:8022/listen.pls</string>
+			<key>http</key>
+			<string>http://s1.voscast.com:8132/listen.pls</string>
+			<key>note</key>
+			<string>News, Top, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bay Easy</string>
+			<key>logo</key>
+			<string>Easy</string>
+			<key>link</key>
+			<string>http://178.32.161.194:8018/listen.pls</string>
+			<key>http</key>
+			<string>http://s1.voscast.com:8154/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bay Retro</string>
+			<key>logo</key>
+			<string>Retro</string>
+			<key>link</key>
+			<string>http://178.32.161.194:8014/listen.pls</string>
+			<key>http</key>
+			<string>http://s1.voscast.com:8156/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BKR 94.5 FM</string>
+			<key>logo</key>
+			<string>BKR</string>
+			<key>link</key>
+			<string>https://s4.radio.co/s0ac89720b/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Calypso 101.8 FM</string>
+			<key>logo</key>
+			<string>Calypso</string>
+			<key>link</key>
+			<string>https://s4.radio.co/sf3aa4c25a/listen</string>
+			<key>http</key>
+			<string>http://s9.voscast.com:8128/listen.pls</string>
+			<key>note</key>
+			<string>Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City 98 FM</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_39263_stream_620021671</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deejay&apos;s 95.6 FM</string>
+			<key>logo</key>
+			<string>Deejay</string>
+			<key>link</key>
+			<string>https://freeus1.listen2myradio.com/live.mp3?typeportmount=s1_5213_stream_518629660</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -71,7 +215,19 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hompesch 90.0 FM</string>
+			<key>logo</key>
+			<string>Hompesch</string>
+			<key>link</key>
+			<string>http://janus2.cdnstream.com:8008/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -83,27 +239,15 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>NET FM</string>
+			<string>Lauretana - Għajnsielem 89.3 FM</string>
 			<key>logo</key>
-			<string>NET</string>
+			<string>Lauretana</string>
 			<key>link</key>
-			<string>http://s2.voscast.com:11392/listen.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/net-fm-101-0,21114.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Smash 104.6 FM</string>
-			<key>logo</key>
-			<string>Smash</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/smash-radio-104-6-fm,3683.m3u</string>
+			<string>https://stream.radjulauretana.com/hls/index.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Lauretana - Għajnsielem 89.3 FM</string>
+			<string>Leħen il-Belt Ġorġjana</string>
 			<key>logo</key>
-			<string>Lauretana</string>
+			<string>Belt</string>
 			<key>link</key>
-			<string>https://stream.radjulauretana.com/hls/index.m3u8</string>
+			<string>http://s37.myradiostream.com:9088/listen.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -135,15 +279,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hompesch - Ħaż-Żabbar 90.0 FM</string>
+			<string>Leħen il-Qala 106.3 FM</string>
 			<key>logo</key>
-			<string>Hompesch</string>
+			<string>Qala</string>
 			<key>link</key>
-			<string>http://janus2.cdnstream.com:8008/listen.pls</string>
+			<string>http://stream.radjulehenil-qala.com:8000/radjulehenil-qala.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Luminaria 106.9 FM</string>
+			<key>logo</key>
+			<string>Luminaria</string>
+			<key>link</key>
+			<string>http://stream.radjuluminaria.com:8000/radjuluminaria.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk (Nadur, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marija</string>
+			<key>logo</key>
+			<string>Marija</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp.com:8102/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -159,439 +327,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BKR 94.5 FM</string>
+			<string>NET FM</string>
 			<key>logo</key>
-			<string>BKR</string>
+			<string>NET</string>
 			<key>link</key>
-			<string>https://s4.radio.co/s0ac89720b/listen</string>
+			<string>http://s2.voscast.com:11392/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/net-fm-101-0,21114.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bastjaniżi 95.0 FM</string>
-			<key>logo</key>
-			<string>Bastjanizi</string>
-			<key>link</key>
-			<string>http://bfmlive.ddns.net:88/broadwave.m3u?src=1&amp;rate=1</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Deejay&apos;s 95.6 FM</string>
-			<key>logo</key>
-			<string>Deejay</string>
-			<key>link</key>
-			<string>https://freeus1.listen2myradio.com/live.mp3?typeportmount=s1_5213_stream_518629660</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bay Radio</string>
-			<key>logo</key>
-			<string>Bay</string>
-			<key>link</key>
-			<string>http://s1.voscast.com:8132/listen.pls</string>
-			<key>http</key>
-			<string>http://178.32.161.194:8022/listen.pls</string>
-			<key>note</key>
-			<string>St.Julians</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bay Easy</string>
-			<key>logo</key>
-			<string>Easy</string>
-			<key>link</key>
-			<string>http://s1.voscast.com:8154/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>St.Julians</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bay Retro</string>
-			<key>logo</key>
-			<string>Retro</string>
-			<key>link</key>
-			<string>http://s1.voscast.com:8156/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>St.Julians</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Calypso Radio 101.8 FM</string>
-			<key>logo</key>
-			<string>Calypso</string>
-			<key>link</key>
-			<string>http://cdn.voscast.com/resources/?key=4f870a0b3f3891cfc3b3309f49b2cc9c&amp;c=winamp</string>
-			<key>http</key>
-			<string>http://s9.voscast.com:8128/listen.pls</string>
-			<key>note</key>
-			<string>Victoria - Gozo (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Magic Malta 91.7 FM</string>
-			<key>logo</key>
-			<string>Magic</string>
-			<key>link</key>
-			<string>http://myradiostream.com/16/4542.pls</string>
-			<key>http</key>
-			<string>http://myradiostream.com/46/6076.pls</string>
-			<key>note</key>
-			<string>G&apos;Mangia (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ONE Radio</string>
+			<string>ONE</string>
 			<key>logo</key>
 			<string>One</string>
 			<key>link</key>
@@ -599,11 +347,23 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/one-radio,17931.m3u</string>
 			<key>note</key>
-			<string>Hamrun (Local)</string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Malta</string>
+			<string>PBS Magic Malta</string>
+			<key>logo</key>
+			<string>Magic</string>
+			<key>link</key>
+			<string>http://myradiostream.com/46/6076.pls</string>
+			<key>http</key>
+			<string>http://myradiostream.com/16/4542.pls</string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PBS Malta</string>
 			<key>logo</key>
 			<string>Malta</string>
 			<key>link</key>
@@ -611,31 +371,55 @@
 			<key>http</key>
 			<string>http://myradiostream.com/8/6982/listen.pls</string>
 			<key>note</key>
-			<string>News/Information (G&apos;Mangia, Local)</string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio 101</string>
+			<string>PBS Malta 2</string>
 			<key>logo</key>
-			<string>101</string>
+			<string>PBS</string>
 			<key>link</key>
-			<string>http://lush.wavestreamer.com:6961/listen.m3u?sid=1</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-101,16569.m3u</string>
-			<key>note</key>
-			<string>Pieta (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radju Luminaria</string>
-			<key>logo</key>
-			<string>Radju</string>
-			<key>link</key>
-			<string>http://stream.radjuluminaria.com:8000/radjuluminaria.m3u</string>
+			<string>http://myradiostream.com/11/4954.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Nadur - Gozo (Local)</string>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Prekursur 99.3 FM</string>
+			<key>logo</key>
+			<string>Prekursur</string>
+			<key>link</key>
+			<string>http://78.129.187.73:27150/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAVE</string>
+			<key>logo</key>
+			<string>RAVE</string>
+			<key>link</key>
+			<string>https://s3.radio.co/s614efd5e8/listen</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Smash 104.6 FM</string>
+			<key>logo</key>
+			<string>Smash</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/smash-radio-104-6-fm,3683.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -648,6 +432,18 @@
 			<string>http://www.surfmusic.de/m3u/vibe-fm,11911.m3u</string>
 			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XFM 100.2</string>
+			<key>logo</key>
+			<string>XFM</string>
+			<key>link</key>
+			<string>http://s10.voscast.com:7866/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
 		</dict>
 	</array>
 </dict>
