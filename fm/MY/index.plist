@@ -51,63 +51,51 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Suara Malaysia Sabah</string>
+			<string>988 FM</string>
 			<key>logo</key>
-			<string>Sabah</string>
+			<string>98</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.111.140.6:8146/listen.pls&amp;t=.pls</string>
+			<string>http://playerservices.streamtheworld.com/pls/988_FM.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.111.140.6:8146/listen.pls&amp;t=.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-98-8,5253.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RL Retro</string>
+			<string>Bernama</string>
 			<key>logo</key>
-			<string>RL</string>
+			<string>Bernama</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.165.237.19:8366/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.165.237.19:8366/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>AI FM</string>
-			<key>logo</key>
-			<string>AI</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ai-fm,19885.m3u</string>
+			<string>http://78.129.187.73:36677/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Asyik FM</string>
-			<key>logo</key>
-			<string>Asyik</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/asyik-fm,19887.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>Best 104 FM</string>
 			<key>logo</key>
-			<string>Best</string>
+			<string>104</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/best-104-fm,15943.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Best FM</string>
+			<key>logo</key>
+			<string>Best</string>
+			<key>link</key>
+			<string>http://s8.voscast.com:8686/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -115,9 +103,9 @@
 			<key>logo</key>
 			<string>BFM</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bfm-89-9-fm,12740.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/BFM.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/bfm-89-9-fm,12740.m3u</string>
 			<key>note</key>
 			<string>Petaling Jaya (Local)</string>
 		</dict>
@@ -131,35 +119,71 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CITYPlus FM</string>
+			<key>logo</key>
+			<string>CITYPlus</string>
+			<key>link</key>
+			<string>https://censemedia.rastream.com/censemedia-cityplus.web.hls/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FLY FM 95.8</string>
+			<string>Era</string>
+			<key>logo</key>
+			<string>Era</string>
+			<key>link</key>
+			<string>http://astro2.rastream.com/era</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FLY 95.8 FM</string>
 			<key>logo</key>
 			<string>FLY</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fly-fm-95-8,9447.m3u</string>
+			<string>http://mediaprima.rastream.com/mediaprima-flyfm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fly-fm-95-8,9447.m3u</string>
 			<key>note</key>
-			<string>Petaling Jaya (Local)</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hitz FM</string>
+			<string>goXUAN</string>
+			<key>logo</key>
+			<string>goXUAN</string>
+			<key>link</key>
+			<string>https://astro3.rastream.com/astro-goxuan.web.hls/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HITZ FM</string>
 			<key>logo</key>
 			<string>Hitz</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hitz-fm,11410.m3u</string>
+			<string>http://astro1.rastream.com/hitz</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/hitz-fm,11410.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hitz FM Kota Kinabalu</string>
+			<string>HITZ FM Kota Kinabalu</string>
 			<key>logo</key>
 			<string>Kota</string>
 			<key>link</key>
@@ -167,11 +191,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Local</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Hitz FM Kuching</string>
+			<string>HITZ FM Kuching</string>
 			<key>logo</key>
 			<string>Kuching</string>
 			<key>link</key>
@@ -179,7 +203,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Local</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -187,179 +211,95 @@
 			<key>logo</key>
 			<string>HOT</string>
 			<key>link</key>
+			<string>http://mediaprima.rastream.com/mediaprima-hotfm.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/hot-fm,11409.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>IkimFM</string>
+			<string>Ikim FM</string>
 			<key>logo</key>
-			<string>IkimFM</string>
+			<string>Ikim</string>
 			<key>link</key>
+			<string>https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/ikimfm,9701.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Johor FM</string>
+			<string>Kool FM</string>
 			<key>logo</key>
-			<string>Johor</string>
+			<string>Kool</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/johor-fm,9702.m3u</string>
+			<string>http://mediaprima.rastream.com/mediaprima-koolfm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kedah FM</string>
-			<key>logo</key>
-			<string>Kedah</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kedah-fm,19898.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Kelantan FM</string>
-			<key>logo</key>
-			<string>Kelantan</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kelantan-fm,19899.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>KL FM 97.2</string>
-			<key>logo</key>
-			<string>KL</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/kl-fm-97-2,18261.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Labuan FM 89.4</string>
-			<key>logo</key>
-			<string>Labuan</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/labuan-fm-89-4,15947.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Lite FM</string>
+			<string>Lite</string>
 			<key>logo</key>
 			<string>Lite</string>
 			<key>link</key>
+			<string>http://astro1.rastream.com/lite</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/lite-fm,11411.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Minnal FM</string>
+			<string>Melody</string>
 			<key>logo</key>
-			<string>Minnal</string>
+			<string>Melody</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/minnal-fm,19886.m3u</string>
+			<string>http://astro3.rastream.com/melody</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mutiara FM</string>
+			<string>MIX</string>
 			<key>logo</key>
-			<string>Mutiara</string>
+			<string>MIX</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mutiara-fm,12739.m3u</string>
+			<string>http://astro2.rastream.com/mix</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Nasional FM</string>
+			<string>MY FM</string>
 			<key>logo</key>
-			<string>Nasional</string>
+			<string>MY</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/nasional-fm,18260.m3u</string>
+			<string>http://astro1.rastream.com/myfm</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Negiri FM</string>
-			<key>logo</key>
-			<string>Negiri</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/negiri-fm,9704.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>One FM - 88.1 FM</string>
+			<string>One 88.1 FM</string>
 			<key>logo</key>
 			<string>One</string>
 			<key>link</key>
+			<string>http://mediaprima.rastream.com/mediaprima-onefm.m3u</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/one-fm-88-1-fm,15944.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Pahang FM 104.1</string>
-			<key>logo</key>
-			<string>Pahang</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/pahang-fm-104-1,19900.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Perlis FM</string>
-			<key>logo</key>
-			<string>Perlis</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/perlis-fm,19902.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -375,35 +315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio 98.8</string>
+			<string>Raaga</string>
 			<key>logo</key>
-			<string>98</string>
+			<string>Raaga</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-98-8,5253.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Klasik</string>
-			<key>logo</key>
-			<string>Klasik</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-klasik,15942.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Melaka</string>
-			<key>logo</key>
-			<string>Melaka</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-melaka,836.m3u</string>
+			<string>http://astro3.rastream.com/raaga</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,11 +339,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sabah VFM</string>
+			<string>RL Retro</string>
 			<key>logo</key>
-			<string>VFM</string>
+			<string>RL</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/selangor-fm,9705.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.165.237.19:8366/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.165.237.19:8366/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM AI FM</string>
+			<key>logo</key>
+			<string>AI</string>
+			<key>link</key>
+			<string>https://aifmmobile.secureswiftcontent.com/rtm-ch020/rtm-ch020/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/ai-fm,19885.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Asyik FM</string>
+			<key>logo</key>
+			<string>Asyik</string>
+			<key>link</key>
+			<string>https://salamfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch022/rtm-ch022-96000.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/asyik-fm,19887.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Johor FM</string>
+			<key>logo</key>
+			<string>Johor</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/johor-fm,9702.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -435,7 +387,187 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Selangor FM</string>
+			<string>RTM Kedah FM</string>
+			<key>logo</key>
+			<string>Kedah</string>
+			<key>link</key>
+			<string>https://kedahfmmobile.secureswiftcontent.com/rtm-ch031/rtm-ch031/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/kedah-fm,19898.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Kelantan FM</string>
+			<key>logo</key>
+			<string>Kelantan</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/kelantan-fm,19899.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM KL FM 97.2</string>
+			<key>logo</key>
+			<string>KL</string>
+			<key>link</key>
+			<string>https://klfmmobile.secureswiftcontent.com/rtm-ch018/rtm-ch018/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/kl-fm-97-2,18261.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Klasik</string>
+			<key>logo</key>
+			<string>Klasik</string>
+			<key>link</key>
+			<string>https://radioklasikmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch016/rtm-ch016-96000.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-klasik,15942.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Labuan FM 89.4</string>
+			<key>logo</key>
+			<string>Labuan</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/labuan-fm-89-4,15947.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Melaka</string>
+			<key>logo</key>
+			<string>Melaka</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-melaka,836.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Minnal FM</string>
+			<key>logo</key>
+			<string>Minnal</string>
+			<key>link</key>
+			<string>https://minnalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch021/rtm-ch021-96000.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/minnal-fm,19886.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Mutiara FM</string>
+			<key>logo</key>
+			<string>Mutiara</string>
+			<key>link</key>
+			<string>https://mutiarafmmobile.secureswiftcontent.com/rtm-ch039/rtm-ch039/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/mutiara-fm,12739.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Nasional FM</string>
+			<key>logo</key>
+			<string>Nasional</string>
+			<key>link</key>
+			<string>https://nasionalfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch017/rtm-ch017-96000.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/nasional-fm,18260.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Negiri FM</string>
+			<key>logo</key>
+			<string>Negiri</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/negiri-fm,9704.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Pahang FM</string>
+			<key>logo</key>
+			<string>Pahang</string>
+			<key>link</key>
+			<string>https://pahangfmmobile.secureswiftcontent.com/rtm-ch034/rtm-ch034/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/pahang-fm-104-1,19900.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Perak FM</string>
+			<key>logo</key>
+			<string>Perak</string>
+			<key>link</key>
+			<string>https://perakfmmobile.secureswiftcontent.com/rtm-ch038/rtm-ch038/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Perlis FM</string>
+			<key>logo</key>
+			<string>Perlis</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/perlis-fm,19902.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Red FM</string>
+			<key>logo</key>
+			<string>Red</string>
+			<key>link</key>
+			<string>https://redfmmobile.secureswiftcontent.com/rtm-ch043/rtm-ch043/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Sabah VFM</string>
+			<key>logo</key>
+			<string>VFM</string>
+			<key>link</key>
+			<string>https://sabahvfmmobile.secureswiftcontent.com/rtm-ch024/rtm-ch024/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/selangor-fm,9705.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM Selangor FM</string>
 			<key>logo</key>
 			<string>Selangor</string>
 			<key>link</key>
@@ -447,13 +579,49 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>RTM TraXX FM</string>
+			<key>logo</key>
+			<string>Traxx</string>
+			<key>link</key>
+			<string>https://traxxfmmobile.secureswiftcontent.com/memorystreams/HLS/rtm-ch019/rtm-ch019-96000.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/traxx-fm-malaysia,19884.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RTM WAI FM</string>
+			<key>logo</key>
+			<string>WAI</string>
+			<key>link</key>
+			<string>https://waifmimobile.secureswiftcontent.com/rtm-ch025/rtm-ch025/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/wai-fm,19901.m3u</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Sinar FM 96.7</string>
 			<key>logo</key>
 			<string>Sinar</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sinar-fm-96-7,18164.m3u</string>
+			<string>http://astro2.rastream.com/sinar</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/sinar-fm-96-7,18164.m3u</string>
+			<key>note</key>
+			<string>News, Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Suara Malaysia Sabah</string>
+			<key>logo</key>
+			<string>Sabah</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.111.140.6:8146/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.111.140.6:8146/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -463,31 +631,19 @@
 			<key>logo</key>
 			<string>Suria</string>
 			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/SURIA_FM.pls</string>
+			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/suria-fm,14289.m3u</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Traxx FM Malaysia</string>
+			<string>Zayan</string>
 			<key>logo</key>
-			<string>Traxx</string>
+			<string>Zayan</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/traxx-fm-malaysia,19884.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>WAI FM</string>
-			<key>logo</key>
-			<string>WAI</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/wai-fm,19901.m3u</string>
+			<string>https://astro3.rastream.com/astro-zayan.web.hls/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
