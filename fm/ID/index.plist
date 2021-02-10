@@ -459,11 +459,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Most 105.8 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Most</string>
 			<key>link</key>
-			<string></string>
+			<string>http://wow2.mari.co.id:1935/mari/most/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -471,11 +471,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Bens 106.2 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bens</string>
 			<key>link</key>
-			<string></string>
+			<string>http://175.103.58.72:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -483,11 +483,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Attaqwa 106.4 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Attaqwa</string>
 			<key>link</key>
+			<string>http://i.klikhost.com:8840/listen.pls</string>
+			<key>http</key>
+			<string>http://103.28.148.18:8840/;</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dakta 107.0 FM</string>
+			<key>logo</key>
+			<string>Dakta</string>
+			<key>link</key>
+			<string>http://175.103.56.9:9968/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -495,11 +507,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cemerlang</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cemerlang</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.indostreamserver.com:8088/stream?type=http&amp;nocache=3739</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,11 +519,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Agri 107.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Agri</string>
 			<key>link</key>
-			<string></string>
+			<string>http://202.78.200.228:8005/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -519,11 +531,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>JIC (Jakarta Islamic Centre)</string>
 			<key>logo</key>
-			<string></string>
+			<string>JIC</string>
 			<key>link</key>
-			<string></string>
+			<string>http://jic.onlivestreaming.net:9449/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -531,11 +543,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Airmen 107.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Airmen</string>
 			<key>link</key>
+			<string>http://live.radioairmenfm.com:8008/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>REM SSK 648 AM &amp; 107.9 FM</string>
+			<key>logo</key>
+			<string>REM</string>
+			<key>link</key>
+			<string>http://202.133.2.250:8000/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -543,11 +567,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RTC UI FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>RTC</string>
 			<key>link</key>
-			<string></string>
+			<string>http://caster-001.rtcui.tsun.moe:8000/stream.ogg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -555,11 +579,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RRI Lima</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lima</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.rri.co.id:8941/web-chlima.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -567,11 +591,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RRI Classic</string>
 			<key>logo</key>
-			<string></string>
+			<string>Classic</string>
 			<key>link</key>
+			<string>http://streaming.rri.co.id:9336/web-rriklasik.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RRI Jazz</string>
+			<key>logo</key>
+			<string>Jazz</string>
+			<key>link</key>
+			<string>http://streaming.rri.co.id:9025/web-rrijazz.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -579,11 +615,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RRI Keroncong</string>
 			<key>logo</key>
-			<string></string>
+			<string>Keroncong</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.rri.co.id:9236/web-rrikeroncong.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,11 +627,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RRI Suara Indonesia</string>
 			<key>logo</key>
-			<string></string>
+			<string>Suara</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.rri.co.id:9125/web-voi.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -603,47 +639,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Samhan</string>
 			<key>logo</key>
-			<string></string>
+			<string>Samhan</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://live.samhanradio.com:8090/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -843,11 +843,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>106.6 FM - V Radio FM</string>
+			<string>V Radio 106.6 FM</string>
 			<key>logo</key>
 			<string>V</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/106-6-fm-v-radio-fm,16061.m3u</string>
+			<string>http://202.147.199.100:8000/listen.pls</string>
 			<key>http</key>
 			<string>http://202.147.199.100:8000/;stream.nsv</string>
 			<key>note</key>
@@ -991,7 +991,7 @@
 			<key>logo</key>
 			<string>107</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/dakta-107-fm,10720.m3u</string>
+			<string>http://175.103.56.9:9968/listen.pls</string>
 			<key>http</key>
 			<string>http://175.103.56.9:9968/;stream.nsv&amp;type=mp3</string>
 			<key>note</key>
@@ -1483,9 +1483,9 @@
 			<key>logo</key>
 			<string>Prestasi</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/prestasi-fm,17323.m3u</string>
+			<string>http://u.klikhost.com:7128/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/prestasi-fm,17323.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1567,9 +1567,9 @@
 			<key>logo</key>
 			<string>Rodja</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-rodja-756-am,17790.m3u</string>
+			<string>http://live2.radiorodja.com/listen.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://119.82.232.83:80/listen.pls&amp;t=.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-rodja-756-am,17790.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1695,15 +1695,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Star Radio 107.3 FM Tangerang</string>
+			<string>Star Radio 107.3 FM</string>
 			<key>logo</key>
 			<string>Tangerang</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/star-radio-107-3-fm-tangerang,15880.m3u</string>
+			<string>http://live.indostreamserver.com:8070/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/star-radio-107-3-fm-tangerang,15880.m3u</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>Tangerang (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
