@@ -57,7 +57,7 @@
 			<key>link</key>
 			<string>http://cloudstreaming.mramedia.com:8001/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://cloudstreaming.mramedia.com:8011/live.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -231,13 +231,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Smart 95.9 FM</string>
+			<string>Smart FM</string>
 			<key>logo</key>
 			<string>Smart</string>
 			<key>link</key>
 			<string>http://101.50.0.77:8000/smartfm.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://101.50.0.77:8000/surabaya.aac.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -611,7 +611,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -651,11 +651,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Muara 693 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Muara</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.radiomuara.com:8176/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -663,11 +663,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suara Bekasi 855</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bekasi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.radiosuarabekasi.com:8072/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -675,11 +675,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suara Khatulistiwa 1026 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Khatulistiwa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ina.vinhostmedia.com:8000/radiosk.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -687,11 +687,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>I-Dream 1044 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Dream</string>
 			<key>link</key>
-			<string></string>
+			<string>http://idreamradio.id:8000/dreamradio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -699,11 +699,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Qu 1089 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Qu</string>
 			<key>link</key>
-			<string></string>
+			<string>http://104.218.48.100:2007/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -711,11 +711,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UNTAR 1098 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>UNTAR</string>
 			<key>link</key>
-			<string></string>
+			<string>http://202.129.186.43:7036/listen.pls</string>
+			<key>http</key>
+			<string>http://202.129.186.43:7036/;</string>
+			<key>note</key>
+			<string>Youth, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ikadi 1152 AM</string>
+			<key>logo</key>
+			<string>Ikadi</string>
+			<key>link</key>
+			<string>http://live.radioikadi.com:8040/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -723,11 +735,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>GES 1206 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>GES</string>
 			<key>link</key>
-			<string></string>
+			<string>http://i18.klikhost.com:9184/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -735,11 +747,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suara Edukasi 1440 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Edukasi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://sv1.suaraedukasi.com:8803/stream</string>
+			<key>http</key>
+			<string>http://bb.suaraedukasi.com/</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Colors 87.7 FM</string>
+			<key>logo</key>
+			<string>Colors</string>
+			<key>link</key>
+			<string>http://i.klikhost.net:8600/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -747,11 +771,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Kota 88.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Kota</string>
 			<key>link</key>
-			<string></string>
+			<string>http://u.klikhost.com:8000/kotafm.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -759,11 +783,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Metro FeMale 88.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Metro</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio.dnetprovider.id:8000/MetroFM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -771,39 +795,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Media 90.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Media</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.radiomediafm.com:8400/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1411,9 +1411,9 @@
 			<key>logo</key>
 			<string>Pelangi</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-pelangi-nusantara-882-am,17942.m3u</string>
+			<string>http://i.klikhost.net:9056/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-pelangi-nusantara-882-am,17942.m3u</string>
 			<key>note</key>
 			<string>Bekasi (Local)</string>
 		</dict>
@@ -1461,7 +1461,7 @@
 			<key>link</key>
 			<string>http://masima.rastream.com/masima-pramborsjakarta.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/prambors-fm,822.m3u</string>
+			<string>http://masima.rastream.com/masima-pramborssurabaya.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
