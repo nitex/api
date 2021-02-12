@@ -141,7 +141,7 @@
 			<key>link</key>
 			<string>http://streaming.rri.co.id:9025/web-rrijakartapro1.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streaming.rri.co.id:9011/web-rrimedanpro1.mp3.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -177,7 +177,7 @@
 			<key>link</key>
 			<string>http://streaming.rri.co.id:9025/web-rrijakartapro4.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streaming.rri.co.id:9011/web-rrimedanpro4.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -423,13 +423,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MNC Trijaya FM 104.6</string>
+			<string>MNC Trijaya FM</string>
 			<key>logo</key>
 			<string>Trijaya</string>
 			<key>link</key>
 			<string>http://202.147.199.101:8000/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.suararadio.com:8000/trijayafm_stereo.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -441,7 +441,7 @@
 			<key>link</key>
 			<string>http://streaming.rri.co.id:9025/web-rrijakartapro2.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streaming.rri.co.id:9011/web-rrimedanpro2.mp3.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -1071,11 +1071,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Suara Al-Iman 846 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Al-Iman</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.suaraaliman.com/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1083,11 +1083,107 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sangkakala 1062 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sangkakala</string>
 			<key>link</key>
+			<string>http://radio.sangkakala.org/listen.pls</string>
+			<key>http</key>
+			<string>http://radiosangkakala.alucio.net.id:7777/listen.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>VISI 89.6 FM</string>
+			<key>logo</key>
+			<string>VISI</string>
+			<key>link</key>
+			<string>http://103.28.148.18:8178/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Medan, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Suara Medan 94.7 FM</string>
+			<key>logo</key>
+			<string>Suar</string>
+			<key>link</key>
+			<string>http://50.22.218.73:36891/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Citra Buana 95.5 FM</string>
+			<key>logo</key>
+			<string>Citra</string>
+			<key>link</key>
+			<string>http://95.154.254.157:16486/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Medan (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City Radio 95.9 FM</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://streaming.cityradio.id:8000/cityradio.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Medan, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Medan FM 96.3</string>
+			<key>logo</key>
+			<string>Medan</string>
+			<key>link</key>
+			<string>http://streaming.medanfm.id:9630/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Medan, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kardopa 99.5 FM</string>
+			<key>logo</key>
+			<string>Kardopa</string>
+			<key>link</key>
+			<string>http://103.28.148.18:8602/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Medan, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>A-Radio 103.8 FM</string>
+			<key>logo</key>
+			<string>A-Radio</string>
+			<key>link</key>
+			<string>http://s9.viastreaming.net:9480/listen.pls</string>
+			<key>http</key>
+			<string>https://a1.siar.us/radio/8270/radio.mp3?1590277667</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>http://dreamsiteradiocp2.com:8104/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1095,123 +1191,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>KISS 105 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>KISS</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.kissfm-medan.com:8080/kissfm.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live.kissfm-medan.com:8080/kissfm.mp3</string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Medan, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>AKSI 990 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>AKSI</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.indostreamserver.com:8152/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Medan, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Warastra FeMale 90 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Warastra</string>
 			<key>link</key>
-			<string></string>
+			<string>http://45.64.98.181:8046/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music (Medan, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2147,7 +2159,7 @@
 			<key>http</key>
 			<string>http://202.147.199.99:8000/;stream.nsv</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
