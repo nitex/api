@@ -399,9 +399,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 105 Happy Family</string>
+			<string>Happy Family FM 105</string>
 			<key>logo</key>
-			<string>Happy</string>
+			<string>105</string>
 			<key>link</key>
 			<string>http://prdonline.prd.go.th:8210/listen.pls</string>
 			<key>http</key>
@@ -867,11 +867,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>สถานีวิทยุเวียงกุมกาม FM 97.0</string>
 			<key>logo</key>
-			<string></string>
+			<string>97.0</string>
 			<key>link</key>
-			<string></string>
+			<string>http://43.254.133.120:8002/tuy9700.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -879,11 +879,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>วิทยุ เทคโนโลยี FM 97.25</string>
 			<key>logo</key>
-			<string></string>
+			<string>97.25</string>
 			<key>link</key>
-			<string></string>
+			<string>http://media.login.in.th:8080/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -891,11 +891,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CM77 97.5 วิทยุล้านนา</string>
 			<key>logo</key>
-			<string></string>
+			<string>CM77</string>
 			<key>link</key>
+			<string>http://202.129.206.117:9041/listen.pls</string>
+			<key>http</key>
+			<string>http://202.129.206.117:9041/;?type=http&amp;nocache=1068</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Happy Time FM 98</string>
+			<key>logo</key>
+			<string>Time</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8120/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -903,11 +915,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Happy Radio FM 98.50</string>
 			<key>logo</key>
-			<string></string>
+			<string>Happy</string>
 			<key>link</key>
-			<string></string>
+			<string>http://202.129.206.117:9037/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -915,11 +927,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Modern FM 98.75</string>
 			<key>logo</key>
-			<string></string>
+			<string>Modern</string>
 			<key>link</key>
-			<string></string>
+			<string>http://112.121.150.133:8203/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -927,11 +939,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>MAP FM 99.0</string>
 			<key>logo</key>
-			<string></string>
+			<string>MAP</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radio12.plathong.net:8982/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -939,11 +951,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>สถานีวิทยุเสียงสันติ FM 99.75</string>
 			<key>logo</key>
-			<string></string>
+			<string>99.75</string>
 			<key>link</key>
-			<string></string>
+			<string>http://122.155.12.77:8800/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -951,11 +963,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM 100 CMU</string>
 			<key>logo</key>
-			<string></string>
+			<string>CMU</string>
 			<key>link</key>
-			<string></string>
+			<string>http://202.28.248.205:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -963,11 +975,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>อสมท เชียงใหม่ FM 100.75</string>
 			<key>logo</key>
-			<string></string>
+			<string>100.75</string>
 			<key>link</key>
-			<string></string>
+			<string>http://rstream.mcot.net:9066/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -975,11 +987,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>สันติสุขล้านนาเรดิโอ FM 100.0</string>
 			<key>logo</key>
-			<string></string>
+			<string>100.0</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ktthai-r1.pkt.cc:8232/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -987,23 +999,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>สถานีวิทยุแม่โจ้เรดิโอ FM 101.25</string>
 			<key>logo</key>
-			<string></string>
+			<string>101.25</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://112.121.150.133:8126/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
