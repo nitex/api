@@ -63,13 +63,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>เสียงจากทหารเรือ FM 88.5</string>
+			<string>เสียงจากทหารเรือ FM</string>
 			<key>logo</key>
 			<string>kongthapruea1</string>
 			<key>link</key>
 			<string>http://radio12.plathong.net/7346/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radio12.plathong.net/8704/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -843,13 +843,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MCOT FM 96.50</string>
+			<string>MCOT FM</string>
 			<key>logo</key>
 			<string>96.50</string>
 			<key>link</key>
 			<string>http://rstream.mcot.net:9068/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://rstream.mcot.net:9022/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1167,11 +1167,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>ไทยพาวเวอร์เรดิโอ FM 95.75</string>
 			<key>logo</key>
-			<string></string>
+			<string>95.75</string>
 			<key>link</key>
-			<string></string>
+			<string>http://202.129.207.240:8884/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1179,11 +1179,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Tourist Station Pattaya FM 97.0</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tourist</string>
 			<key>link</key>
-			<string></string>
+			<string>http://onair.passionfm.asia:8058/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1191,11 +1191,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>PRD กรมประชาสัมพันธ์ ชลบุรี FM 99.75</string>
 			<key>logo</key>
-			<string></string>
+			<string>99.7</string>
 			<key>link</key>
+			<string>http://118.175.16.70:8012/listen.pls</string>
+			<key>http</key>
+			<string>http://helix-r2.prd.go.th/nbtradio/live_fm925_41.ogg</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number One 103.5 FM</string>
+			<key>logo</key>
+			<string>Number</string>
+			<key>link</key>
+			<string>http://onair.passionfm.asia:8052/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1203,11 +1215,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>สถานีวิทยุ กองพลทหารม้าที่</string>
 			<key>logo</key>
-			<string></string>
+			<string>8555</string>
 			<key>link</key>
-			<string></string>
+			<string>http://122.154.17.211:8555/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1215,11 +1227,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Trip 89.75 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Trip</string>
 			<key>link</key>
+			<string>http://media.login.in.th:1150/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Phuket (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุภูเก็ต FM 90.0</string>
+			<key>logo</key>
+			<string>90.0</string>
+			<key>link</key>
+			<string>http://lnwradio.com:9098/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1227,11 +1251,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Phuket Island 102.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Island</string>
 			<key>link</key>
+			<string>http://stream.phuketfmradio.com/pfmMP3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City FM 94.0</string>
+			<key>logo</key>
+			<string>94.0</string>
+			<key>link</key>
+			<string>http://radio10.plathong.net:8136/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุภูเก็ต FM 96.0</string>
+			<key>logo</key>
+			<string>96.0</string>
+			<key>link</key>
+			<string>http://112.121.151.133:8256/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1239,59 +1287,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>สถานีวิทยุภูเก็ต บวก FM 99.5</string>
 			<key>logo</key>
-			<string></string>
+			<string>99.5</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://ktthairadio.pkt.cc:8422/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1311,7 +1311,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>96.5 FM Thinking Radio</string>
+			<string>Thinking Radio 96.5 FM</string>
 			<key>logo</key>
 			<string>Thinking</string>
 			<key>link</key>
@@ -1323,7 +1323,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>98 Pynk FM</string>
+			<string>Pynk FM 98</string>
 			<key>logo</key>
 			<string>Pynk</string>
 			<key>link</key>
@@ -1347,7 +1347,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>103 Like FM</string>
+			<string>Like FM 103</string>
 			<key>logo</key>
 			<string>103</string>
 			<key>link</key>
@@ -1711,9 +1711,9 @@
 			<key>logo</key>
 			<string>96</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/pattaya-people-radio-96-fm,10795.m3u</string>
+			<string>http://s1.thailandstreaming.net:8020/yes2day.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/pattaya-people-radio-96-fm,10795.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1731,13 +1731,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Phuket Live 89.5</string>
+			<string>Phuket Live 89.5 FM</string>
 			<key>logo</key>
 			<string>Phuket</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/phuket-live-89-5,18241.m3u</string>
+			<string>http://myradio.plathong.net:8020/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/phuket-live-89-5,18241.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -1771,9 +1771,9 @@
 			<key>logo</key>
 			<string>Sunshine</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sunshine-radio-pattaya-fm-107-75-mhz,11126.m3u</string>
+			<string>http://icecast.piesoft.net:8000/pat.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/sunshine-radio-pattaya-fm-107-75-mhz,11126.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>

@@ -63,11 +63,11 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>95.5 Virgin Hitz</string>
+			<string>สถานีวิทยุกระจายเสียงรัฐสภา</string>
 			<key>logo</key>
-			<string>Virgin</string>
+			<string>Parliament</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/95-5-virgin-hitz,6048.m3u</string>
+			<string>http://49.231.66.85:1935/live/tpradio/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,7 +75,1255 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>96.5 FM Thinking Radio</string>
+			<string>เสียงจากทหารเรือ FM</string>
+			<key>logo</key>
+			<string>kongthapruea1</string>
+			<key>link</key>
+			<string>http://radio12.plathong.net/7346/listen.pls</string>
+			<key>http</key>
+			<string>http://radio12.plathong.net/8704/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>วิทยุสังฆทานธรรม FM 89.25</string>
+			<key>logo</key>
+			<string>sanghathandham</string>
+			<key>link</key>
+			<string>http://202.29.13.25:8000/sanghathan.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุเพื่อการศึกษาและพัฒนาอาชีพ</string>
+			<key>logo</key>
+			<string>r-network</string>
+			<key>link</key>
+			<string>http://liveedge1.eazystreaming.com:1935/live/vec_live.sdp/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ลูกทุ่งรักไทย ๙๐ - กรุงเทพมหานคร FM 90</string>
+			<key>logo</key>
+			<string>90</string>
+			<key>link</key>
+			<string>http://radio11.plathong.net:8896/listen.pls</string>
+			<key>http</key>
+			<string>http://radio11.plathong.net:8896/;stream.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Smart Radio FM 90.5</string>
+			<key>logo</key>
+			<string>Smart</string>
+			<key>link</key>
+			<string>http://live3.smartbomb.co.th:8624/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RMUTP 90.75 FM</string>
+			<key>logo</key>
+			<string>RMUTP</string>
+			<key>link</key>
+			<string>http://203.158.239.184:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ข่าวจราจร สวพ FM 91.0</string>
+			<key>logo</key>
+			<string>trafficpro</string>
+			<key>link</key>
+			<string>http://122.155.16.48:8955/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FresZ FM 91.5</string>
+			<key>logo</key>
+			<string>FresZ</string>
+			<key>link</key>
+			<string>http://stream.freszfm.com:8000/Radio_fresz915FM.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kreenjai ใจมวลชน FM 92.25</string>
+			<key>logo</key>
+			<string>Kreenjai</string>
+			<key>link</key>
+			<string>http://icecast.piesoft.net:8000/kreenjairadio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุสัมพันธ์ยานนาวา</string>
+			<key>logo</key>
+			<string>sdradio</string>
+			<key>link</key>
+			<string>http://fm-99.com:8612/listen.pls</string>
+			<key>http</key>
+			<string>http://fm-99.com:8610/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>เครือข่ายวิทยุฯแห่งชาติ TOP FM 93.5</string>
+			<key>logo</key>
+			<string>fm935</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8204/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Top Pop Music 93.5 FM</string>
+			<key>logo</key>
+			<string>Pop</string>
+			<key>link</key>
+			<string>http://radio99.servradio.com:9336/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>บางกอกสไมล์ FM 94</string>
+			<key>logo</key>
+			<string>94</string>
+			<key>link</key>
+			<string>http://fm94.tv5.co.th:8000/fm94ch3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>กรมการทหารสื่อสาร</string>
+			<key>logo</key>
+			<string>jss</string>
+			<key>link</key>
+			<string>http://radio.vpsthai.net:8058/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>อสมท ลูกทุ่งมหานคร FM 95</string>
+			<key>logo</key>
+			<string>95</string>
+			<key>link</key>
+			<string>http://mcotdigital-1wevsb.cdn.byteark.com/radiocdn_edge/fm95.stream_aac/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SMM Sport FM 96.0</string>
+			<key>logo</key>
+			<string>SMM</string>
+			<key>link</key>
+			<string>https://cdn-th2.login.in.th/shoutcast/8550</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quality News Station FM 97.0</string>
+			<key>logo</key>
+			<string>Quality</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8208/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>คลื่นบ้านเลขที่1 FM 97.25</string>
+			<key>logo</key>
+			<string>ssru</string>
+			<key>link</key>
+			<string>http://203.155.54.216:8080/radio.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mellow 97.5 FM</string>
+			<key>logo</key>
+			<string>Mellow</string>
+			<key>link</key>
+			<string>http://mcotdigital-3bgyw0.cdn.byteark.com/radiocdn_edge/fm975.stream_aac/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star FM 98.0</string>
+			<key>logo</key>
+			<string>Sta</string>
+			<key>link</key>
+			<string>http://wzorigin.becteroradio.com/Star/Star-Listen-Med/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุบางกรวย FM 98.25</string>
+			<key>logo</key>
+			<string>nonthaburi9825</string>
+			<key>link</key>
+			<string>http://radio11.plathong.net:7226/listen.pls</string>
+			<key>http</key>
+			<string>http://radio11.plathong.net:7230/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Spring Radio 98.5 FM</string>
+			<key>logo</key>
+			<string>Spring</string>
+			<key>link</key>
+			<string>http://110.164.48.210:8000/springnewbackup.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UFM 100.25</string>
+			<key>logo</key>
+			<string>UFM</string>
+			<key>link</key>
+			<string>http://icecast.piesoft.net:8000/ufmradio.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>พงษ์พันธ์ 100.75 FM</string>
+			<key>logo</key>
+			<string>100</string>
+			<key>link</key>
+			<string>http://radio.portradiothai.com:6010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CU สถานีวิทยุจุฬาฯ 101.50 FM</string>
+			<key>logo</key>
+			<string>CU</string>
+			<key>link</key>
+			<string>http://radio.portradiothai.com:8080/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุกระจายเสียง ขส.ทบ.</string>
+			<key>logo</key>
+			<string>krom</string>
+			<key>link</key>
+			<string>http://media.login.in.th:1100/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>เสียงธรรมเพื่อประชาชนฯ</string>
+			<key>logo</key>
+			<string>sian</string>
+			<key>link</key>
+			<string>http://202.142.203.28:8000/siangdham.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM ONE 103.5</string>
+			<key>logo</key>
+			<string>ONE</string>
+			<key>link</key>
+			<string>http://fmone.plathong.net:7010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Happy Family FM 105</string>
+			<key>logo</key>
+			<string>105</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8210/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>คลื่นเพลงไทยลูกทุ่ง FM 107.25</string>
+			<key>logo</key>
+			<string>World</string>
+			<key>link</key>
+			<string>http://radio.dwebsalehost.com:9076/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Thai PBS</string>
+			<key>logo</key>
+			<string>Thai</string>
+			<key>link</key>
+			<string>http://radio2.thzhost.com:4056/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD Kanchanaburi AM 558</string>
+			<key>logo</key>
+			<string>Kanchanaburi</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8006/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ลูกทุ่งสวัสดี 576</string>
+			<key>logo</key>
+			<string>576</string>
+			<key>link</key>
+			<string>http://live3.smartbomb.co.th:8902/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>เสียงจากทหารเรือ AM 675</string>
+			<key>logo</key>
+			<string>675</string>
+			<key>link</key>
+			<string>http://radio12.plathong.net/9912/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD AM 819</string>
+			<key>logo</key>
+			<string>819</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8212/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD AM 837</string>
+			<key>logo</key>
+			<string>837</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8214/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TU AM 981</string>
+			<key>logo</key>
+			<string>TU</string>
+			<key>link</key>
+			<string>http://203.131.210.196:8000/stream1/stream_live;type=http&amp;nocache=17</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AM 999</string>
+			<key>logo</key>
+			<string>999</string>
+			<key>link</key>
+			<string>http://103.22.182.153:8344/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>อสมท คลื่นเพลงเพื่อชีวิต AM 1143</string>
+			<key>logo</key>
+			<string>1143</string>
+			<key>link</key>
+			<string>http://rstream.mcot.net:8000/am1143.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>เสียงสามยอด AM 1179</string>
+			<key>logo</key>
+			<string>1179</string>
+			<key>link</key>
+			<string>http://myradio.plathong.net:8068/listen.pls</string>
+			<key>http</key>
+			<string>http://radio12.plathong.net:7002/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ลูกทุ่งสวัสดี 1287</string>
+			<key>logo</key>
+			<string>1287</string>
+			<key>link</key>
+			<string>http://www.radio.tmd.go.th:8014/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD สวศ.ส่วนกลาง 1467 AM</string>
+			<key>logo</key>
+			<string>1467</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8018/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Like Station AM 1494</string>
+			<key>logo</key>
+			<string>1494</string>
+			<key>link</key>
+			<string>http://rstream.mcot.net:8000/am1494.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>วิทยุสราญรมย์ AM 1575</string>
+			<key>logo</key>
+			<string>1575</string>
+			<key>link</key>
+			<string>http://saranrom.mfa.go.th/liveradio/am1575.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD AM 1593</string>
+			<key>logo</key>
+			<string>1593</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8012/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุรณรงค์รักษ์สิ่งแวดล้อม FM 87.50</string>
+			<key>logo</key>
+			<string>87</string>
+			<key>link</key>
+			<string>http://43.254.133.120:8000/ter1.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>นครพิงค์ล้านนาเรดิโอ FM 87.75</string>
+			<key>logo</key>
+			<string>75</string>
+			<key>link</key>
+			<string>http://radio11.plathong.net/8720/;stream.mp3</string>
+			<key>http</key>
+			<string>https://radio11.plathong.net/8720/;stream.mp3?type=http</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chiang Mai Live FM 88.5</string>
+			<key>logo</key>
+			<string>Chiang</string>
+			<key>link</key>
+			<string>http://202.29.60.203:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุคนลูกทุ่งเชียงใหม่ FM 88.75</string>
+			<key>logo</key>
+			<string>88.75</string>
+			<key>link</key>
+			<string>http://shoutcast2.cmru.ac.th:8000/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>วิทยุอีสานสัมพันธ์ ฮักกันคนล้านนา FM 90.25</string>
+			<key>logo</key>
+			<string>90.25</string>
+			<key>link</key>
+			<string>http://ktthairadio.pkt.cc:8042/listen.pls</string>
+			<key>http</key>
+			<string>http://103.13.31.69:8042/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Atomic Radio FM 90.5</string>
+			<key>logo</key>
+			<string>Atomic</string>
+			<key>link</key>
+			<string>http://radio12.plathong.net:7184/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>บีเคเรดิโอ FM 90.75</string>
+			<key>logo</key>
+			<string>BK</string>
+			<key>link</key>
+			<string>http://radio10.plathong.net:7414/listen.pls</string>
+			<key>http</key>
+			<string>https://radio10.plathong.net/7414/;stream.mp3?type=http</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lanna FM 91.25</string>
+			<key>logo</key>
+			<string>Lanna</string>
+			<key>link</key>
+			<string>http://media.login.in.th:2000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>GSSM FM 91.75</string>
+			<key>logo</key>
+			<string>GSSM</string>
+			<key>link</key>
+			<string>http://112.121.151.133:8274/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>คลื่นรักเชียงใหม่ 51 FM</string>
+			<key>logo</key>
+			<string>51</string>
+			<key>link</key>
+			<string>http://112.121.150.133:8252/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HUG FM 92.75</string>
+			<key>logo</key>
+			<string>HUG</string>
+			<key>link</key>
+			<string>http://sv1.nakhonradio.com:9017/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MUN FM 93.00</string>
+			<key>logo</key>
+			<string>MUN</string>
+			<key>link</key>
+			<string>http://103.246.18.3:4018/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/music-radio,13819.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD กรมประชาสัมพันธ์ เชียงใหม่ FM 93.25</string>
+			<key>logo</key>
+			<string>PRD</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8118/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Puthep FM 93.50</string>
+			<key>logo</key>
+			<string>Puthep</string>
+			<key>link</key>
+			<string>http://ohmi-design.com:9030/listen.pls</string>
+			<key>http</key>
+			<string>http://ohmi-design.com:9030/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุนครเชียงใหม FM 94.25</string>
+			<key>logo</key>
+			<string>94.25</string>
+			<key>link</key>
+			<string>http://fmthai.net:9208/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XFM 94.5</string>
+			<key>logo</key>
+			<string>XFM</string>
+			<key>link</key>
+			<string>http://stream.xfmnetwork.com:8613/listen.pls</string>
+			<key>http</key>
+			<string>https://radio12.plathong.net/7360/;stream.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD กรมประชาสัมพันธ์ ลำพูน FM 95.0</string>
+			<key>logo</key>
+			<string>95</string>
+			<key>link</key>
+			<string>http://202.129.35.2:8016/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Star Radio FM 95.25</string>
+			<key>logo</key>
+			<string>StarRadio</string>
+			<key>link</key>
+			<string>http://112.121.151.133:8152/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MJU</string>
+			<key>logo</key>
+			<string>MJU</string>
+			<key>link</key>
+			<string>https://radio.ohmi-design.com:8490/;?type=http&amp;nocache=258/</string>
+			<key>http</key>
+			<string>http://112.121.150.133:8282/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุห้องส่งวัดอินทขิล FM 96.00</string>
+			<key>logo</key>
+			<string>intakin</string>
+			<key>link</key>
+			<string>http://radio2.thzhost.com:4102/;?type=http&amp;nocache=70253</string>
+			<key>http</key>
+			<string>http://radio4.thzhost.com:4130/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MCOT FM</string>
+			<key>logo</key>
+			<string>96.50</string>
+			<key>link</key>
+			<string>http://rstream.mcot.net:9068/listen.pls</string>
+			<key>http</key>
+			<string>http://rstream.mcot.net:9022/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Love OK Click Station 96.75</string>
+			<key>logo</key>
+			<string>Click</string>
+			<key>link</key>
+			<string>http://media.login.in.th:1630/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุเวียงกุมกาม FM 97.0</string>
+			<key>logo</key>
+			<string>97.0</string>
+			<key>link</key>
+			<string>http://43.254.133.120:8002/tuy9700.m3u</string>
+			<key>http</key>
+			<string>http://43.254.133.120:8000/tuysuree102.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>วิทยุ เทคโนโลยี FM 97.25</string>
+			<key>logo</key>
+			<string>97.25</string>
+			<key>link</key>
+			<string>http://media.login.in.th:8080/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CM77 97.5 วิทยุล้านนา</string>
+			<key>logo</key>
+			<string>CM77</string>
+			<key>link</key>
+			<string>http://202.129.206.117:9041/listen.pls</string>
+			<key>http</key>
+			<string>http://202.129.206.117:9041/;?type=http&amp;nocache=1068</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Happy Time FM 98</string>
+			<key>logo</key>
+			<string>Time</string>
+			<key>link</key>
+			<string>http://prdonline.prd.go.th:8120/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Happy Radio FM 98.50</string>
+			<key>logo</key>
+			<string>Happy</string>
+			<key>link</key>
+			<string>http://202.129.206.117:9037/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Modern FM 98.75</string>
+			<key>logo</key>
+			<string>Modern</string>
+			<key>link</key>
+			<string>http://112.121.150.133:8203/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MAP FM 99.0</string>
+			<key>logo</key>
+			<string>MAP</string>
+			<key>link</key>
+			<string>http://radio12.plathong.net:8982/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุเสียงสันติ FM 99.75</string>
+			<key>logo</key>
+			<string>99.75</string>
+			<key>link</key>
+			<string>http://122.155.12.77:8800/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 100 CMU</string>
+			<key>logo</key>
+			<string>CMU</string>
+			<key>link</key>
+			<string>http://202.28.248.205:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>อสมท เชียงใหม่ FM 100.75</string>
+			<key>logo</key>
+			<string>100.75</string>
+			<key>link</key>
+			<string>http://rstream.mcot.net:9066/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สันติสุขล้านนาเรดิโอ FM 100.0</string>
+			<key>logo</key>
+			<string>100.0</string>
+			<key>link</key>
+			<string>http://ktthai-r1.pkt.cc:8232/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุแม่โจ้เรดิโอ FM 101.25</string>
+			<key>logo</key>
+			<string>101.25</string>
+			<key>link</key>
+			<string>http://112.121.150.133:8126/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุ ทภ.3 FM 101.5</string>
+			<key>logo</key>
+			<string>101.5</string>
+			<key>link</key>
+			<string>http://radio.servradio.com:8606/listen.pls</string>
+			<key>http</key>
+			<string>http://radio.servradio.com:9068/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุ ม.พายัพ FM 101.75</string>
+			<key>logo</key>
+			<string>payap</string>
+			<key>link</key>
+			<string>http://27.254.57.247:8010/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>คลองท่อมเรดิโอ FM 102.75</string>
+			<key>logo</key>
+			<string>102.75</string>
+			<key>link</key>
+			<string>http://43.254.133.120:8002/kt10275.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>เอสพีเรดิโอ FM 102.75</string>
+			<key>logo</key>
+			<string>102.7</string>
+			<key>link</key>
+			<string>http://ktthai-r2.pkt.cc:8752/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ไซเรน เรดิโอ FM 104.0</string>
+			<key>logo</key>
+			<string>siren</string>
+			<key>link</key>
+			<string>http://ktthaionline.pkt.cc:8818/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Live FM 104.25</string>
+			<key>logo</key>
+			<string>104.25</string>
+			<key>link</key>
+			<string>http://112.121.151.133:8114/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>คลื่นสายธารแห่งศรัทธา FM 105.5</string>
+			<key>logo</key>
+			<string>105.5</string>
+			<key>link</key>
+			<string>http://119.59.120.30:6036/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Friend FM 105.75</string>
+			<key>logo</key>
+			<string>Friend</string>
+			<key>link</key>
+			<string>http://112.121.150.133:8271/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>วิทยุ มหาจุฬาฯ เชียงใหม่ FM 106.0</string>
+			<key>logo</key>
+			<string>106.0</string>
+			<key>link</key>
+			<string>http://media.login.in.th:8100/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุเชียงใหม่มหานคร FM 107.25</string>
+			<key>logo</key>
+			<string>107.25</string>
+			<key>link</key>
+			<string>http://43.254.133.120:8002/cm107.25.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CRI China Plus</string>
+			<key>logo</key>
+			<string>CRI</string>
+			<key>link</key>
+			<string>http://cnlive.cnr.cn/hls/yyzxgb.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD กรมประชาสัมพันธ์ เชียงใหม่ AM 1476</string>
+			<key>logo</key>
+			<string>1476</string>
+			<key>link</key>
+			<string>http://202.129.35.2:8014/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nashaa 90.75 FM</string>
+			<key>logo</key>
+			<string>Nashaa</string>
+			<key>link</key>
+			<string>http://s1.thailandstreaming.net:8020/nashaa.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ไทยพาวเวอร์เรดิโอ FM 95.75</string>
+			<key>logo</key>
+			<string>95.75</string>
+			<key>link</key>
+			<string>http://202.129.207.240:8884/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tourist Station Pattaya FM 97.0</string>
+			<key>logo</key>
+			<string>Tourist</string>
+			<key>link</key>
+			<string>http://onair.passionfm.asia:8058/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>PRD กรมประชาสัมพันธ์ ชลบุรี FM 99.75</string>
+			<key>logo</key>
+			<string>99.7</string>
+			<key>link</key>
+			<string>http://118.175.16.70:8012/listen.pls</string>
+			<key>http</key>
+			<string>http://helix-r2.prd.go.th/nbtradio/live_fm925_41.ogg</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Number One 103.5 FM</string>
+			<key>logo</key>
+			<string>Number</string>
+			<key>link</key>
+			<string>http://onair.passionfm.asia:8052/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุ กองพลทหารม้าที่</string>
+			<key>logo</key>
+			<string>8555</string>
+			<key>link</key>
+			<string>http://122.154.17.211:8555/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trip 89.75 FM</string>
+			<key>logo</key>
+			<string>Trip</string>
+			<key>link</key>
+			<string>http://media.login.in.th:1150/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Phuket (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุภูเก็ต FM 90.0</string>
+			<key>logo</key>
+			<string>90.0</string>
+			<key>link</key>
+			<string>http://lnwradio.com:9098/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Phuket Island 102.5 FM</string>
+			<key>logo</key>
+			<string>Island</string>
+			<key>link</key>
+			<string>http://stream.phuketfmradio.com/pfmMP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City FM 94.0</string>
+			<key>logo</key>
+			<string>94.0</string>
+			<key>link</key>
+			<string>http://radio10.plathong.net:8136/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุภูเก็ต FM 96.0</string>
+			<key>logo</key>
+			<string>96.0</string>
+			<key>link</key>
+			<string>http://112.121.151.133:8256/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>สถานีวิทยุภูเก็ต บวก FM 99.5</string>
+			<key>logo</key>
+			<string>99.5</string>
+			<key>link</key>
+			<string>http://ktthairadio.pkt.cc:8422/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HitZ 95.5 FM</string>
+			<key>logo</key>
+			<string>HitZ</string>
+			<key>link</key>
+			<string>http://wzorigin.becteroradio.com/Hitz/Hitz-Listen-Med/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/95-5-virgin-hitz,6048.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Thinking Radio 96.5 FM</string>
 			<key>logo</key>
 			<string>Thinking</string>
 			<key>link</key>
@@ -87,7 +1335,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>98 Pynk FM</string>
+			<string>Pynk FM 98</string>
 			<key>logo</key>
 			<string>Pynk</string>
 			<key>link</key>
@@ -99,37 +1347,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>101 สถานีวิทยุ FM</string>
+			<string>สถานีวิทยุ FM 101</string>
 			<key>logo</key>
 			<string>101</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/101-rrone-fm-radio-report-one,15203.m3u</string>
+			<string>http://media.login.in.th:8135/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/101-rrone-fm-radio-report-one,15203.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>103 Like FM</string>
+			<string>Like FM 103</string>
 			<key>logo</key>
 			<string>103</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/103-like-fm,15205.m3u</string>
+			<string>http://103radio.cdnth.com/radio/likefm/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/103-like-fm,15205.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Active 99 FM</string>
+			<string>Active 99 FM อสมท</string>
 			<key>logo</key>
-			<string>99</string>
+			<string>Active</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/active-99-fm-sports-healthy,11119.m3u</string>
+			<string>http://mcotdigital-gvwieh.cdn.byteark.com/radiocdn_edge/fm99.stream_aac/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/active-99-fm-sports-healthy,11119.m3u</string>
 			<key>note</key>
 			<string>Sport</string>
 		</dict>
@@ -159,37 +1407,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bangkok 891 AM</string>
+			<string>PRD 891 AM</string>
 			<key>logo</key>
 			<string>891</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-bangkok-891-am,17006.m3u</string>
+			<string>http://prdonline.prd.go.th:8216/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-bangkok-891-am,17006.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bangkok 918 AM</string>
+			<string>PRD 918 AM</string>
 			<key>logo</key>
 			<string>918</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-bangkok-918-am,17007.m3u</string>
+			<string>http://prdonline.prd.go.th:8218/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-bangkok-918-am,17007.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Big 103.5</string>
+			<string>Big สถานีวิทยุ บิ๊กเอฟเอ็ม</string>
 			<key>logo</key>
 			<string>Big</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/big-103-5-dsl,6531.m3u</string>
+			<string>http://radio.spicymkt.com:8700/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/big-103-5-dsl,6531.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -219,15 +1467,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Chiangmai Radio 93.75</string>
+			<string>Chiang Mai FM 93.75</string>
 			<key>logo</key>
-			<string>Chiangmai</string>
+			<string>Mai</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/chiangmai-radio-93-75,11130.m3u</string>
+			<string>http://112.121.151.133:8124/live.m3u</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-chiangmai-fm-93-25-mhz,11128.m3u</string>
 			<key>note</key>
-			<string>Local</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -247,21 +1495,21 @@
 			<key>logo</key>
 			<string>City</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/city-radio,9598.m3u</string>
+			<string>http://onair.passionfm.asia:8006/live2.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/city-radio,9598.m3u</string>
 			<key>note</key>
 			<string>Pattaya (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Cool 93 FM</string>
+			<string>Cool Farenheit 93</string>
 			<key>logo</key>
 			<string>93</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/cool-93-fm,11123.m3u</string>
+			<string>http://111.223.51.8:8000/listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/coolcelsius-91-5,17385.m3u</string>
+			<string>http://www.surfmusic.de/m3u/cool-93-fm,11123.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -271,9 +1519,9 @@
 			<key>logo</key>
 			<string>Eazy</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/eazy-fm105-5,6050.m3u</string>
+			<string>http://wzorigin.becteroradio.com/Eazy/Eazy-Listen-Med/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/eazy-fm105-5,6050.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -283,9 +1531,9 @@
 			<key>logo</key>
 			<string>EFM</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/94-efm,15202.m3u</string>
+			<string>http://real4.atimemedia.com/efm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/94-efm,15202.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -315,51 +1563,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 100.5 MCOT News Station</string>
+			<string>MCOT FM 100.5 อสมท คลื่นข่าว</string>
 			<key>logo</key>
-			<string>Station</string>
+			<string>MCOT</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-100-5-fm-news-station,11120.m3u</string>
+			<string>http://rstream.mcot.net:8000/fm1005.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-100-5-fm-news-station,11120.m3u</string>
 			<key>note</key>
 			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM MET 107</string>
+			<string>Met 107.0 FM</string>
 			<key>logo</key>
 			<string>MET</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-107-met-107,11121.m3u</string>
+			<string>http://mcotdigital-w9rpgl.cdn.byteark.com/radiocdn_edge/fm107.stream_aac/playlist.m3u8</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/met-107,12132.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 88</string>
+			<string>PRD English Service 88 FM</string>
 			<key>logo</key>
 			<string>88</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-88,17164.m3u</string>
+			<string>http://prdonline.prd.go.th:8200/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-88,17164.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 92.5</string>
+			<string>เครือข่ายวิทยุฯแห่งชาติ FM 92.5</string>
 			<key>logo</key>
 			<string>92</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-92-5,15199.m3u</string>
+			<string>http://prdonline.prd.go.th:8202/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-92-5,15199.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -387,9 +1635,9 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Greenwave 106.5 FM</string>
+			<string>Green Wave 106.5 FM</string>
 			<key>logo</key>
-			<string>Greenwave</string>
+			<string>Green</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/greenwave-106-5-fm,11385.m3u</string>
 			<key>http</key>
@@ -411,7 +1659,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Kiss 91.75</string>
+			<string>Kiss 91.75 FM</string>
 			<key>logo</key>
 			<string>Kiss</string>
 			<key>link</key>
@@ -447,18 +1695,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>MUNFM Music Radio</string>
-			<key>logo</key>
-			<string>MUNFM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/music-radio,13819.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Nation Radio 90.5 FM</string>
 			<key>logo</key>
 			<string>Nation</string>
@@ -487,9 +1723,9 @@
 			<key>logo</key>
 			<string>96</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/pattaya-people-radio-96-fm,10795.m3u</string>
+			<string>http://s1.thailandstreaming.net:8020/yes2day.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/pattaya-people-radio-96-fm,10795.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -507,13 +1743,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Phuket Live 89.5</string>
+			<string>Phuket Live 89.5 FM</string>
 			<key>logo</key>
 			<string>Phuket</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/phuket-live-89-5,18241.m3u</string>
+			<string>http://myradio.plathong.net:8020/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/phuket-live-89-5,18241.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -547,9 +1783,9 @@
 			<key>logo</key>
 			<string>Sunshine</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sunshine-radio-pattaya-fm-107-75-mhz,11126.m3u</string>
+			<string>http://icecast.piesoft.net:8000/pat.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/sunshine-radio-pattaya-fm-107-75-mhz,11126.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -579,7 +1815,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Thailand 97 FM</string>
+			<string>PRD 97 FM</string>
 			<key>logo</key>
 			<string>97</string>
 			<key>link</key>
