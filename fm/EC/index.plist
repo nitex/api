@@ -339,11 +339,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sensación 800 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>800</string>
 			<key>link</key>
-			<string></string>
+			<string>http://198.15.70.122:9954/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -351,11 +351,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Positiva 860 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Positiva</string>
 			<key>link</key>
+			<string>http://srv7.icecaster.com:8000/radiopositivaonline.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Democracia 920 AM</string>
+			<key>logo</key>
+			<string>Democracia</string>
+			<key>link</key>
+			<string>http://200.105.233.4:1046/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +375,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Casa de la Cultura 940 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Casa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://66.226.76.170:8026/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Pantera 960 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pantera</string>
 			<key>link</key>
-			<string></string>
+			<string>http://190.52.193.147:8000/radiotupantera.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Tarquí 990 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>990</string>
 			<key>link</key>
-			<string></string>
+			<string>http://makrodigital.com:8038/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +411,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Metropolitana 1240 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Metropolitana</string>
 			<key>link</key>
-			<string></string>
+			<string>http://50.22.219.37:21308/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,11 +423,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Monumental</string>
 			<key>logo</key>
-			<string></string>
+			<string>Monumental</string>
 			<key>link</key>
-			<string></string>
+			<string>http://srv7.icecaster.com:8000/radiomonumental.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,11 +435,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cristal 870 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cristal</string>
 			<key>link</key>
-			<string></string>
+			<string>http://148.251.128.213:9982/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -435,11 +447,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>El Tiempo 1410 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tiempo</string>
 			<key>link</key>
-			<string></string>
+			<string>https://sv70.ecuaradiotv.net:8000/eltiempohd</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -447,23 +459,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Futura 1430 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Futura</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://173.236.19.90:8120/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -831,13 +831,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Diblu FM 88.9</string>
+			<string>Diblu 88.9 FM</string>
 			<key>logo</key>
 			<string>Diblu</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/diblu-fm-88-9,16782.m3u</string>
+			<string>http://streamingecuador.net:9302/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/diblu-fm-88-9,16782.m3u</string>
 			<key>note</key>
 			<string>Guayaquil (Local)</string>
 		</dict>
