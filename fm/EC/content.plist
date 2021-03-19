@@ -63,11 +63,83 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Pública FM</string>
+			<string>11Q 104.9 FM</string>
 			<key>logo</key>
-			<string>Publica</string>
+			<string>11Q</string>
 			<key>link</key>
-			<string>http://equinox.shoutca.st:8710/listen.pls</string>
+			<string>http://makrodigital.com:8012/11Q.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alegria 98.5 FM</string>
+			<key>logo</key>
+			<string>Alegria</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-alegria-98-5-fm,14970.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Ambato, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alfa 98.5 FM</string>
+			<key>logo</key>
+			<string>Alfa</string>
+			<key>link</key>
+			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>America</string>
+			<key>logo</key>
+			<string>America</string>
+			<key>link</key>
+			<string>https://streamingecuador.net:9100/stream.m3u</string>
+			<key>http</key>
+			<string>https://streamingecuador.net:9101/stream.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antena 3</string>
+			<key>logo</key>
+			<string>Antena</string>
+			<key>link</key>
+			<string>http://makrodigital.com:8177/Radio_Antena3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Armonica</string>
+			<key>logo</key>
+			<string>Armonica</string>
+			<key>link</key>
+			<string>http://195.154.182.222:25194/live</string>
+			<key>http</key>
+			<string>http://38.96.148.216:9050/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Asamblea Nacional</string>
+			<key>logo</key>
+			<string>Asamblea</string>
+			<key>link</key>
+			<string>http://181.198.32.153:8000/laradio</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +147,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La Metro FM</string>
+			<string>Atalaya 680 AM</string>
 			<key>logo</key>
-			<string>Metro</string>
+			<string>Atalaya</string>
 			<key>link</key>
-			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8</string>
+			<string>http://207.210.96.241:8002/listen.pls</string>
+			<key>http</key>
+			<string>http://str.ecuastreaming.com:9978/;</string>
+			<key>note</key>
+			<string>News, Talk, Sport (Guayaquil, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBN</string>
+			<key>logo</key>
+			<string>BBN</string>
+			<key>link</key>
+			<string>https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Blue</string>
+			<key>logo</key>
+			<string>Blue</string>
+			<key>link</key>
+			<string>https://streamingecuador.net:7061/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +183,275 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>JM 88.9 FM</string>
+			<string>Cadena Democracia 920 AM</string>
 			<key>logo</key>
-			<string>JM</string>
+			<string>Democracia</string>
 			<key>link</key>
-			<string>http://ecuastream.net:8072/JM_Radio.m3u</string>
+			<string>http://200.105.233.4:1046/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Canela</string>
+			<key>logo</key>
+			<string>Canela</string>
+			<key>link</key>
+			<string>https://stream.pentaedro.info:9025/stream.m3u</string>
+			<key>http</key>
+			<string>https://stream.pentaedro.info:9027/stream.m3u</string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caravana 750 AM</string>
+			<key>logo</key>
+			<string>Caravana</string>
+			<key>link</key>
+			<string>https://streamingecuador.net:9006/stream.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-caravana,715.m3u</string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Casa de la Cultura 940 AM</string>
+			<key>logo</key>
+			<string>Casa</string>
+			<key>link</key>
+			<string>http://66.226.76.170:8026/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chicha Mix</string>
+			<key>logo</key>
+			<string>Chicha</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.163.82:27970/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.163.82:27970/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>City 89.3 FM</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://198.15.77.50:9564/;</string>
+			<key>http</key>
+			<string>http://streamingecuador.net:9330/listen.pls</string>
+			<key>note</key>
+			<string>News</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Continental 1320</string>
+			<key>logo</key>
+			<string>Continental</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-continental-1320,14953.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ambato (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CRE Satelital</string>
+			<key>logo</key>
+			<string>CRE</string>
+			<key>link</key>
+			<string>http://ecuastream.com:9022/listen.pls</string>
+			<key>http</key>
+			<string>https://ecuastreams.com/medios/radio/232-833-CRE/web/playlist.php?eiplist=listen.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Sport (Guayaquil, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cristal 870 AM</string>
+			<key>logo</key>
+			<string>Cristal</string>
+			<key>link</key>
+			<string>http://148.251.128.213:9982/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cumbia</string>
+			<key>logo</key>
+			<string>Cumbia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cumbre 102.5 FM</string>
+			<key>logo</key>
+			<string>Cumbre</string>
+			<key>link</key>
+			<string>http://184.107.210.202:1935/efrasyste/cumbre.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.202:7048/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cupido 95.3 FM</string>
+			<key>logo</key>
+			<string>Cupido</string>
+			<key>link</key>
+			<string>http://streamingecuador.net:9318/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cuyabeno 98.1 FM</string>
+			<key>logo</key>
+			<string>Cuyabeno</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-cuyabeno-98-1-fm,20150.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Nueva Loja (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diblu 88.9 FM</string>
+			<key>logo</key>
+			<string>Diblu</string>
+			<key>link</key>
+			<string>http://streamingecuador.net:9302/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/diblu-fm-88-9,16782.m3u</string>
+			<key>note</key>
+			<string>Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dorado</string>
+			<key>logo</key>
+			<string>Dorado</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9508/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9508/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ecua Stereo</string>
+			<key>logo</key>
+			<string>Ecua</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ecua-stereo,17973.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cuenca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ecuador Vallenato</string>
+			<key>logo</key>
+			<string>Vallenato</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.19:3697/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.19:3697/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ecuashyri 104.9 FM</string>
+			<key>logo</key>
+			<string>Ecuashyri</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-ecuashyri-104-9-fm,16842.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Tiempo 1410 AM</string>
+			<key>logo</key>
+			<string>Tiempo</string>
+			<key>link</key>
+			<string>https://sv70.ecuaradiotv.net:8000/eltiempohd</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Elite 99.7 FM</string>
+			<key>logo</key>
+			<string>Elite</string>
+			<key>link</key>
+			<string>http://streamingecuador.net:9342/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eres 93.3 FM</string>
+			<key>logo</key>
+			<string>Eres</string>
+			<key>link</key>
+			<string>http://99.198.118.250:8068/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estrella 92.1 FM</string>
+			<key>logo</key>
+			<string>Estrella</string>
+			<key>link</key>
+			<string>https://aacplus.rstreaminghd.com:7019/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fabu 105.7 FM</string>
+			<key>logo</key>
+			<string>Fabu</string>
+			<key>link</key>
+			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-fabu-gy.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,55 +471,67 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Platinum</string>
+			<string>Fiesta La Grande de Machala</string>
 			<key>logo</key>
-			<string>Platinum</string>
+			<string>Fiesta</string>
 			<key>link</key>
-			<string>https://streamingecuador.net:8160/radioplatinum.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.ecuastream.com:9050/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.ecuastream.com:9050/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Nuevo Tiempo</string>
+			<string>FM Mundo 98.1</string>
 			<key>logo</key>
-			<string>Nuevo</string>
+			<string>Mundo</string>
 			<key>link</key>
-			<string>https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8</string>
+			<string>http://streamingecuador.net:9314/listen.pls</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Forever 92.5 FM</string>
+			<key>logo</key>
+			<string>Forever</string>
+			<key>link</key>
+			<string>http://makrodigital.com:8014/forever.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Futura 1430 AM</string>
+			<key>logo</key>
+			<string>Futura</string>
+			<key>link</key>
+			<string>http://173.236.19.90:8120/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galactica 1230 AM</string>
+			<key>logo</key>
+			<string>Galactica</string>
+			<key>link</key>
+			<string>http://stream.dattastreaming.com:1935/streamaac/9250/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://195.154.56.114:9250/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La Poderosa 92.9 FM</string>
-			<key>logo</key>
-			<string>Poderosa</string>
-			<key>link</key>
-			<string>http://makrodigital.net:9008/Radio_La_Poderosa.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Eres 93.3 FM</string>
-			<key>logo</key>
-			<string>Eres</string>
-			<key>link</key>
-			<string>http://99.198.118.250:8068/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Galaxia FM</string>
+			<string>Galaxia</string>
 			<key>logo</key>
 			<string>Galaxia</string>
 			<key>link</key>
@@ -167,19 +539,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Católica Nacional</string>
-			<key>logo</key>
-			<string>Nacional</string>
-			<key>link</key>
-			<string>http://186.4.136.144:8000/stream</string>
-			<key>http</key>
-			<string>http://audio.waag.org:8000/rcato.mp3.m3u</string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -191,15 +551,39 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Pichincha Universal 95.3 FM</string>
+			<string>HCJB</string>
 			<key>logo</key>
-			<string>Pichincha</string>
+			<string>HCJB</string>
 			<key>link</key>
-			<string>http://ecuastream.com:9120/listen.pls</string>
+			<string>https://streamingecuador.net:8287/hcjb.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-hcjb-89-3-fm,16966.m3u</string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HCJB AM 690</string>
+			<key>logo</key>
+			<string>690</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-hcjb-am-690,11569.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit FM 101.7</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://78.129.187.57:14209/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +591,59 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>BBN</string>
+			<string>Hot 106</string>
 			<key>logo</key>
-			<string>BBN</string>
+			<string>Hot</string>
 			<key>link</key>
-			<string>https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8</string>
+			<string>http://www.surfmusic.de/m3u/hot-106-fm,10605.m3u</string>
+			<key>http</key>
+			<string>http://195.154.182.222:3655/live</string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hot 106 Fuego</string>
+			<key>logo</key>
+			<string>106</string>
+			<key>link</key>
+			<string>http://198.204.234.10:8313/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>i99 98.9 FM</string>
+			<key>logo</key>
+			<string>i99</string>
+			<key>link</key>
+			<string>http://200.105.239.46:6020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JC La Bruja 107.3 FM</string>
+			<key>logo</key>
+			<string>JC</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/jc-radio-la-bruja-107-3-fm,10604.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JM 88.9 FM</string>
+			<key>logo</key>
+			<string>JM</string>
+			<key>link</key>
+			<string>http://ecuastream.net:8072/JM_Radio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -227,175 +659,67 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM Mundo 98.1</string>
+			<string>La 96.1</string>
 			<key>logo</key>
-			<string>Mundo</string>
+			<string>La</string>
 			<key>link</key>
-			<string>http://streamingecuador.net:9314/listen.pls</string>
+			<string>http://www.surfmusic.de/m3u/la-96-1,10599.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Cuenca (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Alfa Radio 98.5 FM</string>
+			<string>La Main Street Ecuatorianita</string>
 			<key>logo</key>
-			<string>Alfa</string>
+			<string>Ecuatorianita</string>
 			<key>link</key>
-			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.17.12:5821/listen.pls&amp;t=.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.17.12:5821/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La Rumbera 99.7 FM</string>
+			<string>La Metro FM</string>
 			<key>logo</key>
-			<string>Rumbera</string>
+			<string>Metro</string>
 			<key>link</key>
-			<string>http://radio.uncuartocomunicacion.com:7670/LaRumbera.m3u</string>
+			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-lametro.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Maria Ecuador</string>
+			<string>La Otra 91.3 FM</string>
 			<key>logo</key>
-			<string>Maria</string>
+			<string>Otra</string>
 			<key>link</key>
-			<string>https://dreamsiteradiocp4.com/proxy/rmequador2?mp=/stream</string>
+			<string>http://195.154.182.222:25016/live</string>
 			<key>http</key>
-			<string></string>
+			<string>http://38.96.148.217:8090/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Blue</string>
+			<string>La Otra Guayaquil 94.9 FM</string>
 			<key>logo</key>
-			<string>Blue</string>
+			<string>Guayaquil</string>
 			<key>link</key>
-			<string>https://streamingecuador.net:7061/stream.m3u</string>
+			<string>http://195.154.182.222:25018/live</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sucesos 101.7 FM</string>
-			<key>logo</key>
-			<string>Sucesos</string>
-			<key>link</key>
-			<string>http://216.158.67.68:8001/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Urbana FM</string>
-			<key>logo</key>
-			<string>Urbana</string>
-			<key>link</key>
-			<string>https://stream.pentaedro.info:9003/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Vox 104.1 FM</string>
-			<key>logo</key>
-			<string>Vox</string>
-			<key>link</key>
-			<string>http://radio.uncuartocomunicacion.com:8040/RadioVoxFM.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Más Candela</string>
-			<key>logo</key>
-			<string>Candela</string>
-			<key>link</key>
-			<string>https://s2.yesstreaming.net:2199/tunein/candela.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Quito 760 AM</string>
-			<key>logo</key>
-			<string>Quito</string>
-			<key>link</key>
-			<string>https://streamingecuador.net:8332/radioquito.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sensación 800 AM</string>
-			<key>logo</key>
-			<string>800</string>
-			<key>link</key>
-			<string>http://198.15.70.122:9954/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Positiva 860 AM</string>
-			<key>logo</key>
-			<string>Positiva</string>
-			<key>link</key>
-			<string>http://srv7.icecaster.com:8000/radiopositivaonline.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sport</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cadena Democracia 920 AM</string>
-			<key>logo</key>
-			<string>Democracia</string>
-			<key>link</key>
-			<string>http://200.105.233.4:1046/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Casa de la Cultura 940 AM</string>
-			<key>logo</key>
-			<string>Casa</string>
-			<key>link</key>
-			<string>http://66.226.76.170:8026/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -411,15 +735,183 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tarquí 990 AM</string>
+			<string>La Picosa</string>
 			<key>logo</key>
-			<string>990</string>
+			<string>Picosa</string>
 			<key>link</key>
-			<string>http://makrodigital.com:8038/listen.pls</string>
+			<string>http://www.surfmusic.de/m3u/radio-la-picosa,20096.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cuenca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Poderosa 92.9 FM</string>
+			<key>logo</key>
+			<string>Poderosa</string>
+			<key>link</key>
+			<string>http://makrodigital.net:9008/Radio_La_Poderosa.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Prensa Sport 100.1 FM</string>
+			<key>logo</key>
+			<string>Prensa</string>
+			<key>link</key>
+			<string>http://makrodigital.com:8279/Radio_LaPrensa.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Red 102.1 FM</string>
+			<key>logo</key>
+			<string>Red</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://200.105.233.4:1050/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>http://200.105.233.4:1050/listen.pls</string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Rumbera 99.7 FM</string>
+			<key>logo</key>
+			<string>Rumbera</string>
+			<key>link</key>
+			<string>http://radio.uncuartocomunicacion.com:7670/LaRumbera.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Tuya 104.5 FM</string>
+			<key>logo</key>
+			<string>Tuya</string>
+			<key>link</key>
+			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-latuya.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Unica Chichera</string>
+			<key>logo</key>
+			<string>Unica</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://87.117.197.33:10593/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://87.117.197.33:10593/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Voz del Tomebamba 1070 AM</string>
+			<key>logo</key>
+			<string>del</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-voz-del-tomebamba-1070-am,20144.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-tomebamba,20146.m3u</string>
+			<key>note</key>
+			<string>Cuenca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LATINO ECUADOR</string>
+			<key>logo</key>
+			<string>LATINO</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:8490/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:8490/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LOS 40</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>https://streamingecuador.net:7051/stream.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/40-principales-97-7-fm,10602.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Macas</string>
+			<key>logo</key>
+			<string>Macas</string>
+			<key>link</key>
+			<string>https://www.radiomacas.com/players/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-macas,20147.m3u</string>
+			<key>note</key>
+			<string>Cuenca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>https://dreamsiteradiocp4.com/proxy/rmequador2?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Más Candela</string>
+			<key>logo</key>
+			<string>Candela</string>
+			<key>link</key>
+			<string>https://s2.yesstreaming.net:2199/tunein/candela.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maxima Caracol 91.3 FM</string>
+			<key>logo</key>
+			<string>Maxima</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-maxima-caracol-91-3-fm,14967.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk (Ambato, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MELODIA 90.5 FM</string>
+			<key>logo</key>
+			<string>MELODIA</string>
+			<key>link</key>
+			<string>http://sisteplay1.streamwowza.com:1935/radiohd/MelodiaFm1/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://enhd.co:1935/9370/default.stream/playlist.m3u8</string>
+			<key>note</key>
+			<string>Ambato (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -447,99 +939,39 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Cristal 870 AM</string>
+			<string>Morena 640 AM</string>
 			<key>logo</key>
-			<string>Cristal</string>
+			<string>Morena</string>
 			<key>link</key>
-			<string>http://148.251.128.213:9982/listen.pls</string>
+			<string>http://ic.streann.com:8000/RadioMorenaAM.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>El Tiempo 1410 AM</string>
+			<string>Morona 89.3 FM</string>
 			<key>logo</key>
-			<string>Tiempo</string>
+			<string>Morona</string>
 			<key>link</key>
-			<string>https://sv70.ecuaradiotv.net:8000/eltiempohd</string>
+			<string>http://www.surfmusic.de/m3u/radio-morona-89-3-fm,20148.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Macas (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Futura 1430 AM</string>
+			<string>Nuevo Tiempo</string>
 			<key>logo</key>
-			<string>Futura</string>
+			<string>Nuevo</string>
 			<key>link</key>
-			<string>http://173.236.19.90:8120/listen.pls</string>
+			<string>https://stream.live.novotempo.com/radio/smil:rntQuitoEC.smil/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Punto Rojo 89.7 FM</string>
-			<key>logo</key>
-			<string>Punto</string>
-			<key>link</key>
-			<string>https://streamingecuador.net:9086/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Romance 90.1 FM</string>
-			<key>logo</key>
-			<string>Romance</string>
-			<key>link</key>
-			<string>http://streamingecuador.net:9310/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Antena 3</string>
-			<key>logo</key>
-			<string>Antena</string>
-			<key>link</key>
-			<string>http://makrodigital.com:8177/Radio_Antena3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Estrella 92.1 FM</string>
-			<key>logo</key>
-			<string>Estrella</string>
-			<key>link</key>
-			<string>https://aacplus.rstreaminghd.com:7019/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Forever 92.5 FM</string>
-			<key>logo</key>
-			<string>Forever</string>
-			<key>link</key>
-			<string>http://makrodigital.com:8014/forever.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -551,103 +983,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cupido 95.3 FM</string>
-			<key>logo</key>
-			<string>Cupido</string>
-			<key>link</key>
-			<string>http://streamingecuador.net:9318/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rumba Network 107.3 FM</string>
-			<key>logo</key>
-			<string>Network</string>
-			<key>link</key>
-			<string>http://makrodigital.com:8078/radiorumbanetwork.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tropicana 96.5 FM</string>
-			<key>logo</key>
-			<string>Tropicana</string>
-			<key>link</key>
-			<string>http://streamingecuador.net:9306/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Morena 640 AM</string>
-			<key>logo</key>
-			<string>Morena</string>
-			<key>link</key>
-			<string>http://ic.streann.com:8000/RadioMorenaAM.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>i99 98.9 FM</string>
-			<key>logo</key>
-			<string>i99</string>
-			<key>link</key>
-			<string>http://200.105.239.46:6020/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Red 102.1 FM</string>
-			<key>logo</key>
-			<string>Red</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://200.105.233.4:1050/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>http://200.105.233.4:1050/listen.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio CRE Satelital</string>
-			<key>logo</key>
-			<string>CRE</string>
-			<key>link</key>
-			<string>http://ecuastream.com:9022/listen.pls</string>
-			<key>http</key>
-			<string>https://ecuastreams.com/medios/radio/232-833-CRE/web/playlist.php?eiplist=listen.m3u</string>
-			<key>note</key>
-			<string>News (Guayaquil, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Visión 91.7 FM</string>
-			<key>logo</key>
-			<string>Vision</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.187.73.145:8104/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.187.73.145:8104/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -658,30 +994,6 @@
 			<string>http://ecuastream.net:8192/listen.pls</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.187.73.145:8192/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Unica Chichera</string>
-			<key>logo</key>
-			<string>Unica</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://87.117.197.33:10593/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://87.117.197.33:10593/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Fiesta La Grande de Machala</string>
-			<key>logo</key>
-			<string>Fiesta</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.ecuastream.com:9050/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.ecuastream.com:9050/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -699,27 +1011,363 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Dorado</string>
+			<string>Pichincha Universal 95.3 FM</string>
 			<key>logo</key>
-			<string>Dorado</string>
+			<string>Pichincha</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9508/listen.pls&amp;t=.pls</string>
+			<string>http://ecuastream.com:9120/listen.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9508/listen.pls&amp;t=.m3u</string>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Platinum</string>
+			<key>logo</key>
+			<string>Platinum</string>
+			<key>link</key>
+			<string>https://streamingecuador.net:8160/radioplatinum.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Chicha Mix</string>
+			<string>Positiva 860 AM</string>
 			<key>logo</key>
-			<string>Chicha</string>
+			<string>Positiva</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.163.82:27970/listen.pls&amp;t=.pls</string>
+			<string>http://srv7.icecaster.com:8000/radiopositivaonline.m3u</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.163.82:27970/listen.pls&amp;t=.m3u</string>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Presencia Ecuatoriana</string>
+			<key>logo</key>
+			<string>Presencia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.76.247.162:9330/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.76.247.162:9330/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pública FM</string>
+			<key>logo</key>
+			<string>Publica</string>
+			<key>link</key>
+			<string>http://equinox.shoutca.st:8710/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punto Rojo 89.7 FM</string>
+			<key>logo</key>
+			<string>Punto</string>
+			<key>link</key>
+			<string>https://streamingecuador.net:9086/stream.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quito 760 AM</string>
+			<key>logo</key>
+			<string>Quito</string>
+			<key>link</key>
+			<string>https://streamingecuador.net:8332/radioquito.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radio Católica Nacional</string>
+			<key>logo</key>
+			<string>Nacional</string>
+			<key>link</key>
+			<string>http://186.4.136.144:8000/stream</string>
+			<key>http</key>
+			<string>http://audio.waag.org:8000/rcato.mp3.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Redonda 96.9 FM</string>
+			<key>logo</key>
+			<string>Redonda</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-radio-redonda-96-9-fm,20152.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Redonda 99.3 FM</string>
+			<key>logo</key>
+			<string>99</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/la-radio-redonda-99-3-fm,20151.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rio 95.7 FM</string>
+			<key>logo</key>
+			<string>Rio</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rio-95-7-fm,17148.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Riobamba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Romance 90.1 FM</string>
+			<key>logo</key>
+			<string>Romance</string>
+			<key>link</key>
+			<string>http://streamingecuador.net:9310/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RUMBA 88.9 FM</string>
+			<key>logo</key>
+			<string>RUMBA</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/rumba-88-9-fm,14952.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Ambato, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rumba Network 107.3 FM</string>
+			<key>logo</key>
+			<string>Network</string>
+			<key>link</key>
+			<string>http://makrodigital.com:8078/radiorumbanetwork.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Santiago 540 AM</string>
+			<key>logo</key>
+			<string>Santiago</string>
+			<key>link</key>
+			<string>https://streamingecuador.net/makrostreaming/radiosantiago/</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sensación 800 AM</string>
+			<key>logo</key>
+			<string>800</string>
+			<key>link</key>
+			<string>http://198.15.70.122:9954/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sonido 102.1 FM</string>
+			<key>logo</key>
+			<string>Sonido</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sonido-102-1-fm,20145.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cuenca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SONO ONDA 99.7 FM</string>
+			<key>logo</key>
+			<string>SONO</string>
+			<key>link</key>
+			<string>http://5.135.183.124/tunein/sonoonda-stream.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport (Portoviejo, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sonorama FM</string>
+			<key>logo</key>
+			<string>Sonorama</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sonorama-fm,727.m3u</string>
+			<key>http</key>
+			<string>https://streamingecuador.net:7013/listen.pls</string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sport 1010 AM</string>
+			<key>logo</key>
+			<string>1010</string>
+			<key>link</key>
+			<string>http://streamingraddios.com:8961/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sucesos 101.7 FM</string>
+			<key>logo</key>
+			<string>Sucesos</string>
+			<key>link</key>
+			<string>http://216.158.67.68:8001/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sucre 700 AM</string>
+			<key>logo</key>
+			<string>Sucre</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-sucre-700-am,17509.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sucre 900 AM</string>
+			<key>logo</key>
+			<string>900</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sucre-900-am,728.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Super K800 AM</string>
+			<key>logo</key>
+			<string>K800</string>
+			<key>link</key>
+			<string>http://streamingecuador.net:9332/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Sport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tarquí 990 AM</string>
+			<key>logo</key>
+			<string>990</string>
+			<key>link</key>
+			<string>http://makrodigital.com:8038/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Teleradio 1350 AM</string>
+			<key>logo</key>
+			<string>Teleradio</string>
+			<key>link</key>
+			<string>http://50.22.218.73:12341/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tricolor FM</string>
+			<key>logo</key>
+			<string>Tricolor</string>
+			<key>link</key>
+			<string>http://184.107.210.202:1935/efrasyste/tricolormovil.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.203:7096/listen.pls&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tropicalida FM</string>
+			<key>logo</key>
+			<string>Tropicalida</string>
+			<key>link</key>
+			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-tropicalida.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/tropicalida-91-3-fm,10597.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tropicana 96.5 FM</string>
+			<key>logo</key>
+			<string>Tropicana</string>
+			<key>link</key>
+			<string>http://streamingecuador.net:9306/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tu Vecina</string>
+			<key>logo</key>
+			<string>Tu</string>
+			<key>link</key>
+			<string>http://184.107.210.202:1935/efrasyste/cumbre.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.203:7056/listen.pls?sid=1&amp;t=.pls</string>
+			<key>note</key>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -730,6 +1378,30 @@
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:13430/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:13430/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCSG 1190 AM</string>
+			<key>logo</key>
+			<string>UCSG</string>
+			<key>link</key>
+			<string>http://ecuastream.com:9078/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urbana FM</string>
+			<key>logo</key>
+			<string>Urbana</string>
+			<key>link</key>
+			<string>https://stream.pentaedro.info:9003/stream.m3u</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -747,155 +1419,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Ecuador Vallenato</string>
+			<string>Visión 91.7 FM</string>
 			<key>logo</key>
-			<string>Vallenato</string>
+			<string>Vision</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.19:3697/listen.pls&amp;t=.pls</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.187.73.145:8104/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.19:3697/listen.pls&amp;t=.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.187.73.145:8104/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vox 104.1 FM</string>
+			<key>logo</key>
+			<string>Vox</string>
+			<key>link</key>
+			<string>http://radio.uncuartocomunicacion.com:8040/RadioVoxFM.m3u</string>
+			<key>http</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LATINO ECUADOR</string>
-			<key>logo</key>
-			<string>LATINO</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:8490/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:8490/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Cumbia</string>
+			<string>WQ 102.1 FM</string>
 			<key>logo</key>
-			<string>Cumbia</string>
+			<string>WQ</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Main Street Ecuatorianita</string>
-			<key>logo</key>
-			<string>Ecuatorianita</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.17.12:5821/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.17.12:5821/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tricolor FM</string>
-			<key>logo</key>
-			<string>Tricolor</string>
-			<key>link</key>
-			<string>http://184.107.210.202:1935/efrasyste/tricolormovil.stream/playlist.m3u8</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.203:7096/listen.pls&amp;t=.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cumbre 102.5 FM</string>
-			<key>logo</key>
-			<string>Cumbre</string>
-			<key>link</key>
-			<string>http://184.107.210.202:1935/efrasyste/cumbre.stream/playlist.m3u8</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.202:7048/listen.pls&amp;t=.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tu Vecina</string>
-			<key>logo</key>
-			<string>Tu</string>
-			<key>link</key>
-			<string>http://184.107.210.202:1935/efrasyste/cumbre.stream/playlist.m3u8</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.203:7056/listen.pls?sid=1&amp;t=.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Presencia Ecuatoriana</string>
-			<key>logo</key>
-			<string>Presencia</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.76.247.162:9330/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.76.247.162:9330/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>LOS 40</string>
-			<key>logo</key>
-			<string>40</string>
-			<key>link</key>
-			<string>https://streamingecuador.net:7051/stream.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/40-principales-97-7-fm,10602.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Atalaya 680 AM</string>
-			<key>logo</key>
-			<string>Atalaya</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/atalaya-680-am,713.m3u</string>
-			<key>http</key>
-			<string>http://str.ecuastreaming.com:9978/;</string>
-			<key>note</key>
-			<string>Sport (Guayaquil, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Diblu 88.9 FM</string>
-			<key>logo</key>
-			<string>Diblu</string>
-			<key>link</key>
-			<string>http://streamingecuador.net:9302/listen.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/diblu-fm-88-9,16782.m3u</string>
-			<key>note</key>
-			<string>Guayaquil (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Hot 106 FM</string>
-			<key>logo</key>
-			<string>Hot</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hot-106-fm,10605.m3u</string>
-			<key>http</key>
-			<string>http://195.154.182.222:3655/live</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>JC Radio La Bruja 107.3 FM</string>
-			<key>logo</key>
-			<string>JC</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/jc-radio-la-bruja-107-3-fm,10604.m3u</string>
+			<string>http://makrodigital.com:8163/WQ.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -903,291 +1455,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La 96.1</string>
+			<string>Z1 1400 AM</string>
 			<key>logo</key>
-			<string>La</string>
+			<string>Z1</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-96-1,10599.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Cuenca (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Radio Redonda 96.9 FM</string>
-			<key>logo</key>
-			<string>Redonda</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-radio-redonda-96-9-fm,20152.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Quito (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Radio Redonda 99.3 FM</string>
-			<key>logo</key>
-			<string>99</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-radio-redonda-99-3-fm,20151.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Guayaquil (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Voz del Tomebamba 1070 AM</string>
-			<key>logo</key>
-			<string>del</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-voz-del-tomebamba-1070-am,20144.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-tomebamba,20146.m3u</string>
-			<key>note</key>
-			<string>Cuenca (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>MELODIA 90.5 FM</string>
-			<key>logo</key>
-			<string>MELODIA</string>
-			<key>link</key>
-			<string>http://sisteplay1.streamwowza.com:1935/radiohd/MelodiaFm1/playlist.m3u8</string>
-			<key>http</key>
-			<string>http://enhd.co:1935/9370/default.stream/playlist.m3u8</string>
-			<key>note</key>
-			<string>Ambato (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Alegria 98.5 FM</string>
-			<key>logo</key>
-			<string>Alegria</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-alegria-98-5-fm,14970.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Ambato (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>America</string>
-			<key>logo</key>
-			<string>America</string>
-			<key>link</key>
-			<string>https://streamingecuador.net:9100/stream.m3u</string>
-			<key>http</key>
-			<string>https://streamingecuador.net:9101/stream.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Armonica</string>
-			<key>logo</key>
-			<string>Armonica</string>
-			<key>link</key>
-			<string>http://195.154.182.222:25194/live</string>
-			<key>http</key>
-			<string>http://38.96.148.216:9050/listen.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Canela</string>
-			<key>logo</key>
-			<string>Canela</string>
-			<key>link</key>
-			<string>https://stream.pentaedro.info:9025/stream.m3u</string>
-			<key>http</key>
-			<string>https://stream.pentaedro.info:9027/stream.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Caravana 750 AM</string>
-			<key>logo</key>
-			<string>Caravana</string>
-			<key>link</key>
-			<string>https://streamingecuador.net:9006/stream.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-caravana,715.m3u</string>
-			<key>note</key>
-			<string>Guayaquil (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>City 89.3 FM</string>
-			<key>logo</key>
-			<string>City</string>
-			<key>link</key>
-			<string>http://198.15.77.50:9564/;</string>
-			<key>http</key>
-			<string>http://streamingecuador.net:9330/listen.pls</string>
-			<key>note</key>
-			<string>Guayaquil (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Continental 1320</string>
-			<key>logo</key>
-			<string>Continental</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-continental-1320,14953.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Ambato (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Cuyabeno 98.1 FM</string>
-			<key>logo</key>
-			<string>Cuyabeno</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-cuyabeno-98-1-fm,20150.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Nueva Loja (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ecua Stereo</string>
-			<key>logo</key>
-			<string>Ecua</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-ecua-stereo,17973.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Cuenca (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Ecuashyri 104.9 FM</string>
-			<key>logo</key>
-			<string>Ecuashyri</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-ecuashyri-104-9-fm,16842.m3u</string>
+			<string>http://206.190.143.197:8041/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>HCJB</string>
-			<key>logo</key>
-			<string>HCJB</string>
-			<key>link</key>
-			<string>https://streamingecuador.net:8287/hcjb.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-hcjb-89-3-fm,16966.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>HCJB AM 690</string>
-			<key>logo</key>
-			<string>690</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-hcjb-am-690,11569.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Otra 91.3 FM</string>
-			<key>logo</key>
-			<string>Otra</string>
-			<key>link</key>
-			<string>http://195.154.182.222:25016/live</string>
-			<key>http</key>
-			<string>http://38.96.148.217:8090/listen.pls</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Otra Guayaquil 94.9 FM</string>
-			<key>logo</key>
-			<string>Guayaquil</string>
-			<key>link</key>
-			<string>http://195.154.182.222:25018/live</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Picosa</string>
-			<key>logo</key>
-			<string>Picosa</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-la-picosa,20096.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Cuenca (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Macas</string>
-			<key>logo</key>
-			<string>Macas</string>
-			<key>link</key>
-			<string>https://www.radiomacas.com/players/listen.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-macas,20147.m3u</string>
-			<key>note</key>
-			<string>Cuenca (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Maxima Caracol 91.3 FM</string>
-			<key>logo</key>
-			<string>Maxima</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-maxima-caracol-91-3-fm,14967.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Ambato (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Morona 89.3 FM</string>
-			<key>logo</key>
-			<string>Morona</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-morona-89-3-fm,20148.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Macas (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sucre 700 AM</string>
-			<key>logo</key>
-			<string>Sucre</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-sucre-700-am,17509.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>News, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1199,91 +1475,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-zaracay-100-5-fm,731.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rio 95.7 FM</string>
-			<key>logo</key>
-			<string>Rio</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rio-95-7-fm,17148.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Riobamba (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RUMBA 88.9 FM</string>
-			<key>logo</key>
-			<string>RUMBA</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rumba-88-9-fm,14952.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Ambato (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sonido 102.1 FM</string>
-			<key>logo</key>
-			<string>Sonido</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sonido-102-1-fm,20145.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Cuenca (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>SONO ONDA 99.7</string>
-			<key>logo</key>
-			<string>SONO</string>
-			<key>link</key>
-			<string>http://5.135.183.124/tunein/sonoonda-stream.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Portoviejo (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sonorama FM</string>
-			<key>logo</key>
-			<string>Sonorama</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sonorama-fm,727.m3u</string>
-			<key>http</key>
-			<string>https://streamingecuador.net:7013/listen.pls</string>
-			<key>note</key>
-			<string>Sport</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Sucre 900 AM</string>
-			<key>logo</key>
-			<string>900</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sucre-900-am,728.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Sport</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tropicalida FM</string>
-			<key>logo</key>
-			<string>Tropicalida</string>
-			<key>link</key>
-			<string>http://radios-ec.cdn.nedmedia.io/radios/ec-tropicalida.m3u8</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/tropicalida-91-3-fm,10597.m3u</string>
-			<key>note</key>
-			<string>Guayaquil (Local)</string>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
