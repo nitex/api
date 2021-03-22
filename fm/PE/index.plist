@@ -363,11 +363,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Super Stereo 105.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Super</string>
 			<key>link</key>
-			<string></string>
+			<string>http://198.148.103.200:8052/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +375,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Yaraví 106.3 FM - 930 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>930</string>
 			<key>link</key>
-			<string></string>
+			<string>http://99.198.110.162:7012/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Continental 740 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Continental</string>
 			<key>link</key>
-			<string></string>
+			<string>https://betelgeuse.dribbcast.com/proxy/continental?mp=/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Azul 840 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Azul</string>
 			<key>link</key>
-			<string></string>
+			<string>https://5cefcbf58ba2e.streamlock.net/azul/azul.stream/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,11 +411,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mil 1000 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Mil</string>
 			<key>link</key>
+			<string>https://conectperu.com/cp/links.php?p=8252&amp;m=pls</string>
+			<key>http</key>
+			<string>https://conectperu.com/8252/stream</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frecuencia 1330 Arequipa</string>
+			<key>logo</key>
+			<string>1330</string>
+			<key>link</key>
+			<string>http://freeus3.listen2myradio.com:33698/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,87 +435,75 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Salkantay 92.7 FM - 1080 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Salkantay</string>
 			<key>link</key>
-			<string></string>
+			<string>http://ip.melodyradios.com:8040/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Cusco (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Santa Mónica 93.9 FM - 600 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Monica</string>
 			<key>link</key>
-			<string></string>
+			<string>https://player.voxhd.com.br/player/7400/itunes.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://player.voxhd.com.br/player/7400/winamp.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Cusco (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Gigante 102.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gigante</string>
 			<key>link</key>
-			<string></string>
+			<string>http://95.154.196.33:10904/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Cusco (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Vida 680 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vida</string>
 			<key>link</key>
-			<string></string>
+			<string>https://eu2.serviaudio.com:10991/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Cusco (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>REDE 740 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>REDE</string>
 			<key>link</key>
-			<string></string>
+			<string>https://dattavolt.com/cp/links.php?p=8280&amp;m=pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://player.datalivehd.com/proxy/7066/;/live</string>
 			<key>note</key>
-			<string></string>
+			<string>Music (Cusco, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Intiraymi 830 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Intiraymi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radiointiraymi.com/envivo.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://ip.melodyradios.com:8038/live.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Cusco (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1161,7 +1161,7 @@
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/RADIO_FELICIDAD.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-felicidad-88-9-fm,10425.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/RADIO_FELICIDAD_AM.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1665,7 +1665,7 @@
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/RADIO_RPP.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/rpp-noticias-97-1-fm,763.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/RADIO_RPP_AREQUIPA.pls</string>
 			<key>note</key>
 			<string>Sport</string>
 		</dict>
