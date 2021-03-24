@@ -183,18 +183,6 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>La Paz 96.7</string>
 			<key>logo</key>
 			<string>Paz</string>
@@ -219,11 +207,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>San Gabriel 98.2 FM - 620 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Gabriel</string>
 			<key>link</key>
-			<string></string>
+			<string>http://72.29.70.22:8022/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +219,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Bartolina Sisa 99.4 FM - 920 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bartolina</string>
 			<key>link</key>
-			<string></string>
+			<string>http://5.199.169.190:8074/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Maranatha 99.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Maranatha</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.restauraciondefe.com.ar:8000/maranatha.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,11 +243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>esLatino 100.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>esLatino</string>
 			<key>link</key>
-			<string></string>
+			<string>https://ssl.xcast.com.br:11296/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,11 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cristo Viene la Red</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cristo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://shout.worldkast.com:8028/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Wayna Tambo 101.8 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Wayna</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s8.myradiostream.com:11438/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,11 +279,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BBN - Red de Radiodifusión Bíblica</string>
 			<key>logo</key>
-			<string></string>
+			<string>BBN</string>
 			<key>link</key>
-			<string></string>
+			<string>https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -303,11 +291,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Disney</string>
 			<key>logo</key>
-			<string></string>
+			<string>Disney</string>
 			<key>link</key>
-			<string></string>
+			<string>http://198.50.113.170:9156/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -315,11 +303,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Lealtad 103.0 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lealtad</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.boliviastreaming.com:7038/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -327,11 +315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Deseo 103.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Deseo</string>
 			<key>link</key>
-			<string></string>
+			<string>https://conectperu.com/8046/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,11 +327,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Batallón Colorados</string>
 			<key>logo</key>
-			<string></string>
+			<string>Colorados</string>
 			<key>link</key>
+			<string>http://hdp2.imd.la:1935/colorados/colorados/playlist.m3u8</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Monumental 105.1 FM</string>
+			<key>logo</key>
+			<string>Monumental</string>
+			<key>link</key>
+			<string>http://63.247.65.202:9149/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -727,9 +727,9 @@
 			<key>logo</key>
 			<string>Qhana</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/qhana/qhana.pls</string>
+			<string>http://163.172.8.18:8017/stream</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/rdio-qhana-98-5-fm,20132.m3u</string>
+			<string>http://www.megalink.com/radio/qhana/qhana.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -801,19 +801,19 @@
 			<key>link</key>
 			<string>http://www.megalink.com/radio/restauracionfm/restauracionfm.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://realserver5.megalink.com:8210/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fides 101.5 FM</string>
+			<string>Fides</string>
 			<key>logo</key>
 			<string>Fides</string>
 			<key>link</key>
 			<string>https://usa7.fastcast4u.com/tunein/grflores-stream.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-fides-la-paz-100-3-fm,17595.m3u</string>
+			<string>http://192.99.17.12:6358/listen.pls</string>
 			<key>note</key>
 			<string>Pop Music</string>
 		</dict>
@@ -1083,13 +1083,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Erbol 100.9 FM</string>
+			<string>ERBOL 100.9 FM</string>
 			<key>logo</key>
-			<string>Erbol</string>
+			<string>ERBOL</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/erbol-100-9-fm,323.m3u</string>
-			<key>http</key>
 			<string>http://108.170.61.114:7223/live</string>
+			<key>http</key>
+			<string>http://108.178.57.196:11128/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
