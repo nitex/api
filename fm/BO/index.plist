@@ -51,31 +51,679 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Panamericana FM 96.1</string>
+			<string>El Sonido de la Vida</string>
 			<key>logo</key>
-			<string>Panamericana</string>
+			<string>Sonido</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/panamericana/panamericana.pls</string>
+			<string>http://74.63.198.162:9890/listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/panamericana-580-am,326.m3u</string>
-			<key>note</key>
-			<string>La Paz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Chacaltaya FM 93.7</string>
-			<key>logo</key>
-			<string>Chacaltaya</string>
-			<key>link</key>
-			<string>http://www.megalink.com/radio/chacaltaya/chacaltaya.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-chacaltaya-93-7-fm,18786.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Qhana FM 98.5</string>
+			<string>Salesiana 89.8 FM</string>
+			<key>logo</key>
+			<string>Salesiana</string>
+			<key>link</key>
+			<string>https://medios.usalesiana.edu.bo:8000/RadioSalesiana</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Panamericana Clásica 90.7 FM</string>
+			<key>logo</key>
+			<string>Clasica</string>
+			<key>link</key>
+			<string>http://195.154.182.222:25013/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RKM Solidaria 91.0 FM</string>
+			<key>logo</key>
+			<string>RKM</string>
+			<key>link</key>
+			<string>http://stm7.streaming.profesional.bo:10052/;</string>
+			<key>http</key>
+			<string>http://www.boliviastreaming.com:7036/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ciudad 91.3 FM</string>
+			<key>logo</key>
+			<string>Ciudad</string>
+			<key>link</key>
+			<string>http://67.23.224.213:9996/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Activa 91.9 FM</string>
+			<key>logo</key>
+			<string>Activa</string>
+			<key>link</key>
+			<string>http://stm36.srvstm.com:11212/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galactica 92.8 FM</string>
+			<key>logo</key>
+			<string>Galactica</string>
+			<key>link</key>
+			<string>http://170.75.144.162:20680/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Studio 94 FM</string>
+			<key>logo</key>
+			<string>94</string>
+			<key>link</key>
+			<string>http://67.23.224.213:9998/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Illimani</string>
+			<key>logo</key>
+			<string>Illimani</string>
+			<key>link</key>
+			<string>http://108.170.61.114:8257/illimani.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nuevo Tiempo</string>
+			<key>logo</key>
+			<string>Nuevo</string>
+			<key>link</key>
+			<string>https://stream.live.novotempo.com/radio/smil:rntCochabambaBO.smil/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Show 95.5 FM</string>
+			<key>logo</key>
+			<string>Show</string>
+			<key>link</key>
+			<string>http://184.154.45.106:8405/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Paz 96.7</string>
+			<key>logo</key>
+			<string>Paz</string>
+			<key>link</key>
+			<string>http://195.154.182.222:25019/967.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stereo 97.3 FM</string>
+			<key>logo</key>
+			<string>Stereo</string>
+			<key>link</key>
+			<string>http://195.154.182.222:27147/973.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string></string>
+			<key>logo</key>
+			<string></string>
+			<key>link</key>
+			<string></string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Panamericana 580 AM - 96.1 FM</string>
+			<key>logo</key>
+			<string>Panamericana</string>
+			<key>link</key>
+			<string>http://www.megalink.com/radio/panamericana/panamericana.pls</string>
+			<key>http</key>
+			<string>http://realserver2.megalink.com:8070/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chacaltaya 93.7 FM</string>
+			<key>logo</key>
+			<string>Chacaltaya</string>
+			<key>link</key>
+			<string>https://cloudstream2032.conectarhosting.com/9364/stream</string>
+			<key>http</key>
+			<string>http://www.megalink.com/radio/chacaltaya/chacaltaya.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Qhana 98.5 FM</string>
 			<key>logo</key>
 			<string>Qhana</string>
 			<key>link</key>
@@ -99,7 +747,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CADENA PRATEL FM 89.2</string>
+			<string>CADENA PRATEL 89.2 FM</string>
 			<key>logo</key>
 			<string>PRATEL</string>
 			<key>link</key>
@@ -111,7 +759,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Zonica FM 102.4</string>
+			<string>Zonica 102.4 FM</string>
 			<key>logo</key>
 			<string>Zonica</string>
 			<key>link</key>
@@ -135,7 +783,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Majestad FM 105.7</string>
+			<string>Majestad 105.7 FM</string>
 			<key>logo</key>
 			<string>Majestad</string>
 			<key>link</key>
@@ -147,7 +795,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Restauración FM 98.9</string>
+			<string>Restauración 98.9 FM</string>
 			<key>logo</key>
 			<string>Restauracion</string>
 			<key>link</key>
@@ -159,7 +807,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Fides FM 101.5</string>
+			<string>Fides 101.5 FM</string>
 			<key>logo</key>
 			<string>Fides</string>
 			<key>link</key>
@@ -167,11 +815,11 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-fides-la-paz-100-3-fm,17595.m3u</string>
 			<key>note</key>
-			<string>Pop Music La Paz, Local)</string>
+			<string>Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Guadalupe FM 105.1</string>
+			<string>Guadalupe 105.1 FM</string>
 			<key>logo</key>
 			<string>Guadalupe</string>
 			<key>link</key>
@@ -183,7 +831,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Clássica FM 106.9</string>
+			<string>Clássica 106.9 FM</string>
 			<key>logo</key>
 			<string>Classica</string>
 			<key>link</key>
@@ -191,7 +839,7 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.151.69:8000/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
-			<string>Oldies</string>
+			<string>Oldies, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -203,11 +851,11 @@
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:7711/listen.pls?sid=1&amp;t=.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Bolivariana</string>
+			<string>Bolivariana</string>
 			<key>logo</key>
 			<string>Bolivariana</string>
 			<key>link</key>
@@ -219,7 +867,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Camargo</string>
+			<string>Camargo</string>
 			<key>logo</key>
 			<string>Camargo</string>
 			<key>link</key>
@@ -231,7 +879,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Hit Camiri</string>
+			<string>Hit Camiri</string>
 			<key>logo</key>
 			<string>Camiri</string>
 			<key>link</key>
@@ -267,7 +915,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Capital FM 105.7</string>
+			<string>Capital 105.7 FM</string>
 			<key>logo</key>
 			<string>Capital</string>
 			<key>link</key>
@@ -291,7 +939,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Union Bolivia</string>
+			<string>Union Bolivia</string>
 			<key>logo</key>
 			<string>Union</string>
 			<key>link</key>
@@ -327,7 +975,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Sucre 1320 AM</string>
+			<string>Sucre 1320 AM</string>
 			<key>logo</key>
 			<string>1320</string>
 			<key>link</key>
@@ -351,7 +999,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Alcance</string>
+			<string>Alcance</string>
 			<key>logo</key>
 			<string>Alcance</string>
 			<key>link</key>
@@ -363,7 +1011,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Lider 102.3 FM</string>
+			<string>Lider 102.3 FM</string>
 			<key>logo</key>
 			<string>Lider</string>
 			<key>link</key>
@@ -375,7 +1023,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Onda Sureña Boliviana</string>
+			<string>Onda Sureña Boliviana</string>
 			<key>logo</key>
 			<string>Onda</string>
 			<key>link</key>
@@ -387,7 +1035,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Mix Bolivia</string>
+			<string>Mix Bolivia</string>
 			<key>logo</key>
 			<string>Mix</string>
 			<key>link</key>
@@ -431,7 +1079,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Santa Cruz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -443,11 +1091,11 @@
 			<key>http</key>
 			<string>http://108.170.61.114:7223/live</string>
 			<key>note</key>
-			<string>La Paz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 104.3 Estudiantil UAP</string>
+			<string>Estudiantil UAP 104.3 FM</string>
 			<key>logo</key>
 			<string>UAP</string>
 			<key>link</key>
@@ -467,7 +1115,7 @@
 			<key>http</key>
 			<string>http://icecasthd.net:2199/tunein/fmmelodia.pls</string>
 			<key>note</key>
-			<string>Music (La Paz, Local)</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -479,11 +1127,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>La Paz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Activa 91.9 FM</string>
+			<string>Activa 91.9 FM</string>
 			<key>logo</key>
 			<string>Activa</string>
 			<key>link</key>
@@ -491,11 +1139,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music (Santa Cruz, Local)</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Betania 93.7 FM</string>
+			<string>Betania 93.7 FM</string>
 			<key>logo</key>
 			<string>Betania</string>
 			<key>link</key>
@@ -503,11 +1151,11 @@
 			<key>http</key>
 			<string>http://icecast.radiobetania.com:8000/betania.mp3</string>
 			<key>note</key>
-			<string>Santa Cruz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio El Deber 103.3 FM</string>
+			<string>El Deber 103.3 FM</string>
 			<key>logo</key>
 			<string>Deber</string>
 			<key>link</key>
@@ -515,23 +1163,23 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Santa Cruz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Exito Bolivia 93.1 FM</string>
+			<string>Exito Bolivia 93.1 FM</string>
 			<key>logo</key>
 			<string>Exito</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-exito-bolivia-93-1-fm,18801.m3u</string>
+			<string>http://67.222.22.127:9998/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-exito-bolivia-93-1-fm,18801.m3u</string>
 			<key>note</key>
-			<string>La Paz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio FM Bolivia 94.9 FM</string>
+			<string>Bolivia 94.9 FM</string>
 			<key>logo</key>
 			<string>Boliv</string>
 			<key>link</key>
@@ -539,11 +1187,11 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>La Paz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Kollasuyo 105.1 FM</string>
+			<string>Kollasuyo 105.1 FM</string>
 			<key>logo</key>
 			<string>Kollasuyo</string>
 			<key>link</key>
@@ -555,7 +1203,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Transamericana</string>
+			<string>Transamericana</string>
 			<key>logo</key>
 			<string>Transamericana</string>
 			<key>link</key>
@@ -567,7 +1215,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Uno 96.7 FM</string>
+			<string>Uno 96.7 FM</string>
 			<key>logo</key>
 			<string>Uno</string>
 			<key>link</key>
@@ -575,11 +1223,11 @@
 			<key>http</key>
 			<string>http://198.27.80.34:8020/;</string>
 			<key>note</key>
-			<string>Santa Cruz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Yungas 92.1 FM</string>
+			<string>Yungas 92.1 FM</string>
 			<key>logo</key>
 			<string>Yungas</string>
 			<key>link</key>
@@ -587,7 +1235,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Santa Cruz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -599,7 +1247,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music (La Paz, Local)</string>
+			<string>Music</string>
 		</dict>
 	</array>
 </dict>
