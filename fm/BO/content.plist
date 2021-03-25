@@ -63,37 +63,805 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Panamericana FM 96.1</string>
+			<string>24 horas Musica Nacional Bolivia</string>
 			<key>logo</key>
-			<string>Panamericana</string>
+			<string>24</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/panamericana/panamericana.pls</string>
+			<string>http://198.27.80.34:7711/stream/1/</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/panamericana-580-am,326.m3u</string>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:7711/listen.pls?sid=1&amp;t=.pls</string>
 			<key>note</key>
-			<string>La Paz (Local)</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Chacaltaya FM 93.7</string>
+			<string>Activa 91.9 FM</string>
 			<key>logo</key>
-			<string>Chacaltaya</string>
+			<string>Activa</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/chacaltaya/chacaltaya.pls</string>
+			<string>http://stm36.srvstm.com:11212/listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-chacaltaya-93-7-fm,18786.m3u</string>
+			<string>http://streamserver3.us:7050/stream.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alcance</string>
+			<key>logo</key>
+			<string>Alcance</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9336/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9336/listen.pls?sid=1&amp;t=.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Qhana FM 98.5</string>
+			<string>América 103.6 FM</string>
 			<key>logo</key>
-			<string>Qhana</string>
+			<string>America</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/qhana/qhana.pls</string>
+			<string>http://198.100.152.234:8236/listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/rdio-qhana-98-5-fm,20132.m3u</string>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ATB</string>
+			<key>logo</key>
+			<string>ATB</string>
+			<key>link</key>
+			<string>http://67.23.224.213:9986/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Audiokiss 90.7 FM</string>
+			<key>logo</key>
+			<string>Audiokiss</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/audiokiss-90-7-fm,10423.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bartolina Sisa 99.4 FM - 920 AM</string>
+			<key>logo</key>
+			<string>Bartolina</string>
+			<key>link</key>
+			<string>http://5.199.169.190:8074/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Batallón Colorados</string>
+			<key>logo</key>
+			<string>Colorados</string>
+			<key>link</key>
+			<string>http://hdp2.imd.la:1935/colorados/colorados/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBN - Red de Radiodifusión Bíblica</string>
+			<key>logo</key>
+			<string>BBN</string>
+			<key>link</key>
+			<string>https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bendita Trinidad</string>
+			<key>logo</key>
+			<string>Bendita</string>
+			<key>link</key>
+			<string>http://195.154.182.222:26374/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Betánia 93.7 FM</string>
+			<key>logo</key>
+			<string>Betania</string>
+			<key>link</key>
+			<string>https://betaniastreaming.ovh/betania.mp3?str=1</string>
+			<key>http</key>
+			<string>http://icecast.radiobetania.com:8000/betania.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bolivariana</string>
+			<key>logo</key>
+			<string>Bolivariana</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.175.167:5411/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.175.167:5411/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bolivia 94.9 FM</string>
+			<key>logo</key>
+			<string>Boliv</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-fm-bolivia-94-9-fm,17594.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bolivia Tierra Querida - Folklor</string>
+			<key>logo</key>
+			<string>Querida</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7080/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7080/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bolivia Tierra Querida - Latinos</string>
+			<key>logo</key>
+			<string>Tierra</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7084/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7084/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>CADENA PRATEL 89.2 FM</string>
+			<key>logo</key>
+			<string>PRATEL</string>
+			<key>link</key>
+			<string>http://www.megalink.com/radio/pratel/pratel.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caliente 105.1 FM</string>
+			<key>logo</key>
+			<string>Caliente</string>
+			<key>link</key>
+			<string>http://stream01.net-bolivia.com:9992/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Camargo</string>
+			<key>logo</key>
+			<string>Camargo</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.99.1:8778/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.99.1:8778/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Capital 105.7 FM</string>
+			<key>logo</key>
+			<string>Capital</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7801/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7801/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chacaltaya 93.7 FM</string>
+			<key>logo</key>
+			<string>Chacaltaya</string>
+			<key>link</key>
+			<string>https://cloudstream2032.conectarhosting.com/9364/stream</string>
+			<key>http</key>
+			<string>http://www.megalink.com/radio/chacaltaya/chacaltaya.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ciudad 91.3 FM</string>
+			<key>logo</key>
+			<string>Ciudad</string>
+			<key>link</key>
+			<string>http://67.23.224.213:9996/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Clássica 106.9 FM</string>
+			<key>logo</key>
+			<string>Classica</string>
+			<key>link</key>
+			<string>http://classicafm.scbbs.net:8000/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.151.69:8000/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Corporación Bolivariana del Norte</string>
+			<key>logo</key>
+			<string>Norte</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.182.231.73:7131/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>http://107.182.231.73:7131/;stream.mp3</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cristo Viene la Red</string>
+			<key>logo</key>
+			<string>Cristo</string>
+			<key>link</key>
+			<string>http://shout.worldkast.com:8028/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Deseo 103.3 FM</string>
+			<key>logo</key>
+			<string>Deseo</string>
+			<key>link</key>
+			<string>https://conectperu.com/8046/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dios es Amor</string>
+			<key>logo</key>
+			<string>Dios</string>
+			<key>link</key>
+			<string>http://72.29.70.22:8010/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disney</string>
+			<key>logo</key>
+			<string>Disney</string>
+			<key>link</key>
+			<string>http://198.50.113.170:9156/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EABOLIVIA</string>
+			<key>logo</key>
+			<string>EABOLIVIA</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7110/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7110/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Educativa 100.3 FM</string>
+			<key>logo</key>
+			<string>Educativa</string>
+			<key>link</key>
+			<string>https://onair.bitstreaming.net/proxy/radioedu?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Comercio 90.4 FM</string>
+			<key>logo</key>
+			<string>Comercio</string>
+			<key>link</key>
+			<string>http://5.199.169.190:8167/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Deber 103.3 FM</string>
+			<key>logo</key>
+			<string>Deber</string>
+			<key>link</key>
+			<string>http://5.199.169.190:8090/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-el-deber-103-3-fm,18796.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Sonido de la Vida</string>
+			<key>logo</key>
+			<string>Sonido</string>
+			<key>link</key>
+			<string>http://74.63.198.162:9890/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Enlace 103.9 FM</string>
+			<key>logo</key>
+			<string>Enlace</string>
+			<key>link</key>
+			<string>http://www6.servers58.com:8030/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ERBOL 100.9 FM</string>
+			<key>logo</key>
+			<string>ERBOL</string>
+			<key>link</key>
+			<string>http://108.170.61.114:7223/live</string>
+			<key>http</key>
+			<string>http://108.178.57.196:11128/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>esLatino 100.3 FM</string>
+			<key>logo</key>
+			<string>esLatino</string>
+			<key>link</key>
+			<string>https://ssl.xcast.com.br:11296/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estudiantil UAP 104.3 FM</string>
+			<key>logo</key>
+			<string>UAP</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/fm-104-3-estudiantil-uap-universidad-adventista-del-plata,18797.m3u</string>
+			<key>http</key>
+			<string>http://70.38.73.27:8129/live</string>
+			<key>note</key>
+			<string>Entre Ríos (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Exito Bolivia 93.1 FM</string>
+			<key>logo</key>
+			<string>Exito</string>
+			<key>link</key>
+			<string>http://67.222.22.127:9998/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-exito-bolivia-93-1-fm,18801.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fama 101.5 FM</string>
+			<key>logo</key>
+			<string>Fama</string>
+			<key>link</key>
+			<string>http://stream01.net-bolivia.com:9998/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fedecomin 105.4 FM</string>
+			<key>logo</key>
+			<string>Fedecomin</string>
+			<key>link</key>
+			<string>http://45.43.192.178:23592/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fides</string>
+			<key>logo</key>
+			<string>Fides</string>
+			<key>link</key>
+			<string>https://usa7.fastcast4u.com/tunein/grflores-stream.pls</string>
+			<key>http</key>
+			<string>http://192.99.17.12:6358/listen.pls</string>
+			<key>note</key>
+			<string>Pop Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Hit 99.1</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://107.170.95.131:9950/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frecuencia Bolivariana</string>
+			<key>logo</key>
+			<string>Frecuencia</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radiolatina.info:9326/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radiolatina.info:9326/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Galactica 92.8 FM</string>
+			<key>logo</key>
+			<string>Galactica</string>
+			<key>link</key>
+			<string>http://170.75.144.162:20680/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Guadalupe 105.1 FM</string>
+			<key>logo</key>
+			<string>Guadalupe</string>
+			<key>link</key>
+			<string>https://www.radioforest.net/radio/639616.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9304/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit Camiri</string>
+			<key>logo</key>
+			<string>Camiri</string>
+			<key>link</key>
+			<string>http://radios.istbolivia.com:9330/listen.pls</string>
+			<key>http</key>
+			<string>http://radios.istbolivia.com:9330/;</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Illimani</string>
+			<key>logo</key>
+			<string>Illimani</string>
+			<key>link</key>
+			<string>http://108.170.61.114:8257/illimani.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Integración 640 AM</string>
+			<key>logo</key>
+			<string>640</string>
+			<key>link</key>
+			<string>http://giss.tv:8000/rintegracion.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Iyambae 96.1 FM</string>
+			<key>logo</key>
+			<string>Iyambae</string>
+			<key>link</key>
+			<string>http://51.255.235.165:5060/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kollasuyo 105.1 FM</string>
+			<key>logo</key>
+			<string>Kollasuyo</string>
+			<key>link</key>
+			<string>http://www.radiokollasuyo.net/listen.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-kollasuyo-105-1-fm,18798.m3u</string>
+			<key>note</key>
+			<string>Potosí (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Cruz del Sur</string>
+			<key>logo</key>
+			<string>Cruz</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.107.243.219:9006/listen.pls&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.107.243.219:9006/listen.pls&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Mega 97.3 FM</string>
+			<key>logo</key>
+			<string>Mega</string>
+			<key>link</key>
+			<string>http://72.29.70.22:8036/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Paz 96.7</string>
+			<key>logo</key>
+			<string>Paz</string>
+			<key>link</key>
+			<string>http://195.154.182.222:25019/967.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Tremenda 95.8 FM</string>
+			<key>logo</key>
+			<string>Tremenda</string>
+			<key>link</key>
+			<string>http://radios.bolivianservers.net:8004/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lealtad 103.0 FM</string>
+			<key>logo</key>
+			<string>Lealtad</string>
+			<key>link</key>
+			<string>http://www.boliviastreaming.com:7038/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lider 102.3 FM</string>
+			<key>logo</key>
+			<string>Lider</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9332/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9332/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Bermejo (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Majestad 105.7 FM</string>
+			<key>logo</key>
+			<string>Majestad</string>
+			<key>link</key>
+			<string>http://www.megalink.com/radio/majestad/majestad.pls</string>
+			<key>http</key>
+			<string>http://realserver2.megalink.com:8130/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Manantial 99.7 FM</string>
+			<key>logo</key>
+			<string>Manantial</string>
+			<key>link</key>
+			<string>http://78.129.187.73:4138/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maranatha 99.7 FM</string>
+			<key>logo</key>
+			<string>Maranatha</string>
+			<key>link</key>
+			<string>http://stream.restauraciondefe.com.ar:8000/maranatha.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>https://dreamsiteradiocp4.com/proxy/rmbolivia2?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maria Auxiliadora 850 AM</string>
+			<key>logo</key>
+			<string>Auxiliadora</string>
+			<key>link</key>
+			<string>http://5.199.169.190:8146/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Melodia 99.3 FM</string>
+			<key>logo</key>
+			<string>Melodia</string>
+			<key>link</key>
+			<string>http://icecasthd.net:27148/live.m3u</string>
+			<key>http</key>
+			<string>http://icecasthd.net:2199/tunein/fmmelodia.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Milenio 89.1 FM</string>
+			<key>logo</key>
+			<string>Milenio</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9372/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9372/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string>Boyuibe (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix Bolivia 93.1 FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://stream01.net-bolivia.com:9996/listen.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.129.213:9121/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Monumental 105.1 FM</string>
+			<key>logo</key>
+			<string>Monumental</string>
+			<key>link</key>
+			<string>http://63.247.65.202:9149/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nuevo Tiempo</string>
+			<key>logo</key>
+			<string>Nuevo</string>
+			<key>link</key>
+			<string>https://stream.live.novotempo.com/radio/smil:rntCochabambaBO.smil/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Onda Sureña Boliviana</string>
+			<key>logo</key>
+			<string>Onda</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://170.75.146.162:12290/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://170.75.146.162:12290/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pachamama 106.0 FM</string>
+			<key>logo</key>
+			<string>Pachamama</string>
+			<key>link</key>
+			<string>http://184.154.45.106:8011/listen.pls</string>
+			<key>http</key>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -111,11 +879,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>CADENA PRATEL FM 89.2</string>
+			<string>Panamericana 580 AM - 96.1 FM</string>
 			<key>logo</key>
-			<string>PRATEL</string>
+			<string>Panamericana</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/pratel/pratel.pls</string>
+			<string>http://www.megalink.com/radio/panamericana/panamericana.pls</string>
+			<key>http</key>
+			<string>http://realserver2.megalink.com:8070/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Panamericana Clásica 90.7 FM</string>
+			<key>logo</key>
+			<string>Clasica</string>
+			<key>link</key>
+			<string>http://195.154.182.222:25013/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Patria Nueva 94.3 FM</string>
+			<key>logo</key>
+			<string>Patria</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/patria-nueva-94-3-fm,18799.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -123,11 +915,119 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Zonica FM 102.4</string>
+			<string>Play 107.5 FM - 800 AM</string>
 			<key>logo</key>
-			<string>Zonica</string>
+			<string>800</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/zonika/zonika.pls</string>
+			<string>http://67.222.22.127:9994/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Qhana 98.5 FM</string>
+			<key>logo</key>
+			<string>Qhana</string>
+			<key>link</key>
+			<string>http://163.172.8.18:8017/stream</string>
+			<key>http</key>
+			<string>http://www.megalink.com/radio/qhana/qhana.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RAI 97.9 FM - 1580 AM</string>
+			<key>logo</key>
+			<string>RAI</string>
+			<key>link</key>
+			<string>http://72.29.70.22:8198/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RCB</string>
+			<key>logo</key>
+			<string>RCB</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.43.200.114:8834/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.43.200.114:8834/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Restauración 98.9 FM</string>
+			<key>logo</key>
+			<string>Restauracion</string>
+			<key>link</key>
+			<string>http://www.megalink.com/radio/restauracionfm/restauracionfm.pls</string>
+			<key>http</key>
+			<string>http://realserver5.megalink.com:8210/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RKM Solidaria 91.0 FM</string>
+			<key>logo</key>
+			<string>RKM</string>
+			<key>link</key>
+			<string>http://stm7.streaming.profesional.bo:10052/;</string>
+			<key>http</key>
+			<string>http://www.boliviastreaming.com:7036/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Salesiana 89.8 FM</string>
+			<key>logo</key>
+			<string>Salesiana</string>
+			<key>link</key>
+			<string>https://medios.usalesiana.edu.bo:8000/RadioSalesiana</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>San Gabriel 98.2 FM - 620 AM</string>
+			<key>logo</key>
+			<string>Gabriel</string>
+			<key>link</key>
+			<string>http://72.29.70.22:8022/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Santa Cruz 92.2 FM</string>
+			<key>logo</key>
+			<string>Santa</string>
+			<key>link</key>
+			<string>http://s36.myradiostream.com:10250/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Show 95.5 FM</string>
+			<key>logo</key>
+			<string>Show</string>
+			<key>link</key>
+			<string>http://184.154.45.106:8405/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -147,23 +1047,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Majestad FM 105.7</string>
+			<string>Splendid 1220 AM</string>
 			<key>logo</key>
-			<string>Majestad</string>
+			<string>Splendid</string>
 			<key>link</key>
-			<string>http://www.megalink.com/radio/majestad/majestad.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.4.17.9:8130/listen.pls&amp;t=.pls</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Restauración FM 98.9</string>
-			<key>logo</key>
-			<string>Restauracion</string>
-			<key>link</key>
-			<string>http://www.megalink.com/radio/restauracionfm/restauracionfm.pls</string>
+			<string>http://www.boliviastreaming.com:7010/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,175 +1059,31 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Fides FM 101.5</string>
+			<string>Stereo 97.3 FM</string>
 			<key>logo</key>
-			<string>Fides</string>
+			<string>Stereo</string>
 			<key>link</key>
-			<string>https://usa7.fastcast4u.com/tunein/grflores-stream.pls</string>
+			<string>http://195.154.182.222:27147/973.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-fides-la-paz-100-3-fm,17595.m3u</string>
-			<key>note</key>
-			<string>Pop Music La Paz, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Guadalupe FM 105.1</string>
-			<key>logo</key>
-			<string>Guadalupe</string>
-			<key>link</key>
-			<string>https://www.radioforest.net/radio/639616.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9304/listen.pls?sid=1&amp;t=.m3u</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Clássica FM 106.9</string>
+			<string>Studio 94 FM</string>
 			<key>logo</key>
-			<string>Classica</string>
+			<string>94</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.151.69:8000/listen.pls?sid=1&amp;t=.pls</string>
+			<string>http://67.23.224.213:9998/listen.pls</string>
 			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.9.151.69:8000/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Oldies</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>24 horas Musica Nacional Bolivia</string>
-			<key>logo</key>
-			<string>24</string>
-			<key>link</key>
-			<string>http://198.27.80.34:7711/stream/1/</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:7711/listen.pls?sid=1&amp;t=.pls</string>
+			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Bolivariana</string>
-			<key>logo</key>
-			<string>Bolivariana</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.175.167:5411/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.175.167:5411/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Camargo</string>
-			<key>logo</key>
-			<string>Camargo</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.99.1:8778/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.99.1:8778/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Hit Camiri</string>
-			<key>logo</key>
-			<string>Camiri</string>
-			<key>link</key>
-			<string>http://radios.istbolivia.com:9330/listen.pls</string>
-			<key>http</key>
-			<string>http://radios.istbolivia.com:9330/;</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bolivia Tierra Querida - Latinos</string>
-			<key>logo</key>
-			<string>Tierra</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7084/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7084/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Bolivia Tierra Querida - Folklor</string>
-			<key>logo</key>
-			<string>Querida</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7080/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7080/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Capital FM 105.7</string>
-			<key>logo</key>
-			<string>Capital</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7801/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7801/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Cruz del Sur</string>
-			<key>logo</key>
-			<string>Cruz</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.107.243.219:9006/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.107.243.219:9006/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Union Bolivia</string>
-			<key>logo</key>
-			<string>Union</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://109.169.26.216:8139/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://109.169.26.216:8139/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>EABOLIVIA</string>
-			<key>logo</key>
-			<string>EABOLIVIA</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7110/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.90.201:7110/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Frecuencia Bolivariana</string>
-			<key>logo</key>
-			<string>Frecuencia</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radiolatina.info:9326/listen.pls&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radiolatina.info:9326/listen.pls&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Sucre 1320 AM</string>
+			<string>Sucre 1320 AM</string>
 			<key>logo</key>
 			<string>1320</string>
 			<key>link</key>
@@ -351,223 +1095,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Milenio 89.1 FM</string>
-			<key>logo</key>
-			<string>Milenio</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9372/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9372/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Boyuibe (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Alcance</string>
-			<key>logo</key>
-			<string>Alcance</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9336/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9336/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Lider 102.3 FM</string>
-			<key>logo</key>
-			<string>Lider</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9332/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.80.34:9332/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string>Bermejo (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Onda Sureña Boliviana</string>
-			<key>logo</key>
-			<string>Onda</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://170.75.146.162:12290/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://170.75.146.162:12290/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Mix Bolivia</string>
-			<key>logo</key>
-			<string>Mix</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.129.213:9121/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.129.213:9121/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Corporación Bolivariana del Norte</string>
-			<key>logo</key>
-			<string>Norte</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://107.182.231.73:7131/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>http://107.182.231.73:7131/;stream.mp3</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>RCB</string>
-			<key>logo</key>
-			<string>RCB</string>
-			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.43.200.114:8834/listen.pls?sid=1&amp;t=.pls</string>
-			<key>http</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://45.43.200.114:8834/listen.pls?sid=1&amp;t=.m3u</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Audiokiss 90.7 FM</string>
-			<key>logo</key>
-			<string>Audiokiss</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/audiokiss-90-7-fm,10423.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Santa Cruz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Erbol 100.9 FM</string>
-			<key>logo</key>
-			<string>Erbol</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/erbol-100-9-fm,323.m3u</string>
-			<key>http</key>
-			<string>http://108.170.61.114:7223/live</string>
-			<key>note</key>
-			<string>La Paz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM 104.3 Estudiantil UAP</string>
-			<key>logo</key>
-			<string>UAP</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-104-3-estudiantil-uap-universidad-adventista-del-plata,18797.m3u</string>
-			<key>http</key>
-			<string>http://70.38.73.27:8129/live</string>
-			<key>note</key>
-			<string>Entre Ríos (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Melodia 99.3 FM</string>
-			<key>logo</key>
-			<string>Melodia</string>
-			<key>link</key>
-			<string>http://icecasthd.net:27148/live.m3u</string>
-			<key>http</key>
-			<string>http://icecasthd.net:2199/tunein/fmmelodia.pls</string>
-			<key>note</key>
-			<string>Music (La Paz, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Patria Nueva 94.3 FM</string>
-			<key>logo</key>
-			<string>Patria</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/patria-nueva-94-3-fm,18799.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>La Paz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Activa 91.9 FM</string>
-			<key>logo</key>
-			<string>Activa</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-activa-91-9-fm,327.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music (Santa Cruz, Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Betania 93.7 FM</string>
-			<key>logo</key>
-			<string>Betania</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-betania-93-7-fm,18802.m3u</string>
-			<key>http</key>
-			<string>http://icecast.radiobetania.com:8000/betania.mp3</string>
-			<key>note</key>
-			<string>Santa Cruz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio El Deber 103.3 FM</string>
-			<key>logo</key>
-			<string>Deber</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-el-deber-103-3-fm,18796.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Santa Cruz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Exito Bolivia 93.1 FM</string>
-			<key>logo</key>
-			<string>Exito</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-exito-bolivia-93-1-fm,18801.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>La Paz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio FM Bolivia 94.9 FM</string>
-			<key>logo</key>
-			<string>Boliv</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-fm-bolivia-94-9-fm,17594.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>La Paz (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Kollasuyo 105.1 FM</string>
-			<key>logo</key>
-			<string>Kollasuyo</string>
-			<key>link</key>
-			<string>http://www.radiokollasuyo.net/listen.pls</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-kollasuyo-105-1-fm,18798.m3u</string>
-			<key>note</key>
-			<string>Potosí (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Radio Transamericana</string>
+			<string>Transamericana</string>
 			<key>logo</key>
 			<string>Transamericana</string>
 			<key>link</key>
@@ -579,7 +1107,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Uno 96.7 FM</string>
+			<string>Union Bolivia</string>
+			<key>logo</key>
+			<string>Union</string>
+			<key>link</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://109.169.26.216:8139/listen.pls?sid=1&amp;t=.pls</string>
+			<key>http</key>
+			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://109.169.26.216:8139/listen.pls?sid=1&amp;t=.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Uno 96.7 FM</string>
 			<key>logo</key>
 			<string>Uno</string>
 			<key>link</key>
@@ -587,19 +1127,19 @@
 			<key>http</key>
 			<string>http://198.27.80.34:8020/;</string>
 			<key>note</key>
-			<string>Santa Cruz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Yungas 92.1 FM</string>
+			<string>Wayna Tambo 101.8 FM</string>
 			<key>logo</key>
-			<string>Yungas</string>
+			<string>Wayna</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-yungas-92-1-fm,20133.m3u</string>
+			<string>http://s8.myradiostream.com:11438/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Santa Cruz (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -611,7 +1151,31 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music (La Paz, Local)</string>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yungas 92.1 FM</string>
+			<key>logo</key>
+			<string>Yungas</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/radio-yungas-92-1-fm,20133.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zonica 102.4 FM</string>
+			<key>logo</key>
+			<string>Zonica</string>
+			<key>link</key>
+			<string>http://www.megalink.com/radio/zonika/zonika.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
