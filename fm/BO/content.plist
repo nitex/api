@@ -83,7 +83,7 @@
 			<key>http</key>
 			<string>http://streamserver3.us:7050/stream.m3u</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -263,7 +263,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -311,7 +311,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -359,7 +359,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -383,7 +383,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -431,7 +431,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-el-deber-103-3-fm,18796.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -467,7 +467,7 @@
 			<key>http</key>
 			<string>http://108.178.57.196:11128/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -539,19 +539,7 @@
 			<key>http</key>
 			<string>http://192.99.17.12:6358/listen.pls</string>
 			<key>note</key>
-			<string>Pop Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>FM Hit 99.1</string>
-			<key>logo</key>
-			<string>Hit</string>
-			<key>link</key>
-			<string>http://107.170.95.131:9950/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>News, Talk, Pop Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -600,6 +588,18 @@
 			<string>http://radios.istbolivia.com:9330/;</string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hit FM 99.1</string>
+			<key>logo</key>
+			<string>Hit</string>
+			<key>link</key>
+			<string>http://107.170.95.131:9950/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -683,7 +683,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -767,7 +767,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -791,7 +791,7 @@
 			<key>http</key>
 			<string>http://icecasthd.net:2199/tunein/fmmelodia.pls</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>Top Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -863,7 +863,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -887,7 +887,7 @@
 			<key>http</key>
 			<string>http://realserver2.megalink.com:8070/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk, Sport</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -935,7 +935,7 @@
 			<key>http</key>
 			<string>http://www.megalink.com/radio/qhana/qhana.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1019,7 +1019,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1055,7 +1055,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1067,7 +1067,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
