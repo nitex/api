@@ -171,11 +171,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Humm FM 106.2</string>
 			<key>logo</key>
-			<string></string>
+			<string>Humm</string>
 			<key>link</key>
+			<string>https://cp12.serverse.com/proxy/hummfm?mp=/live</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Calvary</string>
+			<key>logo</key>
+			<string>Calvary</string>
+			<key>link</key>
+			<string>http://184.154.90.186:8225/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -183,11 +195,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>MAD FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>MAD</string>
 			<key>link</key>
-			<string></string>
+			<string>http://hyades.shoutca.st:8799/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,11 +207,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>The Plug 106.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Plug</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s6.voscast.com:8768/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +219,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Virsa NZ 107.0 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Virsa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s8.voscast.com:7992/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +231,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mountainside 88.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Mountainside</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.nrgkits.co.nz:5000/mountainside</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,11 +243,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Waatea 603 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Waatea</string>
 			<key>link</key>
-			<string></string>
+			<string>http://apple.irirangi.net:8000/I_Waatea.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -243,11 +255,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BBC World Service</string>
 			<key>logo</key>
-			<string></string>
+			<string>BBC</string>
 			<key>link</key>
+			<string>http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AM 936 新闻台</string>
+			<key>logo</key>
+			<string>936</string>
+			<key>link</key>
+			<string>http://radio.936.nz:8000/am936.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -255,11 +279,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Tarana 1386 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tarana</string>
 			<key>link</key>
-			<string></string>
+			<string>http://peridot.streamguys.com:7150/Tarana.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -267,11 +291,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Samoa 1593 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Samoa</string>
 			<key>link</key>
-			<string></string>
+			<string>http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -279,11 +303,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Free 89.0 FM / 1206 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Free</string>
 			<key>link</key>
-			<string></string>
+			<string>http://live.wizz.co.nz/freefm89.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -291,35 +315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Raukawa FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Raukawa</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://apple.irirangi.net:8000/W_Raukava.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1011,13 +1011,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Base FM 107.7</string>
+			<string>Base 107.7 FM</string>
 			<key>logo</key>
 			<string>Base</string>
 			<key>link</key>
 			<string>http://stream.basefm.co.nz:8000/BaseHi</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/base-fm-107-7,10531.m3u</string>
+			<string>http://130.216.72.72:8000/BaseHi.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
