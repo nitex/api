@@ -327,11 +327,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Tainui 95.4 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Tainui</string>
 			<key>link</key>
-			<string></string>
+			<string>http://apple.irirangi.net:8000/F_Tainui.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,11 +339,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Maniapoto FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Maniapoto</string>
 			<key>link</key>
-			<string></string>
+			<string>http://apple.irirangi.net:8000/R_Maniapoto.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -351,11 +351,155 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>The Hum 106.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Hum</string>
 			<key>link</key>
+			<string>https://s42.myradiostream.com/31802/listen.mp3</string>
+			<key>http</key>
+			<string>http://s42.myradiostream.com:31802/listen.pls?sid=1</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tahu 99.6 FM</string>
+			<key>logo</key>
+			<string>Tahu</string>
+			<key>link</key>
+			<string>http://apple.irirangi.net:8000/P_Tahu.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Summit 96.1 FM</string>
+			<key>logo</key>
+			<string>Summit</string>
+			<key>link</key>
+			<string>http://nzbsbroadcast.cpit.ac.nz:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Plains FM</string>
+			<key>logo</key>
+			<string>Plains</string>
+			<key>link</key>
+			<string>http://live.wizz.co.nz/pfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RDU 98.5 FM</string>
+			<key>logo</key>
+			<string>RDU</string>
+			<key>link</key>
+			<string>http://live.outcastdigital.com:8000/rdu.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Compass 104.9 FM</string>
+			<key>logo</key>
+			<string>Compass</string>
+			<key>link</key>
+			<string>http://69.56.173.49:8000/Compass_FM_104.9.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pulzar 105.7 FM</string>
+			<key>logo</key>
+			<string>Pulzar</string>
+			<key>link</key>
+			<string>http://198.105.216.204:8088/pulzarfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XS80s 107.3 FM</string>
+			<key>logo</key>
+			<string>XS80s</string>
+			<key>link</key>
+			<string>http://s1.myradiostream.com:12508/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dave 107.4 FM</string>
+			<key>logo</key>
+			<string>Dave</string>
+			<key>link</key>
+			<string>http://s1.myradiostream.com:12508/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Redwood 107.5 FM</string>
+			<key>logo</key>
+			<string>Redwood</string>
+			<key>link</key>
+			<string>http://203.94.43.88:8020/listen.pls</string>
+			<key>http</key>
+			<string>http://123.255.61.226:8020/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Just 107.7 FM</string>
+			<key>logo</key>
+			<string>Just</string>
+			<key>link</key>
+			<string>http://stream.justfm.co.nz:88/broadwave.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ferrymead 1413 AM</string>
+			<key>logo</key>
+			<string>Ferrymead</string>
+			<key>link</key>
+			<string>http://s2.stationplaylist.com:9440/listen.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Country Radio Dunedin</string>
+			<key>logo</key>
+			<string>Country</string>
+			<key>link</key>
+			<string>http://countryradio.ddns.net:8010/countryradiodunedin</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,167 +507,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Classic Gold 107.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Classic</string>
 			<key>link</key>
-			<string></string>
+			<string>http://shoutcast.classicgold.co.nz/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://203.118.144.79:8002/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>The Studio</string>
 			<key>logo</key>
-			<string></string>
+			<string>Studio</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://s40.myradiostream.com:13922/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
