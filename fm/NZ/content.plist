@@ -63,282 +63,6 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>KIX FM</string>
-			<key>logo</key>
-			<string>KIX</string>
-			<key>link</key>
-			<string>http://209.95.43.30:8308/stream.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Mix FM 87.7</string>
-			<key>logo</key>
-			<string>Mix</string>
-			<key>link</key>
-			<string>https://stream.mixfm.nz/</string>
-			<key>http</key>
-			<string>http://www.mixfm.nz/listen.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>City</string>
-			<key>logo</key>
-			<string>City</string>
-			<key>link</key>
-			<string>http://54.251.110.128:8000/live.m3u</string>
-			<key>http</key>
-			<string>http://54.251.110.128:8000/live</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>The Cheese 87.9 FM</string>
-			<key>logo</key>
-			<string>Cheese</string>
-			<key>link</key>
-			<string>http://thecheese.ddns.net:8000/listen.pls</string>
-			<key>http</key>
-			<string>http://thecheese.ddns.net:8000/listen.pls?sid=1</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Beep FM</string>
-			<key>logo</key>
-			<string>Beep</string>
-			<key>link</key>
-			<string>http://50.7.76.254:9847/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>KCFM</string>
-			<key>logo</key>
-			<string>KCFM</string>
-			<key>link</key>
-			<string>http://37.187.90.121:4134/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>World FM 88.2</string>
-			<key>logo</key>
-			<string>World</string>
-			<key>link</key>
-			<string>http://usa.worldfm.co.nz:8882/worldfm.mp3.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Salient FM 88.3</string>
-			<key>logo</key>
-			<string>Salient</string>
-			<key>link</key>
-			<string>http://s2.stationplaylist.com:8190/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>The Hits 90.1 FM</string>
-			<key>logo</key>
-			<string>Hits</string>
-			<key>link</key>
-			<string>http://ais-nzme.streamguys1.com/nz_007/playlist.m3u8</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>ZM</string>
-			<key>logo</key>
-			<string>ZM</string>
-			<key>link</key>
-			<string>http://streaming.radiomyway.co.nz/zmalt.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Gold</string>
-			<key>logo</key>
-			<string>Gold</string>
-			<key>link</key>
-			<string>http://ais-nzme.streamguys1.com/nz_015_aac</string>
-			<key>http</key>
-			<string>http://ais-nzme.streamguys1.com/nz_016_aac</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Atiawa Toa FM</string>
-			<key>logo</key>
-			<string>Atiawa</string>
-			<key>link</key>
-			<string>http://apple.irirangi.net:8000/Q_Atiawa_Toa.aac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Life FM</string>
-			<key>logo</key>
-			<string>Life</string>
-			<key>link</key>
-			<string>http://s7.viastreaming.net:8435/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Wellington Access Radio 783 AM</string>
-			<key>logo</key>
-			<string>Wellington</string>
-			<key>link</key>
-			<string>http://live.wizz.co.nz/war.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Maranui FM 106.7</string>
-			<key>logo</key>
-			<string>Maranui</string>
-			<key>link</key>
-			<string>http://pebbles.wizzhosting.co.nz/maranuifm.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Groove FM 107.7</string>
-			<key>logo</key>
-			<string>Groove</string>
-			<key>link</key>
-			<string>http://live.outcastdigital.com:8000/groove.m3u</string>
-			<key>http</key>
-			<string>http://live.outcastdigital.com:8000/groove</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Star Radio Network</string>
-			<key>logo</key>
-			<string>Network</string>
-			<key>link</key>
-			<string>https://rhema-radio.streamguys1.com/rhema-star.mp3</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Rhema</string>
-			<key>logo</key>
-			<string>Rhema</string>
-			<key>link</key>
-			<string>https://rhema-radio.streamguys1.com/rhema.mp3</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Te Upoko o te Ika</string>
-			<key>logo</key>
-			<string>Upoko</string>
-			<key>link</key>
-			<string>http://apple.irirangi.net:8000/A_Te_Upoko_O_Te_Ika.aac.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Boosh FM 87.7</string>
-			<key>logo</key>
-			<string>Boosh</string>
-			<key>link</key>
-			<string>https://stream.boosh.fm:8443/boosh256mp3</string>
-			<key>http</key>
-			<string>http://stream.boosh.fm:8000/boosh128mp3.m3u</string>
-			<key>note</key>
-			<string>Music</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Tama-Ohi</string>
-			<key>logo</key>
-			<string>Tama-Ohi</string>
-			<key>link</key>
-			<string>http://173.236.19.90:8174/listen.pls</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>95BFM</string>
-			<key>logo</key>
-			<string>95BFM</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/95-bfm-dsl,5271.m3u</string>
-			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/95-bfm-modem,892.m3u</string>
-			<key>note</key>
-			<string>Gold Coast (Local)</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>90.9 Sea FM</string>
-			<key>logo</key>
-			<string>Sea</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/90-9-sea-fm,9763.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
 			<string>Active 89 FM</string>
 			<key>logo</key>
 			<string>Active</string>
@@ -347,7 +71,19 @@
 			<key>http</key>
 			<string>http://stream.radioactive.fm:8000/ractive.m3u</string>
 			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AM 936 新闻台</string>
+			<key>logo</key>
+			<string>936</string>
+			<key>link</key>
+			<string>http://radio.936.nz:8000/am936.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -363,13 +99,73 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Base FM 107.7</string>
+			<string>Atiawa Toa FM</string>
+			<key>logo</key>
+			<string>Atiawa</string>
+			<key>link</key>
+			<string>http://apple.irirangi.net:8000/Q_Atiawa_Toa.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Base 107.7 FM</string>
 			<key>logo</key>
 			<string>Base</string>
 			<key>link</key>
 			<string>http://stream.basefm.co.nz:8000/BaseHi</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/base-fm-107-7,10531.m3u</string>
+			<string>http://130.216.72.72:8000/BaseHi.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBC World Service</string>
+			<key>logo</key>
+			<string>BBC</string>
+			<key>link</key>
+			<string>http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beep FM</string>
+			<key>logo</key>
+			<string>Beep</string>
+			<key>link</key>
+			<string>http://50.7.76.254:9847/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>bFM 95</string>
+			<key>logo</key>
+			<string>bFM</string>
+			<key>link</key>
+			<string>http://streams.95bfm.com/stream32.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/95-bfm-dsl,5271.m3u</string>
+			<key>note</key>
+			<string>Music (Gold Coast, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boosh FM 87.7</string>
+			<key>logo</key>
+			<string>Boosh</string>
+			<key>link</key>
+			<string>https://stream.boosh.fm:8443/boosh256mp3</string>
+			<key>http</key>
+			<string>http://stream.boosh.fm:8000/boosh128mp3.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -380,6 +176,18 @@
 			<string>Breeze</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/the-breeze-fm,897.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Calvary</string>
+			<key>logo</key>
+			<string>Calvary</string>
+			<key>link</key>
+			<string>http://184.154.90.186:8225/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,6 +207,30 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>City</string>
+			<key>logo</key>
+			<string>City</string>
+			<key>link</key>
+			<string>http://54.251.110.128:8000/live.m3u</string>
+			<key>http</key>
+			<string>http://54.251.110.128:8000/live</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classic Gold 107.3 FM</string>
+			<key>logo</key>
+			<string>Classic</string>
+			<key>link</key>
+			<string>http://shoutcast.classicgold.co.nz/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://203.118.144.79:8002/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Coast FM</string>
 			<key>logo</key>
 			<string>Coast</string>
@@ -407,19 +239,67 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/coast-fm,8647.m3u</string>
 			<key>note</key>
-			<string>Music</string>
+			<string>News, Talk, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Dunedin</string>
+			<string>Compass 104.9 FM</string>
 			<key>logo</key>
-			<string>Dunedin</string>
+			<string>Compass</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-dunedin,16784.m3u</string>
+			<string>http://69.56.173.49:8000/Compass_FM_104.9.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Country Radio Dunedin</string>
+			<key>logo</key>
+			<string>Country</string>
+			<key>link</key>
+			<string>http://countryradio.ddns.net:8010/countryradiodunedin</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dave 107.4 FM</string>
+			<key>logo</key>
+			<string>Dave</string>
+			<key>link</key>
+			<string>http://s1.myradiostream.com:12508/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dunedin 1305 AM, 95.4/106.7 FM</string>
+			<key>logo</key>
+			<string>Dunedin</string>
+			<key>link</key>
+			<string>http://icecast.mediaworks.co.nz:8000/Dunedin_96kbps.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-dunedin,16784.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>East FM</string>
+			<key>logo</key>
+			<string>East</string>
+			<key>link</key>
+			<string>http://listen.eastfm.nz/stream.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -447,15 +327,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FLAVA Hip Hop and RnB</string>
+			<string>Ferrymead 1413 AM</string>
 			<key>logo</key>
-			<string>FLAVA</string>
+			<string>Ferrymead</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/flava-hip-hop-rnb,17088.m3u</string>
+			<string>http://s2.stationplaylist.com:9440/listen.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FLAVA</string>
+			<key>logo</key>
+			<string>FLAVA</string>
+			<key>link</key>
+			<string>http://ais-nzme.streamguys1.com/nz_010/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/flava-hip-hop-rnb,17088.m3u</string>
+			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 104.2 中文電台</string>
+			<key>logo</key>
+			<string>104</string>
+			<key>link</key>
+			<string>http://radio.936.nz:8000/fm1042.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Free 89.0 FM / 1206 AM</string>
+			<key>logo</key>
+			<string>Free</string>
+			<key>link</key>
+			<string>http://live.wizz.co.nz/freefm89.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -466,6 +382,30 @@
 			<string>http://www.surfmusic.de/m3u/george-96-8-fm,7776.m3u</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gold</string>
+			<key>logo</key>
+			<string>Gold</string>
+			<key>link</key>
+			<string>http://ais-nzme.streamguys1.com/nz_015_aac</string>
+			<key>http</key>
+			<string>http://ais-nzme.streamguys1.com/nz_016_aac</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Groove FM 107.7</string>
+			<key>logo</key>
+			<string>Groove</string>
+			<key>link</key>
+			<string>http://live.outcastdigital.com:8000/groove.m3u</string>
+			<key>http</key>
+			<string>http://live.outcastdigital.com:8000/groove</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -495,6 +435,90 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Humm FM 106.2</string>
+			<key>logo</key>
+			<string>Humm</string>
+			<key>link</key>
+			<string>https://cp12.serverse.com/proxy/hummfm?mp=/live</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Just 107.7 FM</string>
+			<key>logo</key>
+			<string>Just</string>
+			<key>link</key>
+			<string>http://stream.justfm.co.nz:88/broadwave.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KCFM</string>
+			<key>logo</key>
+			<string>KCFM</string>
+			<key>link</key>
+			<string>http://37.187.90.121:4134/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KIX FM</string>
+			<key>logo</key>
+			<string>KIX</string>
+			<key>link</key>
+			<string>http://209.95.43.30:8308/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Life FM</string>
+			<key>logo</key>
+			<string>Life</string>
+			<key>link</key>
+			<string>http://s7.viastreaming.net:8435/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LOVE FM 99.4 交通音乐广播</string>
+			<key>logo</key>
+			<string>LOV</string>
+			<key>link</key>
+			<string>http://radio.936.nz:8000/fm994.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MAD FM</string>
+			<key>logo</key>
+			<string>MAD</string>
+			<key>link</key>
+			<string>http://hyades.shoutca.st:8799/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Mai FM 88.6</string>
 			<key>logo</key>
 			<string>Mai</string>
@@ -507,39 +531,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RNZ International </string>
+			<string>Maniapoto FM</string>
 			<key>logo</key>
-			<string>RNZ</string>
+			<string>Maniapoto</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/neuseeland-int,896.m3u</string>
+			<string>http://apple.irirangi.net:8000/R_Maniapoto.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RNZ National</string>
+			<string>Maranui FM 106.7</string>
 			<key>logo</key>
-			<string>RN</string>
+			<string>Maranui</string>
 			<key>link</key>
-			<string>http://radionz-ice.streamguys.com/national.mp3.m3u</string>
+			<string>http://pebbles.wizzhosting.co.nz/maranuifm.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/national-radio,7491.m3u</string>
+			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>News, Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RNZ Concert</string>
+			<string>Mix FM 87.9</string>
 			<key>logo</key>
-			<string>Concert</string>
+			<string>Mix</string>
 			<key>link</key>
-			<string>http://radionz-ice.streamguys.com/concert.mp3.m3u</string>
+			<string>https://stream.mixfm.nz/</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/concert-fm,7490.m3u</string>
+			<string>http://www.mixfm.nz/listen.m3u</string>
 			<key>note</key>
 			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mountainside 88.3 FM</string>
+			<key>logo</key>
+			<string>Mountainside</string>
+			<key>link</key>
+			<string>http://stream.nrgkits.co.nz:5000/mountainside</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -551,7 +587,7 @@
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/newstalk-zb-89-4-fm,18990.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>News, Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -567,6 +603,54 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>One 91.0 FM</string>
+			<key>logo</key>
+			<string>One</string>
+			<key>link</key>
+			<string>http://stream.r1.co.nz:8090/r1-high.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News (Dunedin, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Otago Access 105.4 FM / 1575 AM</string>
+			<key>logo</key>
+			<string>Otago</string>
+			<key>link</key>
+			<string>http://pebbles.wizzhosting.co.nz/tr.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Dunedin (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Plains FM</string>
+			<key>logo</key>
+			<string>Plains</string>
+			<key>link</key>
+			<string>http://live.wizz.co.nz/pfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Planet FM 104.6</string>
+			<key>logo</key>
+			<string>Planet</string>
+			<key>link</key>
+			<string>http://67.212.165.106:8011/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Oldies, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Pulse</string>
 			<key>logo</key>
 			<string>Pulse</string>
@@ -576,6 +660,174 @@
 			<string></string>
 			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pulzar 105.7 FM</string>
+			<key>logo</key>
+			<string>Pulzar</string>
+			<key>link</key>
+			<string>http://198.105.216.204:8088/pulzarfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Raukawa FM</string>
+			<key>logo</key>
+			<string>Raukawa</string>
+			<key>link</key>
+			<string>http://apple.irirangi.net:8000/W_Raukava.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RDU 98.5 FM</string>
+			<key>logo</key>
+			<string>RDU</string>
+			<key>link</key>
+			<string>http://live.outcastdigital.com:8000/rdu.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Redwood 107.5 FM</string>
+			<key>logo</key>
+			<string>Redwood</string>
+			<key>link</key>
+			<string>http://203.94.43.88:8020/listen.pls</string>
+			<key>http</key>
+			<string>http://123.255.61.226:8020/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rhema</string>
+			<key>logo</key>
+			<string>Rhema</string>
+			<key>link</key>
+			<string>https://rhema-radio.streamguys1.com/rhema.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNZ Concert</string>
+			<key>logo</key>
+			<string>Concert</string>
+			<key>link</key>
+			<string>http://radionz-ice.streamguys.com/concert.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/concert-fm,7490.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNZ International </string>
+			<key>logo</key>
+			<string>RNZ</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/neuseeland-int,896.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>RNZ National</string>
+			<key>logo</key>
+			<string>RN</string>
+			<key>link</key>
+			<string>http://radionz-ice.streamguys.com/national.mp3.m3u</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/national-radio,7491.m3u</string>
+			<key>note</key>
+			<string>News, Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rock It 107.5 FM</string>
+			<key>logo</key>
+			<string>Rock</string>
+			<key>link</key>
+			<string>http://108.163.223.242:8368/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rush FM</string>
+			<key>logo</key>
+			<string>Rush</string>
+			<key>link</key>
+			<string>http://rushbroadcasting.serverroom.us:5204/;</string>
+			<key>http</key>
+			<string>http://rushbroadcasting.serverroom.us:5204/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Salient FM 88.3</string>
+			<key>logo</key>
+			<string>Salient</string>
+			<key>link</key>
+			<string>http://s2.stationplaylist.com:8190/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Samoa 1593 AM</string>
+			<key>logo</key>
+			<string>Samoa</string>
+			<key>link</key>
+			<string>http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sea 90.9 FM</string>
+			<key>logo</key>
+			<string>Sea</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/90-9-sea-fm,9763.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sleep</string>
+			<key>logo</key>
+			<string>Sleep</string>
+			<key>link</key>
+			<string>http://www.surfmusic.de/m3u/sleep-radio,19414.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Te Aroha, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -591,15 +843,291 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sleep</string>
+			<string>Star Radio Network</string>
 			<key>logo</key>
-			<string>Sleep</string>
+			<string>Network</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/sleep-radio,19414.m3u</string>
+			<string>https://rhema-radio.streamguys1.com/rhema-star.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Music (Te Aroha, Local)</string>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Static 88.1 FM</string>
+			<key>logo</key>
+			<string>Static</string>
+			<key>link</key>
+			<string>http://artsweb.aut.ac.nz:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Summit 96.1 FM</string>
+			<key>logo</key>
+			<string>Summit</string>
+			<key>link</key>
+			<string>http://nzbsbroadcast.cpit.ac.nz:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Christchurch (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tahu 99.6 FM</string>
+			<key>logo</key>
+			<string>Tahu</string>
+			<key>link</key>
+			<string>http://apple.irirangi.net:8000/P_Tahu.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tainui 95.4 FM</string>
+			<key>logo</key>
+			<string>Tainui</string>
+			<key>link</key>
+			<string>http://apple.irirangi.net:8000/F_Tainui.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tama-Ohi</string>
+			<key>logo</key>
+			<string>Tama-Ohi</string>
+			<key>link</key>
+			<string>http://173.236.19.90:8174/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tarana 1386 AM</string>
+			<key>logo</key>
+			<string>Tarana</string>
+			<key>link</key>
+			<string>http://peridot.streamguys.com:7150/Tarana.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Te Upoko o te Ika</string>
+			<key>logo</key>
+			<string>Upoko</string>
+			<key>link</key>
+			<string>http://apple.irirangi.net:8000/A_Te_Upoko_O_Te_Ika.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Cheese 87.9 FM</string>
+			<key>logo</key>
+			<string>Cheese</string>
+			<key>link</key>
+			<string>http://thecheese.ddns.net:8000/listen.pls</string>
+			<key>http</key>
+			<string>http://thecheese.ddns.net:8000/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Flea 88.2 FM</string>
+			<key>logo</key>
+			<string>Flea</string>
+			<key>link</key>
+			<string>http://49.50.246.42:8020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Hits</string>
+			<key>logo</key>
+			<string>Hits</string>
+			<key>link</key>
+			<string>http://ais-nzme.streamguys1.com/nz_007/playlist.m3u8</string>
+			<key>http</key>
+			<string>http://ais-nzme.streamguys1.com/nz_005/playlist.m3u8</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Hum 106.7 FM</string>
+			<key>logo</key>
+			<string>Hum</string>
+			<key>link</key>
+			<string>https://s42.myradiostream.com/31802/listen.mp3</string>
+			<key>http</key>
+			<string>http://s42.myradiostream.com:31802/listen.pls?sid=1</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Plug 106.9 FM</string>
+			<key>logo</key>
+			<string>Plug</string>
+			<key>link</key>
+			<string>http://s6.voscast.com:8768/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>The Studio</string>
+			<key>logo</key>
+			<string>Studio</string>
+			<key>link</key>
+			<string>http://s40.myradiostream.com:13922/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Total FM</string>
+			<key>logo</key>
+			<string>Total</string>
+			<key>link</key>
+			<string>http://219.89.83.33:8000/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Dunedin, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Virsa NZ 107.0 FM</string>
+			<key>logo</key>
+			<string>Virsa</string>
+			<key>link</key>
+			<string>http://s8.voscast.com:7992/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Waatea 603 AM</string>
+			<key>logo</key>
+			<string>Waatea</string>
+			<key>link</key>
+			<string>http://apple.irirangi.net:8000/I_Waatea.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Waves of the Pacific</string>
+			<key>logo</key>
+			<string>Pacific</string>
+			<key>link</key>
+			<string>http://ice1.outcastdigital.com:8000/radiomapa</string>
+			<key>http</key>
+			<string>http://ice1.outcastdigital.com:8000/radiomapa.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wellington Access Radio 783 AM</string>
+			<key>logo</key>
+			<string>Wellington</string>
+			<key>link</key>
+			<string>http://live.wizz.co.nz/war.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>West FM</string>
+			<key>logo</key>
+			<string>West</string>
+			<key>link</key>
+			<string>http://dledgar.dyndns.org:8000/westfm.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>World FM 88.2</string>
+			<key>logo</key>
+			<string>World</string>
+			<key>link</key>
+			<string>http://usa.worldfm.co.nz:8882/worldfm.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Talk, Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>XS80s 107.3 FM</string>
+			<key>logo</key>
+			<string>XS80s</string>
+			<key>link</key>
+			<string>http://s1.myradiostream.com:12508/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Christchurch, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ZM</string>
+			<key>logo</key>
+			<string>ZM</string>
+			<key>link</key>
+			<string>http://streaming.radiomyway.co.nz/zmalt.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Top Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>中文广播电台 FM 90.6</string>
+			<key>logo</key>
+			<string>NZCM</string>
+			<key>link</key>
+			<string>http://43.225.201.180:8000/NZCM.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
 		</dict>
 	</array>
 </dict>
