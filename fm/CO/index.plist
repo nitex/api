@@ -183,11 +183,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cristalina 102.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cristalina</string>
 			<key>link</key>
-			<string></string>
+			<string>http://37.187.93.104:8319/LaMesa.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,23 +195,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ciudad Stereo 106.4 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ciudad</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream2.emisorasvirtuales.com:8186/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>https://estructuraweb.com.co:9054/live</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RCN 2</string>
 			<key>logo</key>
-			<string></string>
+			<string>RCN2</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/RCN_RADIO_AM.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -785,7 +785,7 @@
 			<key>name</key>
 			<string>Emisora Reina 870 AM</string>
 			<key>logo</key>
-			<string>Emisora</string>
+			<string>870</string>
 			<key>link</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.4.210:3886/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
@@ -1063,7 +1063,7 @@
 			<key>logo</key>
 			<string>Amor</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/amor-stereo,11389.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/AMOR_BOG.pls</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/anos-maravillosos,18541.m3u</string>
 			<key>note</key>
@@ -1083,13 +1083,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Antena 2</string>
+			<string>Antena 2 Bogotá</string>
 			<key>logo</key>
 			<string>Antena</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/antena-2,11393.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA_2_BOG.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/antena-2,11393.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1159,9 +1159,9 @@
 			<key>logo</key>
 			<string>Bogota</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bogota-105-9-fm-olimpica-stereo,16263.m3u</string>
+			<string>http://i60.letio.com/9114.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/bogota-105-9-fm-olimpica-stereo,16263.m3u</string>
 			<key>note</key>
 			<string>Music (Local)</string>
 		</dict>
@@ -1455,13 +1455,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Candela Estereo 101.9 FM</string>
+			<string>Candela Estereo</string>
 			<key>logo</key>
 			<string>Candela</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/candela-estereo-101-9-fm,7975.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/CANDELAESTEREO.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/candela-estereo-101-9-fm,7975.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1471,7 +1471,7 @@
 			<key>logo</key>
 			<string>Caracol</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/caracol-radio,11397.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO.pls</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/noticias-caracol-radio-100-9-fm,19991.m3u</string>
 			<key>note</key>
@@ -1533,7 +1533,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/el-sol-medellin-107-9-fm,18468.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live2.rcnmundo.com/rumba.mp3.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -1615,7 +1615,7 @@
 			<key>logo</key>
 			<string>HJUT</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/hjut-106-9-fm-universidad-de-bogota,11395.m3u</string>
+			<string>http://190.60.231.7:8000/listen.pls</string>
 			<key>http</key>
 			<string>http://hjut.utadeo.edu.co:8000/;emisora-hjut.mp3</string>
 			<key>note</key>
@@ -1639,11 +1639,11 @@
 			<key>logo</key>
 			<string>Carinosa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-carinosa,11527.m3u</string>
+			<string>http://live2.rcnmundo.com/lacarinosa.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/la-carinosa,11527.m3u</string>
 			<key>note</key>
-			<string>Pasto (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1743,15 +1743,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>LA W Radio</string>
+			<string>W Radio</string>
 			<key>logo</key>
 			<string>W</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-w-radio,20014.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/w-radio,7939.m3u</string>
+			<string>http://www.surfmusic.de/m3u/la-w-radio,20014.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1771,11 +1771,11 @@
 			<key>logo</key>
 			<string>Mas</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-x-mas-musica,20157.m3u</string>
+			<string>http://99.198.110.162:7032/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/la-x-mas-musica,20157.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1831,9 +1831,9 @@
 			<key>logo</key>
 			<string>730</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/melodia-stereo-730-am,17387.m3u</string>
+			<string>http://i60.letio.com/8032.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/melodia-stereo-730-am,17387.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1863,7 +1863,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>OXIGENO 2 - 104.4 FM Medellin</string>
+			<string>OXIGENO 104.4 FM Medellin</string>
 			<key>logo</key>
 			<string>OXIGENO</string>
 			<key>link</key>
@@ -1875,15 +1875,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>OXIGENO 2 - 100.4 FM Bogota</string>
+			<string>OXIGENO 100.4 FM Bogota</string>
 			<key>logo</key>
 			<string>OXIGEN</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/oxigeno-2-100-4-fm,17716.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/OXIGENO.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/oxigeno-2-100-4-fm,17716.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1935,15 +1935,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Autentica Cali 660 AM</string>
+			<string>Autentica</string>
 			<key>logo</key>
 			<string>Autentica</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-autentica-cali-660-am,20017.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://50.30.40.140:8477/listen.pls</string>
 			<key>note</key>
-			<string>Local</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2025,7 +2025,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-minuto-de-dios-107-9-fm,11403.m3u</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-minuto-de-dios-1230-am,19530.m3u</string>
+			<string>http://64.37.55.231:8652/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2295,13 +2295,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Señal Radiónica 99.9 FM</string>
+			<string>Señal Radiónica</string>
 			<key>logo</key>
 			<string>Radionica</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/senal-radionica-99-9-fm,11394.m3u</string>
+			<string>http://shoutcast.rtvc.gov.co:8010/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/senal-radionica-99-9-fm,11394.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2359,9 +2359,9 @@
 			<key>logo</key>
 			<string>Tropicana</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/tropicana-102-9-fm,744.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/tropicana-102-9-fm,744.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -2403,25 +2403,25 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Vibra Bogota 104.9 FM</string>
+			<string>Vibra 104.9 FM</string>
 			<key>logo</key>
 			<string>Vibra</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/vibra-bogota-104-9-fm,7974.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/VIBRA.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/vibra-bogota-104-9-fm,7974.m3u</string>
 			<key>note</key>
 			<string>Top</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Vida Bogota</string>
+			<string>Vida</string>
 			<key>logo</key>
 			<string>Vida</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/vida-bogota,7976.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i60.letio.com/8222.aac.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
