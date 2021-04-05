@@ -293,7 +293,7 @@
 			<key>name</key>
 			<string>Fuego 1160 AM</string>
 			<key>logo</key>
-			<string>Fuego</string>
+			<string>1160</string>
 			<key>link</key>
 			<string>https://radio35.virtualtronics.com:20017/stream</string>
 			<key>http</key>
@@ -399,11 +399,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Verdad 1580 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Verdad</string>
 			<key>link</key>
+			<string>http://emisorasvirtuales.net:8069/stream.m3u</string>
+			<key>http</key>
+			<string>https://emisorasvirtuales.com.co:9294/live</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fiesta Stereo 88.1 FM</string>
+			<key>logo</key>
+			<string>Fiesta</string>
+			<key>link</key>
+			<string>https://streaming.radiosenlinea.com.ar/8800/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,11 +423,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>VoKaribe 89.6 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>VoKaribe</string>
 			<key>link</key>
+			<string>http://streamserver3.us:7066/stream.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Barranquilla (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Marina Stereo 90.7 FM</string>
+			<key>logo</key>
+			<string>Marina</string>
+			<key>link</key>
+			<string>http://216.246.77.36:8084/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,11 +447,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Plenitud Stereo 96.6 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Plenitud</string>
 			<key>link</key>
-			<string></string>
+			<string>http://198.245.49.43:9234/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -435,11 +459,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Puerto Estéreo 101.6 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Puerto</string>
 			<key>link</key>
-			<string></string>
+			<string>http://s1.vpsradio.com:9980/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -447,11 +471,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Fuego 101.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Fuego</string>
 			<key>link</key>
+			<string>http://real2.streaming-co.com:8747/;</string>
+			<key>http</key>
+			<string>http://real2.streaming-co.com:8747/listen.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 103.9 FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>http://i60.letio.com/9156.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Barranquilla (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emisora Atlántico 1070 AM</string>
+			<key>logo</key>
+			<string>Atlantico</string>
+			<key>link</key>
+			<string>http://i10.letio.com/9104.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -459,11 +507,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Emisora Riomar 1130 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Riomar</string>
 			<key>link</key>
-			<string></string>
+			<string>http://65.60.45.74:8086/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -471,59 +519,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Emisora ABC 1250 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>ABC</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://173.255.138.90:8190/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1147,9 +1147,9 @@
 			<key>logo</key>
 			<string>Barranquilla</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/barranquilla-92-1-fm-olimpica-stereo,16262.m3u</string>
+			<string>http://i60.letio.com/9102.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/barranquilla-92-1-fm-olimpica-stereo,16262.m3u</string>
 			<key>note</key>
 			<string>Music (Local)</string>
 		</dict>
@@ -1347,7 +1347,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Besame 100.4 FM</string>
+			<string>Bésame</string>
 			<key>logo</key>
 			<string>Besame</string>
 			<key>link</key>
@@ -1355,7 +1355,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1365,7 +1365,7 @@
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/blu-radio-96-9-fm,17597.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/BLU_BARRANQUILLA.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1473,7 +1473,7 @@
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/noticias-caracol-radio-100-9-fm,19991.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/CR_BARRANQ.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1603,9 +1603,9 @@
 			<key>logo</key>
 			<string>G12</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/g12-radio,20049.m3u</string>
+			<string>http://m.g12radio.com:8000/G12RADIOMP3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/g12-radio,20049.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -1719,13 +1719,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La Reina Del Vallenato</string>
+			<string>La Reina</string>
 			<key>logo</key>
 			<string>Del</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/la-reina-98-6-fm-barranquilla,16277.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i60.letio.com/9106.aac.m3u</string>
 			<key>note</key>
 			<string>Local (Barranquilla)</string>
 		</dict>
@@ -2061,7 +2061,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-policia-nacional-102-6-fm-barranquilla,19547.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>https://radio.policia.gov.co:8080/barranquilla.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2217,7 +2217,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-tiempo-96-1-fm-barranquilla,16278.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i10.letio.com/9100.aac.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -2355,13 +2355,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Tropicana 102.9 FM</string>
+			<string>Tropicana</string>
 			<key>logo</key>
 			<string>Tropicana</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/TROPICANA.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/tropicana-102-9-fm,744.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/TR_BARRANQUILLA.pls</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
