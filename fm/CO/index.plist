@@ -483,15 +483,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mix 103.9 FM</string>
+			<string>Mix</string>
 			<key>logo</key>
 			<string>Mix</string>
 			<key>link</key>
 			<string>http://i60.letio.com/9156.aac.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i60.letio.com/9180.aac.m3u</string>
 			<key>note</key>
-			<string>Barranquilla (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -531,11 +531,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Voz De La Patria Celestial 1310 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Patria</string>
 			<key>link</key>
+			<string>http://149.56.147.197:8004/stream.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Barranquilla (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vida Nueva 1490 AM</string>
+			<key>logo</key>
+			<string>Nueva</string>
+			<key>link</key>
+			<string>http://107.181.225.210:8000/vidanueva.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -543,11 +555,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Payumat</string>
 			<key>logo</key>
-			<string></string>
+			<string>Payumat</string>
 			<key>link</key>
-			<string></string>
+			<string>https://cast.miradio.in:9102/;stream.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -555,11 +567,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Z Urbana 101.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Urbana</string>
 			<key>link</key>
+			<string>http://65.60.45.74:8090/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Cali (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Rumbera 103.5 FM</string>
+			<key>logo</key>
+			<string>Rumbera</string>
+			<key>link</key>
+			<string>http://184.107.35.153:9336/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Palmira (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Univalle Estéreo 105.3 FM</string>
+			<key>logo</key>
+			<string>Univalle</string>
+			<key>link</key>
+			<string>http://uv-stereo.univalle.edu.co:8000/envivo.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Cali (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Yumbo Estéreo 107.0 FM</string>
+			<key>logo</key>
+			<string>Yumbo</string>
+			<key>link</key>
+			<string>http://50.30.40.140:8030/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -567,11 +615,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Mágica 107.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Magica</string>
 			<key>link</key>
+			<string>http://192.99.150.42:9976/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Cali (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Voz del Valle 780 AM</string>
+			<key>logo</key>
+			<string>Valle</string>
+			<key>link</key>
+			<string>http://65.60.45.74:8098/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -579,11 +639,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Voz de Cali 900 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>900</string>
 			<key>link</key>
-			<string></string>
+			<string>http://65.60.45.74:8102/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -591,11 +651,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Calima 940 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Calima</string>
 			<key>link</key>
-			<string></string>
+			<string>http://65.60.45.74:8100/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -603,71 +663,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Eco 1160 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Eco</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://65.60.45.74:8104/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -689,7 +689,7 @@
 			<key>name</key>
 			<string>Colombia Rumbera</string>
 			<key>logo</key>
-			<string>Rumbera</string>
+			<string>Colombi</string>
 			<key>link</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.187.90.196:9480/listen.pls?sid=1&amp;t=.pls</string>
 			<key>http</key>
@@ -1387,11 +1387,11 @@
 			<key>logo</key>
 			<string>Boom</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/boom-99-1-fm,14642.m3u</string>
+			<string>https://stream1.redsonoraradio.net:8090/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/boom-99-1-fm,14642.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1419,15 +1419,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fiesta Buga 106.1 FM</string>
+			<string>Fiesta 106.1 FM</string>
 			<key>logo</key>
 			<string>Buga</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/buga-106-1-fm,13831.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live2.rcnmundo.com/fiestabuga.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Buga (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1521,7 +1521,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/el-sol-cali-98-0-fm,18467.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live2.rcnmundo.com/elsolcali.mp3.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -1545,7 +1545,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/el-sol-tulua-96-1-fm,18469.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live2.rcnmundo.com/lacarinosabarranquilla.mp3.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -1659,13 +1659,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La FM 94.9</string>
+			<string>La FM</string>
 			<key>logo</key>
 			<string>La</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/LA_FM_BOG.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/la-fm-94-9-fm,14640.m3u</string>
+			<string>http://live2.rcnmundo.com/lafmcali.mp3.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -1677,9 +1677,9 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/la-maxima-89-1-fm,14643.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://docketworks.com:9004/listen.pls</string>
 			<key>note</key>
-			<string></string>
+			<string>Cali (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1773,7 +1773,7 @@
 			<key>link</key>
 			<string>http://99.198.110.162:7032/listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/la-x-mas-musica,20157.m3u</string>
+			<string>http://65.60.45.74:8088/listen.pls</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -2043,7 +2043,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Planeta Cali 96.9 FM</string>
+			<string>Planeta 96.9 FM</string>
 			<key>logo</key>
 			<string>Planeta</string>
 			<key>link</key>
@@ -2051,7 +2051,7 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Cali (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2181,7 +2181,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-tiempo-89-5-fm-cali,16282.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i10.letio.com/9164.aac.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
@@ -2265,7 +2265,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/rumba-105-4-fm,13829.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live2.rcnmundo.com/rumbacali.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2393,11 +2393,11 @@
 			<key>name</key>
 			<string>Valle Verde Stereo 91.0 FM</string>
 			<key>logo</key>
-			<string>Valle</string>
+			<string>Verde</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/valle-verde-stereo-91-0-fm,19321.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i50.letio.com/7770.aac.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
