@@ -171,11 +171,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>LaRed 102.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Red</string>
 			<key>link</key>
-			<string></string>
+			<string>http://198.7.59.12:4739/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -183,11 +183,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Veterana 103.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Veterana</string>
 			<key>link</key>
+			<string>http://radio.nebra.co:8001/laveteranacentromp3</string>
+			<key>http</key>
+			<string>http://radio.nebra.co:8001/laveteranacentromp3.m3u</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Emisora Cultural del Tolima 104.3 FM</string>
+			<key>logo</key>
+			<string>Cultural</string>
+			<key>link</key>
+			<string>http://162.210.196.142:18851/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Ibagué (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TOCA Estéreo 105.3 FM</string>
+			<key>logo</key>
+			<string>TOCA</string>
+			<key>link</key>
+			<string>http://real2.streaming-co.com:8048/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Fusagasugá (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Transmisora Quindío 720 AM</string>
+			<key>logo</key>
+			<string>Transmisora</string>
+			<key>link</key>
+			<string>http://173.236.19.92/proxy/transmis</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,11 +231,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Voz del Tolima 870 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>LaVoz</string>
 			<key>link</key>
-			<string></string>
+			<string>http://158.69.242.119:7606/listen.pls</string>
+			<key>http</key>
+			<string>http://51.15.160.78:8739/;stream.nsv</string>
+			<key>note</key>
+			<string>Ibagué (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Voz de Armenia 1040 AM</string>
+			<key>logo</key>
+			<string>1040</string>
+			<key>link</key>
+			<string>http://192.99.18.107:8118/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Panamericana 1140 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Panamericana</string>
 			<key>link</key>
-			<string></string>
+			<string>http://192.163.226.125:8211/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,11 +267,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ondas de la Montaña 1350 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ondas</string>
 			<key>link</key>
-			<string></string>
+			<string>http://149.56.134.163:9808/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -231,47 +279,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Universitaria Estéreo 88.2 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Universitaria</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.utp.edu.co:8000/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Pereira (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Filadelfia Estéreo 92.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Filadelfia</string>
 			<key>link</key>
-			<string></string>
+			<string>http://giss.tv:8000/FiladelfiaStereo.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Super Estación 93.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Supe</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://samuel.i-radio.co:8000/lasuperestacion.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1683,51 +1719,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Antena 2 Bogotá</string>
+			<string>Antena 2</string>
 			<key>logo</key>
 			<string>Antena</string>
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/ANTENA_2_BOG.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/antena-2,11393.m3u</string>
+			<string>http://live2.rcnmundo.com/antena2medellin.mp3.m3u</string>
 			<key>note</key>
 			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Antena 2 Bucaramanga</string>
-			<key>logo</key>
-			<string>Bucaramanga</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/antena-2-bucaramanga,18464.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Local</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Antena 2 Cali</string>
-			<key>logo</key>
-			<string>Cali</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/antena-2-cali,18465.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Local</string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>Antena 2 Medellin</string>
-			<key>logo</key>
-			<string>2</string>
-			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/antena-2-medellin,18466.m3u</string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1821,7 +1821,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/ibague-94-3-fm-olimpica-stereo,16268.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://stream.jach.com.co:8248/stream.m3u</string>
 			<key>note</key>
 			<string>Music (Local)</string>
 		</dict>
@@ -1833,7 +1833,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/manizales-89-7-fm-olimpica-stereo,16269.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i50.letio.com/9126.aac.m3u</string>
 			<key>note</key>
 			<string>Music (Local)</string>
 		</dict>
@@ -2107,11 +2107,11 @@
 			<key>logo</key>
 			<string>Combeima</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/ecos-del-combeima-790-am,11402.m3u</string>
+			<string>http://s2.viastreaming.net:8030/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/ecos-del-combeima-790-am,11402.m3u</string>
 			<key>note</key>
-			<string>Ibague (Local)</string>
+			<string>Ibagué (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
