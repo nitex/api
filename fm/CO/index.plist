@@ -315,11 +315,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Caldas 96.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Caldas</string>
 			<key>link</key>
+			<string>http://184.107.184.5:8000/caldasfm.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Manizales (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Angular Estéreo 97.2 FM</string>
+			<key>logo</key>
+			<string>Angular</string>
+			<key>link</key>
+			<string>http://198.27.88.38:7080/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -327,11 +339,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RAC Emisora Cultural 97.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>RAC</string>
 			<key>link</key>
+			<string>http://univirtual.utp.edu.co:8000/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pereira (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Unción 98.3 FM</string>
+			<key>logo</key>
+			<string>Uncion</string>
+			<key>link</key>
+			<string>http://samuel.i-radio.co:8000/uncionradio.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,11 +363,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Risaralda 100.2 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Risaralda</string>
 			<key>link</key>
+			<string>http://server2.ejeserver.com:8080/live.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Pereira (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UM Radio 101.2 FM</string>
+			<key>logo</key>
+			<string>UM</string>
+			<key>link</key>
+			<string>http://107.190.131.29:5806/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Manizales (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pereira al Aire 107.9 FM</string>
+			<key>logo</key>
+			<string>Aire</string>
+			<key>link</key>
+			<string>http://s2.voscast.com:9854/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -351,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Manizales 630 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>630</string>
 			<key>link</key>
-			<string></string>
+			<string>http://65.60.45.74:8092/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +411,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>ECOS 1360 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1360</string>
 			<key>link</key>
-			<string></string>
+			<string>http://www.colombiaemite.com:10266/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,99 +423,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La voz de los Andes 1390 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1390</string>
 			<key>link</key>
-			<string></string>
+			<string>http://docketworks.com:9012/listen.pls</string>
 			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Manizales (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Antena de los Andes 1520 AM</string>
+			<key>logo</key>
+			<string>1520</string>
+			<key>link</key>
+			<string>https://radiolatina.live:10990/;</string>
+			<key>http</key>
+			<string>http://192.190.87.17:9300/listen.pls?sid=1</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cóndor 1540 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1540</string>
 			<key>link</key>
-			<string></string>
+			<string>http://192.190.87.17:9336/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Manizales (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Zona 88.4 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Zona</string>
 			<key>link</key>
-			<string></string>
+			<string>http://real1.streaming-co.com:8336/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Medellín (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -903,13 +903,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Colmundo 1040 AM</string>
+			<string>Colmundo</string>
 			<key>logo</key>
 			<string>Colmundo</string>
 			<key>link</key>
 			<string>http://streaming-custom.enetres.net:8000/colmundo.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://192.163.226.125:8217/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
