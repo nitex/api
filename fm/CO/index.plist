@@ -147,13 +147,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Guasca 90.3 FM</string>
+			<string>Guasca FM</string>
 			<key>logo</key>
 			<string>Guasca</string>
 			<key>link</key>
 			<string>http://guascafm.com:8000/guascafm.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://guascafm.com:8000/guascafm889.m3u</string>
 			<key>note</key>
 			<string>Agua de Dios (Local)</string>
 		</dict>
@@ -471,11 +471,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Frecuencia Estéreo 88.4 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Frecuenci</string>
 			<key>link</key>
-			<string></string>
+			<string>http://149.56.134.163:9904/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -483,11 +483,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Bolivariana 1110 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Bolivariana</string>
 			<key>link</key>
+			<string>http://streaming.radiobolivarianavirtual.com:7620/listen.pls</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Medellín (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cámara 95.9 FM</string>
+			<key>logo</key>
+			<string>Camara</string>
+			<key>link</key>
+			<string>http://959camarafm.serverroom.us/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -495,11 +507,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cristal 96.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cristal</string>
 			<key>link</key>
+			<string>http://live2.rcnmundo.com/radiocristal.mp3.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Medellín (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alegría 98.5 FM</string>
+			<key>logo</key>
+			<string>Alegria</string>
+			<key>link</key>
+			<string>http://195.154.182.222:25008/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Itagüi (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Alternativa 98.5 FM</string>
+			<key>logo</key>
+			<string>Alternativa</string>
+			<key>link</key>
+			<string>http://www.colombiaemite.com:10352/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,107 +543,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Latina Stereo 100.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Latina</string>
 			<key>link</key>
-			<string></string>
+			<string>http://198.27.68.65:8296/live.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://198.27.68.65:8296/stream</string>
 			<key>note</key>
-			<string></string>
+			<string>Medellín (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Emisora Cultural UdeA 1410 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>UdeA</string>
 			<key>link</key>
-			<string></string>
+			<string>https://node-07.zeno.fm/8fqquwwhuceuv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Medellín (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Q&apos;hubo 102.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Qhubo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/QHUBO_MEDELLIN.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Medellín (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La X Electrónica 103.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Electronica</string>
 			<key>link</key>
-			<string></string>
+			<string>http://66.240.202.106:8074/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Estrella Estéreo 104.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Estrell</string>
 			<key>link</key>
-			<string></string>
+			<string>http://audio.estrellacolombia.com:8006/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Múnera Eastman 790 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Eastman</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://radiolatina.info:9856/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -807,13 +807,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>UN Radio 98.5 FM</string>
+			<string>UN Radio</string>
 			<key>logo</key>
 			<string>UN</string>
 			<key>link</key>
 			<string>http://streaming.unradio.unal.edu.co:8010/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streaming.unradio.unal.edu.co:8012/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -879,15 +879,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Red 970 AM</string>
+			<string>Radio Red</string>
 			<key>logo</key>
-			<string>970</string>
+			<string>RadioRed</string>
 			<key>link</key>
 			<string>http://live2.rcnmundo.com/radiored.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://live2.rcnmundo.com/radioredmedellin.mp3.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1203,15 +1203,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La Z Urbana 101.5 FM</string>
+			<string>La Z Urbana FM</string>
 			<key>logo</key>
 			<string>Urbana</string>
 			<key>link</key>
 			<string>http://65.60.45.74:8090/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://66.240.202.106:8070/listen.pls</string>
 			<key>note</key>
-			<string>Cali (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1845,7 +1845,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/medellin-104-9-olimpica-stereo,16897.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i10.letio.com/9128.aac.m3u</string>
 			<key>note</key>
 			<string>Music (Local)</string>
 		</dict>
@@ -2131,11 +2131,11 @@
 			<key>logo</key>
 			<string>El</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/el-sol-medellin-107-9-fm,18468.m3u</string>
+			<string>http://live2.rcnmundo.com/elsolmedellin.mp3.m3u</string>
 			<key>http</key>
 			<string>http://live2.rcnmundo.com/rumba.mp3.m3u</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>Music, Local</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2187,15 +2187,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Fantástica Medellin 96.9 FM</string>
+			<string>Fantástica</string>
 			<key>logo</key>
 			<string>Fantastica</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fantastica-medellin-96-9-fm,18470.m3u</string>
+			<string>http://live2.rcnmundo.com/fantasticamedellin.mp3.m3u</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/la-fantastico-104-4-fm,14641.m3u</string>
 			<key>note</key>
-			<string>Local</string>
+			<string>Medellin (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2265,7 +2265,7 @@
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/LA_FM_BOG.pls</string>
 			<key>http</key>
-			<string>http://live2.rcnmundo.com/lafmcali.mp3.m3u</string>
+			<string>http://live2.rcnmundo.com/lafmmedellin.mp3.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -2363,7 +2363,7 @@
 			<key>http</key>
 			<string>https://listen.openstream.co/2956/audio</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -2463,19 +2463,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>OXIGENO 104.4 FM Medellin</string>
+			<string>OXIGENO FM Medellin</string>
 			<key>logo</key>
 			<string>OXIGENO</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/oxigeno-104-4-fm-colombia,11398.m3u</string>
+			<string>http://playerservices.streamtheworld.com/api/livestream-redirect/OXI_MEDELLIN.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/oxigeno-104-4-fm-colombia,11398.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>OXIGENO 100.4 FM Bogota</string>
+			<string>OXIGENO FM Bogota</string>
 			<key>logo</key>
 			<string>OXIGEN</string>
 			<key>link</key>
@@ -2745,7 +2745,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/radio-tiempo-105-9-fm-medellin,16281.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://i60.letio.com/9144.aac.m3u</string>
 			<key>note</key>
 			<string>Local</string>
 		</dict>
