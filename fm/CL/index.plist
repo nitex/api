@@ -63,11 +63,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Amanda 94.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Amanda</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cloudstream2030.conectarhosting.com:8330/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,11 +75,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Lampa</string>
 			<key>logo</key>
-			<string></string>
+			<string>Lampa</string>
 			<key>link</key>
+			<string>https://sonic.portalfoxmix.club/8232/stream</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Disney</string>
+			<key>logo</key>
+			<string>Disney</string>
+			<key>link</key>
+			<string>https://redirector.dps.live/disney/mp364k/icecast.audio</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -87,11 +99,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Inicia 96.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Inicia</string>
 			<key>link</key>
+			<string>http://sonando-us.digitalproserver.com/iniciaradio.aac.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Corporación</string>
+			<key>logo</key>
+			<string>Corporacion</string>
+			<key>link</key>
+			<string>https://audio1.tustreaming.cl:10973/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -99,11 +123,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Carabineros de Chile 820 AM / 98.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Carabineros</string>
 			<key>link</key>
-			<string></string>
+			<string>http://5.9.65.6:9978/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -111,47 +135,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Pauta 100.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pauta</string>
 			<key>link</key>
-			<string></string>
+			<string>https://video-ply.pauta.cl/playlist/playlist.m3u8?s=pauta-hd</string>
 			<key>http</key>
-			<string></string>
+			<string>https://video-ply.pauta.cl/playlist/playlist.m3u8</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Play 100.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pla</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -759,15 +759,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Beethoven 96.5 FM</string>
+			<string>Beethoven FM</string>
 			<key>logo</key>
 			<string>Beethoven</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/beethoven-96-5-fm,666.m3u</string>
+			<string>http://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/beethoven-96-5-fm,666.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -811,9 +811,9 @@
 			<key>logo</key>
 			<string>Carolina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/carolina-99-3-fm,670.m3u</string>
+			<string>http://unlimited4-us.dps.live/carolinafm/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/carolina-99-3-fm,670.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -859,9 +859,9 @@
 			<key>logo</key>
 			<string>Corazon</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/corazon-101-3-fm,675.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/CORAZON.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/corazon-101-3-fm,675.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -903,15 +903,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM Dos 98.5 FM</string>
+			<string>FM Dos 98.5</string>
 			<key>logo</key>
 			<string>Dos</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-dos-98-5-fm,10580.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/FMDOS.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-dos-98-5-fm,10580.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -951,13 +951,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM TIEMPO 95.9</string>
+			<string>FM Tiempo 95.9</string>
 			<key>logo</key>
 			<string>TIEMPO</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-tiempo-95-9,683.m3u</string>
+			<string>http://unlimited11-cl.dps.live/fmtiempo/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-tiempo-95-9,683.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -1003,9 +1003,9 @@
 			<key>logo</key>
 			<string>Infinita</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/infinita-100-1-fm,687.m3u</string>
+			<string>http://unlimited11-cl.dps.live/infinita/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/infinita-100-1-fm,687.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
