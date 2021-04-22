@@ -63,11 +63,35 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>40 Principales 95.2 FM</string>
+			<string>Lubna 90.3 FM</string>
 			<key>logo</key>
-			<string>40</string>
+			<string>Lubna</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/40-principales-95-2-fm,10579.m3u</string>
+			<string>http://sonicpanel.mediostream.cl:8056/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Amanda 94.9 FM</string>
+			<key>logo</key>
+			<string>Amanda</string>
+			<key>link</key>
+			<string>http://cloudstream2030.conectarhosting.com:8330/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lampa</string>
+			<key>logo</key>
+			<string>Lampa</string>
+			<key>link</key>
+			<string>https://sonic.portalfoxmix.club/8232/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -75,13 +99,637 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>ADN 91.7</string>
+			<string>Disney</string>
+			<key>logo</key>
+			<string>Disney</string>
+			<key>link</key>
+			<string>https://redirector.dps.live/disney/mp364k/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Inicia 96.5 FM</string>
+			<key>logo</key>
+			<string>Inicia</string>
+			<key>link</key>
+			<string>http://sonando-us.digitalproserver.com/iniciaradio.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Corporación</string>
+			<key>logo</key>
+			<string>Corporacion</string>
+			<key>link</key>
+			<string>https://audio1.tustreaming.cl:10973/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carabineros de Chile 820 AM / 98.1 FM</string>
+			<key>logo</key>
+			<string>Carabineros</string>
+			<key>link</key>
+			<string>http://5.9.65.6:9978/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Pauta 100.5 FM</string>
+			<key>logo</key>
+			<string>Pauta</string>
+			<key>link</key>
+			<string>https://video-ply.pauta.cl/playlist/playlist.m3u8?s=pauta-hd</string>
+			<key>http</key>
+			<string>https://video-ply.pauta.cl/playlist/playlist.m3u8</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Play 100.9 FM</string>
+			<key>logo</key>
+			<string>Pla</string>
+			<key>link</key>
+			<string>https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Manantial 1560 AM</string>
+			<key>logo</key>
+			<string>Manantial</string>
+			<key>link</key>
+			<string>https://sonic-cl.streaming-chile.com/8066/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Paula 104.9 FM</string>
+			<key>logo</key>
+			<string>Paula</string>
+			<key>link</key>
+			<string>http://unlimited4-us.dps.live/radiopaula/aac/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sonar 105.3 FM</string>
+			<key>logo</key>
+			<string>Sonar</string>
+			<key>link</key>
+			<string>https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Enciende 105.9 FM</string>
+			<key>logo</key>
+			<string>Enciende</string>
+			<key>link</key>
+			<string>https://sws.onradio.biz/8076/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tu Encuentro</string>
+			<key>logo</key>
+			<string>Encuentro</string>
+			<key>link</key>
+			<string>http://live.tustreaming.cl/playerhtml5-ts/?pl=winamp&amp;c=encuentro</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>MCCI 106.1 FM</string>
+			<key>logo</key>
+			<string>MCCI</string>
+			<key>link</key>
+			<string>https://sonicpanel.mediostream.cl/8016/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>San Ignacio 106.1 FM</string>
+			<key>logo</key>
+			<string>Ignacio</string>
+			<key>link</key>
+			<string>http://www.radiosanignacio.cl/?pl=winamp&amp;c=Radio%20San%20Ignacio</string>
+			<key>http</key>
+			<string>http://192.99.18.164:9556/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bellavista 106.1 FM</string>
+			<key>logo</key>
+			<string>Bellavista</string>
+			<key>link</key>
+			<string>http://centova.wmchile.cl:9028/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Remix 106.1 FM</string>
+			<key>logo</key>
+			<string>Remix</string>
+			<key>link</key>
+			<string>http://176.31.241.17:7088/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>https://radio.tvstream.cl/8138/stream</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mesías 106.3 FM</string>
+			<key>logo</key>
+			<string>Mesias</string>
+			<key>link</key>
+			<string>https://audio4.tustreaming.cl/8025/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Palabra 106.3 FM</string>
+			<key>logo</key>
+			<string>Palabra</string>
+			<key>link</key>
+			<string>https://sonic.portalfoxmix.cl/8250/;</string>
+			<key>http</key>
+			<string>http://sonic.portalfoxmix.cl:8250/listen.pls?sid=1</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fusión 106.3 FM</string>
+			<key>logo</key>
+			<string>Fusion</string>
+			<key>link</key>
+			<string>https://audio3.tustreaming.cl/8078/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Arrayán 106.3 FM</string>
+			<key>logo</key>
+			<string>Arrayan</string>
+			<key>link</key>
+			<string>https://sws.onradio.biz:10891/listen.pls</string>
+			<key>http</key>
+			<string>https://radioarrayan.cl/online/?pl=winamp&amp;c=Radio%20arrayan</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Quinta 106.5 FM</string>
+			<key>logo</key>
+			<string>Quinta</string>
+			<key>link</key>
+			<string>https://sonic.portalfoxmix.club/8098/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1º de Mayo 106.5 FM</string>
+			<key>logo</key>
+			<string>Mayo</string>
+			<key>link</key>
+			<string>http://162.210.196.140:19405/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Experimental 106.9 FM</string>
+			<key>logo</key>
+			<string>Experimental</string>
+			<key>link</key>
+			<string>https://streaming01.xhost.cl/8044/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Familiar 106.9 FM</string>
+			<key>logo</key>
+			<string>Familiar</string>
+			<key>link</key>
+			<string>http://198.7.58.248:29514/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caracola FM</string>
+			<key>logo</key>
+			<string>Caracola</string>
+			<key>link</key>
+			<string>http://centova.wmchile.cl:9028/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DIXI FM</string>
+			<key>logo</key>
+			<string>DIXI</string>
+			<key>link</key>
+			<string>https://sonic.portalfoxmix.cl/9940/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Lo Barnechea, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UCentral 107.1 FM</string>
+			<key>logo</key>
+			<string>UCentral</string>
+			<key>link</key>
+			<string>http://redirector.dps.live/ucentral/mp3/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vida 107.1 FM</string>
+			<key>logo</key>
+			<string>Vid</string>
+			<key>link</key>
+			<string>http://audio.streaminghd.cl:9062/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Adonnai 107.3 FM</string>
+			<key>logo</key>
+			<string>Adonnai</string>
+			<key>link</key>
+			<string>http://radio.creoweb.cl/8026/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Frecuencia 107.5 FM</string>
+			<key>logo</key>
+			<string>Frecuencia</string>
+			<key>link</key>
+			<string>https://sonic.mistreamingtv.uno/8014/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Puente Alto 107.5 FM</string>
+			<key>logo</key>
+			<string>Puente</string>
+			<key>link</key>
+			<string>http://78.129.150.144:6453/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>EBP 107.7 FM - Parroquia El Buen Pastor</string>
+			<key>logo</key>
+			<string>EBP</string>
+			<key>link</key>
+			<string>http://162.144.254.131:8004/sanmarcos</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Sol de la Florida 107.7FM</string>
+			<key>logo</key>
+			<string>Florida</string>
+			<key>link</key>
+			<string>https://streaming.chiloestreaming.com:10978/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>San Joaquín 107.9 FM</string>
+			<key>logo</key>
+			<string>San</string>
+			<key>link</key>
+			<string>http://espora.org:8000/radiosanjoaquin.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Bosque 107.9 FM</string>
+			<key>logo</key>
+			<string>Bosque</string>
+			<key>link</key>
+			<string>https://sonic.portalfoxmix.cl/8464/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Serrano 540 AM</string>
+			<key>logo</key>
+			<string>Serrano</string>
+			<key>link</key>
+			<string>https://sonic.portalfoxmix.club/8242/stream</string>
+			<key>http</key>
+			<string>http://192.99.150.234:9958/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Caricia 102.3 FM</string>
+			<key>logo</key>
+			<string>Caricia</string>
+			<key>link</key>
+			<string>https://sonic.portalfoxmix.club/8244/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Salud 570 AM</string>
+			<key>logo</key>
+			<string>Salud</string>
+			<key>link</key>
+			<string>http://192.99.18.164:9820/;</string>
+			<key>http</key>
+			<string>http://192.99.18.164:9820/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UC 660 AM</string>
+			<key>logo</key>
+			<string>660</string>
+			<key>link</key>
+			<string>http://giss.tv:8001/senalchile.mp3</string>
+			<key>http</key>
+			<string>http://giss.tv:8001/senalchile.mp3.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Santiago 690 AM</string>
+			<key>logo</key>
+			<string>690</string>
+			<key>link</key>
+			<string>https://player.tustreaming.cl/radios/?pl=winamp&amp;c=radiosantiagolive</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Santiago Romantica</string>
+			<key>logo</key>
+			<string>Santiago</string>
+			<key>link</key>
+			<string>https://player.tustreaming.cl/radios/?pl=winamp&amp;c=santiagoromantica</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Santiago Orquestada</string>
+			<key>logo</key>
+			<string>Orquestada</string>
+			<key>link</key>
+			<string>https://player.tustreaming.cl/radios/?pl=winamp&amp;c=radiosantiago</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Santiago Tropical</string>
+			<key>logo</key>
+			<string>Tropical</string>
+			<key>link</key>
+			<string>https://player.tustreaming.cl/radios/?pl=winamp&amp;c=santiagotropical</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>BBN</string>
+			<key>logo</key>
+			<string>BBN</string>
+			<key>link</key>
+			<string>https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nacional de Chile 1140 AM</string>
+			<key>logo</key>
+			<string>1140</string>
+			<key>link</key>
+			<string>http://s1.wmsoluciones.cl:9030/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Portales 1180 AM</string>
+			<key>logo</key>
+			<string>Portales</string>
+			<key>link</key>
+			<string>https://audio1.tustreaming.cl/8060/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Volver 1330 AM</string>
+			<key>logo</key>
+			<string>Volver</string>
+			<key>link</key>
+			<string>http://190.114.255.91:9968/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Plentitud 1380 AM</string>
+			<key>logo</key>
+			<string>Plentitud</string>
+			<key>link</key>
+			<string>https://audio1.tustreaming.cl/8190/stream</string>
+			<key>http</key>
+			<string>https://live.tustreaming.cl/playerhtml5-ts/?pl=winamp&amp;c=plenitud</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Palabra Viva 1460 AM</string>
+			<key>logo</key>
+			<string>1460</string>
+			<key>link</key>
+			<string>http://190.3.169.36:8182/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM7</string>
+			<key>logo</key>
+			<string>FM7</string>
+			<key>link</key>
+			<string>https://sp1.streamingssl.com/8042/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Antofagasta, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Desierto 92.1 FM</string>
+			<key>logo</key>
+			<string>Desierto</string>
+			<key>link</key>
+			<string>https://broadcast.radio247.net/radio/8100/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Romina 92.5 FM</string>
+			<key>logo</key>
+			<string>Romina</string>
+			<key>link</key>
+			<string>https://sp1.streamingssl.com/8044/stream;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Antofagasta, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LOS 40</string>
+			<key>logo</key>
+			<string>40</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/LOS40_CHILE.pls</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/40-principales-95-2-fm,10579.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ADN 91.7 FM</string>
 			<key>logo</key>
 			<string>ADN</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/adn-radio-chile-91-7,14291.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/ADN.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/adn-radio-chile-91-7,14291.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -111,37 +759,37 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Armonia</string>
+			<string>Armonía</string>
 			<key>logo</key>
 			<string>Armonia</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/armonia,13912.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://encoder.armonia.cl:1032/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Beethoven 96.5 FM</string>
+			<string>Beethoven FM</string>
 			<key>logo</key>
 			<string>Beethoven</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/beethoven-96-5-fm,666.m3u</string>
+			<string>http://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/beethoven-96-5-fm,666.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Bio Bio La Radio 98.1 FM</string>
+			<string>Bio-Bio</string>
 			<key>logo</key>
 			<string>Bio</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bio-bio-la-radio-98-1-fm,10576.m3u</string>
+			<string>https://unlimited4-us.dps.live/biobiosantiago/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/bio-bio-la-radio-98-1-fm,10576.m3u</string>
 			<key>note</key>
 			<string>Music (Concepción, Local)</string>
 		</dict>
@@ -163,11 +811,11 @@
 			<key>logo</key>
 			<string>Canal</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/canal-95-1-fm,669.m3u</string>
+			<string>https://streaming.conectaapp.cl/canal95</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/canal-95-1-fm,669.m3u</string>
 			<key>note</key>
-			<string>Music (Antofagastas, Local)</string>
+			<string>Music (Antofagasta, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -175,9 +823,9 @@
 			<key>logo</key>
 			<string>Carolina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/carolina-99-3-fm,670.m3u</string>
+			<string>http://unlimited4-us.dps.live/carolinafm/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/carolina-99-3-fm,670.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -223,9 +871,9 @@
 			<key>logo</key>
 			<string>Corazon</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/corazon-101-3-fm,675.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/CORAZON.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/corazon-101-3-fm,675.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -247,9 +895,9 @@
 			<key>logo</key>
 			<string>Duna</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/duna-89-7-fm,676.m3u</string>
+			<string>http://unlimited4-us.dps.live/duna/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/duna-89-7-fm,676.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -259,23 +907,23 @@
 			<key>logo</key>
 			<string>Conquistador</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/el-conquistador-91-3-fm,677.m3u</string>
+			<string>https://stream10.usastreams.com/9314/stream/;</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/el-conquistador-91-3-fm,677.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM Dos 98.5 FM</string>
+			<string>FM Dos 98.5</string>
 			<key>logo</key>
 			<string>Dos</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-dos-98-5-fm,10580.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/FMDOS.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-dos-98-5-fm,10580.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -291,15 +939,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM Okey 101.3</string>
+			<string>FM Okey</string>
 			<key>logo</key>
 			<string>Okey</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-okey-101-3,682.m3u</string>
+			<string>http://streaming.fmokey.cl/FmOkAT.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-okey-101-3,682.m3u</string>
 			<key>note</key>
-			<string>Music (Los Andes, Local)</string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -315,13 +963,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM TIEMPO 95.9</string>
+			<string>FM Tiempo 95.9</string>
 			<key>logo</key>
 			<string>TIEMPO</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-tiempo-95-9,683.m3u</string>
+			<string>http://unlimited11-cl.dps.live/fmtiempo/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/fm-tiempo-95-9,683.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -331,9 +979,9 @@
 			<key>logo</key>
 			<string>FUTURO</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/futuro-88-9-fm,684.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/FUTURO.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/futuro-88-9-fm,684.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -355,9 +1003,9 @@
 			<key>logo</key>
 			<string>Imagina</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/imagina-88-1-fm,686.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/IMAGINA.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/imagina-88-1-fm,686.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -367,9 +1015,9 @@
 			<key>logo</key>
 			<string>Infinita</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/infinita-100-1-fm,687.m3u</string>
+			<string>http://unlimited11-cl.dps.live/infinita/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/infinita-100-1-fm,687.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -391,9 +1039,9 @@
 			<key>logo</key>
 			<string>Clave</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-la-clave-92-9-fm,20052.m3u</string>
+			<string>https://unlimited1-us.dps.live/laclavetv/laclavetv.smil/laclavetv/livestream1/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-la-clave-92-9-fm,20052.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -435,15 +1083,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Maria 89.3 FM</string>
+			<string>Maria</string>
 			<key>logo</key>
 			<string>Maria</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/maria-89-3-fm,693.m3u</string>
+			<string>https://dreamsiteradiocp4.com/proxy/rmchile2?mp=/stream</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/maria-89-3-fm,693.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Talk</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -501,7 +1149,7 @@
 			<key>link</key>
 			<string>https://www.radionuevomundo.cl/play/playlist.php?name=listen.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/nuevo-mundo-930-am,696.m3u</string>
+			<string>http://190.82.105.90:8012/listen.pls</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -511,9 +1159,9 @@
 			<key>logo</key>
 			<string>Oasis</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/oasis-102-1-fm,697.m3u</string>
+			<string>https://mdstrm.com/audio/5c915497c6fd7c085b29169d/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/oasis-102-1-fm,697.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -523,15 +1171,15 @@
 			<key>logo</key>
 			<string>Pudahuel</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/pudahuel-90-5-fm,700.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/PUDAHUEL.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-pudahuel,14292.m3u</string>
+			<string>http://www.surfmusic.de/m3u/pudahuel-90-5-fm,700.m3u</string>
 			<key>note</key>
-			<string>Temuco (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio 101</string>
+			<string>101</string>
 			<key>logo</key>
 			<string>101</string>
 			<key>link</key>
@@ -543,19 +1191,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Agricultura 92.1 FM</string>
+			<string>Agricultura 92.1 FM</string>
 			<key>logo</key>
 			<string>Agricultura</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-agricultura-92-1-fm,10590.m3u</string>
+			<string>https://unlimited1-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-agricultura-92-1-fm,10590.m3u</string>
 			<key>note</key>
 			<string>Oldies</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Alliance Inter</string>
+			<string>Alliance Inter</string>
 			<key>logo</key>
 			<string>Inter</string>
 			<key>link</key>
@@ -567,7 +1215,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Antillanca 103.5 FM</string>
+			<string>Antillanca 103.5 FM</string>
 			<key>logo</key>
 			<string>Antillanca</string>
 			<key>link</key>
@@ -579,7 +1227,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Austral 970 AM</string>
+			<string>Austral 970 AM</string>
 			<key>logo</key>
 			<string>Austral</string>
 			<key>link</key>
@@ -591,7 +1239,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Caribe 104.9 FM</string>
+			<string>Caribe 104.9 FM</string>
 			<key>logo</key>
 			<string>Caribe</string>
 			<key>link</key>
@@ -615,19 +1263,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Cooperativa</string>
+			<string>Cooperativa</string>
 			<key>logo</key>
 			<string>Cooperativa</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-cooperativa,14293.m3u</string>
+			<string>http://unlimited4-us.dps.live/cooperativafm/aac/icecast.audio</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-coperativa,4623.m3u</string>
+			<string>http://www.surfmusic.de/m3u/radio-cooperativa,14293.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Definitiva FM 90.5</string>
+			<string>Definitiva FM 90.5</string>
 			<key>logo</key>
 			<string>Definitiva</string>
 			<key>link</key>
@@ -639,7 +1287,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Festival</string>
+			<string>Festival</string>
 			<key>logo</key>
 			<string>Festival</string>
 			<key>link</key>
@@ -651,7 +1299,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Gratissima 97.7 FM</string>
+			<string>Gratissima 97.7 FM</string>
 			<key>logo</key>
 			<string>Gratissima</string>
 			<key>link</key>
@@ -663,7 +1311,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Maxima</string>
+			<string>Maxima</string>
 			<key>logo</key>
 			<string>Maxima</string>
 			<key>link</key>
@@ -675,7 +1323,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Mia 89.3 FM</string>
+			<string>Mia 89.3 FM</string>
 			<key>logo</key>
 			<string>Mia</string>
 			<key>link</key>
@@ -687,7 +1335,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Paulina 89.3 FM</string>
+			<string>Paulina 89.3 FM</string>
 			<key>logo</key>
 			<string>Paulina</string>
 			<key>link</key>
@@ -699,7 +1347,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio PERFECCION</string>
+			<string>PERFECCION</string>
 			<key>logo</key>
 			<string>PERFECCION</string>
 			<key>link</key>
@@ -711,7 +1359,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Polar</string>
+			<string>Polar</string>
 			<key>logo</key>
 			<string>Polar</string>
 			<key>link</key>
@@ -723,7 +1371,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Simpatia 106.5 FM</string>
+			<string>Simpatia 106.5 FM</string>
 			<key>logo</key>
 			<string>Simpatia</string>
 			<key>link</key>
@@ -735,7 +1383,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Union – 571.18 FO</string>
+			<string>Union – 571.18 FO</string>
 			<key>logo</key>
 			<string>Union</string>
 			<key>link</key>
@@ -747,7 +1395,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Universal 94.7</string>
+			<string>Universal 94.7</string>
 			<key>logo</key>
 			<string>Universal</string>
 			<key>link</key>
@@ -759,7 +1407,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Ventisqueros 97.7 FM</string>
+			<string>Ventisqueros 97.7 FM</string>
 			<key>logo</key>
 			<string>Ventisqueros</string>
 			<key>link</key>
@@ -771,7 +1419,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Vida Nueva 133AM</string>
+			<string>Vida Nueva 133 AM</string>
 			<key>logo</key>
 			<string>Vida</string>
 			<key>link</key>
@@ -783,15 +1431,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radioactiva 97.1 FM</string>
+			<string>RadioActiva 97.1 FM</string>
 			<key>logo</key>
 			<string>Radioactiva</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radioactiva-97-1-fm,10578.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/ACTIVA.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radioactiva-97-1-fm,10578.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -799,9 +1447,9 @@
 			<key>logo</key>
 			<string>and</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rock-and-pop-94-1,10575.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/ROCK_AND_POP.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rock-and-pop-94-1,10575.m3u</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
@@ -811,9 +1459,9 @@
 			<key>logo</key>
 			<string>Romantica</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/romantica-104-1-fm,704.m3u</string>
+			<string>http://unlimited11-cl.dps.live/romantica/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/romantica-104-1-fm,704.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -823,9 +1471,9 @@
 			<key>logo</key>
 			<string>13</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/tele-13-radio-103-3-fm,18389.m3u</string>
+			<string>https://mdstrm.com/audio/5c915613519bce27671c4caa/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/tele-13-radio-103-3-fm,18389.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -849,7 +1497,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/universo-93-7-fm,10583.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://radio.digitalfm.cl:8000/universofm.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -891,11 +1539,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Nuevo Tiempo</string>
+			<string>Nuevo Tiempo</string>
 			<key>logo</key>
 			<string>Nuevo</string>
 			<key>link</key>
-			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://streaming.nuevotiempo.cl:8000/listen.pls&amp;t=.pls</string>
+			<string>https://stream.live.novotempo.com/radio/smil:rntChillanCL.smil/playlist.m3u8</string>
 			<key>http</key>
 			<string>https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://streaming.nuevotiempo.cl:8000/listen.pls&amp;t=.m3u</string>
 			<key>note</key>
@@ -903,7 +1551,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Caramelo</string>
+			<string>Caramelo</string>
 			<key>logo</key>
 			<string>Caramelo</string>
 			<key>link</key>
@@ -927,7 +1575,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Sinfonia Online</string>
+			<string>Sinfonia Online</string>
 			<key>logo</key>
 			<string>Sinfonia</string>
 			<key>link</key>
@@ -939,7 +1587,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Eclipse Net 1 - Bossa Nova and Jazz</string>
+			<string>Eclipse Net 1 - Bossa Nova and Jazz</string>
 			<key>logo</key>
 			<string>Bossa</string>
 			<key>link</key>
@@ -951,7 +1599,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Eclipse Net 1 - Party Zone</string>
+			<string>Eclipse Net 1 - Party Zone</string>
 			<key>logo</key>
 			<string>Party</string>
 			<key>link</key>
@@ -963,7 +1611,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Eclipse Net 1 - Romantic Classic</string>
+			<string>Eclipse Net 1 - Romantic Classic</string>
 			<key>logo</key>
 			<string>Romantic</string>
 			<key>link</key>
@@ -975,7 +1623,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Folclor de Chile</string>
+			<string>Folclor de Chile</string>
 			<key>logo</key>
 			<string>Folclor</string>
 			<key>link</key>
@@ -1155,7 +1803,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RADIO VOZ EVANGÉLICA FUEGO SANTO</string>
+			<string>VOZ EVANGÉLICA FUEGO SANTO</string>
 			<key>logo</key>
 			<string>VOZ</string>
 			<key>link</key>
@@ -1179,7 +1827,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio 45</string>
+			<string>45</string>
 			<key>logo</key>
 			<string>45</string>
 			<key>link</key>
