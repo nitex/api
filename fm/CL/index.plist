@@ -327,11 +327,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Interamericana 720 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Interamericana</string>
 			<key>link</key>
-			<string></string>
+			<string>https://sonando-us.digitalproserver.com/radiointeramericana.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,11 +339,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UCSC 820 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>UCSC</string>
 			<key>link</key>
+			<string>http://radio.ucsc.cl:8067/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>http://radio.ucsc.cl:8067/index.html;?type=http&amp;nocache=5</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chilena de Concepción 1030 AM</string>
+			<key>logo</key>
+			<string>Chilena</string>
+			<key>link</key>
+			<string>https://sonando-us.digitalproserver.com/chilena_concepcion.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -351,11 +363,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UBB 1360 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>UBB</string>
 			<key>link</key>
-			<string></string>
+			<string>http://146.83.195.22:8000/stream.ogg.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +375,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Amistad de Tomé</string>
 			<key>logo</key>
-			<string></string>
+			<string>Amistad</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.radiolaamistaddetome.cl:9964/;</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +387,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Patagual 1530 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Patagual</string>
 			<key>link</key>
-			<string></string>
+			<string>https://streamingv2.shoutcast.com/radio-patagual</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Llacolen 1600 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Llacolen</string>
 			<key>link</key>
-			<string></string>
+			<string>http://sonando.us.digitalproserver.com/radiollacolen.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,11 +411,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Placeres 87.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Placeres</string>
 			<key>link</key>
+			<string>http://192.99.18.164:9856/;</string>
+			<key>http</key>
+			<string>http://192.99.18.164:9856/listen.pls?sid=1</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Portales 89.5 FM / 840 AM</string>
+			<key>logo</key>
+			<string>840</string>
+			<key>link</key>
+			<string>http://archi-us.digitalproserver.com/portales-fm-valparaiso-vina-del-mar.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Amor 99.3 FM / 1410 AM</string>
+			<key>logo</key>
+			<string>Amor</string>
+			<key>link</key>
+			<string>http://sonando.us.digitalproserver.com/aguamarina.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Viña del Mar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Joven 91.5</string>
+			<key>logo</key>
+			<string>Joven</string>
+			<key>link</key>
+			<string>http://200.24.229.253:8040/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -411,11 +459,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Énfasis 95.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Enfasis</string>
 			<key>link</key>
-			<string></string>
+			<string>https://server6.hostradios.com/8520/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -423,63 +471,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>X FM 95.9</string>
 			<key>logo</key>
-			<string></string>
+			<string>X</string>
 			<key>link</key>
-			<string></string>
+			<string>https://stream10.usastreams.com:10992/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Viña del Mar (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1875,13 +1875,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Festival</string>
+			<string>Festival 1270 AM / 93.7 FM</string>
 			<key>logo</key>
 			<string>Festival</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-festival,17352.m3u</string>
+			<string>https://stream.festival.cl/1.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-festival,17352.m3u</string>
 			<key>note</key>
 			<string>Viña del Mar (Local)</string>
 		</dict>
