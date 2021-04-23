@@ -195,15 +195,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Punto 7 90.9 FM</string>
+			<string>Punto 7</string>
 			<key>logo</key>
 			<string>Punto</string>
 			<key>link</key>
 			<string>http://redirector.dps.live/p7concepcion/aac/icecast.audio</string>
 			<key>http</key>
-			<string></string>
+			<string>http://redirector.dps.live/p7valparaiso/aac/icecast.audio</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -483,11 +483,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UVM 96.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>UVM</string>
 			<key>link</key>
+			<string>http://200.24.229.253:8020/;stream.mp3</string>
+			<key>http</key>
+			<string>http://200.24.229.253:8020/listen.pls</string>
+			<key>note</key>
+			<string>Viña del Mar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Valentín Letelier 940 AM / 97.3 FM</string>
+			<key>logo</key>
+			<string>Letelier</string>
+			<key>link</key>
+			<string>https://audio.streaminghd.cl:2000/tunein/RadioValentinLetelier/stream/pls</string>
+			<key>http</key>
+			<string>http://audio.streaminghd.cl:9030/listen.pls?sid=1</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidad Técnica Federico Santa María</string>
+			<key>logo</key>
+			<string>Federico</string>
+			<key>link</key>
+			<string>https://streamssl.eu:1288/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Valparaíso 1210 AM / 102.5 FM</string>
+			<key>logo</key>
+			<string>1210</string>
+			<key>link</key>
+			<string>http://200.24.229.253:8250/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -495,11 +531,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UCV 103.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>UCV</string>
 			<key>link</key>
+			<string>https://sonando-us.digitalproserver.com/ucvradio.m3u</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Viña del Mar (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Congreso 105.1 FM</string>
+			<key>logo</key>
+			<string>Congreso</string>
+			<key>link</key>
+			<string>https://sonando-us.digitalproserver.com/congreso.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Valparaíso, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fé 106.7 FM / 1600 AM</string>
+			<key>logo</key>
+			<string>1600</string>
+			<key>link</key>
+			<string>http://stm15.miradio.com.es:11728/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Valparaíso (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bohemia 107.1 FM</string>
+			<key>logo</key>
+			<string>Bohemia</string>
+			<key>link</key>
+			<string>http://5.9.65.9:8075/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,123 +579,51 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Energía 107.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Energi</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.zeno.fm/0c5cd3dzqzzuv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Viña del Mar (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Viña 107.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Vina</string>
 			<key>link</key>
-			<string></string>
+			<string>https://janus.vinafm.cl/playlist/stream.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ritoque 107.9 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ritoque</string>
 			<key>link</key>
-			<string></string>
+			<string>http://sonando.us.digitalproserver.com/ritoquefm_aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
+			<string>Valparaíso (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Stella Maris 630 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Stella</string>
 			<key>link</key>
-			<string></string>
+			<string>https://audio4.tustreaming.cl/7170/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Valparaíso (Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
