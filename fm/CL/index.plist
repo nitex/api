@@ -105,7 +105,7 @@
 			<key>link</key>
 			<string>http://185.105.4.100:8125/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://185.105.4.100/proxy/uaretro?mp=/stream</string>
 			<key>note</key>
 			<string>Antofagasta (Local)</string>
 		</dict>
@@ -183,11 +183,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>RDI 88.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>RDI</string>
 			<key>link</key>
+			<string>http://sonando.us.digitalproserver.com/rdi.aac</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Punto 7 90.9 FM</string>
+			<key>logo</key>
+			<string>Punto</string>
+			<key>link</key>
+			<string>http://redirector.dps.live/p7concepcion/aac/icecast.audio</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,11 +207,95 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Oceania 93.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Oceania</string>
 			<key>link</key>
+			<string>https://streaming.comunicacioneschile.net/9968/stream</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>El Carbón</string>
+			<key>logo</key>
+			<string>Carbon</string>
+			<key>link</key>
+			<string>https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidad de Concepción 95.1 FM</string>
+			<key>logo</key>
+			<string>Universidad</string>
+			<key>link</key>
+			<string>https://unlimited11-cl.dps.live/udec/aac/icecast.audio</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Concepción (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Energía 95.7 FM</string>
+			<key>logo</key>
+			<string>Energia</string>
+			<key>link</key>
+			<string>https://sonic.mistreamingtv.uno/8016/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Concepción, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estación 95</string>
+			<key>logo</key>
+			<string>95</string>
+			<key>link</key>
+			<string>http://sonando.us.digitalproserver.com/estacion95.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Concepción (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Femenina 96.7 FM</string>
+			<key>logo</key>
+			<string>Femenina</string>
+			<key>link</key>
+			<string>http://archi-us.digitalproserver.com/femenina.aac</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Concepción, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estilo FM</string>
+			<key>logo</key>
+			<string>Estilo</string>
+			<key>link</key>
+			<string>http://audio2.tustreaming.cl:8058/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Concepción, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Espacios FM</string>
+			<key>logo</key>
+			<string>Espacios</string>
+			<key>link</key>
+			<string>http://78.129.229.122:8772/;.aac/;stream.nsv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -207,11 +303,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Etchegoyen 107.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Etchegoyen</string>
 			<key>link</key>
-			<string></string>
+			<string>http://sonando-us.digitalproserver.com/etchegoyen.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -219,107 +315,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Caracol 590 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>590</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://sonando.us.digitalproserver.com/caracol590.aac</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1323,7 +1323,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Aguamarina FM 100.5</string>
+			<string>Aguamarina 100.5 FM</string>
 			<key>logo</key>
 			<string>Aguamarina</string>
 			<key>link</key>
@@ -1471,9 +1471,9 @@
 			<key>logo</key>
 			<string>Digital</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/digital-fm,10585.m3u</string>
-			<key>http</key>
 			<string>http://radio.digitalfm.cl:8000/antofagasta1.m3u</string>
+			<key>http</key>
+			<string>http://radio.digitalfm.cl:8000/concepcion1.m3u</string>
 			<key>note</key>
 			<string>Arica (Local)</string>
 		</dict>
@@ -1497,7 +1497,7 @@
 			<key>link</key>
 			<string>https://stream10.usastreams.com/9314/stream/;</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/el-conquistador-91-3-fm,677.m3u</string>
+			<string>https://stream10.usastreams.com:10989/listen.pls?sid=1</string>
 			<key>note</key>
 			<string></string>
 		</dict>
