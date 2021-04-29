@@ -51,7 +51,7 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>Maya 94.9 FM</string>
+			<string>MAYA 94.9 FM</string>
 			<key>logo</key>
 			<string>Maya</string>
 			<key>link</key>
@@ -159,11 +159,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Chacaltaya 95.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Chacaltaya</string>
 			<key>link</key>
-			<string></string>
+			<string>http://stream.restauraciondefe.com.ar:8000/chacaltaya.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -171,11 +171,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM 96.1 Colegio José Hernández</string>
 			<key>logo</key>
-			<string></string>
+			<string>Colegio</string>
 			<key>link</key>
-			<string></string>
+			<string>http://78.129.185.84:6721/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -183,11 +183,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Jai 96.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Jai</string>
 			<key>link</key>
+			<string>https://streamlky.alsolnet.com/radiojai</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Cosecha 96.5</string>
+			<key>logo</key>
+			<string>Cosecha</string>
+			<key>link</key>
+			<string>http://genexservicios.com:8068/listen.pls</string>
+			<key>http</key>
+			<string>http://genexservicios.com:8068/listen.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nacional Clásica</string>
+			<key>logo</key>
+			<string>Clasica</string>
+			<key>link</key>
+			<string>http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Master 96.9 FM</string>
+			<key>logo</key>
+			<string>Master</string>
+			<key>link</key>
+			<string>http://streaming.radiosenlinea.com.ar:8434/stream</string>
+			<key>http</key>
+			<string>http://oyotunstream.com:9308/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Like 97.1</string>
+			<key>logo</key>
+			<string>Lik</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/FMLIKE.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Nueva Generación 97.1</string>
+			<key>logo</key>
+			<string>Nueva</string>
+			<key>link</key>
+			<string>https://streaming01.shockmedia.com.ar:10994/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -195,71 +255,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM Elit 97.1</string>
 			<key>logo</key>
-			<string></string>
+			<string>Elit</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://server1.dainusradio.com:9882/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -2059,11 +2059,11 @@
 			<key>logo</key>
 			<string>Rock</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/rock-pop-95-9-fm,309.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/ROCKANDPOP.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/rock-pop-95-9-fm,309.m3u</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
