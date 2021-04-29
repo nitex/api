@@ -651,11 +651,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Buena Semilla 92.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Semilla</string>
 			<key>link</key>
-			<string></string>
+			<string>https://radio.netyco.com:17348/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -663,11 +663,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La 2×4 92.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>92</string>
 			<key>link</key>
-			<string></string>
+			<string>https://tus.radios.ar/9270/stream</string>
+			<key>http</key>
+			<string>http://radios.argentina.fm:9270/live.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Favorita 92.9 FM</string>
+			<key>logo</key>
+			<string>Favorita</string>
+			<key>link</key>
+			<string>http://stream.restauraciondefe.com.ar:8000/favorita.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -675,11 +687,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Late 93.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Late</string>
 			<key>link</key>
+			<string>http://late931.com.ar/player/?pl=winamp&amp;c=FM%20LATE%2093.1</string>
+			<key>http</key>
+			<string>http://streaming.radiolinksmedia.com:8252/listen.pls</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>70 93.5 FM</string>
+			<key>logo</key>
+			<string>70</string>
+			<key>link</key>
+			<string>http://streamall.alsolnet.com/radio70</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FMQ 93.5</string>
+			<key>logo</key>
+			<string>FMQ</string>
+			<key>link</key>
+			<string>http://streamlky.alsolnet.com:443/radiofmq</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -687,11 +723,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nacional Rock 97.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Roc</string>
 			<key>link</key>
+			<string>http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>En Tránsito 93.9 FM</string>
+			<key>logo</key>
+			<string>En</string>
+			<key>link</key>
+			<string>https://stream.fmentransito.org.ar:8002/radio/live.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Asamblea 94.1 FM</string>
+			<key>logo</key>
+			<string>Asamblea</string>
+			<key>link</key>
+			<string>http://server.laradio.online:25057/live.m3u</string>
+			<key>http</key>
+			<string>http://server.laradio.online:25057/live?type=.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Presente 94.5 FM</string>
+			<key>logo</key>
+			<string>Presente</string>
+			<key>link</key>
+			<string>https://icecast51.cloudcast.media/stream61.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -699,11 +771,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Club Octubre 947</string>
 			<key>logo</key>
-			<string></string>
+			<string>Octubre</string>
 			<key>link</key>
-			<string></string>
+			<string>https://arcast.net:8445/FMGOL.MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -711,47 +783,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Buenas Nuevas 94.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nuevas</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://genexservicios.com:8296/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1095,7 +1131,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>GDS Radio</string>
+			<string>GDS</string>
 			<key>logo</key>
 			<string>GDS</string>
 			<key>link</key>
@@ -1119,7 +1155,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Imaginate FM 105.7</string>
+			<string>Imaginate 105.7 FM</string>
 			<key>logo</key>
 			<string>Imaginate</string>
 			<key>link</key>
@@ -1251,7 +1287,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Activa 107.5</string>
+			<string>Activa 107.5</string>
 			<key>logo</key>
 			<string>Activa</string>
 			<key>link</key>
@@ -1263,7 +1299,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Brisas 98.5 FM</string>
+			<string>Brisas 98.5 FM</string>
 			<key>logo</key>
 			<string>Brisas</string>
 			<key>link</key>
@@ -1275,7 +1311,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Con Vos 89.9 FM</string>
+			<string>Con Vos 89.9 FM</string>
 			<key>logo</key>
 			<string>Con</string>
 			<key>link</key>
@@ -1287,19 +1323,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Disney 94.3 Argentina</string>
+			<string>Disney 94.3 FM</string>
 			<key>logo</key>
 			<string>Disney</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-disney-94-3-argentina,19314.m3u</string>
+			<string>https://playerservices.streamtheworld.com/pls/DISNEY_ARG_BA.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-disney-94-3-argentina,19314.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Equis 98.5 FM</string>
+			<string>Equis 98.5 FM</string>
 			<key>logo</key>
 			<string>Equis</string>
 			<key>link</key>
@@ -1311,7 +1347,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio La Voz 98.5 FM</string>
+			<string>La Voz 98.5 FM</string>
 			<key>logo</key>
 			<string>Voz</string>
 			<key>link</key>
@@ -1323,7 +1359,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Nacional</string>
+			<string>Nacional</string>
 			<key>logo</key>
 			<string>Nacional</string>
 			<key>link</key>
@@ -1335,7 +1371,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Nihuil 680</string>
+			<string>Nihuil 680</string>
 			<key>logo</key>
 			<string>680</string>
 			<key>link</key>
@@ -1359,7 +1395,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Rivadavia 630 AM</string>
+			<string>Rivadavia 630 AM</string>
 			<key>logo</key>
 			<string>Rivadavia</string>
 			<key>link</key>
@@ -1371,7 +1407,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Romantica 99.7 FM</string>
+			<string>Romantica 99.7 FM</string>
 			<key>logo</key>
 			<string>Romantica</string>
 			<key>link</key>
@@ -1383,7 +1419,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Vos 95.5 FM</string>
+			<string>Vos 95.5 FM</string>
 			<key>logo</key>
 			<string>Vos</string>
 			<key>link</key>
@@ -1467,7 +1503,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sentir Radio</string>
+			<string>Sentir</string>
 			<key>logo</key>
 			<string>Sentir</string>
 			<key>link</key>
@@ -1575,7 +1611,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Soft FM 102.1</string>
+			<string>Soft 102.1 FM</string>
 			<key>logo</key>
 			<string>Soft</string>
 			<key>link</key>
@@ -1587,7 +1623,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mute Radio</string>
+			<string>Mute</string>
 			<key>logo</key>
 			<string>Mute</string>
 			<key>link</key>
@@ -1647,7 +1683,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio BETEL 107.1</string>
+			<string>BETEL 107.1 FM</string>
 			<key>logo</key>
 			<string>BETEL</string>
 			<key>link</key>
@@ -1695,7 +1731,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RADIO DE FOLKLORE FM 98.9</string>
+			<string>FOLKLORE FM 98.9</string>
 			<key>logo</key>
 			<string>FOLKLORE</string>
 			<key>link</key>
@@ -1779,7 +1815,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Trans Mundial</string>
+			<string>Trans Mundial</string>
 			<key>logo</key>
 			<string>Trans</string>
 			<key>link</key>
@@ -1839,7 +1875,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Argentina 102.9 FM</string>
+			<string>Argentina 102.9 FM</string>
 			<key>logo</key>
 			<string>Argentin</string>
 			<key>link</key>

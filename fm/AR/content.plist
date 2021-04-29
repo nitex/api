@@ -63,7 +63,751 @@
 	<array>
 		<dict>
 			<key>name</key>
-			<string>101.9 FM</string>
+			<string>Buenas Ondas 87.7 FM</string>
+			<key>logo</key>
+			<string>Buenas</string>
+			<key>link</key>
+			<string>http://pcf.sytes.net:8000/lrbo.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Océano 87.7</string>
+			<key>logo</key>
+			<string>Oceano</string>
+			<key>link</key>
+			<string>http://stream.restauraciondefe.com.ar:8000/oceano.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iSEC Make 87.9 FM</string>
+			<key>logo</key>
+			<string>Make</string>
+			<key>link</key>
+			<string>http://server.ohradio.com.ar:9968/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Boedo 88.1</string>
+			<key>logo</key>
+			<string>Boedo</string>
+			<key>link</key>
+			<string>http://audio.bustream.com:8012/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Plus 88.1</string>
+			<key>logo</key>
+			<string>Plu</string>
+			<key>link</key>
+			<string>https://59db7e671a1ad.streamlock.net/8018/8018/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sur 88.3 FM</string>
+			<key>logo</key>
+			<string>Sur</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8020/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM La Barca 88.3</string>
+			<key>logo</key>
+			<string>Barca</string>
+			<key>link</key>
+			<string>http://audio.questreaming.com:2199/tunein/fmlabarca-stream.pls</string>
+			<key>http</key>
+			<string>http://audio.questreaming.com:9468/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>María</string>
+			<key>logo</key>
+			<string>Maria</string>
+			<key>link</key>
+			<string>https://dreamsiteradiocp2.com/proxy/rmargentina2?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cítrica 88.5 FM</string>
+			<key>logo</key>
+			<string>Citrica</string>
+			<key>link</key>
+			<string>http://74.50.112.196:9132/citrica885.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nuevo Tiempo</string>
+			<key>logo</key>
+			<string>Nuevo</string>
+			<key>link</key>
+			<string>https://stream.live.novotempo.com/radio/smil:rntBuenosAiresAR.smil/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Raíces 88.5</string>
+			<key>logo</key>
+			<string>Raices</string>
+			<key>link</key>
+			<string>http://streaming.radiolinksmedia.com:8056/;</string>
+			<key>http</key>
+			<string>http://streaming.radiolinksmedia.com:8056/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Tribu 88.7 FM</string>
+			<key>logo</key>
+			<string>Tribu</string>
+			<key>link</key>
+			<string>http://vivo.fmlatribu.com/latribu.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TEC 88.7 FM</string>
+			<key>logo</key>
+			<string>TEC</string>
+			<key>link</key>
+			<string>http://stream.zeno.fm/64h3nxg0rvduv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Ambiente 88.9 FM</string>
+			<key>logo</key>
+			<string>Ambiente</string>
+			<key>link</key>
+			<string>http://sonic.dattalive.com:8470/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Ecipse 88.9</string>
+			<key>logo</key>
+			<string>Ecipse</string>
+			<key>link</key>
+			<string>http://streaming01.dwservers.net:8300/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Oktubre 89.1 FM</string>
+			<key>logo</key>
+			<string>Oktubre</string>
+			<key>link</key>
+			<string>https://arcast.net:8443/oktubre.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Gráfica 89.3 FM</string>
+			<key>logo</key>
+			<string>Grafica</string>
+			<key>link</key>
+			<string>http://alpha.radioplayer.com.ar:9232/radiografica893.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Podestá 89.3 FM</string>
+			<key>logo</key>
+			<string>Podesta</string>
+			<key>link</key>
+			<string>https://freeuk7.listen2myradio.com/live.mp3?typeportmount=s1_28564_stream_893328453</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mucha 89.5 FM</string>
+			<key>logo</key>
+			<string>Mucha</string>
+			<key>link</key>
+			<string>http://playerservices.streamtheworld.com/pls/MUCHA_RADIO.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Reconquista 89.5 FM</string>
+			<key>logo</key>
+			<string>Reconquista</string>
+			<key>link</key>
+			<string>http://aler.org:8000/radiofmreconquista.ogg.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Porteña 89.7 FM</string>
+			<key>logo</key>
+			<string>Portena</string>
+			<key>link</key>
+			<string>https://us9.maindigitalstream.com/ssl/7194</string>
+			<key>http</key>
+			<string>http://209.95.35.49:7194/listen.pls?sid=1</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Revivir 1660 AM / 89.7 FM</string>
+			<key>logo</key>
+			<string>Revivir</string>
+			<key>link</key>
+			<string>http://www.genexservicios.com:8328/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Boca 90.1 FM</string>
+			<key>logo</key>
+			<string>Boca</string>
+			<key>link</key>
+			<string>https://s24.myradiostream.com/14984/listen.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Noventa 90.1 FM</string>
+			<key>logo</key>
+			<string>Noventa</string>
+			<key>link</key>
+			<string>http://5.196.75.178:8000/fm90.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Trujui 90.1 FM</string>
+			<key>logo</key>
+			<string>Trujui</string>
+			<key>link</key>
+			<string>http://62.210.129.76:9302/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Delta 90.3 FM</string>
+			<key>logo</key>
+			<string>Delta</string>
+			<key>link</key>
+			<string>https://cdn.instream.audio/:9069/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Tribunales 90.5 FM</string>
+			<key>logo</key>
+			<string>Tribunales</string>
+			<key>link</key>
+			<string>http://209.95.35.49:7339/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Manantial 90.5 FM</string>
+			<key>logo</key>
+			<string>Manantial</string>
+			<key>link</key>
+			<string>http://genexservicios.com:8142/listen.pls</string>
+			<key>http</key>
+			<string>http://genexservicios.com:1935/308/308.stream/playlist.m3u8</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Luna 90.5 FM</string>
+			<key>logo</key>
+			<string>Luna</string>
+			<key>link</key>
+			<string>http://server.ohradio.com.ar:9498/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fribuay 90.7 FM</string>
+			<key>logo</key>
+			<string>Fribuay</string>
+			<key>link</key>
+			<string>https://cdn.instream.audio/:9117/stream?_=17323caa2bb</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Panamericana 90.7 FM</string>
+			<key>logo</key>
+			<string>Panamericana</string>
+			<key>link</key>
+			<string>http://streaming.radiosenlinea.com.ar:8416/stream</string>
+			<key>http</key>
+			<string>http://streaming.radiosenlinea.com.ar:8416/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UB 90.9 FM</string>
+			<key>logo</key>
+			<string>UB</string>
+			<key>link</key>
+			<string>https://radiolinksmedia.net.ar/8108/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rotonda 90.9 FM</string>
+			<key>logo</key>
+			<string>Rotonda</string>
+			<key>link</key>
+			<string>http://server.ohradio.com.ar:9662/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>SI 91.1 FM</string>
+			<key>logo</key>
+			<string>SI</string>
+			<key>link</key>
+			<string>http://s2.netradiofm.com:9022/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cristo la Solución 91.9 FM / 1680 AM</string>
+			<key>logo</key>
+			<string>Cristo</string>
+			<key>link</key>
+			<string>http://www.genexservicios.com:8048/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Soldati 91.3 FM</string>
+			<key>logo</key>
+			<string>Soldati</string>
+			<key>link</key>
+			<string>https://streaming.escuchanosonline.com:7018/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Simphony 91.3 FM</string>
+			<key>logo</key>
+			<string>Simphony</string>
+			<key>link</key>
+			<string>http://cdn.instream.audio:8129/streamm3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Dos 91.7</string>
+			<key>logo</key>
+			<string>Dos</string>
+			<key>link</key>
+			<string>https://cast.emediapp.com/radio/8180/radio.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Uni 91.7 FM</string>
+			<key>logo</key>
+			<string>Uni</string>
+			<key>link</key>
+			<string>https://cdn.instream.audio/:9275/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Espacio 91.7 FM</string>
+			<key>logo</key>
+			<string>Espaci</string>
+			<key>link</key>
+			<string>http://questreaming.info:27138/;stream.mp3</string>
+			<key>http</key>
+			<string>http://questreaming.info:27138/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Maja 91.7 FM</string>
+			<key>logo</key>
+			<string>Maja</string>
+			<key>link</key>
+			<string>http://server.ohradio.com.ar:9594/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mantra 91.9 FM</string>
+			<key>logo</key>
+			<string>Mantra</string>
+			<key>link</key>
+			<string>https://streamlky.alsolnet.com/mantrafm</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Class 91.9 FM</string>
+			<key>logo</key>
+			<string>Class</string>
+			<key>link</key>
+			<string>https://streamcasthd.com:19360/classfm/classfm.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Malvinas 91.9 FM</string>
+			<key>logo</key>
+			<string>Malvinas</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8320/;stream.aac</string>
+			<key>http</key>
+			<string>http://01.solumedia.com.ar:8320/listen.pls?sid=1</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM Fuego 91.9</string>
+			<key>logo</key>
+			<string>Fuego</string>
+			<key>link</key>
+			<string>https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s1_39851_stream_479606613</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vorterix 92.1 FM</string>
+			<key>logo</key>
+			<string>Vorterix</string>
+			<key>link</key>
+			<string>https://radiolatina.live:10992/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AMA 92.3 FM</string>
+			<key>logo</key>
+			<string>AMA</string>
+			<key>link</key>
+			<string>http://cdnaudio.nexolife.com:8023/laradio923.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Crisol 92.3 FM</string>
+			<key>logo</key>
+			<string>Crisol</string>
+			<key>link</key>
+			<string>http://63.247.91.178:13094/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zero 92.5 FM</string>
+			<key>logo</key>
+			<string>Zero</string>
+			<key>link</key>
+			<string>https://us9.streamingpulse.com/ssl/FrecuenciaZeroFM</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Signos 92.5 FM</string>
+			<key>logo</key>
+			<string>Signos</string>
+			<key>link</key>
+			<string>http://fmsignos.com.ar:8009/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Buena Semilla 92.5 FM</string>
+			<key>logo</key>
+			<string>Semilla</string>
+			<key>link</key>
+			<string>https://radio.netyco.com:17348/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La 2×4 92.7 FM</string>
+			<key>logo</key>
+			<string>92</string>
+			<key>link</key>
+			<string>https://tus.radios.ar/9270/stream</string>
+			<key>http</key>
+			<string>http://radios.argentina.fm:9270/live.m3u</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Favorita 92.9 FM</string>
+			<key>logo</key>
+			<string>Favorita</string>
+			<key>link</key>
+			<string>http://stream.restauraciondefe.com.ar:8000/favorita.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Late 93.1 FM</string>
+			<key>logo</key>
+			<string>Late</string>
+			<key>link</key>
+			<string>http://late931.com.ar/player/?pl=winamp&amp;c=FM%20LATE%2093.1</string>
+			<key>http</key>
+			<string>http://streaming.radiolinksmedia.com:8252/listen.pls</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>70 93.5 FM</string>
+			<key>logo</key>
+			<string>70</string>
+			<key>link</key>
+			<string>http://streamall.alsolnet.com/radio70</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FMQ 93.5</string>
+			<key>logo</key>
+			<string>FMQ</string>
+			<key>link</key>
+			<string>http://streamlky.alsolnet.com:443/radiofmq</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Nacional Rock 97.3 FM</string>
+			<key>logo</key>
+			<string>Roc</string>
+			<key>link</key>
+			<string>http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>En Tránsito 93.9 FM</string>
+			<key>logo</key>
+			<string>En</string>
+			<key>link</key>
+			<string>https://stream.fmentransito.org.ar:8002/radio/live.aac.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Asamblea 94.1 FM</string>
+			<key>logo</key>
+			<string>Asamblea</string>
+			<key>link</key>
+			<string>http://server.laradio.online:25057/live.m3u</string>
+			<key>http</key>
+			<string>http://server.laradio.online:25057/live?type=.mp3</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Presente 94.5 FM</string>
+			<key>logo</key>
+			<string>Presente</string>
+			<key>link</key>
+			<string>https://icecast51.cloudcast.media/stream61.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Club Octubre 947</string>
+			<key>logo</key>
+			<string>Octubre</string>
+			<key>link</key>
+			<string>https://arcast.net:8445/FMGOL.MP3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Buenas Nuevas 94.7 FM</string>
+			<key>logo</key>
+			<string>Nuevas</string>
+			<key>link</key>
+			<string>http://genexservicios.com:8296/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 101.9</string>
 			<key>logo</key>
 			<string>Villa</string>
 			<key>link</key>
@@ -75,7 +819,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>91.1 FM</string>
+			<string>FM 91.1</string>
 			<key>logo</key>
 			<string>91</string>
 			<key>link</key>
@@ -91,11 +835,11 @@
 			<key>logo</key>
 			<string>Amadeus</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/amadeus-91-1-fm,6053.m3u</string>
+			<string>https://streamingradiolinks.xyz/8484/;</string>
 			<key>http</key>
 			<string>http://18.220.84.192:8484/;</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -211,9 +955,9 @@
 			<key>logo</key>
 			<string>ECO</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/cadena-eco-1220-am,252.m3u</string>
+			<string>https://stream.zenolive.com/svszp3e072quv</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/cadena-eco-1220-am,252.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -343,11 +1087,11 @@
 			<key>logo</key>
 			<string>Soldados</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-soldados-87-5,275.m3u</string>
+			<string>https://radio02.ferozo.com/proxy/ra01000409?mp=/stream;</string>
 			<key>http</key>
 			<string>http://radio02.ferozo.com:8150/;stream/1/;</string>
 			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -399,7 +1143,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>GDS Radio</string>
+			<string>GDS</string>
 			<key>logo</key>
 			<string>GDS</string>
 			<key>link</key>
@@ -423,7 +1167,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Imaginate FM 105.7</string>
+			<string>Imaginate 105.7 FM</string>
 			<key>logo</key>
 			<string>Imaginate</string>
 			<key>link</key>
@@ -523,7 +1267,7 @@
 			<key>logo</key>
 			<string>Mitre</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/mitre-790-am,298.m3u</string>
+			<string>http://buecrplb01.cienradios.com.ar/Mitre790.aac.m3u</string>
 			<key>http</key>
 			<string>http://www.surfmusic.de/m3u/radio-mitre-790-am,19312.m3u</string>
 			<key>note</key>
@@ -555,7 +1299,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Activa 107.5</string>
+			<string>Activa 107.5</string>
 			<key>logo</key>
 			<string>Activa</string>
 			<key>link</key>
@@ -567,7 +1311,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Brisas 98.5 FM</string>
+			<string>Brisas 98.5 FM</string>
 			<key>logo</key>
 			<string>Brisas</string>
 			<key>link</key>
@@ -579,7 +1323,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Con Vos 89.9 FM</string>
+			<string>Con Vos 89.9 FM</string>
 			<key>logo</key>
 			<string>Con</string>
 			<key>link</key>
@@ -591,19 +1335,19 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Disney 94.3 Argentina</string>
+			<string>Disney 94.3 FM</string>
 			<key>logo</key>
 			<string>Disney</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-disney-94-3-argentina,19314.m3u</string>
+			<string>https://playerservices.streamtheworld.com/pls/DISNEY_ARG_BA.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-disney-94-3-argentina,19314.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Equis 98.5 FM</string>
+			<string>Equis 98.5 FM</string>
 			<key>logo</key>
 			<string>Equis</string>
 			<key>link</key>
@@ -615,7 +1359,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio La Voz 98.5 FM</string>
+			<string>La Voz 98.5 FM</string>
 			<key>logo</key>
 			<string>Voz</string>
 			<key>link</key>
@@ -627,7 +1371,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Nacional</string>
+			<string>Nacional</string>
 			<key>logo</key>
 			<string>Nacional</string>
 			<key>link</key>
@@ -639,7 +1383,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Nihuil 680</string>
+			<string>Nihuil 680</string>
 			<key>logo</key>
 			<string>680</string>
 			<key>link</key>
@@ -663,7 +1407,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Rivadavia 630 AM</string>
+			<string>Rivadavia 630 AM</string>
 			<key>logo</key>
 			<string>Rivadavia</string>
 			<key>link</key>
@@ -675,7 +1419,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Romantica 99.7 FM</string>
+			<string>Romantica 99.7 FM</string>
 			<key>logo</key>
 			<string>Romantica</string>
 			<key>link</key>
@@ -687,7 +1431,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Vos 95.5 FM</string>
+			<string>Vos 95.5 FM</string>
 			<key>logo</key>
 			<string>Vos</string>
 			<key>link</key>
@@ -771,7 +1515,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Sentir Radio</string>
+			<string>Sentir</string>
 			<key>logo</key>
 			<string>Sentir</string>
 			<key>link</key>
@@ -879,7 +1623,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Soft FM 102.1</string>
+			<string>Soft 102.1 FM</string>
 			<key>logo</key>
 			<string>Soft</string>
 			<key>link</key>
@@ -891,7 +1635,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Mute Radio</string>
+			<string>Mute</string>
 			<key>logo</key>
 			<string>Mute</string>
 			<key>link</key>
@@ -951,7 +1695,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio BETEL 107.1</string>
+			<string>BETEL 107.1 FM</string>
 			<key>logo</key>
 			<string>BETEL</string>
 			<key>link</key>
@@ -999,7 +1743,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>RADIO DE FOLKLORE FM 98.9</string>
+			<string>FOLKLORE FM 98.9</string>
 			<key>logo</key>
 			<string>FOLKLORE</string>
 			<key>link</key>
@@ -1083,7 +1827,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Trans Mundial</string>
+			<string>Trans Mundial</string>
 			<key>logo</key>
 			<string>Trans</string>
 			<key>link</key>
@@ -1143,7 +1887,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Radio Argentina 102.9 FM</string>
+			<string>Argentina 102.9 FM</string>
 			<key>logo</key>
 			<string>Argentin</string>
 			<key>link</key>
