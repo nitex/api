@@ -327,11 +327,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>ArInfo 610 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>ArInfo</string>
 			<key>link</key>
-			<string></string>
+			<string>https://server.laradio.online:58013/live.m3u</string>
+			<key>http</key>
+			<string>https://server.laradio.online:58013/live</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Belgrano 650 AM</string>
+			<key>logo</key>
+			<string>Belgrano</string>
+			<key>link</key>
+			<string>http://server.laradio.online:25224/live.mp3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -339,11 +351,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>República 670 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Republica</string>
 			<key>link</key>
-			<string></string>
+			<string>https://streaming.escuchanosonline.com:7155/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -351,11 +363,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Amplitud 660 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Amplitud</string>
 			<key>link</key>
+			<string>https://server.ohradio.com.ar/8162/stream</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>K24 Alta Calidad 690 AM</string>
+			<key>logo</key>
+			<string>K24</string>
+			<key>link</key>
+			<string>http://disbaires.com.ar:9041/;</string>
+			<key>http</key>
+			<string>http://78.46.120.147:9041/listen.pls</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>R10 - 710 AM</string>
+			<key>logo</key>
+			<string>R10</string>
+			<key>link</key>
+			<string>https://s6.stweb.tv/radio10/live/playlist.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +399,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>BBN</string>
 			<key>logo</key>
-			<string></string>
+			<string>BBN</string>
 			<key>link</key>
-			<string></string>
+			<string>https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,11 +411,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rebelde 740 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rebelde</string>
 			<key>link</key>
-			<string></string>
+			<string>http://servidor.01argentina.com.ar:6358/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -387,11 +423,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>750 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>750</string>
 			<key>link</key>
-			<string></string>
+			<string>https://arcast.com.ar:9501/AM750.MP3.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -399,59 +435,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Cooperativa 770 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Cooperativa</string>
 			<key>link</key>
-			<string></string>
+			<string>https://securestream.mxradio.xyz/rcoop/</string>
 			<key>http</key>
-			<string></string>
+			<string>http://rcoop.cnwks.ws:8358/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Federal 810 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>810</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://01.solumedia.com.ar:8218/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1335,7 +1335,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM Raíces 88.5</string>
+			<string>Raíces 88.5 FM</string>
 			<key>logo</key>
 			<string>Raices</string>
 			<key>link</key>
@@ -2019,13 +2019,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Atlantica LU6 760 AM</string>
+			<string>Atlantica LU6 760 AM / 93.3 FM</string>
 			<key>logo</key>
 			<string>Atlantica</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/atlantica-lu6-760-am,246.m3u</string>
+			<string>http://173.255.205.241:9090/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://173.255.205.241:7070/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2563,7 +2563,7 @@
 			<key>logo</key>
 			<string>Rivadavia</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-rivadavia-630-am,17568.m3u</string>
+			<string>http://playerservices.streamtheworld.com/pls/RIVADAVIA.pls</string>
 			<key>http</key>
 			<string>http://209.95.35.49:7012/stream</string>
 			<key>note</key>
