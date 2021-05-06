@@ -459,11 +459,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Del Pueblo 830 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Pueblo</string>
 			<key>link</key>
-			<string></string>
+			<string>http://streaming.radiolinksmedia.com:7830/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -471,11 +471,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Libre 890 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>890</string>
 			<key>link</key>
-			<string></string>
+			<string>http://01.solumedia.com.ar:8420/;stream.nsv</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -483,11 +483,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Nativa 930 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Nativa</string>
 			<key>link</key>
-			<string></string>
+			<string>https://streaming.escuchanosonline.com:7156/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -495,11 +495,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>CNN Español - Argentina</string>
 			<key>logo</key>
-			<string></string>
+			<string>CNN</string>
 			<key>link</key>
+			<string>https://estudio.cnnradioargentina.com.ar/stream</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>News, Talk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Génesis 970 AM</string>
+			<key>logo</key>
+			<string>Genesis</string>
+			<key>link</key>
+			<string>https://radiolinks.net.ar/radio/8010/radio.mp3</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,11 +519,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La 990 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>990</string>
 			<key>link</key>
-			<string></string>
+			<string>http://playerservices.streamtheworld.com/pls/AM990.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -519,11 +531,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Onda Latina 1010 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>101</string>
 			<key>link</key>
-			<string></string>
+			<string>http://01.solumedia.com.ar:8446/stream.aac.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -531,11 +543,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>General Güemes 1050 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1050</string>
 			<key>link</key>
-			<string></string>
+			<string>https://sonic.dattalive.com/8482/stream</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -543,11 +555,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>El Mundo 1070 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1070</string>
 			<key>link</key>
+			<string>https://streaming.escuchanosonline.com:7118/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>https://streaming.escuchanosonline.com:7118//stream?type=http&amp;nocache=1</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Claridad 1080 AM</string>
+			<key>logo</key>
+			<string>Claridad</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:7253/stream</string>
+			<key>http</key>
+			<string>http://01.solumedia.com.ar:7253/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Décadas 1090 AM</string>
+			<key>logo</key>
+			<string>Decadas</string>
+			<key>link</key>
+			<string>https://sonic.dattalive.com/8474/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sudamericana 1120 AM</string>
+			<key>logo</key>
+			<string>1120</string>
+			<key>link</key>
+			<string>http://69.64.46.123:8036/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -555,11 +603,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Show 1130 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1130</string>
 			<key>link</key>
-			<string></string>
+			<string>https://radiolinksmedia.net.ar/7130/;</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -567,59 +615,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Luna 1140 AM</string>
 			<key>logo</key>
-			<string></string>
+			<string>1140</string>
 			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
+			<string>http://server.ohradio.com.ar:9344/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -1959,15 +1959,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>FM 101.9</string>
+			<string>General Belgrano 840 AM / FM 101.9</string>
 			<key>logo</key>
-			<string>Villa</string>
+			<string>General</string>
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/101-9-fm-villa-general-belgrano,7622.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string>Villa General Belgrano (Local)</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -1977,7 +1977,7 @@
 			<key>link</key>
 			<string>http://www.surfmusic.de/m3u/91-1-fm,241.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://63.247.65.202:8160/stream.m3u</string>
 			<key>note</key>
 			<string>Corrientes (Local)</string>
 		</dict>
@@ -2155,9 +2155,9 @@
 			<key>logo</key>
 			<string>Plata</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/del-plata-1030-am,269.m3u</string>
+			<string>http://181.119.157.98:8000/amdelplata.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/del-plata-1030-am,269.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2347,9 +2347,9 @@
 			<key>logo</key>
 			<string>Red</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/la-red-910-am,290.m3u</string>
+			<string>http://190.113.164.52:8080/LaRedCapital.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/la-red-910-am,290.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2527,9 +2527,9 @@
 			<key>logo</key>
 			<string>Nacional</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-nacional,7941.m3u</string>
+			<string>http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://www.surfmusic.de/m3u/radio-nacional,7941.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
