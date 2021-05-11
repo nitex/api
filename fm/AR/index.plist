@@ -447,11 +447,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Rosales 88.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Rosales</string>
 			<key>link</key>
-			<string></string>
+			<string>http://01.solumedia.com.ar:10056/listen.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -459,11 +459,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Viva 88.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Viva</string>
 			<key>link</key>
-			<string></string>
+			<string>https://radio.datalivehd.com:7100/;</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -471,11 +471,35 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Latina 89.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Latin</string>
 			<key>link</key>
+			<string>https://icecast.hostingbahia.com.ar:8046/live.m3u</string>
+			<key>http</key>
+			<string>https://icecast.hostingbahia.com.ar:8046/live</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Malvinas Rock 90.7 FM</string>
+			<key>logo</key>
+			<string>Malvin</string>
+			<key>link</key>
+			<string>http://streamconex.com:8112/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>A Más 91.1 FM</string>
+			<key>logo</key>
+			<string>Mas</string>
+			<key>link</key>
+			<string>https://www.amasradio.com.ar:8443/stream.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -483,11 +507,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>De la Bahía 91.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>De</string>
 			<key>link</key>
-			<string></string>
+			<string>https://icecast.hostingbahia.com.ar:8010/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -495,11 +519,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La Brújula 24 93.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>24</string>
 			<key>link</key>
-			<string></string>
+			<string>http://icecast.hostingbahia.com.ar:8020/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -507,11 +531,23 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>UTN 93.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>UTN</string>
 			<key>link</key>
+			<string>https://sonic.cloudstreaming.eu:10986/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>https://sonic.cloudstreaming.eu:10986/;</string>
+			<key>note</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Urbana 93.9 FM</string>
+			<key>logo</key>
+			<string>Urbana</string>
+			<key>link</key>
+			<string>https://ssl.xcast.com.br:8684/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -519,63 +555,27 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ondas 94.3 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ondas</string>
 			<key>link</key>
-			<string></string>
+			<string>http://190.1.0.5:8015/listen.pls</string>
 			<key>http</key>
-			<string></string>
+			<string>http://190.1.0.5:8015/;#.mp3</string>
 			<key>note</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Ciudad 94.7 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ciudad</string>
 			<key>link</key>
-			<string></string>
+			<string>https://icecast2.hostingbahia.com.ar:8044/live.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -987,13 +987,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>R10 - 710 AM</string>
+			<string>R10 92.3 FM / 710 AM</string>
 			<key>logo</key>
 			<string>R10</string>
 			<key>link</key>
 			<string>https://s6.stweb.tv/radio10/live/playlist.m3u8</string>
 			<key>http</key>
-			<string></string>
+			<string>http://217.172.179.57:8070/listen.pls?sid=1</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -2635,7 +2635,7 @@
 			<key>logo</key>
 			<string>Bahia</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/bahia-blanca-lu2-840-am,248.m3u</string>
+			<string>https://icecast2.hostingbahia.com.ar:8040/live.m3u</string>
 			<key>http</key>
 			<string>https://icecast2.hostingbahia.com.ar:8040/live</string>
 			<key>note</key>
@@ -2823,13 +2823,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Pop 101.5 FM</string>
+			<string>Pop 88.3 FM</string>
 			<key>logo</key>
 			<string>Pop</string>
 			<key>link</key>
 			<string>https://s11.stweb.tv/popradio/live/playlist.m3u8</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/fm-pop-101-5,6054.m3u</string>
+			<string>http://217.172.179.57:8060/listen.pls?sid=1</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
