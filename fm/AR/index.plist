@@ -339,11 +339,71 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Diamante 93.1 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Diamante</string>
 			<key>link</key>
+			<string>https://server.ohradio.com.ar:7112/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>https://server.ohradio.com.ar:7112/;</string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vértice 93.3 FM</string>
+			<key>logo</key>
+			<string>Vertice</string>
+			<key>link</key>
+			<string>http://streaming01.shockmedia.com.ar:9270/listen.pls?sid=1</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zeta 94.5 FM</string>
+			<key>logo</key>
+			<string>Zeta</string>
+			<key>link</key>
+			<string>http://server.ohradio.com.ar:9650/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lasers 94.7 FM</string>
+			<key>logo</key>
+			<string>Lasers</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8092/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UPCN 94.9 FM</string>
+			<key>logo</key>
+			<string>UPCN</string>
+			<key>link</key>
+			<string>http://radio1.upcnba.org:8000/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sofía 95.3 FM</string>
+			<key>logo</key>
+			<string>Sofia</string>
+			<key>link</key>
+			<string>http://stream01.insidetec.com:8042/sofia.m3u</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -351,11 +411,11 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>FM 96.3 Ciudades</string>
 			<key>logo</key>
-			<string></string>
+			<string>Ciudades</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cdn.instream.audio:2199/tunein/cliente105.pls</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -363,11 +423,47 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>La 96.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>La96</string>
 			<key>link</key>
+			<string>http://server.datalivehd.com:7102/listen.pls?sid=1</string>
+			<key>http</key>
 			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Plus - La 96.7 FM</string>
+			<key>logo</key>
+			<string>PlusLa</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8780/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat 96.9 FM</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>https://server.laradio.online/proxy/jose_disco?mp=/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music, Sport (Berisso, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Difusión 98.1 FM</string>
+			<key>logo</key>
+			<string>Difusion</string>
+			<key>link</key>
+			<string>http://200.58.106.247:8530/listen.pls?sid=1</string>
 			<key>http</key>
 			<string></string>
 			<key>note</key>
@@ -375,111 +471,15 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string></string>
+			<string>Sensación 98.5 FM</string>
 			<key>logo</key>
-			<string></string>
+			<string>Sensacion</string>
 			<key>link</key>
-			<string></string>
+			<string>http://cdn.instream.audio:8209/stream.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://cdn.instream.audio:8209/live.m3u</string>
 			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string></string>
-			<key>logo</key>
-			<string></string>
-			<key>link</key>
-			<string></string>
-			<key>http</key>
-			<string></string>
-			<key>note</key>
-			<string></string>
+			<string>Music (La Plata, Local)</string>
 		</dict>
 		<dict>
 			<key>name</key>
@@ -669,7 +669,7 @@
 			<key>link</key>
 			<string>http://streaming.provinciaradio.com.ar:7008/am</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streaming.provinciaradio.com.ar:3352/fm</string>
 			<key>note</key>
 			<string></string>
 		</dict>
