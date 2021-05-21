@@ -63,6 +63,582 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Gravity 105.3 FM</string>
+			<key>logo</key>
+			<string>Gravity</string>
+			<key>link</key>
+			<string>https://01.solumedia.com.ar:10003/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Norte 105.5 FM</string>
+			<key>logo</key>
+			<string>Nort</string>
+			<key>link</key>
+			<string>https://icecast.hostingbahia.com.ar:8002/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Bahía Blanca, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NQP - Cadena Patagónica</string>
+			<key>logo</key>
+			<string>NQP</string>
+			<key>link</key>
+			<string>https://cdn.instream.audio/:8111/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Decisión 106.7 FM</string>
+			<key>logo</key>
+			<string>Decision</string>
+			<key>link</key>
+			<string>http://fmdecision.ddns.net:8000/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bahía Blanca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Central 106.9 FM</string>
+			<key>logo</key>
+			<string>Central</string>
+			<key>link</key>
+			<string>https://servidor2.hostradios.com/proxy/sc_centr?mp=/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Local 107.7 FM</string>
+			<key>logo</key>
+			<string>Loca</string>
+			<key>link</key>
+			<string>http://streaming01.serverconnectinc.site:8446/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>News, Sport (Bahía Blanca, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LU3 del Sur - 1080 AM</string>
+			<key>logo</key>
+			<string>LU3</string>
+			<key>link</key>
+			<string>http://190.1.0.5:8060/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bahía Blanca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidad 1240 AM</string>
+			<key>logo</key>
+			<string>124</string>
+			<key>link</key>
+			<string>https://sonic.cloudstreaming.eu:10983/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Bahía Blanca (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Única 87.9 FM</string>
+			<key>logo</key>
+			<string>Unica</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8478/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Auténtica 88.1 FM</string>
+			<key>logo</key>
+			<string>Autentica</string>
+			<key>link</key>
+			<string>http://62.210.129.76:9268/stream</string>
+			<key>http</key>
+			<string>http://62.210.129.76:9268/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 88.3 La Plata</string>
+			<key>logo</key>
+			<string>Plat</string>
+			<key>link</key>
+			<string>http://miradioenlaweb.com:10156/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>NOVA 88.5 FM</string>
+			<key>logo</key>
+			<string>NOVA</string>
+			<key>link</key>
+			<string>https://radio02.ferozo.com/proxy/ra02001293?mp=/stream/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Berisso, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Integración Boliviana 88.5 FM</string>
+			<key>logo</key>
+			<string>Boliviana</string>
+			<key>link</key>
+			<string>https://streaming01.shockmedia.com.ar:10356/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Río 88.7 FM</string>
+			<key>logo</key>
+			<string>Caden</string>
+			<key>link</key>
+			<string>https://www.cadenario.com/stream1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Raíces Rock 88.9 FM</string>
+			<key>logo</key>
+			<string>Raice</string>
+			<key>link</key>
+			<string>https://server4.hostradios.com:7046/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Aire 89.5 FM</string>
+			<key>logo</key>
+			<string>Air</string>
+			<key>link</key>
+			<string>http://www.alsolnet.com/stream/radiodelaire/listen.pls</string>
+			<key>http</key>
+			<string>http://streamlky.alsolnet.com/radiodelairevideo/live/playlist.m3u8</string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keops 90.5 FM</string>
+			<key>logo</key>
+			<string>Keops</string>
+			<key>link</key>
+			<string>http://streaming2.locucionar.com:8128/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Me Gusta 90.3 FM</string>
+			<key>logo</key>
+			<string>Gusta</string>
+			<key>link</key>
+			<string>http://62.171.144.99:8462/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Futura 90.5 FM</string>
+			<key>logo</key>
+			<string>Futura</string>
+			<key>link</key>
+			<string>https://streamer.fmfutura.com.ar/vivo.mp3.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stylo 90.7 FM</string>
+			<key>logo</key>
+			<string>Stylo</string>
+			<key>link</key>
+			<string>http://63.247.65.202:9437/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Plata 90.9 FM</string>
+			<key>logo</key>
+			<string>Pla</string>
+			<key>link</key>
+			<string>https://alpha.radioplayer.com.ar:9104/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estación Sur 91.7 FM</string>
+			<key>logo</key>
+			<string>Estaci</string>
+			<key>link</key>
+			<string>http://144.91.98.151:8066//stream</string>
+			<key>http</key>
+			<string>http://144.91.98.151:8066/listen.pls?sid=1</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red 92</string>
+			<key>logo</key>
+			<string>Red92</string>
+			<key>link</key>
+			<string>https://s5.voscast.com:9247/stream.m3u</string>
+			<key>http</key>
+			<string>https://s5.voscast.com:9247/stream</string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Andina 92.9 FM</string>
+			<key>logo</key>
+			<string>Andina</string>
+			<key>link</key>
+			<string>https://streaming01.shockmedia.com.ar:10801/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Diamante 93.1 FM</string>
+			<key>logo</key>
+			<string>Diamante</string>
+			<key>link</key>
+			<string>https://server.ohradio.com.ar:7112/listen.pls?sid=1</string>
+			<key>http</key>
+			<string>https://server.ohradio.com.ar:7112/;</string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vértice 93.3 FM</string>
+			<key>logo</key>
+			<string>Vertice</string>
+			<key>link</key>
+			<string>http://streaming01.shockmedia.com.ar:9270/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zeta 94.5 FM</string>
+			<key>logo</key>
+			<string>Zeta</string>
+			<key>link</key>
+			<string>http://server.ohradio.com.ar:9650/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lasers 94.7 FM</string>
+			<key>logo</key>
+			<string>Lasers</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8092/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>UPCN 94.9 FM</string>
+			<key>logo</key>
+			<string>UPCN</string>
+			<key>link</key>
+			<string>http://radio1.upcnba.org:8000/stream</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sofía 95.3 FM</string>
+			<key>logo</key>
+			<string>Sofia</string>
+			<key>link</key>
+			<string>http://stream01.insidetec.com:8042/sofia.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 96.3 Ciudades</string>
+			<key>logo</key>
+			<string>Ciudades</string>
+			<key>link</key>
+			<string>http://cdn.instream.audio:2199/tunein/cliente105.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La 96.5 FM</string>
+			<key>logo</key>
+			<string>La96</string>
+			<key>link</key>
+			<string>http://server.datalivehd.com:7102/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Plus - La 96.7 FM</string>
+			<key>logo</key>
+			<string>PlusLa</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8780/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beat 96.9 FM</string>
+			<key>logo</key>
+			<string>Beat</string>
+			<key>link</key>
+			<string>https://server.laradio.online/proxy/jose_disco?mp=/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music, Sport (Berisso, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Difusión 98.1 FM</string>
+			<key>logo</key>
+			<string>Difusion</string>
+			<key>link</key>
+			<string>http://200.58.106.247:8530/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sensación 98.5 FM</string>
+			<key>logo</key>
+			<string>Sensacion</string>
+			<key>link</key>
+			<string>http://cdn.instream.audio:8209/stream.m3u</string>
+			<key>http</key>
+			<string>http://cdn.instream.audio:8209/live.m3u</string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Revolución 98.9 FM</string>
+			<key>logo</key>
+			<string>Revolucion</string>
+			<key>link</key>
+			<string>http://streaming01.shockmedia.com.ar:9878/stream</string>
+			<key>http</key>
+			<string>http://streaming01.shockmedia.com.ar:9878/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Sport, Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Senda Antigua 99.3 FM</string>
+			<key>logo</key>
+			<string>Senda</string>
+			<key>link</key>
+			<string>https://tolkien.republicahosting.net:1385/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maxjonh 99.5 FM</string>
+			<key>logo</key>
+			<string>Maxjonh</string>
+			<key>link</key>
+			<string>http://argentina.republicahosting.com:8363/;</string>
+			<key>http</key>
+			<string>http://argentina.republicahosting.com:8363/listen.pls</string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Voces 100.7 FM</string>
+			<key>logo</key>
+			<string>Voces</string>
+			<key>link</key>
+			<string>http://streaming01.shockmedia.com.ar:8664/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cantillo 101.9 FM</string>
+			<key>logo</key>
+			<string>Cantillo</string>
+			<key>link</key>
+			<string>https://01.solumedia.com.ar:8422/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ECOS 102.1 FM</string>
+			<key>logo</key>
+			<string>ECOS</string>
+			<key>link</key>
+			<string>http://miradioenlaweb.com:4826/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM MANA 102.50</string>
+			<key>logo</key>
+			<string>MANA</string>
+			<key>link</key>
+			<string>http://streaming2.fmmana.com.ar:8000/fmmana</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mix 102.7 FM</string>
+			<key>logo</key>
+			<string>Mix</string>
+			<key>link</key>
+			<string>https://radiolinksmedia.net.ar/9372/;</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sonido Selecto 102.9 FM</string>
+			<key>logo</key>
+			<string>Selecto</string>
+			<key>link</key>
+			<string>https://radios.solumedia.com:10994/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>221Radio 103.1 FM</string>
+			<key>logo</key>
+			<string>221Radio</string>
+			<key>link</key>
+			<string>https://01.solumedia.com.ar:8612/stream</string>
+			<key>http</key>
+			<string>http://01.solumedia.com.ar:8612/listen.pls</string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Cielo 103.5 FM</string>
+			<key>logo</key>
+			<string>Ciel</string>
+			<key>link</key>
+			<string>https://radios.streamingdha.com.ar:7006/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>COOL 103.7 FM</string>
+			<key>logo</key>
+			<string>COOL</string>
+			<key>link</key>
+			<string>https://arg.solumedia.com.ar:8990/stream</string>
+			<key>http</key>
+			<string>https://arg.solumedia.com.ar:8990/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Independencia AM 1160</string>
 			<key>logo</key>
 			<string>1160</string>
@@ -153,7 +729,7 @@
 			<key>link</key>
 			<string>http://streaming.provinciaradio.com.ar:7008/am</string>
 			<key>http</key>
-			<string></string>
+			<string>http://streaming.provinciaradio.com.ar:3352/fm</string>
 			<key>note</key>
 			<string></string>
 		</dict>
