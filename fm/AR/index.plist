@@ -51,6 +51,150 @@
 	<array>
 		<dict>
 			<key>name</key>
+			<string>Imperial 104.3 FM</string>
+			<key>logo</key>
+			<string>Imperial</string>
+			<key>link</key>
+			<string>http://streaming01.shockmedia.com.ar:8464/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>La Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Sur 105.1 FM</string>
+			<key>logo</key>
+			<string>Sur105</string>
+			<key>link</key>
+			<string>https://59d52c5a5ce5e.streamlock.net:4443/radio/radiosur.stream/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Berisso, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red Puerto Libre 105.9 FM</string>
+			<key>logo</key>
+			<string>Puerto</string>
+			<key>link</key>
+			<string>http://181.171.117.10:8000/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Classique 106.5 FM</string>
+			<key>logo</key>
+			<string>Classique</string>
+			<key>link</key>
+			<string>https://01.solumedia.com.ar:10004/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red Mágica 106.9 FM</string>
+			<key>logo</key>
+			<string>Magica</string>
+			<key>link</key>
+			<string>http://181.171.117.10:8001/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (La Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>LS1 Radio Ciudad 1110 AM</string>
+			<key>logo</key>
+			<string>LS1</string>
+			<key>link</key>
+			<string>https://tus.radios.ar/1110/stream</string>
+			<key>http</key>
+			<string>http://radios.argentina.fm:1110/live.m3u</string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Rocha 1570 AM</string>
+			<key>logo</key>
+			<string>Rocha</string>
+			<key>link</key>
+			<string>https://stmv1.srvif.com/radiorocha/radiorocha/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>De la Azotea 88.7 FM</string>
+			<key>logo</key>
+			<string>Azotea</string>
+			<key>link</key>
+			<string>http://streaming.radiodelaazotea.com.ar:8000/delaazotea.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Estación Vinilo 89.1 FM</string>
+			<key>logo</key>
+			<string>Vinilo</string>
+			<key>link</key>
+			<string>http://173.255.205.241:1127/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Eco 1530 AM</string>
+			<key>logo</key>
+			<string>1530</string>
+			<key>link</key>
+			<string>https://stream.zeno.fm/svszp3e072quv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Laser 89.5 FM</string>
+			<key>logo</key>
+			<string>Laser</string>
+			<key>link</key>
+			<string>http://109.169.37.137:33407/;stream.nsv</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Mar del Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Mega 90.1 FM</string>
+			<key>logo</key>
+			<string>Meg</string>
+			<key>link</key>
+			<string>https://server.laradio.online:48392/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Mar del Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Gravity 105.3 FM</string>
 			<key>logo</key>
 			<string>Gravity</string>
@@ -789,7 +933,7 @@
 			<key>link</key>
 			<string>http://163.10.36.151:8001/broadwavehigh.mp3.m3u</string>
 			<key>http</key>
-			<string></string>
+			<string>http://163.10.186.70:8002/stream.m3u</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -3499,9 +3643,9 @@
 			<key>logo</key>
 			<string>El</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/fm-uno-en-el-senor,13243.m3u</string>
+			<string>http://78.129.193.82:17188/;stream.mp3</string>
 			<key>http</key>
-			<string></string>
+			<string>http://78.129.193.82:17188/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -3909,7 +4053,7 @@
 			<key>link</key>
 			<string>http://playerservices.streamtheworld.com/pls/ROCKANDPOP.pls</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/rock-pop-95-9-fm,309.m3u</string>
+			<string>http://s12.myradiostream.com:9846/listen.pls</string>
 			<key>note</key>
 			<string>Music</string>
 		</dict>
