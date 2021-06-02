@@ -67,11 +67,53 @@
    },
    "Content":[
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
+         "name":"RTVA Nacional d'Andorra",
+         "logo":"Nacional",
+         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "http":"",
+         "note":"News, Talk, Sport"
+      },
+      {
+         "name":"RTVA Andorra M\u00fasica",
+         "logo":"RTVA",
+         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "http":"",
+         "note":"Music"
+      },
+      {
+         "name":"Valira 93.3 FM",
+         "logo":"Valira",
          "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
          "http":"",
-         "note":"News, Talk"
+         "note":""
+      },
+      {
+         "name":"Pr\u00f2xima FM",
+         "logo":"Proxima",
+         "link":"https://s3.radio.co/s3a13a855f/listen",
+         "http":"",
+         "note":"Music"
+      },
+      {
+         "name":"SER Principat d'Andorra 102.3 FM",
+         "logo":"SER",
+         "link":"http://live.leanstream.co/CFNYFM-MP3?tunein",
+         "http":"",
+         "note":"News"
+      },
+      {
+         "name":"Cadena 100 95.0 FM",
+         "logo":"100",
+         "link":"http://93.123.123.7:8000/listen.pls",
+         "http":"",
+         "note":"Music"
+      },
+      {
+         "name":"Seu 107.2 FM",
+         "logo":"Seu",
+         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "http":"",
+         "note":"Music"
       }
    ]
 }
