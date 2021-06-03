@@ -12,7 +12,7 @@
       "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
       "minuteCount":4,
       "id":"REPLACE",
-      "chngAd":"none",
+      "chngAd":"",//none
       "mainAd":"",
       "rtrnAd":"",
       "mainb":"",
@@ -34,7 +34,7 @@
       "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
       "minuteCount":4,
       "id":"REPLACE",
-      "chngAd":"none",
+      "chngAd":"",//none
       "mainAd":"",
       "rtrnAd":"",
       "mainb":"",
@@ -45,53 +45,53 @@
    },
    "Content":[
       {
-         "name":"RTVA Nacional d'Andorra",
-         "logo":"Nacional",
-         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
-         "http":"",
-         "note":"News, Talk, Sport"
+         "name": "Benguela",
+         "logo": "Benguela",
+         "link": "http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "http": "",
+         "note": ""
       },
       {
-         "name":"RTVA Andorra M\u00fasica",
-         "logo":"RTVA",
-         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
-         "http":"",
-         "note":"Music"
+         "name": "Canal A - Radio National",
+         "logo": "Canal",
+         "link": "http://93.123.123.7:8000/listen.pls",
+         "http": "",
+         "note": "Talk"
       },
       {
-         "name":"Valira 93.3 FM",
-         "logo":"Valira",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":""
+         "name": "Cinco 94.5 FM",
+         "logo": "Cinco",
+         "link": "http://live.leanstream.co/CFNYFM-MP3?tunein",
+         "http": "",
+         "note": "Sport"
       },
       {
-         "name":"Pr\u00f2xima FM",
-         "logo":"Proxima",
-         "link":"https://s3.radio.co/s3a13a855f/listen",
-         "http":"",
-         "note":"Music"
+         "name": "Cunene 92.2 FM",
+         "logo": "Cunene",
+         "link": "http://ca10.rcast.net:8026/listen.pls",
+         "http": "",
+         "note": "Ondjiva (Local)"
       },
       {
-         "name":"SER Principat d'Andorra 102.3 FM",
-         "logo":"SER",
-         "link":"http://live.leanstream.co/CFNYFM-MP3?tunein",
-         "http":"",
-         "note":"News"
+         "name": "Ecclesia",
+         "logo": "Ecclesia",
+         "link": "http://live.leanstream.co/CFNYFM-MP3?tunein",
+         "http": "",
+         "note": ""
       },
       {
-         "name":"Cadena 100 95.0 FM",
-         "logo":"100",
-         "link":"http://93.123.123.7:8000/listen.pls",
-         "http":"",
-         "note":"Music"
+         "name": "Escola 88.5 FM",
+         "logo": "Escola",
+         "link": "http://93.123.123.7:8000/listen.pls",
+         "http": "",
+         "note": "Music"
       },
       {
-         "name":"Seu 107.2 FM",
-         "logo":"Seu",
-         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
-         "http":"",
-         "note":"Music"
+         "name": "Huila 96.6 FM",
+         "logo": "Huila",
+         "link": "http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "http": "",
+         "note": "Lubango (Local)"
       }
    ]
 }
