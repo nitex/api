@@ -4,15 +4,15 @@
       "ownVisible":yes,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://www.amazon.com/gp/product/",
-      "rateL":"https://www.amazon.com/gp/product/",
-      "other":"https://www.amazon.com/gp/product/",
-      "bonus":"https://www.amazon.com/gp/product/",
+      "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "other":"http://www.amazon.com/gp/mas/dl/android?s=%20",
+      "bonus":"",
       "showMode":no,			// no - browser, yes - player
       "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
       "minuteCount":4,
       "id":"REPLACE",
-      "chngAd":"none",
+      "chngAd":"",//none
       "mainAd":"",
       "rtrnAd":"",
       "mainb":""
@@ -22,15 +22,15 @@
       "ownVisible":yes,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "other":"",
       "bonus":"",
       "showMode":no,			// no - browser, yes - player
       "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
       "minuteCount":4,
       "id":"REPLACE",
-      "chngAd":"none",
+      "chngAd":"",//none
       "mainAd":"",
       "rtrnAd":"",
       "mainb":""
@@ -41,48 +41,6 @@
       "logo":"Tolo",
       "link":"https://www.bloomberg.com/live/us",
       "http":""
-   },
-   {
-      "name":"ATN Ariana \u0622\u0631\u06cc\u0627\u0646\u0627",
-      "logo":"ATN1",
-      "link":"https://www.apple.com/ipad-pro/",
-      "http":""
-   },
-   {
-      "name":"ATN Ariana News",
-      "logo":"ATN5",
-      "link":"https://rezka.ag/films/fiction/24952-beguschiy-po-lezviyu-2049-2017.html",
-      "http":""
-   },
-   {
-      "name":"ATN Ariana Europe",
-      "logo":"ATN2",
-      "link":"https:\/\/arianatelevision.com\/live\/ariana-tv-international\/",
-      "http":"https:\/\/arianatelevision.com"
-   },
-   {
-      "name":"ATN Ariana USA",
-      "logo":"ATN3",
-      "link":"https:\/\/arianatelevision.com\/live\/atn-usa-live-streaming\/",
-      "http":"https:\/\/arianatelevision.com"
-   },
-   {
-      "name":"ATN Ariana FM",
-      "logo":"ATN4",
-      "link":"https:\/\/arianatelevision.com\/ariana-fm-live\/",
-      "http":"https:\/\/arianatelevision.com"
-   },
-   {
-      "name":"Maiwand",
-      "logo":"Maiwand",
-      "link":"http:\/\/www.maiwandtv.com\/en\/live.php",
-      "http":"http:\/\/www.maiwandtv.com"
-   },
-   {
-      "name":"Tamadon \u062a\u0645\u062f\u0646",
-      "logo":"Tamadon",
-      "link":"http:\/\/www.nanocdn.net\/modules\/lives\/index.php?id=4&channel=tamadon&op=fpl",
-      "http":"http:\/\/tamadon.af\/"
    },
    {
       "name":"VOA Persian",
@@ -103,22 +61,10 @@
       "http":"http:\/\/shamshadtv.tv\/live\/index.php\/pashto\/"
    },
    {
-      "name":"Zhwandoon \u0698\u0648\u0646\u062f\u0648\u0646\u200e",
-      "logo":"Zhwandoon",
-      "link":"http:\/\/www.zhwandoon.tv\/live.php",
-      "http":"http:\/\/www.zhwandoon.tv"
-   },
-   {
       "name":"Payam-e-Afghan \u067e\u06cc\u0627\u0645 \u0627\u0641\u063a\u0627\u0646",
       "logo":"Payam",
       "link":"http:\/\/www.payameafghantv.com\/",
       "http":"http:\/\/www.payameafghantv.com\/"
-   },
-   {
-      "name":"SATV \u0635\u062f\u0627\u06cc \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646\u200e",
-      "logo":"SATV",
-      "link":"http:\/\/www.satvlive.com\/",
-      "http":"http:\/\/www.satvlive.com\/"
    },
    {
       "name":"Ariana Afghanistan \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0622\u0631\u06cc\u0627\u0646\u0627",
