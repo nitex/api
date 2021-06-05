@@ -1,39 +1,39 @@
 {
    "amznTV":{
-      "changeCountry":no,
-      "ownVisible":yes,
+      "changeCountry": false,
+      "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=%20",
       "bonus":"",
-      "showMode":no,			// no - browser, yes - player
-      "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
+      "showMode": false,
+      "visualMode":1,
       "minuteCount":4,
       "id":"REPLACE",
-      "chngAd":"",//none
       "mainAd":"",
       "rtrnAd":"",
-      "mainb":""
+      "mainb":"",
+      "chngAd":""
    },
    "huawTV":{
-      "changeCountry":no,
-      "ownVisible":yes,
+      "changeCountry": false,
+      "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "other":"",
       "bonus":"",
-      "showMode":no,			// no - browser, yes - player
-      "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
+      "showMode": false,
+      "visualMode":1,
       "minuteCount":4,
       "id":"REPLACE",
-      "chngAd":"",//none
       "mainAd":"",
       "rtrnAd":"",
-      "mainb":""
+      "mainb":"",
+      "chngAd":""
    },
    "Content":[
    {
