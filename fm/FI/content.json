@@ -44,12 +44,124 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "Yle Radio 1",
+      "logo": "1",
+      "link": "https://areena.yle.fi/radio/ohjelmat/yle-radio-1",
+      "http": "",
+      "note": "Culture, Art, Factual Talk"
+    },
+    {
+      "name": "Yle Radio Suomi",
+      "logo": "Suomi",
+      "link": "https://areena.yle.fi/radio/ohjelmat/yle-radio-suomi",
+      "http": "",
+      "note": "News, Sport, Music"
+    },
+    {
+      "name": "Yle Puhe",
+      "logo": "Puhe",
+      "link": "https://areena.yle.fi/radio/ohjelmat/yle-puhe",
+      "http": "",
+      "note": "News, current affairs"
+    },
+    {
+      "name": "Yle X",
+      "logo": "YleX",
+      "link": "https://areena.yle.fi/radio/ohjelmat/ylex",
+      "http": "",
+      "note": "Popular Culture, Pop, Rock Music"
+    },
+    {
+      "name": "Yle Klassinen",
+      "logo": "Klassinen",
+      "link": "https://areena.yle.fi/radio/ohjelmat/yle-klassinen/",
+      "http": "",
+      "note": "Classical Music"
+    },
+    {
+      "name": "Finest FM",
+      "logo": "Finest",
+      "link": "http://69.175.94.98:8102/listen.pls",
+      "http": "",
+      "note": "Kirkkonummi (Local)"
+    },
+    {
+      "name": "Radio Free Your Mind",
+      "logo": "Mind",
+      "link": "http://radio01.nk.hel.fi:8128/listen.pls",
+      "http": "",
+      "note": "Youth"
+    },
+    {
+      "name": "Radio Gramox",
+      "logo": "Gramox",
+      "link": "http://suomiradio.pro:8000/listen.pls",
+      "http": "",
+      "note": "Oldies / Nostalgia (Tampere, Local)"
+    },
+    {
+      "name": "Radio Moreeni",
+      "logo": "Moreeni",
+      "link": "http://www.listenlive.eu/moreeni.m3u",
+      "http": "",
+      "note": "Tampere (Local)"
+    },
+    {
+      "name": "Radio Pro",
+      "logo": "Pro",
+      "link": "http://radioaktiivinen.lappia.fi:8000/play.mp3.m3u",
+      "http": "",
+      "note": "Tornio (Local)"
+    },
+    {
+      "name": "Radio Sandels",
+      "logo": "Sandels",
+      "link": "http://suomiradio.pro:8080/listen.pls",
+      "http": "",
+      "note": "Kuopio (Local)"
+    },
+    {
+      "name": "Rondo Classic Klasu",
+      "logo": "Klasu",
+      "link": "http://stream.iradio.fi:8000/klasu-med.mp3.m3u",
+      "http": "http://stream.iradio.fi:8000/klasu-hi.mp3.m3u",
+      "note": ""
+    },
+    {
+      "name": "Rondo Classic Klasu Pro",
+      "logo": "Rondo",
+      "link": "http://stream.iradio.fi:8000/klasupro-med.mp3.m3u",
+      "http": "http://stream.iradio.fi:8000/klasupro-hi.mp3.m3u",
+      "note": ""
+    },
+    {
+      "name": "Sea FM",
+      "logo": "Sea",
+      "link": "http://s3.myradiostream.com:4976/listen.pls",
+      "http": "",
+      "note": "Oulu (Local)"
+    },
+    {
+      "name": "Spin FM",
+      "logo": "Spin",
+      "link": "http://www.listenlive.eu/spinfm_fi.m3u",
+      "http": "",
+      "note": "RnB / HipHop Music"
+    },
+    {
+      "name": "Steel FM",
+      "logo": "Steel",
+      "link": "http://ice6.securenetsystems.net/STEELFM.m3u",
+      "http": "",
+      "note": "Current / Classic Hits (Åland, Local)"
+    },
+    {
+      "name": "Viva Classica",
+      "logo": "Viva",
+      "link": "http://www.listenlive.eu/vivaclassica.m3u",
+      "http": "",
+      "note": ""
+    }
+  ]
 }

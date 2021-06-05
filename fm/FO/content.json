@@ -44,12 +44,62 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+  "Content": [
+    {
+      "name": "Kringvarp Føroya",
+      "logo": "Kringvarp",
+      "link": "http://netvarp.kringvarp.fo:443/uvhm.m3u",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "VoxPop",
+      "logo": "VoxPop",
+      "link": "http://stream.midlar.fo/voxpop.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "FM1",
+      "logo": "FM1",
+      "link": "http://stream.midlar.fo/ras2.m3u",
+      "http": "",
+      "note": "News, Top"
+    },
+    {
+      "name": "Lindin Kristiligt Kringvarp",
+      "logo": "Lindin",
+      "link": "http://lindinhigh.stream.fo:8000/lindinhigh.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "R7 Kringsvarp",
+      "logo": "R7",
+      "link": "http://lurta.r7.fo:8080/r7_high.m3u",
+      "http": "",
+      "note": "News, Talk, Top"
+    },
+    {
+      "name": "RÚV Ras 1",
+      "logo": "1",
+      "link": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras1/_definst_/live.m3u8",
+      "http": "http://www.surfmusic.de/m3u/ras-1,1148.m3u",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "RÚV Ras 2",
+      "logo": "2",
+      "link": "http://sip-live.hds.adaptive.level3.net/hls-live/ruv-ras2/_definst_/live.m3u8",
+      "http": "http://www.surfmusic.de/m3u/ras-2,1149.m3u",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "BBC World Service",
+      "logo": "BBC",
+      "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+      "http": "",
+      "note": "News, Talk"
+    }
+  ]
 }

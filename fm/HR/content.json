@@ -44,12 +44,228 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "HR1 - Prvi",
+      "logo": "HR1",
+      "link": "http://provisioning.streamtheworld.com/pls/program1aac.pls",
+      "http": "",
+      "note": "News / Croatian Music"
+    },
+    {
+      "name": "HR2 - Drugi",
+      "logo": "HR2",
+      "link": "http://provisioning.streamtheworld.com/pls/program2aac.pls",
+      "http": "",
+      "note": "Pop Music"
+    },
+    {
+      "name": "HR3 - Treci",
+      "logo": "HR3",
+      "link": "http://provisioning.streamtheworld.com/pls/program3aac.pls",
+      "http": "",
+      "note": "Culture/Music"
+    },
+    {
+      "name": "HR Radio Osijek",
+      "logo": "Osijek",
+      "link": "http://provisioning.streamtheworld.com/pls/osijekaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Radio Pula",
+      "logo": "Pula",
+      "link": "http://provisioning.streamtheworld.com/pls/pulaaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Radio Rijeka",
+      "logo": "Rijeka",
+      "link": "http://provisioning.streamtheworld.com/pls/rijekaaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Radio Split",
+      "logo": "Split",
+      "link": "http://provisioning.streamtheworld.com/pls/splitaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Radio Sljeme",
+      "logo": "Sljeme",
+      "link": "http://provisioning.streamtheworld.com/pls/sljemeaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Radio Dubrovnik",
+      "logo": "Dubrovnik",
+      "link": "http://provisioning.streamtheworld.com/pls/dubrovnikaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Radio Knin",
+      "logo": "Knin",
+      "link": "http://provisioning.streamtheworld.com/pls/kninaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Radio Zadar",
+      "logo": "Zadar",
+      "link": "http://provisioning.streamtheworld.com/pls/zadaraac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "HR Glas Hrvatske",
+      "logo": "Glas",
+      "link": "http://provisioning.streamtheworld.com/pls/voiceofcroatiaaac.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Antena Zagreb",
+      "logo": "Antena",
+      "link": "http://173.192.137.34:8050/listen.pls",
+      "http": "http://173.192.137.34:8044/listen.pls",
+      "note": "Top 30"
+    },
+    {
+      "name": "Antena Zagreb Hit",
+      "logo": "Zagreb",
+      "link": "http://173.192.137.34:8066/listen.pls",
+      "http": "",
+      "note": "Top 30"
+    },
+    {
+      "name": "Antena Zagreb 80s",
+      "logo": "80s",
+      "link": "http://173.192.137.34:8060/listen.pls",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Antena Zagreb 90s",
+      "logo": "90s",
+      "link": "http://173.192.137.34:8064/listen.pls",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Antena Zagreb 2000s",
+      "logo": "2000s",
+      "link": "http://173.192.137.34:8068/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Gradski Radio Trogir",
+      "logo": "Gradski",
+      "link": "http://188.40.115.75:9064/listen.pls",
+      "http": "http://stream.gradskiradiotrogir.com.hr/192_mp3.m3u",
+      "note": ""
+    },
+    {
+      "name": "HIT Radio",
+      "logo": "HIT",
+      "link": "http://144.76.172.23:7002/listen.pls",
+      "http": "",
+      "note": "Sinj (Local)"
+    },
+    {
+      "name": "Hrvatski Katolicki Radio",
+      "logo": "Katolicki",
+      "link": "http://stream.hkr.hr/hkr1.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Hrvatski radio Županja",
+      "logo": "Zupanja",
+      "link": "http://s3.iqstreaming.com/tunein.php/zupanja/playlist.pls",
+      "http": "http://s3.iqstreaming.com/tunein.php/zupanja/playlist.pls",
+      "note": ""
+    },
+    {
+      "name": "Jadranski Radio",
+      "logo": "Jadranski",
+      "link": "http://184.154.202.243:8015/listen.pls",
+      "http": "",
+      "note": "Split (Local)"
+    },
+    {
+      "name": "KULT radio",
+      "logo": "KULT",
+      "link": "http://www.kultradio.hr/playlist.pls",
+      "http": "",
+      "note": "Varaždin (Local)"
+    },
+    {
+      "name": "Laganini FM",
+      "logo": "Laganini",
+      "link": "http://50.7.70.58:8915/listen.pls",
+      "http": "",
+      "note": "Top 30"
+    },
+    {
+      "name": "Narodni Radio",
+      "logo": "Narodni",
+      "link": "http://s7.iqstreaming.com:8034/live.ogg.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Nautic Radio Kaštela",
+      "logo": "Nautic",
+      "link": "http://simplexstream.com/tunein.php/informat/playlist.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Novi Radio",
+      "logo": "Novi",
+      "link": "http://s1.iqstreaming.com/tunein.php/noviradio/playlist.pls",
+      "http": "",
+      "note": "Zadar (Local)"
+    },
+    {
+      "name": "Otvoreni Radio",
+      "logo": "Otvoreni",
+      "link": "http://www.otvoreni.hr/UserDocsImages/stream.pls",
+      "http": "",
+      "note": "Top 30"
+    },
+    {
+      "name": "Radio 057",
+      "logo": "057",
+      "link": "http://streaming.zadar.net:8000/radio057.m3u",
+      "http": "",
+      "note": "Zadar (Local)"
+    },
+    {
+      "name": "Radio 101",
+      "logo": "101",
+      "link": "http://www.radio101.hr/generated/radio101.pls",
+      "http": "http://s8.iqstreaming.com:8006/listen.pls",
+      "note": ""
+    },
+    {
+      "name": "Radio 105",
+      "logo": "105",
+      "link": "http://live.novi-net.hr/radio105/playlistH.m3u",
+      "http": "",
+      "note": "Selnica (Local)"
+    },
+    {
+      "name": "Radio 1",
+      "logo": "1",
+      "link": "http://winweb1.novi-net.net:8030/radio1H.m3u",
+      "http": "",
+      "note": "Top 30 (Cakovec, Local)"
+    }
 }

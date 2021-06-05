@@ -44,12 +44,264 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
+    {
+      "name": "11Q 104.9 FM",
+      "logo": "11Q",
+      "link": "http://makrodigital.com:8012/11Q.m3u",
+      "http": "",
+      "note": "News"
+    },
+    {
+      "name": "Alegria 98.5 FM",
+      "logo": "Alegria",
+      "link": "http://www.surfmusic.de/m3u/radio-alegria-98-5-fm,14970.m3u",
+      "http": "",
+      "note": "Music (Ambato, Local)"
+    },
+    {
+      "name": "Alfa 98.5 FM",
+      "logo": "Alfa",
+      "link": "http://radios-ec.cdn.nedmedia.io/radios/ec-alfa.m3u8",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "America",
+      "logo": "America",
+      "link": "https://streamingecuador.net:9100/stream.m3u",
+      "http": "https://streamingecuador.net:9101/stream.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "Antena 3",
+      "logo": "Antena",
+      "link": "http://makrodigital.com:8177/Radio_Antena3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Armonica",
+      "logo": "Armonica",
+      "link": "http://195.154.182.222:25194/live",
+      "http": "http://38.96.148.216:9050/listen.pls",
+      "note": ""
+    },
+    {
+      "name": "Asamblea Nacional",
+      "logo": "Asamblea",
+      "link": "http://181.198.32.153:8000/laradio",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Atalaya 680 AM",
+      "logo": "Atalaya",
+      "link": "http://207.210.96.241:8002/listen.pls",
+      "http": "http://str.ecuastreaming.com:9978/;",
+      "note": "News, Talk, Sport (Guayaquil, Local)"
+    },
+    {
+      "name": "BBN",
+      "logo": "BBN",
+      "link": "https://bbnspanish-lh.akamaihd.net/i/BibleBroadcasting_Spanishios@87757/index_48_a-p.m3u8",
+      "http": "",
+      "note": "Talk"
+    },
+    {
+      "name": "Blue",
+      "logo": "Blue",
+      "link": "https://streamingecuador.net:7061/stream.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Cadena Democracia 920 AM",
+      "logo": "Democracia",
+      "link": "http://200.105.233.4:1046/listen.pls",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Canela",
+      "logo": "Canela",
+      "link": "https://stream.pentaedro.info:9025/stream.m3u",
+      "http": "https://stream.pentaedro.info:9027/stream.m3u",
+      "note": "Talk, Music"
+    },
+    {
+      "name": "Caravana 750 AM",
+      "logo": "Caravana",
+      "link": "https://streamingecuador.net:9006/stream.m3u",
+      "http": "http://www.surfmusic.de/m3u/radio-caravana,715.m3u",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Casa de la Cultura 940 AM",
+      "logo": "Casa",
+      "link": "http://66.226.76.170:8026/listen.pls",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Chicha Mix",
+      "logo": "Chicha",
+      "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.163.82:27970/listen.pls&t=.pls",
+      "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.163.82:27970/listen.pls&t=.m3u",
+      "note": ""
+    },
+    {
+      "name": "City 89.3 FM",
+      "logo": "City",
+      "link": "http://198.15.77.50:9564/;",
+      "http": "http://streamingecuador.net:9330/listen.pls",
+      "note": "News"
+    },
+    {
+      "name": "Continental 1320",
+      "logo": "Continental",
+      "link": "http://www.surfmusic.de/m3u/radio-continental-1320,14953.m3u",
+      "http": "",
+      "note": "Ambato (Local)"
+    },
+    {
+      "name": "CRE Satelital",
+      "logo": "CRE",
+      "link": "http://ecuastream.com:9022/listen.pls",
+      "http": "https://ecuastreams.com/medios/radio/232-833-CRE/web/playlist.php?eiplist=listen.m3u",
+      "note": "News, Talk, Sport (Guayaquil, Local)"
+    },
+    {
+      "name": "Cristal 870 AM",
+      "logo": "Cristal",
+      "link": "http://148.251.128.213:9982/listen.pls",
+      "http": "",
+      "note": "Top"
+    },
+    {
+      "name": "Cumbia",
+      "logo": "Cumbia",
+      "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&t=.pls",
+      "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.95.35.49:7109/listen.pls?sid=1&t=.m3u",
+      "note": ""
+    },
+    {
+      "name": "Cumbre 102.5 FM",
+      "logo": "Cumbre",
+      "link": "http://184.107.210.202:1935/efrasyste/cumbre.stream/playlist.m3u8",
+      "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.107.210.202:7048/listen.pls&t=.pls",
+      "note": "Music"
+    },
+    {
+      "name": "Cupido 95.3 FM",
+      "logo": "Cupido",
+      "link": "http://streamingecuador.net:9318/listen.pls",
+      "http": "",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "Cuyabeno 98.1 FM",
+      "logo": "Cuyabeno",
+      "link": "http://www.surfmusic.de/m3u/radio-cuyabeno-98-1-fm,20150.m3u",
+      "http": "",
+      "note": "Nueva Loja (Local)"
+    },
+    {
+      "name": "Diblu 88.9 FM",
+      "logo": "Diblu",
+      "link": "http://streamingecuador.net:9302/listen.pls",
+      "http": "http://www.surfmusic.de/m3u/diblu-fm-88-9,16782.m3u",
+      "note": "Talk, Sport"
+    },
+    {
+      "name": "Dorado",
+      "logo": "Dorado",
+      "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9508/listen.pls&t=.pls",
+      "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9508/listen.pls&t=.m3u",
+      "note": ""
+    },
+    {
+      "name": "Ecua Stereo",
+      "logo": "Ecua",
+      "link": "http://www.surfmusic.de/m3u/radio-ecua-stereo,17973.m3u",
+      "http": "",
+      "note": "Cuenca (Local)"
+    },
+    {
+      "name": "Ecuador Vallenato",
+      "logo": "Vallenato",
+      "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.19:3697/listen.pls&t=.pls",
+      "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.19:3697/listen.pls&t=.m3u",
+      "note": ""
+    },
+    {
+      "name": "Ecuashyri 104.9 FM",
+      "logo": "Ecuashyri",
+      "link": "http://www.surfmusic.de/m3u/radio-ecuashyri-104-9-fm,16842.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "El Tiempo 1410 AM",
+      "logo": "Tiempo",
+      "link": "https://sv70.ecuaradiotv.net:8000/eltiempohd",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Elite 99.7 FM",
+      "logo": "Elite",
+      "link": "http://streamingecuador.net:9342/listen.pls",
+      "http": "",
+      "note": "Top"
+    },
+    {
+      "name": "Eres 93.3 FM",
+      "logo": "Eres",
+      "link": "http://99.198.118.250:8068/listen.pls",
+      "http": "",
+      "note": "Top"
+    },
+    {
+      "name": "Estrella 92.1 FM",
+      "logo": "Estrella",
+      "link": "https://aacplus.rstreaminghd.com:7019/listen.pls",
+      "http": "",
+      "note": "News, Sport"
+    },
+    {
+      "name": "Fabu 105.7 FM",
+      "logo": "Fabu",
+      "link": "http://radios-ec.cdn.nedmedia.io/radios/ec-fabu-gy.m3u8",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Festival FM",
+      "logo": "Festival",
+      "link": "https://usa1.fastcast4u.com/proxy/bhbcnrny?mp=/1",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Fiesta La Grande de Machala",
+      "logo": "Fiesta",
+      "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.ecuastream.com:9050/listen.pls?sid=1&t=.pls",
+      "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://www.ecuastream.com:9050/listen.pls?sid=1&t=.m3u",
+      "note": ""
+    },
+    {
+      "name": "FM Mundo 98.1",
+      "logo": "Mundo",
+      "link": "http://streamingecuador.net:9314/listen.pls",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Forever 92.5 FM",
+      "logo": "Forever",
+      "link": "http://makrodigital.com:8014/forever.m3u",
+      "http": "",
+      "note": "News, Oldies, Music"
+    }
    ]
 }

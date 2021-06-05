@@ -45,11 +45,60 @@
    },
    "Content":[
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "aplus",
+         "logo": "aplus",
+         "link": "http://www.surfmusic.de/m3u/radio-aplus-hip-hop,16407.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Авторадио 98.0 FM",
+         "logo": "Avto",
+         "link": "http://live.humorfm.by:8000/avtoradio.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Альфа",
+         "logo": "Alpha",
+         "link": "http://live.alpha.by:7000/alpha.m3u",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Барановичи",
+         "logo": "Baranovichi",
+         "link": "http://radio.100fm.by:8000/100fm.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Би-Эй (BA)",
+         "logo": "BA",
+         "link": "http://93.125.106.180:8000/BA128.m3u",
+         "http": "http://87.252.252.78:8000/BA.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Брест 104.8 FM",
+         "logo": "Brest",
+         "link": "http://93.84.112.253:8039/live.m3u",
+         "http": "http://93.84.112.253:8039/stream.m3u",
+         "note": "News, Top"
+      },
+      {
+         "name": "Витебск 91.2 FM",
+         "logo": "Vitebsk",
+         "link": "http://radio.vtv.by:8000/radio_vitebsk_128.m3u",
+         "http": "",
+         "note": "News, Top Music (Local)"
+      },
+      {
+         "name": "Душевное",
+         "logo": "Dushevnoe",
+         "link": "http://stream.hoster.by:8081/pilotfm/audio/icecast.audio",
+         "http": "http://imgradio.pro/DushevnoeRadio48.m3u",
+         "note": "Oldies Music"
       }
    ]
 }

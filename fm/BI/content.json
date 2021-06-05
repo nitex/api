@@ -44,12 +44,75 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "Agakiza 97.9 FM",
+      "logo": "Agakiza",
+      "link": "http://162.244.80.52:4154/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Buja FM 87.6",
+      "logo": "Buja",
+      "link": "http://154.70.196.39:8000/bujafm.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Culture 97.3 FM",
+      "logo": "Culture",
+      "link": "http://bagenzitv.com:8003/radioculture.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Isanganiro 89.7 FM",
+      "logo": "Isanganiro",
+      "link": "http://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3.m3u",
+      "http": "",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "RTNB Chaîne 1",
+      "logo": "1",
+      "link": "http://41.79.226.195:8000/stream.m3u",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "RTNB Chaîne 2",
+      "logo": "2",
+      "link": "http://41.79.226.196:8000/stream.m3u",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Scolaire Nderagakura FM 87.9",
+      "logo": "Scolaire",
+      "link": "http://eu8.fastcast4u.com/proxy/radiosco?mp=/1",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "VOA Africa",
+      "logo": "VOA",
+      "link": "https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "RFI Afrique",
+      "logo": "RFI",
+      "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+      "http": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+      "note": "News, Talk"
+    },
+    {
+      "name": "BBC World Service",
+      "logo": "BBC",
+      "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+      "http": "",
+      "note": "News, Talk"
+    }
+  ]
 }

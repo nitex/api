@@ -44,12 +44,131 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
+    {
+      "name": "NDR 90,3",
+      "logo": "90,3",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr903.m3u",
+      "http": "",
+      "note": "News (Hamburg)"
+    },
+    {
+      "name": "NDR 1 Niedersachsen",
+      "logo": "Niedersachsen",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr1niedersachsen.m3u",
+      "http": "",
+      "note": "News (Hannover)"
+    },
+    {
+      "name": "NDR 1 MV",
+      "logo": "MV",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr1radiomv.m3u",
+      "http": "",
+      "note": "News (Schwerin)"
+    },
+    {
+      "name": "NDR 1 Welle Nord",
+      "logo": "Welle",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr1wellenord.m3u",
+      "http": "",
+      "note": "News, Music (Flensburg)"
+    },
+    {
+      "name": "NDR 2",
+      "logo": "2",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndr2.m3u",
+      "http": "",
+      "note": "Hamburg"
+    },
+    {
+      "name": "NDR Kultur",
+      "logo": "NDR",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrkultur.m3u",
+      "http": "",
+      "note": "Music (Hamburg)"
+    },
+    {
+      "name": "NDR Info",
+      "logo": "Info",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrinfo.m3u",
+      "http": "",
+      "note": "News (Hamburg)"
+    },
+    {
+      "name": "NDR Info Spezial",
+      "logo": "Spezial",
+      "link": "http://ndrstream.ic.llnwd.net/stream/ndrstream_ndrinfo_spezial_hi_mp3.m3u",
+      "http": "",
+      "note": "News (Hamburg)"
+    },
+    {
+      "name": "NDR Blue",
+      "logo": "Blue",
+      "link": "http://www.ndr.de/resources/metadaten/audio/m3u/ndrblue.m3u",
+      "http": "",
+      "note": "Alternative Music (Hamburg)"
+    },
+    {
+      "name": "917xfm",
+      "logo": "917xfm",
+      "link": "http://www.listenlive.eu/917xfm.m3u",
+      "http": "",
+      "note": "Indie, Alternative, Electro, Jazz Music (Hamburg)"
+    },
+    {
+      "name": "Absolut Radio",
+      "logo": "Absolut",
+      "link": "http://stream.absolutradio.de/hq/mp3/listenlive.m3u",
+      "http": "",
+      "note": "Nürnberg (Local)"
+    },
+    {
+      "name": "Absolut Relax",
+      "logo": "Relax",
+      "link": "http://stream.absolutradio.de/relax/mp3-128/listenlive.m3u",
+      "http": "",
+      "note": "Rock/Soul Music (Nürnberg, Local)"
+    },
+    {
+      "name": "Absolut Hot",
+      "logo": "Hot",
+      "link": "http://stream.absolutradio.de/hot/mp3-128/listenlive.m3u",
+      "http": "",
+      "note": "Top, Music (Nürnberg, Local)"
+    },
+    {
+      "name": "alsterradio",
+      "logo": "alsterradio",
+      "link": "http://live96.106acht.de/listen.pls",
+      "http": "",
+      "note": "Rock/Pop Music (Hamburg)"
+    },
+    {
+      "name": "Antenne AC",
+      "logo": "AC",
+      "link": "http://antenne-ac-mp3.skydisc.net:9000/listen.pls",
+      "http": "",
+      "note": "Würselen (Local)"
+    },
+    {
+      "name": "Antenne Bad Kreuznach",
+      "logo": "Kreuznach",
+      "link": "http://www.listenlive.eu/antenne-kh-mp3.m3u",
+      "http": "http://www.listenlive.eu/antenne-kh-aac.m3u",
+      "note": "Local"
+    },
+    {
+      "name": "Antenne Bayern",
+      "logo": "Bayern",
+      "link": "http://www.antenne.de/webradio/antenne.m3u",
+      "http": "http://www.antenne.de/webradio/antenne.aac.pls",
+      "note": "Local"
+    },
+    {
+      "name": "Antenne Bayern Top 40",
+      "logo": "40",
+      "link": "http://www.antenne.de/webradio/channels/top-40.m3u",
+      "http": "http://www.antenne.de/webradio/channels/top-40.aac.pls",
+      "note": "Top (Munich)"
+    }
    ]
 }

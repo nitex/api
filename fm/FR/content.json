@@ -44,12 +44,229 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "franceinfo",
+      "logo": "franceinfo",
+      "link": "http://www.listenlive.eu/fr_franceinfo128.m3u",
+      "http": "",
+      "note": "News"
+    },
+    {
+      "name": "France Inter",
+      "logo": "Inter",
+      "link": "http://www.listenlive.eu/fr_franceinter128.m3u",
+      "http": "",
+      "note": "News"
+    },
+    {
+      "name": "France Musique",
+      "logo": "Musique",
+      "link": "http://www.listenlive.eu/fr_francemusique128.m3u",
+      "http": "",
+      "note": "Classical Music / Jazz"
+    },
+    {
+      "name": "France Musique Classique easy",
+      "logo": "easy",
+      "link": "http://www.listenlive.eu/fr_francemusiqueeasy.m3u",
+      "http": "",
+      "note": "Classical Music"
+    },
+    {
+      "name": "France Musique Classique plus",
+      "logo": "Classique",
+      "link": "http://www.listenlive.eu/fr_francemusiqueplus.m3u",
+      "http": "",
+      "note": "Classical Music"
+    },
+    {
+      "name": "France Musique Concerts de Radio France",
+      "logo": "Concerts",
+      "link": "http://www.listenlive.eu/fr_francemusiqueconcerts.m3u",
+      "http": "",
+      "note": "Classical Music, Public"
+    },
+    {
+      "name": "France Musique Musiques du monde - Ocora",
+      "logo": "Ocora",
+      "link": "http://www.listenlive.eu/fr_francemusiquemonde.m3u",
+      "http": "",
+      "note": "World / Traditional"
+    },
+    {
+      "name": "France Musique La Jazz",
+      "logo": "Jazz",
+      "link": "http://www.listenlive.eu/fr_francemusiquejazz.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "France Musique La Contemporaine",
+      "logo": "Contemporaine",
+      "link": "http://www.listenlive.eu/fr_francemusiquecontemp.m3u",
+      "http": "",
+      "note": "Classical Music"
+    },
+    {
+      "name": "France Culture",
+      "logo": "Culture",
+      "link": "http://www.listenlive.eu/fr_franceculture128.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "FIP (national)",
+      "logo": "national",
+      "link": "http://www.listenlive.eu/fr_fip128.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "FIP à Nantes",
+      "logo": "Nantes",
+      "link": "http://www.listenlive.eu/fr_fipnantes.m3u",
+      "http": "",
+      "note": "Local"
+    },
+    {
+      "name": "FIP à Bordeaux",
+      "logo": "Bordeaux",
+      "link": "http://www.listenlive.eu/fr_fipbordeaux.m3u",
+      "http": "",
+      "note": "Local"
+    },
+    {
+      "name": "FIP à Strasbourg",
+      "logo": "Strasbourg",
+      "link": "http://www.listenlive.eu/fr_fipstrasbourg.m3u",
+      "http": "",
+      "note": "Local"
+    },
+    {
+      "name": "FIP autour du rock",
+      "logo": "autour",
+      "link": "http://www.listenlive.eu/fr_fiprock.m3u",
+      "http": "",
+      "note": "Pop/Rock Music"
+    },
+    {
+      "name": "FIP autour du jazz",
+      "logo": "du",
+      "link": "http://www.listenlive.eu/fr_fipjazz.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "FIP autour du groove",
+      "logo": "groove",
+      "link": "http://www.listenlive.eu/fr_fipgroove.m3u",
+      "http": "",
+      "note": "Soul Music, funk, groove"
+    },
+    {
+      "name": "FIP autour du monde",
+      "logo": "monde",
+      "link": "http://www.listenlive.eu/fr_fipmonde.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Tout nouveau, tout FIP",
+      "logo": "Tout",
+      "link": "http://www.listenlive.eu/fr_fipnouveau.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Mouv’",
+      "logo": "Mouv",
+      "link": "http://www.listenlive.eu/fr_mouv.m3u",
+      "http": "",
+      "note": "Youth"
+    },
+    {
+      "name": "Mouv’ Xtra",
+      "logo": "Xtra",
+      "link": "http://www.listenlive.eu/fr_mouvxtra.m3u",
+      "http": "",
+      "note": "Youth, Hip-Hop, Electro Music"
+    },
+    {
+      "name": "France Bleu Alsace 101.4FM",
+      "logo": "Alsace",
+      "link": "http://www.listenlive.eu/fr_fbalsace.m3u",
+      "http": "",
+      "note": "Strasbourg (Local)"
+    },
+    {
+      "name": "France Bleu Armorique 101.3FM",
+      "logo": "Armorique",
+      "link": "http://www.listenlive.eu/fr_fbarmorique.m3u",
+      "http": "",
+      "note": "Rennes (Local)"
+    },
+    {
+      "name": "France Bleu Auxerre 103.5FM",
+      "logo": "Auxerre",
+      "link": "http://www.listenlive.eu/fr_fbauxerre.m3u",
+      "http": "",
+      "note": "Local"
+    },
+    {
+      "name": "France Bleu Azur 103.8FM",
+      "logo": "Azur",
+      "link": "http://www.listenlive.eu/fr_fbazur.m3u",
+      "http": "",
+      "note": "Nice (Local)"
+    },
+    {
+      "name": "France Bleu Béarn 102.5FM",
+      "logo": "Bearn",
+      "link": "http://www.listenlive.eu/fr_fbbearn.m3u",
+      "http": "",
+      "note": "Pau (Local)"
+    },
+    {
+      "name": "France Bleu Belfort-Montbéliard 106.8FM",
+      "logo": "Belfort",
+      "link": "http://www.listenlive.eu/fr_fbbelfort.m3u",
+      "http": "",
+      "note": "Local"
+    },
+    {
+      "name": "France Bleu Berry 95.2FM",
+      "logo": "Berry",
+      "link": "http://www.listenlive.eu/fr_fbberry.m3u",
+      "http": "",
+      "note": "Châteauroux (Local)"
+    },
+    {
+      "name": "France Bleu Besançon 102.8FM",
+      "logo": "Besancon",
+      "link": "http://www.listenlive.eu/fr_fbbesancon.m3u",
+      "http": "",
+      "note": "Local"
+    },
+    {
+      "name": "France Bleu Bourgogne 98.3FM",
+      "logo": "Bourgogne",
+      "link": "http://www.listenlive.eu/fr_fbbourgogne.m3u",
+      "http": "",
+      "note": "Dijon (Local)"
+    },
+    {
+      "name": "France Bleu Breizh Izel 98.6FM",
+      "logo": "Breizh",
+      "link": "http://www.listenlive.eu/fr_fbbreizizel.m3u",
+      "http": "",
+      "note": "Quimper (Local)"
+    },
+    {
+      "name": "France Bleu Champagne-Ardenne 95.1FM",
+      "logo": "Champagne",
+      "link": "http://www.listenlive.eu/fr_fbchampagne.m3u",
+      "http": "",
+      "note": "Reims (Local)"
+    }
+  ]
 }

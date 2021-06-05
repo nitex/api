@@ -44,12 +44,68 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "Choice FM 106.4",
+      "logo": "Choice",
+      "link": "http://uk3-pn.webcast-server.net/8276/stream.mp3",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "GRTS",
+      "logo": "GRTS",
+      "link": "http://162.244.80.52:6508/listen.pls?sid=1",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Paradise FM",
+      "logo": "Paradise",
+      "link": "http://amber.streamguys.com:4340/paradise105.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "QRadio 103.3 FM",
+      "logo": "QRadio",
+      "link": "http://s9.viastreaming.net:9560/listen.pls",
+      "http": "http://s9.viastreaming.net/mobile.php?port=9560",
+      "note": ""
+    },
+    {
+      "name": "Senn FM 90.5",
+      "logo": "Senn",
+      "link": "http://www.partyviberadio.com:8000/listen.pls?sid=1",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "West Coast Radio 92.1 FM",
+      "logo": "West",
+      "link": "http://stream.westcoast.gm:8002/listen.pls",
+      "http": "http://stream.westcoast.gm:8080/westcoast921?type=.mp3",
+      "note": ""
+    },
+    {
+      "name": "West Coast Radio 95.3 FM",
+      "logo": "Coast",
+      "link": "http://stream.westcoast.gm:8000/listen.pls",
+      "http": "http://stream.westcoast.gm:8080/westcoast953?type=.mp3",
+      "note": ""
+    },
+    {
+      "name": "VOA Africa",
+      "logo": "VOA",
+      "link": "https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "BBC World Service",
+      "logo": "BBC",
+      "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+      "http": "",
+      "note": "News, Talk"
+    }
+  ]
 }

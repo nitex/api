@@ -44,12 +44,124 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
+    {
+      "name": "FBC 2Day FM",
+      "logo": "2Day",
+      "link": "http://peridot.streamguys.com:7150/2Day.m3u",
+      "http": "http://www.surfmusic.de/m3u/radio-2day-fm-suva,11110.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "FBC Bula FM",
+      "logo": "Bula",
+      "link": "http://peridot.streamguys.com:7150/Bula.m3u",
+      "http": "http://www.surfmusic.de/m3u/bula-fm,11107.m3u",
+      "note": "News, Music"
+    },
+    {
+      "name": "FBC Gold",
+      "logo": "Gold",
+      "link": "http://peridot.streamguys.com:7150/Gold.m3u",
+      "http": "http://www.surfmusic.de/m3u/radio-fiji-gold,11109.m3u",
+      "note": "Oldies Music"
+    },
+    {
+      "name": "FBC Mirchi FM",
+      "logo": "Mirchi",
+      "link": "http://peridot.streamguys.com:7150/Mirchi.m3u",
+      "http": "http://www.surfmusic.de/m3u/radio-mirchi,11108.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "FM96 Fiji",
+      "logo": "FM96",
+      "link": "http://www.surfmusic.de/m3u/fm96-fiji,20240.m3u",
+      "http": "",
+      "note": "News, Sport, Top Music"
+    },
+    {
+      "name": "Legend FM Fiji",
+      "logo": "Legend",
+      "link": "http://www.surfmusic.de/m3u/legend-fm-fiji,20241.m3u",
+      "http": "http://192.111.142.176:8000/LEGENDFM?session=11103816795",
+      "note": ""
+    },
+    {
+      "name": "Maria No Te Hau",
+      "logo": "Maria",
+      "link": "http://www.surfmusic.de/m3u/radio-maria-no-te-hau,898.m3u",
+      "http": "",
+      "note": "Tahiti"
+    },
+    {
+      "name": "Mix FM - Fiji's Best Mix",
+      "logo": "Mix",
+      "link": "http://fijiradio.net:8000/live.m3u",
+      "http": "",
+      "note": "Oldies Music"
+    },
+    {
+      "name": "Mirchi PEHLA NASHA",
+      "logo": "PEHLA",
+      "link": "http://www.surfmusic.de/m3u/mirchi-pehla-nasha,18455.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Navtarang FM 101",
+      "logo": "Navtarang",
+      "link": "http://www.surfmusic.de/m3u/navtarang-radio-fiji,20242.m3u",
+      "http": "http://192.111.142.176:8000/NAVTARANG?session=11103817249",
+      "note": "Music"
+    },
+    {
+      "name": "Radio 1",
+      "logo": "1",
+      "link": "http://www.surfmusic.de/m3u/radio-1,14111.m3u",
+      "http": "",
+      "note": "Tahiti"
+    },
+    {
+      "name": "Radio Fiji One",
+      "logo": "One",
+      "link": "http://peridot.streamguys.com:7150/RFOne.m3u",
+      "http": "http://www.surfmusic.de/m3u/radio-fiji-one,11105.m3u",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "Radio Fiji Two",
+      "logo": "Two",
+      "link": "http://peridot.streamguys.com:7150/RFTwo.m3u",
+      "http": "http://www.surfmusic.de/m3u/radio-fiji-two,11106.m3u",
+      "note": "News, Oldies Music"
+    },
+    {
+      "name": "Sargam Fiji",
+      "logo": "Sargam",
+      "link": "http://www.surfmusic.de/m3u/radio-sargam-fiji,20244.m3u",
+      "http": "http://192.111.142.176:8000/SARGAM?session=11103818323",
+      "note": "News, Sport, Top"
+    },
+    {
+      "name": "Tarana",
+      "logo": "Tarana",
+      "link": "http://www.surfmusic.de/m3u/radio-tarana,17002.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Tiare FM",
+      "logo": "Tiare",
+      "link": "http://www.surfmusic.de/m3u/tiare-fm,899.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "VITI FM",
+      "logo": "VITI",
+      "link": "http://www.surfmusic.de/m3u/viti-fm,20243.m3u",
+      "http": "http://192.111.142.176:8000/VITIFM?session=11103818855",
+      "note": "News, Talk, Top Music"
+    }
    ]
 }

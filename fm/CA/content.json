@@ -44,12 +44,117 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "CILV Live 88.5 FM",
+      "logo": "CILV",
+      "link": "http://newcap.leanstream.co/CILVFM-MP3.m3u",
+      "http": "",
+      "note": "Talk, Music"
+    },
+    {
+      "name": "CHUO 89.1 FM",
+      "logo": "CHUO",
+      "link": "http://icecast1.isiglobal.ca/chuo.mp3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Hot",
+      "logo": "Hot",
+      "link": "http://newcap.leanstream.co/CIHTFM-MP3.m3u",
+      "http": "http://newcap.leanstream.co/CKQKFM.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "CBC One",
+      "logo": "One",
+      "link": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_ott.m3u",
+      "http": "http://cbcmp3.ic.llnwd.net/stream/cbcmp3_cbc_r1_cgy.m3u",
+      "note": "News, Talk, Sport"
+    },
+    {
+      "name": "Jack",
+      "logo": "Jack",
+      "link": "http://rogers-hls.leanstream.co/rogers/ott923.stream/playlist.m3u8",
+      "http": "http://rogers-hls.leanstream.co/rogers/hal929.stream/playlist.m3u8",
+      "note": "Music"
+    },
+    {
+      "name": "CKCU 93.1 FM",
+      "logo": "CKCU",
+      "link": "http://icecast3.isiglobal.ca/ckcu.mp3.m3u",
+      "http": "",
+      "note": "Talk, Music"
+    },
+    {
+      "name": "Pure Country",
+      "logo": "Pure",
+      "link": "http://playerservices.streamtheworld.com/pls/CKKLFM.pls",
+      "http": "http://playerservices.streamtheworld.com/pls/CKHJAM.pls",
+      "note": "Music"
+    },
+    {
+      "name": "CJFO 94.5 Unique FM",
+      "logo": "CJFO",
+      "link": "http://stream03.ustream.ca:8000/cjfofm128.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Rouge FM",
+      "logo": "Rouge",
+      "link": "http://playerservices.streamtheworld.com/pls/CIMFFM.pls",
+      "http": "http://playerservices.streamtheworld.com/pls/CITE1FM.pls",
+      "note": "Top Music"
+    },
+    {
+      "name": "Elmnt FM",
+      "logo": "Elmnt",
+      "link": "http://ice10.securenetsystems.net/CFPT.m3u",
+      "http": "http://ice10.securenetsystems.net/CFPO.m3u",
+      "note": ""
+    },
+    {
+      "name": "CFTX Capitale Rock 96.5 FM",
+      "logo": "CFTX",
+      "link": "http://stream.rncmedia.ca/gatineau.radiox.mp3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "CHLX Planète 97.1 FM",
+      "logo": "CHLX",
+      "link": "http://stream.rncmedia.ca/gatineau.planeteradio.mp3.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "International Radio",
+      "logo": "International",
+      "link": "http://ice7.securenetsystems.net/CJLLFM.m3u",
+      "http": "http://ice7.securenetsystems.net/CHINFM.m3u",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Jewel",
+      "logo": "Jewel",
+      "link": "http://ice2.securenetsystems.net/CJWL.m3u",
+      "http": "http://ice41.securenetsystems.net/CKHY.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "CHRI Family Radio 99.1 FM",
+      "logo": "CHRI",
+      "link": "http://206.132.180.91:554/stream.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "CJOT Boom 99.7 FM",
+      "logo": "CJOT",
+      "link": "http://live.leanstream.co/CJOTFM-MP3.m3u",
+      "http": "",
+      "note": "Music"
+    }
+  ]
 }

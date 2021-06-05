@@ -44,12 +44,75 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "Astra FM",
+      "logo": "Astra",
+      "link": "http://r1.cloudskep.com/radio/diesi/icecast.audio",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Cosmos Radio 95,2",
+      "logo": "Cosmos",
+      "link": "http://50.22.219.97:34470/listen.pls",
+      "http": "",
+      "note": "Pafos (Local)"
+    },
+    {
+      "name": "Capital Radio 93.8",
+      "logo": "Capital",
+      "link": "http://78.159.112.254:8308/listen.pls",
+      "http": "http://159.253.37.137:9956/listen.pls",
+      "note": "Lefkosa (Local)"
+    },
+    {
+      "name": "Dance FM",
+      "logo": "Dance",
+      "link": "http://www.dancefm.com.tr:8050/listen.pls",
+      "http": "",
+      "note": "News (Gazimağusa, Local)"
+    },
+    {
+      "name": "Bayrak Radyosu",
+      "logo": "Radyosu",
+      "link": "http://sc.brtk.net:8002/listen.pls",
+      "http": "",
+      "note": "News/Talk/Music (Lefkosa, Local)"
+    },
+    {
+      "name": "Bayrak International",
+      "logo": "International",
+      "link": "http://sc.brtk.net:8004/listen.pls",
+      "http": "",
+      "note": "News (Lefkosa, Local)"
+    },
+    {
+      "name": "Bayrak FM",
+      "logo": "Bayrak",
+      "link": "http://sc.brtk.net:8000/listen.pls",
+      "http": "",
+      "note": "Lefkosa (Local)"
+    },
+    {
+      "name": "Bayrak Klasik",
+      "logo": "Klasik",
+      "link": "http://sc.brtk.net:8006/listen.pls",
+      "http": "",
+      "note": "Lefkosa (Local)"
+    },
+    {
+      "name": "Bayrak Türk Müziği",
+      "logo": "Turk",
+      "link": "http://sc.brtk.net:8010/listen.pls",
+      "http": "",
+      "note": "Lefkosa (Local)"
+    },
+    {
+      "name": "Bayrak Radyo Haber",
+      "logo": "Haber",
+      "link": "http://sc.brtk.net:8008/listen.pls",
+      "http": "",
+      "note": "News (Lefkosa, Local)"
+    }
+  ]
 }

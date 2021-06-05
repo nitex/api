@@ -44,12 +44,96 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "Ar Daidardo არ დაიდარდო",
+      "logo": "Ar",
+      "link": "http://www.ardaidardo.ge/live.m3u",
+      "http": "",
+      "note": "Pop"
+    },
+    {
+      "name": "ავტორადიო Avtoradio 95,1 FM",
+      "logo": "Avtoradio",
+      "link": "http://www.listenlive.eu/avtoradioge.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Fortuna FM 106,9",
+      "logo": "Fortuna",
+      "link": "http://www.listenlive.eu/fortunafm.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Fortuna Plus 103,4 რადიო ფორტუნა პლუსი",
+      "logo": "Plus",
+      "link": "http://www.fortunaplus.ge/live/live.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Jako FM 96.3 რადიო",
+      "logo": "Jako",
+      "link": "http://188.169.118.246:8000/listen.pls",
+      "http": "",
+      "note": "Sport"
+    },
+    {
+      "name": "Radio Argo",
+      "logo": "Argo",
+      "link": "http://188.93.89.164:8000/listen.pls?sid=1",
+      "http": "http://80.241.246.125:9000/listen.pls",
+      "note": "News/Talk/Music (Zestafoni)"
+    },
+    {
+      "name": "Radio DK ძველი ქალაქი",
+      "logo": "D",
+      "link": "http://iis.ge:8000/radiodk.mp3.m3u",
+      "http": "",
+      "note": "Pop (Kutaisi)"
+    },
+    {
+      "name": "Radio GIPA რადიო ჯიპა FM 94.3",
+      "logo": "GIPA",
+      "link": "http://31.146.205.144:8000/livemp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Radio Hereti FM 102,8",
+      "logo": "Hereti",
+      "link": "http://www.heretifm.com/upload/tmpfiles/hereti.mp3.m3u",
+      "http": "",
+      "note": "News/Music (Lagodekhi)"
+    },
+    {
+      "name": "Radio MUZA",
+      "logo": "MUZA",
+      "link": "http://www.bfnstreaming.nl/radiomuza.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Radio Palitra 103,9 FM რადიო პალიტრა ",
+      "logo": "Palitra",
+      "link": "http://stream.palitra.ge:8000/stream.mp3.m3u",
+      "http": "",
+      "note": "News/Talk/Music"
+    },
+    {
+      "name": "Star FM 93.9",
+      "logo": "StarFM",
+      "link": "http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+      "http": "http://starfm.stargroup.ge:8000/live.m3u",
+      "note": ""
+    },
+    {
+      "name": "Radio SOMA 107.9",
+      "logo": "SOMA",
+      "link": "http://www.radiosoma.com/RadioSoma_107.9_MHz.m3u",
+      "http": "http://live.radiosoma.com/listen.pls",
+      "note": "Pop (Sukhumi)"
+    }
+  ]
 }

@@ -44,12 +44,208 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
+    {
+      "name": "DR Nyheder",
+      "logo": "Nyheder",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A02L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A02H.mp3.m3u",
+      "note": "News"
+    },
+    {
+      "name": "DR Ramasjang",
+      "logo": "Ramasjang",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A24L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A24H.mp3.m3u",
+      "note": "Top 5"
+    },
+    {
+      "name": "DR P1",
+      "logo": "P1",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A03L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A03H.mp3.m3u",
+      "note": "News/Features"
+    },
+    {
+      "name": "DR P2 Klassisk",
+      "logo": "P2",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A04L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A04H.mp3.m3u",
+      "note": "Top 5"
+    },
+    {
+      "name": "DR P3",
+      "logo": "P3",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A05L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A05H.mp3.m3u",
+      "note": "News/Youth"
+    },
+    {
+      "name": "DR P4 Bornholm",
+      "logo": "Bornholm",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A06L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A06H.mp3.m3u",
+      "note": "Rønne (Local)"
+    },
+    {
+      "name": "DR P4 Esbjerg",
+      "logo": "Esbjerg",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A15L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A15L.mp3.m3u",
+      "note": "Local"
+    },
+    {
+      "name": "DR P4 Fyn",
+      "logo": "Fyn",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A07L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A07H.mp3.m3u",
+      "note": "Odense (Local)"
+    },
+    {
+      "name": "DR P4 København",
+      "logo": "P4",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A08L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A08H.mp3.m3u",
+      "note": "Copenhagen (Local)"
+    },
+    {
+      "name": "DR P4 Midt & Vest",
+      "logo": "Midt",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A09L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A09H.mp3.m3u",
+      "note": "Holstebro (Local)"
+    },
+    {
+      "name": "DR P4 Nordjylland",
+      "logo": "Nordjylland",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A10L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A10H.mp3.m3u",
+      "note": "Aalborg (Local)"
+    },
+    {
+      "name": "DR P4 Sjælland",
+      "logo": "Sjalland",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A11L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A11H.mp3.m3u",
+      "note": "Næstved (Local)"
+    },
+    {
+      "name": "DR P4 Syd",
+      "logo": "Syd",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A12L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A12H.mp3.m3u",
+      "note": "Aabenraa (Local)"
+    },
+    {
+      "name": "DR P4 Trekanten",
+      "logo": "Trekanten",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A13L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A13H.mp3.m3u",
+      "note": "Vejle (Local)"
+    },
+    {
+      "name": "DR P4 Østjylland",
+      "logo": "Aarhus",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A14L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A14H.mp3.m3u",
+      "note": "Aarhus (Local)"
+    },
+    {
+      "name": "DR P5",
+      "logo": "P5",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A25L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A25H.mp3.m3u",
+      "note": "Music/Features (Top 5)"
+    },
+    {
+      "name": "DR P6 Beat",
+      "logo": "P6",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A29L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A29H.mp3.m3u",
+      "note": "Alternative Music"
+    },
+    {
+      "name": "DR P7 Mix",
+      "logo": "P7",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A21L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A21H.mp3.m3u",
+      "note": "Top 5"
+    },
+    {
+      "name": "DR P8 Jazz",
+      "logo": "P8",
+      "link": "http://live-icy.gss.dr.dk:8000/A/A22L.mp3.m3u",
+      "http": "http://live-icy.gss.dr.dk:8000/A/A22H.mp3.m3u",
+      "note": "Top 5"
+    },
+    {
+      "name": "ANR",
+      "logo": "ANR",
+      "link": "http://www.listenlive.eu/dk_anr.m3u",
+      "http": "",
+      "note": "Ålborg (Local)"
+    },
+    {
+      "name": "Globus",
+      "logo": "Globus",
+      "link": "http://stream.wlmm.dk/listen.pls?sid=17",
+      "http": "",
+      "note": "Svendborg (Local)"
+    },
+    {
+      "name": "Globus Guld",
+      "logo": "Guld",
+      "link": "http://stream.wlmm.dk/listen.pls?sid=1",
+      "http": "",
+      "note": "Rødding (Local)"
+    },
+    {
+      "name": "go!FM",
+      "logo": "goFM",
+      "link": "http://www.listenlive.eu/dk_gofm.m3u",
+      "http": "",
+      "note": "Århus (Local)"
+    },
+    {
+      "name": "myRock",
+      "logo": "myRock",
+      "link": "http://www.listenlive.eu/myrock.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Næstved Lokal Radio",
+      "logo": "Lokal",
+      "link": "http://stream.vibestream.dk:8015/stream.m3u",
+      "http": "",
+      "note": "Næstved (Local)"
+    },
+    {
+      "name": "NORDJYSKE (Aura)",
+      "logo": "NORDJYSKE",
+      "link": "http://www.listenlive.eu/dk_aura.m3u",
+      "http": "",
+      "note": "Ålborg (Local)"
+    },
+    {
+      "name": "Nova FM",
+      "logo": "Nova",
+      "link": "http://www.listenlive.eu/streams/denmark/novafm.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Pop FM",
+      "logo": "Pop",
+      "link": "http://www.listenlive.eu/streams/denmark/popfm.m3u",
+      "http": "",
+      "note": "60s-90s Music"
+    },
+    {
+      "name": "Radio24syv",
+      "logo": "Radio24syv",
+      "link": "http://rrr.sz.xlcdn.com/?account=Radio24syv&file=ENC1_Web128&type=live&service=icecast&port=8000&output=pls",
+      "http": "",
+      "note": "News/Talk"
+    }
    ]
 }

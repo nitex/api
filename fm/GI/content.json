@@ -44,12 +44,68 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
+    {
+      "name": "GBC",
+      "logo": "GBC",
+      "link": "https://sh.uk.audio-stream.com/proxy/gibralta?mp=/stream",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "GBC Plus FM",
+      "logo": "Plus",
+      "link": "http://s2.myradiostream.com:32910/listen.pls",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "GBC Plus AM",
+      "logo": "Plu",
+      "link": "https://sh.uk.audio-stream.com/proxy/matorr00?mp=/stream",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Rock Radio 99.2 FM",
+      "logo": "Rock",
+      "link": "http://37.123.118.13:8033/stream.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "RNE Cataluña",
+      "logo": "RNE",
+      "link": "http://rne.rtveradio.cires21.com/rnecat.mp3",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Virgin",
+      "logo": "Virgin",
+      "link": "http://ais-live.cloud-services.paris:8000/virgin.mp3",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "NRJ",
+      "logo": "NRJ",
+      "link": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=tune-in-radio",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Fun",
+      "logo": "Fun",
+      "link": "http://streaming.radio.funradio.fr/fun-1-44-128.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Nostalgie",
+      "logo": "Nostalgie",
+      "link": "http://185.52.127.160/fr/30601/mp3_128.mp3?origine=tune-in-radio",
+      "http": "",
+      "note": "Oldies Music"
+    }
    ]
 }

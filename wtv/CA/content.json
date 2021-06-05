@@ -36,11 +36,203 @@
       "chngAd":""
    },
    "Content":[
-   {
-      "name":"Tolo News",
-      "logo":"Tolo",
-      "link":"https:\/\/www.tolonews.com\/index.php\/live",
-      "http":"https:\/\/www.youtube.com\/user\/TOLOnewsLive\/videos?view=2&live_view=501&flow=grid"
-   }
+  {
+    "name": "CBC",
+    "logo": "cbc",
+    "link": "http://watch.cbc.ca/",
+    "http": "http://ici.radio-canada.ca/widgets/mediaconsole/livem/cjbrt?seektime=0"
+  },
+  {
+    "name": "Global News",
+    "logo": "Global",
+    "link": "http://globalnews.ca/live/",
+    "http": "http://globalnews.ca/"
+  },
+  {
+    "name": "CHCH",
+    "logo": "chch",
+    "link": "http://www.chch.com/live/",
+    "http": "http://www.chch.com/"
+  },
+  {
+    "name": "CHEK",
+    "logo": "cheknews",
+    "link": "http://www.cheknews.ca/live-news-british-columbia",
+    "http": "http://www.cheknews.ca/"
+  },
+  {
+    "name": "Noovo",
+    "logo": "noovo",
+    "link": "http://noovo.ca/en-direct",
+    "http": "http://noovo.ca/"
+  },
+  {
+    "name": "CPAC English",
+    "logo": "cpac1",
+    "link": "http://www.cpac.ca/en/",
+    "http": "http://www.cpac.ca/en/"
+  },
+  {
+    "name": "CPAC French",
+    "logo": "cpac2",
+    "link": "http://www.cpac.ca/fr/",
+    "http": "http://www.cpac.ca/fr/"
+  },
+  {
+    "name": "MiTV",
+    "logo": "MiTV",
+    "link": "https://www.youtube.com/channel/UCUWs8vbIQQz3zjN6YJivP3w/feed?activity_view=6",
+    "http": "https://www.youtube.com/channel/UCUWs8vbIQQz3zjN6YJivP3w/videos?flow=grid&live_view=501&view=2"
+  },
+  {
+    "name": "Sky News",
+    "logo": "Sky",
+    "link": "https://news.sky.com/watch-live",
+    "http": "https://www.youtube.com/user/skynews/videos?flow=list&view=2"
+  },
+  {
+    "name": "Canal Savoir",
+    "logo": "Savoir",
+    "link": "http://www.canalsavoir.tv/teleendirect",
+    "http": "http://www.canalsavoir.tv/"
+  },
+  {
+    "name": "Black Flag",
+    "logo": "blackflag",
+    "link": "http://blackflag.tv/BlackFlagTV.php",
+    "http": "http://blackflag.tv/"
+  },
+  {
+    "name": "Mabi TV",
+    "logo": "Mabi",
+    "link": "http://www.mabi-tv.com/live/",
+    "http": "https://www.youtube.com/channel/UCC1LyPxWz4t2PGfIr2ETwPw/videos?view=2&live_view=501&flow=grid"
+  },
+  {
+    "name": "Nova Scotia Legislature",
+    "logo": "nslegislature",
+    "link": "http://nslegislature.ca/index.php/proceedings/legislative-tv/",
+    "http": "http://nslegislature.ca"
+  },
+  {
+    "name": "National Assembly of Quebec ",
+    "logo": "assnat",
+    "link": "http://www.assnat.qc.ca/en/video-audio/en-direct-webdiffusion.html",
+    "http": "http://www.assnat.qc.ca/"
+  },
+  {
+    "name": "Saskatchewan Legislative Assembly",
+    "logo": "legassembly1",
+    "link": "http://download.isiglobal.ca/saskla/chambervideo.html",
+    "http": "http://www.legassembly.sk.ca/"
+  },
+  {
+    "name": "Saskatchewan Committee Proceedings",
+    "logo": "legassembly2",
+    "link": "http://download.isiglobal.ca/saskla/committeevideo.html",
+    "http": "http://www.legassembly.sk.ca/"
+  },
+  {
+    "name": "Legislative Assembly of New Brunswick ",
+    "logo": "gnb",
+    "link": "http://www.gnb.ca/cnb/live/",
+    "http": "http://www.gnb.ca/"
+  },
+  {
+    "name": "Channels Television",
+    "logo": "Channels",
+    "link": "https://www.youtube.com/user/channelsweb/videos?live_view=501&flow=grid&view=2",
+    "http": "http://www.channelstv.com/"
+  },
+  {
+    "name": "Assembly of Newfoundland & Labrador ",
+    "logo": "assembly",
+    "link": "http://www.assembly.nl.ca/business/Webcast/webcast_live.htm",
+    "http": "http://www.assembly.nl.ca/"
+  },
+  {
+    "name": "Legislative Assembly of British Columbia ",
+    "logo": "leg",
+    "link": "https://www.leg.bc.ca/documents-data/broadcasts-and-webcasts",
+    "http": "https://www.leg.bc.ca/"
+  },
+  {
+    "name": "Hamdard TV",
+    "logo": "dailyhamdard",
+    "link": "http://www.dailyhamdard.com/",
+    "http": "http://www.dailyhamdard.com/"
+  },
+  {
+    "name": "Deshe Bideshe",
+    "logo": "deshebideshe",
+    "link": "http://deshebideshe.tv/",
+    "http": "http://deshebideshe.tv/"
+  },
+  {
+    "name": "NRB",
+    "logo": "NRB",
+    "link": "http://www.thenrb.tv/",
+    "http": "http://www.thenrb.tv/"
+  },
+  {
+    "name": "TSC",
+    "logo": "TSC",
+    "link": "http://www.theshoppingchannel.com/pages/watchuslive",
+    "http": "http://www.theshoppingchannel.com/pages/watchuslive?target=divCartItemNumber"
+  },
+  {
+    "name": "Salt + Light",
+    "logo": "Salt",
+    "link": "http://saltandlighttv.org/live/",
+    "http": "http://saltandlighttv.org/"
+  },
+  {
+    "name": "Amazing Discoveries",
+    "logo": "ad",
+    "link": "https://amazingdiscoveries.tv/satellite/",
+    "http": "https://amazingdiscoveries.tv/"
+  },
+  {
+    "name": "Miracle Channel",
+    "logo": "Miracle",
+    "link": "https://miraclechannel.ca/live/",
+    "http": "https://miraclechannel.ca/"
+  },
+  {
+    "name": "Bible Discovery",
+    "logo": "Bible",
+    "link": "http://www.biblediscoverytv.com/watch-now/",
+    "http": "http://www.biblediscoverytv.com/"
+  },
+  {
+    "name": "Reveil TV",
+    "logo": "Reveil",
+    "link": "http://reveildesnations.org/tv-en-direct/",
+    "http": "http://reveildesnations.org/"
+  },
+  {
+    "name": "EWTN",
+    "logo": "EWTN",
+    "link": "http://www.ewtn.com/multimedia/live_player.asp?satname=canenglp",
+    "http": "http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&feed=caneng"
+  },
+  {
+    "name": "TVA",
+    "logo": "TVA",
+    "link": "https://video.tva.ca/page/direct?clip=5972573923eec6000b4fe248",
+    "http": "https://video.tva.ca/page/direct"
+  },
+  {
+    "name": "ICI",
+    "logo": "ICI",
+    "link": "https://ici.tou.tv/en-direct/IciTele?region=8&lectureauto=1",
+    "http": "https://ici.tou.tv/en-direct/IciTele?region=8&"
+  },
+  {
+    "name": "Nashville Country TV",
+    "logo": "Nashville",
+    "link": "https://103122.global.ssl.fastly.net/edge/live_4e8e1640bfb211ea909ea10718cdb17d/index.m3u8",
+    "http": "https://player.castr.com/live_4e8e1640bfb211ea909ea10718cdb17d"
+  }
 ]
 }

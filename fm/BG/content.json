@@ -44,12 +44,187 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
+    {
+      "name": "BNR1 Program Horizont",
+      "logo": "BNR1",
+      "link": "http://stream.bnr.bg:8102/horizont_low.mp3.m3u",
+      "http": "http://stream.bnr.bg:8002/horizont.mp3.m3u",
+      "note": "News/Music"
+    },
+    {
+      "name": "BNR2 Hristo Botev",
+      "logo": "Botev",
+      "link": "http://stream.bnr.bg:8103/botev_low.mp3.m3u",
+      "http": "http://stream.bnr.bg:8003/botev.mp3.m3u",
+      "note": "Culture"
+    },
+    {
+      "name": "БНР Blagoevgrad",
+      "logo": "Blagoevgrad",
+      "link": "http://195.24.37.210/stream.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "БНР Burgas",
+      "logo": "Burgas",
+      "link": "http://212.95.175.63:8002/listen.pls",
+      "http": "http://212.95.175.63:8000/listen.pls",
+      "note": ""
+    },
+    {
+      "name": "БНР Plovdiv",
+      "logo": "Plovdiv",
+      "link": "http://62.204.136.202:28/live128.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "БНР Shumen",
+      "logo": "Shumen",
+      "link": "http://87.246.38.170:8001/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "БНР Stara Zagora",
+      "logo": "Stara",
+      "link": "http://82.103.99.99:8000/radiosz-low.m3u",
+      "http": "http://82.103.99.99:8000/radiosz.m3u",
+      "note": ""
+    },
+    {
+      "name": "БНР Varna",
+      "logo": "Varna",
+      "link": "http://broadcast.masters.bg:8000/live.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "БНР Sofia",
+      "logo": "Sofia",
+      "link": "http://stream.bnr.bg:8105/sofia_low.mp3.m3u",
+      "http": "http://stream.bnr.bg:8005/sofia.mp3.m3u",
+      "note": ""
+    },
+    {
+      "name": "БНР Vidin",
+      "logo": "Vidin",
+      "link": "http://89.106.110.85:8003/listen.pls",
+      "http": "http://89.106.110.85:8000/listen.pls",
+      "note": ""
+    },
+    {
+      "name": "Alpha Radio",
+      "logo": "Alpha",
+      "link": "http://www.alpharadio.bg/mp3high.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "BG Radio",
+      "logo": "BG",
+      "link": "http://149.13.0.80/bgradio128.m3u",
+      "http": "http://149.13.0.80/bgradio.aac.m3u",
+      "note": "Pop/Rock Music"
+    },
+    {
+      "name": "BTV Radio",
+      "logo": "BTV",
+      "link": "http://live.btvradio.bg/btv-radio.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Бумеранг FM",
+      "logo": "Bumerang",
+      "link": "http://185.20.88.1:8010/listen.pls",
+      "http": "http://www.bumerangfm.net/BumerangFM.m3u",
+      "note": "Gabrovo (Local)"
+    },
+    {
+      "name": "Classic FM",
+      "logo": "Classic",
+      "link": "http://live.btvradio.bg/classic-fm.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Darik Radio",
+      "logo": "Darik",
+      "link": "http://darikradio.by.host.bg:8000/S2-128.m3u",
+      "http": "",
+      "note": "News/Features"
+    },
+    {
+      "name": "Darik Nostalgie",
+      "logo": "Nostalgie",
+      "link": "http://darikradio.by.host.bg:8000/Nostalgie.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "FM Plus",
+      "logo": "Plus",
+      "link": "http://fmplus-stream.atlantis.bg:8000/fmplus_low.ogg.m3u",
+      "http": "http://fmplus-stream.atlantis.bg:8000/fmplus.ogg.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "Jazz FM",
+      "logo": "Jazz",
+      "link": "http://live.btvradio.bg/jazz-fm.mp3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Jazz 104 FM Lounge",
+      "logo": "Lounge",
+      "link": "http://live.btvradio.bg/jazz-fm-lounge.mp3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Katra FM",
+      "logo": "Katra",
+      "link": "http://www.katrafm.net:8000/live.m3u",
+      "http": "http://www.katrafm.net:9000/live.m3u",
+      "note": "Plovdiv (Local)"
+    },
+    {
+      "name": "Melody Radio",
+      "logo": "Melody",
+      "link": "http://live.btvradio.bg/melody.mp3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "NRJ",
+      "logo": "NRJ",
+      "link": "http://149.13.0.80/nrj128.m3u",
+      "http": "http://149.13.0.80/nrj.aac.m3u",
+      "note": ""
+    },
+    {
+      "name": "Power FM",
+      "logo": "Power",
+      "link": "http://a1.virtualradio.eu:8000/powerfm.mp3.m3u",
+      "http": "",
+      "note": "Bourgas (Local)"
+    },
+    {
+      "name": "Radio 1",
+      "logo": "1",
+      "link": "http://149.13.0.80/radio1128.m3u",
+      "http": "http://149.13.0.80/radio1.aac.m3u",
+      "note": "Classic Music"
+    },
+    {
+      "name": "Radio 1 Rock",
+      "logo": "Rock",
+      "link": "http://149.13.0.80/radio1rock64.m3u",
+      "http": "http://149.13.0.80/radio1rock.aac.m3u",
+      "note": "Music"
+    }
    ]
 }

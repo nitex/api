@@ -44,12 +44,54 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "DBS",
+      "logo": "DBS",
+      "link": "http://s15.myradiostream.com:15668/listen.mp3.m3u",
+      "http": "",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "Dominica Catholic Radio 96.1 FM",
+      "logo": "Catholic",
+      "link": "http://cdn.comeseetv.com:8010/dominicacatholicradio.m3u",
+      "http": "",
+      "note": "Talk"
+    },
+    {
+      "name": "Kairi FM",
+      "logo": "Kairi",
+      "link": "http://199.189.115.207:8000/listen.pls?sid=1",
+      "http": "",
+      "note": "News, Talk, Top Music"
+    },
+    {
+      "name": "Q-95 FM",
+      "logo": "Q-95",
+      "link": "http://tostream.vouscast.com:8026/listen.pls",
+      "http": "",
+      "note": "News, Sport, Music"
+    },
+    {
+      "name": "Radio En Ba Mango",
+      "logo": "Mango",
+      "link": "http://s10.myradiostream.com:4212/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Vibes Radio 93.9 FM",
+      "logo": "Vibes",
+      "link": "http://vibesradio.dm:8000/vibes939.m3u",
+      "http": "",
+      "note": "Talk, Top Music"
+    },
+    {
+      "name": "ZGBC Voice of Life",
+      "logo": "ZGBC",
+      "link": "http://37.187.172.190:8010/vol.m3u",
+      "http": "",
+      "note": "Talk"
+    }
+  ]
 }

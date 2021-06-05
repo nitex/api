@@ -44,12 +44,167 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
+  "Content": [
+    {
+      "name": "Vikerraadio",
+      "logo": "Vikerraadio",
+      "link": "http://icecast.err.ee/vikerraadio.mp3.m3u",
+      "http": "",
+      "note": "News"
+    },
+    {
+      "name": "Raadio 2",
+      "logo": "2",
+      "link": "http://icecast.err.ee/raadio2.mp3.m3u",
+      "http": "",
+      "note": "News/Youth"
+    },
+    {
+      "name": "Klassikaraadio",
+      "logo": "Klassikaraadio",
+      "link": "http://icecast.err.ee/klassikaraadio.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Raadio 4",
+      "logo": "4",
+      "link": "http://icecast.err.ee/raadio4.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Raadio Tallinn",
+      "logo": "Tallinn",
+      "link": "http://icecast.err.ee/raadiotallinn.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "DFM",
+      "logo": "DFM",
+      "link": "http://striiming.trio.ee/dfm.mp3.m3u",
+      "http": "",
+      "note": "Top 10 / Dance"
+    },
+    {
+      "name": "Hit FM",
+      "logo": "Hit",
+      "link": "http://stream.hitfm.ee/HitFM_96.m3u",
+      "http": "",
+      "note": "80s/90s"
+    },
+    {
+      "name": "Yumor Tallinn",
+      "logo": "Yumor",
+      "link": "http://81.19.85.196/umor128.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Kuressaare Pereraadio",
+      "logo": "Kuressaare",
+      "link": "http://85.89.32.114:8080/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Marta FM",
+      "logo": "Marta",
+      "link": "http://icecast.mmm.elion.ee:8080/MartaFM.m3u",
+      "http": "",
+      "note": "Põlva (Local)"
+    },
+    {
+      "name": "MyHits 97.2 FM",
+      "logo": "MyHits",
+      "link": "http://striiming.trio.ee:8008/myhits_high.mp3",
+      "http": "",
+      "note": "Top 10"
+    },
+    {
+      "name": "Narodnoe Radio",
+      "logo": "Narodnoe",
+      "link": "http://striiming.trio.ee/narodnoe.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "NRJ FM",
+      "logo": "NRJ",
+      "link": "http://skymedia.babahhcdn.com/NRJ.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Nõmme Raadio",
+      "logo": "Nomme",
+      "link": "http://149.210.165.176:8000/nommeraadio.m3u",
+      "http": "",
+      "note": "Talk"
+    },
+    {
+      "name": "Power Hit Radio",
+      "logo": "Power",
+      "link": "http://stream.power.ee/PHR.m3u",
+      "http": "",
+      "note": "Top 10"
+    },
+    {
+      "name": "Raadio 7",
+      "logo": "7",
+      "link": "http://icecast.mmm.elion.ee:8080/Raadio7.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Raadio Elmar",
+      "logo": "Elmar",
+      "link": "http://striiming.trio.ee/elmar.mp3.m3u",
+      "http": "http://striiming.trio.ee/elmar_high.mp3.m3u",
+      "note": ""
+    },
+    {
+      "name": "Raadio Kadi",
+      "logo": "Kadi",
+      "link": "http://icecast.mmm.elion.ee:8080/Kadi.m3u",
+      "http": "",
+      "note": "Top 10 (Kuressaare, Local)"
+    },
+    {
+      "name": "Raadio Kuku",
+      "logo": "Kuku",
+      "link": "http://striiming.trio.ee/kuku.mp3.m3u",
+      "http": "http://striiming.trio.ee/kuku_high.mp3.m3u",
+      "note": "News/Talk"
+    },
+    {
+      "name": "Radio Mania",
+      "logo": "Mania",
+      "link": "http://icecast.linxtelecom.com:8000/mania.mp3.m3u",
+      "http": "",
+      "note": "Rock Music"
+    },
+    {
+      "name": "Радио Волна 107.1",
+      "logo": "Volna",
+      "link": "http://volna.babahhcdn.com:8100/listen.pls?sid=1",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Retro FM",
+      "logo": "Retro",
+      "link": "http://stream05.akaver.com/retrofm_low.mp3.m3u",
+      "http": "http://stream05.akaver.com/retrofm_low.ogg.m3u",
+      "note": "Oldies"
+    },
+    {
+      "name": "Ring FM",
+      "logo": "Ring",
+      "link": "http://www.listenlive.eu/ringfmee.m3u",
+      "http": "",
+      "note": "Top 10 (Võru, Local)"
+    }
    ]
 }

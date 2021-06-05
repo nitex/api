@@ -44,12 +44,82 @@
       "chngAd":""
    },
    "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+    {
+      "name": "Congo Planet",
+      "logo": "Planet",
+      "link": "http://www.surfmusic.de/m3u/congo-planet-radio,16628.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Digital Congo FM 106.5",
+      "logo": "Digital",
+      "link": "http://radiodigitalcongofm.ice.infomaniak.ch/digitalcongofm-96.mp3",
+      "http": "http://www.digitalcongo.net:8000/stream.m3u",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "Maria",
+      "logo": "Maria",
+      "link": "http://dreamsiteradiocp.com:8116/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Okapi",
+      "logo": "Okapi",
+      "link": "http://stream.radiookapi.net:8002/okapi.m3u",
+      "http": "http://www.surfmusic.de/m3u/radio-okapi,5147.m3u",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "Ratelki 90.2 FM",
+      "logo": "Ratelki",
+      "link": "http://ratelkiradio.ice.infomaniak.ch/ratelkiradio-64.mp3.m3u",
+      "http": "http://ratelkiradio.bcast.infomaniak.ch/ratelkiradio-64.mp3",
+      "note": ""
+    },
+    {
+      "name": "Top Congo FM 88.4",
+      "logo": "Cong",
+      "link": "http://topcongofm2.ice.infomaniak.ch/topcongofm2-64.mp3.m3u",
+      "http": "http://www.surfmusic.de/m3u/top-congo-fm-88-4,17569.m3u",
+      "note": "News, Talk, Music"
+    },
+    {
+      "name": "Trace FM",
+      "logo": "Trace",
+      "link": "http://stream.trace.tv/trace_fm_rdc-midfi.aac",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Africa Radio 107.5 FM",
+      "logo": "Afric",
+      "link": "http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "BBC Afrique",
+      "logo": "BBC",
+      "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "VOA Africa",
+      "logo": "VOA",
+      "link": "https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "RFI Afrique",
+      "logo": "RFI",
+      "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+      "http": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+      "note": "News, Talk"
+    }
+  ]
 }
