@@ -1,23 +1,27 @@
 {
-   "amznTV":{
+   "amznFM":{
       "changeCountry": false,
       "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "other":"http://www.amazon.com/gp/mas/dl/android?s= Labinson%20Diares",
+      "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
       "bonus":"",
-      "showMode": false,
+      "showMode": true,
       "visualMode":1,
       "minuteCount":4,
       "id":"REPLACE",
       "mainAd":"",
       "rtrnAd":"",
       "mainb":"",
+      "show1":"",
+      "show2":"",
+      "show3":"",
+      "show4":"",
       "chngAd":""
    },
-   "huawTV":{
+   "huawFM":{
       "changeCountry": false,
       "ownVisible": true,
       "about":"",
@@ -26,21 +30,26 @@
       "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "other":"",
       "bonus":"",
-      "showMode": false,
+      "showMode": true,
       "visualMode":1,
       "minuteCount":4,
       "id":"REPLACE",
       "mainAd":"",
       "rtrnAd":"",
       "mainb":"",
+      "show1":"",
+      "show2":"",
+      "show3":"",
+      "show4":"",
       "chngAd":""
    },
    "Content":[
-   {
-      "name":"Tolo News",
-      "logo":"Tolo",
-      "link":"https:\/\/www.tolonews.com\/index.php\/live",
-      "http":"https:\/\/www.youtube.com\/user\/TOLOnewsLive\/videos?view=2&live_view=501&flow=grid"
-   }
-]
+      {
+         "name":"Arazokia FM 90.3",
+         "logo":"Arazokia",
+         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
+         "http":"",
+         "note":"News, Talk"
+      }
+   ]
 }
