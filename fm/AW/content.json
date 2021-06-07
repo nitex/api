@@ -185,11 +185,263 @@
          "note": ""
       },
       {
-         "name": "VIP Radio",
-         "logo": "VIP",
-         "link": "http://www.surfmusic.de/m3u/vip-radio,15029.m3u",
+         "name": "russian 1",
+         "logo": "1",
+         "link": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
          "http": "",
          "note": "Music"
-      }
-   ]
+      },
+    {
+      "name": "russian 2",
+      "logo": "2",
+      "link": "http://ic7.101.ru:8000/a100.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 3",
+      "logo": "3",
+      "link": "https://bfm.hostingradio.ru:9075/fm",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 4",
+      "logo": "4",
+      "link": "https://pub0101.101.ru:8000/stream/air/aac/64/219.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 5",
+      "logo": "5",
+      "link": "http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 6",
+      "logo": "6",
+      "link": "http://ic6.101.ru:8000/a102.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 7",
+      "logo": "7",
+      "link": "https://pub0101.101.ru/stream/air/aac/64/200.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 8",
+      "logo": "8",
+      "link": "https://icecast-echomsksni.cdnvideo.ru/stream2",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 9",
+      "logo": "9",
+      "link": "http://nashe3.hostingradio.ru/jazz-128.mp3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "russian 10",
+      "logo": "10",
+      "link": "http://mgps.fmstream.ru:8010/megapolis-48.aac",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english  1",
+      "logo": "11",
+      "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english 2",
+      "logo": "12",
+      "link": "http://media-ice.musicradio.com/LBCLondonMP3Low.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english3",
+      "logo": "13",
+      "link": "http://stream-kiss.planetradio.co.uk/kiss100.mp3",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english4",
+      "logo": "41",
+      "link": "http://media-ice.musicradio.com/SmoothLondonMP3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english5",
+      "logo": "15",
+      "link": "http://media-ice.musicradio.com/RadioXLondonMP3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english6",
+      "logo": "16",
+      "link": "http://media-ice.musicradio.com/HeartLondonMP3.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english7",
+      "logo": "17",
+      "link": "http://stream.resonance.fm:8000/resonance.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english",
+      "logo": "gfs",
+      "link": "",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english",
+      "logo": "gf",
+      "link": "",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "english",
+      "logo": "g",
+      "link": "",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german1",
+      "logo": "german1",
+      "link": "https://st02.sslstream.dlf.de/dlf/02/128/mp3/stream.mp3",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german2",
+      "logo": "german2",
+      "link": "https://streamtdy.ir-media-tec.com/live/mp3-128/radioplayer_web/teddy-live-mp3-mq",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german3",
+      "logo": "german3",
+      "link": "http://alex-radio.rosebud-media.de:8000/alex-radio.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german4",
+      "logo": "german4",
+      "link": "http://topradio-de-hz-fal-stream05-cluster01.radiohost.de/brf_128.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german5",
+      "logo": "german5",
+      "link": "http://www.rbbkultur.de/live.pls",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german6",
+      "logo": "german6",
+      "link": "http://www.inforadio.de/live.pls",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german7",
+      "logo": "german7",
+      "link": "http://topradio-de-hz-fal-stream02-cluster01.radiohost.de/rs2_128.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german",
+      "logo": "german8",
+      "link": "",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german",
+      "logo": "german9",
+      "link": "",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "german",
+      "logo": "german",
+      "link": "",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "china1",
+      "logo": "china1",
+      "link": "http://123.56.16.201:1935/live/fm876/96K/tzwj_video.m3u8",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "china2",
+      "logo": "china2",
+      "link": "http://cnlive.cnr.cn/hls/HITFM.m3u8",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "china3",
+      "logo": "china3",
+      "link": "http://cnlive.cnr.cn/hls/huanqiuzixunguangbo.m3u8",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "china4",
+      "logo": "china4",
+      "link": "http://audiolive.rbc.cn:1935/live/am774/96K/tzwj_video.m3u8",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "china5",
+      "logo": "china5",
+      "link": "http://cri-lh.akamaihd.net/i/cri915_1@183456/master.m3u8",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "china6",
+      "logo": "china6",
+      "link": "http://123.56.16.201:1935/live/am603/96K/tzwj_video.m3u8",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "china7",
+      "logo": "china7",
+      "link": "",
+      "http": "",
+      "note": "Music"
+    }
+  ]
 }
