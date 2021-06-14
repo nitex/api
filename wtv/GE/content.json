@@ -35,66 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "Imedi ტელეკომპანია იმედი",
-    "logo": "Imedi",
-    "link": "http://www.imedi.ge/",
-    "http": "http://www.imedi.ge/"
-  },
-  {
-    "name": "1TV პირველი არხი",
-    "logo": "1",
-    "link": "https://1tv.ge/tv-radio/live/",
-    "http": "http://1tv.ge"
-  },
-  {
-    "name": "2TV მეორე არხი",
-    "logo": "2",
-    "link": "https://1tv.ge/tv-radio/live/",
-    "http": "http://2tv.ge"
-  },
-  {
-    "name": "Palitra TV (პალიტრა",
-    "logo": "Palitra",
-    "link": "http://www.palitravideo.ge/live-tv.html?view=tv",
-    "http": "http://www.palitravideo.ge"
-  },
-  {
-    "name": "Obieqtivi",
-    "logo": "Obieqtivi",
-    "link": "http://www.obieqtivi.net/",
-    "http": "http://www.obieqtivi.net/"
-  },
-  {
-    "name": "Rustavi 2 (რუსთავი 2)",
-    "logo": "Rustavi",
-    "link": "http://rustavi2.ge/ka/dvr",
-    "http": "http://rustavi2.ge/"
-  },
-  {
-    "name": "ТРИ АНГЕЛА",
-    "logo": "3",
-    "link": "http://www.3angels.ru/air/online/",
-    "http": "http://www.3angels.ru/"
-  },
-  {
-    "name": "ПРОСВЕЩЕНИЕ",
-    "logo": "prosvesh",
-    "link": "http://www.prosveshenie.tv/onairview.php",
-    "http": "http://www.prosveshenie.tv/"
-  },
-  {
-    "name": "ВЕРА 24",
-    "logo": "24",
-    "link": "http://b.tbnit.spb.ru/player/vera24.html",
-    "http": "http://vera24.tv/"
-  },
-  {
-    "name": "Т Б Н",
-    "logo": "tbn",
-    "link": "http://b.tbnit.spb.ru/player/tbn.html",
-    "http": "http://tbn-tv.ru/"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

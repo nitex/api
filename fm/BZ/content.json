@@ -45,79 +45,51 @@
    },
    "Content":[
       {
-         "name": "BFBS 1",
-         "logo": "1",
-         "link": "http://direct.sharp-stream.com/ssvcbfbs1.mp3.m3u",
-         "http": "",
-         "note": "News"
-      },
-      {
-         "name": "BFBS 2",
-         "logo": "2",
-         "link": "http://direct.sharp-stream.com/ssvcbfbs2.mp3.m3u",
-         "http": "",
-         "note": "News"
-      },
-      {
          "name": "Belizemix",
          "logo": "Belizemix",
-         "link": "http://cp7.serverse.com:2199/tunein/sc1_us20.pls",
-         "http": "http://192.99.2.151:8040/;",
+         "link": "http://media-ice.musicradio.com/LBCLondonMP3Low.m3u",
+         "http": "",
          "note": ""
       },
       {
          "name": "Catolica El Sembrador",
          "logo": "Catolica",
-         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.pls",
-         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.m3u",
+         "link": "http://93.123.123.7:8000/listen.pls",
+         "http": "",
          "note": "Talk"
       },
       {
          "name": "EL LOBO 106.1 FM",
          "logo": "LOBO",
-         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.29.178:9386/listen.pls?sid=1&t=.pls",
-         "http": "http://50.7.29.178:9386/;",
+         "link": "http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "http": "",
          "note": ""
       },
       {
          "name": "Horizon Radio",
          "logo": "Horizon",
-         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.185.82:8075/listen.pls&t=.pls",
-         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.185.82:8075/listen.pls&t=.m3u",
+         "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
+         "http": "",
          "note": "Talk"
       },
       {
          "name": "KREM 96.5 FM",
          "logo": "KREM",
-         "link": "http://159.65.32.199:8016/listen.pls",
+         "link": "http://media-ice.musicradio.com/SmoothLondonMP3.m3u",
          "http": "",
          "note": "News, Talk, Top"
       },
-      {
-         "name": "La Mejor FM 103.7",
-         "logo": "Mejor",
-         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&t=.pls",
-         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&t=.m3u",
-         "note": ""
-      },
-      {
-         "name": "Love FM",
-         "logo": "Love",
-         "link": "http://37.59.37.6:14730/listen.pls",
-         "http": "",
-         "note": ""
-      },
-      {
+    {
          "name": "Milenio Bella Musica 105.1 FM",
          "logo": "Milenio",
-         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&t=.pls",
-         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&t=.m3u",
+         "link": "https://59d52c5a5ce5e.streamlock.net:4443/radio/radiosur.stream/playlist.m3u8",
+         "http": "",
          "note": "Music"
       },
       {
          "name": "Mood FM 106.3",
          "logo": "Mood",
-         "link": "http://usa7-vn.mixstream.net:8016/listen.pls",
+         "link": "http://media-ice.musicradio.com/RadioXLondonMP3.m3u",
          "http": "",
          "note": "Oldies Music"
       }

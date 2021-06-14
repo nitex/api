@@ -35,72 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "АНТ - Общенациональное телевидение",
-    "logo": "ont",
-    "link": "https://ont.by/broadcasting",
-    "http": "http://ont.by/"
-  },
-  {
-    "name": "Беларусь 24",
-    "logo": "belarus24",
-    "link": "https://www.tvr.by/televidenie/belarus-24/",
-    "http": "https://www.tvr.by/live-broadcast/"
-  },
-  {
-    "name": "Беларусь 1",
-    "logo": "belarus1",
-    "link": "https://www.tvr.by/televidenie/belarus-1/",
-    "http": "https://www.tvr.by/live-broadcast/"
-  },
-  {
-    "name": "Беларусь 2",
-    "logo": "belarus2",
-    "link": "https://www.tvr.by/televidenie/belarus-2/",
-    "http": "https://www.tvr.by/live-broadcast/"
-  },
-  {
-    "name": "Беларусь 3",
-    "logo": "belarus3",
-    "link": "https://www.tvr.by/televidenie/belarus-3/",
-    "http": "https://www.tvr.by/live-broadcast/"
-  },
-  {
-    "name": "Беларусь 5",
-    "logo": "belarus5",
-    "link": "http://www.tvr.by/televidenie/belarus-5/",
-    "http": "https://www.tvr.by/live-broadcast/"
-  },
-  {
-    "name": "Беларусь 5. Интернет",
-    "logo": "5internet",
-    "link": "https://www.tvr.by/televidenie/belarus-5-internet/",
-    "http": "https://www.tvr.by/live-broadcast/"
-  },
-  {
-    "name": "Столичное телевидение",
-    "logo": "ctv",
-    "link": "http://www.ctv.by/online",
-    "http": "http://www.ctv.by/"
-  },
-  {
-    "name": "Белсат",
-    "logo": "belsat",
-    "link": "http://belsat.eu/online/",
-    "http": "https://www.youtube.com/user/ibelsat/videos?view=2&flow=grid&live_view=501"
-  },
-  {
-    "name": "First Music",
-    "logo": "one",
-    "link": "http://hdstream.one.by/",
-    "http": "http://www.one.by/"
-  },
-  {
-    "name": "Первый музыкальный",
-    "logo": "1",
-    "link": "http://1muz.com/",
-    "http": "http://1muz.com/"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

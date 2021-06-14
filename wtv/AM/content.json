@@ -35,72 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "Հայաստան 1 (H1)",
-    "logo": "H1",
-    "link": "http://www.1tv.am/",
-    "http": "http://www.1tv.am/"
-  },
-  {
-    "name": "Kentron (Կենտրոն)",
-    "logo": "Kentron",
-    "link": "http://kentron.tv/live.html",
-    "http": "http://kentron.tv"
-  },
-  {
-    "name": "Global (ԳԼՈԲԱԼ ԹԻ-ՎԻ)",
-    "logo": "Global",
-    "link": "http://globaltv.am/%D6%85%D5%B6%D5%AC%D5%A1%D5%B5%D5%B6",
-    "http": "http://globaltv.am"
-  },
-  {
-    "name": "Hrazdan (Հրազդան)",
-    "logo": "Hrazdan",
-    "link": "http://www.hrazdantv.am/?page_id=1500",
-    "http": "http://www.hrazdantv.am"
-  },
-  {
-    "name": "Гала (Գալա)",
-    "logo": "Gala",
-    "link": "http://galatv.am/",
-    "http": "http://galatv.am/"
-  },
-  {
-    "name": "MTV (SONGTV)",
-    "logo": "MTV",
-    "link": "https://songtv.am/live",
-    "http": "https://songtv.am"
-  },
-  {
-    "name": "AABC",
-    "logo": "AABC",
-    "link": "http://aabc.tv/",
-    "http": "http://aabc.tv/"
-  },
-  {
-    "name": "ARTN Shant",
-    "logo": "ARTN",
-    "link": "http://www.artn.tv/artn-live/",
-    "http": "http://www.artn.tv"
-  },
-  {
-    "name": "AMGA",
-    "logo": "AMGA",
-    "link": "http://www.amga.tv/index.php?option=com_wrapper&view=wrapper&Itemid=278",
-    "http": "http://www.amga.tv"
-  },
-  {
-    "name": "A1+ (Ա1+)",
-    "logo": "A1",
-    "link": "http://www.a1plus.am/live",
-    "http": "http://www.a1plus.am"
-  },
-  {
-    "name": "Sosi (Սոսի)",
-    "logo": "Sosi",
-    "link": "http://sosi-tv.com/online.html",
-    "http": "http://sosi-tv.com"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

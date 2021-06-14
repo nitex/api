@@ -35,72 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "Trece Costa Rica",
-    "logo": "Trece",
-    "link": "http://www.costaricamedios.cr/trece/envivo",
-    "http": "http://www.costaricamedios.cr"
-  },
-  {
-    "name": "Repretel 2",
-    "logo": "2",
-    "link": "http://www.repretel.com/envivo-2",
-    "http": "http://www.repretel.com/envivo"
-  },
-  {
-    "name": "Repretel 4",
-    "logo": "4",
-    "link": "http://www.repretel.com/envivo-4",
-    "http": "http://www.repretel.com/envivo"
-  },
-  {
-    "name": "Repretel 6",
-    "logo": "6",
-    "link": "http://www.repretel.com/envivo-6",
-    "http": "http://www.repretel.com/envivo"
-  },
-  {
-    "name": "Repretel 11",
-    "logo": "11",
-    "link": "http://www.repretel.com/envivo-11",
-    "http": "http://www.repretel.com/envivo"
-  },
-  {
-    "name": "Sur 14",
-    "logo": "14",
-    "link": "http://www.tvsur.co.cr/envivo/",
-    "http": "http://www.tvsur.co.cr"
-  },
-  {
-    "name": "UCR",
-    "logo": "UCR",
-    "link": "http://www.canalucr.ucr.ac.cr/se%C3%B1al-en-vivo.html",
-    "http": "http://www.canalucr.ucr.ac.cr"
-  },
-  {
-    "name": "Legislativa",
-    "logo": "Legislativa",
-    "link": "http://www.asamblea.go.cr/p/SitePages/Transmisi%C3%B3n%20en%20vivo.aspx",
-    "http": "http://www.asamblea.go.cr"
-  },
-  {
-    "name": "Extra 42",
-    "logo": "42",
-    "link": "https://new.livestream.com/accounts/5637642/events/2507409?cat=event&query=extra",
-    "http": "http://www.extratv42.com/"
-  },
-  {
-    "name": "EJTV",
-    "logo": "EJTV",
-    "link": "http://www.ejtv.tv/envivo/",
-    "http": "http://www.ejtv.tv"
-  },
-  {
-    "name": "Enlace",
-    "logo": "Enlace",
-    "link": "https://www.enlace.org/envivo/",
-    "http": "https://www.enlace.org"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

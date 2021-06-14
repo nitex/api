@@ -35,60 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "ČT24",
-    "logo": "24",
-    "link": "http://www.ceskatelevize.cz/ct24#live",
-    "http": "http://www.ceskatelevize.cz/ct24/zive-vysilani/"
-  },
-  {
-    "name": "ČT1",
-    "logo": "1",
-    "link": "http://www.ceskatelevize.cz/ct1/zive/",
-    "http": "http://www.ceskatelevize.cz/ivysilani/zive"
-  },
-  {
-    "name": "ČT2",
-    "logo": "2",
-    "link": "http://www.ceskatelevize.cz/ct2/zive/",
-    "http": "http://www.ceskatelevize.cz/"
-  },
-  {
-    "name": "ČT Sport",
-    "logo": "Sport",
-    "link": "http://www.ceskatelevize.cz/sport/zive-vysilani/",
-    "http": "http://www.ceskatelevize.cz/"
-  },
-  {
-    "name": "ČT Déčko",
-    "logo": "CT",
-    "link": "http://decko.ceskatelevize.cz/zive",
-    "http": "http://decko.ceskatelevize.cz/"
-  },
-  {
-    "name": "ČT art",
-    "logo": "art",
-    "link": "http://www.ceskatelevize.cz/art/zive/",
-    "http": "http://www.ceskatelevize.cz/"
-  },
-  {
-    "name": "Regionální Televize",
-    "logo": "Televize",
-    "link": "http://www.regionalnitelevize.cz/cz/123-live.html",
-    "http": "http://www.regionalnitelevize.cz/"
-  },
-  {
-    "name": "PrahaTV",
-    "logo": "PrahaTV",
-    "link": "http://prahatv.eu/",
-    "http": "http://prahatv.eu/"
-  },
-  {
-    "name": "TV Morava",
-    "logo": "Morava",
-    "link": "http://www.tvmorava.cz/",
-    "http": "http://www.tvmorava.cz/"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

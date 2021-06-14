@@ -35,60 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "ETV Eesti Televisioon",
-    "logo": "ETV",
-    "link": "http://otse.err.ee/k/etv",
-    "http": "http://etv.err.ee/"
-  },
-  {
-    "name": "ETV 2",
-    "logo": "ETV2",
-    "link": "http://otse.err.ee/k/etv2",
-    "http": "http://etv2.err.ee/"
-  },
-  {
-    "name": "ETV plus",
-    "logo": "Plus",
-    "link": "http://otse.err.ee/k/etvpluss",
-    "http": "http://etv.err.ee/"
-  },
-  {
-    "name": "Riigikogu",
-    "logo": "Riigikogu",
-    "link": "https://www.riigikogu.ee/infoallikad/multimeedia/otseulekanded/",
-    "http": "https://www.riigikogu.ee"
-  },
-  {
-    "name": "Taevas TV7",
-    "logo": "TV7",
-    "link": "http://www.tv7.ee/neti-tv/",
-    "http": "http://www.tv7.ee/"
-  },
-  {
-    "name": "Bloomberg TV Europe",
-    "logo": "bloomberg",
-    "link": "https://www.bloomberg.com/live/europe",
-    "http": "https://www.bloomberg.com/live/us"
-  },
-  {
-    "name": "Euronews",
-    "logo": "Euronews",
-    "link": "http://de.euronews.com/live",
-    "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
-  },
-  {
-    "name": "EbS Europe by Satellite",
-    "logo": "EbS",
-    "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
-    "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
-  },
-  {
-    "name": "Sky News",
-    "logo": "Sky",
-    "link": "https://news.sky.com/watch-live",
-    "http": "https://www.youtube.com/user/skynews"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

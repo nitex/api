@@ -35,138 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "RIK SAT",
-    "logo": "RIK",
-    "link": "http://www.riknews.com.cy/index.php/tv/sat-live",
-    "http": "http://www.riknews.com.cy"
-  },
-  {
-    "name": "One",
-    "logo": "One",
-    "link": "http://www.tvone.com.cy/live/",
-    "http": "http://www.tvone.com.cy/live/?cs=1"
-  },
-  {
-    "name": "Τηλεόραση ΣΙΓΜΑ",
-    "logo": "Sigma",
-    "link": "http://www.sigmatv.com/live",
-    "http": "http://www.sigmatv.com"
-  },
-  {
-    "name": "ΠΡΩΤΟ Cyprus",
-    "logo": "Proto",
-    "link": "http://www.radioproto.com.cy/show/51/koyventes-kai-notes-laikes?autoplay=1#content-area",
-    "http": "http://www.radioproto.com.cy"
-  },
-  {
-    "name": "ANT1 Κύπρου",
-    "logo": "ANT1",
-    "link": "https://www.antenna.gr/Live",
-    "http": "http://www.ant1iwo.com/webtv/web-tv-live/"
-  },
-  {
-    "name": "Alpha Κύπρου",
-    "logo": "Alpha",
-    "link": "http://www.alphacyprus.com.cy/page/live",
-    "http": "http://www.alphacyprus.com.cy/webtv/live"
-  },
-  {
-    "name": "Smile",
-    "logo": "Smile",
-    "link": "http://smiletvcyprus.com/gr/index.php/smiletv-live",
-    "http": "http://smiletvcyprus.com"
-  },
-  {
-    "name": "SAT7 ARABIC",
-    "logo": "ARABIC",
-    "link": "http://www.streamwebtown.com/player/sat7/arabic/index.php",
-    "http": "http://sat7.org/"
-  },
-  {
-    "name": "SAT7 PARS",
-    "logo": "PARS",
-    "link": "http://www.streamwebtown.com/player/sat7/pars/index.php",
-    "http": "http://sat7.org/"
-  },
-  {
-    "name": "SAT7 KIDS",
-    "logo": "KIDS",
-    "link": "http://www.streamwebtown.com/player/sat7/kids/index.php",
-    "http": "http://sat7.org/"
-  },
-  {
-    "name": "SAT7 TÜRK",
-    "logo": "SAT7",
-    "link": "http://www.streamwebtown.com/player/sat7/turk/index.php",
-    "http": "http://sat7.org/"
-  },
-  {
-    "name": "BRT",
-    "logo": "BRT",
-    "link": "http://www.brtk.net/",
-    "http": "http://www.brtk.net/"
-  },
-  {
-    "name": "Ada",
-    "logo": "Ada",
-    "link": "http://www.adatv.tv/",
-    "http": "http://www.adatv.tv/"
-  },
-  {
-    "name": "Kıbrıs",
-    "logo": "Kibris",
-    "link": "http://www.kibristv.com/",
-    "http": "http://www.kibristv.com/"
-  },
-  {
-    "name": "Kanal Sim",
-    "logo": "Sim",
-    "link": "http://www.kanalsim.com/canli-yayin/",
-    "http": "http://www.kanalsim.com"
-  },
-  {
-    "name": "Diyalog",
-    "logo": "Diyalog",
-    "link": "http://www.kibrisdiyalogtv.com/canli-yayin/",
-    "http": "http://www.kibrisdiyalogtv.com/"
-  },
-  {
-    "name": "Kıbrıs Kanal T",
-    "logo": "T",
-    "link": "http://kanalt.com/",
-    "http": "http://kanalt.com/"
-  },
-  {
-    "name": "Kıbrıs Genç",
-    "logo": "Genc",
-    "link": "http://www.kibrisgenctv.com/",
-    "http": "http://www.kibrisgenctv.com/"
-  },
-  {
-    "name": "Radio ΠΡΩΤΟ",
-    "logo": "Radio1",
-    "link": "http://www.riknews.com.cy/index.php/radio-main/proto-live",
-    "http": "http://www.riknews.com.cy/index.php/radio-main"
-  },
-  {
-    "name": "Radio ΔΕΥΤΕΡΟ",
-    "logo": "Radio2",
-    "link": "http://www.riknews.com.cy/index.php/radio-main/deftero-live",
-    "http": "http://www.riknews.com.cy/index.php/radio-main"
-  },
-  {
-    "name": "Radio ΤΡΙΤΟ",
-    "logo": "Radio3",
-    "link": "http://www.riknews.com.cy/index.php/radio-main/trito-live",
-    "http": "http://www.riknews.com.cy/index.php/radio-main"
-  },
-  {
-    "name": "Radio ΤΕΤΑΡΤΟ",
-    "logo": "Radio4",
-    "link": "http://www.riknews.com.cy/index.php/radio-main/tetarto-live",
-    "http": "http://www.riknews.com.cy/index.php/radio-main"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

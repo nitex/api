@@ -35,114 +35,42 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
-  {
-    "name": "SONO ONDA",
-    "logo": "SONO",
-    "link": "https://inliveserver.com:1936/11512/11512/playlist.m3u8",
-    "http": "http://www.sonoonda.com/index.php/tv-online"
-  },
-  {
-    "name": "TC Televisió",
-    "logo": "TC",
-    "link": "http://www.tctelevision.com/en-vivo",
-    "http": "http://www.tctelevision.com"
-  },
-  {
-    "name": "UCSG",
-    "logo": "UCSG",
-    "link": "http://ecuastream.com/medios/video/ucsg/web.php",
-    "http": "http://ucsgrtv.com/television/"
-  },
-  {
-    "name": "Oromar",
-    "logo": "Oromar",
-    "link": "http://oromartv.com/en-vivo/",
-    "http": "http://oromartv.com"
-  },
-  {
-    "name": "Ecuador",
-    "logo": "Ecuador",
-    "link": "http://www.ecuadortv.ec/",
-    "http": "http://www.ecuadortv.ec/"
-  },
-  {
-    "name": "Canela",
-    "logo": "Canela",
-    "link": "http://www.canelatv.com",
-    "http": "http://www.canelatv.com"
-  },
-  {
-    "name": "TeleSUR",
-    "logo": "TeleSUR",
-    "link": "https://www.youtube.com/user/telesurtv/videos?view=2&live_view=501&flow=grid",
-    "http": "https://www.telesurtv.net/"
-  },
-  {
-    "name": "TVC Televicentro",
-    "logo": "Televicentro",
-    "link": "http://www.tvc.com.ec/envivo",
-    "http": "http://www.tvc.com.ec"
-  },
-  {
-    "name": "RTS Ecuador",
-    "logo": "RTS",
-    "link": "http://www.rts.com.ec/envivo",
-    "http": "http://www.rts.com.ec"
-  },
-  {
-    "name": "Telerama",
-    "logo": "Telerama",
-    "link": "http://www.telerama.ec/",
-    "http": "http://www.telerama.ec/"
-  },
-  {
-    "name": "Unsion",
-    "logo": "Unsion",
-    "link": "http://www.unsion.tv/",
-    "http": "https://www.youtube.com/channel/UCFvrFu2iewUaNaXgGKGEz0Q/videos?view=2&live_view=501&flow=grid"
-  },
-  {
-    "name": "Ecuavisa",
-    "logo": "Ecuavisa",
-    "link": "http://www.ecuavisa.com/noticiero-en-vivo",
-    "http": "http://www.ecuavisa.com"
-  },
-  {
-    "name": "UTV Universitaria",
-    "logo": "UTV",
-    "link": "http://online.utn.edu.ec/online/utvstream.html",
-    "http": "http://www.utn.edu.ec/"
-  },
-  {
-    "name": "Ecotel",
-    "logo": "Ecotel",
-    "link": "http://www.ecotel.tv/",
-    "http": "http://www.ecotel.tv/"
-  },
-  {
-    "name": "Manabita",
-    "logo": "Manabita",
-    "link": "http://www.tvmanabita.tv/tvweb/",
-    "http": "http://tvmanabita.tv/"
-  },
-  {
-    "name": "Educa",
-    "logo": "Educa",
-    "link": "http://www.educa.ec/",
-    "http": "http://www.educa.ec/"
-  },
-  {
-    "name": "Asomavisión",
-    "logo": "Asomavision",
-    "link": "http://www.asomavision.com/",
-    "http": "http://www.asomavision.com/"
-  },
-  {
-    "name": "Teleamazonas",
-    "logo": "Teleamazonas",
-    "link": "http://www.teleamazonas.com/teleamazonas-en-vivo/",
-    "http": "http://www.teleamazonas.com"
-  }
-]
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }
