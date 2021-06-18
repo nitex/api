@@ -5,736 +5,808 @@
       "splash":"ca-app-pub-8346243733438468/3562442232",
       "fab_visibility":"gone"
    },
+  {
+    "name": "UA: ПЕРШИЙ",
+    "logo": "1",
+    "link": "https://tv.suspilne.media/live",
+    "http": "https://tv.suspilne.media"
+  },
+  {
+      "name": "5",
+      "logo": "5",
+      "link": "http://www.5.ua/live/",
+      "http": "http://www.5.ua/"
+   },
+  {
+      "name": "Еспресо TV",
+      "logo": "espreso",
+      "link": "http://espreso.tv/stream/",
+      "http": "http://espreso.tv/"
+   },
+   {
+      "name": "Громадське",
+      "logo": "gromadske",
+      "link": "http://hromadske.ua/stream",
+      "http": "http://hromadske.ua"
+   },
+   {
+      "name": "UBR",
+      "logo": "ubr",
+      "link": "http://tv.ubr.ua/",
+      "http": "http://ubr.ua/"
+   },
+   {
+      "name": "XSPORT",
+      "logo": "XSPORT",
+      "link": "https://xsport.ua/online/",
+      "http": "https://xsport.ua/"
+   },
+   {
+      "name": "OTV",
+      "logo": "OTV",
+      "link": "http://o-tv.tv/otv.html",
+      "http": "http://o-tv.tv"
+   },
+   {
+      "name": "СФЕРА-ТВ",
+      "logo": "Sfera",
+      "link": "http://sfera-tv.com.ua/online",
+      "http": "http://sfera-tv.com.ua"
+   },
+   {
+      "name": "Київ",
+      "logo": "Kyi",
+      "link": "https://kyivtv.com.ua/online",
+      "http": "https://kyivtv.com.ua"
+   },
+   {
+      "name": "Тернопіль1",
+      "logo": "ternopil1",
+      "link": "http://ott.columbus.te.ua/ternopil1/index.m3u8",
+      "http": "https://ternopil1.com/online/"
+   },
+   {
+      "name": "ЧП.INFO (Магнолія-ТВ)",
+      "logo": "magnonila",
+      "link": "http://magnolia-tv.com/online-tv",
+      "http": "http://magnolia-tv.com/"
+   },
+   {
+      "name": "100% NEWS",
+      "logo": "100news",
+      "link": "http://www.100news.tv/p/blog-page_7972.html",
+      "http": "http://www.100news.tv/"
+   },
    {
-      "name":"UA: \u041f\u0415\u0420\u0428\u0418\u0419",
-      "logo":"1",
-      "link":"https:\/\/tv.suspilne.media\/live",
-      "http":"https:\/\/tv.suspilne.media"
+      "name": "TV 4 Тернопіль",
+      "logo": "tv4",
+      "link": "https://tv4.te.ua/onlajn-movlennya/",
+      "http": "https://tv4.te.ua/"
    },
    {
-      "name":"112",
-      "logo":"112",
-      "link":"http:\/\/ua.112.ua\/live",
-      "http":"http:\/\/ua.112.ua\/"
+      "name": "euronews",
+      "logo": "euronews",
+      "link": "http://ua.euronews.com/news/streaming-live/",
+      "http": "http://ua.euronews.com/"
    },
    {
-      "name":"5",
-      "logo":"5",
-      "link":"http:\/\/www.5.ua\/live\/",
-      "http":"http:\/\/www.5.ua\/"
+      "name": "ATR",
+      "logo": "atr",
+      "link": "https://atr.ua/live",
+      "http": "http://atr.ua/"
    },
    {
-      "name":"\u0415\u0441\u043f\u0440\u0435\u0441\u043e TV",
-      "logo":"espreso",
-      "link":"http:\/\/espreso.tv\/stream\/",
-      "http":"http:\/\/espreso.tv\/"
+      "name": "LALE",
+      "logo": "LALE",
+      "link": "http://lale.ws/live/",
+      "http": "http://lale.ws"
    },
    {
-      "name":"\u0413\u0440\u043e\u043c\u0430\u0434\u0441\u044c\u043a\u0435",
-      "logo":"gromadske",
-      "link":"http:\/\/hromadske.ua\/stream",
-      "http":"http:\/\/hromadske.ua"
+      "name": "Луганская ОДТРК",
+      "logo": "lodtrk",
+      "link": "http://lot.lg.ua/live",
+      "http": "http://lot.lg.ua/"
    },
    {
-      "name":"UBR",
-      "logo":"ubr",
-      "link":"http:\/\/tv.ubr.ua\/",
-      "http":"http:\/\/ubr.ua\/"
+      "name": "UA|TV",
+      "logo": "UATV",
+      "link": "https://uatv.ua/category/video/",
+      "http": "https://uatv.ua/"
    },
    {
-      "name":"XSPORT",
-      "logo":"XSPORT",
-      "link":"http:\/\/xsport.ua\/online\/",
-      "http":"http:\/\/xsport.ua"
+      "name": "Галичина ОТБ",
+      "logo": "galtv",
+      "link": "https://galtv.if.ua/online",
+      "http": "http://galtv.if.ua/"
    },
    {
-      "name":"OTV",
-      "logo":"OTV",
-      "link":"http:\/\/o-tv.tv\/otv.html",
-      "http":"http:\/\/o-tv.tv"
+      "name": "РІВНЕ 1",
+      "logo": "rivne1",
+      "link": "https://rivne1.tv/online",
+      "http": "https://rivne1.tv"
    },
    {
-      "name":"\u0421\u0424\u0415\u0420\u0410-\u0422\u0412",
-      "logo":"Sfera",
-      "link":"http:\/\/sfera-tv.com.ua\/online",
-      "http":"http:\/\/sfera-tv.com.ua"
+      "name": "Music BOX",
+      "logo": "musicbox",
+      "link": "https://musicbox.ua/musicbox-online/",
+      "http": "https://musicbox.ua"
    },
    {
-      "name":"\u041a\u0438\u0457\u0432",
-      "logo":"Kyi",
-      "link":"https:\/\/kyivtv.com.ua\/online",
-      "http":"https:\/\/kyivtv.com.ua"
+      "name": "АКАДЕМИЯ",
+      "logo": "academia",
+      "link": "http://live-tv.od.ua/tv/36chod/36chod.php?0=w&1=h&2=cnee&3=a&4=ff&w=452&h=361.6&cnee=undefined&a=1&ff=0",
+      "http": "http://telekanal.academy/"
    },
    {
-      "name":"\u0427\u041f.INFO (\u041c\u0430\u0433\u043d\u043e\u043b\u0456\u044f-\u0422\u0412)",
-      "logo":"magnonila",
-      "link":"http:\/\/magnolia-tv.com\/online-tv",
-      "http":"http:\/\/magnolia-tv.com\/"
+      "name": "ТРЕТИЙ",
+      "logo": "tretiy",
+      "link": "http://live-tv.od.ua/tv/3tvod/3tvod.php?w=960&h=540&cnee&a=1&ff=0",
+      "http": "https://ssl.live-tv.od.ua/tv/3tvod/"
    },
    {
-      "name":"100% NEWS",
-      "logo":"100news",
-      "link":"http:\/\/www.100news.tv\/p\/blog-page_7972.html",
-      "http":"http:\/\/www.100news.tv\/"
+      "name": "Чернівецький Промінь",
+      "logo": "chpromin",
+      "link": "http://promin.cv.ua/live",
+      "http": "http://promin.cv.ua/"
    },
    {
-      "name":"TV 4 \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c",
-      "logo":"tv4",
-      "link":"https:\/\/tv4.te.ua\/onlajn-movlennya\/",
-      "http":"https:\/\/tv4.te.ua\/"
+      "name": " SPORT 1",
+      "logo": "sport1",
+      "link": "http://pvplus.tv/live/sport1.html",
+      "http": "http://poverkhnost.tv/pages/index.php?c=10&s=135"
    },
    {
-      "name":"zik",
-      "logo":"zik",
-      "link":"https:\/\/zik.ua\/live1",
-      "http":"https:\/\/zik.ua\/live2"
+      "name": " SPORT 2",
+      "logo": "sport2",
+      "link": "http://pvplus.tv/live/sport2.html",
+      "http": "http://poverkhnost.tv/pages/index.php?c=10&s=121"
    },
    {
-      "name":"euronews",
-      "logo":"euronews",
-      "link":"http:\/\/ua.euronews.com\/news\/streaming-live\/",
-      "http":"http:\/\/ua.euronews.com\/"
+      "name": "CNL",
+      "logo": "CNL",
+      "link": "https://cnl.tv/ru/live#cnl-ukr",
+      "http": "https://cnl.tv/"
    },
    {
-      "name":"ATR",
-      "logo":"atr",
-      "link":"https:\/\/atr.ua\/live",
-      "http":"http:\/\/atr.ua\/"
+      "name": "Надія",
+      "logo": "HOPE",
+      "link": "https://tv.hope.ua/uk/live",
+      "http": "https://tv.hope.ua/uk"
    },
    {
-      "name":"\u041b\u0443\u0433\u0430\u043d\u0441\u043a\u0430\u044f \u041e\u0414\u0422\u0420\u041a",
-      "logo":"lodtrk",
-      "link":"http:\/\/lot.lg.ua\/live",
-      "http":"http:\/\/lot.lg.ua\/"
+      "name": "4 Канал",
+      "logo": "4",
+      "link": "https://www.youtube.com/c/4channel/videos?view=2&live_view=501",
+      "http": "https://4channel.com.ua/"
    },
    {
-      "name":"NewsOne",
-      "logo":"NewsOne",
-      "link":"https:\/\/newsone.ua\/live.html",
-      "http":"http:\/\/newsone.ua\/"
+      "name": "Телевсесвіт",
+      "logo": "televsesvit",
+      "link": "https://www.televsesvit.ua/live",
+      "http": "https://www.televsesvit.ua/"
    },
    {
-      "name":"UA|TV",
-      "logo":"UATV",
-      "link":"https:\/\/uatv.ua\/category\/video\/",
-      "http":"https:\/\/uatv.ua\/"
+      "name": "ІНТБ",
+      "logo": "INTB",
+      "link": "https://intb.te.ua/onla-n/",
+      "http": "https://intb.te.ua/"
    },
    {
-      "name":"\u0413\u0430\u043b\u0438\u0447\u0438\u043d\u0430 \u041e\u0422\u0411",
-      "logo":"galtv",
-      "link":"https:\/\/galtv.if.ua\/online",
-      "http":"http:\/\/galtv.if.ua\/"
+      "name": "Малятко",
+      "logo": "Malyatko",
+      "link": "http://malyatko-tv.com.ua/live/",
+      "http": "http://malyatko-tv.com.ua/"
    },
    {
-      "name":"\u0420\u0406\u0412\u041d\u0415 1",
-      "logo":"rivne1",
-      "link":"https:\/\/rivne1.tv\/online",
-      "http":"https:\/\/rivne1.tv"
+      "name": "ПравдаТУТ",
+      "logo": "pravdatut",
+      "link": "https://pravdatut.ua/online",
+      "http": "https://pravdatut.ua"
    },
    {
-      "name":"Music BOX",
-      "logo":"musicbox",
-      "link":"https:\/\/musicbox.ua\/musicbox-online\/",
-      "http":"https:\/\/musicbox.ua"
+      "name": "Pудана",
+      "logo": "rudana",
+      "link": "https://rudana.com.ua/online",
+      "http": "https://rudana.com.ua"
    },
    {
-      "name":"\u0410\u041a\u0410\u0414\u0415\u041c\u0418\u042f",
-      "logo":"academia",
-      "link":"http:\/\/live-tv.od.ua\/tv\/36chod\/36chod.php?0=w&1=h&2=cnee&3=a&4=ff&w=452&h=361.6&cnee=undefined&a=1&ff=0",
-      "http":"http:\/\/telekanal.academy\/"
+      "name": "ИРТ",
+      "logo": "irt",
+      "link": "http://www.irt.ua/irt-online",
+      "http": "http://www.irt.ua/"
    },
    {
-      "name":"\u0422\u0420\u0415\u0422\u0418\u0419",
-      "logo":"tretiy",
-      "link":"http:\/\/live-tv.od.ua\/tv\/3tvod\/3tvod.php?w=960&h=540&cnee&a=1&ff=0",
-      "http":"https:\/\/ssl.live-tv.od.ua\/tv\/3tvod\/"
+      "name": "KRATU",
+      "logo": "kratu",
+      "link": "http://kratu.ua/live/",
+      "http": "http://kratu.ua/"
    },
    {
-      "name":"\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0438\u0439 \u041f\u0440\u043e\u043c\u0456\u043d\u044c",
-      "logo":"chpromin",
-      "link":"http:\/\/promin.cv.ua\/live",
-      "http":"http:\/\/promin.cv.ua\/"
+      "name": "Орбіта",
+      "logo": "orbita",
+      "link": "http://orbita.dn.ua/video",
+      "http": "http://orbita.dn.ua/"
    },
    {
-      "name":" SPORT 1",
-      "logo":"sport1",
-      "link":"http:\/\/pvplus.tv\/live\/sport1.html",
-      "http":"http:\/\/poverkhnost.tv\/pages\/index.php?c=10&s=135"
+      "name": "Первый городской",
+      "logo": "1CTV",
+      "link": "http://live-tv.od.ua/tv/1tvod/1tvod.php?w=242&h=200&cnee&a=0&ff=0",
+      "http": "http://www.1tv.od.ua/"
    },
    {
-      "name":" SPORT 2",
-      "logo":"sport2",
-      "link":"http:\/\/pvplus.tv\/live\/sport2.html",
-      "http":"http:\/\/poverkhnost.tv\/pages\/index.php?c=10&s=121"
+      "name": "Репортер",
+      "logo": "Reporte",
+      "link": "https://reporter.od.ua/pryamoy-efir/",
+      "http": "http://live-tv.od.ua/tv/31chod/31chod.php?w=720&h=576&cnee&a=0&ff=0"
    },
    {
-      "name":"CNL",
-      "logo":"CNL",
-      "link":"https:\/\/cnl.tv\/ru\/live#cnl-ukr",
-      "http":"https:\/\/cnl.tv\/"
+      "name": "Южная Волна",
+      "logo": "volna",
+      "link": "https://volnatv.com/live",
+      "http": "http://live-tv.od.ua/tv/wave/wave.php?w=720&h=576&cnee&a=0&ff=0"
    },
    {
-      "name":"\u041d\u0430\u0434\u0456\u044f",
-      "logo":"HOPE",
-      "link":"https:\/\/tv.hope.ua\/uk\/live",
-      "http":"https:\/\/tv.hope.ua\/uk"
+      "name": "OBOZREVATEL",
+      "logo": "OBOZ",
+      "link": "https://www.obozrevatel.com/tv/",
+      "http": "https://www.obozrevatel.com/tv/"
    },
    {
-      "name":"4 \u041a\u0430\u043d\u0430\u043b (RTI)",
-      "logo":"RTI",
-      "link":"https:\/\/4channel.com.ua\/",
-      "http":"https:\/\/4channel.com.ua\/"
+      "name": "CK1",
+      "logo": "CK1",
+      "link": "http://sk1.tv/online/",
+      "http": "http://sk1.tv"
    },
    {
-      "name":"\u0422\u0435\u043b\u0435\u0432\u0441\u0435\u0441\u0432\u0456\u0442",
-      "logo":"televsesvit",
-      "link":"http:\/\/www.televsesvit.ua\/index.php\/online",
-      "http":"http:\/\/www.televsesvit.ua\/"
+      "name": "Черноморская TPK",
+      "logo": "TPK",
+      "link": "https://blackseatv.com/live/",
+      "http": "https://blackseatv.com"
    },
    {
-      "name":"\u0406\u041d\u0422\u0411",
-      "logo":"INTB",
-      "link":"https:\/\/intb.te.ua\/onla-n\/",
-      "http":"https:\/\/intb.te.ua\/"
+      "name": "НАШ",
+      "logo": "NASH",
+      "link": "https://nash.live/online.html",
+      "http": "https://www.youtube.com/channel/UCz7ttPTNO_S1PS9rNsCt_iA/videos?view=2&flow=grid&live_view=501"
    },
    {
-      "name":"\u041c\u0430\u043b\u044f\u0442\u043a\u043e",
-      "logo":"Malyatko",
-      "link":"http:\/\/malyatko-tv.com.ua\/live\/",
-      "http":"http:\/\/malyatko-tv.com.ua\/"
+      "name": "Прямий",
+      "logo": "prm",
+      "link": "https://prm.ua",
+      "http": "https://www.youtube.com/channel/UCH9H_b9oJtSHBovh94yB5HA/videos?view=2&flow=grid&live_view=501"
    },
    {
-      "name":"\u041f\u0440\u0430\u0432\u0434\u0430\u0422\u0423\u0422",
-      "logo":"pravdatut",
-      "link":"https:\/\/www.tut.media\/online.html",
-      "http":"https:\/\/www.tut.media"
+      "name": "Z Запоріжжя",
+      "logo": "Z",
+      "link": "https://ztv.zp.ua/online/",
+      "http": "https://ztv.zp.ua"
    },
    {
-      "name":"P\u0443\u0434\u0430\u043d\u0430",
-      "logo":"rudana",
-      "link":"https:\/\/rudana.com.ua\/online",
-      "http":"https:\/\/rudana.com.ua"
+      "name": "МТВ (Маріуполь)",
+      "logo": "Mariupol",
+      "link": "https://mariupolskoe.tv/online",
+      "http": "https://mariupolskoe.tv"
    },
    {
-      "name":"\u0418\u0420\u0422",
-      "logo":"irt",
-      "link":"http:\/\/www.irt.ua\/irt-online",
-      "http":"http:\/\/www.irt.ua\/"
+      "name": "Перший Діловий",
+      "logo": "FBC",
+      "link": "https://fbc.ua/ru/tv/online_video/",
+      "http": "https://fbc.net.ua/tv/online_video/"
    },
    {
-      "name":"KRATU",
-      "logo":"kratu",
-      "link":"http:\/\/kratu.ua\/live\/",
-      "http":"http:\/\/kratu.ua\/"
+      "name": "TV5",
+      "logo": "TV5",
+      "link": "https://tv5.zp.ua/online/",
+      "http": "https://tv5.zp.ua"
    },
    {
-      "name":"\u041e\u0440\u0431\u0456\u0442\u0430",
-      "logo":"orbita",
-      "link":"http:\/\/orbita.dn.ua\/video",
-      "http":"http:\/\/orbita.dn.ua\/"
+      "name": "Настоящее Время",
+      "logo": "Vremya",
+      "link": "https://www.currenttime.tv/live/video/92",
+      "http": "https://www.youtube.com/c/CurrenttimeTvofficial/videos?view=2&live_view=501"
    },
    {
-      "name":"\u041f\u0435\u0440\u0432\u044b\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439",
-      "logo":"1CTV",
-      "link":"http:\/\/live-tv.od.ua\/tv\/1tvod\/1tvod.php?w=242&h=200&cnee&a=0&ff=0",
-      "http":"http:\/\/www.1tv.od.ua\/"
+      "name": "11 Дніпро",
+      "logo": "11",
+      "link": "https://11tv.dp.ua/broadcast",
+      "http": "https://11tv.dp.ua"
    },
    {
-      "name":"\u0420\u0435\u043f\u043e\u0440\u0442\u0435\u0440",
-      "logo":"Reporte",
-      "link":"http:\/\/reporter.od.ua\/pryamoy-efir\/",
-      "http":"http:\/\/live-tv.od.ua\/tv\/31chod\/31chod.php?w=720&h=576&cnee&a=0&ff=0"
+      "name": "12",
+      "logo": "12",
+      "link": "https://www.youtube.com/c/12%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB12/videos?view=2&live_view=501",
+      "http": "https://12kanal.com/"
    },
    {
-      "name":"\u042e\u0436\u043d\u0430\u044f \u0412\u043e\u043b\u043d\u0430",
-      "logo":"volna",
-      "link":"http:\/\/live-tv.od.ua\/tv\/wave\/wave.php?w=720&h=576&cnee&a=0&ff=0",
-      "http":"https:\/\/volnatv.com\/online-translyaciya.html"
+      "name": "33",
+      "logo": "33",
+      "link": "https://33tv.com.ua/online/",
+      "http": "https://33tv.com.ua"
    },
    {
-      "name":"OBOZREVATEL",
-      "logo":"OBOZ",
-      "link":"https:\/\/www.obozrevatel.com\/tv\/",
-      "http":"https:\/\/www.obozrevatel.com\/tv\/"
+      "name": "34",
+      "logo": "34",
+      "link": "https://34.ua/online",
+      "http": "https://34.ua"
    },
    {
-      "name":"CK1",
-      "logo":"CK1",
-      "link":"http:\/\/sk1.tv\/online\/",
-      "http":"http:\/\/sk1.tv"
+      "name": "7 канал",
+      "logo": "7",
+      "link": "http://7kanal.com.ua/live/",
+      "http": "http://7kanal.com.ua"
    },
    {
-      "name":"\u0427\u0435\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u043a\u0430\u044f TPK",
-      "logo":"TPK",
-      "link":"http:\/\/blackseatv.com\/live\/",
-      "http":"http:\/\/blackseatv.com"
+      "name": "Алекс",
+      "logo": "Alex",
+      "link": "http://alexua.tv/alexua-online.html",
+      "http": "http://alexua.tv"
    },
    {
-      "name":"\u041d\u0410\u0428",
-      "logo":"NASH",
-      "link":"https:\/\/nash.live\/online.html",
-      "http":"https:\/\/www.youtube.com\/channel\/UCz7ttPTNO_S1PS9rNsCt_iA\/videos?view=2&flow=grid&live_view=501"
+      "name": "BOUTIQUE",
+      "logo": "BOUTIQUE",
+      "link": "https://btq-tv.com/pages/live",
+      "http": "https://btq-tv.com"
    },
    {
-      "name":"\u041f\u0440\u044f\u043c\u0438\u0439",
-      "logo":"prm",
-      "link":"https:\/\/prm.ua",
-      "http":"https:\/\/www.youtube.com\/channel\/UCH9H_b9oJtSHBovh94yB5HA\/videos?view=2&flow=grid&live_view=501"
+      "name": "C-TV Житомир",
+      "logo": "C-TV",
+      "link": "https://www.ctv.ua/onlajn-transljacija/",
+      "http": "https://www.ctv.ua"
    },
    {
-      "name":"Z \u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f",
-      "logo":"Z",
-      "link":"https:\/\/ztv.zp.ua\/online\/",
-      "http":"https:\/\/ztv.zp.ua"
+      "name": "D1 Дніпро",
+      "logo": "D1",
+      "link": "https://d1.ua/online",
+      "http": "https://d1.ua"
    },
    {
-      "name":"\u041c\u0422\u0412 (\u041c\u0430\u0440\u0456\u0443\u043f\u043e\u043b\u044c)",
-      "logo":"Mariupol",
-      "link":"https:\/\/mariupolskoe.tv\/online",
-      "http":"https:\/\/mariupolskoe.tv"
+      "name": "GENUINE",
+      "logo": "GENUINE",
+      "link": "https://gen-tv.com/ru/online_tv.htm",
+      "http": "https://gen-tv.com"
    },
    {
-      "name":"\u041f\u0435\u0440\u0448\u0438\u0439 \u0414\u0456\u043b\u043e\u0432\u0438\u0439",
-      "logo":"FBC",
-      "link":"https:\/\/fbc.net.ua\/tv\/online_video\/",
-      "http":"https:\/\/fbc.net.ua"
+      "name": "HD FASHION and LifeStyle",
+      "logo": "LifeStyle",
+      "link": "http://hdfashion.tv/online",
+      "http": "http://hdfashion.tv"
    },
    {
-      "name":"TV5",
-      "logo":"TV5",
-      "link":"https:\/\/tv5.zp.ua\/online\/",
-      "http":"https:\/\/tv5.zp.ua"
+      "name": "ID Fashion",
+      "logo": "Fashion",
+      "link": "http://idfashion.tv/online/europe",
+      "http": "http://idfashion.tv"
    },
    {
-      "name":"\u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0412\u0440\u0435\u043c\u044f",
-      "logo":"Vremya",
-      "link":"https:\/\/www.currenttime.tv\/live\/video\/92",
-      "http":"https:\/\/www.youtube.com\/c\/CurrenttimeTvofficial\/videos?view=2&live_view=501"
+      "name": "MostVideo",
+      "logo": "MostVideo",
+      "link": "https://mostvideo.tv/#live-player",
+      "http": "https://mostvideo.tv"
    },
    {
-      "name":"11 \u0414\u043d\u0456\u043f\u0440\u043e",
-      "logo":"11",
-      "link":"https:\/\/11tv.dp.ua\/broadcast",
-      "http":"https:\/\/11tv.dp.ua"
+      "name": "Simon Харків",
+      "logo": "Simon",
+      "link": "https://www.objectiv.tv/wp-content/themes/objective/template-parts/liveVideo.php",
+      "http": "https://www.objectiv.tv/"
    },
    {
-      "name":"12",
-      "logo":"12",
-      "link":"https:\/\/www.youtube.com\/c\/12%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB12\/videos?view=2&live_view=501",
-      "http":"https:\/\/12kanal.com\/"
+      "name": "TV7+ Хмельницький",
+      "logo": "TV7+",
+      "link": "https://tv7plus.com/live/",
+      "http": "https://tv7plus.com"
    },
    {
-      "name":"33",
-      "logo":"33",
-      "link":"https:\/\/33tv.com.ua\/online\/",
-      "http":"https:\/\/33tv.com.ua"
+      "name": "Аверс",
+      "logo": "Avers",
+      "link": "https://www.volynnews.com/avers/",
+      "http": "https://www.volynnews.com"
    },
    {
-      "name":"34",
-      "logo":"34",
-      "link":"https:\/\/34.ua\/online",
-      "http":"https:\/\/34.ua"
+      "name": "Апостроф",
+      "logo": "Apostrof",
+      "link": "https://www.youtube.com/channel/UC0lnIB2qcArjFJPtq79WGZA/videos?view=2&live_view=501",
+      "http": "https://www.youtube.com/channel/UC0lnIB2qcArjFJPtq79WGZA/videos"
    },
    {
-      "name":"7 \u043a\u0430\u043d\u0430\u043b",
-      "logo":"7",
-      "link":"http:\/\/7kanal.com.ua\/live\/",
-      "http":"http:\/\/7kanal.com.ua"
+      "name": "Вітер",
+      "logo": "Viter",
+      "link": "https://cbn.com.ua/viter/",
+      "http": "https://cbn.com.ua"
    },
    {
-      "name":"\u0410\u043b\u0435\u043a\u0441",
-      "logo":"Alex",
-      "link":"http:\/\/alexua.tv\/alexua-online.html",
-      "http":"http:\/\/alexua.tv"
+      "name": "BTB+ Херсон",
+      "logo": "BTB+",
+      "link": "http://video.vtvplus.com.ua:81/hls/online/index.m3u8",
+      "http": "http://www.vtvplus.com.ua/lang/ua/onlayn-movlennya.html"
    },
    {
-      "name":"BOUTIQUE",
-      "logo":"BOUTIQUE",
-      "link":"https:\/\/btq-tv.com\/pages\/live",
-      "http":"https:\/\/btq-tv.com"
+      "name": "Донбас Онлайн",
+      "logo": "Donbas",
+      "link": "https://www.donbas-online.com/online/",
+      "http": "https://www.donbas-online.com"
    },
    {
-      "name":"C-TV \u0416\u0438\u0442\u043e\u043c\u0438\u0440",
-      "logo":"C-TV",
-      "link":"https:\/\/www.ctv.ua\/onlajn-transljacija\/",
-      "http":"https:\/\/www.ctv.ua"
+      "name": "ЗДОРОВЬЕ (Одеса)",
+      "logo": "Zdorovye",
+      "link": "http://zd.od.ua/onlajn-prosmotr-telekanal-zdorove/",
+      "http": "http://zd.od.ua"
    },
    {
-      "name":"D1 \u0414\u043d\u0456\u043f\u0440\u043e",
-      "logo":"D1",
-      "link":"https:\/\/d1.dp.ua\/online\/",
-      "http":"https:\/\/d1.dp.ua"
+      "name": "ЗОРЯНИЙ",
+      "logo": "Zoryanyy",
+      "link": "https://zoryanyy.tv/",
+      "http": "https://zoryanyy.tv/"
    },
    {
-      "name":"GENUINE",
-      "logo":"GENUINE",
-      "link":"https:\/\/gen-tv.com\/ru\/online_tv.htm",
-      "http":"https:\/\/gen-tv.com"
+      "name": "Ільдана",
+      "logo": "Ildana",
+      "link": "https://ildana.tv/onlinies",
+      "http": "https://ildana.tv"
    },
    {
-      "name":"HD FASHION and LifeStyle",
-      "logo":"LifeStyle",
-      "link":"http:\/\/hdfashion.tv\/online",
-      "http":"http:\/\/hdfashion.tv"
+      "name": "ІТ-3 (Чорноморськ)",
+      "logo": "IT-3",
+      "link": "https://it3.online/tv/",
+      "http": "https://it3.online/"
    },
    {
-      "name":"ID Fashion",
-      "logo":"Fashion",
-      "link":"http:\/\/idfashion.tv\/online\/europe",
-      "http":"http:\/\/idfashion.tv"
+      "name": "Крокус",
+      "logo": "Krokus",
+      "link": "https://krokus.tv/online.html",
+      "http": "https://krokus.tv/"
    },
    {
-      "name":"MostVideo",
-      "logo":"MostVideo",
-      "link":"https:\/\/mostvideo.tv\/#live-player",
-      "http":"https:\/\/mostvideo.tv"
+      "name": "KPT",
+      "logo": "KPT",
+      "link": "https://www.tvkrt.com.ua/online",
+      "http": "https://www.tvkrt.com.ua"
    },
    {
-      "name":"Simon \u0425\u0430\u0440\u043a\u0456\u0432",
-      "logo":"Simon",
-      "link":"https:\/\/www.objectiv.tv\/wp-content\/themes\/objective\/template-parts\/liveVideo.php",
-      "http":"https:\/\/www.objectiv.tv\/"
+      "name": "Місто+",
+      "logo": "Misto+",
+      "link": "http://irt.pl.ua/online/mistoplus",
+      "http": "http://irt.pl.ua"
    },
    {
-      "name":"TV7+ \u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
-      "logo":"TV7+",
-      "link":"https:\/\/tv7plus.com\/live\/",
-      "http":"https:\/\/tv7plus.com"
+      "name": "HTA - Незалежне телевізійне агентство",
+      "logo": "HTA",
+      "link": "https://www.nta.ua/nazhyvo/",
+      "http": "http://www.nta.ua"
    },
    {
-      "name":"\u0410\u0432\u0435\u0440\u0441",
-      "logo":"Avers",
-      "link":"https:\/\/www.volynnews.com\/avers\/",
-      "http":"https:\/\/www.volynnews.com"
+      "name": "HTK",
+      "logo": "HTK",
+      "link": "https://ntktv.ua/web-camery/trkntk/",
+      "http": "https://ntktv.ua"
    },
    {
-      "name":"\u0410\u043f\u043e\u0441\u0442\u0440\u043e\u0444",
-      "logo":"Apostrof",
-      "link":"https:\/\/www.youtube.com\/channel\/UC0lnIB2qcArjFJPtq79WGZA\/videos?view=2&live_view=501",
-      "http":"https:\/\/www.youtube.com\/channel\/UC0lnIB2qcArjFJPtq79WGZA\/videos"
+      "name": "Перший Західний",
+      "logo": "1zahid",
+      "link": "http://1zahid.com/online/",
+      "http": "http://1zahid.com"
    },
    {
-      "name":"\u0412\u0456\u0442\u0435\u0440",
-      "logo":"Viter",
-      "link":"https:\/\/cbn.com.ua\/viter\/",
-      "http":"https:\/\/cbn.com.ua"
+      "name": "Погляд",
+      "logo": "Poglyad",
+      "link": "https://www.youtube.com/channel/UCnN6PLPAqdlZyeQ3fp3EEjA/videos?view=2&live_view=501",
+      "http": "https://www.poglyad.tv/on-line/"
    },
    {
-      "name":"BTB+ \u0425\u0435\u0440\u0441\u043e\u043d",
-      "logo":"BTB+",
-      "link":"http:\/\/video.vtvplus.com.ua:81\/hls\/online\/index.m3u8",
-      "http":"http:\/\/www.vtvplus.com.ua\/lang\/ua\/onlayn-movlennya.html"
+      "name": "PAI",
+      "logo": "PAI",
+      "link": "https://rai.ua/#stream",
+      "http": "https://rai.ua"
    },
    {
-      "name":"\u0414\u043e\u043d\u0431\u0430\u0441 \u041e\u043d\u043b\u0430\u0439\u043d",
-      "logo":"Donbas",
-      "link":"https:\/\/www.donbas-online.com\/online\/",
-      "http":"https:\/\/www.donbas-online.com"
+      "name": "РИТМ",
+      "logo": "Rytm",
+      "link": "https://ritm.tv/tv/",
+      "http": "https://ritm.tv"
    },
    {
-      "name":"\u0417\u0414\u041e\u0420\u041e\u0412\u042c\u0415 (\u041e\u0434\u0435\u0441\u0430)",
-      "logo":"Zdorovye",
-      "link":"http:\/\/zd.od.ua\/onlajn-prosmotr-telekanal-zdorove\/",
-      "http":"http:\/\/zd.od.ua"
+      "name": "Сварожичи",
+      "logo": "Svarogichi",
+      "link": "http://svarozhichi.ua/",
+      "http": "http://svarozhichi.ua/"
    },
    {
-      "name":"\u0417\u041e\u0420\u042f\u041d\u0418\u0419",
-      "logo":"Zoryanyy",
-      "link":"https:\/\/zoryanyy.tv\/",
-      "http":"https:\/\/zoryanyy.tv\/"
+      "name": "СИГМА",
+      "logo": "Sigma",
+      "link": "https://sigmatv.com.ua/ru/online",
+      "http": "https://sigmatv.com.ua"
    },
    {
-      "name":"\u0406\u043b\u044c\u0434\u0430\u043d\u0430",
-      "logo":"Ildana",
-      "link":"https:\/\/ildana.tv\/onlinies",
-      "http":"https:\/\/ildana.tv"
+      "name": "ТБ Бердянськ",
+      "logo": "Berdyansk",
+      "link": "http://tv.berdyansk.net/online",
+      "http": "http://tv.berdyansk.net"
    },
    {
-      "name":"\u0406\u0422-3 (\u0427\u043e\u0440\u043d\u043e\u043c\u043e\u0440\u0441\u044c\u043a)",
-      "logo":"IT-3",
-      "link":"https:\/\/it3.online\/tv\/",
-      "http":"https:\/\/it3.online\/"
+      "name": "TBA",
+      "logo": "TBA",
+      "link": "https://tva.ua/onair/",
+      "http": "https://tva.ua"
    },
    {
-      "name":"\u041a\u0440\u043e\u043a\u0443\u0441",
-      "logo":"Krokus",
-      "link":"https:\/\/www.krokus.tv\/1522-prjamij-efr-telekanalu-krokus.html",
-      "http":"https:\/\/bc.krokus.tv\/"
+      "name": "Трофей",
+      "logo": "Trofey",
+      "link": "https://trofey.tv/",
+      "http": "https://trofey.tv/"
    },
    {
-      "name":"KPT",
-      "logo":"KPT",
-      "link":"https:\/\/www.tvkrt.com.ua\/online",
-      "http":"https:\/\/www.tvkrt.com.ua"
+      "name": "Україна 24",
+      "logo": "24",
+      "link": "https://ukraina24.segodnya.ua/online",
+      "http": "https://www.youtube.com/c/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024/videos?view=2&live_view=501"
    },
    {
-      "name":"\u041c\u0456\u0441\u0442\u043e+",
-      "logo":"Misto+",
-      "link":"http:\/\/irt.pl.ua\/online\/mistoplus",
-      "http":"http:\/\/irt.pl.ua"
+      "name": "Херсон Плюс",
+      "logo": "Herson",
+      "link": "http://khersontv.com/onlinetv/",
+      "http": "http://khersontv.com"
    },
    {
-      "name":"HTA - \u041d\u0435\u0437\u0430\u043b\u0435\u0436\u043d\u0435 \u0442\u0435\u043b\u0435\u0432\u0456\u0437\u0456\u0439\u043d\u0435 \u0430\u0433\u0435\u043d\u0442\u0441\u0442\u0432\u043e",
-      "logo":"HTA",
-      "link":"http:\/\/www.nta.ua\/%d0%bd%d0%b0%d0%b6%d0%b8%d0%b2%d0%be\/",
-      "http":"http:\/\/www.nta.ua"
+      "name": "Центральний",
+      "logo": "Centralnyy",
+      "link": "https://central-ua.tv/efir/",
+      "http": "https://central-ua.tv"
    },
    {
-      "name":"HTK",
-      "logo":"HTK",
-      "link":"https:\/\/ntktv.ua\/web-camery\/trkntk\/",
-      "http":"https:\/\/ntktv.ua"
+      "name": "Думская",
+      "logo": "Dumskaya",
+      "link": "https://dumskaya.net/tv//live/",
+      "http": "https://dumskaya.net"
    },
    {
-      "name":"\u041f\u0435\u0440\u0448\u0438\u0439 \u0417\u0430\u0445\u0456\u0434\u043d\u0438\u0439",
-      "logo":"1zahid",
-      "link":"http:\/\/1zahid.com\/online\/",
-      "http":"http:\/\/1zahid.com"
+      "name": "Медіа-Інформ",
+      "logo": "Media",
+      "link": "http://www.mediainform.in.ua/",
+      "http": "http://www.mediainform.in.ua/"
    },
    {
-      "name":"\u041f\u0435\u0440\u0448\u0438\u0439 \u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439",
-      "logo":"1podil",
-      "link":"https:\/\/www.youtube.com\/c\/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9\/videos?view=2&live_view=501",
-      "http":"https:\/\/www.youtube.com\/channel\/UC-HlSzVsIkTw7mcH6rzxgsA"
+      "name": "ГЛАС",
+      "logo": "GLAS",
+      "link": "https://glas.org.ua/",
+      "http": "https://glas.org.ua/"
    },
    {
-      "name":"\u041f\u043e\u0433\u043b\u044f\u0434",
-      "logo":"Poglyad",
-      "link":"https:\/\/www.youtube.com\/channel\/UCnN6PLPAqdlZyeQ3fp3EEjA\/videos?view=2&live_view=501",
-      "http":"https:\/\/www.poglyad.tv\/on-line\/"
+      "name": "TIC",
+      "logo": "TIC",
+      "link": "http://www.tistv.news/live-tv/",
+      "http": "http://www.tistv.news"
    },
    {
-      "name":"PAI",
-      "logo":"PAI",
-      "link":"https:\/\/rai.ua\/#stream",
-      "http":"https:\/\/rai.ua"
+      "name": "PULSE",
+      "logo": "PULSE",
+      "link": "http://pulsetv.com.ua/online",
+      "http": "http://pulsetv.com.ua"
    },
    {
-      "name":"\u0420\u0418\u0422\u041c",
-      "logo":"Rytm",
-      "link":"https:\/\/ritm.tv\/tv\/",
-      "http":"https:\/\/ritm.tv"
+      "name": "TRAVEL GUIDE",
+      "logo": "GUIDE",
+      "link": "https://travel-guide.tv/online",
+      "http": "https://travel-guide.tv"
    },
    {
-      "name":"\u0421\u0432\u0430\u0440\u043e\u0436\u0438\u0447\u0438",
-      "logo":"Svarogichi",
-      "link":"http:\/\/svarozhichi.ua\/",
-      "http":"http:\/\/svarozhichi.ua\/"
+      "name": "BITA ТБ",
+      "logo": "BITA",
+      "link": "https://vitatv.com.ua/live",
+      "http": "https://vitatv.com.ua"
    },
    {
-      "name":"\u0421\u0418\u0413\u041c\u0410",
-      "logo":"Sigma",
-      "link":"https:\/\/sigmatv.com.ua\/ru\/online",
-      "http":"https:\/\/sigmatv.com.ua"
+      "name": "ITV",
+      "logo": "ITV",
+      "link": "https://itvmg.com/tv/",
+      "http": "https://itvmg.com"
    },
    {
-      "name":"\u0422\u0411 \u0411\u0435\u0440\u0434\u044f\u043d\u0441\u044c\u043a",
-      "logo":"Berdyansk",
-      "link":"http:\/\/tv.berdyansk.net\/online",
-      "http":"http:\/\/tv.berdyansk.net"
+      "name": "СОЮЗ-TV",
+      "logo": "COUZ",
+      "link": "https://www.ctv.ua/onlajn-transljacija/",
+      "http": "https://www.ctv.ua"
    },
    {
-      "name":"TBA",
-      "logo":"TBA",
-      "link":"https:\/\/tva.ua\/onair\/",
-      "http":"https:\/\/tva.ua"
+      "name": "Відкритий\n\nВідкритий",
+      "logo": "vidkrytyy",
+      "link": "https://opentv.media/online__trashed",
+      "http": "https://opentv.media"
    },
    {
-      "name":"\u0422\u0440\u043e\u0444\u0435\u0439",
-      "logo":"Trofey",
-      "link":"https:\/\/trofey.tv\/",
-      "http":"https:\/\/trofey.tv\/"
+      "name": "PTV ПОЛТАВСЬКЕ",
+      "logo": "PTV",
+      "link": "https://poltavske.tv/translation",
+      "http": "https://poltavske.tv"
    },
    {
-      "name":"\u0423\u043a\u0440\u0430\u0457\u043d\u0430 24",
-      "logo":"24",
-      "link":"https:\/\/ukraina24.segodnya.ua\/online",
-      "http":"https:\/\/www.youtube.com\/c\/%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B024\/videos?view=2&live_view=501"
+      "name": "ДніпроTV",
+      "logo": "DniproTV",
+      "link": "https://dnipro.tv/nazhyvo/",
+      "http": "https://dnipro.tv"
    },
    {
-      "name":"\u0425\u0435\u0440\u0441\u043e\u043d \u041f\u043b\u044e\u0441",
-      "logo":"Herson",
-      "link":"http:\/\/khersontv.com\/onlinetv\/",
-      "http":"http:\/\/khersontv.com"
+      "name": "Навігатор",
+      "logo": "Navigator",
+      "link": "https://www.navitv.net/player/",
+      "http": "https://www.navitv.net"
    },
    {
-      "name":"\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439",
-      "logo":"Centralnyy",
-      "link":"https:\/\/central-ua.tv\/efir\/",
-      "http":"https:\/\/central-ua.tv"
+      "name": "Дім/Дом",
+      "logo": "Dom",
+      "link": "https://kanaldom.tv/live/",
+      "http": "https://kanaldom.tv/"
    },
    {
-      "name":"\u0414\u0443\u043c\u0441\u043a\u0430\u044f",
-      "logo":"Dumskaya",
-      "link":"https:\/\/dumskaya.net\/tv\/\/live\/",
-      "http":"https:\/\/dumskaya.net"
+      "name": "Донеччина TV (ДTV)",
+      "logo": "DTV",
+      "link": "https://www.dtv.dn.ua/dtv-online/",
+      "http": "https://www.dtv.dn.ua"
    },
    {
-      "name":"\u041c\u0435\u0434\u0456\u0430-\u0406\u043d\u0444\u043e\u0440\u043c",
-      "logo":"Media",
-      "link":"http:\/\/www.mediainform.in.ua\/",
-      "http":"http:\/\/www.mediainform.in.ua\/"
+      "name": "Антена",
+      "logo": "Antena",
+      "link": "https://antenna.com.ua/",
+      "http": "https://antenna.com.ua/"
    },
    {
-      "name":"\u0413\u041b\u0410\u0421",
-      "logo":"GLAS",
-      "link":"https:\/\/glas.org.ua\/",
-      "http":"https:\/\/glas.org.ua\/"
+      "name": "Izmail-TV",
+      "logo": "Izmail-TV",
+      "link": "http://www.izmailtv.com/",
+      "http": "http://www.izmailtv.com/"
    },
    {
-      "name":"TIC",
-      "logo":"TIC",
-      "link":"http:\/\/www.tistv.news\/live-tv\/",
-      "http":"http:\/\/www.tistv.news"
+      "name": "УНТ",
+      "logo": "UNT",
+      "link": "https://www.unt.ua/",
+      "http": "https://www.unt.ua/"
    },
    {
-      "name":"UA: \u041a\u0443\u043b\u044c\u0442\u0443\u0440\u0430",
-      "logo":"UA0",
-      "link":"https:\/\/culture.suspilne.media\/",
-      "http":"https:\/\/suspilne.media\/"
+      "name": "UA: Культура",
+      "logo": "UA0",
+      "link": "https://culture.suspilne.media/",
+      "http": "https://suspilne.media/"
    },
    {
-      "name":"UA: \u0411\u0443\u043a\u043e\u0432\u0438\u043d\u0430 (\u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456)",
-      "logo":"UA9",
-      "link":"https:\/\/cv.suspilne.media\/live",
-      "http":"https:\/\/cv.suspilne.media"
+      "name": "UA: Буковина (Чернівці)",
+      "logo": "UA9",
+      "link": "https://cv.suspilne.media/live",
+      "http": "https://cv.suspilne.media"
    },
    {
-      "name":"UA: \u0412\u0456\u043d\u043d\u0438\u0446\u044f",
-      "logo":"UA3",
-      "link":"https:\/\/vn.suspilne.media\/live",
-      "http":"https:\/\/vn.suspilne.media"
+      "name": "UA: Вінниця",
+      "logo": "UA3",
+      "link": "https://vn.suspilne.media/live",
+      "http": "https://vn.suspilne.media"
    },
    {
-      "name":"UA: \u0412\u043e\u043b\u0438\u043d\u044c",
-      "logo":"UA8",
-      "link":"https:\/\/vo.suspilne.media\/live",
-      "http":"https:\/\/vo.suspilne.media"
+      "name": "UA: Волинь",
+      "logo": "UA8",
+      "link": "https://vo.suspilne.media/live",
+      "http": "https://vo.suspilne.media"
    },
    {
-      "name":"UA: \u0414\u043d\u0456\u043f\u0440\u043e",
-      "logo":"UA10",
-      "link":"https:\/\/dp.suspilne.media\/live",
-      "http":"https:\/\/dp.suspilne.media"
+      "name": "UA: Дніпро",
+      "logo": "UA10",
+      "link": "https://dp.suspilne.media/live",
+      "http": "https://dp.suspilne.media"
    },
    {
-      "name":"UA: \u0414\u043e\u043d\u0431\u0430\u0441",
-      "logo":"UA7",
-      "link":"https:\/\/dn.suspilne.media\/live",
-      "http":"https:\/\/dn.suspilne.media"
+      "name": "UA: Донбас",
+      "logo": "UA7",
+      "link": "https://dn.suspilne.media/live",
+      "http": "https://dn.suspilne.media"
    },
    {
-      "name":"UA: \u0416\u0438\u0442\u043e\u043c\u0438\u0440",
-      "logo":"UA4",
-      "link":"https:\/\/zt.suspilne.media\/live",
-      "http":"https:\/\/zt.suspilne.media"
+      "name": "UA: Житомир",
+      "logo": "UA4",
+      "link": "https://zt.suspilne.media/live",
+      "http": "https://zt.suspilne.media"
    },
    {
-      "name":"UA: \u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0442\u044f (\u0423\u0436\u0433\u043e\u0440\u043e\u0434)",
-      "logo":"UA11",
-      "link":"https:\/\/uz.suspilne.media\/live",
-      "http":"https:\/\/uz.suspilne.media"
+      "name": "UA: Закарпаття (Ужгород)",
+      "logo": "UA11",
+      "link": "https://uz.suspilne.media/live",
+      "http": "https://uz.suspilne.media"
    },
    {
-      "name":"UA: \u0417\u0430\u043f\u043e\u0440\u0456\u0436\u0436\u044f",
-      "logo":"UA12",
-      "link":"https:\/\/zp.suspilne.media\/live",
-      "http":"https:\/\/zp.suspilne.media"
+      "name": "UA: Запоріжжя",
+      "logo": "UA12",
+      "link": "https://zp.suspilne.media/live",
+      "http": "https://zp.suspilne.media"
    },
    {
-      "name":"UA: \u041a\u0430\u0440\u043f\u0430\u0442\u0438 (\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a)",
-      "logo":"UA13",
-      "link":"https:\/\/if.suspilne.media\/live",
-      "http":"https:\/\/if.suspilne.media"
+      "name": "UA: Карпати (Івано-Франківськ)",
+      "logo": "UA13",
+      "link": "https://if.suspilne.media/live",
+      "http": "https://if.suspilne.media"
    },
    {
-      "name":"UA: \u041a\u0438\u0457\u0432 (\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439)",
-      "logo":"UA1",
-      "link":"https:\/\/central.suspilne.media\/",
-      "http":"https:\/\/central.suspilne.media\/"
+      "name": "UA: Київ (Центральний)",
+      "logo": "UA1",
+      "link": "https://central.suspilne.media/",
+      "http": "https://central.suspilne.media/"
    },
    {
-      "name":"UA: \u041a\u0440\u0438\u043c",
-      "logo":"UA2",
-      "link":"https:\/\/crimea.suspilne.media\/ua\/online",
-      "http":"https:\/\/crimea.suspilne.media\/"
+      "name": "UA: Крим",
+      "logo": "UA2",
+      "link": "https://crimea.suspilne.media/ua/online",
+      "http": "https://crimea.suspilne.media/"
    },
    {
-      "name":"UA: \u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u044c\u043a\u0438\u0439",
-      "logo":"UA14",
-      "link":"https:\/\/kr.suspilne.media\/live",
-      "http":"https:\/\/kr.suspilne.media"
+      "name": "UA: Кропивницький",
+      "logo": "UA14",
+      "link": "https://kr.suspilne.media/live",
+      "http": "https://kr.suspilne.media"
    },
    {
-      "name":"UA: \u041b\u044c\u0432\u0456\u0432",
-      "logo":"UA15",
-      "link":"https:\/\/lv.suspilne.media\/live",
-      "http":"https:\/\/lv.suspilne.media"
+      "name": "UA: Львів",
+      "logo": "UA15",
+      "link": "https://lv.suspilne.media/live",
+      "http": "https://lv.suspilne.media"
    },
    {
-      "name":"UA: \u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432",
-      "logo":"UA5",
-      "link":"https:\/\/mk.suspilne.media\/live",
-      "http":"https:\/\/mk.suspilne.media"
+      "name": "UA: Миколаїв",
+      "logo": "UA5",
+      "link": "https://mk.suspilne.media/live",
+      "http": "https://mk.suspilne.media"
    },
    {
-      "name":"UA: \u041e\u0434\u0435\u0441\u0430",
-      "logo":"UA16",
-      "link":"https:\/\/od.suspilne.media\/live",
-      "http":"https:\/\/od.suspilne.media"
+      "name": "UA: Одеса",
+      "logo": "UA16",
+      "link": "https://od.suspilne.media/live",
+      "http": "https://od.suspilne.media"
    },
    {
-      "name":"UA: \u041f\u043e\u0434\u0456\u043b\u043b\u044f (\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439)",
-      "logo":"UA17",
-      "link":"https:\/\/km.suspilne.media\/live",
-      "http":"https:\/\/km.suspilne.media"
+      "name": "UA: Поділля (Хмельницький)",
+      "logo": "UA17",
+      "link": "https://km.suspilne.media/live",
+      "http": "https://km.suspilne.media"
    },
    {
-      "name":"UA: \u041f\u043e\u043b\u0442\u0430\u0432\u0430",
-      "logo":"UA18",
-      "link":"https:\/\/pl.suspilne.media\/live",
-      "http":"https:\/\/pl.suspilne.media"
+      "name": "UA: Полтава",
+      "logo": "UA18",
+      "link": "https://pl.suspilne.media/live",
+      "http": "https://pl.suspilne.media"
    },
    {
-      "name":"UA: \u0420\u0456\u0432\u043d\u0435",
-      "logo":"UA19",
-      "link":"https:\/\/rv.suspilne.media\/live",
-      "http":"https:\/\/rv.suspilne.media"
+      "name": "UA: Рівне",
+      "logo": "UA19",
+      "link": "https://rv.suspilne.media/live",
+      "http": "https://rv.suspilne.media"
    },
    {
-      "name":"UA: \u0421\u0443\u043c\u0438",
-      "logo":"UA20",
-      "link":"https:\/\/sm.suspilne.media\/live",
-      "http":"https:\/\/sm.suspilne.media"
+      "name": "UA: Суми",
+      "logo": "UA20",
+      "link": "https://sm.suspilne.media/live",
+      "http": "https://sm.suspilne.media"
    },
    {
-      "name":"UA: \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c",
-      "logo":"UA21",
-      "link":"https:\/\/te.suspilne.media\/live",
-      "http":"https:\/\/te.suspilne.media"
+      "name": "UA: Тернопіль",
+      "logo": "UA21",
+      "link": "https://te.suspilne.media/live",
+      "http": "https://te.suspilne.media"
    },
    {
-      "name":"UA: \u0425\u0430\u0440\u043a\u0456\u0432",
-      "logo":"UA6",
-      "link":"https:\/\/kh.suspilne.media\/live",
-      "http":"https:\/\/kh.suspilne.media"
+      "name": "UA: Харків",
+      "logo": "UA6",
+      "link": "https://kh.suspilne.media/live",
+      "http": "https://kh.suspilne.media"
    },
    {
-      "name":"UA: \u0425\u0435\u0440\u0441\u043e\u043d",
-      "logo":"UA22",
-      "link":"https:\/\/ks.suspilne.media\/live",
-      "http":"https:\/\/ks.suspilne.media"
+      "name": "UA: Херсон",
+      "logo": "UA22",
+      "link": "https://ks.suspilne.media/live",
+      "http": "https://ks.suspilne.media"
    },
    {
-      "name":"UA: \u0427\u0435\u0440\u043a\u0430\u0441\u0438",
-      "logo":"UA23",
-      "link":"https:\/\/ck.suspilne.media\/live",
-      "http":"https:\/\/ck.suspilne.media"
+      "name": "UA: Черкаси",
+      "logo": "UA23",
+      "link": "https://ck.suspilne.media/live",
+      "http": "https://ck.suspilne.media"
    },
    {
-      "name":"UA: \u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432",
-      "logo":"UA24",
-      "link":"https:\/\/cn.suspilne.media\/live",
-      "http":"https:\/\/cn.suspilne.media"
+      "name": "UA: Чернігів",
+      "logo": "UA24",
+      "link": "https://cn.suspilne.media/live",
+      "http": "https://cn.suspilne.media"
    }
 ]

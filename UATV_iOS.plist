@@ -58,9 +58,9 @@
 		<key>logo</key>
 		<string>XSPORT</string>
 		<key>link</key>
-		<string>http://xsport.ua/online/</string>
+		<string>https://xsport.ua/online/</string>
 		<key>http</key>
-		<string>http://xsport.ua</string>
+		<string>https://xsport.ua/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -91,6 +91,16 @@
 		<string>https://kyivtv.com.ua/online</string>
 		<key>http</key>
 		<string>https://kyivtv.com.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Тернопіль1</string>
+		<key>logo</key>
+		<string>ternopil1</string>
+		<key>link</key>
+		<string>http://ott.columbus.te.ua/ternopil1/index.m3u8</string>
+		<key>http</key>
+		<string>https://ternopil1.com/online/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -141,6 +151,16 @@
 		<string>https://atr.ua/live</string>
 		<key>http</key>
 		<string>http://atr.ua/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>LALE</string>
+		<key>logo</key>
+		<string>LALE</string>
+		<key>link</key>
+		<string>http://lale.ws/live/</string>
+		<key>http</key>
+		<string>http://lale.ws</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -264,11 +284,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>4 Канал (RTI)</string>
+		<string>4 Канал</string>
 		<key>logo</key>
-		<string>RTI</string>
+		<string>4</string>
 		<key>link</key>
-		<string>https://4channel.com.ua/</string>
+		<string>https://www.youtube.com/c/4channel/videos?view=2&amp;live_view=501</string>
 		<key>http</key>
 		<string>https://4channel.com.ua/</string>
 	</dict>
@@ -278,9 +298,9 @@
 		<key>logo</key>
 		<string>televsesvit</string>
 		<key>link</key>
-		<string>http://www.televsesvit.ua/index.php/online</string>
+		<string>https://www.televsesvit.ua/live</string>
 		<key>http</key>
-		<string>http://www.televsesvit.ua/</string>
+		<string>https://www.televsesvit.ua/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -308,9 +328,9 @@
 		<key>logo</key>
 		<string>pravdatut</string>
 		<key>link</key>
-		<string>https://www.tut.media/online.html</string>
+		<string>https://pravdatut.ua/online</string>
 		<key>http</key>
-		<string>https://www.tut.media</string>
+		<string>https://pravdatut.ua</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -368,7 +388,7 @@
 		<key>logo</key>
 		<string>Reporte</string>
 		<key>link</key>
-		<string>http://reporter.od.ua/pryamoy-efir/</string>
+		<string>https://reporter.od.ua/pryamoy-efir/</string>
 		<key>http</key>
 		<string>http://live-tv.od.ua/tv/31chod/31chod.php?w=720&amp;h=576&amp;cnee&amp;a=0&amp;ff=0</string>
 	</dict>
@@ -378,9 +398,9 @@
 		<key>logo</key>
 		<string>volna</string>
 		<key>link</key>
-		<string>http://live-tv.od.ua/tv/wave/wave.php?w=720&amp;h=576&amp;cnee&amp;a=0&amp;ff=0</string>
+		<string>https://volnatv.com/live</string>
 		<key>http</key>
-		<string>https://volnatv.com/online-translyaciya.html</string>
+		<string>http://live-tv.od.ua/tv/wave/wave.php?w=720&amp;h=576&amp;cnee&amp;a=0&amp;ff=0</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -408,9 +428,9 @@
 		<key>logo</key>
 		<string>TPK</string>
 		<key>link</key>
-		<string>http://blackseatv.com/live/</string>
+		<string>https://blackseatv.com/live/</string>
 		<key>http</key>
-		<string>http://blackseatv.com</string>
+		<string>https://blackseatv.com</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -458,9 +478,9 @@
 		<key>logo</key>
 		<string>FBC</string>
 		<key>link</key>
-		<string>https://fbc.net.ua/tv/online_video/</string>
+		<string>https://fbc.ua/ru/tv/online_video/</string>
 		<key>http</key>
-		<string>https://fbc.net.ua</string>
+		<string>https://fbc.net.ua/tv/online_video/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -568,9 +588,9 @@
 		<key>logo</key>
 		<string>D1</string>
 		<key>link</key>
-		<string>https://d1.dp.ua/online/</string>
+		<string>https://d1.ua/online</string>
 		<key>http</key>
-		<string>https://d1.dp.ua</string>
+		<string>https://d1.ua</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -728,9 +748,9 @@
 		<key>logo</key>
 		<string>Krokus</string>
 		<key>link</key>
-		<string>https://www.krokus.tv/1522-prjamij-efr-telekanalu-krokus.html</string>
+		<string>https://krokus.tv/online.html</string>
 		<key>http</key>
-		<string>https://bc.krokus.tv/</string>
+		<string>https://krokus.tv/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -758,7 +778,7 @@
 		<key>logo</key>
 		<string>HTA</string>
 		<key>link</key>
-		<string>http://www.nta.ua/%d0%bd%d0%b0%d0%b6%d0%b8%d0%b2%d0%be/</string>
+		<string>https://www.nta.ua/nazhyvo/</string>
 		<key>http</key>
 		<string>http://www.nta.ua</string>
 	</dict>
@@ -781,16 +801,6 @@
 		<string>http://1zahid.com/online/</string>
 		<key>http</key>
 		<string>http://1zahid.com</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Перший Подільський</string>
-		<key>logo</key>
-		<string>1podil</string>
-		<key>link</key>
-		<string>https://www.youtube.com/c/%D0%9F%D0%B5%D1%80%D1%88%D0%B8%D0%B9%D0%9F%D0%BE%D0%B4%D1%96%D0%BB%D1%8C%D1%81%D1%8C%D0%BA%D0%B8%D0%B9/videos?view=2&amp;live_view=501</string>
-		<key>http</key>
-		<string>https://www.youtube.com/channel/UC-HlSzVsIkTw7mcH6rzxgsA</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -941,6 +951,148 @@
 		<string>http://www.tistv.news/live-tv/</string>
 		<key>http</key>
 		<string>http://www.tistv.news</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PULSE</string>
+		<key>logo</key>
+		<string>PULSE</string>
+		<key>link</key>
+		<string>http://pulsetv.com.ua/online</string>
+		<key>http</key>
+		<string>http://pulsetv.com.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TRAVEL GUIDE</string>
+		<key>logo</key>
+		<string>GUIDE</string>
+		<key>link</key>
+		<string>https://travel-guide.tv/online</string>
+		<key>http</key>
+		<string>https://travel-guide.tv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>BITA ТБ</string>
+		<key>logo</key>
+		<string>BITA</string>
+		<key>link</key>
+		<string>https://vitatv.com.ua/live</string>
+		<key>http</key>
+		<string>https://vitatv.com.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ITV</string>
+		<key>logo</key>
+		<string>ITV</string>
+		<key>link</key>
+		<string>https://itvmg.com/tv/</string>
+		<key>http</key>
+		<string>https://itvmg.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>СОЮЗ-TV</string>
+		<key>logo</key>
+		<string>COUZ</string>
+		<key>link</key>
+		<string>https://www.ctv.ua/onlajn-transljacija/</string>
+		<key>http</key>
+		<string>https://www.ctv.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Відкритий
+
+Відкритий</string>
+		<key>logo</key>
+		<string>vidkrytyy</string>
+		<key>link</key>
+		<string>https://opentv.media/online__trashed</string>
+		<key>http</key>
+		<string>https://opentv.media</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>PTV ПОЛТАВСЬКЕ</string>
+		<key>logo</key>
+		<string>PTV</string>
+		<key>link</key>
+		<string>https://poltavske.tv/translation</string>
+		<key>http</key>
+		<string>https://poltavske.tv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>ДніпроTV</string>
+		<key>logo</key>
+		<string>DniproTV</string>
+		<key>link</key>
+		<string>https://dnipro.tv/nazhyvo/</string>
+		<key>http</key>
+		<string>https://dnipro.tv</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Навігатор</string>
+		<key>logo</key>
+		<string>Navigator</string>
+		<key>link</key>
+		<string>https://www.navitv.net/player/</string>
+		<key>http</key>
+		<string>https://www.navitv.net</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Дім/Дом</string>
+		<key>logo</key>
+		<string>Dom</string>
+		<key>link</key>
+		<string>https://kanaldom.tv/live/</string>
+		<key>http</key>
+		<string>https://kanaldom.tv/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Донеччина TV (ДTV)</string>
+		<key>logo</key>
+		<string>DTV</string>
+		<key>link</key>
+		<string>https://www.dtv.dn.ua/dtv-online/</string>
+		<key>http</key>
+		<string>https://www.dtv.dn.ua</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Антена</string>
+		<key>logo</key>
+		<string>Antena</string>
+		<key>link</key>
+		<string>https://antenna.com.ua/</string>
+		<key>http</key>
+		<string>https://antenna.com.ua/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Izmail-TV</string>
+		<key>logo</key>
+		<string>Izmail-TV</string>
+		<key>link</key>
+		<string>http://www.izmailtv.com/</string>
+		<key>http</key>
+		<string>http://www.izmailtv.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>УНТ</string>
+		<key>logo</key>
+		<string>UNT</string>
+		<key>link</key>
+		<string>https://www.unt.ua/</string>
+		<key>http</key>
+		<string>https://www.unt.ua/</string>
 	</dict>
 	<dict>
 		<key>name</key>
