@@ -35,12 +35,156 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
    {
-      "name":"Tolo News",
-      "logo":"Tolo",
-      "link":"https:\/\/www.tolonews.com\/index.php\/live",
-      "http":"https:\/\/www.youtube.com\/user\/TOLOnewsLive\/videos?view=2&live_view=501&flow=grid"
+      "name": "RTP Internacional",
+      "logo": "RTP",
+      "link": "http://www.rtp.pt/play/direto/rtpinternacional",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "RTP 1",
+      "logo": "RTP1",
+      "link": "http://www.rtp.pt/play/direto/rtp1",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "RTP 2",
+      "logo": "RTP2",
+      "link": "http://www.rtp.pt/play/direto/rtp2",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "RTP 3",
+      "logo": "RTP3",
+      "link": "http://www.rtp.pt/play/direto/rtp3",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "RTP Memória",
+      "logo": "Memoria",
+      "link": "http://www.rtp.pt/play/direto/rtpmemoria",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "RTP Madeira",
+      "logo": "Madeira",
+      "link": "http://www.rtp.pt/play/direto/rtpmadeira",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "RTP Açores",
+      "logo": "Azores",
+      "link": "http://www.rtp.pt/play/direto/rtpacores",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "RTP África",
+      "logo": "Africa",
+      "link": "http://www.rtp.pt/play/direto/rtpafrica",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "Zig Zag",
+      "logo": "Zag",
+      "link": "https://www.rtp.pt/play/zigzag/direto/tv",
+      "http": "https://www.rtp.pt/play/direto"
+   },
+   {
+      "name": "TVI",
+      "logo": "TVI",
+      "link": "http://tviplayer.iol.pt/direto/TVI",
+      "http": "http://tviplayer.iol.pt/direto"
+   },
+   {
+      "name": "TVI24",
+      "logo": "TVI24",
+      "link": "http://tviplayer.iol.pt/direto/TVI24",
+      "http": "http://www.tvi24.iol.pt/direto"
+   },
+   {
+      "name": "ARTV Canal Parlamento",
+      "logo": "ARTV",
+      "link": "http://www.canal.parlamento.pt/?chid=18&title=emissao-linear",
+      "http": "http://www.canal.parlamento.pt/"
+   },
+   {
+      "name": "Euronews Português",
+      "logo": "Euronews",
+      "link": "http://pt.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewspt/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name": "TVL",
+      "logo": "TVL",
+      "link": "http://tvl.pt/live/",
+      "http": "http://tvl.pt/"
+   },
+   {
+      "name": "Fátima Shrine",
+      "logo": "Shrine",
+      "link": "https://en.vivefatima.com/tv-fatima/channel/capelinha",
+      "http": "https://en.vivefatima.com/tv-fatima"
+   },
+   {
+      "name": "Paróquia de Fátima",
+      "logo": "Paroquia",
+      "link": "https://en.vivefatima.com/tv-fatima/channel/paroquia",
+      "http": "https://en.vivefatima.com/tv-fatima"
+   },
+   {
+      "name": "Canção Nova Portugal",
+      "logo": "Nova",
+      "link": "http://tv.cancaonova.pt/",
+      "http": "http://tv.cancaonova.pt/"
+   },
+   {
+      "name": "Igreja Online",
+      "logo": "Igreja",
+      "link": "http://www.igreja-online.tv/?qualidade=Med",
+      "http": "http://www.igreja-online.tv/"
+   },
+   {
+      "name": "Maná 1",
+      "logo": "Mana",
+      "link": "http://tvmana1.com/index.php?opTv=1",
+      "http": "http://tvmana1.com"
+   },
+   {
+      "name": "Basta Crer",
+      "logo": "Crer",
+      "link": "http://www.manasat.com/immediaplayer.php?channel=bastacrer",
+      "http": "http://manasat.com/mm1/index.html"
+   },
+   {
+      "name": "Maná Brasil",
+      "logo": "Brasil",
+      "link": "http://www.manasat.com/immediaplayer.php?channel=tvbm",
+      "http": "http://manasat.com/mm1/index.html"
+   },
+   {
+      "name": "Maná Maputo",
+      "logo": "Maputo",
+      "link": "http://www.manasat.com/immediaplayer.php?channel=tvmzmed",
+      "http": "http://manasat.com/mm1/index.html"
+   },
+   {
+      "name": "Bloomberg TV Europe",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "EbS Europe by Satellite",
+      "logo": "EbS",
+      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
    }
 ]
 }

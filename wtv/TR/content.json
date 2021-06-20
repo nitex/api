@@ -35,12 +35,1164 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
    {
-      "name":"Tolo News",
-      "logo":"Tolo",
-      "link":"https:\/\/www.tolonews.com\/index.php\/live",
-      "http":"https:\/\/www.youtube.com\/user\/TOLOnewsLive\/videos?view=2&live_view=501&flow=grid"
+      "name": "Show",
+      "logo": "Show1",
+      "link": "http://www.showtv.com.tr/canli-yayin",
+      "http": "http://www.showtv.com.tr/canli-yayin/showtv"
+   },
+   {
+      "name": "Show Türk",
+      "logo": "Show2",
+      "link": "http://www.showturk.com.tr/canli-yayin/showturk",
+      "http": "http://www.showtv.com.tr/canli-yayin/showturk"
+   },
+   {
+      "name": "Beyaz",
+      "logo": "Beyaz",
+      "link": "http://www.beyaztv.com.tr/canli-yayin/",
+      "http": "http://www.beyaztv.com.tr"
+   },
+   {
+      "name": "Fox",
+      "logo": "Fox",
+      "link": "http://www.fox.com.tr/canli-yayin",
+      "http": "http://www.fox.com.tr"
+   },
+   {
+      "name": "Kanal 7",
+      "logo": "7",
+      "link": "http://www.kanal7.com/canli-izle",
+      "http": "http://www.kanal7.com"
+   },
+   {
+      "name": "Ülke",
+      "logo": "Ulke",
+      "link": "http://www.ulketv.com.tr/canli-yayin",
+      "http": "http://www.ulketv.com.tr"
+   },
+   {
+      "name": "Cem",
+      "logo": "Cem",
+      "link": "http://www.cemtv.com.tr/cemtvcanli.html",
+      "http": "http://www.cemtv.com.tr/#"
+   },
+   {
+      "name": "Tek Rumeli",
+      "logo": "Tek",
+      "link": "http://www.tekrumelitv.com/canli_yayin.php",
+      "http": "http://www.tekrumelitv.com"
+   },
+   {
+      "name": "Kanal B",
+      "logo": "B",
+      "link": "http://www.kanalb.com.tr/canli.php",
+      "http": "http://www.kanalb.com.tr"
+   },
+   {
+      "name": "Vizyon Türk",
+      "logo": "Vizyon",
+      "link": "http://www.vizyonturk.com.tr/canli-yayin.html",
+      "http": "http://www.vizyonturk.com.tr/"
+   },
+   {
+      "name": "Meltem",
+      "logo": "Meltem",
+      "link": "http://www.meltemtv.com.tr/?pages,1815/canli-yayin",
+      "http": "http://www.meltemtv.com.tr"
+   },
+   {
+      "name": "Kadirga",
+      "logo": "Kadirga",
+      "link": "http://www.kadirga.com.tr/?page_id=77",
+      "http": "http://www.kadirga.com.tr"
+   },
+   {
+      "name": "Köy",
+      "logo": "Koy",
+      "link": "http://www.koytv.tv/canli-yayin",
+      "http": "http://www.koytv.tv"
+   },
+   {
+      "name": "Mesaj",
+      "logo": "Mesaj",
+      "link": "http://www.mesajtv.com.tr/index-canl%C4%B1.html",
+      "http": "http://www.mesajtv.com.tr"
+   },
+   {
+      "name": "Sihhat",
+      "logo": "Sihhat",
+      "link": "http://www.sihhattv.com/canli-yayin.html",
+      "http": "http://www.sihhattv.com"
+   },
+   {
+      "name": "Türkmeneli",
+      "logo": "Turkmeneli",
+      "link": "http://www.turkmenelitv.com/v1/index.php?option=com_content&view=article&id=10016&Itemid=298",
+      "http": "http://www.turkmenelitv.com"
+   },
+   {
+      "name": "TV5",
+      "logo": "TV5",
+      "link": "http://www.tv5.com.tr/tv.php",
+      "http": "http://www.tv5.com.tr"
+   },
+   {
+      "name": "Flash",
+      "logo": "Flash",
+      "link": "http://www.flashtv.com.tr/canli_yayin.html",
+      "http": "http://www.flashtv.com.tr"
+   },
+   {
+      "name": "TEVE2",
+      "logo": "TEVE2",
+      "link": "https://www.teve2.com.tr/canli-yayin",
+      "http": "https://www.teve2.com.tr"
+   },
+   {
+      "name": "Akilli",
+      "logo": "Akilli",
+      "link": "http://akilli.tv/live",
+      "http": "http://akilli.tv"
+   },
+   {
+      "name": "Planet Çocuk",
+      "logo": "Planet",
+      "link": "http://www.planetler.com/cocuk_canli.aspx",
+      "http": "http://www.planetler.com"
+   },
+   {
+      "name": "Planet Mutfak",
+      "logo": "Mutfak",
+      "link": "http://www.planetler.com/mutfak_canli.aspx",
+      "http": "http://www.planetler.com"
+   },
+   {
+      "name": "Number1",
+      "logo": "Number",
+      "link": "https://www.numberone.com.tr/canli/tv/nr1-tv-canli-yayin/",
+      "http": "https://www.numberone.com.tr/nr1-tv-canli-yayin/"
+   },
+   {
+      "name": "Number1 Türk",
+      "logo": "Number1",
+      "link": "https://www.numberone.com.tr/nr1-turk-tv-canli-yayin/",
+      "http": "https://www.numberone.com.tr"
+   },
+   {
+      "name": "Fashion One",
+      "logo": "Fashion",
+      "link": "https://www.numberone.com.tr/fashionone-tv-canli-yayin/",
+      "http": "https://www.numberone.com.tr"
+   },
+   {
+      "name": "TMB",
+      "logo": "TMB",
+      "link": "http://www.tmb.tv/canli-yayin.html",
+      "http": "http://www.tmb.tv"
+   },
+   {
+      "name": "Vatan",
+      "logo": "Vatan",
+      "link": "http://vatantv.com.tr/",
+      "http": "http://vatantv.com.tr/"
+   },
+   {
+      "name": "Genç",
+      "logo": "GEN",
+      "link": "http://genctv.tv/canli-yayin/",
+      "http": "http://genctv.tv"
+   },
+   {
+      "name": "Bloomberg HT",
+      "logo": "HT",
+      "link": "http://www.bloomberght.com/tv",
+      "http": "http://www.bloomberght.com"
+   },
+   {
+      "name": "Bloomberg Asia",
+      "logo": "bloomberg",
+      "link": "http://www.bloomberg.com/live/asia",
+      "http": "http://www.bloomberg.com/"
+   },
+   {
+      "name": "Bengütürk",
+      "logo": "Benguturk",
+      "link": "http://benguturk.com/canli.php",
+      "http": "http://benguturk.com"
+   },
+   {
+      "name": "TVNET",
+      "logo": "TVNET",
+      "link": "http://www.tvnet.com.tr/canli-yayin",
+      "http": "https://www.youtube.com/user/tvnethaber/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Euronews Türkçe",
+      "logo": "Euronews",
+      "link": "http://tr.euronews.com/live",
+      "http": "http://tr.euronews.com"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   },
+   {
+      "name": "TV10",
+      "logo": "TV10",
+      "link": "http://www.tv10.com.tr/canli-yayin/",
+      "http": "http://www.tv-10.biz/"
+   },
+   {
+      "name": "Ulusal",
+      "logo": "Ulusal",
+      "link": "http://www.ulusal.com.tr/canliyayin/canliyayin.php",
+      "http": "https://www.youtube.com/ulusalkanaltv/live"
+   },
+   {
+      "name": "Al Fallujah قناة الفلوجة",
+      "logo": "Fallujah",
+      "link": "http://www.alfallujah.tv/live-streaming",
+      "http": "http://www.alfallujah.tv"
+   },
+   {
+      "name": "Beykent",
+      "logo": "Beykent",
+      "link": "http://www.beykenttv.com.tr/canli-yayin",
+      "http": "http://www.beykenttv.com.tr"
+   },
+   {
+      "name": "Yaban",
+      "logo": "Yaban",
+      "link": "http://www.yabantv.com/Video/Canli-izle",
+      "http": "http://www.yabantv.com"
+   },
+   {
+      "name": "World Travel",
+      "logo": "Travel",
+      "link": "http://worldtravelchannel.com.tr/WebTv/E-1060/Ne-Guzel-Yerler---Kibris",
+      "http": "http://worldtravelchannel.com.tr/Canli-Yayin"
+   },
+   {
+      "name": "Dügün",
+      "logo": "Dugun",
+      "link": "http://dugun.tv/",
+      "http": "http://dugun.tv/"
+   },
+   {
+      "name": "Business Channel Türk",
+      "logo": "Business",
+      "link": "http://www.businesschannelturk.com/canli-yayin",
+      "http": "https://www.youtube.com/channel/UCYgihYMo0a_TDsv6ARgyV7A/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "SportsTV",
+      "logo": "SportsTV",
+      "link": "http://www.sportstv.com.tr/canli-yayin/",
+      "http": "http://www.sportstv.com.tr"
+   },
+   {
+      "name": "TJK Türkiye Jokey Kulübü",
+      "logo": "TJK",
+      "link": "http://www.tjk.org/TR/YarisSever/Static/Page/Canli",
+      "http": "http://www.tjk.org"
+   },
+   {
+      "name": "Tivibu Spor",
+      "logo": "Tivibu",
+      "link": "http://www.tivibuspor.com.tr/canli-yayin",
+      "http": "http://www.tivibuspor.com.tr/"
+   },
+   {
+      "name": "Fenerbahçe",
+      "logo": "Fenerbahce",
+      "link": "http://www.fenerbahce.org/fbtv/index.asp",
+      "http": "http://www.fenerbahce.org"
+   },
+   {
+      "name": "Galatasaray",
+      "logo": "Galatasaray",
+      "link": "http://www.galatasaray.com/",
+      "http": "https://www.youtube.com/user/2galatasaray/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Bursaspor",
+      "logo": "Bursaspor",
+      "link": "http://www.bursasportv.com/canli-yayin/",
+      "http": "http://www.bursasportv.com"
+   },
+   {
+      "name": "Bereket",
+      "logo": "Bereket",
+      "link": "http://www.bereket.tv/watch",
+      "http": "http://www.bereket.tv"
+   },
+   {
+      "name": "Expo Channel",
+      "logo": "Expo",
+      "link": "http://expochanneltv.com/canliyayin.html",
+      "http": "http://expochanneltv.com"
+   },
+   {
+      "name": "2000",
+      "logo": "2000",
+      "link": "http://www.tv2000.com.tr/",
+      "http": "http://www.tv2000.com.tr/"
+   },
+   {
+      "name": "A9 Televizyonu",
+      "logo": "A9",
+      "link": "http://www.a9.com.tr/live",
+      "http": "http://www.a9hd.com/"
+   },
+   {
+      "name": "Hilal",
+      "logo": "Hilal",
+      "link": "http://www.hilaltv.org/canliyayin.php",
+      "http": "https://www.youtube.com/user/hilaltelevizyonu/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Kudüs",
+      "logo": "Kudus",
+      "link": "http://www.kudustv.com/canli.php",
+      "http": "http://www.kudustv.com"
+   },
+   {
+      "name": "Dost",
+      "logo": "Dost",
+      "link": "http://www.dosttv.com/dost-tv-canli-yayin/",
+      "http": "http://www.dosttv.com/dost-tv-canli-yayin/dost-tv-canli-yayin/"
+   },
+   {
+      "name": "Barış",
+      "logo": "Bar",
+      "link": "http://www.baristv.com/page.php?p=3",
+      "http": "http://www.baristv.com"
+   },
+   {
+      "name": "Rehber",
+      "logo": "Rehber",
+      "link": "http://www.rehbertv.com.tr/cyayin.php",
+      "http": "http://www.rehbertv.com.tr"
+   },
+   {
+      "name": "MPL",
+      "logo": "MPL",
+      "link": "http://www.mpl.com.tr/",
+      "http": "https://www.mpl.tv.tr/"
+   },
+   {
+      "name": "NUR",
+      "logo": "NUR",
+      "link": "http://nurtv.tv/",
+      "http": "http://www.mpl.com.tr/"
+   },
+   {
+      "name": "DRT Denizli",
+      "logo": "DRT",
+      "link": "http://www.drttv.com.tr/canli-yayin/",
+      "http": "http://www.drttv.com.tr/"
+   },
+   {
+      "name": "Pamukkale",
+      "logo": "Pamukkale",
+      "link": "http://www.pamukkaletv.com/",
+      "http": "http://www.pamukkaletv.com/"
+   },
+   {
+      "name": "Ege",
+      "logo": "Ege",
+      "link": "http://ege.egetv.com.tr/",
+      "http": "http://ege.egetv.com.tr/"
+   },
+   {
+      "name": "Sky",
+      "logo": "Sk",
+      "link": "http://www.skytv.com.tr/",
+      "http": "http://www.skytv.com.tr/"
+   },
+   {
+      "name": "Kordon",
+      "logo": "Kordon",
+      "link": "http://www.kordontv.com/",
+      "http": "http://www.kordontv.com/"
+   },
+   {
+      "name": "FRM",
+      "logo": "FRM",
+      "link": "http://www.frmtv.com/",
+      "http": "http://www.frmtv.com/"
+   },
+   {
+      "name": "CRT",
+      "logo": "CRT",
+      "link": "http://corumradyotelevizyonu.com/YayinIzle/",
+      "http": "http://corumradyotelevizyonu.com/"
+   },
+   {
+      "name": "Kanal 19",
+      "logo": "19",
+      "link": "http://www.kanal19tv.com/",
+      "http": "http://www.kanal19tv.com/"
+   },
+   {
+      "name": "Öncü RTV",
+      "logo": "RTV",
+      "link": "http://www.oncurtv.com/oncu-tv-izle-s94817.html",
+      "http": "http://www.oncurtv.com"
+   },
+   {
+      "name": "52",
+      "logo": "52",
+      "link": "http://www.tv52.com.tr/canli-yayin/",
+      "http": "http://www.tv52.com.tr"
+   },
+   {
+      "name": "Cay",
+      "logo": "Cay",
+      "link": "http://www.caytv.com.tr/canli-yayin",
+      "http": "http://www.caytv.com.tr"
+   },
+   {
+      "name": "Kaçkar Karadeniz",
+      "logo": "Karadeniz",
+      "link": "http://www.kackartv.com.tr/s/canliseyret-33.html",
+      "http": "http://www.kackartv.com.tr"
+   },
+   {
+      "name": "Gelişim",
+      "logo": "Gelisim",
+      "link": "http://www.gelisimtv.com.tr/gelisim-tv-canli-yayin-video,36.html",
+      "http": "http://www.gelisimtv.com.tr"
+   },
+   {
+      "name": "Sinop Yıldız",
+      "logo": "Sinop",
+      "link": "http://sinopyildiz.tv/",
+      "http": "http://sinopyildiz.tv/"
+   },
+   {
+      "name": "Zigana",
+      "logo": "Zigana",
+      "link": "http://www.ziganatv.com/canliyayin.aspx",
+      "http": "http://www.ziganatv.com"
+   },
+   {
+      "name": "Kanal Z (67)",
+      "logo": "Z",
+      "link": "http://www.kanalz.com.tr/canli.php",
+      "http": "http://www.kanalz.com.tr"
+   },
+   {
+      "name": "Kanal 68",
+      "logo": "68",
+      "link": "http://www.kanal68.com/",
+      "http": "http://www.kanal68.com/"
+   },
+   {
+      "name": "Kanal 26",
+      "logo": "26",
+      "link": "http://www.kanal26.tv/canli-yayin.html",
+      "http": "http://www.kanal26.tv"
+   },
+   {
+      "name": "Eskişehir Televizyonu",
+      "logo": "Televizyonu",
+      "link": "http://estv.com.tr/pages.asp?id=2",
+      "http": "http://estv.com.tr/pages.asp?id=2#livetv"
+   },
+   {
+      "name": "Kay",
+      "logo": "Kay",
+      "link": "http://www.kaytv.com.tr/",
+      "http": "http://www.kaytv.com.tr/"
+   },
+   {
+      "name": "Kayseri",
+      "logo": "Kayseri",
+      "link": "http://www.tvkayseri.com.tr/site/",
+      "http": "http://tvkayseri.com.tr/site/"
+   },
+   {
+      "name": "Kanal 38",
+      "logo": "38",
+      "link": "http://www.kanal38.com/",
+      "http": "http://www.kanal38.com/"
+   },
+   {
+      "name": "Ahi",
+      "logo": "Ahi",
+      "link": "http://www.ahitv.com.tr/",
+      "http": "http://www.ahitv.com.tr/"
+   },
+   {
+      "name": "ERT",
+      "logo": "ERT",
+      "link": "http://www.ertajans.net/ert-canli-izle/",
+      "http": "http://www.ertajans.net"
+   },
+   {
+      "name": "Kon",
+      "logo": "Kon",
+      "link": "http://www.kontv.com.tr/canliyayin",
+      "http": "http://www.kontv.com.tr"
+   },
+   {
+      "name": "SRT Sivas",
+      "logo": "SRT",
+      "link": "http://www.sivassrt.com/sivas-srt-canli-yayin/",
+      "http": "http://www.sivassrt.com/srt-alternatif-yayin/"
+   },
+   {
+      "name": "58",
+      "logo": "58",
+      "link": "http://tv58.com.tr/2017/06/03/canli-yayin/",
+      "http": "http://tv58.com.tr"
+   },
+   {
+      "name": "23",
+      "logo": "23",
+      "link": "http://www.kanal23.com/yayin.htm",
+      "http": "http://www.kanal23.com"
+   },
+   {
+      "name": "Kardelen",
+      "logo": "Kardelen",
+      "link": "http://kardelentv.com.tr/kardelen-tv-canli-izle/",
+      "http": "http://kardelentv.com.tr"
+   },
+   {
+      "name": "Malatya",
+      "logo": "Malatya",
+      "link": "http://www.malatyatv.com/canli-yayin/",
+      "http": "http://www.malatyatv.com"
+   },
+   {
+      "name": "Malatya ERTV",
+      "logo": "ERTV",
+      "link": "http://www.malatyaertv.com/pages/ertv-canli-yayin.html",
+      "http": "http://www.malatyaertv.com"
+   },
+   {
+      "name": "Olay",
+      "logo": "Olay",
+      "link": "http://www.olaytv.com.tr/canli-yayin",
+      "http": "http://www.olaytv.com.tr"
+   },
+   {
+      "name": "Line",
+      "logo": "Line",
+      "link": "http://linetv.com.tr/canli-yayin/",
+      "http": "http://linetv.com.tr"
+   },
+   {
+      "name": "Bursa",
+      "logo": "Bursa",
+      "link": "http://www.bursatv.com.tr/bursa-tv-canli-yayin-video,1.html",
+      "http": "http://www.bursatv.com.tr"
+   },
+   {
+      "name": "16 İnegöl",
+      "logo": "16",
+      "link": "http://www.kanal16haber.com/canliyayin/",
+      "http": "http://www.kanal16haber.com"
+   },
+   {
+      "name": "Edirne",
+      "logo": "Edirne",
+      "link": "http://www.edirnetv.com/canliyayin/",
+      "http": "http://www.edirnetv.com"
+   },
+   {
+      "name": "Mavi Karadeniz",
+      "logo": "Mavi",
+      "link": "http://www.mavikaradeniztv.com.tr/?&Bid=1148971&/Canl%C4%B1-%C4%B0zle",
+      "http": "http://www.mavikaradeniztv.com.tr"
+   },
+   {
+      "name": "41",
+      "logo": "41",
+      "link": "http://www.taksimbilisim.com/tv41player/",
+      "http": "http://www.tv41.com.tr/"
+   },
+   {
+      "name": "Kocaeli",
+      "logo": "Kocaeli",
+      "link": "http://www.kocaelitv.com.tr/canli.php",
+      "http": "http://www.kocaelitv.com.tr/"
+   },
+   {
+      "name": "54",
+      "logo": "54",
+      "link": "http://www.kanal54.com.tr/",
+      "http": "http://www.kanal54.com.tr/"
+   },
+   {
+      "name": "Adana",
+      "logo": "Adana",
+      "link": "http://www.adanatv.tv/canliyayin",
+      "http": "http://www.adanatv.tv"
+   },
+   {
+      "name": "V",
+      "logo": "V",
+      "link": "http://www.kanalv.com.tr/canli-yayin",
+      "http": "http://www.kanalv.com.tr"
+   },
+   {
+      "name": "32",
+      "logo": "32",
+      "link": "http://www.kanal32.com.tr/canli.php",
+      "http": "http://www.kanal32.com.tr"
+   },
+   {
+      "name": "33",
+      "logo": "33",
+      "link": "http://www.kanal33.com.tr/",
+      "http": "http://sr1.netmedya.org:1935/kanal-33/live.sdp/playlist.m3u8"
+   },
+   {
+      "name": "MSBC 2000",
+      "logo": "MSBC",
+      "link": "http://kanal2000.com.tr/",
+      "http": "http://kanal2000.com.tr/"
+   },
+   {
+      "name": "Sun RTV",
+      "logo": "Sun",
+      "link": "http://sunrtv.com/yayin/suntv.htm",
+      "http": "http://sunrtv.com/"
+   },
+   {
+      "name": "Uzay",
+      "logo": "Uzay",
+      "link": "http://www.uzaytv.net/canli-yayin.html",
+      "http": "http://www.uzaytv.net"
+   },
+   {
+      "name": "5",
+      "logo": "5",
+      "link": "http://www.kanal5.com.tr/canli-yayin/",
+      "http": "https://www.youtube.com/channel/UCkakUKBbeyISyAdksF8W49Q/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Gaziantep Olay",
+      "logo": "Gaziantep",
+      "link": "http://gaziantepolay.com/#",
+      "http": "http://gaziantepolay.com"
+   },
+   {
+      "name": "56",
+      "logo": "56",
+      "link": "http://kanal56.net/canli-yayin/",
+      "http": "http://kanal56.net"
+   },
+   {
+      "name": "Urfa",
+      "logo": "Urfa",
+      "link": "http://www.kanalurfa.com/webtv/",
+      "http": "http://www.kanalurfa.com"
+   },
+   {
+      "name": "Güneydoğu",
+      "logo": "GTV",
+      "link": "http://www.taksimbilisim.com/gtvplayer/",
+      "http": "http://www.guneydogutv.com/"
+   },
+   {
+      "name": "Çiftçi",
+      "logo": "Ciftci",
+      "link": "https://www.ciftcitv.com/ciftci-tv-canli-izle",
+      "http": "https://www.ciftcitv.com"
+   },
+   {
+      "name": "Tarım",
+      "logo": "Tarim",
+      "link": "http://www.tarimtv.gov.tr/",
+      "http": "http://www.tarimtv.gov.tr/"
+   },
+   {
+      "name": "Lâlegül",
+      "logo": "Lalegul",
+      "link": "http://www.lalegultv.com.tr/canli-yayin",
+      "http": "https://www.youtube.com/channel/UC4oXxmnXX0EMlDCm18X2szw/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "Semerkand",
+      "logo": "Semerkand",
+      "link": "http://www.semerkandtv.com.tr/canli-yayin",
+      "http": "https://www.youtube.com/user/SemerkandTv/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "Motoryat",
+      "logo": "Motoryat",
+      "link": "http://yat.tv/",
+      "http": "http://yat.tv/"
+   },
+   {
+      "name": "Hekim Turk",
+      "logo": "Hekim",
+      "link": "http://www.hekimturktv.com/canli-izle",
+      "http": "http://www.hekimturktv.com"
+   },
+   {
+      "name": "Akit",
+      "logo": "Akit",
+      "link": "http://www.akittv.com.tr/canli-izle",
+      "http": "http://www.akittv.com.tr"
+   },
+   {
+      "name": "Uçankuş",
+      "logo": "Ucankus",
+      "link": "http://www.ucankus.com/tv",
+      "http": "http://www.ucankus.com"
+   },
+   {
+      "name": "Ben",
+      "logo": "Ben",
+      "link": "http://www.kanalben.com/",
+      "http": "http://www.kanalben.com/"
+   },
+   {
+      "name": "AV",
+      "logo": "AV",
+      "link": "http://avtv.com.tr/canli-izle",
+      "http": "http://avtv.com.tr"
+   },
+   {
+      "name": "Medeniyet",
+      "logo": "Medeniyet",
+      "link": "http://www.medeniyettv.com/",
+      "http": "http://birlikder.org/"
+   },
+   {
+      "name": "Biat",
+      "logo": "Biat",
+      "link": "http://www.biat.tv/canli/",
+      "http": "http://www.biat.tv"
+   },
+   {
+      "name": "Vizyon 58",
+      "logo": "Vizyon58",
+      "link": "http://www.vizyon58.com/vizyon-58-canli-yayin/",
+      "http": "http://www.vizyon58.com/"
+   },
+   {
+      "name": "19",
+      "logo": "1",
+      "link": "http://tv19.com.tr/sayfa/8/canliyayin",
+      "http": "http://tv19.com.tr"
+   },
+   {
+      "name": "A. Vuslat",
+      "logo": "Vuslat",
+      "link": "http://www.canlitv.com/embed/?id=11660%20w=604&h=453&style=4",
+      "http": "http://www.vuslat.tv/"
+   },
+   {
+      "name": "AS",
+      "logo": "AS",
+      "link": "astv.com.tr",
+      "http": "astv.com.tr"
+   },
+   {
+      "name": "Düzce",
+      "logo": "Duzce",
+      "link": "http://www.duzcetv.com/canliyayin.html",
+      "http": "http://www.duzcetv.com"
+   },
+   {
+      "name": "Aksu",
+      "logo": "Aksu",
+      "link": "http://aksutv.com.tr/tr-tr/alt-sayfalar/133/canli-yayin",
+      "http": "http://aksutv.com.tr"
+   },
+   {
+      "name": "AGD",
+      "logo": "AGD",
+      "link": "http://agdtv.net/",
+      "http": "http://agdtv.net/"
+   },
+   {
+      "name": "Güneş",
+      "logo": "Gunes",
+      "link": "http://gunestv.com/canliyayin.asp",
+      "http": "http://gunestv.com"
+   },
+   {
+      "name": "Haber 61",
+      "logo": "61",
+      "link": "https://www.haber61.net/haber61-tv-trabzon-daki-gozunuz-canli-yayin-video,251.html",
+      "http": "https://www.haber61.net"
+   },
+   {
+      "name": "Abant",
+      "logo": "Abant",
+      "link": "http://abanttv.com.tr/canli-yayin.aspx",
+      "http": "http://abanttv.com.tr"
+   },
+   {
+      "name": "Halis",
+      "logo": "Halis",
+      "link": "http://www.halistv.com/halis-tv-canli-yayin-izle/",
+      "http": "http://www.halistv.com"
+   },
+   {
+      "name": "BRTV",
+      "logo": "BRTV",
+      "link": "http://www.brtv.com.tr/canlit/",
+      "http": "http://www.brtv.com.tr/"
+   },
+   {
+      "name": "Best",
+      "logo": "Best",
+      "link": "http://besttv.com.tr/",
+      "http": "http://besttv.com.tr/"
+   },
+   {
+      "name": "43",
+      "logo": "43",
+      "link": "http://43.com.tr/",
+      "http": "http://43.com.tr/"
+   },
+   {
+      "name": "TV100",
+      "logo": "100",
+      "link": "http://tv100.com.tr/canliyayin.php",
+      "http": "http://tv100.com.tr/canliyayin.php"
+   },
+   {
+      "name": "Erciyes",
+      "logo": "Erciyes",
+      "link": "http://erciyestv.com.tr/",
+      "http": "http://erciyestv.com.tr/"
+   },
+   {
+      "name": "KOZA",
+      "logo": "KOZA",
+      "link": "http://www.kozahaber.net/canli-yayin/",
+      "http": "http://www.kozahaber.net"
+   },
+   {
+      "name": "Çınar",
+      "logo": "Cinar",
+      "link": "http://www.cinartv.com/canliyayin/",
+      "http": "http://www.cinartv.com"
+   },
+   {
+      "name": "AJANS ÜNTV",
+      "logo": "AJANS",
+      "link": "http://www.ajansuntv.selcuk.edu.tr/index.php/canliyayinizle/",
+      "http": "http://www.ajansuntv.selcuk.edu.tr"
+   },
+   {
+      "name": "Art",
+      "logo": "Art",
+      "link": "http://www.denizliart.net/",
+      "http": "http://www.denizliart.net/"
+   },
+   {
+      "name": "DEHA",
+      "logo": "DEHA",
+      "link": "http://www.dehatv.com.tr/",
+      "http": "http://www.kentdeha.com.tr/dehatv"
+   },
+   {
+      "name": "34",
+      "logo": "34",
+      "link": "http://kanal34.com.tr/",
+      "http": "http://kanal34.com.tr/"
+   },
+   {
+      "name": "78",
+      "logo": "78",
+      "link": "http://www.kanal78.com.tr/",
+      "http": "http://www.kanal78.com.tr/"
+   },
+   {
+      "name": "FRTV",
+      "logo": "FRTV",
+      "link": "http://taksimbilisim.com/frttv.html",
+      "http": "http://www.gercekfethiye.com/"
+   },
+   {
+      "name": "Güney",
+      "logo": "Guney",
+      "link": "http://www.guneytv.com.tr/canli-izle.html",
+      "http": "http://www.guneytv.com.tr/"
+   },
+   {
+      "name": "Gazetegez",
+      "logo": "Gazetegez",
+      "link": "http://www.gazetegez.net/",
+      "http": "http://www.gazetegez.net/"
+   },
+   {
+      "name": "KANAL E",
+      "logo": "E",
+      "link": "http://kanaletv.com.tr/canlizle.aspx",
+      "http": "http://kanaletv.com.tr"
+   },
+   {
+      "name": "CAN 24 ERZİNCAN",
+      "logo": "CAN",
+      "link": "http://cantv.com.tr/canliyayin.asp",
+      "http": "http://cantv.com.tr"
+   },
+   {
+      "name": "Kent",
+      "logo": "Kent",
+      "link": "http://kenttv.web.tv/",
+      "http": "http://kenttv.net/"
+   },
+   {
+      "name": "HRT Akdeniz",
+      "logo": "HRT",
+      "link": "https://www.hrtakdeniz.com/canli-yayin/",
+      "http": "https://www.hrtakdeniz.com"
+   },
+   {
+      "name": "27",
+      "logo": "27",
+      "link": "http://kanal27tv.com/",
+      "http": "http://kanal27tv.com/"
+   },
+   {
+      "name": "21",
+      "logo": "21",
+      "link": "http://tv21.com.tr/",
+      "http": "http://tv21.com.tr/"
+   },
+   {
+      "name": "Duru",
+      "logo": "Duru",
+      "link": "http://durutv.com.tr/web-tv/",
+      "http": "http://durutv.com.tr"
+   },
+   {
+      "name": "Ege Türk",
+      "logo": "Eg",
+      "link": "http://www.egeturktv.com/canli-yayin/",
+      "http": "http://www.egeturktv.com"
+   },
+   {
+      "name": "Toprak",
+      "logo": "Toprak",
+      "link": "http://www.topraktv.com.tr/canli",
+      "http": "http://www.topraktv.com.tr"
+   },
+   {
+      "name": "Ordu Altaş",
+      "logo": "Ordu",
+      "link": "http://www.altastv.com.tr/canli/",
+      "http": "http://www.altastv.com.tr"
+   },
+   {
+      "name": "METRO",
+      "logo": "METRO",
+      "link": "http://www.metrotelevizyonu.com/Sayfa/13/Canl%C4%B1%20Yay%C4%B1n",
+      "http": "http://www.metrotelevizyonu.com/Sayfa/13/Canl%C4%B1%20Yay%C4%B1n#.WWN3L9OLTYI"
+   },
+   {
+      "name": "Makine",
+      "logo": "Makine",
+      "link": "http://www.makinetv.net/",
+      "http": "http://www.makinetv.net/"
+   },
+   {
+      "name": "Kadirlim",
+      "logo": "Kadirlim",
+      "link": "http://www.kadirlimtv.com/ekran.php",
+      "http": "http://www.kadirlimtv.com"
+   },
+   {
+      "name": "Mus",
+      "logo": "Mus",
+      "link": "http://www.mustv.com.tr/",
+      "http": "http://www.mustv.com.tr/"
+   },
+   {
+      "name": "Turizm",
+      "logo": "Turizm",
+      "link": "http://www.turizmtv.tv/",
+      "http": "http://www.turizmtv.tv/"
+   },
+   {
+      "name": "Gazete Uzay",
+      "logo": "Gazete",
+      "link": "http://www.gazeteuzay.com/canliyayin",
+      "http": "http://www.gazeteuzay.com"
+   },
+   {
+      "name": "Roman",
+      "logo": "Roman",
+      "link": "http://www.romantv.com.tr/tr/sayfa/2/canli-izle",
+      "http": "http://www.romantv.com.tr"
+   },
+   {
+      "name": "Mersin",
+      "logo": "Mersin",
+      "link": "http://mersintv.net/",
+      "http": "http://mersintv.net/"
+   },
+   {
+      "name": "Canazerbaycan",
+      "logo": "Canazerbaycan",
+      "link": "http://www.canazerbaycan.tv/",
+      "http": "http://www.canazerbaycan.tv/"
+   },
+   {
+      "name": "Tele1",
+      "logo": "Tele1",
+      "link": "http://tele1.com.tr/",
+      "http": "https://www.youtube.com/channel/UCoHnRpOS5rL62jTmSDO5Npw/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Yerelturk",
+      "logo": "Yerelturk",
+      "link": "http://www.yerelturk.tv/",
+      "http": "http://www.yerelturk.tv/"
+   },
+   {
+      "name": "Mobilya",
+      "logo": "Mobilya",
+      "link": "http://www.mobilya.tv/",
+      "http": "http://www.mobilya.tv/"
+   },
+   {
+      "name": "Otomotiv Dunyasi",
+      "logo": "Otomotiv",
+      "link": "http://www.otomotivdunyasi.tv/",
+      "http": "http://www.otomotivdunyasi.tv/"
+   },
+   {
+      "name": "Doktor Haber",
+      "logo": "Doktor",
+      "link": "http://www.doktorhaber.tv/",
+      "http": "http://www.doktorhaber.tv/"
+   },
+   {
+      "name": "Turkish Brands",
+      "logo": "Brands",
+      "link": "http://www.turkishbrands.tv/",
+      "http": "http://www.turkishbrands.tv/"
+   },
+   {
+      "name": "iLike",
+      "logo": "iLike",
+      "link": "http://www.ilketv.com/Canl%C4%B1%20Yay%C4%B1n.html",
+      "http": "http://www.ilketv.com"
+   },
+   {
+      "name": "Günaz",
+      "logo": "Gunaz",
+      "link": "http://gtv.live-s.cdn.bitgravity.com:1935/content:cdn-live/gtv/live/multibitrate.smil",
+      "http": "https://www.gunaz.tv/az"
+   },
+   {
+      "name": "Kanal07",
+      "logo": "07",
+      "link": "http://www.kanal07.tv/",
+      "http": "http://www.kanal07.tv/"
+   },
+   {
+      "name": "79",
+      "logo": "79",
+      "link": "http://www.tv79.com.tr/canliyayin.html",
+      "http": "http://www.tv79.com.tr"
+   },
+   {
+      "name": "TvDen",
+      "logo": "TvDen",
+      "link": "http://tvden.com.tr/",
+      "http": "http://tvden.com.tr/#!/ana-sayfa"
+   },
+   {
+      "name": "Ert Erzincanın",
+      "logo": "Er",
+      "link": "http://ertsahtv.com.tr/canliyayin",
+      "http": "http://ertsahtv.com.tr"
+   },
+   {
+      "name": "Gazi",
+      "logo": "Gazi",
+      "link": "http://gazi.tv.tr/",
+      "http": "http://gazi.tv.tr/"
+   },
+   {
+      "name": "Ankara",
+      "logo": "Ankara",
+      "link": "http://webtv.ankara.com.tr/",
+      "http": "http://webtv.ankara.com.tr/"
+   },
+   {
+      "name": "Beykoz",
+      "logo": "Beykoz",
+      "link": "http://www.beykozwebtv.com/",
+      "http": "http://www.beykozwebtv.com/"
+   },
+   {
+      "name": "Haberaks",
+      "logo": "Haberaks",
+      "link": "http://www.haberaks.com.tr/canli-yayin.aspx",
+      "http": "http://www.haberaks.com.tr"
+   },
+   {
+      "name": "Etv Manisa",
+      "logo": "Etv",
+      "link": "http://www.etvmanisa.com/canli-yayin",
+      "http": "http://www.etvmanisa.com"
+   },
+   {
+      "name": "Serhat",
+      "logo": "Serhat",
+      "link": "http://www.serhattv.com.tr/canliyayin.php",
+      "http": "http://www.serhattv.com.tr"
+   },
+   {
+      "name": "Mercan",
+      "logo": "Mercan",
+      "link": "http://www.mercan.tv/",
+      "http": "http://www.mercan.tv/"
+   },
+   {
+      "name": "Egem Uşak",
+      "logo": "Egem",
+      "link": "http://www.usakegemtv.com.tr/s/canli-yayin-32.html",
+      "http": "http://www.usakegemtv.com.tr"
+   },
+   {
+      "name": "Ton",
+      "logo": "Ton",
+      "link": "http://www.tontv.com.tr/canli-yayin",
+      "http": "http://www.tontv.com.tr"
+   },
+   {
+      "name": "Maraş",
+      "logo": "Maras",
+      "link": "http://www.kanalmaras.com/sayfa/kanal-maras-tv-3",
+      "http": "http://www.kanalmaras.com"
+   },
+   {
+      "name": "Fidan",
+      "logo": "Fidan",
+      "link": "http://fidantv.com/",
+      "http": "http://fidantv.com/"
+   },
+   {
+      "name": "28",
+      "logo": "28",
+      "link": "http://www.kanal28.tv/yayin.htm",
+      "http": "http://www.kanal28.tv"
+   },
+   {
+      "name": "60",
+      "logo": "60",
+      "link": "http://www.kanal60.com/",
+      "http": "http://www.kanal60.com/"
    }
 ]
 }

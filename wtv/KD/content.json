@@ -35,12 +35,174 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
    {
-      "name":"Tolo News",
-      "logo":"Tolo",
-      "link":"https:\/\/www.tolonews.com\/index.php\/live",
-      "http":"https:\/\/www.youtube.com\/user\/TOLOnewsLive\/videos?view=2&live_view=501&flow=grid"
+      "name": "Rudaw",
+      "logo": "Rudaw",
+      "link": "http://www.rudaw.net/sorani/onair/tv/live",
+      "http": "http://www.rudaw.net/sorani"
+   },
+   {
+      "name": "GK (Gali Kurdistan)",
+      "logo": "GK",
+      "link": "http://www.gksat.tv/live.aspx",
+      "http": "http://www.gksat.tv"
+   },
+   {
+      "name": "NRT HD",
+      "logo": "NRT1",
+      "link": "http://www.nrttv.com/streamNRT.aspx",
+      "http": "http://www.nrttv.com"
+   },
+   {
+      "name": "NRT 2",
+      "logo": "NRT2",
+      "link": "http://www.nrttv.com/streamNRT2.aspx",
+      "http": "http://www.nrttv.com"
+   },
+   {
+      "name": "NRT Arabic",
+      "logo": "NRT3",
+      "link": "http://www.nrttv.com/ar/StreamAr.aspx",
+      "http": "http://www.nrttv.com"
+   },
+   {
+      "name": "NRT Radio",
+      "logo": "NRT4",
+      "link": "http://www.nrttv.com/ar/arabicradio.aspx",
+      "http": "http://www.nrttv.com"
+   },
+   {
+      "name": "Kurdsat کوردسات‎",
+      "logo": "Kurdsat",
+      "link": "http://kurdsat.tv/stream.aspx",
+      "http": "http://kurdsat.tv"
+   },
+   {
+      "name": "Speda كه‌ناڵی سپێده‌",
+      "logo": "Speda",
+      "link": "http://www.speda.net/index.php/on-air/live",
+      "http": "http://www.speda.net"
+   },
+   {
+      "name": "Kurdistan 24",
+      "logo": "Kurdistan24",
+      "link": "http://www.kurdistan24.net/en/LiveWatch/e9847195-3c42-47cb-9103-bf477c68bc8f",
+      "http": "http://www.kurdistan24.net/"
+   },
+   {
+      "name": "WAAR",
+      "logo": "WAAR",
+      "link": "http://waarmedia.com//tv/",
+      "http": "http://waarmedia.com"
+   },
+   {
+      "name": "KNN",
+      "logo": "KNN",
+      "link": "http://www.knnc.net/live.aspx",
+      "http": "http://www.knnc.net"
+   },
+   {
+      "name": "Kurdistan",
+      "logo": "Kurdistan",
+      "link": "http://kurdistantv.net/ku/live",
+      "http": "http://kurdistantv.net/ar/live"
+   },
+   {
+      "name": "Rêga",
+      "logo": "Rega",
+      "link": "http://regaykurdistan.com/tv/RegaTV.htm",
+      "http": "http://www.rega.tv/"
+   },
+   {
+      "name": "KurdMAX",
+      "logo": "KurdMAX",
+      "link": "http://www.kurdmax.tv/live",
+      "http": "http://www.kurdmax.tv"
+   },
+   {
+      "name": "Vin",
+      "logo": "Vin",
+      "link": "http://www.vintv.net/index.php/ku/zindi/tv",
+      "http": "http://www.vintv.net"
+   },
+   {
+      "name": "Amozhgary ئامؤزكارى",
+      "logo": "Amozhgary",
+      "link": "http://amozhgary.tv/Live",
+      "http": "http://amozhgary.tv"
+   },
+   {
+      "name": "TRT 6 Kurdish",
+      "logo": "6",
+      "link": "http://www.trt.net.tr/Anasayfa/canli.aspx?y=tv&k=trt6",
+      "http": "http://www.trtkurdi.com.tr/zindi-tv"
+   },
+   {
+      "name": "Zarok",
+      "logo": "Zarok",
+      "link": "http://zaroktv.com.tr/Kurmanci/WESANA-ZINDI",
+      "http": "http://zaroktv.com.tr"
+   },
+   {
+      "name": "Sahar Azeri سحر",
+      "logo": "Azeri",
+      "link": "http://azeri.sahartv.ir/tv/live",
+      "http": "http://azeri.sahartv.ir/"
+   },
+   {
+      "name": "Sahar Balkan سحر",
+      "logo": "Balkan",
+      "link": "http://balkan.sahartv.ir/tv/uzivo",
+      "http": "http://balkan.sahartv.ir/"
+   },
+   {
+      "name": "Sahar Kurdish سحر",
+      "logo": "Kurdish",
+      "link": "http://kurdish.sahartv.ir/tv/live",
+      "http": "http://kurdish.sahartv.ir/"
+   },
+   {
+      "name": "Sahar Kurmanci سحر",
+      "logo": "Kurmanci",
+      "link": "http://kurmanci.sahartv.ir/tv/live",
+      "http": "http://kurmanci.sahartv.ir/"
+   },
+   {
+      "name": "Sahar Urdu سحر",
+      "logo": "Urdu",
+      "link": "http://urdu.sahartv.ir/tv/watch_live",
+      "http": "http://www1.live.irib.ir/#ifilm-farsi"
+   },
+   {
+      "name": "Mahabad مهاباد",
+      "logo": "Mahabad",
+      "link": "http://mahabad.irib.ir/%D9%BE%D8%AE%D8%B4-%D8%B2%D9%86%D8%AF%D9%87",
+      "http": "http://mahabad.irib.ir"
+   },
+   {
+      "name": "Ilam ایلام",
+      "logo": "Ilam",
+      "link": "http://ilam.irib.ir/live-streaming-sound",
+      "http": "http://ilam.irib.ir/"
+   },
+   {
+      "name": "Çira",
+      "logo": "Cira",
+      "link": "http://cira.tv/",
+      "http": "http://cira.tv/"
+   },
+   {
+      "name": "Stêrk",
+      "logo": "Sterk",
+      "link": "http://sterktv.net/",
+      "http": "http://sterktv.net/"
+   },
+   {
+      "name": "Komala",
+      "logo": "Komala",
+      "link": "http://www.tvkomala.com/",
+      "http": "http://www.tvkomala.com/"
    }
 ]
 }

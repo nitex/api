@@ -35,12 +35,867 @@
       "mainb":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
    {
-      "name":"Tolo News",
-      "logo":"Tolo",
-      "link":"https:\/\/www.tolonews.com\/index.php\/live",
-      "http":"https:\/\/www.youtube.com\/user\/TOLOnewsLive\/videos?view=2&live_view=501&flow=grid"
+      "name": "Echorouk (HD الشروق تي في‎‎)",
+      "logo": "Echorouk",
+      "link": "https://tv.echoroukonline.com/live/",
+      "http": "https://www.echoroukonline.com/#live",
+      "country": "Algeria (الجزائر‎)"
+   },
+   {
+      "name": "Ennahar (قناة النهار)",
+      "logo": "Ennahar",
+      "link": "https://www.ennaharonline.com/live/",
+      "http": "https://www.ennaharonline.com",
+      "country": "Algeria (الجزائر‎)"
+   },
+   {
+      "name": "El Bilad",
+      "logo": "Bilad",
+      "link": "http://www.elbilad.net/static/tv",
+      "http": "http://www.elbilad.net",
+      "country": "Algeria (الجزائر‎)"
+   },
+   {
+      "name": "AlMagharibia (المغاربية‎)",
+      "logo": "AlMagharibia",
+      "link": "https://almagharibia.tv/",
+      "http": "https://almagharibia.tv/",
+      "country": "Algeria (الجزائر‎)"
+   },
+   {
+      "name": "Numidia",
+      "logo": "Numidia",
+      "link": "http://www.numidiatv.tv/direct/",
+      "http": "http://www.numidiatv.tv/direct/",
+      "country": "Algeria (الجزائر‎)"
+   },
+   {
+      "name": "CNA (La Chaîne Nord-Africaine)",
+      "logo": "CNA",
+      "link": "http://www.cna-sat.org/CnaLiveTv.html",
+      "http": "http://www.cna-sat.org/",
+      "country": "Algeria (الجزائر‎)"
+   },
+   {
+      "name": "Zimbo",
+      "logo": "Zimbo",
+      "link": "http://www.tvzimbo.com/",
+      "http": "https://livestream.com/accounts/19766999/events/5548210",
+      "country": "Angola"
+   },
+   {
+      "name": "RTP Africa",
+      "logo": "RTP",
+      "link": "https://www.rtp.pt/play/direto/rtpafrica",
+      "http": "http://www.rtp.pt/rtpafrica/",
+      "country": "Angola"
+   },
+   {
+      "name": "Afrique Média",
+      "logo": "Afrique",
+      "link": "http://www.afriquemedia.tv/live",
+      "http": "http://www.afriquemedia.tv",
+      "country": "Benin"
+   },
+   {
+      "name": "ICÔN AFRICA",
+      "logo": "AFRICA",
+      "link": "https://www.iconafricatv.com/videos-c23dw",
+      "http": "https://www.iconafricatv.com",
+      "country": "Benin"
+   },
+   {
+      "name": "Terre Mère",
+      "logo": "Terre",
+      "link": "https://www.iconafricatv.com/ltm--live",
+      "http": "https://www.iconafricatv.com",
+      "country": "Benin"
+   },
+   {
+      "name": "TROPIC",
+      "logo": "TROPIC",
+      "link": "https://www.iconafricatv.com/tropic-tv",
+      "http": "https://www.iconafricatv.com",
+      "country": "Benin"
+   },
+   {
+      "name": "GOSPEL",
+      "logo": "GOSPEL",
+      "link": "https://www.iconafricatv.com/gospel-tv",
+      "http": "https://www.iconafricatv.com",
+      "country": "Benin"
+   },
+   {
+      "name": "ORTB",
+      "logo": "ORTB",
+      "link": "http://ortb.bj/direct-ortb/",
+      "http": "http://ortb.bj/direct-ortb/",
+      "country": "Benin"
+   },
+   {
+      "name": "RTB",
+      "logo": "RTB",
+      "link": "http://www.rtb.bf/television-en-direct/",
+      "http": "http://www.rtb.bf",
+      "country": "Burkina Faso"
+   },
+   {
+      "name": "Impact",
+      "logo": "Impact",
+      "link": "http://www.impacttele.tv/",
+      "http": "http://www.impacttele.tv/",
+      "country": "Burkina Faso"
+   },
+   {
+      "name": "Canal 2 International",
+      "logo": "International",
+      "link": "http://www.canal2international.net/live.php",
+      "http": "http://www.canal2international.net",
+      "country": "Cameroon"
+   },
+   {
+      "name": "TCV (Televisão de Cabo Verde)",
+      "logo": "TCV1",
+      "link": "http://www.rtc.cv/tcvdirecto/",
+      "http": "http://www.rtc.cv",
+      "country": "Cape Verde (Kabu Verdi)"
+   },
+   {
+      "name": "RTC (Radiotelevisão Caboverdiana)",
+      "logo": "TCV2",
+      "link": "http://www.rtc.cv/rcvdirecto/",
+      "http": "http://www.rtc.cv",
+      "country": "Cape Verde (Kabu Verdi)"
+   },
+   {
+      "name": "RTC+ (Radiotelevisão Caboverdiana)",
+      "logo": "TCV3",
+      "link": "http://www.rtc.cv/rcvmaisdirecto/",
+      "http": "http://www.rtc.cv",
+      "country": "Cape Verde (Kabu Verdi)"
+   },
+   {
+      "name": "Télé Tchad",
+      "logo": "Tchad",
+      "link": "http://www.onrtv.org/tv/",
+      "http": "http://www.onrtv.org/fr/",
+      "country": "Chad (تشاد‎)"
+   },
+   {
+      "name": "africanews",
+      "logo": "Africanews",
+      "link": "http://www.africanews.com/live/",
+      "http": "https://www.youtube.com/channel/UC1_E8NeF5QHY2dtdLRBCCLA/videos?flow=grid&live_view=501&view=2",
+      "country": "Congo Brazzaville"
+   },
+   {
+      "name": "Canal CVV",
+      "logo": "CVV",
+      "link": "http://www.canalcvv.net/index.html",
+      "http": "http://www.canalcvv.net/index.html",
+      "country": "Congo DR (DRC Kinshasa)"
+   },
+   {
+      "name": "Congo Planet",
+      "logo": "Planet",
+      "link": "http://www.congoplanet.com/congo_television_live.jsp",
+      "http": "https://www.congoplanet.com/tv_radio.jsp",
+      "country": "Congo DR (DRC Kinshasa)"
+   },
+   {
+      "name": "Ratelki",
+      "logo": "Ratelki",
+      "link": "http://ratelki.net",
+      "http": "http://ratelki.net",
+      "country": "Congo DR (DRC Kinshasa)"
+   },
+   {
+      "name": "RTI (Radiodiffusion Télévision Ivoirienne)",
+      "logo": "Ivoirienne",
+      "link": "http://www.rti.ci/",
+      "http": "http://www.rti.ci/",
+      "country": "Côte d'Ivoire (Ivory Coast)"
+   },
+   {
+      "name": "225",
+      "logo": "225",
+      "link": "http://www.canal225.com/?page_id=7307",
+      "http": "http://www.canal225.com",
+      "country": "Côte d'Ivoire (Ivory Coast)"
+   },
+   {
+      "name": "Benie",
+      "logo": "Benie",
+      "link": "http://www.benie.tv/index.php/livestream",
+      "http": "http://www.benie.tv",
+      "country": "Côte d'Ivoire (Ivory Coast)"
+   },
+   {
+      "name": "RTD - Télé Djibouti 2",
+      "logo": "RTD2",
+      "link": "http://www.rtd.dj/index.php?option=com_content&view=article&id=1048&Itemid=298",
+      "http": "http://www.rtd.dj",
+      "country": "Djibouti (جيبوتي‎)"
+   },
+   {
+      "name": "RTD - Télé Djibouti 3",
+      "logo": "RTD3",
+      "link": "http://www.rtd.dj/index.php?option=com_content&view=article&id=1691&Itemid=310",
+      "http": "http://www.rtd.dj",
+      "country": "Djibouti (جيبوتي‎)"
+   },
+   {
+      "name": "RTD - Télé Djibouti 4",
+      "logo": "RTD4",
+      "link": "http://www.rtd.dj/index.php?option=com_content&view=article&id=1570&Itemid=250",
+      "http": "http://www.rtd.dj",
+      "country": "Djibouti (جيبوتي‎)"
+   },
+   {
+      "name": "Eri-TV",
+      "logo": "Eri",
+      "link": "http://www.eastafro.com/EriTV1/",
+      "http": "http://www.eastafro.com",
+      "country": "Eritrea (دولة إرتريا)"
+   },
+   {
+      "name": "TVGE",
+      "logo": "TVGE",
+      "link": "http://www.tvgelive.gq/live.php",
+      "http": "http://www.tvgelive.gq",
+      "country": "Equatorial Guinea"
+   },
+   {
+      "name": "EBC 1",
+      "logo": "EBC1",
+      "link": "http://www.ebc.et/web/en/etv",
+      "http": "https://www.youtube.com/channel/UCOhrz3uRCOHmK6ueUstw7_Q/videos?flow=grid&live_view=501&view=2",
+      "country": "Ethiopia (ኢትዮጵያ)"
+   },
+   {
+      "name": "EBC 2",
+      "logo": "EBC2",
+      "link": "http://www.ebc.et/web/en/etv-language",
+      "http": "https://www.youtube.com/channel/UCOhrz3uRCOHmK6ueUstw7_Q/videos?flow=grid&live_view=501&view=2",
+      "country": "Ethiopia (ኢትዮጵያ)"
+   },
+   {
+      "name": "EBC 3",
+      "logo": "EBC3",
+      "link": "http://www.ebc.et/web/en/etv-entertainment",
+      "http": "https://www.youtube.com/channel/UCOhrz3uRCOHmK6ueUstw7_Q/videos?flow=grid&live_view=501&view=2",
+      "country": "Ethiopia (ኢትዮጵያ)"
+   },
+   {
+      "name": "ETN Elshaddai",
+      "logo": "ETN",
+      "link": "http://elshaddaitv.org/",
+      "http": "http://elshaddaitv.org/",
+      "country": "Ethiopia (ኢትዮጵያ)"
+   },
+   {
+      "name": "Joy News MultiTV",
+      "logo": "MultiTV",
+      "link": "https://www.multitvworld.com/joy-news-live/",
+      "http": "https://www.youtube.com/user/myjoyonlinetube/videos?live_view=501&flow=grid&view=2",
+      "country": "Ghana"
+   },
+   {
+      "name": "Kessben",
+      "logo": "Kessben",
+      "link": "http://kessbentv.com/live/",
+      "http": "http://kessbentv.com",
+      "country": "Ghana"
+   },
+   {
+      "name": "Adom",
+      "logo": "Adom",
+      "link": "http://multitvworld.com/newworld/live/?vid=adom",
+      "http": "https://www.youtube.com/user/adomtvtube/videos?view=2&flow=grid&live_view=501",
+      "country": "Ghana"
+   },
+   {
+      "name": "THE BASE AFRICA",
+      "logo": "BASE",
+      "link": "http://www.speedvisiongh.com/broadcast-live/watch/",
+      "http": "http://www.speedvisiongh.com/",
+      "country": "Ghana"
+   },
+   {
+      "name": "Joy Prime",
+      "logo": "Joy",
+      "link": "http://www.ghanalive.tv/joyprime/",
+      "http": "http://www.ghanalive.tv/joyprime/",
+      "country": "Ghana"
+   },
+   {
+      "name": "GBC GTV",
+      "logo": "GBC",
+      "link": "http://www.ghanalive.tv/gtv/",
+      "http": "http://www.gbcghana.com/",
+      "country": "Ghana"
+   },
+   {
+      "name": "TV3",
+      "logo": "TV3",
+      "link": "http://www.ghanalive.tv/tv3-online-stream/",
+      "http": "http://3news.com/",
+      "country": "Ghana"
+   },
+   {
+      "name": "Healing Jesus",
+      "logo": "Healing",
+      "link": "http://www.healingjesus.tv/n_livenow.htm",
+      "http": "http://www.healingjesus.tv",
+      "country": "Ghana"
+   },
+   {
+      "name": "Resurrection",
+      "logo": "Resurrection",
+      "link": "http://admin.ottdemo.rrsat.com/multibit/rrsatrtv1/index.php",
+      "http": "http://www.resurrectiontv.org/",
+      "country": "Ghana"
+   },
+   {
+      "name": "GTV Sports Plus",
+      "logo": "Sports",
+      "link": "http://www.ghanalive.tv/gtv-sports/",
+      "http": "http://www.ghanalive.tv/gtv-sports/",
+      "country": "Ghana"
+   },
+   {
+      "name": "CIS Médias",
+      "logo": "CIS",
+      "link": "http://www.cismedias.com/cis-tv/",
+      "http": "http://www.cismedias.com",
+      "country": "Guinea"
+   },
+   {
+      "name": "218",
+      "logo": "218",
+      "link": "http://95.85.47.43:8080/218tv/embed.html",
+      "http": "https://www.218tv.net/",
+      "country": "Libya (ليبيا‎)"
+   },
+   {
+      "name": "218 News",
+      "logo": "218News",
+      "link": "http://95.85.47.43/218news/embed.html",
+      "http": "https://www.218tv.net/",
+      "country": "Libya (ليبيا‎)"
+   },
+   {
+      "name": "Libya 24 (ليبيا 24)",
+      "logo": "Libya",
+      "link": "https://libya24.tv/live",
+      "http": "https://libya24.tv",
+      "country": "Libya (ليبيا‎)"
+   },
+   {
+      "name": "Libya's Channel (قناة ليبيا)",
+      "logo": "Libyas",
+      "link": "http://libyas.tv/",
+      "http": "https://libyaschannel.com/",
+      "country": "Libya (ليبيا‎)"
+   },
+   {
+      "name": "Libya One (قناة ليبيا الأولى)",
+      "logo": "One",
+      "link": "http://libyaone.tv/live-3/",
+      "http": "http://libyaone.tv",
+      "country": "Libya (ليبيا‎)"
+   },
+   {
+      "name": "Tanasuh (قناة التناصح الفضائية)",
+      "logo": "Tanasuh",
+      "link": "http://stream.tanasuh.tv/",
+      "http": "https://tanasuh.tv/",
+      "country": "Libya (ليبيا‎)"
+   },
+   {
+      "name": "Dream'In",
+      "logo": "Dream",
+      "link": "http://www.dreamin.tv/tv.html",
+      "http": "http://www.ustream.tv/channel/23529238",
+      "country": "Madagascar"
+   },
+   {
+      "name": "i-BC",
+      "logo": "i-BC",
+      "link": "http://www.i-bc.tv/index.php?option=com_content&view=article&id=20&Itemid=132",
+      "http": "http://www.i-bc.tv",
+      "country": "Madagascar"
+   },
+   {
+      "name": "Kolo",
+      "logo": "Kolo",
+      "link": "http://www.kolo.mg/kolotv/live/",
+      "http": "http://www.kolo.mg",
+      "country": "Madagascar"
+   },
+   {
+      "name": "Televiziona Malagasy",
+      "logo": "Malagasy",
+      "link": "http://www.televiziona-malagasy.com/stream.php",
+      "http": "http://www.televiziona-malagasy.com",
+      "country": "Madagascar"
+   },
+   {
+      "name": "RTV Yahoshuah",
+      "logo": "Yahoshuah",
+      "link": "http://www.rtvyahoshuah.com/",
+      "http": "https://www.youtube.com/channel/UCaw_3YWHDIMMJTDaNo0ZVOA/videos?view=2&live_view=501&flow=grid",
+      "country": "Madagascar"
+   },
+   {
+      "name": "MBC",
+      "logo": "MBC",
+      "link": "http://www.mbc.mw/index.php/television/watch-mbctv-live",
+      "http": "http://www.mbc.mw",
+      "country": "Malawi"
+   },
+   {
+      "name": "ORTM",
+      "logo": "ORTM",
+      "link": "http://ortm.ml/index.php/direct-ortm",
+      "http": "http://ortm.ml/",
+      "country": "Mali"
+   },
+   {
+      "name": "TM2",
+      "logo": "TM2",
+      "link": "http://ortm.ml/index.php/direct-tm2",
+      "http": "http://ortm.ml/",
+      "country": "Mali"
+   },
+   {
+      "name": "TVM (التلفزة الموريتانية)",
+      "logo": "TVM",
+      "link": "http://tvm.mr/ar/live/",
+      "http": "https://www.youtube.com/user/mauritaniantv/videos?view=2&live_view=501&flow=grid",
+      "country": "Mauritania (موريتانيا‎)"
+   },
+   {
+      "name": "Athagavia",
+      "logo": "Athagavia",
+      "link": "https://www.youtube.com/channel/UCyi-HKpQlTrBRi1TaiQ1htw/videos?flow=grid&live_view=501&view=2",
+      "http": "http://tvm.mr/ar/live/",
+      "country": "Mauritania (موريتانيا‎)"
+   },
+   {
+      "name": "MayotteTV",
+      "logo": "MayotteTV",
+      "link": "http://www.mayottetv.fr/mayottetv/",
+      "http": "http://www.mayottetv.fr/",
+      "country": "Mayotte"
+   },
+   {
+      "name": "MayotteTV Islam",
+      "logo": "Islam",
+      "link": "http://www.mayottetv.fr/mayottetv-islam/",
+      "http": "http://www.mayottetv.fr/",
+      "country": "Mayotte"
+   },
+   {
+      "name": "MayotteTV Mila",
+      "logo": "Mila",
+      "link": "http://www.mayottetv.fr/mayottetv-mila/",
+      "http": "http://www.mayottetv.fr/",
+      "country": "Mayotte"
+   },
+   {
+      "name": "Mayotte 1ère",
+      "logo": "Mayotte",
+      "link": "https://la1ere.francetvinfo.fr/mayotte/",
+      "http": "https://la1ere.francetvinfo.fr/mayotte/",
+      "country": "Mayotte"
+   },
+   {
+      "name": "Medi 1 (مدي 1 تي في)",
+      "logo": "Medi",
+      "link": "http://www.medi1tv.ma/fr/live.aspx",
+      "http": "http://www.medi1tv.ma",
+      "country": "Morocco (المملكة المغربية)"
+   },
+   {
+      "name": "Nessma (قناة نسمة‎ / نسمة تي في)",
+      "logo": "Nessma",
+      "link": "https://www.nessma.tv/fr/live",
+      "http": "https://www.nessma.tv",
+      "country": "Morocco (المملكة المغربية)"
+   },
+   {
+      "name": "Al Aoula (الأولى / SNRT 1)",
+      "logo": "Aoula",
+      "link": "http://www.alaoula.ma/index.php?lang=fr",
+      "http": "http://www.alaoula.ma",
+      "country": "Morocco (المملكة المغربية)"
+   },
+   {
+      "name": "Arryadia (الرياضية / SNRT 3)",
+      "logo": "Arryadia",
+      "link": "http://arryadia.snrt.ma/",
+      "http": "http://www.snrtlive.ma/arryadia-live-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9",
+      "country": "Morocco (المملكة المغربية)"
+   },
+   {
+      "name": "Miramar",
+      "logo": "Miramar",
+      "link": "http://miramar.co.mz/tv-online/",
+      "http": "http://miramar.co.mz",
+      "country": "Mozambique"
+   },
+   {
+      "name": "TVM 1",
+      "logo": "TVM1",
+      "link": "http://online.tvm.co.mz/site/emdirecto/tvm1",
+      "http": "http://www.tvm.co.mz/",
+      "country": "Mozambique"
+   },
+   {
+      "name": "TVM 2 Internacional",
+      "logo": "TVM2",
+      "link": "http://online.tvm.co.mz/site/emdirecto/tvm2",
+      "http": "http://www.tvm.co.mz/",
+      "country": "Mozambique"
+   },
+   {
+      "name": "Antenne Réunion",
+      "logo": "Antenne",
+      "link": "http://www.antennereunion.fr/direct",
+      "http": "http://www.antennereunion.fr",
+      "country": "Réunion"
+   },
+   {
+      "name": "ISANGO",
+      "logo": "ISANGO",
+      "link": "http://www.isangostar.rw/?page=tv",
+      "http": "",
+      "country": "Rwanda"
+   },
+   {
+      "name": "RTV (RBA)",
+      "logo": "RBA",
+      "link": "https://www.rba.co.rw/tv",
+      "http": "https://www.rba.co.rw",
+      "country": "Rwanda"
+   },
+   {
+      "name": "RadioTV 10",
+      "logo": "10",
+      "link": "http://www.radiotv10.rw/?page=tv",
+      "http": "http://www.radiotv10.rw",
+      "country": "Rwanda"
+   },
+   {
+      "name": "TV1 Rwanda",
+      "logo": "TV1",
+      "link": "http://www.tv1.rw/Uko-wareba-TV1",
+      "http": "http://www.tv1.rw/spip.php?article6",
+      "country": "Rwanda"
+   },
+   {
+      "name": "TVS (Televisão Santomense)",
+      "logo": "TVS",
+      "link": "http://www.tvs.st/tvsplay",
+      "http": "http://www.tvs.st",
+      "country": "São Tomé and Príncipe"
+   },
+   {
+      "name": "RTS1",
+      "logo": "RTS1",
+      "link": "http://www.rts.sn/rts1",
+      "http": "http://www.rts.sn/",
+      "country": "Senegal"
+   },
+   {
+      "name": "RTS2",
+      "logo": "RTS2",
+      "link": "http://www.rts.sn/rts2",
+      "http": "http://www.rts.sn/",
+      "country": "Senegal"
+   },
+   {
+      "name": "Walf",
+      "logo": "Walf",
+      "link": "http://www.walf-groupe.com/walftv-live/",
+      "http": "www.walf-groupe.com",
+      "country": "Senegal"
+   },
+   {
+      "name": "DTV",
+      "logo": "DTV",
+      "link": "http://dtv.sn/home/dtvlive",
+      "http": "http://dtv.sn",
+      "country": "Senegal"
+   },
+   {
+      "name": "Diaspora 24",
+      "logo": "Diaspora",
+      "link": "http://diaspora24tv.com/",
+      "http": "http://diaspora24tv.com/",
+      "country": "Senegal"
+   },
+   {
+      "name": "TFM",
+      "logo": "TFM",
+      "link": "https://www.igfm.sn/tfm/",
+      "http": "https://www.igfm.sn",
+      "country": "Senegal"
+   },
+   {
+      "name": "Sen",
+      "logo": "Sen",
+      "link": "http://sentv.sn/livetv/ledirect",
+      "http": "http://sentv.sn",
+      "country": "Senegal"
+   },
+   {
+      "name": "People",
+      "logo": "People",
+      "link": "http://peopletvsenegal.tv/people-tv-live/people-tv-live-1",
+      "http": "http://peopletvsenegal.tv",
+      "country": "Senegal"
+   },
+   {
+      "name": "Mouride",
+      "logo": "Mouride",
+      "link": "http://www.mouridetv.net",
+      "http": "http://www.mouridetv.net",
+      "country": "Senegal"
+   },
+   {
+      "name": "Asfiyahi",
+      "logo": "Asfiyahi",
+      "link": "https://www.asfiyahi.org/Suivez-Asfiyahi-TV-en-Direct_a78.html",
+      "http": "https://www.asfiyahi.org/Direct-Asfiyahi_r171.html",
+      "country": "Senegal"
+   },
+   {
+      "name": "AYV African Young Voices",
+      "logo": "AYV",
+      "link": "http://ayvnews.com/",
+      "http": "http://ayvnews.com/",
+      "country": "Senegal"
+   },
+   {
+      "name": "SNTV (Somali National)",
+      "logo": "SNTV",
+      "link": "http://www.sntvnews.com/",
+      "http": "http://www.sntvnews.com/",
+      "country": "Somalia (+ Somaliland / Puntland)"
+   },
+   {
+      "name": "Puntland",
+      "logo": "Puntland",
+      "link": "http://www.puntlandtvradio.net/",
+      "http": "http://www.puntlandtvradio.net/",
+      "country": "Somalia (+ Somaliland / Puntland)"
+   },
+   {
+      "name": "Universal",
+      "logo": "Universal",
+      "link": "http://www.universaltvsomali.net/watch-livestream",
+      "http": "http://www.universaltvsomali.net",
+      "country": "Somalia (+ Somaliland / Puntland)"
+   },
+   {
+      "name": "Kalsan",
+      "logo": "Kalsan",
+      "link": "http://kalsantv.com/",
+      "http": "http://kalsantv.com/",
+      "country": "Somalia (+ Somaliland / Puntland)"
+   },
+   {
+      "name": "Dabanga",
+      "logo": "Dabanga",
+      "link": "https://www.dabangasudan.org/en",
+      "http": "https://www.dabangasudan.org/en",
+      "country": "Sudan (السودان‎)"
+   },
+   {
+      "name": "Sudan (تلفزيون السودان)",
+      "logo": "Sudan",
+      "link": "http://www.sudantv.gov.sd/sudantv/?page_id=60",
+      "http": "http://www.sudantv.gov.sd/sudantv_en/?page_id=113",
+      "country": "Sudan (السودان‎)"
+   },
+   {
+      "name": "Ashorooq (شبكة الشروق)",
+      "logo": "Ashorooq",
+      "link": "http://www.ashorooq.net/index.php?option=com_Livetv&Itemid=1134",
+      "http": "http://www.ashorooq.net",
+      "country": "Sudan (السودان‎)"
+   },
+   {
+      "name": "Sudania 24 (S24 / 24 سودانية)",
+      "logo": "Sudania",
+      "link": "https://www.youtube.com/channel/UCrH0R6bG_X2FCB9Qt8JWxRg/videos?view=2&flow=grid&live_view=501",
+      "http": "http://www.sudania24.tv/",
+      "country": "Sudan (السودان‎)"
+   },
+   {
+      "name": "Tayba",
+      "logo": "Tayba",
+      "link": "http://www.tayba.tv/",
+      "http": "http://www.tayba.tv/",
+      "country": "Sudan (السودان‎)"
+   },
+   {
+      "name": "Barmedas",
+      "logo": "Barmedas",
+      "link": "http://www.ustream.tv/channel/barmedasonline-tv",
+      "http": "http://www.barmedas.tv/",
+      "country": "Tanzania"
+   },
+   {
+      "name": "Habari Star",
+      "logo": "Habari",
+      "link": "http://www.startv.co.tz/star-tv-live",
+      "http": "http://www.startv.co.tz",
+      "country": "Tanzania"
+   },
+   {
+      "name": "Kwanza",
+      "logo": "Kwanza",
+      "link": "http://kwanzatv.co.tz/live/",
+      "http": "http://kwanzatv.co.tz",
+      "country": "Tanzania"
+   },
+   {
+      "name": "TBC",
+      "logo": "TBC",
+      "link": "https://tbc.go.tz/livestream/",
+      "http": "https://tbc.go.tz",
+      "country": "Tanzania"
+   },
+   {
+      "name": "New World",
+      "logo": "New",
+      "link": "https://www.newworldtv.com/index.php/fr/live/",
+      "http": "https://www.newworldtv.com/",
+      "country": "Togo"
+   },
+   {
+      "name": "Attessia قناة التاسعة",
+      "logo": "Attessia",
+      "link": "http://attessia.tv/live",
+      "http": "http://attessia.tv",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "Al Watania 1 الوطنية",
+      "logo": "Watania1",
+      "link": "http://www.watania1.tn/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/%D9%85%D8%AD%D8%AA%D9%88%D9%89",
+      "http": "https://www.youtube.com/user/televisiontunisie6/videos?view=2&flow=grid&live_view=501",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "Al Watania الوطنية 2",
+      "logo": "Watania2",
+      "link": "http://www.watania2.tn/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D9%80%D8%A7%D8%B4%D8%B1/%D9%85%D8%AD%D8%AA%D9%88%D9%89",
+      "http": "https://www.youtube.com/channel/UCJW9gatYczI191TunQxMGbA/videos?view=2&flow=grid&live_view=501",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "Diwan",
+      "logo": "Diwan",
+      "link": "https://www.diwanfm.net/cam",
+      "http": "https://www.diwanfm.net/",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "Hannibal (قناة حنبعل‎ / HTV)",
+      "logo": "Hannibal",
+      "link": "http://hannibaltv.com.tn/rubrique/%D8%AD%D9%86%D8%A8%D8%B9%D9%84-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/420",
+      "http": "http://hannibaltv.com.tn",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "Jawhara",
+      "logo": "Jawhara",
+      "link": "http://www.jawharafm.net/fr/webcam/34",
+      "http": "http://www.jawharafm.net",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "El Hiwar El Tounsi (الحوار التونسي)",
+      "logo": "Hiwar",
+      "link": "https://elhiwarettounsi.com/live.html",
+      "http": "https://elhiwarettounsi.com",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "Zitouna (قناة الزيتونة)",
+      "logo": "Zitouna",
+      "link": "http://www.zitounatv.com/",
+      "http": "http://www.zitounatv.com/",
+      "country": "Tunisia (تونس‎)"
+   },
+   {
+      "name": "NTV",
+      "logo": "NTV",
+      "link": "http://www.ntv.co.ug/ntvlive/4522052-4522052-gb6xt4z/index.html",
+      "http": "https://www.youtube.com/user/ntvuganda/videos?live_view=501&view=2&flow=grid",
+      "country": "Uganda"
+   },
+   {
+      "name": "Spark",
+      "logo": "Spark",
+      "link": "http://www.ntv.co.ug/sparklive/4522516-4522516-9byjcvz/index.html",
+      "http": "https://www.youtube.com/user/ntvuganda/videos?live_view=501&view=2&flow=grid",
+      "country": "Uganda"
+   },
+   {
+      "name": "Bukkede",
+      "logo": "Bukkede",
+      "link": "https://www.youtube.com/user/bukeddetv/videos?view=2&flow=grid&live_view=501",
+      "http": "https://www.bukedde.co.ug/",
+      "country": "Uganda"
+   },
+   {
+      "name": "NBS",
+      "logo": "NBS",
+      "link": "http://nbs.ug/live/",
+      "http": "http://nbs.ug",
+      "country": "Uganda"
+   },
+   {
+      "name": "Dream",
+      "logo": "Drea",
+      "link": "http://www.imc.ug/",
+      "http": "http://www.imc.ug/",
+      "country": "Uganda"
+   },
+   {
+      "name": "SALT",
+      "logo": "SALT",
+      "link": "https://saltmedia.ug/en/live.html",
+      "http": "https://saltmedia.ug/",
+      "country": "Uganda"
+   },
+   {
+      "name": "RASD",
+      "logo": "RASD",
+      "link": "http://rasd.tv/",
+      "http": "http://www.rasd-tv.com/",
+      "country": "Western Sahara (SADR / الصحراء الغربية‎‎)"
+   },
+   {
+      "name": "ZIM24",
+      "logo": "ZIM24",
+      "link": "http://www.zbc.co.zw/zim24/",
+      "http": "http://www.zbc.co.zw",
+      "country": "Zimbabwe"
+   },
+   {
+      "name": "ZBC",
+      "logo": "ZBC",
+      "link": "http://www.zbc.co.zw/zbctv/",
+      "http": "http://www.zbc.co.zw",
+      "country": "Zimbabwe"
    }
 ]
 }
