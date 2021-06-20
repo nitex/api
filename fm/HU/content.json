@@ -43,13 +43,699 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "MR1 Kossuth Rádió",
+         "logo": "MR1",
+         "link": "http://stream001.radio.hu:8080/mr1.aac.m3u",
+         "http": "http://stream001.radio.hu:8080/mr1.mp3.m3u",
+         "note": "News/Features"
+      },
+      {
+         "name": "MR2 Petofi Rádió",
+         "logo": "MR2",
+         "link": "http://stream001.radio.hu:8080/mr2.aac.m3u",
+         "http": "http://stream001.radio.hu:8080/mr2.mp3.m3u",
+         "note": "Pop, Alternative, World Music"
+      },
+      {
+         "name": "MR3 Bartók Rádió",
+         "logo": "MR3",
+         "link": "http://stream001.radio.hu:8080/mr3.aac.m3u",
+         "http": "http://stream001.radio.hu:8080/mr3.mp3.m3u",
+         "note": "Classical"
+      },
+      {
+         "name": "MR4 Nemzetiségi Adások",
+         "logo": "MR4",
+         "link": "http://stream001.radio.hu:8080/mr4.aac.m3u",
+         "http": "http://stream001.radio.hu:8080/mr4.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "MR5 Parlamenti Adások",
+         "logo": "MR5",
+         "link": "http://stream001.radio.hu:8080/mr5.aac.m3u",
+         "http": "http://stream001.radio.hu:8080/mr5.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Dankó Rádió",
+         "logo": "Danko",
+         "link": "http://stream001.radio.hu:8080/mr7.aac.m3u",
+         "http": "http://stream001.radio.hu:8080/mr7.mp3.m3u",
+         "note": "Hungarian Music, Folk, Opera"
+      },
+      {
+         "name": "Duna World",
+         "logo": "Duna",
+         "link": "https://www.mediaklikk.hu/duna-world-radio-elo/",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Aktív Rádió",
+         "logo": "Aktiv",
+         "link": "http://aktivradio.hu:8000/aktiv.mp3.m3u",
+         "http": "",
+         "note": "Szolnok (Local)"
+      },
+      {
+         "name": "Amadeus Rádió",
+         "logo": "Amadeus",
+         "link": "http://87.229.73.156:8004/stream192.m3u",
+         "http": "",
+         "note": "Szolnok (Local)"
+      },
+      {
+         "name": "Aqua Rádió",
+         "logo": "Aqua",
+         "link": "http://hosting.42netmedia.com:13070/listen.pls",
+         "http": "",
+         "note": "Barcs (Local)"
+      },
+      {
+         "name": "Bajai Rádió",
+         "logo": "Bajai",
+         "link": "http://92.61.114.195:9950/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Balaton Rádió",
+         "logo": "Balaton",
+         "link": "http://wssgd.gdsinfo.com:8200/listen.pls",
+         "http": "",
+         "note": "Siófok (Local)"
+      },
+      {
+         "name": "Civil Rádió",
+         "logo": "Civil",
+         "link": "http://civilradio.hu:8000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Class FM",
+         "logo": "Class",
+         "link": "http://87.229.103.52:7058/CLASS_FM.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Corvinus Rádió",
+         "logo": "Corvinus",
+         "link": "http://stream.soundglobe.hu:8044/listen.pls",
+         "http": "",
+         "note": "Sopron (Local)"
+      },
+      {
+         "name": "Csaba Radio",
+         "logo": "Csaba",
+         "link": "http://online.csabaradio.hu:8000/128kbps.m3u",
+         "http": "",
+         "note": "Top 30 (Békéscsaba, Local)"
+      },
+      {
+         "name": "DióRádió",
+         "logo": "DioRadio",
+         "link": "http://www.dioradio.hu/dioradio.m3u",
+         "http": "",
+         "note": "Gyöngyös (Local)"
+      },
+      {
+         "name": "El-Do Rádió",
+         "logo": "El-Do",
+         "link": "http://www.eldoradio.hu/stream.pls",
+         "http": "",
+         "note": "Top 30 (Dunaújváros, Local)"
+      },
+      {
+         "name": "EPER",
+         "logo": "EPER",
+         "link": "http://eper.elte.hu/eper128.m3u",
+         "http": "",
+         "note": "Eötvös Loránd University"
+      },
+      {
+         "name": "Európa Rádió",
+         "logo": "Europa",
+         "link": "http://radio2.tirek.hu:8000/europaradio.m3u",
+         "http": "",
+         "note": "Miskolc (Local)"
+      },
+      {
+         "name": "Európa Rádió Nyíregyháza",
+         "logo": "Nyiregyhaza",
+         "link": "http://radio2.tirek.hu:8000/nyiregyhaza.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Európa Rádió Debrecen",
+         "logo": "Debrecen",
+         "link": "http://radio2.tirek.hu:8000/debrecen.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Európa Rádió Szeged",
+         "logo": "Szeged",
+         "link": "http://radio2.tirek.hu:8000/szeged.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Fehérvár Rádió",
+         "logo": "Fehervar",
+         "link": "http://81.93.193.14:8000/listen.pls",
+         "http": "",
+         "note": "Székesfehérvár (Local)"
+      },
+      {
+         "name": "FIKSZ Rádió",
+         "logo": "FIKSZ",
+         "link": "http://157.181.47.204:9000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "FM90 Friss Rádió",
+         "logo": "FM90",
+         "link": "http://stream.frissradio.hu:8000/listen.pls?sid=1",
+         "http": "",
+         "note": "Alternative, Pop, Rock Music (Debrecen, Local)"
+      },
+      {
+         "name": "Folk Radio",
+         "logo": "Folk",
+         "link": "http://list.folkradio.hu:443/modem16.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Forrás Rádió",
+         "logo": "Forras",
+         "link": "http://streamhost110.gtk.hu:9000/listen.pls",
+         "http": "",
+         "note": "Tatabánya (Local)"
+      },
+      {
+         "name": "Fortuna Rádió",
+         "logo": "Fortuna",
+         "link": "http://streamer.impressive.hu:8000/fortuna_paks_live.m3u",
+         "http": "",
+         "note": "Top 30 (Paks, Local)"
+      },
+      {
+         "name": "Frisss FM",
+         "logo": "Frisss",
+         "link": "http://92.61.114.195:9800/listen.pls",
+         "http": "",
+         "note": "Top 30 (Szombathely, Local)"
+      },
+      {
+         "name": "Gazdasági Rádió (Trend FM)",
+         "logo": "Gazdasagi",
+         "link": "http://radio.nordtelekom.hu:8000/gazdasagiradio.m3u",
+         "http": "",
+         "note": "News, Talk, Jazz Music"
+      },
+      {
+         "name": "Gong Radio",
+         "logo": "Gong",
+         "link": "http://www.gong.hu/gong-fm.m3u",
+         "http": "",
+         "note": "Top 30 (Kecskemét, Local)"
+      },
+      {
+         "name": "Ha-Jó Rádió",
+         "logo": "Ha",
+         "link": "http://www.radioszerver.hu:8076/listen.pls",
+         "http": "",
+         "note": "Vaja (Local)"
+      },
+      {
+         "name": "Helikon Rádió",
+         "logo": "Helikon",
+         "link": "http://217.113.59.10:8010/live2.mp3.m3u",
+         "http": "",
+         "note": "Keszthely (Local)"
+      },
+      {
+         "name": "Info Rádió",
+         "logo": "Inf",
+         "link": "http://87.229.45.44:8400/listen.pls",
+         "http": "",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Jazz Radio",
+         "logo": "Jazz",
+         "link": "http://194.38.105.21:8002/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "90.9 Jazzy",
+         "logo": "Jazzy",
+         "link": "http://www.jazzy.hu/jazzy909.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Jazzy Groove",
+         "logo": "Groove",
+         "link": "http://online.jazzy.hu/jazzy-groove.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Juventus Radio",
+         "logo": "Juventus",
+         "link": "http://www.listenlive.eu/juventus.m3u",
+         "http": "",
+         "note": "Pop/Rock Music"
+      },
+      {
+         "name": "Kapos Rádió",
+         "logo": "Kapos",
+         "link": "http://195.56.77.207:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Kaposvár, Local)"
+      },
+      {
+         "name": "Kaposvár Most",
+         "logo": "Most",
+         "link": "http://kaposvarmost.hu/radio/radiomost.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Kék Duna Rádió",
+         "logo": "Kek",
+         "link": "http://webradio2.ev2.hu:8000/listen.pls",
+         "http": "",
+         "note": "Gyor (Local)"
+      },
+      {
+         "name": "Klasszik Rádió 92.1",
+         "logo": "Klasszik",
+         "link": "http://online.klasszikradio.hu/klasszik.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Klubrádió",
+         "logo": "Klubradio",
+         "link": "http://www.klubradio.hu:8080/96kbit.m3u",
+         "http": "",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Kontakt Rádió",
+         "logo": "Kontakt",
+         "link": "http://87.229.45.44:8700/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Korona Rádió",
+         "logo": "Korona",
+         "link": "http://koronaradio.hu/music/korona.pls",
+         "http": "",
+         "note": "Kalocsa (Local)"
+      },
+      {
+         "name": "Lakihegy Rádió",
+         "logo": "Lakihegy",
+         "link": "http://stream.composeit.hu:8300/listen.pls",
+         "http": "",
+         "note": "Top 30 (Szigetszentmiklós, Local)"
+      },
+      {
+         "name": "Lánchíd Rádió",
+         "logo": "Lanchid",
+         "link": "http://91.82.85.44:9004/listen.pls",
+         "http": "",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Luxfunk Radio",
+         "logo": "Luxfunk",
+         "link": "http://87.229.45.44:8200/listen.pls",
+         "http": "",
+         "note": "RnB/Rap/Soul Music"
+      },
+      {
+         "name": "Magyar Katolikus Rádió",
+         "logo": "Magyar",
+         "link": "http://katolikusradio.hu/listen-hi.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mária Rádió",
+         "logo": "Maria",
+         "link": "http://www.mariaradio.hu:8000/mr.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Méz Rádió",
+         "logo": "Mez",
+         "link": "http://host2.radioszerver.hu:9200/listen.pls",
+         "http": "",
+         "note": "Top 30 (Veszprém, Local)"
+      },
+      {
+         "name": "Music 89.5",
+         "logo": "Music",
+         "link": "http://stream.musicfm.hu:8000/musicfm.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Music)"
+      },
+      {
+         "name": "Nap Rádió",
+         "logo": "Nap",
+         "link": "http://www.napradio.hu/napradio.m3u",
+         "http": "",
+         "note": "Top 30 (Sopron, Local)"
+      },
+      {
+         "name": "Nyugat Rádió",
+         "logo": "Nyugat",
+         "link": "http://www.nyugatradio.hu/live.m3u",
+         "http": "",
+         "note": "Szombathely (Local)"
+      },
+      {
+         "name": "Ozone (Oxygen Media Hírügynökség)",
+         "logo": "Ozone",
+         "link": "http://www.o3.hu/listen.pls",
+         "http": "",
+         "note": "Top 30 (Gyor, Local)"
+      },
+      {
+         "name": "Radio 6",
+         "logo": "6",
+         "link": "http://www.radio6.hu/live.m3u",
+         "http": "http://94.199.181.143:7080/live.mp3.m3u",
+         "note": "Top 30 (Százhalombatta, Local)"
+      },
+      {
+         "name": "Radio 7",
+         "logo": "7",
+         "link": "http://radio7.mellesleg.fm:8200/listen.pls",
+         "http": "",
+         "note": "Hódmezovásárhely (Local)"
+      },
+      {
+         "name": "Rádió 8",
+         "logo": "8",
+         "link": "http://musorcsere.hu:8600/listen.pls",
+         "http": "",
+         "note": "Körmend (Local)"
+      },
+      {
+         "name": "Rádió 17",
+         "logo": "17",
+         "link": "http://www.radio17.24hosting.hu:8111/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio 24",
+         "logo": "24",
+         "link": "http://radio.nordtelekom.hu:8000/radio24dunaujvaros.m3u",
+         "http": "",
+         "note": "Top 30 (Dunaujvarus, Local)"
+      },
+      {
+         "name": "Rádió 35",
+         "logo": "35",
+         "link": "http://195.191.222.207:8000/listen.pls",
+         "http": "",
+         "note": "Tiszaújváros (Local)"
+      },
+      {
+         "name": "Radio88",
+         "logo": "Radio88",
+         "link": "http://www.radio88.hu/stream/radio88.pls",
+         "http": "",
+         "note": "Top 30 (Szeged, Local)"
+      },
+      {
+         "name": "Radio88 Club 88",
+         "logo": "881",
+         "link": "http://stream2.radio88.hu:8400/listen.pls",
+         "http": "",
+         "note": "Music (Szeged, Local)"
+      },
+      {
+         "name": "Radio88 Retro 88",
+         "logo": "882",
+         "link": "http://stream1.radio88.hu:8300/listen.pls",
+         "http": "",
+         "note": "Oldies (Szeged, Local)"
+      },
+      {
+         "name": "Radio88 Top 88",
+         "logo": "883",
+         "link": "http://stream3.radio88.hu:8500/listen.pls",
+         "http": "",
+         "note": "Top 30 (Szeged, Local)"
+      },
+      {
+         "name": "Rádió Antritt",
+         "logo": "Antritt",
+         "link": "http://radioantritt.hu/Antritt.m3u",
+         "http": "",
+         "note": "Top 30 (Szekszárd, Local)"
+      },
+      {
+         "name": "Radio Cafe 98.6",
+         "logo": "Cafe",
+         "link": "http://www.savetofile.net:7100/RadioCafe.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Rádió Dabas",
+         "logo": "Dabas",
+         "link": "http://37.221.209.189:7093/listen.pls",
+         "http": "http://www.radiodabas.hu/files/listen.pls",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Radio Eger",
+         "logo": "Eger",
+         "link": "http://stream.radioeger.hu:18000/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Radio Eger TOP Hits",
+         "logo": "TOP",
+         "link": "http://stream.radioeger.hu:8160/listen.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Radio Eger Club",
+         "logo": "Club",
+         "link": "http://stream.radioeger.hu:8110/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Radio Eger Light",
+         "logo": "Light",
+         "link": "http://stream.radioeger.hu:8120/listen.pls",
+         "http": "",
+         "note": "Soft Music"
+      },
+      {
+         "name": "Radio Eger Hazai zenék",
+         "logo": "Hazai",
+         "link": "http://stream.radioeger.hu:8130/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Radio Eger Oldies",
+         "logo": "Oldies",
+         "link": "http://stream.radioeger.hu:8140/listen.pls",
+         "http": "",
+         "note": "Oldies"
+      },
+      {
+         "name": "Radio Eger Retro Café",
+         "logo": "Retro",
+         "link": "http://stream.radioeger.hu:8150/listen.pls",
+         "http": "",
+         "note": "Oldies"
+      },
+      {
+         "name": "Rádió Érd",
+         "logo": "Erd",
+         "link": "http://94.199.181.143:9340/live.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Face",
+         "logo": "Face",
+         "link": "http://www.savetofile.net:7000/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Radio FM95",
+         "logo": "FM95",
+         "link": "http://stream.webthings.hu:8000/fm95-x-128.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Debrecen, Local)"
+      },
+      {
+         "name": "Radio Focus",
+         "logo": "Focus",
+         "link": "http://www.sztarnet.hu/Radio_focus/online_1.m3u",
+         "http": "http://video72.onstreaming.de/Radio_focus/online_3.m3u",
+         "note": "Salgótarján (Local)"
+      },
+      {
+         "name": "Rádió M",
+         "logo": "M",
+         "link": "http://217.20.131.100:8000/radiom.m3u",
+         "http": "",
+         "note": "Top 30 (Miskolc, Local)"
+      },
+      {
+         "name": "Rádió MAX",
+         "logo": "MAX",
+         "link": "http://www.maxfm.hu/streams/maxok.m3u",
+         "http": "",
+         "note": "Top 30 (Debrecen, Local)"
+      },
+      {
+         "name": "Rádió Mi",
+         "logo": "Mi",
+         "link": "http://stream.radiomi.hu/radiomi.m3u",
+         "http": "",
+         "note": "Szeged (Local)"
+      },
+      {
+         "name": "Radio Q",
+         "logo": "Q",
+         "link": "http://radioszerver.hu:8300/listen.pls",
+         "http": "",
+         "note": "Music/Talk"
+      },
+      {
+         "name": "Rádió Sansz",
+         "logo": "Sansz",
+         "link": "http://www.sztarnet.hu/radio_sansz/online_3.m3u",
+         "http": "http://webservices85.44.lexanetwork.com:9056/listen.pls",
+         "note": "Székesfehérvár (Local)"
+      },
+      {
+         "name": "Rádió Smile 89,9MHz",
+         "logo": "Smile",
+         "link": "http://radiosmile.hu:8010/listen.pls",
+         "http": "http://radiosmile.hu:8050/listen.pls",
+         "note": "Top 30 (Kiskunfélegyháza, Local)"
+      },
+      {
+         "name": "Rádió Top",
+         "logo": "To",
+         "link": "http://www.radiotop.hu:888/listen.pls",
+         "http": "",
+         "note": "Top 30 (Kazincbarcika, Local)"
+      },
+      {
+         "name": "Retro Radio",
+         "logo": "Retr",
+         "link": "http://www.retrofm.hu/listen.pls",
+         "http": "",
+         "note": "Nyíregyháza (Local)"
+      },
+      {
+         "name": "Rise FM Budapest",
+         "logo": "Rise",
+         "link": "http://live.risefm.hu:8080/radio.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Rise FM Balaton",
+         "logo": "Balato",
+         "link": "http://live.risefm.hu:8080/radio989.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Sirius Rádió",
+         "logo": "Sirius",
+         "link": "http://www.siriusradio.hu/sirius.m3u",
+         "http": "",
+         "note": "Top 30 (Kiskunfélegyháza, Local)"
+      },
+      {
+         "name": "Sunshine Rádió",
+         "logo": "Sunshine",
+         "link": "http://195.56.193.129:8100/listen.pls",
+         "http": "",
+         "note": "Top 30 (Nyíregyháza, Local)"
+      },
+      {
+         "name": "Szent István Rádió",
+         "logo": "Szent",
+         "link": "http://online.szentistvanradio.hu:7000/listen.pls",
+         "http": "",
+         "note": "Eger (Local)"
+      },
+      {
+         "name": "Szentkorona Rádió",
+         "logo": "Szentkorona",
+         "link": "http://radio.szentkoronaradio.com:8048/listen.pls",
+         "http": "",
+         "note": "Music, Talk"
+      },
+      {
+         "name": "Szinva Radio",
+         "logo": "Szinva",
+         "link": "http://87.229.26.113:7260/in.mp3.m3u",
+         "http": "",
+         "note": "Miskolc (Local)"
+      },
+      {
+         "name": "Tamási Rádió",
+         "logo": "Tamasi",
+         "link": "http://87.229.45.44:9100/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Tilos Radio",
+         "logo": "Tilos",
+         "link": "http://stream.tilos.hu/tilos_128.mp3.m3u",
+         "http": "http://stream.tilos.hu/tilos.m3u",
+         "note": "Dance/Alternative/Freeform Music"
+      },
+      {
+         "name": "Torony Rádió",
+         "logo": "Torony",
+         "link": "http://37.221.209.105:8040/listen.pls",
+         "http": "",
+         "note": "Top 30 (Békés, Local)"
+      },
+      {
+         "name": "Trió Rádió",
+         "logo": "Trio",
+         "link": "http://79.172.217.50:9090/listen.pls",
+         "http": "",
+         "note": "Top 30 (Jászberény, Local)"
       }
    ]
 }

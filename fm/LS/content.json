@@ -43,13 +43,83 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "357 FM",
+         "logo": "357",
+         "link": "http://173.236.19.90:8312/listen.pls?sid=1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "DOPE FM 103.6",
+         "logo": "DOPE",
+         "link": "http://usa7.fastcast4u.com/proxy/dope?mp=/1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Harvest",
+         "logo": "Harvest",
+         "link": "http://stream.zenolive.com/gbttqnabh3vtv.aac",
+         "http": "https://stream.zenolive.com/gbttqnabh3vtv.aac",
+         "note": "Talk, News"
+      },
+      {
+         "name": "Maria (Lesotho)",
+         "logo": "Maria",
+         "link": "http://dreamsiteradiocp5.com:8038/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MoAfrika",
+         "logo": "MoAfrika",
+         "link": "http://ca3.rcast.net:8040/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Molisa ea Molemo",
+         "logo": "Molisa",
+         "link": "http://usa7.fastcast4u.com/proxy/molisa?mp=/1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "People's Choice",
+         "logo": "Choice",
+         "link": "http://usa7.fastcast4u.com/proxy/pcfm?mp=/1",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "RFI English",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+         "http": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+         "note": "Talk, News, Sport"
+      },
+      {
+         "name": "Tšenolo",
+         "logo": "Tsenolo",
+         "link": "http://usa7.fastcast4u.com/proxy/tsenolofm?mp=/1",
+         "http": "http://102.130.114.208:8000/tsenolofm",
+         "note": "Talk"
+      },
+      {
+         "name": "VOA Africa",
+         "logo": "VOA",
+         "link": "https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

@@ -43,13 +43,104 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Алмаз-ФМ",
+         "logo": "Almaz",
+         "link": "http://almazfm.ddns.net:8888/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Европа Плюс",
+         "logo": "Europa",
+         "link": "http://ep256.hostingradio.ru:8052/europaplus256.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "КТРК Кыргыз",
+         "logo": "KTRK",
+         "link": "http://212.112.96.232:8083/",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Кыргызстан Обондору",
+         "logo": "Obondoru",
+         "link": "http://31.192.250.52:8000/obondoru128.m3u",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "Manas 102.9 FM",
+         "logo": "Manas",
+         "link": "http://live.mediamanas.kg:8000/online.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Марал",
+         "logo": "Maral",
+         "link": "http://212.42.115.186:8000/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "ОК",
+         "logo": "OK",
+         "link": "http://stream.okradio.kg:8000/mp3-hq.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Рекорд",
+         "logo": "Record",
+         "link": "http://air.radiorecord.ru:8101/rr_320.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Ретро FM",
+         "logo": "Retro",
+         "link": "http://retroserver.streamr.ru:8043/retro256.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Romantika",
+         "logo": "Romantika",
+         "link": "https://pub0302.101.ru:8443/stream/air/aac/64/101.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Спутник",
+         "logo": "Sputnik",
+         "link": "http://nfw.ria.ru/flv/audio.aspx?ID=34872596&type=mp3",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Тумар FM 101.3",
+         "logo": "Tumar",
+         "link": "http://live.tumar.fm:8000/online.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Хит FM 105.6",
+         "logo": "Hit",
+         "link": "http://radio.city.kg:8000/hitfm-bishkek.mp3.m3u",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "Эхо Москвы 91.2 FM",
+         "logo": "Echo",
+         "link": "http://ice912.echo.msk.ru:9120/32.aac.m3u",
+         "http": "",
+         "note": "News"
       }
    ]
 }

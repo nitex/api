@@ -43,13 +43,412 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "RTÉ Radio 1",
+         "logo": "RTE1",
+         "link": "http://www.listenlive.eu/rte1.m3u",
+         "http": "",
+         "note": "News / Features"
+      },
+      {
+         "name": "RTÉ Radio 1 Extra",
+         "logo": "RTE2",
+         "link": "http://www.listenlive.eu/rte1extra.m3u",
+         "http": "",
+         "note": "News / Features"
+      },
+      {
+         "name": "RTÉ Radio 2",
+         "logo": "RTE3",
+         "link": "http://www.listenlive.eu/rte2fm.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "RTÉ Lyric FM",
+         "logo": "RTE4",
+         "link": "http://www.listenlive.eu/rtelyric.m3u",
+         "http": "",
+         "note": "Classical Music (Limerick, Local)"
+      },
+      {
+         "name": "RTÉ Raidió Na Gaeltachta",
+         "logo": "RTE5",
+         "link": "http://www.listenlive.eu/rternag.m3u",
+         "http": "",
+         "note": "Gaelic (Casla, Local)"
+      },
+      {
+         "name": "RTÉ 2XM",
+         "logo": "RTE6",
+         "link": "http://www.listenlive.eu/rte2xm.m3u",
+         "http": "",
+         "note": "Rock / Indie / New Music"
+      },
+      {
+         "name": "RTÉ Gold",
+         "logo": "RTE7",
+         "link": "http://www.listenlive.eu/rtegold.m3u",
+         "http": "",
+         "note": "Oldies"
+      },
+      {
+         "name": "RTÉ Junior",
+         "logo": "RTE8",
+         "link": "http://www.listenlive.eu/rtejunior.m3u",
+         "http": "",
+         "note": "Youth programming"
+      },
+      {
+         "name": "RTÉ Pulse",
+         "logo": "RTE9",
+         "link": "http://www.listenlive.eu/rtepulse.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Cork's 96FM",
+         "logo": "96FM",
+         "link": "http://stream3.radiomonitor.com/96FM.m3u",
+         "http": "http://stream3.radiomonitor.com/96FM-AAC.m3u",
+         "note": "Top 30 (Cork, Local)"
+      },
+      {
+         "name": "98FM",
+         "logo": "98FM",
+         "link": "http://ice2.gocaster.net/98.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Absolute Irish",
+         "logo": "Absolute",
+         "link": "http://184.154.145.114:8013/AbsoluteIrish-aac",
+         "http": "",
+         "note": "Waterford (Local)"
+      },
+      {
+         "name": "Beat 102-103",
+         "logo": "Beat",
+         "link": "http://184.154.145.114:8013/beataac.m3u",
+         "http": "",
+         "note": "Top 30 (Waterford, Local)"
+      },
+      {
+         "name": "C103 North",
+         "logo": "C103",
+         "link": "http://stream3.radiomonitor.com/C103-North.m3u",
+         "http": "http://stream3.radiomonitor.com/C103-North-AAC.m3u",
+         "note": "Mallow (Local)"
+      },
+      {
+         "name": "C103 West",
+         "logo": "C10",
+         "link": "http://stream3.radiomonitor.com/C103-West.m3u",
+         "http": "http://stream3.radiomonitor.com/C103-West-AAC.m3u",
+         "note": "Bandon (Local)"
+      },
+      {
+         "name": "Clare FM",
+         "logo": "Clare",
+         "link": "http://icy-e-04.sharp-stream.com/clarefm.aac.m3u",
+         "http": "",
+         "note": "Ennis (Local)"
+      },
+      {
+         "name": "Classic Hits 4FM",
+         "logo": "4FM",
+         "link": "http://sirius.shoutca.st:8166/listen.pls?sid=1",
+         "http": "http://sirius.shoutca.st:8188/listen.pls?sid=1",
+         "note": ""
+      },
+      {
+         "name": "Dublin City FM",
+         "logo": "Dublin",
+         "link": "http://stream.bts.ie:8081/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Dublin South FM",
+         "logo": "South",
+         "link": "http://uk1.internet-radio.com:15047/live.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Dundalk FM",
+         "logo": "Dundalk",
+         "link": "http://80.249.249.245:8000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "East Coast FM",
+         "logo": "Coast",
+         "link": "http://sirius.shoutca.st:8461/listen.pls?sid=1",
+         "http": "http://sirius.shoutca.st:8673/listen.pls?sid=1",
+         "note": "Top 30 (Bray, Local)"
+      },
+      {
+         "name": "FM104",
+         "logo": "FM104",
+         "link": "http://31.14.40.241:6184/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Galway Bay FM",
+         "logo": "Galway",
+         "link": "http://91.121.0.110:2199/tunein/damburke.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Highland Radio",
+         "logo": "Highland",
+         "link": "http://www.highlandradio.com/highland.m3u",
+         "http": "",
+         "note": "Letterkenny (Local)"
+      },
+      {
+         "name": "iRadio West & North West",
+         "logo": "iRadio",
+         "link": "http://iradio.iceca.st/i102104.m3u",
+         "http": "",
+         "note": "Galway (Local)"
+      },
+      {
+         "name": "iRadio Midlands & North East",
+         "logo": "Midlands",
+         "link": "http://iradio.iceca.st/i105107.m3u",
+         "http": "",
+         "note": "Athlone (Local)"
+      },
+      {
+         "name": "KCLR 96FM Kilkenny",
+         "logo": "Kilkenny",
+         "link": "http://ghost.wavestreamer.com:8515/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "KCLR 96FM Carlow",
+         "logo": "Carlow",
+         "link": "http://ghost.wavestreamer.com:4858/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "KFM",
+         "logo": "KFM",
+         "link": "http://cty.gocaster.net:8000/kfm_web.m3u",
+         "http": "",
+         "note": "Naas (Local)"
+      },
+      {
+         "name": "Life FM",
+         "logo": "Life",
+         "link": "http://79.170.198.170:8000/radio.m3u",
+         "http": "",
+         "note": "Christian (Cork, Local)"
+      },
+      {
+         "name": "Live 95",
+         "logo": "95",
+         "link": "http://stream3.radiomonitor.com/Live95.m3u",
+         "http": "http://stream3.radiomonitor.com/Live95-AAC.m3u",
+         "note": "Top 30 (Limerick, Local)"
+      },
+      {
+         "name": "LMFM",
+         "logo": "LMFM",
+         "link": "http://stream3.radiomonitor.com/LMFM.m3u",
+         "http": "http://stream3.radiomonitor.com/LMFM-AAC.m3u",
+         "note": "Drogheda (Local)"
+      },
+      {
+         "name": "Mid West Radio",
+         "logo": "Mid",
+         "link": "http://icy-e-04.sharp-stream.com/midwestfmie.mp3.m3u",
+         "http": "http://icy-e-04.sharp-stream.com/midwestfmie2.aac.m3u",
+         "note": "Ballyhaunis (Local)"
+      },
+      {
+         "name": "Midlands 103",
+         "logo": "103",
+         "link": "http://icy-e-04.sharp-stream.com/midlands103.mp3.m3u",
+         "http": "",
+         "note": "Tullamore (Local)"
+      },
+      {
+         "name": "Near fm",
+         "logo": "Near",
+         "link": "http://37.187.193.36:8024/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "NewsTalk 106-108",
+         "logo": "NewsTalk",
+         "link": "http://communicorp.mp3.miisolutions.net:8000/communicorp/Newstalk_low.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Northern Sound",
+         "logo": "Sound",
+         "link": "http://radiokerry.mp3.miisolutions.net:8050/radiokerry/northernsound_128kMP3_website.m3u",
+         "http": "",
+         "note": "Monaghan (Local)"
+      },
+      {
+         "name": "Ocean FM",
+         "logo": "Ocean",
+         "link": "http://icy-e-04.sharp-stream.com/oceanfm.mp3.m3u",
+         "http": "",
+         "note": "Sligo (Local)"
+      },
+      {
+         "name": "Pure Classic",
+         "logo": "Pure",
+         "link": "http://209.95.50.189:8036/listen.pls",
+         "http": "",
+         "note": "Classical Music"
+      },
+      {
+         "name": "Q102",
+         "logo": "Q102",
+         "link": "http://stream2.radiomonitor.com/Q102.m3u",
+         "http": "http://stream2.radiomonitor.com/Q102-AAC.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio Kerry",
+         "logo": "Kerry",
+         "link": "http://radiokerry.mp3.miisolutions.net:8050/radiokerry/radiokerry_128kMP3.m3u",
+         "http": "",
+         "note": "Tralee (Local)"
+      },
+      {
+         "name": "Radio Nova",
+         "logo": "Nova",
+         "link": "http://31.14.40.241:9752/listen.pls",
+         "http": "",
+         "note": "Classic Rock Music"
+      },
+      {
+         "name": "Raidió Rí-Rá",
+         "logo": "RiRa",
+         "link": "http://5.63.151.52:8023/listen.pls",
+         "http": "",
+         "note": "Top 30 (Irish language)"
+      },
+      {
+         "name": "Red FM",
+         "logo": "Red",
+         "link": "http://tx.sharp-stream.com/icecast.php?i=redfm.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Cork, Local)"
+      },
+      {
+         "name": "Shannonside FM",
+         "logo": "Shannonside",
+         "link": "http://radiokerry.mp3.miisolutions.net:8050/radiokerry/shannonside_128kMP3_website.m3u",
+         "http": "http://shoutcasthq.radiokerry.ie:8010/listen.pls",
+         "note": "Longford (Local)"
+      },
+      {
+         "name": "South East Radio",
+         "logo": "East",
+         "link": "http://31.14.40.241:9726/listen.pls",
+         "http": "http://31.14.40.241:9728/listen.pls",
+         "note": "Wexford (Local)"
+      },
+      {
+         "name": "Spin 103.8",
+         "logo": "103.8",
+         "link": "http://communicorp.mp3.eap.eur.miisolutions.net/communicorp/Spin1038_high.m3u",
+         "http": "",
+         "note": "Top 30 (Music)"
+      },
+      {
+         "name": "Spin South West",
+         "logo": "Spin",
+         "link": "http://pri.gocaster.net/sw.m3u",
+         "http": "",
+         "note": "Top 30 (Limerick, Local)"
+      },
+      {
+         "name": "Spirit Radio",
+         "logo": "Spirit",
+         "link": "http://st2.webradioworld.net/tunein.php/spiritradio01/playlist.pls",
+         "http": "http://st2.webradioworld.net/tunein.php/spiritradio02/playlist.pls",
+         "note": "Christian Radio"
+      },
+      {
+         "name": "Sunshine 106.8",
+         "logo": "Sunshine",
+         "link": "http://sirius.shoutca.st:8291/listen.pls?sid=1",
+         "http": "http://sirius.shoutca.st:8337/listen.pls?sid=1",
+         "note": "Easy Listening"
+      },
+      {
+         "name": "Tipperary Mid-West Radio",
+         "logo": "Tipperary",
+         "link": "http://184.154.145.114:8007/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Tipp FM",
+         "logo": "Tipp",
+         "link": "http://icy-e-04.sharp-stream.com/tippfm.aac.m3u",
+         "http": "",
+         "note": "Clonmel (Local)"
+      },
+      {
+         "name": "Today FM",
+         "logo": "Today",
+         "link": "http://pri.gocaster.net/td4.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "TXFM",
+         "logo": "TXFM",
+         "link": "http://www.listenlive.eu/phantom.m3u",
+         "http": "",
+         "note": "Rock / Indie Music"
+      },
+      {
+         "name": "West Limerick 102",
+         "logo": "Limerick",
+         "link": "http://freedom.wavestreamer.com:7002/listen.pls",
+         "http": "",
+         "note": "Abbeyfeale (Local)"
+      },
+      {
+         "name": "WLR FM",
+         "logo": "WLR",
+         "link": "http://184.154.145.114:8013/wlrmp3.m3u",
+         "http": "",
+         "note": "Waterford (Local)"
+      },
+      {
+         "name": "Zenith Classic Rock",
+         "logo": "Zenith",
+         "link": "http://148.163.81.10:8006/listen.pls?sid=1",
+         "http": "",
+         "note": "Waterford (Local)"
+      },
+      {
+         "name": "Live Ireland Channel 1",
+         "logo": "Ireland",
+         "link": "http://www.liveireland.com/live.pls",
+         "http": "http://www.liveireland.com/liveAACplus.pls",
+         "note": "Traditional Irish Music"
       }
    ]
 }

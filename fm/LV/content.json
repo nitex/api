@@ -43,13 +43,237 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Latvijas Radio 1",
+         "logo": "Latvijas",
+         "link": "http://lr1mp1.latvijasradio.lv:8010/listen.pls",
+         "http": "http://lr1mp1.latvijasradio.lv:8012/listen.pls",
+         "note": "News/Features/Music"
+      },
+      {
+         "name": "Latvijas Radio 2",
+         "logo": "2",
+         "link": "http://lr2mp0.latvijasradio.lv:8000/listen.pls",
+         "http": "http://lr2mp1.latvijasradio.lv:8002/listen.pls",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Latvijas Radio 3 Klasika",
+         "logo": "3",
+         "link": "http://lr3mp0.latvijasradio.lv:8006/listen.pls",
+         "http": "http://lr3mp0.latvijasradio.lv:8004/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "Latvijas Radio 4",
+         "logo": "4",
+         "link": "http://lr4mp0.latvijasradio.lv:8018/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "1 Business Radio",
+         "logo": "Business",
+         "link": "http://a.1br.lv:8000/1BusinessRadio.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Alise +",
+         "logo": "Alise",
+         "link": "http://fm2inet.aliseplus.lv:8080/listen.pls",
+         "http": "",
+         "note": "Top 10 (Daugavpils)"
+      },
+      {
+         "name": "Capital FM",
+         "logo": "Capital",
+         "link": "http://radio2.capitalfm.lv:8000/listen.pls",
+         "http": "http://radio2.capitalfm.lv:9000/listen.pls",
+         "note": "Top 10 / Dance"
+      },
+      {
+         "name": "European Hit Radio",
+         "logo": "European",
+         "link": "http://stream.europeanhitradio.com:8000/ehr64.m3u",
+         "http": "http://stream.europeanhitradio.com:8000/ehr.ogg.m3u",
+         "note": "Top 10"
+      },
+      {
+         "name": "Europa Plus 99,5",
+         "logo": "Europa",
+         "link": "http://radio.995.lv/995.m3u",
+         "http": "",
+         "note": "Top 10 / Dance"
+      },
+      {
+         "name": "Hiti Rossii",
+         "logo": "Hiti",
+         "link": "http://stream.hitirossii.com:8000/khr.mp3.m3u",
+         "http": "",
+         "note": "Rock/Pop Music"
+      },
+      {
+         "name": "Jumor FM",
+         "logo": "Jumor",
+         "link": "http://radio.jumorfm.lv/GoldFM.m3u",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Kurzemes Radio",
+         "logo": "Kurzemes",
+         "link": "http://80.70.23.50:8000/listen.pls",
+         "http": "",
+         "note": "Kuldīga (Local)"
+      },
+      {
+         "name": "Latgolys Radeja",
+         "logo": "Latgolys",
+         "link": "http://lr.lv/stereo_96k.pls",
+         "http": "",
+         "note": "Rezekne (Local)"
+      },
+      {
+         "name": "Latvijas Kristigais Radio",
+         "logo": "Kristigais",
+         "link": "http://91.203.71.10:8006/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mix FM",
+         "logo": "Mix",
+         "link": "http://radio.mixfm.lv/MixFM.m3u",
+         "http": "",
+         "note": "Top 10"
+      },
+      {
+         "name": "Radio 1",
+         "logo": "1",
+         "link": "http://93.177.251.152:8000/live1.mp3.m3u",
+         "http": "",
+         "note": "Pop/Rock/Dance Music (Jekabpils, Local)"
+      },
+      {
+         "name": "Radio Baltkom",
+         "logo": "Baltkom",
+         "link": "http://91.90.255.111/baltkom.m3u",
+         "http": "",
+         "note": "News/Information/Music"
+      },
+      {
+         "name": "Radio Ef-Ei",
+         "logo": "Ef-Ei",
+         "link": "http://www.efeipro.lv/efei.pls",
+         "http": "",
+         "note": "Pop Music (Rezekne, Local)"
+      },
+      {
+         "name": "RadioNABA",
+         "logo": "RadioNABA",
+         "link": "http://nabamp0.latvijasradio.lv:8016/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Radio Oira",
+         "logo": "Oira",
+         "link": "http://radiooira.lv:8000/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Radio Pik",
+         "logo": "Pik",
+         "link": "http://www.pik.lv/files/players/winampstereo.pls",
+         "http": "",
+         "note": "Top 10"
+      },
+      {
+         "name": "Radio Skonto",
+         "logo": "Skonto",
+         "link": "http://www.radioskonto.lv/online_radio/stereo.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio SWH",
+         "logo": "SWH",
+         "link": "http://80.232.162.149:8000/swh96mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio SWH+",
+         "logo": "S",
+         "link": "http://80.232.162.149:8000/plus96mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio SWH Rock",
+         "logo": "SW",
+         "link": "http://80.232.162.149:8000/rock96mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Valmiera",
+         "logo": "Valmiera",
+         "link": "http://85.254.49.110:8002/radiov.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Retro FM",
+         "logo": "Retro",
+         "link": "http://lifemedia.cloud.makonix.com:8000/listen.pls",
+         "http": "",
+         "note": "Oldies"
+      },
+      {
+         "name": "Rietumu Radio",
+         "logo": "Rietumu",
+         "link": "http://85.254.49.118:8000/listen.pls",
+         "http": "",
+         "note": "Pop/Rock Music (Liepaja, Local)"
+      },
+      {
+         "name": "Riga Radio (XO)",
+         "logo": "Riga",
+         "link": "http://r.rigaradio.lv:8000/mp3.m3u",
+         "http": "",
+         "note": "News/Talk/Music"
+      },
+      {
+         "name": "Spin FM",
+         "logo": "Spin",
+         "link": "http://80.232.162.149:8000/spin96mp3.m3u",
+         "http": "",
+         "note": "Top 10"
+      },
+      {
+         "name": "STAR FM",
+         "logo": "STA",
+         "link": "http://www.listenlive.eu/streams/latvia/starfm.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Super FM",
+         "logo": "Super",
+         "link": "http://stream.superfm.lv:8000/lhr.mp3.m3u",
+         "http": "",
+         "note": "Top 10"
+      },
+      {
+         "name": "Top Radio",
+         "logo": "TopRadio",
+         "link": "http://195.13.200.164:8000/listen.pls",
+         "http": "",
+         "note": "Dance"
       }
    ]
 }

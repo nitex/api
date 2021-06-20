@@ -43,13 +43,167 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "100,7",
+         "logo": "100,7",
+         "link": "http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3.m3u",
+         "http": "http://www.listenlive.eu/streams/luxembourg/100komma7.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "AFN Benelux",
+         "logo": "AFN",
+         "link": "http://www.surfmusic.de/m3u/afn-benelux,17199.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Aktiv 106,5",
+         "logo": "Aktiv",
+         "link": "http://zeus.lrb.lu:8000/stream.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-aktiv-106-5,4435.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "ARA",
+         "logo": "ARA",
+         "link": "http://stream.ara.lu/stream.mp3.m3u",
+         "http": "http://stream.ara.lu:80/stream.mp3",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "EldoRadio",
+         "logo": "EldoRadio",
+         "link": "http://eldoradiolive.newmedia.lu/listen.pls",
+         "http": "http://sc-eldolive.newmedia.lu/listen.pls",
+         "note": "Top Music"
+      },
+      {
+         "name": "EldoRadio Alternative",
+         "logo": "Alternative",
+         "link": "http://sc-eldoalt.newmedia.lu/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "EldoRadio Chill",
+         "logo": "Chill",
+         "link": "http://sc-eldochill.newmedia.lu/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "EldoRadio 80s",
+         "logo": "80s",
+         "link": "http://sc-eldo80s.newmedia.lu/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "EldoRadio Top 25",
+         "logo": "25",
+         "link": "http://sc-eldotop25.newmedia.lu/listen.pls",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "FRL - Free Radio Luxembourg",
+         "logo": "FRL",
+         "link": "https://www.radioking.com/play/rfm-luxembourg/137599",
+         "http": "",
+         "note": "Pop, Rock, Disco Music"
+      },
+      {
+         "name": "L'essentiel 107.7 FM",
+         "logo": "essentiel",
+         "link": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/l-essentiel-radio,18699.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Latina",
+         "logo": "Latina",
+         "link": "http://www.radiolatina.lu:8000/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "LNW LYCEE du NORD",
+         "logo": "LNW",
+         "link": "http://www.surfmusic.de/m3u/radio-lnw,4437.m3u",
+         "http": "",
+         "note": "Wiltz (Local)"
+      },
+      {
+         "name": "LRB",
+         "logo": "LRB",
+         "link": "http://zeus.lrb.lu:8000/lrb.live.m3u",
+         "http": "http://www.surfmusic.de/m3u/lrb-bettemburg,4434.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Péiteng on Air 102.2 FM",
+         "logo": "Air",
+         "link": "http://stream.petangeonair.lu:9000/live.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Positive",
+         "logo": "Positive",
+         "link": "https://nl.digitalrm.pt:8078/stream.m3u",
+         "http": "https://nl.digitalrm.pt:8076/stream.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "PULS Luxembourg",
+         "logo": "PULS",
+         "link": "http://www.surfmusic.de/m3u/radio-puls-luxembourg,19264.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "RBV - Belle Vallée 107 FM",
+         "logo": "RBV",
+         "link": "http://rbv.lu:8002/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-rbv-107-0-fm,19701.m3u",
+         "note": "Oldies, Top Music"
+      },
+      {
+         "name": "RGL - Gutt Laun",
+         "logo": "RGL",
+         "link": "http://soho.wavestreamer.com:7168/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/radio-gutt-laun-rgl-106-0-fm,8773.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "ROM 106.5 FM",
+         "logo": "ROM",
+         "link": "http://rs1.radiostreamer.com:8270/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/rom-106-5-fm,9711.m3u",
+         "note": "Top Music (Medernach, Local)"
+      },
+      {
+         "name": "RTL",
+         "logo": "RT",
+         "link": "http://81.92.237.118/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/rtl-radio,1203.m3u",
+         "note": "Oldies"
+      },
+      {
+         "name": "RTL Lëtzebuerg",
+         "logo": "Letzebuerg",
+         "link": "http://live.newmedia.lu/listen.pls",
+         "http": "http://radio.rtl.lu/mp3.pls",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "RTL Radio",
+         "logo": "RTL",
+         "link": "http://sec-rtldtl.hoerradar.de/rtldtl-national-mp3-128",
+         "http": "http://81.92.237.123:8080/listen.pls",
+         "note": "News, Talk, Music"
       }
    ]
 }

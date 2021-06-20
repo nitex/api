@@ -43,13 +43,167 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "City Radio",
+         "logo": "City",
+         "link": "http://checast.com/listen/mk/city.pls",
+         "http": "",
+         "note": "Top 5"
+      },
+      {
+         "name": "Club FM 103.4",
+         "logo": "Club",
+         "link": "http://217.16.69.17:8000/club.mp3.m3u",
+         "http": "",
+         "note": "Dance Music"
+      },
+      {
+         "name": "Ekspres Radio 101,1",
+         "logo": "Ekspres",
+         "link": "http://vozivo.ekspresradio.com.mk/",
+         "http": "http://ekspresradio.dyndns.org:8000/listen.pls",
+         "note": "Pop/Rock Music (Strumica, Local)"
+      },
+      {
+         "name": "Folk Radio 106.5 FM",
+         "logo": "Folk",
+         "link": "http://89.205.127.244:8000/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Jazz FM 100.8 FM",
+         "logo": "Jazz",
+         "link": "http://217.16.69.17:8000/jazz.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Kanal 4",
+         "logo": "4",
+         "link": "http://195.26.152.94:8000/listen.pls",
+         "http": "",
+         "note": "Sport/Music"
+      },
+      {
+         "name": "Kanal 77",
+         "logo": "77",
+         "link": "http://ss1.mk.checast.com:9002/live.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Kanal 103",
+         "logo": "103",
+         "link": "http://radiostream.neotel.mk/kanal103",
+         "http": "http://217.16.69.17:8000/kanal103.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Life Radio",
+         "logo": "Life",
+         "link": "http://217.16.69.17:8000/liveradio.mp3.m3u",
+         "http": "",
+         "note": "Top 5"
+      },
+      {
+         "name": "Metropolis Radio Network",
+         "logo": "Metropolis",
+         "link": "http://217.16.69.17:8000/metropolis.mp3.m3u",
+         "http": "",
+         "note": "Top 5 / Dance Music"
+      },
+      {
+         "name": "MX Radio",
+         "logo": "MX",
+         "link": "http://checast.com:27/mk/ohrid/mx.mp3.m3u",
+         "http": "",
+         "note": "Ohrid (Local)"
+      },
+      {
+         "name": "Radio 105",
+         "logo": "105",
+         "link": "http://radio105bombarder.com/Radio105.pls",
+         "http": "http://radio105.makbots.com:21010/listen.pls",
+         "note": "Bitola (Local)"
+      },
+      {
+         "name": "Radio 106",
+         "logo": "106",
+         "link": "http://ss1.topstream24.net:21100/listen.pls",
+         "http": "",
+         "note": "Top 5 (Bitola, Local)"
+      },
+      {
+         "name": "Radio БУБА МАРА",
+         "logo": "Bubamara",
+         "link": "http://217.16.69.17:8000/bubamara.mp3.m3u",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Radio Fortuna 96.8 FM",
+         "logo": "Fortuna",
+         "link": "http://50.7.129.122:8497/listen.pls",
+         "http": "http://50.7.245.10:9998/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "Radio Holidej 102.1 FM",
+         "logo": "Holidej",
+         "link": "http://217.16.69.10:8018/listen.pls",
+         "http": "",
+         "note": "Music (Prilep, Local)"
+      },
+      {
+         "name": "Radio Lav",
+         "logo": "Lav",
+         "link": "http://ss3.topstream24.net:27//mk/ohrid/lav.mp3.m3u",
+         "http": "",
+         "note": "Ohrid (Local)"
+      },
+      {
+         "name": "Radio Plus Forte",
+         "logo": "Forte",
+         "link": "http://217.16.69.17:8000/plusforte.mp3.m3u",
+         "http": "",
+         "note": "Tetovo (Local)"
+      },
+      {
+         "name": "Radio Ravel 96.0 FM",
+         "logo": "Ravel",
+         "link": "http://217.16.69.17:8000/ravel.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Vati 88.4 FM",
+         "logo": "Vati",
+         "link": "http://www.vati.com.mk/live/live.m3u",
+         "http": "",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Sky Radio 102.5 FM",
+         "logo": "Sky",
+         "link": "http://skyradio.com.mk/listen.m3u",
+         "http": "http://89.205.123.70:8000/listen.pls",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Sportsko Radio",
+         "logo": "Sportsko",
+         "link": "http://217.16.69.10:8020/listen.pls",
+         "http": "",
+         "note": "Sport/Music"
+      },
+      {
+         "name": "SuperRadio",
+         "logo": "SuperRadio",
+         "link": "http://checast.com:27/mk/ohrid/super.mp3.m3u",
+         "http": "",
+         "note": "Ohrid (Local)"
       }
    ]
 }

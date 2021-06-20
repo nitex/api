@@ -43,13 +43,139 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Africa Radio",
+         "logo": "Afric",
+         "link": "http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "BBC Afrique",
+         "logo": "BBC",
+         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "HitFM Mauritius",
+         "logo": "HitFM",
+         "link": "http://www.surfmusic.de/m3u/hitfm-mauritius,17743.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MBC Best FM",
+         "logo": "Best",
+         "link": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/bestfm.m3u8",
+         "http": "http://www.surfmusic.de/m3u/best-fm,15894.m3u",
+         "note": ""
+      },
+      {
+         "name": "MBC Kool FM",
+         "logo": "Kool",
+         "link": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/koolfm.m3u8",
+         "http": "http://www.surfmusic.de/m3u/kool-fm,37.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "MBC Music FM",
+         "logo": "MBC",
+         "link": "http://www.surfmusic.de/m3u/mbc-music-fm,15803.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MBC Radio Maurice 1",
+         "logo": "1",
+         "link": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomaurice.m3u8",
+         "http": "http://www.surfmusic.de/m3u/648-mbc-radio-maurice-1,15801.m3u",
+         "note": "Oldies"
+      },
+      {
+         "name": "MBC Radio Mauritius 2",
+         "logo": "2",
+         "link": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/radiomauritius.m3u8",
+         "http": "http://www.surfmusic.de/m3u/mbc-radio-mauritius-2-819,15802.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "MBC Taal FM",
+         "logo": "Taal",
+         "link": "http://www.mbcradio.tv/sites/all/themes/mbcradiotv/radiostreams/taalfm.m3u8",
+         "http": "http://www.surfmusic.de/m3u/taal-fm,38.m3u",
+         "note": "Oldies"
+      },
+      {
+         "name": "Moris",
+         "logo": "Moris",
+         "link": "http://www.surfmusic.de/m3u/radio-moris-modem,2234.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-moris-dsl,2233.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "NRJ Maurice",
+         "logo": "NRJ",
+         "link": "http://185.52.127.170/mu/55802/mp3_128.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/nrj-maurice,20047.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "One",
+         "logo": "One",
+         "link": "http://173.208.157.101:8020/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-one,11894.m3u",
+         "note": "News, Talk, Top Music"
+      },
+      {
+         "name": "Plus",
+         "logo": "Plus",
+         "link": "http://s4.voscast.com:8432/listen.pls",
+         "http": "https://stream.radio.co/s8cc7a5da4/listen",
+         "note": "News, Music"
+      },
+      {
+         "name": "Plus Fever",
+         "logo": "Fever",
+         "link": "http://www.surfmusic.de/m3u/radio-plus-fever,16822.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Plus Hits",
+         "logo": "Hits",
+         "link": "http://www.surfmusic.de/m3u/radio-plus-hits,16821.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "RFI Afrique",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Rock Mauritius",
+         "logo": "Rock",
+         "link": "http://www.surfmusic.de/m3u/rock-mauritius-radio,16327.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Top FM",
+         "logo": "T",
+         "link": "http://webcast.orange.mu:1935/TopFM/TopFM.sdp/playlist.m3u8",
+         "http": "http://www.surfmusic.de/m3u/top-radio-fm,3476.m3u",
+         "note": "News, Talk, Top"
+      },
+      {
+         "name": "VOA Afrique",
+         "logo": "VOA",
+         "link": "http://stream.radiojar.com/yuqn4nngq3quv",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

@@ -43,13 +43,622 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "ERT Open",
+         "logo": "ERT",
+         "link": "http://radio.ertopen.com/erasport",
+         "http": "http://www.listenlive.eu/eraopen.m3u",
+         "note": "News/Information/Music"
+      },
+      {
+         "name": "98 FM Ραδιοζώνες ανατρεπτικής Έκφρασης",
+         "logo": "98",
+         "link": "http://147.102.82.129:8000/high.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "1413 AM",
+         "logo": "1413",
+         "link": "http://155.207.18.114:8001/1431med.m3u",
+         "http": "http://radiofono.eng.auth.gr:8000/1431high.m3u",
+         "note": "Thessaloniki (Local)"
+      },
+      {
+         "name": "Aktina FM 107,6",
+         "logo": "107,6",
+         "link": "http://sc2.streamwithq.com:8016/listen.pls?sid=1",
+         "http": "",
+         "note": "Corfu (Local)"
+      },
+      {
+         "name": "Aktina Radio Corfu",
+         "logo": "Corfu",
+         "link": "http://www.streamwithq.gr/clients/Radio_Aktina/playlist.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Aktina Radio Korinthos",
+         "logo": "Korinthos",
+         "link": "http://live.e-streaming.eu:8110/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "90.2 Aristera sta FM",
+         "logo": "Aristera",
+         "link": "http://icecast.902.gr:8000/902.m3u",
+         "http": "",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Athens Deejay 95.2",
+         "logo": "Deejay",
+         "link": "http://91.132.6.21:8001/listen.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Athens DeeJayNonStop",
+         "logo": "DeeJayNonStop",
+         "link": "http://91.132.6.21:8007/listen.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Athens DeeJayDance",
+         "logo": "DeeJayDance",
+         "link": "http://91.132.6.21:8009/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Athens MyDeeJay",
+         "logo": "MyDeeJay",
+         "link": "http://91.132.6.21:8011/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Arhagelos 94.1 FM",
+         "logo": "Arhagelos",
+         "link": "http://yp.shoutcast.com/sbin/tunein-station.pls?id=707982",
+         "http": "",
+         "note": "Top 40 (Rhodes, Local)"
+      },
+      {
+         "name": "Astro Radio 96,4",
+         "logo": "Astro",
+         "link": "http://eco.onestreaming.com:8099/listen.pls",
+         "http": "",
+         "note": "Top 40 (Rethymno, Local)"
+      },
+      {
+         "name": "Atlantis FM",
+         "logo": "Atlantis",
+         "link": "http://eco.caststream.net:8046/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Dalkas 88,2",
+         "logo": "Dalkas",
+         "link": "http://212.7.199.201:8006/listen.pls",
+         "http": "",
+         "note": "Chalkida (Local)"
+      },
+      {
+         "name": "DeeJay 97.5 Greece Corfu",
+         "logo": "Dee",
+         "link": "https://sh.onweb.gr:7083/listen.pls?sid=1",
+         "http": "",
+         "note": "Top 40 Music"
+      },
+      {
+         "name": "Derti 98.6",
+         "logo": "Derti",
+         "link": "http://iphone.live24.gr/derty1000",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Diesi 101.3",
+         "logo": "Diesi",
+         "link": "http://diesi.live24.gr/diesi1013",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "DIVA 91.6",
+         "logo": "DIVA",
+         "link": "http://myradiostream.com/17/6404.pls",
+         "http": "",
+         "note": "Top 40 / Music (Kozani, Local)"
+      },
+      {
+         "name": "Dromos 89,8 ΔΡΟΜΟΣ",
+         "logo": "Dromos",
+         "link": "http://dromos898.live24.gr/dromos898",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Easy 97,2",
+         "logo": "Easy",
+         "link": "http://www.listenlive.eu/easy972.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Galaxy 106.1",
+         "logo": "Galaxy",
+         "link": "http://46.4.65.194:8015/listen.pls",
+         "http": "",
+         "note": "Patras (Local)"
+      },
+      {
+         "name": "Glenti FM",
+         "logo": "Glenti",
+         "link": "http://s3.onweb.gr:8532/listen.pls",
+         "http": "",
+         "note": "Xanthi (Local)"
+      },
+      {
+         "name": "Heart FM 93.1",
+         "logo": "Heart",
+         "link": "http://s3.voscast.com:8118/listen.pls",
+         "http": "",
+         "note": "Thessaloniki (Local)"
+      },
+      {
+         "name": "HiT 88.9",
+         "logo": "HiT",
+         "link": "http://64.150.176.42:8146/listen.pls?sid=1",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Imagine 89.7",
+         "logo": "Imagine",
+         "link": "http://imagine.1stepstream.com:8000/live.m3u",
+         "http": "http://imagine.1stepstream.com:8000/aac.m3u",
+         "note": "Pop/Rock Music (Thessaloniki, Local)"
+      },
+      {
+         "name": "Ihorama FM 108",
+         "logo": "Ihorama",
+         "link": "http://cast.streams.ovh:9069/live",
+         "http": "http://85.17.174.142:10500/listen.pls",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Ionian FM",
+         "logo": "Ionian",
+         "link": "http://chris.dna.gr:8004/ionionfmf",
+         "http": "http://chris.dna.gr:8004/ionionfmo",
+         "note": "Pop Music (Patra, Local)"
+      },
+      {
+         "name": "Island FM",
+         "logo": "Island",
+         "link": "http://95.211.4.241:8006/listen.pls",
+         "http": "",
+         "note": "Pop Music (Zakynthos, Local)"
+      },
+      {
+         "name": "Καλαμαριά FM 101,7",
+         "logo": "Kalamaria",
+         "link": "http://sc.greekstream.net:80/;.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "KASTORIA 91,5",
+         "logo": "KASTORIA",
+         "link": "http://eco.onestreaming.com:8107/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Kiss FM 92,2",
+         "logo": "Kiss",
+         "link": "http://stream.kiss922.gr:59922/listen.pls",
+         "http": "",
+         "note": "Pop/Dance Music (Patras, Local)"
+      },
+      {
+         "name": "Kiss FM 95,8",
+         "logo": "95,8",
+         "link": "http://66.90.103.144:8990/listen.pls",
+         "http": "",
+         "note": "Top 40 (Corfu, Local)"
+      },
+      {
+         "name": "Kriti FM",
+         "logo": "Kriti",
+         "link": "http://s3.onweb.gr:8878/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Κρήτη FM 100.3",
+         "logo": "100,3",
+         "link": "http://s5.onweb.gr:8070/listen.pls",
+         "http": "",
+         "note": "Heraklion (Local)"
+      },
+      {
+         "name": "Kritikos 88,7 ΚΡΗΤΙΚΟΣ",
+         "logo": "Kritikos",
+         "link": "http://50.7.71.27:9677/listen.pls?sid=1",
+         "http": "",
+         "note": "Heraklion (Local)"
+      },
+      {
+         "name": "Kyma FM",
+         "logo": "Kyma",
+         "link": "http://s1.onweb.gr:8028/;stream/1",
+         "http": "http://s1.onweb.gr:8028/listen.pls",
+         "note": "Corfu (Local)"
+      },
+      {
+         "name": "Lampsi FM Λάμψη",
+         "logo": "Lampsi",
+         "link": "http://provisioning.streamtheworld.com/pls/lampsifmAAC.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Legend FM",
+         "logo": "Legend",
+         "link": "http://s6.onweb.gr:8002/listen.pls",
+         "http": "",
+         "note": "Rock Music (Xanthi, Local)"
+      },
+      {
+         "name": "Libero 107.4",
+         "logo": "Libero",
+         "link": "http://eco.onestreaming.com:8081/listen.pls",
+         "http": "",
+         "note": "Thessaloniki (Local)"
+      },
+      {
+         "name": "Life Radio",
+         "logo": "Life",
+         "link": "http://s1.onweb.gr:8836/listen.pls",
+         "http": "",
+         "note": "Top 40 (Kerkyra, Local)"
+      },
+      {
+         "name": "Live FM 89,6",
+         "logo": "Live",
+         "link": "http://eco.onestreaming.com:8033/listen.pls",
+         "http": "",
+         "note": "Top 40 (Chalkida, Local)"
+      },
+      {
+         "name": "Loud Radio 88.8",
+         "logo": "Loud",
+         "link": "http://s3.onweb.gr:8888/listen.pls",
+         "http": "",
+         "note": "Top 40 (Trikala, Local)"
+      },
+      {
+         "name": "Magic FM 98.2",
+         "logo": "Magic",
+         "link": "http://sc2.streamwithq.com:2199/tunein/magicfm.pls",
+         "http": "",
+         "note": "Pop Music (Chania, Local)"
+      },
+      {
+         "name": "Melodia FM 88",
+         "logo": "Melodia",
+         "link": "http://eco.onestreaming.com:8129/listen.pls",
+         "http": "",
+         "note": "Music (Lamia, Local)"
+      },
+      {
+         "name": "Melody 98,7 FM",
+         "logo": "Melody",
+         "link": "http://proradio.gr:8004/sfera987",
+         "http": "http://stream2.proradio.gr:8004/melody.m3u",
+         "note": "Top 40 (Heraklion, Local)"
+      },
+      {
+         "name": "Metropolis 95.5",
+         "logo": "Metropolis",
+         "link": "http://streamx1.greekradios.gr:8000/listen.pls",
+         "http": "",
+         "note": "Sport, Music (Thessaloniki, Local)"
+      },
+      {
+         "name": "Neo Radiofono",
+         "logo": "Neo",
+         "link": "http://s1.onweb.gr:8820/listen.pls",
+         "http": "",
+         "note": "Pop Music (Corfu, Local)"
+      },
+      {
+         "name": "Nitro Radio",
+         "logo": "Nitro",
+         "link": "http://nitro.live24.gr/nitro4555",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Noize Radio",
+         "logo": "Noize",
+         "link": "http://188.227.194.35:7002/listen.pls",
+         "http": "",
+         "note": "Top 40 / Dance Music (Serres, Local)"
+      },
+      {
+         "name": "NRG 95",
+         "logo": "NRG",
+         "link": "http://212.7.199.201:8012/listen.pls",
+         "http": "",
+         "note": "Top 40 (Chalkida, Local)"
+      },
+      {
+         "name": "Ola FM 91,4",
+         "logo": "Ola",
+         "link": "http://live.isolservers.com:8300/listen.pls",
+         "http": "",
+         "note": "Top 40 (Thessaloniki, Local)"
+      },
+      {
+         "name": "Pireaiki Ekklesia 91.2 FM",
+         "logo": "Pireaiki",
+         "link": "http://eco.caststream.net:8044/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Pop FM 102.1",
+         "logo": "Pop",
+         "link": "http://s1.onweb.gr:8422/listen.pls",
+         "http": "",
+         "note": "Top 40 (Kerkira, Corfu, Local)"
+      },
+      {
+         "name": "Power FM 100.2",
+         "logo": "Power",
+         "link": "http://s1.onweb.gr:8854/listen.pls",
+         "http": "",
+         "note": "Top 40 (Volos, Local)"
+      },
+      {
+         "name": "Radio 1",
+         "logo": "1",
+         "link": "http://111.gr:8000/;",
+         "http": "http://www.111.gr:8000/listen.pls",
+         "note": "Top 40 (Rhodes, Local)"
+      },
+      {
+         "name": "Radio Drama 99.1",
+         "logo": "Drama",
+         "link": "http://69.64.33.63:7700/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Energy 96,6",
+         "logo": "Energy",
+         "link": "http://94.242.254.67:8008/;",
+         "http": "http://liveradio.energy966.com:8010/listen.pls",
+         "note": "Top 40 (Kavala, Local)"
+      },
+      {
+         "name": "Radio Lefkimmi",
+         "logo": "Lefkimmi",
+         "link": "https://player.magicstreams.gr/radio/iframe/playlist.php?stream=http://i.streams.ovh:9280/live&title=%CE%A1%CE%AC%CE%B4%CE%B9%CE%BF%20%CE%9B%CE%B5%CF%85%CE%BA%CE%AF%CE%BC%CE%BC%CE%B7%20105,5&name=Listen.pls",
+         "http": "http://66.90.103.144:8976/listen.pls",
+         "note": "Pop Music (Corfu, Local)"
+      },
+      {
+         "name": "Radio Lehovo 97.1",
+         "logo": "Lehovo",
+         "link": "http://s4.onweb.gr:8468/listen.pls",
+         "http": "",
+         "note": "Florina (Local)"
+      },
+      {
+         "name": "Radio Meteora",
+         "logo": "Meteora",
+         "link": "http://s1.onweb.gr:8834/listen.pls",
+         "http": "",
+         "note": "Kalampaka (Local)"
+      },
+      {
+         "name": "Radio Patra",
+         "logo": "Patra",
+         "link": "https://player.magicstreams.gr/radio/iframe/playlist.php?stream=http://94.23.218.186:9102/;&title=RADIO%20PATRA&name=Listen.pls",
+         "http": "http://www.radiopatra.gr/listen.pls",
+         "note": "Music, Local"
+      },
+      {
+         "name": "Radio Pieria 104.2",
+         "logo": "Pieria",
+         "link": "http://s6.onweb.gr:8018/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "RADIOKYMATA 104,4 ",
+         "logo": "RADIOKYMATA",
+         "link": "http://s1.onweb.gr:8812/listen.pls",
+         "http": "",
+         "note": "Pop Music (Thessaloniki, Local)"
+      },
+      {
+         "name": "89 Rainbow",
+         "logo": "89",
+         "link": "http://stream.greekradios.gr:4000/listen.pls",
+         "http": "",
+         "note": "Rock Music (Thessaloniki, Local)"
+      },
+      {
+         "name": "Real FM",
+         "logo": "Real",
+         "link": "http://realfm.live24.gr/realfm",
+         "http": "http://realfm.live24.gr:80/realfm",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Republic 100,3",
+         "logo": "Republic",
+         "link": "http://streamx2.greekradios.gr:8000/listen.pls",
+         "http": "",
+         "note": "Top 40 / Dance Music (Thessaloniki, Local)"
+      },
+      {
+         "name": "Rock FM",
+         "logo": "Rock",
+         "link": "http://91.132.6.21:8003/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Rock 1055",
+         "logo": "1055",
+         "link": "http://radio.onweb.gr:8078/listen.pls",
+         "http": "",
+         "note": "Thessaloniki (Local)"
+      },
+      {
+         "name": "Rythmos 104,5",
+         "logo": "Rythmos",
+         "link": "http://www.listenlive.eu/rythmos1045.m3u",
+         "http": "",
+         "note": "Top 40 (Heraklion, Local)"
+      },
+      {
+         "name": "Rythmos 99,7",
+         "logo": "99,7",
+         "link": "http://s4.onweb.gr:8832/listen.pls",
+         "http": "",
+         "note": "Pop Music (Corfu, Local)"
+      },
+      {
+         "name": "Sferikos 99.3",
+         "logo": "Sferikos",
+         "link": "http://live3.onestreaming.com/tunein.php/sferikos/playlist.pls",
+         "http": "",
+         "note": "Top 40 / News (Feres Evros, Local)"
+      },
+      {
+         "name": "Sky Radio 99.2",
+         "logo": "Sky",
+         "link": "http://live.skyradio.gr:9920/listen.pls",
+         "http": "",
+         "note": "Pop Music (Ioannina, Local)"
+      },
+      {
+         "name": "Smart FM 100,7",
+         "logo": "Smart",
+         "link": "http://www.serverroom.us/asx/listen2782.pls",
+         "http": "",
+         "note": "Patras (Local)"
+      },
+      {
+         "name": "104,8 Sok FM",
+         "logo": "Sok",
+         "link": "http://212.7.199.201:8000/listen.pls",
+         "http": "",
+         "note": "Pop Music (Evia/Sterea Ellada, Local)"
+      },
+      {
+         "name": "Star FM 88.8",
+         "logo": "Star",
+         "link": "http://s1.onweb.gr:8800/listen.pls",
+         "http": "",
+         "note": "Top 40 (Corfu, Local)"
+      },
+      {
+         "name": "Stigma FM",
+         "logo": "Stigma",
+         "link": "http://95.211.4.241:8008/listen.pls",
+         "http": "",
+         "note": "Top 40 (Zakynthos, Local)"
+      },
+      {
+         "name": "Styl FM 104.8",
+         "logo": "Styl",
+         "link": "http://s3.onweb.gr:8530/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Super 90,4",
+         "logo": "Super",
+         "link": "http://192.240.102.198:14000/listen.pls?sid=1",
+         "http": "",
+         "note": "Top 40 (Heraklion, Local)"
+      },
+      {
+         "name": "Thraki FM",
+         "logo": "Thraki",
+         "link": "http://live3.istoikona.net:2199/tunein/thrakifm.pls",
+         "http": "http://live3.istoikona.com:8010/listen.pls",
+         "note": "News / Music (Alexandroupoli, Local)"
+      },
+      {
+         "name": "Traffic FM",
+         "logo": "Traffic",
+         "link": "http://s5.onweb.gr:8506/listen.pls",
+         "http": "",
+         "note": "Top 40 (Heraklion, Local)"
+      },
+      {
+         "name": "Venus Radio",
+         "logo": "Venus",
+         "link": "http://s1.onweb.gr:8410/listen.pls",
+         "http": "",
+         "note": "Dance Music (Mykonos, Local)"
+      },
+      {
+         "name": "Viva FM 95.3",
+         "logo": "Viva",
+         "link": "http://www.streamwithq.gr/clients/VivaFm/playlist.pls",
+         "http": "",
+         "note": "Top 40 / Music (Ptolemaida, Local)"
+      },
+      {
+         "name": "Xanthi FM",
+         "logo": "Xanthi",
+         "link": "http://xanthifm100.no-ip.info:8008/listen.pls",
+         "http": "",
+         "note": "News/Talk/Music"
+      },
+      {
+         "name": "Xanthi Radio Deejay",
+         "logo": "Xanth",
+         "link": "http://s4.onweb.gr:8402/listen.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Yes! 91.2",
+         "logo": "Yes",
+         "link": "http://46.4.65.194:8039/listen.pls",
+         "http": "",
+         "note": "Top 40 (Patras, Local)"
+      },
+      {
+         "name": "You FM",
+         "logo": "You",
+         "link": "http://eco.onestreaming.com:8150/listen.pls",
+         "http": "",
+         "note": "Top 40 (Patras, Local)"
+      },
+      {
+         "name": "ZOO 90.8",
+         "logo": "ZOO",
+         "link": "http://188.138.121.94:8004/listen.pls",
+         "http": "",
+         "note": "Top 40 (Thessaloniki, Local)"
       }
    ]
 }

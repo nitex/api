@@ -43,13 +43,76 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "L - Liechtenstein",
+         "logo": "L",
+         "link": "http://85.31.153.69:8000/live.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-liechtenstein,1196.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Österreich 1",
+         "logo": "1",
+         "link": "http://oe1shoutcast.sf.apa.at/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "SRF 1",
+         "logo": "SRF",
+         "link": "http://stream.srg-ssr.ch/m/regi_zh_sh/mp3_128.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "SRF 2 Kultur - Schweiz",
+         "logo": "2",
+         "link": "http://stream.srg-ssr.ch/m/drs2/mp3_128.m3u",
+         "http": "",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "SRF 3",
+         "logo": "3",
+         "link": "http://stream.srg-ssr.ch/m/drs3/mp3_128.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "SRF 4 News",
+         "logo": "4",
+         "link": "http://stream.srg-ssr.ch/m/drs4news/mp3_128.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Deutschlandfunk",
+         "logo": "Deutschlandfunk",
+         "link": "http://www.dradio.de/streaming/dlf.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Maria (Deutschschweiz)",
+         "logo": "Maria",
+         "link": "http://player.radio-maria.ch:9000/radiomarialo_64.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "NRJ Österreich",
+         "logo": "NRJ",
+         "link": "http://stream1.energy.at:8000/vie.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

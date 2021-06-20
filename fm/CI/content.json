@@ -43,13 +43,118 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Africa Radio",
+         "logo": "Afric",
+         "link": "http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Al Bayane 95.7 FM",
+         "logo": "Bayane",
+         "link": "http://46.105.105.118:8000/albayane.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-albayane-95-7-fm,16630.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "BBC Afrique",
+         "logo": "BBC",
+         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Espoir 102.8 FM",
+         "logo": "Espoir",
+         "link": "http://93.190.141.15:8440/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/radio-espoir-102-8-fm,18021.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Fréquence 2",
+         "logo": "2",
+         "link": "http://www.surfmusic.de/m3u/frequence-2,18023.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Fréquence Vie 89.4 FM",
+         "logo": "Vie",
+         "link": "http://188.40.32.140:8023/frequencevie.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ivoire FM 103.4",
+         "logo": "Ivoire",
+         "link": "http://eu4.fastcast4u.com:5270/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Jam 99.3 FM",
+         "logo": "Jam",
+         "link": "https://www.radioking.com/play/my-radio-jam",
+         "http": "http://www.surfmusic.de/m3u/radio-jam-99-3-fm,16631.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Voix de l'Espérance 101.6 FM",
+         "logo": "Voix",
+         "link": "http://213.136.96.99:8000/esperance.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Nationale Catholique",
+         "logo": "Catholique",
+         "link": "http://72.10.166.2:9078/listen.pls",
+         "http": "http://93.190.141.15:7026/rncabidjan-48.mp3",
+         "note": ""
+      },
+      {
+         "name": "Nostalgie 101.1 FM",
+         "logo": "Nostalgie",
+         "link": "http://213.136.96.14:8000/nostalgie.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/nostalgie-101-1-fm,16629.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "RFI Afrique",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RTI La Chaîne Nationale 88.0 FM",
+         "logo": "RTI",
+         "link": "http://www.surfmusic.de/m3u/rti-la-chaine-nationale-88-0-fm,18022.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Trace FM Ivory Coast",
+         "logo": "Trace",
+         "link": "http://stream.trace.tv/trace_fm_ci-midfi.aac.m3u",
+         "http": "http://www.surfmusic.de/m3u/trace-fm-ivory-coast,17674.m3u",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "Vibe 94.6 FM",
+         "logo": "Vibe",
+         "link": "http://217.182.132.143:8000/viberadio-ci.mp3.m3u",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "VOA Afrique",
+         "logo": "VOA",
+         "link": "http://stream.radiojar.com/yuqn4nngq3quv",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

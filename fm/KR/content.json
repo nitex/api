@@ -43,13 +43,181 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Andong FM",
+         "logo": "Andong",
+         "link": "http://www.surfmusic.de/m3u/andong-am,16423.m3u",
+         "http": "http://www.surfmusic.de/m3u/andong-fm,16422.m3u",
+         "note": ""
+      },
+      {
+         "name": "Arirang Radio",
+         "logo": "Arirang",
+         "link": "http://www.surfmusic.de/m3u/arirang-radio,18386.m3u",
+         "http": "",
+         "note": "Jeju (Local)"
+      },
+      {
+         "name": "BBS 101.9 FM",
+         "logo": "BBS",
+         "link": "http://www.surfmusic.de/m3u/bbs-101-9-fm,12772.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Big B Radio",
+         "logo": "Big",
+         "link": "https://www.bigbradio.net/stream/kpop128.pls",
+         "http": "https://www.bigbradio.net/stream/kpop64.pls",
+         "note": "Music"
+      },
+      {
+         "name": "Cafe 두레박",
+         "logo": "Cafe",
+         "link": "http://sc03.saycast.com:8150/listen.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://222.122.178.186:5180/listen.pls&t=.pls",
+         "note": "Music"
+      },
+      {
+         "name": "CAST.CC",
+         "logo": "CAST",
+         "link": "http://www.surfmusic.de/m3u/cast-cc,12768.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Changwon FM 98.1",
+         "logo": "Changwon",
+         "link": "http://www.surfmusic.de/m3u/changwon-fm-98-1,16421.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Chunchon AM",
+         "logo": "Chunchon",
+         "link": "http://www.surfmusic.de/m3u/chunchon-am,16424.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "FEBC 106.9 FM",
+         "logo": "FEBC",
+         "link": "http://www.surfmusic.de/m3u/febc-106-9-fm,12773.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "FEBC Daejeon 93.3 FM",
+         "logo": "Daejeon",
+         "link": "http://www.surfmusic.de/m3u/febc-daejeon-93-3-fm,12777.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "FRED",
+         "logo": "FRED",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.139.194:8054/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "GN MBC 1287 AM",
+         "logo": "1287",
+         "link": "http://www.surfmusic.de/m3u/gn-mbc-1287-am,12774.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "GROMCO",
+         "logo": "GROMCO",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7432/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Gugak FM 99.1",
+         "logo": "Gugak",
+         "link": "http://www.surfmusic.de/m3u/gugak-fm-99-1,12770.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MBC FM 92.7",
+         "logo": "MBC",
+         "link": "http://www.surfmusic.de/m3u/mbc-fm-92-7,12771.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mokpo MBC FM",
+         "logo": "Mokpo",
+         "link": "http://www.surfmusic.de/m3u/mokpo-mbc-fm,12778.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "San Diego Radio Korea",
+         "logo": "San",
+         "link": "http://fmt01.egihosting.com:9468/listen.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.13.81.34:9468/listen.pls&t=.pls",
+         "note": ""
+      },
+      {
+         "name": "SayCast Aa7701",
+         "logo": "Aa7701",
+         "link": "http://www.surfmusic.de/m3u/saycast-aa7701,16910.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "SayCast Korean Music",
+         "logo": "SayCast",
+         "link": "http://www.surfmusic.de/m3u/saycast-korean-music,16914.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "SoulnB",
+         "logo": "SoulnB",
+         "link": "http://www.surfmusic.de/m3u/soulnb,14539.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Taejon MBC FM",
+         "logo": "Taejon",
+         "link": "http://www.surfmusic.de/m3u/taejon-mbc-fm,12769.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "TBS 95.1 FM",
+         "logo": "TBS",
+         "link": "http://www.surfmusic.de/m3u/tbs-95-1-fm,12776.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "TOP100 SOULNB.COM",
+         "logo": "TOP100",
+         "link": "http://www.surfmusic.de/m3u/top100-soulnb-com,13900.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "WBS 97.9 FM",
+         "logo": "WBS",
+         "link": "http://www.surfmusic.de/m3u/wbs-97-9-fm,12779.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "WeKorea 위코리아",
+         "logo": "WeKorea",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://104.250.149.122:8032/listen.pls?sid=1&t=.m3u",
+         "note": "News"
       }
    ]
 }

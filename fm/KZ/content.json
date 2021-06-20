@@ -43,13 +43,139 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Gakku",
+         "logo": "Gakku",
+         "link": "http://stream.gakku.tv/radio/recordfm_192.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Qazaq Radıosy",
+         "logo": "Qazaq",
+         "link": "http://onradio.kaztrk.kz:8000/kazradio.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Shalqar Radıosy",
+         "logo": "Shalqar",
+         "link": "http://onradio.kaztrk.kz:8000/shalkar.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Astana Radıosy 101.4 FM",
+         "logo": "Astana",
+         "link": "http://onradio.kaztrk.kz:8000/astana.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Classic Radıosy",
+         "logo": "Classic",
+         "link": "http://onradio.kaztrk.kz:8000/classic.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Жұлдыз",
+         "logo": "Zhuldyz",
+         "link": "http://195.210.47.197:8000/zhulduz.m3u",
+         "http": "",
+         "note": "Youth Top Music"
+      },
+      {
+         "name": "Dala",
+         "logo": "Dala",
+         "link": "http://95.56.234.40:8080/DALA_128.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Русское Радио Казахстан",
+         "logo": "Russkoe",
+         "link": "http://31.148.22.35:9000/stream.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Business",
+         "logo": "Business",
+         "link": "http://94.247.130.243:5050/business.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "NS",
+         "logo": "NS",
+         "link": "http://ne.fm/mp3/radions-kz.m3u",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "Авторадио",
+         "logo": "Avtoradio",
+         "link": "http://ps.ne.fm/AVTORADIO.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Дача 107.3 FM",
+         "logo": "Dacha",
+         "link": "https://stream.gakku.tv/dacha.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Lux",
+         "logo": "Lux",
+         "link": "http://icecastlv.luxnet.ua/lux_kz.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "City",
+         "logo": "City",
+         "link": "http://94.247.130.243:5050/city.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Energy FM 102.2",
+         "logo": "Energy",
+         "link": "http://89.219.34.117:8008/NEWENERGY.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "7 106.9 FM",
+         "logo": "7",
+         "link": "http://listen4.myradio24.com:9000/8334.m3u",
+         "http": "",
+         "note": "Семей (Local)"
+      },
+      {
+         "name": "Талап 100.6 FM",
+         "logo": "Talap",
+         "link": "http://streamingv2.shoutcast.com/Talap.m3u",
+         "http": "",
+         "note": "Top Music (Уральск, Local)"
+      },
+      {
+         "name": "Актобе 101.4 FM",
+         "logo": "Aktobe",
+         "link": "http://85.29.144.124:8000/listen.pls",
+         "http": "",
+         "note": "Актобе (Local)"
+      },
+      {
+         "name": "Жаңа FM",
+         "logo": "Jana",
+         "link": "http://nefm.kz/mp3/zhanafm.m3u",
+         "http": "",
+         "note": "Music"
       }
    ]
 }

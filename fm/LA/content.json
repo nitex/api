@@ -43,13 +43,55 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Lao Youth FM 90.0",
+         "logo": "Lao",
+         "link": "http://radio11.plathong.net:8452/listen.pls",
+         "http": "",
+         "note": "Youth"
+      },
+      {
+         "name": "ວິທະຍຸ ປກສ 101.5 FM",
+         "logo": "101",
+         "link": "http://69.12.70.150:9996/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ວິທະຍຸກະຈາຍສຽງແຫ່ງຊາດລາວ FM 103.7",
+         "logo": "103",
+         "link": "http://202.123.180.170:8000/stream.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RFI",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfimonde-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "វិទ្យុ​បារាំង​អន្តរជាតិ",
+         "logo": "RF",
+         "link": "http://icepe1.infomaniak.ch/rficambodgien-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "CRI China Plus",
+         "logo": "CRI",
+         "link": "http://sk.cri.cn/am846.m3u8",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

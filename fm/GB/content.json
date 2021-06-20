@@ -43,13 +43,3919 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "BBC Radio 1",
+         "logo": "BBC1",
+         "link": "http://www.listenlive.eu/bbcradio1.m3u",
+         "http": "",
+         "note": "National (Top 30)"
+      },
+      {
+         "name": "BBC Radio 2",
+         "logo": "BBC2",
+         "link": "http://www.listenlive.eu/bbcradio2.m3u",
+         "http": "",
+         "note": "National (Popular / Contemporary)"
+      },
+      {
+         "name": "BBC Radio 3",
+         "logo": "BBC3",
+         "link": "http://www.listenlive.eu/bbcradio3.m3u",
+         "http": "",
+         "note": "National (Classical)"
+      },
+      {
+         "name": "BBC Radio 4",
+         "logo": "BBC4",
+         "link": "http://www.listenlive.eu/bbcradio4.m3u",
+         "http": "",
+         "note": "National (News / Feature programming)"
+      },
+      {
+         "name": "BBC Radio 4 LW",
+         "logo": "BBC4L",
+         "link": "http://www.listenlive.eu/bbcradio4lw.m3u",
+         "http": "",
+         "note": "National (News / Feature programming)"
+      },
+      {
+         "name": "BBC Radio 4 Extra",
+         "logo": "BBC4E",
+         "link": "http://www.listenlive.eu/bbcradio4extra.m3u",
+         "http": "",
+         "note": "National (Comedy / Drama / Features)"
+      },
+      {
+         "name": "BBC 5 Live",
+         "logo": "BBC5",
+         "link": "http://www.listenlive.eu/bbc5live.m3u",
+         "http": "",
+         "note": "National (News / Talk / Sport)"
+      },
+      {
+         "name": "BBC 5 Live Sports Extra",
+         "logo": "BBC5S",
+         "link": "http://www.listenlive.eu/bbc5liveextra.m3u",
+         "http": "",
+         "note": "National (Sport)"
+      },
+      {
+         "name": "BBC 6 Music",
+         "logo": "BBC6",
+         "link": "http://www.listenlive.eu/bbc6music.m3u",
+         "http": "",
+         "note": "National (Music)"
+      },
+      {
+         "name": "BBC 1Xtra",
+         "logo": "BBC1X",
+         "link": "http://www.listenlive.eu/bbc1xtra.m3u",
+         "http": "",
+         "note": "National (Urban / RnB / Hip-Hop Music)"
+      },
+      {
+         "name": "BBC Asian Network",
+         "logo": "BBCA",
+         "link": "http://www.listenlive.eu/bbcasian.m3u",
+         "http": "",
+         "note": "Birmingham (Asian programming)"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBCW",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "London (International News / Features)"
+      },
+      {
+         "name": "BBC Radio Berkshire",
+         "logo": "BBCB",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_berkshire/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Bristol",
+         "logo": "BBCBristol",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_bristol/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Cambridgeshire",
+         "logo": "BBCCambridge",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cambridge/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Cornwall",
+         "logo": "BBCCornwall",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cornwall/format/pls.pls",
+         "http": "",
+         "note": "Truro (Local)"
+      },
+      {
+         "name": "BBC Coventry and Warwickshire",
+         "logo": "BBCCoventry",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_coventry_warwickshire/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Cumbria",
+         "logo": "BBCCumbria",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cumbria/format/pls.pls",
+         "http": "",
+         "note": "Carlisle (Local)"
+      },
+      {
+         "name": "BBC Radio Derby",
+         "logo": "BBCDerby",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_derby/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Devon",
+         "logo": "BBCDevon",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_devon/format/pls.pls",
+         "http": "",
+         "note": "Plymouth (Local)"
+      },
+      {
+         "name": "BBC Essex",
+         "logo": "BBCE",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_essex/format/pls.pls",
+         "http": "",
+         "note": "Chelmsford (Local)"
+      },
+      {
+         "name": "BBC Radio Gloucestershire",
+         "logo": "BBCG",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_gloucestershire/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Guernsey",
+         "logo": "BBCGu",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_guernsey/format/pls.pls",
+         "http": "",
+         "note": "St Sampson's (Local)"
+      },
+      {
+         "name": "BBC Hereford/Worcester",
+         "logo": "BBCHereford",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_hereford_worcester/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Humberside",
+         "logo": "BBCHum",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_humberside/format/pls.pls",
+         "http": "",
+         "note": "Hull (Local)"
+      },
+      {
+         "name": "BBC Radio Jersey",
+         "logo": "BBCJersey",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_jersey/format/pls.pls",
+         "http": "",
+         "note": "St.Helier (Local)"
+      },
+      {
+         "name": "BBC Radio Kent",
+         "logo": "BBCKent",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_kent/format/pls.pls",
+         "http": "",
+         "note": "Maidstone (Local)"
+      },
+      {
+         "name": "BBC Radio Lancashire",
+         "logo": "BBCLanca",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_lancashire/format/pls.pls",
+         "http": "",
+         "note": "Blackburn (Local)"
+      },
+      {
+         "name": "BBC Radio Leeds",
+         "logo": "BBCLeeds",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_leeds/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Leicester",
+         "logo": "BBCLeicester",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_leicester/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Lincolnshire",
+         "logo": "BBCLincoln",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_lincolnshire/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC London 94.9",
+         "logo": "BBCLondon",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_london/format/pls.pls",
+         "http": "",
+         "note": "Local News / Features"
+      },
+      {
+         "name": "BBC Radio Manchester",
+         "logo": "BBCManchester",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_manchester/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Merseyside",
+         "logo": "BBCMerseyside",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_merseyside/format/pls.pls",
+         "http": "",
+         "note": "Liverpool (Local)"
+      },
+      {
+         "name": "BBC Newcastle",
+         "logo": "BBCNewcastle",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_newcastle/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Norfolk",
+         "logo": "BBCNorfolk",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_norfolk/format/pls.pls",
+         "http": "",
+         "note": "Norwich (Local)"
+      },
+      {
+         "name": "BBC Radio Northampton",
+         "logo": "BBCNorth",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_northampton/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Nottingham",
+         "logo": "BBCNottingham",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_nottingham/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Oxford",
+         "logo": "BBCOxford",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_oxford/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Sheffield",
+         "logo": "BBCSheffield",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_sheffield/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Shropshire",
+         "logo": "BBCShropshire",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_shropshire/format/pls.pls",
+         "http": "",
+         "note": "Shrewsbury (Local)"
+      },
+      {
+         "name": "BBC Radio Solent",
+         "logo": "BBCSolent",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_solent/format/pls.pls",
+         "http": "",
+         "note": "Southampton (Local)"
+      },
+      {
+         "name": "BBC Somerset",
+         "logo": "BBCSomerset",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_somerset_sound/format/pls.pls",
+         "http": "",
+         "note": "Taunton (Local)"
+      },
+      {
+         "name": "BBC Radio Stoke",
+         "logo": "BBCStoke",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_stoke/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Suffolk",
+         "logo": "BBCSuffolk",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_suffolk/format/pls.pls",
+         "http": "",
+         "note": "Ipswich (Local)"
+      },
+      {
+         "name": "BBC Surrey",
+         "logo": "BBCSurrey",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_surrey/format/pls.pls",
+         "http": "",
+         "note": "Guildford (Local)"
+      },
+      {
+         "name": "BBC Sussex",
+         "logo": "BBCSussex",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_sussex/format/pls.pls",
+         "http": "",
+         "note": "Brighton (Local)"
+      },
+      {
+         "name": "BBC Tees",
+         "logo": "BBCTees",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_tees/format/pls.pls",
+         "http": "",
+         "note": "Middlesbrough (Local)"
+      },
+      {
+         "name": "BBC Three Counties Radio",
+         "logo": "BBCThree",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_three_counties_radio/format/pls.pls",
+         "http": "",
+         "note": "Luton (Local)"
+      },
+      {
+         "name": "BBC Wiltshire",
+         "logo": "BBCWiltshire",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_wiltshire/format/pls.pls",
+         "http": "",
+         "note": "Swindon (Local)"
+      },
+      {
+         "name": "BBC WM 95.6",
+         "logo": "BBCWM",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_wm/format/pls.pls",
+         "http": "",
+         "note": "Birmingham (Local)"
+      },
+      {
+         "name": "BBC Radio York",
+         "logo": "BBCYork",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_york/format/pls.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "BBC Radio Cymru",
+         "logo": "BBCCymru",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_cymru/format/pls.pls",
+         "http": "",
+         "note": "Cardiff, Local (Welsh)"
+      },
+      {
+         "name": "BBC Radio Scotland",
+         "logo": "BBCScotland",
+         "link": "http://www.listenlive.eu/bbcradioscotland.m3u",
+         "http": "",
+         "note": "Glasgow (Local)"
+      },
+      {
+         "name": "BBC Radio nan Gaidheal",
+         "logo": "BBCGaidheal",
+         "link": "http://www.listenlive.eu/bbcradionangaidheal.m3u",
+         "http": "",
+         "note": "Stornoway, Local (Gaelic service)"
+      },
+      {
+         "name": "BBC Radio Ulster",
+         "logo": "BBCUlster",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_ulster/format/pls.pls",
+         "http": "",
+         "note": "Belfast (Local)"
+      },
+      {
+         "name": "BBC Radio Foyle",
+         "logo": "BBCFoyle",
+         "link": "http://open.live.bbc.co.uk/mediaselector/5/select/version/2.0/mediaset/http-icy-mp3-a/vpid/bbc_radio_foyle/format/pls.pls",
+         "http": "",
+         "note": "Londonderry (Local)"
+      },
+      {
+         "name": "BBC Radio Wales",
+         "logo": "BBCWales",
+         "link": "http://www.listenlive.eu/bbcradiowales.m3u",
+         "http": "",
+         "note": "Cardiff (Local)"
+      },
+      {
+         "name": "1BTN",
+         "logo": "1BTN",
+         "link": "http://listen.1brightonfm.co.uk:10000/obfm_mp3.m3u",
+         "http": "http://listen.1brightonfm.co.uk:10000/obfm.m3u",
+         "note": "Brighton, Local (Varied Music)"
+      },
+      {
+         "name": "2BR Burnley",
+         "logo": "2BR",
+         "link": "http://str1.sad.ukrd.com/2br.m3u",
+         "http": "",
+         "note": "Current / Classic Hits, Local"
+      },
+      {
+         "name": "2BR Blackburn",
+         "logo": "2B",
+         "link": "http://str1.sad.ukrd.com/thebee.m3u",
+         "http": "",
+         "note": "Current / Classic Hits, Local"
+      },
+      {
+         "name": "2BR Preston",
+         "logo": "2",
+         "link": "http://str1.sad.ukrd.com/thebee-pr.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "3FM",
+         "logo": "3FM",
+         "link": "http://direct.sharp-stream.com/3fmhigh.mp3.m3u",
+         "http": "",
+         "note": "Douglas, Local (Popular / Contemporary)"
+      },
+      {
+         "name": "3TFM",
+         "logo": "3TFM",
+         "link": "http://149.255.59.162:8042/listen.pls",
+         "http": "",
+         "note": "Saltcoats, Local (Community Radio)"
+      },
+      {
+         "name": "10Radio",
+         "logo": "10Radio",
+         "link": "http://live.canstream.co.uk:8000/10radio.mp3.m3u",
+         "http": "",
+         "note": "Wiveliscombe, Local (Community Radio)"
+      },
+      {
+         "name": "Abbey104",
+         "logo": "Abbey104",
+         "link": "http://simplexstream.com/tunein.php/radioshe/playlist.pls",
+         "http": "",
+         "note": "Sherborne, Local (Community Radio)"
+      },
+      {
+         "name": "Absolute Radio",
+         "logo": "Absolute",
+         "link": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=ar",
+         "http": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=arbb",
+         "note": "Hot Contemporary"
+      },
+      {
+         "name": "Absolute Radio Classic Rock",
+         "logo": "AbsoluteRock",
+         "link": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=ac",
+         "http": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=acbb",
+         "note": "Music"
+      },
+      {
+         "name": "Absolute Radio 60s",
+         "logo": "Absolute60s",
+         "link": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a6",
+         "http": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a6bb",
+         "note": ""
+      },
+      {
+         "name": "Absolute Radio 70s",
+         "logo": "Absolute70s",
+         "link": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a7",
+         "http": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a7bb",
+         "note": ""
+      },
+      {
+         "name": "Absolute Radio 80s",
+         "logo": "Absolute80s",
+         "link": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a8",
+         "http": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a8bb",
+         "note": ""
+      },
+      {
+         "name": "Absolute Radio 90s",
+         "logo": "Absolute90s",
+         "link": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a9",
+         "http": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a9bb",
+         "note": ""
+      },
+      {
+         "name": "Absolute Radio 00s",
+         "logo": "Absolute00s",
+         "link": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a0",
+         "http": "http://network.absoluteradio.co.uk/core/audio/mp3/live.pls?service=a0bb",
+         "note": ""
+      },
+      {
+         "name": "107.8 Academy FM",
+         "logo": "107.8",
+         "link": "https://lyra.shoutca.st/tunein/academyf-stream.pls",
+         "http": "",
+         "note": "Ramsgate, Local (Community)"
+      },
+      {
+         "name": "105.9 Academy FM",
+         "logo": "105.9",
+         "link": "http://s3.xrad.io:8080/listen.pls",
+         "http": "",
+         "note": "Folkestone, Local (Community)"
+      },
+      {
+         "name": "Ahomka Radio",
+         "logo": "Ahomka",
+         "link": "http://webradio.radiomonitor.com/m3u/AhomkaRadio.m3u",
+         "http": "",
+         "note": "London (Ghanaian Programming)"
+      },
+      {
+         "name": "AIR 107.2",
+         "logo": "AIR",
+         "link": "http://stream.air1072.com/proxy/air1072?mp=/web.m3u",
+         "http": "",
+         "note": "Weymouth (Local)"
+      },
+      {
+         "name": "Alive Radio",
+         "logo": "Alive",
+         "link": "http://217.28.20.20:8013/listen.pls",
+         "http": "",
+         "note": "Dumfries (Local)"
+      },
+      {
+         "name": "ALL FM",
+         "logo": "ALL",
+         "link": "http://icecast.commedia.org.uk:8000/allfm.mp3.m3u",
+         "http": "",
+         "note": "Longsight (Local)"
+      },
+      {
+         "name": "Amazing Radio",
+         "logo": "Amazing",
+         "link": "http://stream.amazingradio.co.uk:8000/listen.pls",
+         "http": "",
+         "note": "Digital Network (Unsigned Artists)"
+      },
+      {
+         "name": "Amber Sound",
+         "logo": "Amber",
+         "link": "http://92.27.136.118:8100/live.m3u",
+         "http": "",
+         "note": "Ripley (Local)"
+      },
+      {
+         "name": "Angel Radio",
+         "logo": "Angel",
+         "link": "http://s6.viastreaming.net:7030/listen.pls",
+         "http": "",
+         "note": "Havant (Local)"
+      },
+      {
+         "name": "Angel Radio",
+         "logo": "IOW",
+         "link": "http://s3.viastreaming.net:7150/listen.pls",
+         "http": "",
+         "note": "Newport, Local (IOW)"
+      },
+      {
+         "name": "Antenna Radio",
+         "logo": "Antenna",
+         "link": "http://uk5.antennaradio.co.uk:8296/listen.pls?sid=1",
+         "http": "http://uk1.antennaradio.co.uk:8024/listen.pls?sid=1",
+         "note": "Manchester (Local)"
+      },
+      {
+         "name": "97.3 Apple FM",
+         "logo": "Apple",
+         "link": "http://radio.canstream.co.uk:8031/live.mp3.m3u",
+         "http": "",
+         "note": "Taunton (Local)"
+      },
+      {
+         "name": "The Arrow",
+         "logo": "Arrow",
+         "link": "http://media-ice.musicradio.com/ArrowMP3.m3u",
+         "http": "http://media-ice.musicradio.com/Arrow.m3u",
+         "note": "Digital Network (Rock Music)"
+      },
+      {
+         "name": "96.7 Ashbourne Radio",
+         "logo": "Ashbourne",
+         "link": "http://listen2.onmyradio.net:8014/listen.pls",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Asian Sound Radio",
+         "logo": "AsianSound",
+         "link": "http://38.96.148.254:9000/listen.pls?sid=1",
+         "http": "",
+         "note": "Manchester, Local (Asian Programmes)"
+      },
+      {
+         "name": "Asian Star 101.6 FM",
+         "logo": "101.6",
+         "link": "http://icecast.commedia.org.uk:8000/asianstar.mp3.m3u",
+         "http": "",
+         "note": "Slough, Local (Asian Community)"
+      },
+      {
+         "name": "Awaaz Radio",
+         "logo": "Awaaz",
+         "link": "http://streaming.m3x.co.uk:2199/tunein/awaaz-stream.pls",
+         "http": "",
+         "note": "High Wycombe, Local (Asian Community)"
+      },
+      {
+         "name": "Awaz FM",
+         "logo": "Awaz",
+         "link": "http://icecast.commedia.org.uk:8000/awaz.mp3.m3u",
+         "http": "",
+         "note": "Glasgow (Local)"
+      },
+      {
+         "name": "Banbury Sound",
+         "logo": "Banbury",
+         "link": "http://icy-e-04.sharp-stream.com/banburysound.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "BANG Radio",
+         "logo": "BANG",
+         "link": "http://icecast.commedia.org.uk:8000/bangradio.mp3.m3u",
+         "http": "",
+         "note": "RnB / HipHop Music (Harlesden, Local)"
+      },
+      {
+         "name": "The Bay (Heart)",
+         "logo": "Bay",
+         "link": "http://shoutcast2.tidyhosts.com:8006/listen.pls",
+         "http": "",
+         "note": "Lancaster, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Bay FM",
+         "logo": "BayFM",
+         "link": "http://mirror.viewcam.co.uk/listen.pls",
+         "http": "",
+         "note": "Exmouth (Local)"
+      },
+      {
+         "name": "BCfm",
+         "logo": "BCfm",
+         "link": "http://cp6.serverse.com:7017/live.mp3.m3u",
+         "http": "",
+         "note": "Bristol (Local)"
+      },
+      {
+         "name": "BCB 106.6FM",
+         "logo": "BCB",
+         "link": "http://icecast.commedia.org.uk:8000/bcb.mp3.m3u",
+         "http": "",
+         "note": "Bradford (Local)"
+      },
+      {
+         "name": "The Beach",
+         "logo": "Beach",
+         "link": "http://webradio.radiomonitor.com/m3u/Beach.m3u",
+         "http": "",
+         "note": "Great Yarmouth, Local (Top 30)"
+      },
+      {
+         "name": "Beverley FM",
+         "logo": "Beverley",
+         "link": "http://s17609301.onlinehome-server.info:8002/live.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "BFBS UK",
+         "logo": "BFBS",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs1.mp3.m3u",
+         "http": "",
+         "note": "British Forces Pop Music / News"
+      },
+      {
+         "name": "Big City Radio",
+         "logo": "BigCity",
+         "link": "http://icecast.easystream.co.uk:8000/bigcityradio.m3u",
+         "http": "",
+         "note": "Aston (Local)"
+      },
+      {
+         "name": "Big L 1395",
+         "logo": "1395",
+         "link": "http://eastlondonradio.com:8100/biglh.mp3.m3u",
+         "http": "",
+         "note": "Contemporary / Oldies"
+      },
+      {
+         "name": "Biggles FM",
+         "logo": "Biggles",
+         "link": "http://212.74.123.36:8000/bigglesfm.mp3.m3u",
+         "http": "",
+         "note": "Biggleswade (Local)"
+      },
+      {
+         "name": "105.9 Bishop FM",
+         "logo": "Bishop",
+         "link": "http://212.83.172.11:8792/listen.pls?sid=1",
+         "http": "",
+         "note": "Bishop Auckland (Local)"
+      },
+      {
+         "name": "Black Country Radio",
+         "logo": "Black",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/blackcountryradio.mp3.m3u",
+         "http": "",
+         "note": "Stourbridge (Local)"
+      },
+      {
+         "name": "Black Diamond FM",
+         "logo": "Diamond",
+         "link": "http://icecast.easystream.co.uk:8000/blackdiamondfm.m3u",
+         "http": "",
+         "note": "Mid Lothian (Local)"
+      },
+      {
+         "name": "106 BOBfm",
+         "logo": "BOBfm",
+         "link": "http://ic01.mediaondemand.net/106JackFM.m3u",
+         "http": "",
+         "note": "Hertford, Local (Variety Rock Music)"
+      },
+      {
+         "name": "Bolton FM",
+         "logo": "Bolton",
+         "link": "http://radio.canstream.co.uk:8083/live.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Branch FM",
+         "logo": "Branch",
+         "link": "http://199.195.194.140:8387/listen.pls?sid=1",
+         "http": "",
+         "note": "Dewsbury, Local (Christian)"
+      },
+      {
+         "name": "The Breeze Andover",
+         "logo": "Breeze1",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Andover-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Basingstoke",
+         "logo": "Breeze2",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Basingstoke-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Bath",
+         "logo": "Breeze3",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Bath-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Bridgewater",
+         "logo": "Breeze4",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Somerset-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Bristol",
+         "logo": "Breeze5",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Bristol-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Haslemere",
+         "logo": "Breeze6",
+         "link": "http://webradio.radiomonitor.com/m3u/KestrelFM-South-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Warminster",
+         "logo": "Breeze7",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Warminster-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Newbury",
+         "logo": "Breeze8",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Newbury-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Shaftesbury",
+         "logo": "Breeze9",
+         "link": "http://webradio.radiomonitor.com/m3u/Midwest-Shaftesbury-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Southampton",
+         "logo": "Breeze10",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Southampton-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Portsmouth",
+         "logo": "Breeze11",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Portsmouth-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Yeovil",
+         "logo": "Breeze12",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Yeovil-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Cheltenham",
+         "logo": "Breeze13",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Cheltenham-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Torbay",
+         "logo": "Breeze14",
+         "link": "http://webradio.radiomonitor.com/m3u/Palm-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "The Breeze Reading",
+         "logo": "Breeze15",
+         "link": "http://webradio.radiomonitor.com/m3u/Breeze-Berkshire-128.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Bridge FM",
+         "logo": "Bridge",
+         "link": "http://icy-e-04.sharp-stream.com/tcbridge.mp3.m3u",
+         "http": "",
+         "note": "Bridgend (Local)"
+      },
+      {
+         "name": "BRfm",
+         "logo": "BRf",
+         "link": "http://icecast.commedia.org.uk:8000/brfm.mp3.m3u",
+         "http": "",
+         "note": "Brynmawr (Local)"
+      },
+      {
+         "name": "BRFM",
+         "logo": "BRFM",
+         "link": "http://live.brfm.net:8000/BrfmMP3.m3u",
+         "http": "",
+         "note": "Isle of Sheppey (Local)"
+      },
+      {
+         "name": "Bro Radio",
+         "logo": "Bro",
+         "link": "http://csmedia.serverroom.us:8720/listen.pls",
+         "http": "",
+         "note": "Barry (Local)"
+      },
+      {
+         "name": "Bute FM",
+         "logo": "Bute",
+         "link": "http://live.canstream.co.uk:8000/bute.mp3.m3u",
+         "http": "",
+         "note": "Rothesay (Local)"
+      },
+      {
+         "name": "Calon FM",
+         "logo": "Calon",
+         "link": "http://149.255.59.164:8035/listen.pls?sid=1",
+         "http": "",
+         "note": "Wrexham (Local)"
+      },
+      {
+         "name": "Cam FM",
+         "logo": "Cam",
+         "link": "http://www.listenlive.eu/camfm.m3u",
+         "http": "",
+         "note": "Cambridge, Local (Student Radio)"
+      },
+      {
+         "name": "Cambridge 105",
+         "logo": "Cambridge",
+         "link": "http://stream.cambridge105.fm/105-128s-mp3.pls",
+         "http": "http://stream.cambridge105.fm/105-192s-mp3.m3u",
+         "note": "Local"
+      },
+      {
+         "name": "Canalside Community Radio",
+         "logo": "Canalside",
+         "link": "http://195.10.228.6:8035/canal.mp3.m3u",
+         "http": "",
+         "note": "Bollington (Local)"
+      },
+      {
+         "name": "Capital FM",
+         "logo": "Capital1",
+         "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
+         "http": "http://media-ice.musicradio.com/Capital.m3u",
+         "note": "London"
+      },
+      {
+         "name": "Capital FM Birmingham",
+         "logo": "Capital2",
+         "link": "http://media-ice.musicradio.com/CapitalBirminghamMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalBirmingham.m3u",
+         "note": "Local"
+      },
+      {
+         "name": "Capital FM Central Scotland",
+         "logo": "Capital3",
+         "link": "http://media-ice.musicradio.com/CapitalEdinburghMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalEdinburgh.m3u",
+         "note": "Edinburgh (Local)"
+      },
+      {
+         "name": "Capital FM Central Scotland",
+         "logo": "Capital4",
+         "link": "http://media-ice.musicradio.com/CapitalGlasgowMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalGlasgow.m3u",
+         "note": "Glasgow (Local)"
+      },
+      {
+         "name": "Capital FM East Midlands",
+         "logo": "Capital5",
+         "link": "http://media-ice.musicradio.com/CapitalDerbyshireMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalDerbyshire.m3u",
+         "note": "Derby (Local)"
+      },
+      {
+         "name": "Capital FM East Midlands",
+         "logo": "Capital6",
+         "link": "http://media-ice.musicradio.com/CapitalLeicestershireMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalLeicestershire.m3u",
+         "note": "Leicester (Local)"
+      },
+      {
+         "name": "Capital FM East Midlands",
+         "logo": "Capital7",
+         "link": "http://media-ice.musicradio.com/CapitalNottinghamshireMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalNottinghamshire.m3u",
+         "note": "Nottingham (Local)"
+      },
+      {
+         "name": "Capital FM Liverpool",
+         "logo": "Capital8",
+         "link": "http://media-the.musicradio.com/CapitalLiverpoolMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalLiverpool.m3u",
+         "note": "Local"
+      },
+      {
+         "name": "Capital FM Manchester",
+         "logo": "Capital9",
+         "link": "http://media-ice.musicradio.com/CapitalManchesterMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalManchester.m3u",
+         "note": "Local"
+      },
+      {
+         "name": "Capital FM South Coast",
+         "logo": "Capital10",
+         "link": "http://media-ice.musicradio.com/CapitalSouthCoastMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalSouthCoast.m3u",
+         "note": "Southampton (Local)"
+      },
+      {
+         "name": "Capital FM South Wales",
+         "logo": "Capital11",
+         "link": "http://media-ice.musicradio.com/CapitalSouthWalesMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalSouthWales.m3u",
+         "note": "Cardiff (Local)"
+      },
+      {
+         "name": "Capital FM North East England",
+         "logo": "Capital12",
+         "link": "http://media-ice.musicradio.com/CapitalTeessideMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalTeesside.m3u",
+         "note": "Middlesbrough (Local)"
+      },
+      {
+         "name": "Capital FM North East England",
+         "logo": "Capital13",
+         "link": "http://media-ice.musicradio.com/CapitalTyneWearMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalTyneWear.m3u",
+         "note": "Newcastle (Local)"
+      },
+      {
+         "name": "Capital FM Yorkshire",
+         "logo": "Capital14",
+         "link": "http://media-ice.musicradio.com/CapitalYorkshireEastMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalYorkshireEast.m3u",
+         "note": "Hull (Local)"
+      },
+      {
+         "name": "Capital FM Yorkshire",
+         "logo": "Capital15",
+         "link": "http://media-ice.musicradio.com/CapitalYorkshireSouthWestMP3.m3u",
+         "http": "http://media-ice.musicradio.com/CapitalYorkshireSouthWest.m3u",
+         "note": "Leeds (Local)"
+      },
+      {
+         "name": "Capital FM Anglesey & Gwynedd",
+         "logo": "Capital16",
+         "link": "http://media-ice.musicradio.com/CapitalCymruMP3.m3u",
+         "http": "",
+         "note": "Bangor (Local)"
+      },
+      {
+         "name": "Capital XTRA",
+         "logo": "XTRA",
+         "link": "http://ice-the.musicradio.com/CapitalXTRANationalMP3.m3u",
+         "http": "http://ice-sov.musicradio.com/CapitalXTRANational.m3u",
+         "note": "London (RnB / Hip-Hop Music)"
+      },
+      {
+         "name": "98.8 Castle FM",
+         "logo": "Castle",
+         "link": "http://s7.myradiostream.com:10126/listen.pls",
+         "http": "",
+         "note": "Edinburgh (Local)"
+      },
+      {
+         "name": "Castledown Radio",
+         "logo": "Castledown",
+         "link": "http://radio.canstream.co.uk:8008/live.mp3.m3u",
+         "http": "",
+         "note": "Tidworth (Local)"
+      },
+      {
+         "name": "The Cat",
+         "logo": "Cat",
+         "link": "http://5.63.151.52:8066/live.m3u",
+         "http": "",
+         "note": "Crewe (Local)"
+      },
+      {
+         "name": "CDNX - The Camden Xperience",
+         "logo": "CDNX",
+         "link": "http://svr1.msmn.co:8130/listen.pls",
+         "http": "",
+         "note": "London (Indie / Urban / Rock Music)"
+      },
+      {
+         "name": "Celtic Music Radio",
+         "logo": "Celtic",
+         "link": "http://www.celticmusicradio.net/cmr/celtic_live.m3u",
+         "http": "",
+         "note": "Glasgow (Local)"
+      },
+      {
+         "name": "Central FM",
+         "logo": "Central1",
+         "link": "http://s4.xrad.io:8010/listen.pls",
+         "http": "",
+         "note": "Falkirk, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Central FM Gold",
+         "logo": "Central2",
+         "link": "http://webradio.radiomonitor.com/stream/CentralFMGold.m3u",
+         "http": "",
+         "note": "Falkirk, Local (Oldies)"
+      },
+      {
+         "name": "Central FM Country",
+         "logo": "Central3",
+         "link": "http://webradio.radiomonitor.com/stream/CentralFMCountry.m3u",
+         "http": "",
+         "note": "Falkirk, Local (Country Music)"
+      },
+      {
+         "name": "Central FM Chart",
+         "logo": "Central4",
+         "link": "http://webradio.radiomonitor.com/stream/CentralFMChart.m3u",
+         "http": "",
+         "note": "Falkirk, Local (Top 30)"
+      },
+      {
+         "name": "CFM",
+         "logo": "CFM",
+         "link": "http://tx.whatson.com/icecast.php?i=cfm.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=cfm.aac.m3u",
+         "note": "Carlisle (Local)"
+      },
+      {
+         "name": "Channel 103FM",
+         "logo": "103FM",
+         "link": "http://sharpflow.sharp-stream.com:8000/tindlechannel103.mp3.m3u",
+         "http": "",
+         "note": "Jersey (Local)"
+      },
+      {
+         "name": "Cheesy FM",
+         "logo": "Cheesy",
+         "link": "http://212.83.150.15:8253/listen.pls",
+         "http": "",
+         "note": "Portsmouth, Local (Pop Music)"
+      },
+      {
+         "name": "Chelmsford Community Radio",
+         "logo": "Chelmsford",
+         "link": "http://lyre.webservernetwork.com:8060/listen.pls?sid=1",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Chill",
+         "logo": "Chill",
+         "link": "http://media-ice.musicradio.com/ChillMP3.m3u",
+         "http": "http://media-ice.musicradio.com/Chill.m3u",
+         "note": "Chillout / Lounge Music"
+      },
+      {
+         "name": "Chorley FM",
+         "logo": "Chorley",
+         "link": "http://chorleyfm.broadcasttoolbox.com/chorleyhi.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Chris Country",
+         "logo": "Chris",
+         "link": "http://icy-e-05-gos.sharp-stream.com/chriscountry.mp3.m3u",
+         "http": "",
+         "note": "London (Country Music)"
+      },
+      {
+         "name": "City Talk",
+         "logo": "CityTalk",
+         "link": "http://tx.whatson.com/icecast.php?i=citytalk.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=citytalk.aac.m3u",
+         "note": "Liverpool (Local)"
+      },
+      {
+         "name": "Classic FM",
+         "logo": "ClassicFM",
+         "link": "http://media-ice.musicradio.com/ClassicFMMP3.m3u",
+         "http": "http://media-ice.musicradio.com/ClassicFM.m3u",
+         "note": "London"
+      },
+      {
+         "name": "Clyde 1",
+         "logo": "Clyde1",
+         "link": "http://tx.whatson.com/icecast.php?i=clyde1.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=clyde1.aac.m3u",
+         "note": "Glasgow (Local)"
+      },
+      {
+         "name": "Clyde 2",
+         "logo": "Clyde2",
+         "link": "http://tx.whatson.com/icecast.php?i=clyde2.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=clyde2.aac.m3u",
+         "note": "Glasgow (Local)"
+      },
+      {
+         "name": "Coast FM",
+         "logo": "Coast",
+         "link": "http://50.7.77.178:8414/live.m3u",
+         "http": "",
+         "note": "Penzance (Local)"
+      },
+      {
+         "name": "Colourful Radio",
+         "logo": "Colourful",
+         "link": "http://mp3.colourfulradio.com/colourful.m3u",
+         "http": "",
+         "note": "Talk / Soul Music / Afro-Caribbean"
+      },
+      {
+         "name": "Compass FM",
+         "logo": "Compass",
+         "link": "http://lincs.planetwideradio.com:8005/compassfmaac.m3u",
+         "http": "",
+         "note": "Grimsby, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Connect FM",
+         "logo": "Connect",
+         "link": "http://ar.canstream.co.uk:8004/live.mp3.m3u",
+         "http": "http://ar.canstream.co.uk:8004/live.aac.m3u",
+         "note": "Kettering (Local)"
+      },
+      {
+         "name": "106.8 Connect",
+         "logo": "106.8",
+         "link": "http://ar.canstream.co.uk:8005/live.mp3.m3u",
+         "http": "http://ar.canstream.co.uk:8005/live.aac.m3u",
+         "note": "Peterborough (Local)"
+      },
+      {
+         "name": "Cool FM",
+         "logo": "Cool",
+         "link": "http://tx.whatson.com/icecast.php?i=coolfm.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=coolfm.aac.m3u",
+         "note": "Belfast (Local)"
+      },
+      {
+         "name": "Corby Radio",
+         "logo": "Corby",
+         "link": "http://live.corbyradio.com:7669/live.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Crescent Radio",
+         "logo": "Crescent",
+         "link": "http://icecast.commedia.org.uk:8000/crescent.mp3.m3u",
+         "http": "",
+         "note": "Rochdale, Local (Asian / Muslim Community)"
+      },
+      {
+         "name": "Cross Rhythms City Radio",
+         "logo": "Cross",
+         "link": "http://stream.crossrhythms.co.uk/city/hq.mp3.m3u",
+         "http": "",
+         "note": "Stoke-on-Trent, Local (Christian Community)"
+      },
+      {
+         "name": "Crystal FM",
+         "logo": "Crystal",
+         "link": "http://stream1.myradioapps.com/crystal_fm.m3u",
+         "http": "",
+         "note": "Penicuik (Local)"
+      },
+      {
+         "name": "CSR",
+         "logo": "CSR",
+         "link": "http://listen.csrfm.com/stream.m3u",
+         "http": "",
+         "note": "Canterbury, Local (Student Community)"
+      },
+      {
+         "name": "Cuillin FM",
+         "logo": "Cuillin",
+         "link": "http://radio.canstream.co.uk:8023/live.mp3.m3u",
+         "http": "",
+         "note": "Isle of Skye (Local)"
+      },
+      {
+         "name": "Dawn FM 107.6",
+         "logo": "Dawn",
+         "link": "http://icecast.commedia.org.uk:8000/radiodawn.mp3.m3u",
+         "http": "",
+         "note": "Nottingham, Local (Muslim Community)"
+      },
+      {
+         "name": "Dearne FM",
+         "logo": "Dearne",
+         "link": "http://lincs.planetwideradio.com:8010/dearnefmaac.m3u",
+         "http": "",
+         "note": "Barnsley, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Dee 106.3",
+         "logo": "Dee",
+         "link": "http://icy-e-04.sharp-stream.com/tcdee.mp3.m3u",
+         "http": "",
+         "note": "Chester, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Demon FM",
+         "logo": "Demon",
+         "link": "http://live.demonfm.co.uk:8000/demon320.m3u",
+         "http": "http://live.demonfm.co.uk:8000/demon48.m3u",
+         "note": "Leicester (Local)"
+      },
+      {
+         "name": "Desi Radio",
+         "logo": "Desi",
+         "link": "http://icy-e-04.sharp-stream.com/desiradio.aac.m3u",
+         "http": "",
+         "note": "Southall, Local (Asian Community)"
+      },
+      {
+         "name": "Deveron FM",
+         "logo": "Deveron",
+         "link": "http://deveronfm.serverroom.net:4326/listen.pls?sid=1",
+         "http": "",
+         "note": "Banff (Local)"
+      },
+      {
+         "name": "Diverse FM",
+         "logo": "Diverse",
+         "link": "http://live.canstream.co.uk:8000/diversefm.mp3.m3u",
+         "http": "",
+         "note": "Luton (Local)"
+      },
+      {
+         "name": "Downtown Radio",
+         "logo": "Downtown",
+         "link": "http://tx.whatson.com/icecast.php?i=downtown.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=downtown.aac.m3u",
+         "note": "Belfast (Local)"
+      },
+      {
+         "name": "Downtown Country",
+         "logo": "Down",
+         "link": "http://tx.whatson.com/icecast.php?i=downtowncountry.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=downtowncountry.aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "Dream 100",
+         "logo": "Dream100",
+         "link": "http://webradio.radiomonitor.com/m3u/Dream100.m3u",
+         "http": "",
+         "note": "Colchester (Local)"
+      },
+      {
+         "name": "Drive 105",
+         "logo": "Drive105",
+         "link": "http://icecast.easystream.co.uk:8000/drive105.m3u",
+         "http": "",
+         "note": "Londonderry (Local)"
+      },
+      {
+         "name": "Drystone Radio",
+         "logo": "Drystone",
+         "link": "http://audio.drystoneradio.com:8001/drystone.mp3.m3u",
+         "http": "",
+         "note": "South Craven (Local)"
+      },
+      {
+         "name": "Dunoon Community Radio",
+         "logo": "Dunoon",
+         "link": "http://stream2.hippynet.co.uk:8001/dunoon.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Eagle Radio",
+         "logo": "Eagle",
+         "link": "http://str1.sad.ukrd.com/eagle.mp3.m3u",
+         "http": "http://str1.sad.ukrd.com/eagle.m3u",
+         "note": "Guildford, Local (Top 30)"
+      },
+      {
+         "name": "Eagle 70s",
+         "logo": "Eagle70s",
+         "link": "http://str1.sad.ukrd.com/mymusicradio-surrey.mp3.m3u",
+         "http": "http://str1.sad.ukrd.com/mymusicradio-surrey.m3u",
+         "note": "Guildford (Local)"
+      },
+      {
+         "name": "Eagle 3",
+         "logo": "Eagle3",
+         "link": "http://str1.sad.ukrd.com/eaglethree.mp3.m3u",
+         "http": "http://str1.sad.ukrd.com/eaglethree.m3u",
+         "note": "Guildford (Local)"
+      },
+      {
+         "name": "Eden FM",
+         "logo": "Eden",
+         "link": "http://eu4.fastcast4u.com:5564/listen.pls?sid=1",
+         "http": "",
+         "note": "Penrith (Local)"
+      },
+      {
+         "name": "Energy FM",
+         "logo": "Energy",
+         "link": "http://91.121.78.191:8096/listen.pls?sid=1",
+         "http": "",
+         "note": "Douglas (Local)"
+      },
+      {
+         "name": "Erewash Sound",
+         "logo": "Erewash",
+         "link": "http://icecast.commedia.org.uk:8000/erewash.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Express FM",
+         "logo": "Express",
+         "link": "http://stream.expressfm.com/expressfm.mp3.m3u",
+         "http": "",
+         "note": "Portsmouth (Local)"
+      },
+      {
+         "name": "103 The Eye",
+         "logo": "TheEye",
+         "link": "http://icecast.commedia.org.uk:8000/theeyefm.mp3.m3u",
+         "http": "",
+         "note": "Melton Mowbray (Local)"
+      },
+      {
+         "name": "Fantasy Radio",
+         "logo": "Fantasy",
+         "link": "http://server.fantasyradio.co.uk:8300/listen.pls",
+         "http": "",
+         "note": "Devizes (Local)"
+      },
+      {
+         "name": "Felixstowe Radio",
+         "logo": "Felixstowe",
+         "link": "http://uk4-vn.mixstream.net:8032/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Fire 107.6",
+         "logo": "Fire",
+         "link": "http://stream4.radiomonitor.com/Fire-128.m3u",
+         "http": "",
+         "note": "Bournemouth, Local (Top 30 / Dance Music)"
+      },
+      {
+         "name": "Forest FM",
+         "logo": "Forest",
+         "link": "http://195.10.228.4:8000/forestfm.mp3.m3u",
+         "http": "",
+         "note": "Verwood, Local"
+      },
+      {
+         "name": "Forth 1",
+         "logo": "Forth1",
+         "link": "http://tx.whatson.com/icecast.php?i=forth1.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=forth1.aac.m3u",
+         "note": "Edinburgh, Local"
+      },
+      {
+         "name": "Forth 2",
+         "logo": "Forth2",
+         "link": "http://tx.whatson.com/icecast.php?i=forth2.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=forth2.aac.m3u",
+         "note": "Edinburgh, Local"
+      },
+      {
+         "name": "Fosse 107",
+         "logo": "Fosse1",
+         "link": "http://icecast.maxxwave.co.uk/fossehinckleyhq.m3u",
+         "http": "",
+         "note": "Hinkley, Local"
+      },
+      {
+         "name": "Fosse 107",
+         "logo": "Fosse10",
+         "link": "http://icecast.maxxwave.co.uk/fosseloughbrohq.m3u",
+         "http": "",
+         "note": "Loughborough, Local"
+      },
+      {
+         "name": "Free Radio Birmingham",
+         "logo": "Free1",
+         "link": "http://icy-e-bl-07-boh.sharp-stream.com:8000/freebirmingham.mp3.m3u",
+         "http": "",
+         "note": "Top 30, Local"
+      },
+      {
+         "name": "Free Radio Shropshire",
+         "logo": "Free2",
+         "link": "http://icy-e-bl-07-boh.sharp-stream.com:8000/freeshropshire.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Shrewsbury, Local)"
+      },
+      {
+         "name": "Free Radio Black Country",
+         "logo": "Free3",
+         "link": "http://icy-e-bl-07-boh.sharp-stream.com:8000/freeblackcountry.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Wolverhampton, Local)"
+      },
+      {
+         "name": "Free Radio Coventry and Warwickshire",
+         "logo": "Free4",
+         "link": "http://icy-e-bl-07-boh.sharp-stream.com:8000/freecoventry.mp3.m3u",
+         "http": "",
+         "note": "Top 30, Local"
+      },
+      {
+         "name": "Free Radio Herefordshire and Worcs",
+         "logo": "Free5",
+         "link": "http://icy-e-bl-07-boh.sharp-stream.com:8000/freehereford.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Worcester, Local)"
+      },
+      {
+         "name": "Free Radio 80s",
+         "logo": "Free6",
+         "link": "http://icy-e-bl-07-boh.sharp-stream.com:8000/free80s.mp3.m3u",
+         "http": "",
+         "note": "Birmingham (Local)"
+      },
+      {
+         "name": "French Radio London",
+         "logo": "French",
+         "link": "http://audio1.ipercast.net/frenchradiolondon.com/hi/mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Frome FM",
+         "logo": "Frome",
+         "link": "http://icecast.bargus.co.uk:8001/fromefm.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Fun Kids",
+         "logo": "Fun",
+         "link": "http://www.funkidslive.com/player/aggregator-96-mp3.m3u",
+         "http": "",
+         "note": "Childrens Programmes"
+      },
+      {
+         "name": "Future Radio",
+         "logo": "Future",
+         "link": "http://www.futureradio.co.uk/Future.m3u",
+         "http": "",
+         "note": "Norwich (Local)"
+      },
+      {
+         "name": "Gateway 97.8",
+         "logo": "Gateway",
+         "link": "http://stream.gateway978.com:8000/listen.pls?sid=1",
+         "http": "",
+         "note": "Basildon (Local)"
+      },
+      {
+         "name": "Gaydio",
+         "logo": "Gaydio",
+         "link": "http://listen.gaydio.co.uk:8000/gaydio64.mp3.m3u",
+         "http": "http://listen.gaydio.co.uk:8000/gaydio.mp3.m3u",
+         "note": "Manchester, Local (Pop, Dance Music)"
+      },
+      {
+         "name": "Gem 106",
+         "logo": "Gem",
+         "link": "http://icy-e-bl-07-boh.sharp-stream.com:8000/gem106.mp3.m3u",
+         "http": "http://icy-e-bl-07-boh.sharp-stream.com:8000/gem106.aac.m3u",
+         "note": "Nottingham (Local)"
+      },
+      {
+         "name": "GFM",
+         "logo": "GFM",
+         "link": "http://live.canstream.co.uk:8000/glastonburyfm.mp3.m3u",
+         "http": "",
+         "note": "Glastonbury (Local)"
+      },
+      {
+         "name": "GFM",
+         "logo": "GF",
+         "link": "http://icecast.commedia.org.uk:8000/gloucesterfm.mp3.m3u",
+         "http": "",
+         "note": "Gloucester (Local)"
+      },
+      {
+         "name": "Gold",
+         "logo": "Gold",
+         "link": "http://media-ice.musicradio.com/GoldMP3Low.m3u",
+         "http": "http://media-ice.musicradio.com/GoldMP3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Gravity FM",
+         "logo": "Gravity",
+         "link": "http://live.audiospace.co/gravityfm4.m3u",
+         "http": "",
+         "note": "Grantham (Local)"
+      },
+      {
+         "name": "GTFM",
+         "logo": "GTFM",
+         "link": "http://radio.canstream.co.uk:8012/live.mp3.m3u",
+         "http": "",
+         "note": "Pontypridd (Local)"
+      },
+      {
+         "name": "Hallam FM",
+         "logo": "Hallam",
+         "link": "http://tx.whatson.com/icecast.php?i=hallam.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=hallam.aac.m3u",
+         "note": "Sheffield, Local (Top 30)"
+      },
+      {
+         "name": "Hallam 2",
+         "logo": "Hallam2",
+         "link": "http://tx.whatson.com/icecast.php?i=magicam.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magicam.aac.m3u",
+         "note": "Sheffield (Local)"
+      },
+      {
+         "name": "Halton Community Radio",
+         "logo": "Halton",
+         "link": "http://eclipse.galaxywebsolutions.com:7630/live.m3u",
+         "http": "",
+         "note": "Runcorn (Local)"
+      },
+      {
+         "name": "Hayes FM",
+         "logo": "Hayes",
+         "link": "http://s19.myradiostream.com:8026/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "HCRfm",
+         "logo": "HCRfm",
+         "link": "http://stream.hcrfm.co.uk:8098/listen.pls",
+         "http": "",
+         "note": "Huntingdon (Local)"
+      },
+      {
+         "name": "Heart 106.2",
+         "logo": "Heart1",
+         "link": "http://media-ice.musicradio.com/HeartLondonMP3.m3u",
+         "http": "",
+         "note": "London"
+      },
+      {
+         "name": "Heart 80s",
+         "logo": "Heart2",
+         "link": "http://media-ice.musicradio.com/Heart80sMP3.m3u",
+         "http": "",
+         "note": "London"
+      },
+      {
+         "name": "Heart FM 100.7",
+         "logo": "Heart3",
+         "link": "http://media-ice.musicradio.com/HeartWestMidsMP3.m3u",
+         "http": "",
+         "note": "Birmingham (Local)"
+      },
+      {
+         "name": "Heart (Norwich)",
+         "logo": "Heart4",
+         "link": "http://media-ice.musicradio.com/HeartNorfolkMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Bedford)",
+         "logo": "Heart5",
+         "link": "http://ice-the.musicradio.com/HeartBedfordshireMP3",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Dunstable)",
+         "logo": "Heart6",
+         "link": "http://media-ice.musicradio.com/HeartBedsBucksHertsMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Peterborough)",
+         "logo": "Heart7",
+         "link": "http://media-ice.musicradio.com/HeartPeterboroughMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Northampton)",
+         "logo": "Heart8",
+         "link": "http://media-ice.musicradio.com/HeartNorthamptonshireMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Cambridge)",
+         "logo": "Heart9",
+         "link": "http://media-ice.musicradio.com/HeartCambridgeMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Colchester)",
+         "logo": "Heart10",
+         "link": "http://media-ice.musicradio.com/HeartColchesterMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Ipswich)",
+         "logo": "Heart11",
+         "link": "http://media-ice.musicradio.com/HeartSuffolkMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Milton Keynes)",
+         "logo": "Heart12",
+         "link": "http://media-ice.musicradio.com/HeartMiltonKeynesMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Oxfordshire)",
+         "logo": "Heart13",
+         "link": "http://media-ice.musicradio.com/HeartOxfordshireMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Bath)",
+         "logo": "Heart14",
+         "link": "http://media-ice.musicradio.com/HeartBathMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Bristol)",
+         "logo": "Heart15",
+         "link": "http://media-ice.musicradio.com/HeartBristolMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Wiltshire)",
+         "logo": "Heart16",
+         "link": "http://media-ice.musicradio.com/HeartWiltshireMP3.m3u",
+         "http": "",
+         "note": "Swindon (Local)"
+      },
+      {
+         "name": "Heart (Exeter)",
+         "logo": "Heart17",
+         "link": "http://media-ice.musicradio.com/HeartEastDevonMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Torbay)",
+         "logo": "Heart18",
+         "link": "http://media-ice.musicradio.com/HeartTorbayMP3.m3u",
+         "http": "",
+         "note": "Torquay (Local)"
+      },
+      {
+         "name": "Heart (North Devon)",
+         "logo": "Heart19",
+         "link": "http://media-ice.musicradio.com/HeartNorthDevonMP3.m3u",
+         "http": "",
+         "note": "Barnstaple (Local)"
+      },
+      {
+         "name": "Heart (Somerset)",
+         "logo": "Heart20",
+         "link": "http://media-ice.musicradio.com/HeartSomersetMP3.m3u",
+         "http": "",
+         "note": "Taunton (Local)"
+      },
+      {
+         "name": "Heart (Plymouth)",
+         "logo": "Heart21",
+         "link": "http://media-ice.musicradio.com/HeartPlymouthMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Gloucestershire)",
+         "logo": "Heart22",
+         "link": "http://media-ice.musicradio.com/HeartGloucestershireMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (South Devon)",
+         "logo": "Heart23",
+         "link": "http://media-ice.musicradio.com/HeartSouthHamsMP3.m3u",
+         "http": "",
+         "note": "Kingsbridge (Local)"
+      },
+      {
+         "name": "Heart (Berkshire)",
+         "logo": "Heart24",
+         "link": "http://media-ice.musicradio.com/HeartBerkshireMP3.m3u",
+         "http": "",
+         "note": "Reading (Local)"
+      },
+      {
+         "name": "Heart (Cheshire and North East Wales)",
+         "logo": "Heart25",
+         "link": "http://media-ice.musicradio.com/HeartWrexhamMP3.m3u",
+         "http": "",
+         "note": "Wrexham (Local)"
+      },
+      {
+         "name": "Heart (Cornwall)",
+         "logo": "Heart26",
+         "link": "http://media-ice.musicradio.com/HeartCornwallMP3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Heart (Dorset)",
+         "logo": "Heart27",
+         "link": "http://media-ice.musicradio.com/HeartDorsetMP3.m3u",
+         "http": "",
+         "note": "Bournemouth (Local)"
+      },
+      {
+         "name": "Heart (Essex)",
+         "logo": "Heart28",
+         "link": "http://media-ice.musicradio.com/HeartEssexMP3.m3u",
+         "http": "",
+         "note": "Chelmsford (Local)"
+      },
+      {
+         "name": "Heart (Hampshire)",
+         "logo": "Heart29",
+         "link": "http://media-ice.musicradio.com/HeartHampshireMP3.m3u",
+         "http": "",
+         "note": "Fareham (Local)"
+      },
+      {
+         "name": "Heart (Kent)",
+         "logo": "Heart30",
+         "link": "http://media-ice.musicradio.com/HeartKentMP3.m3u",
+         "http": "",
+         "note": "Maidstone (Local)"
+      },
+      {
+         "name": "Heart (North Wales Coast)",
+         "logo": "Heart31",
+         "link": "http://media-ice.musicradio.com/HeartWalesCoastMP3.m3u",
+         "http": "",
+         "note": "Bangor (Local)"
+      },
+      {
+         "name": "Heart (Sussex)",
+         "logo": "Heart32",
+         "link": "http://media-ice.musicradio.com/HeartSussexMP3.m3u",
+         "http": "",
+         "note": "Brighton (Local)"
+      },
+      {
+         "name": "Heart (Wirral)",
+         "logo": "Heart33",
+         "link": "http://media-ice.musicradio.com/HeartWirralMP3.m3u",
+         "http": "",
+         "note": "Birkenhead (Local)"
+      },
+      {
+         "name": "Heart (Hertfordshire)",
+         "logo": "Heart34",
+         "link": "http://media-ice.musicradio.com/HeartWatfordMP3.m3u",
+         "http": "",
+         "note": "Watford (Local)"
+      },
+      {
+         "name": "Heart (Sussex & Surrey)",
+         "logo": "Heart35",
+         "link": "http://media-ice.musicradio.com/HeartCrawleyMP3.m3u",
+         "http": "",
+         "note": "Crawley (Local)"
+      },
+      {
+         "name": "Heartland FM",
+         "logo": "Heartland",
+         "link": "http://sc01.fantasyradio.co.uk:8104/listen.pls?sid=1",
+         "http": "",
+         "note": "Pitlochry (Local)"
+      },
+      {
+         "name": "Heat",
+         "logo": "Heat",
+         "link": "http://tx.whatson.com/icecast.php?i=heat.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=heat.aac.m3u",
+         "note": "Uptempo Pop Music"
+      },
+      {
+         "name": "Hermitage FM",
+         "logo": "Hermitage",
+         "link": "http://live.canstream.co.uk:8000/hermitage.mp3.m3u",
+         "http": "",
+         "note": "Coalville (Local)"
+      },
+      {
+         "name": "102.3 HFM",
+         "logo": "HFM",
+         "link": "http://icy-e-04.sharp-stream.com/harboroughfm.mp3.m3u",
+         "http": "",
+         "note": "Market Harborough (Local)"
+      },
+      {
+         "name": "High Peak Radio",
+         "logo": "High",
+         "link": "http://s4.xrad.io:8020/listen.pls",
+         "http": "",
+         "note": "Buxton, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Hillz FM",
+         "logo": "Hillz",
+         "link": "http://www.kphcomputers.com/thehillzradio.m3u",
+         "http": "",
+         "note": "Coventry (Local)"
+      },
+      {
+         "name": "The Hits",
+         "logo": "Hits",
+         "link": "http://tx.whatson.com/icecast.php?i=hits.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=hits.aac.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "Hope FM",
+         "logo": "Hope",
+         "link": "http://stream-hfm2.tune-in.co.uk:19020/listen.pls",
+         "http": "",
+         "note": "Bournemouth (Local)"
+      },
+      {
+         "name": "Hot Radio",
+         "logo": "Hot",
+         "link": "http://stream1.tune-in.co.uk:7002/listen.pls",
+         "http": "",
+         "note": "Poole (Local)"
+      },
+      {
+         "name": "Hull Kingston Radio",
+         "logo": "Hull",
+         "link": "http://hyades.shoutca.st:8031/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ICR",
+         "logo": "ICR",
+         "link": "http://95.142.158.120/tunein.php/ipswichc/playlist.pls",
+         "http": "",
+         "note": "Ipswich (Local)"
+      },
+      {
+         "name": "Imagine FM",
+         "logo": "Imagine",
+         "link": "http://webradio.radiomonitor.com/stream/Imagine.m3u",
+         "http": "",
+         "note": "Stockport, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Insanity Radio",
+         "logo": "Insanity",
+         "link": "http://stream.insanityradio.com:8000/insanity192.mp3.m3u",
+         "http": "",
+         "note": "Egham (Local)"
+      },
+      {
+         "name": "Insight Radio",
+         "logo": "Insight",
+         "link": "http://185.14.85.162:8020/listen.pls",
+         "http": "",
+         "note": "Glasgow, Local (service for blind / partially sighted)"
+      },
+      {
+         "name": "Inspiration FM",
+         "logo": "Inspiration",
+         "link": "http://live.canstream.co.uk:8000/inspirationfm.mp3.m3u",
+         "http": "",
+         "note": "Northampton / Multicultural (Local)"
+      },
+      {
+         "name": "Island FM",
+         "logo": "Island",
+         "link": "http://sharpflow.sharp-stream.com:8000/tindleisland.mp3.m3u",
+         "http": "",
+         "note": "Guernsey, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Isle of Wight Radio",
+         "logo": "Isle",
+         "link": "http://listen.onmyradio.net:8018/listen.pls",
+         "http": "",
+         "note": "Newport (Local)"
+      },
+      {
+         "name": "Isles FM",
+         "logo": "Isles",
+         "link": "http://hebrides.tv:8000/islesfm.m3u",
+         "http": "",
+         "note": "Stornoway (Music / Local News)"
+      },
+      {
+         "name": "Jack FM",
+         "logo": "Jack",
+         "link": "http://playerservices.streamtheworld.com/pls/JACK_FM_LOW.pls",
+         "http": "http://playerservices.streamtheworld.com/pls/JACK_FM.pls",
+         "note": "Variety Rock Music"
+      },
+      {
+         "name": "Jazz FM",
+         "logo": "Jazz",
+         "link": "http://www.listenlive.eu/streams/uk/jazzfm.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Juice 107.2",
+         "logo": "Juice",
+         "link": "http://icy-e-04.sharp-stream.com/juice1072.mp3.m3u",
+         "http": "",
+         "note": "Brighton, Local (Dance / RnB Music)"
+      },
+      {
+         "name": "K107",
+         "logo": "K107",
+         "link": "http://s11.myradiostream.com:9020/listen.pls",
+         "http": "",
+         "note": "Kirkcaldy (Local)"
+      },
+      {
+         "name": "Kane FM",
+         "logo": "Kane",
+         "link": "http://stream.kanefm.com:1037/listen.m3u",
+         "http": "",
+         "note": "Guildford (Local)"
+      },
+      {
+         "name": "KCFM",
+         "logo": "KCFM",
+         "link": "http://lincs.planetwideradio.com:8015/kcfmaac.m3u",
+         "http": "",
+         "note": "Hull, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "KCC Live",
+         "logo": "KCC",
+         "link": "http://195.194.74.201:8000/listen.mp3.m3u",
+         "http": "",
+         "note": "Knowsley (Local)"
+      },
+      {
+         "name": "Keith Community Radio",
+         "logo": "Keith",
+         "link": "http://icecast.commedia.org.uk:8000/keithcommunityradio.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "97.5 Kemet FM",
+         "logo": "Kemet",
+         "link": "http://109.169.26.139:8120/listen.pls?sid=1",
+         "http": "",
+         "note": "Afro Caribbean Community (Nottingham, Local)"
+      },
+      {
+         "name": "Kerrang!",
+         "logo": "Kerrang",
+         "link": "http://tx.whatson.com/icecast.php?i=kerrang.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=kerrang.aac.m3u",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Key 103",
+         "logo": "Key",
+         "link": "http://tx.whatson.com/icecast.php?i=key.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=key.aac.m3u",
+         "note": "Manchester (Local)"
+      },
+      {
+         "name": "Key 2",
+         "logo": "Key2",
+         "link": "http://tx.whatson.com/icecast.php?i=magic1152m.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic1152m.aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "Kingdom FM",
+         "logo": "Kingdom",
+         "link": "http://stream8.considerit.co.uk/kingdomfm64.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Kinnaird Radio",
+         "logo": "Kinnaird",
+         "link": "http://icecast.commedia.org.uk:8000/kinnaird.mp3.m3u",
+         "http": "",
+         "note": "Fraserburgh (Local)"
+      },
+      {
+         "name": "KISS UK",
+         "logo": "KISS",
+         "link": "http://tx.whatson.com/icecast.php?i=kiss100.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=kissnational.mp3.m3u",
+         "note": "Dance / RnB Music"
+      },
+      {
+         "name": "KISS Fresh",
+         "logo": "Fresh",
+         "link": "http://tx.whatson.com/icecast.php?i=kissfresh.mp3.m3u",
+         "http": "",
+         "note": "Hip-Hop / RnB Music"
+      },
+      {
+         "name": "KISSTORY",
+         "logo": "KISSTORY",
+         "link": "http://tx.whatson.com/icecast.php?i=kisstory.mp3.m3u",
+         "http": "",
+         "note": "Old Skool And Anthems"
+      },
+      {
+         "name": "KL.FM 96.7",
+         "logo": "KLFM",
+         "link": "http://str1.sad.ukrd.com/klfm.m3u",
+         "http": "",
+         "note": "Kings Lynn, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "kmfm",
+         "logo": "kmfm",
+         "link": "http://icy-e-04.sharp-stream.com/kmfmextra.mp3.m3u",
+         "http": "",
+         "note": "Kent, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Lakeland Radio",
+         "logo": "Lakeland",
+         "link": "http://shoutcast2.tidyhosts.com:8012/listen.pls",
+         "http": "",
+         "note": "Kendal, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "LBC 1152",
+         "logo": "LBC1152",
+         "link": "http://media-ice.musicradio.com/LBC1152MP3Low.m3u",
+         "http": "http://media-ice.musicradio.com/LBC1152.m3u",
+         "note": "News"
+      },
+      {
+         "name": "LBC 97.3",
+         "logo": "LBC97.3",
+         "link": "http://media-ice.musicradio.com/LBC973MP3Low.m3u",
+         "http": "http://media-ice.musicradio.com/LBC973.m3u",
+         "note": "News / Talk"
+      },
+      {
+         "name": "LCR (LSU)",
+         "logo": "LCR",
+         "link": "http://158.125.14.12:8080/lcrhigh.m3u",
+         "http": "",
+         "note": "Loughborough, Local (Student Radio)"
+      },
+      {
+         "name": "Legacy 90.1",
+         "logo": "Legacy",
+         "link": "http://92.27.224.83:8000/listen.pls?sid=1",
+         "http": "",
+         "note": "Manchester, Local (Afro Caribbean)"
+      },
+      {
+         "name": "Leisure FM",
+         "logo": "Leisure",
+         "link": "http://lfmradio.countybroadband.net:8002/listen.pls",
+         "http": "",
+         "note": "Braintree (Local)"
+      },
+      {
+         "name": "Lincoln City Radio",
+         "logo": "Lincoln",
+         "link": "http://uk4.listen2myradio.com:2199/tunein/yymhhdkj-stream.pls",
+         "http": "",
+         "note": "Lincoln (Local)"
+      },
+      {
+         "name": "Lincs FM",
+         "logo": "Lincs",
+         "link": "http://lincs.planetwideradio.com:8000/lincsfmaac.m3u",
+         "http": "",
+         "note": "Lincoln, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Lionheart Radio",
+         "logo": "Lionheart",
+         "link": "http://www.lionheartradio.com/lionheart.m3u",
+         "http": "",
+         "note": "Alnwick (Local)"
+      },
+      {
+         "name": "Lisburn's 98FM",
+         "logo": "Lisburn",
+         "link": "http://radio.canstream.co.uk:8050/live.mp3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "London Greek Radio",
+         "logo": "Greek",
+         "link": "http://live3.istoikona.net:8203/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "London Turkish Radio",
+         "logo": "Turkish",
+         "link": "http://bloom.wavestreamer.com:2171/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Love 80's Manchester",
+         "logo": "80Manchester",
+         "link": "http://rss-streaming.co.uk:8042/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Love 80's Liverpool",
+         "logo": "80Liverpool",
+         "link": "http://rss-streaming.co.uk:8062/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Magic 105.4",
+         "logo": "Magic",
+         "link": "http://tx.whatson.com/icecast.php?i=magic1054.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic1054.aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "Mansfield 103.2",
+         "logo": "Mansfield",
+         "link": "http://live.audiospace.co/mansfield1032.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Manx Radio",
+         "logo": "Manx",
+         "link": "http://edge-event-05-gos1.sharp-stream.com/manxradiofm.aac.m3u",
+         "http": "http://edge-event-05-gos1.sharp-stream.com/manxradioammobile.aac.m3u",
+         "note": "Isle of Man (Local)"
+      },
+      {
+         "name": "Marlow FM",
+         "logo": "Marlow",
+         "link": "http://audio.marlowfm.co.uk:8022/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Max",
+         "logo": "Max",
+         "link": "http://mp3streaming.planetwideradio.com:9230/2zy.m3u",
+         "http": "",
+         "note": "80s Music (Manchester, Local)"
+      },
+      {
+         "name": "Mearns FM",
+         "logo": "Mearns",
+         "link": "http://217.28.20.20:8002/stream.m3u",
+         "http": "",
+         "note": "Stonehaven (Local)"
+      },
+      {
+         "name": "Mellow Magic",
+         "logo": "Mellow",
+         "link": "http://tx.whatson.com/icecast.php?i=magicmellow.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magicmellow.aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "Meridian FM",
+         "logo": "Meridian",
+         "link": "http://radio.canstream.co.uk:8063/live.mp3.m3u",
+         "http": "",
+         "note": "East Grinstead (Local)"
+      },
+      {
+         "name": "Metro Radio",
+         "logo": "Metro1",
+         "link": "http://tx.whatson.com/icecast.php?i=metro.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=metro.aac.m3u",
+         "note": "Newcastle (Local)"
+      },
+      {
+         "name": "Metro Radio 2",
+         "logo": "Metro2",
+         "link": "http://tx.whatson.com/icecast.php?i=magic1152n.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic1152n.aac.m3u",
+         "note": "Newcastle (Local)"
+      },
+      {
+         "name": "MFR FM",
+         "logo": "MFR1",
+         "link": "http://tx.whatson.com/icecast.php?i=mfrfm.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=mfrfm.aac.m3u",
+         "note": "Inverness (Local)"
+      },
+      {
+         "name": "MFR 2",
+         "logo": "MFR2",
+         "link": "http://tx.whatson.com/icecast.php?i=mfram.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=mfram.aac.m3u",
+         "note": "Inverness (Local)"
+      },
+      {
+         "name": "Minster FM",
+         "logo": "Minster",
+         "link": "http://str1.sad.ukrd.com/minster.m3u",
+         "http": "",
+         "note": "York (Local)"
+      },
+      {
+         "name": "Mix 96",
+         "logo": "Mix",
+         "link": "http://str1.sad.ukrd.com/mix96.m3u",
+         "http": "",
+         "note": "Aylesbury (Local)"
+      },
+      {
+         "name": "MKFM",
+         "logo": "MKFM",
+         "link": "http://50.7.70.66:8753/listen.pls",
+         "http": "",
+         "note": "Milton Keynes (Local)"
+      },
+      {
+         "name": "Moorlands Radio",
+         "logo": "Moorlands",
+         "link": "http://stream2.hippynet.co.uk:8067/listen.pls",
+         "http": "",
+         "note": "Leek (Local)"
+      },
+      {
+         "name": "More Radio Eastbourne",
+         "logo": "More1",
+         "link": "http://s4.xrad.io:8090/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "More Radio Mid Sussex",
+         "logo": "More2",
+         "link": "http://s4.xrad.io:8094/listen.pls",
+         "http": "",
+         "note": "Burgess Hill (Local)"
+      },
+      {
+         "name": "More Radio Hastings",
+         "logo": "More3",
+         "link": "http://s4.xrad.io:8092/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "More Radio Worthing",
+         "logo": "More4",
+         "link": "http://s4.xrad.io:8090/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MonFM",
+         "logo": "Mon",
+         "link": "http://neon.wavestreamer.com:2696/listen.pls?sid=1",
+         "http": "",
+         "note": "Llangefni (Local)"
+      },
+      {
+         "name": "Nation Radio",
+         "logo": "Nation",
+         "link": "http://icy-e-01.sharp-stream.com/tcnation.mp3.m3u",
+         "http": "http://icy-e-04.sharp-stream.com/tcnation.aac.m3u",
+         "note": "Cardiff, Local (Alternative / Indie Music)"
+      },
+      {
+         "name": "Nation Hits",
+         "logo": "NationHits",
+         "link": "http://icy-e-04.sharp-stream.com/tcbay.mp3.m3u",
+         "http": "http://icy-e-04.sharp-stream.com/tcbay.aac.m3u",
+         "note": "Swansea (Local)"
+      },
+      {
+         "name": "NE1fm",
+         "logo": "NE1fm",
+         "link": "http://www.ne1fm.net/listen.pls",
+         "http": "",
+         "note": "Newcastle (Local)"
+      },
+      {
+         "name": "NECR",
+         "logo": "NECR",
+         "link": "http://webradio.radiomonitor.com/m3u/NECR.m3u",
+         "http": "",
+         "note": "Inverurie (Local)"
+      },
+      {
+         "name": "Nevis Radio",
+         "logo": "Nevis",
+         "link": "http://149.255.59.162:8014/listen.pls",
+         "http": "",
+         "note": "Fort William (Local)"
+      },
+      {
+         "name": "NonStopPlay.com",
+         "logo": "NonStop",
+         "link": "http://www.nonstopplay.com/listen.pls",
+         "http": "",
+         "note": "Dance Music"
+      },
+      {
+         "name": "North Manchester FM",
+         "logo": "North",
+         "link": "http://live.canstream.co.uk:8000/manchesterfm.mp3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "North Norfolk Radio",
+         "logo": "Norfolk",
+         "link": "http://webradio.radiomonitor.com/m3u/NNR.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Local)"
+      },
+      {
+         "name": "NorthSound 1",
+         "logo": "NorthSound1",
+         "link": "http://tx.whatson.com/icecast.php?i=northsound1.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=northsound1.aac.m3u",
+         "note": "Aberdeen (Local)"
+      },
+      {
+         "name": "NorthSound 2",
+         "logo": "NorthSound2",
+         "link": "http://tx.whatson.com/icecast.php?i=northsound2.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=northsound2.aac.m3u",
+         "note": "Aberdeen (Local)"
+      },
+      {
+         "name": "Nova FM",
+         "logo": "Nova",
+         "link": "http://aries.streaming.zfast.co.uk:8178/listen.pls",
+         "http": "",
+         "note": "Newport (Local)"
+      },
+      {
+         "name": "NuSound Radio",
+         "logo": "NuSound",
+         "link": "http://www.nusoundradio.com/Images/nusound.m3u",
+         "http": "",
+         "note": "Forest Gate (Local)"
+      },
+      {
+         "name": "Oban FM",
+         "logo": "Oban",
+         "link": "http://icy-e-04.sharp-stream.com/obanfm.mp3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Oldham Community Radio",
+         "logo": "Oldham",
+         "link": "http://www.oldhamcommunityradio.com/listen.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Original 106",
+         "logo": "Original1",
+         "link": "http://www.listenlive.eu/streams/uk/original106.m3u",
+         "http": "",
+         "note": "Aberdeen (Local)"
+      },
+      {
+         "name": "Original 106 Gold",
+         "logo": "Original2",
+         "link": "http://www.listenlive.eu/streams/uk/original106Gold.m3u",
+         "http": "",
+         "note": "Aberdeen, Local (Oldies)"
+      },
+      {
+         "name": "Original 106 Country",
+         "logo": "Original3",
+         "link": "http://www.listenlive.eu/streams/uk/original106country.m3u",
+         "http": "",
+         "note": "Aberdeen (Local)"
+      },
+      {
+         "name": "Original 106 Chart",
+         "logo": "Original4",
+         "link": "http://www.listenlive.eu/streams/uk/original106chart.m3u",
+         "http": "",
+         "note": "Aberdeen (Local)"
+      },
+      {
+         "name": "Park Radio",
+         "logo": "Park",
+         "link": "http://fr1.nexuscast.com:8026/listen.pls?sid=1",
+         "http": "",
+         "note": "Diss (Local)"
+      },
+      {
+         "name": "Peak FM",
+         "logo": "Peak",
+         "link": "http://www.listenlive.eu/uk_peakfm.m3u",
+         "http": "",
+         "note": "Chesterfield, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Penistone FM",
+         "logo": "Penistone",
+         "link": "http://radio.canstream.co.uk:8021/live.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Phoenix FM",
+         "logo": "Phoenix",
+         "link": "http://hyades.shoutca.st:8555/listen.pls?sid=1",
+         "http": "",
+         "note": "Brentwood (Local)"
+      },
+      {
+         "name": "Phonic FM",
+         "logo": "Phonic",
+         "link": "http://stream.sentialive.com:8003/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Pirate FM",
+         "logo": "Pirate",
+         "link": "http://str1.sad.ukrd.com/pirate.m3u",
+         "http": "",
+         "note": "Redruth (Local)"
+      },
+      {
+         "name": "Planet Rock",
+         "logo": "Planet",
+         "link": "http://sharpflow.sharp-stream.com:8000/planetrock.mp3.m3u",
+         "http": "",
+         "note": "Classic Rock Music"
+      },
+      {
+         "name": "Point FM",
+         "logo": "Point",
+         "link": "http://stream.pointfm.co.uk:1031/listen.pls",
+         "http": "",
+         "note": "Rhyl (Local)"
+      },
+      {
+         "name": "Polskie Radio Londyn",
+         "logo": "Polskie",
+         "link": "http://radio.prl24.net:8128/listen.pls",
+         "http": "",
+         "note": "Polish Community"
+      },
+      {
+         "name": "Premier Christian Radio",
+         "logo": "Premier",
+         "link": "http://icy-e-03.sharp-stream.com/premierlondon.aac.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Premier Gospel",
+         "logo": "Gospel",
+         "link": "http://icy-e-03-boh.sharp-stream.com/premiernational.aac.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Pulse 1",
+         "logo": "Pulse1",
+         "link": "http://www.listenlive.eu/streams/uk/pulse1.m3u",
+         "http": "",
+         "note": "Bradford, Local (Top 30)"
+      },
+      {
+         "name": "Pulse 2",
+         "logo": "Pulse2",
+         "link": "http://www.listenlive.eu/streams/uk/pulse2.m3u",
+         "http": "",
+         "note": "Bradford, Local (Classic Hits)"
+      },
+      {
+         "name": "Pulse 80s",
+         "logo": "Pulse80",
+         "link": "http://www.listenlive.eu/streams/uk/pulse80s.m3u",
+         "http": "",
+         "note": "Bradford (Local)"
+      },
+      {
+         "name": "Q Radio Belfast",
+         "logo": "QBelfast",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/qr967.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Q Radio Coleraine",
+         "logo": "QColeraine",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/qr972.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Q Radio Newry",
+         "logo": "QNewry",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/qr1005.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Q Radio Omagh",
+         "logo": "QOmagh",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/qr1012.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Q Radio Londonderry",
+         "logo": "QLondonderry",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/qr1029.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Q Radio Ballymena",
+         "logo": "QBallymena",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/qr1070.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Q Radio Mid Ulster",
+         "logo": "QRadio",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/qr1060.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Cookstown, Local)"
+      },
+      {
+         "name": "QUAY-FM",
+         "logo": "QUAY",
+         "link": "http://quayfm.ci-servers.gg:1071/quay-fm.m3u",
+         "http": "",
+         "note": "Alderney (Local)"
+      },
+      {
+         "name": "Queen's Radio",
+         "logo": "Queen",
+         "link": "http://quis.qub.ac.uk:8080/QRLQ.m3u",
+         "http": "",
+         "note": "Belfast (Local)"
+      },
+      {
+         "name": "Radio Aire",
+         "logo": "Aire1",
+         "link": "http://tx.whatson.com/icecast.php?i=aire.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=aire.aac.m3u",
+         "note": "Leeds (Local)"
+      },
+      {
+         "name": "Radio Aire 2",
+         "logo": "Aire2",
+         "link": "http://tx.whatson.com/icecast.php?i=magic828.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic828.aac.m3u",
+         "note": "Leeds (Local)"
+      },
+      {
+         "name": "Radio Asian Fever",
+         "logo": "Fever",
+         "link": "http://icecast.commedia.org.uk:8000/asianfever.mp3.m3u",
+         "http": "",
+         "note": "Leeds (Local)"
+      },
+      {
+         "name": "Radio Borders",
+         "logo": "Borders",
+         "link": "http://tx.whatson.com/icecast.php?i=borders.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=borders.aac.m3u",
+         "note": "Galashiels (Local)"
+      },
+      {
+         "name": "Radio Cabin",
+         "logo": "Cabin",
+         "link": "http://149.255.59.3:8017/live.m3u",
+         "http": "",
+         "note": "Herne Bay (Local)"
+      },
+      {
+         "name": "Radio Carmarthenshire",
+         "logo": "Carmarthenshire",
+         "link": "http://icy-e-04.sharp-stream.com/tccarmarthenshire.aac.m3u",
+         "http": "",
+         "note": "Llanelli (Local)"
+      },
+      {
+         "name": "Radio Caroline",
+         "logo": "Caroline",
+         "link": "http://sc6.radiocaroline.net:8040/listen.pls",
+         "http": "",
+         "note": "Classic Rock Music"
+      },
+      {
+         "name": "Radio Ceredigion",
+         "logo": "Ceredigion",
+         "link": "http://icy-e-01.sharp-stream.com/tcceredigion.aac.m3u",
+         "http": "",
+         "note": "Aberystwyth, Local (English / Welsh)"
+      },
+      {
+         "name": "Radio City",
+         "logo": "City1",
+         "link": "http://tx.whatson.com/icecast.php?i=city.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=city.aac.m3u",
+         "note": "Liverpool (Local)"
+      },
+      {
+         "name": "https://planetradio.co.uk/city-2/",
+         "logo": "City2",
+         "link": "http://tx.whatson.com/icecast.php?i=magic1548.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic1548.aac.m3u",
+         "note": "Liverpool (Local)"
+      },
+      {
+         "name": "Radio Essex",
+         "logo": "Essex",
+         "link": "http://ar.canstream.co.uk:8003/live.mp3.m3u",
+         "http": "http://ar.canstream.co.uk:8003/live.aac.m3u",
+         "note": "Southend (Local)"
+      },
+      {
+         "name": "Radio Exe",
+         "logo": "Exe",
+         "link": "http://192.99.20.78:8058/live.m3u",
+         "http": "",
+         "note": "Exeter, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Radio Faza",
+         "logo": "Faza",
+         "link": "http://livecast.radiofaza.org.uk:12164/listen.pls?sid=1",
+         "http": "",
+         "note": "Nottingham, Local (Asian Community)"
+      },
+      {
+         "name": "Radio Hartlepool",
+         "logo": "Hartlepool",
+         "link": "http://arctic.thebmwz3.co.uk:8000/hartlepool-mp3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Radio Ikhlas",
+         "logo": "Ikhlas",
+         "link": "http://live.canstream.co.uk:8000/radioikhlas.mp3.m3u",
+         "http": "",
+         "note": "Derby, Local (Asian Community)"
+      },
+      {
+         "name": "Radio Jackie",
+         "logo": "Jackie",
+         "link": "http://radiojackie.com:22614/listen.pls",
+         "http": "http://radiojackie.com:12614/listen.pls",
+         "note": "Tolworth, Local (Classic Hits)"
+      },
+      {
+         "name": "Radio Newark",
+         "logo": "Newark",
+         "link": "http://rss-streaming.co.uk:8002/listen.pls?sid=1",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "99.9 Radio Norwich",
+         "logo": "Norwich",
+         "link": "http://webradio.radiomonitor.com/m3u/Norwich999.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Radio Pembrokeshire",
+         "logo": "Pembrokeshire",
+         "link": "http://icy-e-04.sharp-stream.com/tcpembrokeshire.aac.m3u",
+         "http": "",
+         "note": "Tenby (Local)"
+      },
+      {
+         "name": "RadioReverb",
+         "logo": "RadioReverb",
+         "link": "http://edge-audio-03-gos2.sharp-stream.com/radioreverb.mp3.m3u",
+         "http": "",
+         "note": "Brighton (Local)"
+      },
+      {
+         "name": "Radio Scilly",
+         "logo": "Scilly",
+         "link": "http://radio.canstream.co.uk:8040/live.mp3.m3u",
+         "http": "http://radio.canstream.co.uk:8041/live.aac.m3u",
+         "note": "Isles of Scilly (Local)"
+      },
+      {
+         "name": "Radio St Austell Bay",
+         "logo": "Austell",
+         "link": "http://listen.rsab.org/listen.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Radio Sunlight",
+         "logo": "Sunlight",
+         "link": "http://icecast.commedia.org.uk:8000/sunlight.mp3.m3u",
+         "http": "",
+         "note": "Gillingham (Local)"
+      },
+      {
+         "name": "Radio Teesdale",
+         "logo": "Teesdale",
+         "link": "http://icecast.commedia.org.uk:8000/radioteesdale.mp3.m3u",
+         "http": "",
+         "note": "Barnard Castle (Local)"
+      },
+      {
+         "name": "Radio Tircoed",
+         "logo": "Tircoed",
+         "link": "http://a11.streamgb.com:2199/tunein/tircoed.pls",
+         "http": "",
+         "note": "Swansea (Local)"
+      },
+      {
+         "name": "Radio Verulam",
+         "logo": "Verulam",
+         "link": "http://stream1.myradioapps.com/radioverulam.m3u",
+         "http": "",
+         "note": "St.Albans (Local)"
+      },
+      {
+         "name": "Radio Yorkshire",
+         "logo": "Yorkshire",
+         "link": "http://stream1.myradioapps.com/radio_yorkshire.m3u",
+         "http": "",
+         "note": "Leeds, Local (Sport)"
+      },
+      {
+         "name": "Radio Warrington",
+         "logo": "Warrington",
+         "link": "http://stream.dnsgb.net:8002/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Radio Wave 96.5",
+         "logo": "Wave",
+         "link": "http://webradio.radiomonitor.com/m3u/Wave-Blackpool.m3u",
+         "http": "",
+         "note": "Blackpool (Local)"
+      },
+      {
+         "name": "Radio Winchcombe",
+         "logo": "Winchcombe",
+         "link": "http://195.10.228.6:8014/winchcombe.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Radio X 104.9",
+         "logo": "104.9",
+         "link": "http://media-ice.musicradio.com/RadioXLondonMP3.m3u",
+         "http": "http://media-ice.musicradio.com/RadioXLondon.m3u",
+         "note": "Alternative / New Music"
+      },
+      {
+         "name": "Radio X 97.7",
+         "logo": "97.7",
+         "link": "http://media-ice.musicradio.com/RadioXManchesterMP3.m3u",
+         "http": "http://media-ice.musicradio.com/RadioXManchester.m3u",
+         "note": "Alternative / New Music"
+      },
+      {
+         "name": "Radio XL",
+         "logo": "XL",
+         "link": "http://sc18.strictlyhosting.co.uk:8000/listen.pls",
+         "http": "",
+         "note": "Birmingham, Local (Asian Programming)"
+      },
+      {
+         "name": "Raidió Fáilte",
+         "logo": "Failte",
+         "link": "http://icecast.commedia.org.uk:8000/raidiofailte.mp3.m3u",
+         "http": "",
+         "note": "Belfast, Local (Irish)"
+      },
+      {
+         "name": "RADIOROSAK",
+         "logo": "RADIOROSAK",
+         "link": "http://51.15.152.81:9114/listen.pls?sid=1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Rainbow Radio",
+         "logo": "Rainbow",
+         "link": "http://usa7.fastcast4u.com:6282/listen.pls",
+         "http": "",
+         "note": "Ghanaian Programming"
+      },
+      {
+         "name": "Rathergood Radio",
+         "logo": "Rathergood",
+         "link": "http://audio.viewtvgroup.com:7220/listen.pls?sid=1",
+         "http": "",
+         "note": "Current / Classic Hits (Darlington, Local)"
+      },
+      {
+         "name": "RaW 1251AM",
+         "logo": "RaW",
+         "link": "http://radio.warwick.ac.uk/streams/auto-high-mp3.m3u",
+         "http": "",
+         "note": "Warwick, Local (Student Radio)"
+      },
+      {
+         "name": "Real Radio XS",
+         "logo": "XS",
+         "link": "http://media-ice.musicradio.com/RealXSManchesterMP3.m3u",
+         "http": "",
+         "note": "Manchester, Local (Classic Rock Music)"
+      },
+      {
+         "name": "Redroad FM",
+         "logo": "Redroad",
+         "link": "http://s45.myradiostream.com:13784/listen.pls",
+         "http": "",
+         "note": "Rotherham (Local)"
+      },
+      {
+         "name": "Resonance 104.4fm",
+         "logo": "Resonance",
+         "link": "http://stream.resonance.fm:8000/resonance.m3u",
+         "http": "",
+         "note": "Community Radio / Arts"
+      },
+      {
+         "name": "Revival FM",
+         "logo": "Revival",
+         "link": "http://rs4.radiostreamer.com:8470/listen.pls",
+         "http": "",
+         "note": "Cumbernauld, Local (Christian)"
+      },
+      {
+         "name": "96.2 The Revolution",
+         "logo": "Revolution",
+         "link": "http://webradio.radiomonitor.com/m3u/Revolution.m3u",
+         "http": "",
+         "note": "Oldham, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Ridings FM",
+         "logo": "Ridings",
+         "link": "http://lincs.planetwideradio.com:8020/ridingsfmaac.m3u",
+         "http": "",
+         "note": "Wakefield, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Rock FM",
+         "logo": "Rock1",
+         "link": "http://tx.whatson.com/icecast.php?i=rock.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=rock.aac.m3u",
+         "note": "Preston (Top 30)"
+      },
+      {
+         "name": "Rock FM 2",
+         "logo": "Rock2",
+         "link": "http://tx.whatson.com/icecast.php?i=magic999.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic999.aac.m3u",
+         "note": "Preston (Local)"
+      },
+      {
+         "name": "RockSport",
+         "logo": "RockSport",
+         "link": "http://antares.dribb.com:5106/listen.pls?sid=1",
+         "http": "",
+         "note": "Glasgow, Local (Sport / Classic Rock)"
+      },
+      {
+         "name": "Rother FM",
+         "logo": "Rother",
+         "link": "http://lincs.planetwideradio.com:8025/rotherfmaac.m3u",
+         "http": "",
+         "note": "Rotherham, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "107.1 Rugby FM",
+         "logo": "Rugby",
+         "link": "http://icy-e-04.sharp-stream.com/1071rugbyfm.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Rutland Radio",
+         "logo": "Rutland",
+         "link": "http://lincs.planetwideradio.com:8030/rutlandradioaac.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Oakham, Local)"
+      },
+      {
+         "name": "RWSfm",
+         "logo": "RWSfm",
+         "link": "http://soho.wavestreamer.com:5587/listen.pls?sid=1",
+         "http": "",
+         "note": "Bury St.Edmunds (Local)"
+      },
+      {
+         "name": "Sabras Radio",
+         "logo": "Sabras",
+         "link": "http://www.sabrasradio.com/res/wm_hi.m3u",
+         "http": "",
+         "note": "Leicester, Local (Asian Programming)"
+      },
+      {
+         "name": "Saint FM",
+         "logo": "Saint",
+         "link": "http://stream.saintfm.co.uk:8134/listen.pls",
+         "http": "",
+         "note": "Burnham on Crouch (Local)"
+      },
+      {
+         "name": "Salford City Radio",
+         "logo": "Salford",
+         "link": "http://www.salfordcityradio.org/listen.m3u",
+         "http": "http://www.salfordcityradio.org/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "106 Sam FM Bristol",
+         "logo": "Sam1",
+         "link": "http://webradio.radiomonitor.com/m3u/SamFMBristol-128.m3u",
+         "http": "",
+         "note": "Variety Rock Music"
+      },
+      {
+         "name": "106 Sam FM Southampton",
+         "logo": "Sam2",
+         "link": "http://webradio.radiomonitor.com/m3u/SamFMSouthCoast-128.m3u",
+         "http": "",
+         "note": "Variety Rock Music"
+      },
+      {
+         "name": "107 Sam FM Swindon",
+         "logo": "Sam3",
+         "link": "http://webradio.radiomonitor.com/m3u/SamFMSwindon-128.m3u",
+         "http": "",
+         "note": "Variety Rock Music"
+      },
+      {
+         "name": "Sanskar Radio",
+         "logo": "Sanskar",
+         "link": "http://www.sanskarradio.com/sanskar.m3u",
+         "http": "",
+         "note": "Leicester, Local (Hindi Programming)"
+      },
+      {
+         "name": "Scarlet FM",
+         "logo": "Scarlet",
+         "link": "http://icy-e-04.sharp-stream.com/tcscarlet.aac.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Scratch Radio",
+         "logo": "Scratch",
+         "link": "http://live.scratchradio.co.uk:8000/WebPlayer.m3u",
+         "http": "",
+         "note": "Birmingham, Local (Student)"
+      },
+      {
+         "name": "Seahaven FM",
+         "logo": "Seahaven",
+         "link": "http://radio.canstream.co.uk:8027/live.mp3.m3u",
+         "http": "",
+         "note": "Seaford (Local)"
+      },
+      {
+         "name": "Sedgemoor FM",
+         "logo": "Sedgemoor",
+         "link": "http://s3.xrad.io:8040/listen.pls",
+         "http": "",
+         "note": "Bridgwater (Local)"
+      },
+      {
+         "name": "SFM",
+         "logo": "SFM",
+         "link": "http://navi.streaming.zfast.co.uk:8134/listen.pls?sid=1",
+         "http": "",
+         "note": "Sittingbourne (Local)"
+      },
+      {
+         "name": "Sheffield Live!",
+         "logo": "Sheffield",
+         "link": "http://icecast.commedia.org.uk:8000/shefflive.mp3.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "shmu",
+         "logo": "shmu",
+         "link": "http://stream.shmu.org.uk:8000/shmufm_high.mp3.m3u",
+         "http": "",
+         "note": "Aberdeen (Local)"
+      },
+      {
+         "name": "SIBC",
+         "logo": "SIBC",
+         "link": "http://tx9.zetcast.net:8100/stream2.m3u",
+         "http": "http://tx9.zetcast.net:8100/stream3.m3u",
+         "note": "Lerwick (Local)"
+      },
+      {
+         "name": "Signal 1",
+         "logo": "Signal1",
+         "link": "http://www.listenlive.eu/streams/uk/signal1.m3u",
+         "http": "",
+         "note": "Stoke (Local)"
+      },
+      {
+         "name": "Signal 2",
+         "logo": "Signal2",
+         "link": "http://www.listenlive.eu/streams/uk/signal2.m3u",
+         "http": "",
+         "note": "Stoke (Local)"
+      },
+      {
+         "name": "Signal 80s",
+         "logo": "Signal80",
+         "link": "http://www.listenlive.eu/streams/uk/signal80s.m3u",
+         "http": "",
+         "note": "Stoke (Local)"
+      },
+      {
+         "name": "Signal 107 (Wolverhampton)",
+         "logo": "Wolverhampton",
+         "link": "http://www.listenlive.eu/s107wlv.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Signal 107 (Shrewsbury)",
+         "logo": "Shrewsbury",
+         "link": "http://www.listenlive.eu/s107shr.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Signal 107 (Telford)",
+         "logo": "Telford",
+         "link": "http://www.listenlive.eu/s107tel.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Signal 107 (Kidderminster)",
+         "logo": "Kidderminster",
+         "link": "http://www.listenlive.eu/s107kid.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Silk 106.9",
+         "logo": "Silk",
+         "link": "http://icy-e-04.sharp-stream.com/tcsilk.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Macclesfield, Local)"
+      },
+      {
+         "name": "Sine FM",
+         "logo": "Sine",
+         "link": "http://www.sinefm.com/UserFiles/File/sinefm.m3u",
+         "http": "",
+         "note": "Doncaster (Local)"
+      },
+      {
+         "name": "Siren FM",
+         "logo": "Siren",
+         "link": "http://radio.canstream.co.uk:8045/live.mp3.m3u",
+         "http": "",
+         "note": "Lincoln (Local)"
+      },
+      {
+         "name": "Skyline 102.5 FM",
+         "logo": "Skyline",
+         "link": "http://icecast.commedia.org.uk:8000/skyline.mp3.m3u",
+         "http": "",
+         "note": "Hedge End (Local)"
+      },
+      {
+         "name": "Smile Sussex",
+         "logo": "Smile",
+         "link": "http://icy-e-04.sharp-stream.com/smilesussex.mp3.m3u",
+         "http": "",
+         "note": "Easy Listening (Brighton, Local)"
+      },
+      {
+         "name": "Smooth Radio North West",
+         "logo": "Smooth1",
+         "link": "http://media-ice.musicradio.com/SmoothNorthWestMP3.m3u",
+         "http": "",
+         "note": "Easy Listening (Manchester, Local)"
+      },
+      {
+         "name": "Smooth Radio Scotland",
+         "logo": "Smooth2",
+         "link": "http://media-ice.musicradio.com/SmoothScotlandMP3.m3u",
+         "http": "",
+         "note": "Easy Listening (Glasgow, Local)"
+      },
+      {
+         "name": "Smooth Radio West Midlands",
+         "logo": "Smooth3",
+         "link": "http://media-ice.musicradio.com/SmoothWestMidsMP3.m3u",
+         "http": "",
+         "note": "Easy Listening (Birmingham, Local)"
+      },
+      {
+         "name": "Smooth Radio East Midlands",
+         "logo": "Smooth4",
+         "link": "http://media-ice.musicradio.com/SmoothEastMidsMP3.m3u",
+         "http": "",
+         "note": "Easy Listening (Nottingham, Local)"
+      },
+      {
+         "name": "Smooth Radio London",
+         "logo": "Smooth5",
+         "link": "http://media-ice.musicradio.com/SmoothLondonMP3.m3u",
+         "http": "",
+         "note": "Easy Listening"
+      },
+      {
+         "name": "Smooth Radio North East",
+         "logo": "Smooth6",
+         "link": "http://media-ice.musicradio.com/SmoothNorthEastNMP3.m3u",
+         "http": "",
+         "note": "Easy Listening (Newcastle, Local)"
+      },
+      {
+         "name": "Smooth Extra",
+         "logo": "Smooth7",
+         "link": "http://media-ice.musicradio.com/SmoothExtraMP3.m3u",
+         "http": "http://media-ice.musicradio.com/SmoothExtraMP3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Solar Radio",
+         "logo": "Solar",
+         "link": "http://icy-e-01.sharp-stream.com/solar32.mp3.m3u",
+         "http": "",
+         "note": "Soul / Jazz Music"
+      },
+      {
+         "name": "Somer Valley FM",
+         "logo": "Somer",
+         "link": "http://icecast.bargus.co.uk:8000/svalley.mp3.m3u",
+         "http": "",
+         "note": "Midsomer Norton (Local)"
+      },
+      {
+         "name": "Soundart Radio",
+         "logo": "Soundart",
+         "link": "http://icecast.commedia.org.uk:8000/soundart.mp3.m3u",
+         "http": "",
+         "note": "Dartington (Local)"
+      },
+      {
+         "name": "The Source FM",
+         "logo": "Source",
+         "link": "http://live.canstream.co.uk:8000/sourcefm.mp3.m3u",
+         "http": "",
+         "note": "Falmouth (Local)"
+      },
+      {
+         "name": "Spark FM",
+         "logo": "Spark",
+         "link": "http://radio.canstream.co.uk:8101/live.mp3.m3u",
+         "http": "",
+         "note": "Sunderland (Local)"
+      },
+      {
+         "name": "Spectrum Radio AM",
+         "logo": "Spectrum1",
+         "link": "http://icy-e-04.sharp-stream.com/spectrum1.mp3.m3u",
+         "http": "",
+         "note": "Multicultural"
+      },
+      {
+         "name": "Spectrum Radio DAB",
+         "logo": "Spectrum2",
+         "link": "http://icy-e-04.sharp-stream.com/spectrum2.mp3.m3u",
+         "http": "",
+         "note": "Multicultural"
+      },
+      {
+         "name": "Spectrum Radio Sky Digital",
+         "logo": "Spectrum3",
+         "link": "http://icy-e-04.sharp-stream.com/spectrum3.mp3.m3u",
+         "http": "",
+         "note": "Multicultural"
+      },
+      {
+         "name": "Speysound Radio",
+         "logo": "Speysound",
+         "link": "http://live.canstream.co.uk:8000/speysound.mp3.m3u",
+         "http": "",
+         "note": "Aviemore (Local)"
+      },
+      {
+         "name": "102 Spire FM",
+         "logo": "Spire",
+         "link": "http://str1.sad.ukrd.com/spire.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Salisbury, Local)"
+      },
+      {
+         "name": "Spirit FM",
+         "logo": "Spirit",
+         "link": "http://str1.sad.ukrd.com/spirit.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Chichester, Local)"
+      },
+      {
+         "name": "Stafford FM",
+         "logo": "Stafford",
+         "link": "http://rss-streaming.co.uk:8004/listen.pls?sid=1",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Star 107",
+         "logo": "Star107",
+         "link": "http://starradio.nsdsl.net/128K.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Cambridge, Local)"
+      },
+      {
+         "name": "Starpoint Radio",
+         "logo": "Starpoint",
+         "link": "http://stream2.hippynet.co.uk:8084/stream.mp3.m3u",
+         "http": "",
+         "note": "Birmingham, Local (Soul Music)"
+      },
+      {
+         "name": "97.2 Stray FM",
+         "logo": "Stray1",
+         "link": "http://str1.sad.ukrd.com/stray.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Harrogate, Local)"
+      },
+      {
+         "name": "Stray FM Dales",
+         "logo": "Stray2",
+         "link": "http://str1.sad.ukrd.com/stray-dales.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Skipton, Local)"
+      },
+      {
+         "name": "Streetlife FM",
+         "logo": "Streetlife",
+         "link": "http://icecast.commedia.org.uk:8000/streetlifefm.mp3.m3u",
+         "http": "",
+         "note": "Leyton (Local)"
+      },
+      {
+         "name": "103.4 Sun FM",
+         "logo": "Sun",
+         "link": "http://str1.sad.ukrd.com/sun-fm.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Sunderland, Local)"
+      },
+      {
+         "name": "Sunrise Radio",
+         "logo": "Sunrise1",
+         "link": "http://direct.sharp-stream.com/sunrise.mp3.m3u",
+         "http": "",
+         "note": "Bradford, Local (Asian Programming)"
+      },
+      {
+         "name": "Sunrise Radio",
+         "logo": "Sunrise2",
+         "link": "http://193.218.160.11:8000/listen.pls?sid=1",
+         "http": "",
+         "note": "London (Asian Programming)"
+      },
+      {
+         "name": "Sunshine 855",
+         "logo": "855",
+         "link": "http://icecast.easystream.co.uk:8000/sunshine855.m3u",
+         "http": "",
+         "note": "Classic Hits (Ludlow, Local)"
+      },
+      {
+         "name": "Sunshine Radio",
+         "logo": "Sunshine",
+         "link": "http://icecast.easystream.co.uk:8000/herefordFM.m3u",
+         "http": "",
+         "note": "Classic Hits (Hereford, Local)"
+      },
+      {
+         "name": "Susy Radio",
+         "logo": "Susy",
+         "link": "http://media.susyradio.com:8770/listen.pls",
+         "http": "",
+         "note": "Redhill (Local)"
+      },
+      {
+         "name": "Swansea Sound",
+         "logo": "Swansea",
+         "link": "http://www.listenlive.eu/uk_swan.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Swindon 105.5",
+         "logo": "Swindon",
+         "link": "http://46.28.49.164:7510/stream.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "107.5 Switch Radio",
+         "logo": "Switch",
+         "link": "http://listen.switchradio.co.uk/switchradio_high.m3u",
+         "http": "",
+         "note": "Birmingham (Local)"
+      },
+      {
+         "name": "Takeover Radio",
+         "logo": "Takeover",
+         "link": "http://www.takeoverradio.co.uk/stream/streamcma.m3u",
+         "http": "",
+         "note": "Leicester (Youth Community)"
+      },
+      {
+         "name": "talkRADIO",
+         "logo": "talkRADIO",
+         "link": "http://www.listenlive.eu/streams/uk/talkradio.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "talkSPORT",
+         "logo": "talkSPORT1",
+         "link": "http://www.listenlive.eu/streams/uk/talksport.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "talkSPORT 2",
+         "logo": "talkSPORT2",
+         "link": "http://www.listenlive.eu/streams/uk/talksport2.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Tameside Radio",
+         "logo": "Tameside",
+         "link": "http://nicole.srv.insidetameside.com:8000/stream.m3u",
+         "http": "",
+         "note": "Ashton-under-Lyne (Local)"
+      },
+      {
+         "name": "Tay FM",
+         "logo": "Tay1",
+         "link": "http://tx.whatson.com/icecast.php?i=tayfm.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=tayfm.aac.m3u",
+         "note": "Dundee (Local)"
+      },
+      {
+         "name": "Tay 2 FM",
+         "logo": "Tay2",
+         "link": "http://tx.whatson.com/icecast.php?i=tayam.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=tayam.aac.m3u",
+         "note": "Dundee (Local)"
+      },
+      {
+         "name": "TCRfm Tamworth",
+         "logo": "TCRfm",
+         "link": "http://streaming.tcrfm.co.uk:8080/live.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Tempo FM",
+         "logo": "Tempo",
+         "link": "http://stream.dnsgb.net:8040/listen.pls",
+         "http": "",
+         "note": "Wetherby (Local)"
+      },
+      {
+         "name": "TFM",
+         "logo": "TFM",
+         "link": "http://tx.whatson.com/icecast.php?i=tfm.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=tfm.aac.m3u",
+         "note": "Teeside (Local)"
+      },
+      {
+         "name": "TFM 2",
+         "logo": "TFM2",
+         "link": "http://tx.whatson.com/icecast.php?i=magic1170.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic1170.aac.m3u",
+         "note": "Middlesbrough (Local)"
+      },
+      {
+         "name": "Tone FM",
+         "logo": "Tone",
+         "link": "http://mp3streaming.planetwideradio.com:9130/tonefm.m3u",
+         "http": "",
+         "note": "Taunton (Local)"
+      },
+      {
+         "name": "101-102 Touch FM",
+         "logo": "Touch1",
+         "link": "http://icy-e-04.sharp-stream.com/1016touchfm.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Tamworth, Local)"
+      },
+      {
+         "name": "102 Touch FM",
+         "logo": "Touch2",
+         "link": "http://icy-e-04.sharp-stream.com/102touchfm.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Stratford-upon-Avon, Local)"
+      },
+      {
+         "name": "96.2 Touch FM",
+         "logo": "Touch3",
+         "link": "http://icy-e-04.sharp-stream.com/962touchfm.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Coventry, Local)"
+      },
+      {
+         "name": "107.3 Touch FM",
+         "logo": "Touch4",
+         "link": "http://icy-e-04.sharp-stream.com/1073touchfm.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Warwick, Local)"
+      },
+      {
+         "name": "Tower FM",
+         "logo": "Tower",
+         "link": "http://www.listenlive.eu/uk_towerfm.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Bolton, Local)"
+      },
+      {
+         "name": "Town 102",
+         "logo": "Town",
+         "link": "http://webradio.radiomonitor.com/m3u/Town102-MP3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Ipswich, Local)"
+      },
+      {
+         "name": "Trax FM",
+         "logo": "Trax",
+         "link": "http://lincs.planetwideradio.com:8035/traxfmaac.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Doncaster, Local)"
+      },
+      {
+         "name": "Tudno FM",
+         "logo": "Tudno",
+         "link": "http://tudno.co.uk:8701/listen.pls",
+         "http": "",
+         "note": "Llandudno (Local)"
+      },
+      {
+         "name": "Two Lochs Radio",
+         "logo": "Lochs",
+         "link": "http://streaming02.zfast.co.uk:2199/tunein/twolochs1.pls",
+         "http": "http://149.255.59.164:8034/stream",
+         "note": "Gairloch (Local)"
+      },
+      {
+         "name": "U105",
+         "logo": "U105",
+         "link": "http://webradio.radiomonitor.com/m3u/U105.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Belfast, Local)"
+      },
+      {
+         "name": "UCB UK",
+         "logo": "UCB1",
+         "link": "http://icy-e-04.sharp-stream.com/ucbuk.mp3.m3u",
+         "http": "",
+         "note": "Christian Programming"
+      },
+      {
+         "name": "UCB Bible",
+         "logo": "UCB2",
+         "link": "http://icy-e-04.sharp-stream.com/ucbbible.mp3.m3u",
+         "http": "",
+         "note": "Bible Readings"
+      },
+      {
+         "name": "UCB Inspirational",
+         "logo": "UCB3",
+         "link": "http://icy-e-04.sharp-stream.com/ucbinspirational.mp3.m3u",
+         "http": "",
+         "note": "Inspirational Music / Worship"
+      },
+      {
+         "name": "UCB Talk",
+         "logo": "UCB4",
+         "link": "http://icy-e-04.sharp-stream.com/ucbgospel.mp3.m3u",
+         "http": "",
+         "note": "Gospel"
+      },
+      {
+         "name": "UCB The Word",
+         "logo": "UCB5",
+         "link": "http://icy-e-04.sharp-stream.com/ucbtheword.mp3.m3u",
+         "http": "",
+         "note": "Contemporary Christian"
+      },
+      {
+         "name": "Uckfield FM",
+         "logo": "Uckfield",
+         "link": "http://mp3streaming.planetwideradio.com:9165/uckfieldfmaac.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Ujima 98 FM",
+         "logo": "Ujima",
+         "link": "http://radio.canstream.co.uk:8037/live.mp3.m3u",
+         "http": "",
+         "note": "AfroCaribbean Community (Bristol, Local)"
+      },
+      {
+         "name": "Unity FM",
+         "logo": "Unity",
+         "link": "http://icecast.commedia.org.uk:8000/unity.mp3.m3u",
+         "http": "",
+         "note": "Muslim Community (Birmingham, Local)"
+      },
+      {
+         "name": "Unity 101",
+         "logo": "101",
+         "link": "http://icecast.commedia.org.uk:8000/unity24.mp3.m3u",
+         "http": "",
+         "note": "Southampton (Local)"
+      },
+      {
+         "name": "1449 AM URB",
+         "logo": "URB",
+         "link": "http://people.bath.ac.uk/su9urb/audio/urb-low.m3u",
+         "http": "http://people.bath.ac.uk/su9urb/audio/urb-hi.m3u",
+         "note": "Student Radio (Bath, Local)"
+      },
+      {
+         "name": "URN",
+         "logo": "URN",
+         "link": "http://posurnl.nottingham.ac.uk:8080/urn_high.mp3.m3u",
+         "http": "",
+         "note": "Student Radio (Nottingham, Local)"
+      },
+      {
+         "name": "96.9 Viking FM",
+         "logo": "Viking",
+         "link": "http://tx.whatson.com/icecast.php?i=viking.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=viking.aac.m3u",
+         "note": "Hull (Local)"
+      },
+      {
+         "name": "Viking 2 FM",
+         "logo": "Viking2",
+         "link": "http://tx.whatson.com/icecast.php?i=magic1161.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=magic1161.aac.m3u",
+         "note": "Hull (Local)"
+      },
+      {
+         "name": "Virgin Radio",
+         "logo": "Virgin",
+         "link": "http://www.listenlive.eu/uk_virginradio.m3u",
+         "http": "",
+         "note": "Rock / Pop / Dance Music"
+      },
+      {
+         "name": "Vixen 101",
+         "logo": "Vixen",
+         "link": "http://192.99.20.78:2199/tunein/iwhqsgip.pls",
+         "http": "",
+         "note": "Market Weighton (Local)"
+      },
+      {
+         "name": "The Voice",
+         "logo": "Voice",
+         "link": "http://www.rosi-systems.com:8000/thevoice.mp3.m3u",
+         "http": "",
+         "note": "Barnstaple (Local)"
+      },
+      {
+         "name": "The Wave",
+         "logo": "Wave5",
+         "link": "http://www.listenlive.eu/uk_thewave.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Swansea, Local)"
+      },
+      {
+         "name": "Wave 102",
+         "logo": "Wave1",
+         "link": "http://webradio.radiomonitor.com/m3u/Wave-Dundee.m3u",
+         "http": "",
+         "note": "Dundee, Local (Current / Classic Hits)"
+      },
+      {
+         "name": "Wave 102 Gold",
+         "logo": "Wave2",
+         "link": "http://webradio.radiomonitor.com/stream/Wave102Gold.m3u",
+         "http": "",
+         "note": "Dundee, Local (Oldies)"
+      },
+      {
+         "name": "Wave 102 Country",
+         "logo": "Wave3",
+         "link": "http://webradio.radiomonitor.com/stream/Wave102Country.m3u",
+         "http": "",
+         "note": "Dundee (Local)"
+      },
+      {
+         "name": "Wave 102 Chart",
+         "logo": "Wave4",
+         "link": "http://webradio.radiomonitor.com/stream/Wave102Chart.m3u",
+         "http": "",
+         "note": "Dundee (Local)"
+      },
+      {
+         "name": "Wave 105",
+         "logo": "105",
+         "link": "http://tx.whatson.com/icecast.php?i=wave105.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=wave105.aac.m3u",
+         "note": "Southampton (Local)"
+      },
+      {
+         "name": "Waves Radio",
+         "logo": "Waves",
+         "link": "http://webradio.radiomonitor.com/m3u/WavesRadio.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Peterhead, Local)"
+      },
+      {
+         "name": "101.8 WCR FM",
+         "logo": "WCR",
+         "link": "http://radio.canstream.co.uk:8016/live.mp3.m3u",
+         "http": "",
+         "note": "Wolverhampton (Local)"
+      },
+      {
+         "name": "Wessex FM",
+         "logo": "Wessex",
+         "link": "http://str1.sad.ukrd.com/wessex.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Dorchester, Local)"
+      },
+      {
+         "name": "West FM",
+         "logo": "West1",
+         "link": "http://tx.whatson.com/icecast.php?i=westfm.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=westfm.aac.m3u",
+         "note": "Ayr (Local)"
+      },
+      {
+         "name": "West Sound",
+         "logo": "West2",
+         "link": "http://tx.whatson.com/icecast.php?i=westsound.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=westsound.aac.m3u",
+         "note": "Ayr (Local)"
+      },
+      {
+         "name": "West Sound Radio FM",
+         "logo": "West3",
+         "link": "http://tx.whatson.com/icecast.php?i=westsoundfm.mp3.m3u",
+         "http": "http://tx.whatson.com/icecast.php?i=westsoundfm.aac.m3u",
+         "note": "Dumfries (Local)"
+      },
+      {
+         "name": "Westside 89.6FM",
+         "logo": "Westside",
+         "link": "http://radio.canstream.co.uk:8002/live.mp3.m3u",
+         "http": "",
+         "note": "Hanwell (Local)"
+      },
+      {
+         "name": "Wey Valley Radio",
+         "logo": "Wey",
+         "link": "http://stream.weyvalleyradio.uk:8000/wey2.m3u",
+         "http": "",
+         "note": "Alton (Local)"
+      },
+      {
+         "name": "Wire FM",
+         "logo": "Wire",
+         "link": "http://www.listenlive.eu/uk_wirefm.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Warrington, Local)"
+      },
+      {
+         "name": "Wish FM",
+         "logo": "Wish",
+         "link": "http://www.listenlive.eu/uk_wishfm.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Wigan, Local)"
+      },
+      {
+         "name": "Witney Radio",
+         "logo": "Witney",
+         "link": "http://s11.myradiostream.com:15764/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Wycombe Sound",
+         "logo": "Wycombe",
+         "link": "http://chandra.shoutca.st:9771/listen.pls?sid=1",
+         "http": "",
+         "note": "High Wycombe (Local)"
+      },
+      {
+         "name": "WFM 97.2 Wythenshawe",
+         "logo": "WFM",
+         "link": "http://www.wfmradio.org/wfm.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Xpress Radio",
+         "logo": "Xpress",
+         "link": "http://stream.suon.cf.ac.uk:8000/xpress.m3u",
+         "http": "",
+         "note": "Cardiff (Student Radio, Local)"
+      },
+      {
+         "name": "Yorkshire Coast Radio Scarborough",
+         "logo": "Yorkshire1",
+         "link": "http://str1.sad.ukrd.com/yorkshirecoast.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Yorkshire Coast Radio Bridlington",
+         "logo": "Yorkshire2",
+         "link": "http://str1.sad.ukrd.com/yorkshirecoastb.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Yorkshire Coast Radio Whitby",
+         "logo": "Yorkshire3",
+         "link": "http://str1.sad.ukrd.com/yorkshirecoastw.m3u",
+         "http": "",
+         "note": "Current / Classic Hits"
+      },
+      {
+         "name": "Your FM",
+         "logo": "Your",
+         "link": "http://stream.stormtx.co.uk:8010/stream.m3u",
+         "http": "",
+         "note": "Stockport (Local)"
+      },
+      {
+         "name": "Your Radio 103 - 106.9 FM",
+         "logo": "You",
+         "link": "http://direct.sharp-stream.com/yourradio.mp3.m3u",
+         "http": "",
+         "note": "Current / Classic Hits (Dumbarton, Local)"
+      },
+      {
+         "name": "Zack FM",
+         "logo": "Zack",
+         "link": "http://stream1.dyndns.tv:9160/listen.pls",
+         "http": "http://stream1.dyndns.tv:9150/listen.pls",
+         "note": "Forest Heath (Local)"
+      },
+      {
+         "name": "Zest Liverpool",
+         "logo": "Zest",
+         "link": "http://rss-streaming.co.uk:8054/listen.pls?sid=1",
+         "http": "http://rss-streaming.co.uk:8054/listen.pls?sid=2",
+         "note": "Pop / Dance Music"
+      },
+      {
+         "name": "Zetland Radio",
+         "logo": "Zetland",
+         "link": "http://s4.voscast.com:8288/listen.pls",
+         "http": "",
+         "note": "Redcar (Local)"
       }
    ]
 }

@@ -43,13 +43,96 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "راديو دجلة",
+         "logo": "dijla",
+         "link": "http://radio.radiodijla.com:8443/listen.pls",
+         "http": "http://eu3.radioboss.fm:8164/stream",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "راديو نوا - بغداد 89.9 FM",
+         "logo": "nawa",
+         "link": "http://nawaradio2.primcast.com:1344/listen.pls",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "راديو الرشيد FM 91.5 ",
+         "logo": "alrasheed",
+         "link": "http://alrasheedmedia.com:9998/listen.pls",
+         "http": "http://alrasheedmedia.com:9998/;",
+         "note": "News, Talk, Top Music"
+      },
+      {
+         "name": "اذاعة المدى - بغداد 92.8 FM",
+         "logo": "almada",
+         "link": "http://almadaradio.primcast.com:8604/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "راديو الحرية ",
+         "logo": "alhurria",
+         "link": "http://109.224.60.54:8686/alhurriafm.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "راديو اور FM - بغداد 98.9",
+         "logo": "98",
+         "link": "http://162.244.80.32:6252/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "راديو سومر FM - العراق",
+         "logo": "sumer",
+         "link": "http://audiostreaming.itworkscdn.com:9012/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "راديو ديموزي - بغداد FM 104.1",
+         "logo": "demozy",
+         "link": "http://162.244.81.30:6584/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "إذاعة الكفيل - العراق",
+         "logo": "alkafeel",
+         "link": "https://stream.alkafeel.net/live/radio/manifest.m3u8",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "إذاعة صوت النجباء - العراق",
+         "logo": "alnujaba",
+         "link": "http://51.254.197.101:9300/listen.pls?sid=1",
+         "http": ""
+      },
+      {
+         "name": "BBC World Arabic",
+         "logo": "Arabic",
+         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "راديو سوا العراق",
+         "logo": "Sawa",
+         "link": "http://mbn-channel-05.akacast.akamaistream.net/7/25/233454/v1/ibb.akacast.akamaistream.net/mbn_channel_05",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Sky News Arabia",
+         "logo": "Sky",
+         "link": "http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

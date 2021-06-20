@@ -43,13 +43,1791 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "RAI Radiouno",
+         "logo": "Radiouno",
+         "link": "http://www.listenlive.eu/rai1.m3u",
+         "http": "",
+         "note": "News / Information"
+      },
+      {
+         "name": "RAI Radiodue",
+         "logo": "Radiodue",
+         "link": "http://www.listenlive.eu/rai2.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RAI Radiotre",
+         "logo": "Radiotre",
+         "link": "http://www.listenlive.eu/rai3.m3u",
+         "http": "",
+         "note": "Classical / Culture"
+      },
+      {
+         "name": "RAI FD4 Leggera",
+         "logo": "FD4",
+         "link": "http://www.listenlive.eu/rai4.m3u",
+         "http": "",
+         "note": "Jazz Music / Easy Listening"
+      },
+      {
+         "name": "RAI FD5 Auditorium",
+         "logo": "FD5",
+         "link": "http://www.listenlive.eu/rai5.m3u",
+         "http": "",
+         "note": "Classical"
+      },
+      {
+         "name": "RAI Isoradio",
+         "logo": "Isoradio",
+         "link": "http://www.listenlive.eu/rai6.m3u",
+         "http": "",
+         "note": "News / Information / Traffic"
+      },
+      {
+         "name": "RAI GR Parlamento",
+         "logo": "GR",
+         "link": "http://www.listenlive.eu/rai7.m3u",
+         "http": "",
+         "note": "Italian Parliament"
+      },
+      {
+         "name": "RAI Italica",
+         "logo": "Italica",
+         "link": "http://www.listenlive.eu/rai8.m3u",
+         "http": "",
+         "note": "International Service"
+      },
+      {
+         "name": "RAI Sender Bozen",
+         "logo": "Bozen",
+         "link": "http://www.listenlive.eu/raibz.m3u",
+         "http": "",
+         "note": "Local Service (German / Ladin), Bolzano"
+      },
+      {
+         "name": "Rai Radio Techete",
+         "logo": "Techete",
+         "link": "http://www.listenlive.eu/rai9.m3u",
+         "http": "",
+         "note": "History"
+      },
+      {
+         "name": "Rai Radio Live",
+         "logo": "Live",
+         "link": "http://www.listenlive.eu/rai10.m3u",
+         "http": "",
+         "note": "Rock / Pop Music"
+      },
+      {
+         "name": "Rai Radio Kids",
+         "logo": "Kids",
+         "link": "http://www.listenlive.eu/rai11.m3u",
+         "http": "",
+         "note": "Kids Music, Trends"
+      },
+      {
+         "name": "Antenna Radio Esse",
+         "logo": "Esse",
+         "link": "http://s8.mediastreaming.it:7580/listen.pls",
+         "http": "",
+         "note": "Siena (Local)"
+      },
+      {
+         "name": "Die Antenne",
+         "logo": "Die",
+         "link": "http://server2.digital-webstream.de:23780/listen.pls",
+         "http": "",
+         "note": "Lana (Südtirol, Local)"
+      },
+      {
+         "name": "Antenna1",
+         "logo": "Antenna1",
+         "link": "http://s3.mediastreaming.it:7568/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Antenna 2 MyValley",
+         "logo": "MyValley",
+         "link": "http://wma03.fluidstream.net:9070/listen.pls",
+         "http": "http://ice10.fluidstream.net/fluid1001.aac.m3u",
+         "note": "Pop Music / Information (Clusone, Local)"
+      },
+      {
+         "name": "Antenna Uno",
+         "logo": "Antenna",
+         "link": "http://server.bellaradio.it:8090/a1.mp3.m3u",
+         "http": "",
+         "note": "Dance Music (Catania, Local)"
+      },
+      {
+         "name": "Bella Radio",
+         "logo": "Bella",
+         "link": "http://server.bellaradio.it:8090/bellaradio.mp3.m3u",
+         "http": "",
+         "note": "Catania (Local)"
+      },
+      {
+         "name": "Centro Suono Sport",
+         "logo": "Suono",
+         "link": "http://www.radiocentrosuono.it:8000/rcss.m3u",
+         "http": "",
+         "note": "Sport / Music"
+      },
+      {
+         "name": "CiaoComo Radio",
+         "logo": "CiaoComo",
+         "link": "http://178.32.136.160:8078/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ciccio Riccio",
+         "logo": "Ciccio",
+         "link": "http://onair11.xdevel.com:8198/listen.pls",
+         "http": "",
+         "note": "Brindisi (Local)"
+      },
+      {
+         "name": "Controradio",
+         "logo": "Controradio",
+         "link": "http://streaming.controradiolive.info:8190/listen.pls",
+         "http": "",
+         "note": "Music / Culture / Local News (Florence)"
+      },
+      {
+         "name": "Country Power Station",
+         "logo": "Country",
+         "link": "http://shoutcast.countrypowerstation.net:2199/tunein/cps.pls",
+         "http": "",
+         "note": "US Country Music"
+      },
+      {
+         "name": "DeeGay Radio",
+         "logo": "DeeGay",
+         "link": "http://www.deegay.it/deegay.m3u",
+         "http": "",
+         "note": "Pop / Dance Music"
+      },
+      {
+         "name": "DeeGay Classics",
+         "logo": "Classics",
+         "link": "http://www.deegay.it/classic/deegayclassic.m3u",
+         "http": "",
+         "note": "Pop / Classic Music"
+      },
+      {
+         "name": "Delta Radio",
+         "logo": "Delta",
+         "link": "http://wma02.fluidstream.net:7209/listen.pls",
+         "http": "",
+         "note": "News / Information / Music (Porto Tolle, Local)"
+      },
+      {
+         "name": "Easy Network",
+         "logo": "Easy",
+         "link": "http://str01.fluidstream.net:6030/listen.pls",
+         "http": "http://wma02.fluidstream.net:6030/listen.pls",
+         "note": "Padova (Local)"
+      },
+      {
+         "name": "ElleRadio",
+         "logo": "ElleRadio",
+         "link": "http://178.32.136.160:8104/listen.pls",
+         "http": "",
+         "note": "News / Information / Music"
+      },
+      {
+         "name": "FM Italia",
+         "logo": "FMItalia",
+         "link": "http://onair7.xdevel.com:8700/listen.pls",
+         "http": "",
+         "note": "Pop Music (Siracusa, Local)"
+      },
+      {
+         "name": "Gamma Radio",
+         "logo": "Gamma",
+         "link": "http://nr9.newradio.it:9071/listen.pls?sid=1",
+         "http": "",
+         "note": "Ponsacco (Local)"
+      },
+      {
+         "name": "Golden Radio Italia",
+         "logo": "Golden1",
+         "link": "http://www.goldenradio.it/listen.m3u",
+         "http": "",
+         "note": "80s Music"
+      },
+      {
+         "name": "Golden Hit Radio",
+         "logo": "Golden2",
+         "link": "http://www.goldenradio.it/hitradio/hr128.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Italia Radio",
+         "logo": "Italia",
+         "link": "http://players.fluidstream.net/easy4trafic.pls",
+         "http": "",
+         "note": "Salemi (Local)"
+      },
+      {
+         "name": "Latte Miele",
+         "logo": "Latte",
+         "link": "http://players.fluidstream.net/lattemiele.pls",
+         "http": "",
+         "note": "Ascoli (Local)"
+      },
+      {
+         "name": "Lazio Style Radio",
+         "logo": "Lazio",
+         "link": "http://176.31.117.120:8221/listen.pls",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "LifeGate Radio",
+         "logo": "LifeGate",
+         "link": "http://onair15.xdevel.com:8254/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "m2o",
+         "logo": "m2o",
+         "link": "http://mp3.kataweb.it:8000/M2O.m3u",
+         "http": "",
+         "note": "Dance Music"
+      },
+      {
+         "name": "Magic Music Radio",
+         "logo": "Magic",
+         "link": "http://www.gammagioiosa.net/magic.m3u",
+         "http": "",
+         "note": "Pop / Rock Music (Gioiosa Jonica, Local)"
+      },
+      {
+         "name": "MultiRadio",
+         "logo": "MultiRadio",
+         "link": "http://multiradio.podzone.org:8008/stream.aac.m3u",
+         "http": "",
+         "note": "Top 30 (Tolentino, Local)"
+      },
+      {
+         "name": "NBC - Rete Regione",
+         "logo": "NBC",
+         "link": "http://audio1.meway.tv:8016/listen.pls",
+         "http": "",
+         "note": "Pop Music / News (Bolzano, Local)"
+      },
+      {
+         "name": "Onda Libera",
+         "logo": "Onda",
+         "link": "http://s6.mediastreaming.it:9064/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Primaradio Cosenza",
+         "logo": "Cosenza",
+         "link": "http://live.streamingmedia.it/tunein.php/primaradio/playlist.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Primaradio Napoli",
+         "logo": "Primaradio",
+         "link": "http://kemoniastreaming2.net:8010/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Primaradio Sicilia",
+         "logo": "Sicilia",
+         "link": "http://188.165.242.32:8126/listen.pls",
+         "http": "",
+         "note": "Palermo (Local)"
+      },
+      {
+         "name": "Primaradio Piemonte",
+         "logo": "Piemonte",
+         "link": "http://69.60.119.117:8000/listen.pls",
+         "http": "",
+         "note": "Pop Music / Information (Asti, Local)"
+      },
+      {
+         "name": "Queen Hit Radio",
+         "logo": "Queen",
+         "link": "http://ascolta.no-ip.org:8000/listen.pls",
+         "http": "http://ascolta.no-ip.org:8088/listen.pls",
+         "note": "Top 30 (Lecce, Local)"
+      },
+      {
+         "name": "R101",
+         "logo": "R101",
+         "link": "http://www.listenlive.eu/it_r101.m3u",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "Radio 105 FM",
+         "logo": "105",
+         "link": "http://www.listenlive.eu/it_radio105.m3u",
+         "http": "",
+         "note": "Top 30 (Milan, Local)"
+      },
+      {
+         "name": "105 Hits",
+         "logo": "Hits",
+         "link": "http://icy.unitedradio.it/105Hits.mp3.m3u",
+         "http": "",
+         "note": "Music (Milan, Local)"
+      },
+      {
+         "name": "105 Hip Hop/R&B",
+         "logo": "Hip",
+         "link": "http://icy.unitedradio.it/105HipHopRnB.mp3.m3u",
+         "http": "",
+         "note": "Music (Milan, Local)"
+      },
+      {
+         "name": "105 House",
+         "logo": "House",
+         "link": "http://shoutcast.unitedradio.it:1203/listen.pls",
+         "http": "",
+         "note": "Music (Milan, Local)"
+      },
+      {
+         "name": "105 Latino",
+         "logo": "Latino",
+         "link": "http://shoutcast.unitedradio.it:1209/listen.pls",
+         "http": "",
+         "note": "Music (Milan, Local)"
+      },
+      {
+         "name": "105 Miami",
+         "logo": "Miami",
+         "link": "http://icy.unitedradio.it/105Miami.mp3.m3u",
+         "http": "",
+         "note": "House / Dance / Rap Music (Milan, Local)"
+      },
+      {
+         "name": "105 Story",
+         "logo": "Story",
+         "link": "http://icy.unitedradio.it/105Story.mp3.m3u",
+         "http": "",
+         "note": "Pop Music (Milan, Local)"
+      },
+      {
+         "name": "105 Crazy Radio",
+         "logo": "Crazy",
+         "link": "http://shoutcast.unitedradio.it:1207/listen.pls",
+         "http": "",
+         "note": "Music (Milan, Local)"
+      },
+      {
+         "name": "105 Music Star: Vasco",
+         "logo": "Vasco",
+         "link": "http://icy.unitedradio.it/Vasco.mp3.m3u",
+         "http": "",
+         "note": "Music (Milan, Local)"
+      },
+      {
+         "name": "105 Zoo Radio",
+         "logo": "Zoo",
+         "link": "http://icy.unitedradio.it/105Zoo.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Milan, Local)"
+      },
+      {
+         "name": "Radio 105 Classics",
+         "logo": "Classic",
+         "link": "http://icy.unitedradio.it/105Classics.mp3.m3u",
+         "http": "",
+         "note": "70s / 80s Music (Milan, Local)"
+      },
+      {
+         "name": "Radio 24",
+         "logo": "24",
+         "link": "http://shoutcast.radio24.it:8000/listen.pls",
+         "http": "",
+         "note": "News (Milan, Local)"
+      },
+      {
+         "name": "Radio 3 Network",
+         "logo": "3",
+         "link": "http://s23.myradiostream.com:5306/listen.pls",
+         "http": "",
+         "note": "Top 30 (Poggibonsi, Local)"
+      },
+      {
+         "name": "Radio 80",
+         "logo": "80",
+         "link": "http://players.fluidstream.net/r80fluidstream.pls",
+         "http": "",
+         "note": "70s / 80s / Disco Music (Novento Padovana, Local)"
+      },
+      {
+         "name": "Radio 2000",
+         "logo": "2000",
+         "link": "http://server2.digital-webstream.de:9840/listen.pls",
+         "http": "",
+         "note": "Bruneck (Südtirol, Local) / Schlager"
+      },
+      {
+         "name": "Adige (Pantheon Verona)",
+         "logo": "Pantheon",
+         "link": "http://188.165.242.32:8128/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Alcamo Centrale",
+         "logo": "Alcamo",
+         "link": "http://onair11.xdevel.com:8214/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Aldebaran",
+         "logo": "Aldebaran",
+         "link": "http://www.radioaldebaran.it/listen24.pls",
+         "http": "http://www.radioaldebaran.it/listen.pls",
+         "note": "Chiavari (Local)"
+      },
+      {
+         "name": "Radio Alfa",
+         "logo": "Alfa",
+         "link": "http://s3.mediastreaming.it:7060/listen.pls",
+         "http": "",
+         "note": "Top 30 (Teggiano, Local)"
+      },
+      {
+         "name": "Radio Amore Campania",
+         "logo": "Amore",
+         "link": "http://onair11.xdevel.com:8002/listen.pls",
+         "http": "",
+         "note": "Napoli (Local)"
+      },
+      {
+         "name": "Radio Antenna Uno",
+         "logo": "Uno",
+         "link": "http://stream5.top-ix.org:8000/antennauno.m3u",
+         "http": "",
+         "note": "Turin (Latin-American, Local)"
+      },
+      {
+         "name": "Radio Base",
+         "logo": "Base",
+         "link": "http://www.radiobase.net/wp-content/stream/stream32.mp3.m3u",
+         "http": "http://www.radiobase.net/wp-content/stream/stream32.ogg.m3u",
+         "note": "Pop / Rock Music (Mestre, Local)"
+      },
+      {
+         "name": "Radio BCS",
+         "logo": "BCS",
+         "link": "http://str01.fluidstream.net:7200/listen.pls",
+         "http": "",
+         "note": "Top 30 (Venice, Local)"
+      },
+      {
+         "name": "Radio Bella e Monella",
+         "logo": "Monella",
+         "link": "http://wma01.fluidstream.net:8240/listen.pls",
+         "http": "",
+         "note": "Castelfranco (Local)"
+      },
+      {
+         "name": "Radio Bellissima",
+         "logo": "Bellissima",
+         "link": "http://176.31.97.6:8078/listen.pls",
+         "http": "http://bluford.torontocast.com:2199/tunein/xwladwhy.pls",
+         "note": "Top 30 (Catania, Local)"
+      },
+      {
+         "name": "Radio Belluno",
+         "logo": "Belluno",
+         "link": "http://players.fluidstream.net/RadioBelluno_itunes.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Bergamo",
+         "logo": "Bergamo",
+         "link": "http://live11.streamingmedia.it/tunein.php/radiobergamo/playlist.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Birikina",
+         "logo": "Birikina",
+         "link": "http://players.fluidstream.net/birikina.pls",
+         "http": "",
+         "note": "Castelfranco (Local)"
+      },
+      {
+         "name": "Radio Blu Toscana",
+         "logo": "Blu",
+         "link": "http://nr5.newradio.it:8701/listen.pls?sid=1",
+         "http": "",
+         "note": "Music / Sport / Information (Prato, Local)"
+      },
+      {
+         "name": "Radio Budrio",
+         "logo": "Budrio",
+         "link": "http://audio1.meway.tv:8040/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Bussola 24",
+         "logo": "Bussola",
+         "link": "http://rbussola01.as48500.net:8018/listen.pls",
+         "http": "",
+         "note": "Salerno (Local)"
+      },
+      {
+         "name": "Radio Cafè",
+         "logo": "Cafe",
+         "link": "http://onair15.xdevel.com:8008/listen.pls",
+         "http": "",
+         "note": "Easy Music (Padua, Local)"
+      },
+      {
+         "name": "Radio Capital",
+         "logo": "Capital",
+         "link": "http://mp3.kataweb.it:8000/CAPITAL.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Capri",
+         "logo": "Capri",
+         "link": "http://176.31.242.141:8012/listen.pls",
+         "http": "",
+         "note": "Top 30 / Music"
+      },
+      {
+         "name": "Radio Catania",
+         "logo": "Catania",
+         "link": "http://onair18.xdevel.com:8162/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Centrale Cesena",
+         "logo": "Cesena",
+         "link": "http://players.fluidstream.net/radio_centralefluidstream.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Parco Dora (Centro95)",
+         "logo": "Centro95",
+         "link": "http://194.116.73.162/radiocentro95.m3u",
+         "http": "",
+         "note": "Top 30 (Turin, Local)"
+      },
+      {
+         "name": "Radio Centro Suono",
+         "logo": "Centro",
+         "link": "http://streaming.centrosuono.com:8000/csuono.mp3.m3u",
+         "http": "",
+         "note": "Top 30 / RnB Music"
+      },
+      {
+         "name": "Radio Citta' Aperta",
+         "logo": "Citta",
+         "link": "http://www.listenlive.eu/radiocittaaperta.m3u",
+         "http": "",
+         "note": "Alternative Music"
+      },
+      {
+         "name": "Radio Citta’ Fujiko",
+         "logo": "Fujiko",
+         "link": "http://comodino.org:8001/rcf.ogg.m3u",
+         "http": "",
+         "note": "Music / Information (Bologna, Local)"
+      },
+      {
+         "name": "Radio Citta' Futura",
+         "logo": "Futura",
+         "link": "http://onair18.xdevel.com:8002/listen.pls",
+         "http": "",
+         "note": "Alternative Music"
+      },
+      {
+         "name": "Radio Città del Capo",
+         "logo": "Capo",
+         "link": "http://stream.rcdc.it:8000/listen.pls",
+         "http": "",
+         "note": "Bologna (Local)"
+      },
+      {
+         "name": "Radio CL1",
+         "logo": "CL1",
+         "link": "http://www.radiocl1.it/cl1.pls",
+         "http": "",
+         "note": "Music/News/Sport (Caltanissetta, Local)"
+      },
+      {
+         "name": "RadioClassica",
+         "logo": "RadioClassica",
+         "link": "http://players.creacast.com/creacast/class_radioclassica/playlist.m3u",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "Radio Club 91",
+         "logo": "91",
+         "link": "http://www.listenlive.eu/club91.m3u",
+         "http": "",
+         "note": "Top 30 (Naples, Local)"
+      },
+      {
+         "name": "Radio Club 103",
+         "logo": "103",
+         "link": "http://176.31.228.196:9065/listen.pls",
+         "http": "",
+         "note": "News/Talk/Music (Belluno, Local)"
+      },
+      {
+         "name": "Radio Club Network",
+         "logo": "Network",
+         "link": "http://sh1.inmystream.info:8188/listen.pls",
+         "http": "",
+         "note": "Top 30 / Oldies (Cagliari, Local)"
+      },
+      {
+         "name": "Radio Color",
+         "logo": "Color",
+         "link": "http://players.fluidstream.net/color_7190.pls",
+         "http": "",
+         "note": "Villa D'Agri (Local)"
+      },
+      {
+         "name": "Radio Company",
+         "logo": "Company",
+         "link": "http://players.fluidstream.net/companyfluidstream.pls",
+         "http": "",
+         "note": "Novento Padovana (Local)"
+      },
+      {
+         "name": "Radio Cortina",
+         "logo": "Cortina",
+         "link": "http://www.radiocortina.it/livestream/liveshout.pls",
+         "http": "",
+         "note": "Cortina d'Ampezzo (Local)"
+      },
+      {
+         "name": "Radio Cuore",
+         "logo": "Cuore",
+         "link": "http://nr9.newradio.it:9029/listen.pls?sid=1",
+         "http": "",
+         "note": "Ponsacco (Local)"
+      },
+      {
+         "name": "Radio Cusano Campus",
+         "logo": "Cusano",
+         "link": "http://5.39.95.59:8904/listen.pls",
+         "http": "",
+         "note": "Information/Music"
+      },
+      {
+         "name": "Radio Deejay",
+         "logo": "Deejay",
+         "link": "http://mp3.kataweb.it:8000/RadioDeejay.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Dimensione Suono (RDS)",
+         "logo": "RDS",
+         "link": "http://www.listenlive.eu/rds.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Dimensione Musica",
+         "logo": "Dimensione",
+         "link": "http://shout.ifactorystream.net:9016/listen.pls",
+         "http": "",
+         "note": "Ispica (Local)"
+      },
+      {
+         "name": "Radio Dolomiti",
+         "logo": "Dolomiti",
+         "link": "http://streaming.radiodolomiti.com:8068/listen.pls",
+         "http": "",
+         "note": "Trento (Local)"
+      },
+      {
+         "name": "Radio Due.Zero",
+         "logo": "Zero",
+         "link": "http://www.radioduepuntozero.net/diretta56.m3u",
+         "http": "http://www.radioduepuntozero.net/diretta.m3u",
+         "note": "Bracca (Local)"
+      },
+      {
+         "name": "Radio Empire",
+         "logo": "Empire",
+         "link": "http://onair11.xdevel.com:9996/listen.pls",
+         "http": "",
+         "note": "Classic Music (Furci Siculo, Local)"
+      },
+      {
+         "name": "Radio Enea",
+         "logo": "Enea",
+         "link": "http://onair15.xdevel.com:8282/listen.pls",
+         "http": "",
+         "note": "Anzio (Local)"
+      },
+      {
+         "name": "Radio Energy",
+         "logo": "Energy",
+         "link": "http://www.radioenergy.to/energy.m3u",
+         "http": "",
+         "note": "Torino (Local)"
+      },
+      {
+         "name": "Radio Fantastica",
+         "logo": "Fantastica",
+         "link": "http://nr9.newradio.it:9035/listen.pls?sid=1",
+         "http": "",
+         "note": "Ponsacco (Local)"
+      },
+      {
+         "name": "Radio Fiemme 104",
+         "logo": "104",
+         "link": "http://radiofiemme.no-ip.org:8000/listen.pls",
+         "http": "",
+         "note": "Tesero (Local)"
+      },
+      {
+         "name": "Radio Fiesole",
+         "logo": "Fiesole",
+         "link": "http://37.159.178.85:8000/fiesole100.mp3.m3u",
+         "http": "",
+         "note": "Pop Music (Florence, Local)"
+      },
+      {
+         "name": "Radio Flash",
+         "logo": "Flash",
+         "link": "http://radio.digital2b.com:8100/listen.pls",
+         "http": "",
+         "note": "Catania (Local)"
+      },
+      {
+         "name": "Radio Galileo",
+         "logo": "Galileo",
+         "link": "http://85.47.51.98:8000/live.m3u",
+         "http": "",
+         "note": "News/Pop/Rock Music (Terni, Local)"
+      },
+      {
+         "name": "Radio Gamma Gioiosa",
+         "logo": "Gioiosa",
+         "link": "http://www.gammagioiosa.net/radiogamma.m3u",
+         "http": "http://www.gammagioiosa.net/gammagioiosa.m3u",
+         "note": "Pop, News, Culture (Gioiosa Jonica, Local)"
+      },
+      {
+         "name": "Gammagioiosa GoldenHits",
+         "logo": "GoldenHits",
+         "link": "http://www.gammagioiosa.net/goldenhits.m3u",
+         "http": "",
+         "note": "Gioiosa Jonica (Local)"
+      },
+      {
+         "name": "Gammagioiosa Lovesongs",
+         "logo": "Lovesongs",
+         "link": "http://www.gammagioiosa.net/gammalove.m3u",
+         "http": "",
+         "note": "Gioiosa Jonica (Local)"
+      },
+      {
+         "name": "Radio Gelosa",
+         "logo": "Gelosa",
+         "link": "http://players.fluidstream.net/gelosa.pls",
+         "http": "",
+         "note": "Castelfranco (Local)"
+      },
+      {
+         "name": "Radio Genius",
+         "logo": "Genius",
+         "link": "http://onair11.xdevel.com:8136/listen.pls",
+         "http": "",
+         "note": "Padua (Local)"
+      },
+      {
+         "name": "Radio Globo",
+         "logo": "Globo",
+         "link": "http://www.radioglobo.it/playlist/globo128k.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Gold",
+         "logo": "Gold",
+         "link": "http://stream15.top-ix.org/radiogold.m3u",
+         "http": "",
+         "note": "Music/News (Alessandria, Local)"
+      },
+      {
+         "name": "Radio Grüne Welle",
+         "logo": "Welle",
+         "link": "http://www.rgw.it/stream.m3u",
+         "http": "",
+         "note": "Bolzano (Local)"
+      },
+      {
+         "name": "Radio Holiday",
+         "logo": "Holiday",
+         "link": "http://www.radioholiday.it/webradio/96.m3u",
+         "http": "",
+         "note": "Bruneck (Südtirol, Local)"
+      },
+      {
+         "name": "Radio Ibiza",
+         "logo": "Ibiza",
+         "link": "http://players.fluidstream.net/kisskissibiza.pls",
+         "http": "",
+         "note": "Dance Music (Naples, Local)"
+      },
+      {
+         "name": "Radio IES",
+         "logo": "IES",
+         "link": "http://www.radioies.it/radioIES.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Incontro",
+         "logo": "Incontro",
+         "link": "http://62.196.56.14:8030/listen.pls",
+         "http": "http://sr7.inmystream.it:8153/listen.pls",
+         "note": "Sport/Talk"
+      },
+      {
+         "name": "Radio Insieme",
+         "logo": "Insieme",
+         "link": "http://streaming.gheri.it:8000/listen.pls?sid=1",
+         "http": "",
+         "note": "Music/information (Mercatale di Vernio, Local)"
+      },
+      {
+         "name": "Radio Italia Anni 60",
+         "logo": "60",
+         "link": "http://62.196.56.141:8060/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Italia Anni 60",
+         "logo": "Anni",
+         "link": "http://players.fluidstream.net/anni60fluidstream.pls",
+         "http": "",
+         "note": "Trento (Local)"
+      },
+      {
+         "name": "Radio Italia Network",
+         "logo": "Itali",
+         "link": "http://83.142.228.37:8006/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "Radio Italia Uno",
+         "logo": "Ital",
+         "link": "http://onair15.xdevel.com:8010/listen.pls",
+         "http": "",
+         "note": "Padua (Local)"
+      },
+      {
+         "name": "Radio Kairos",
+         "logo": "Kairos",
+         "link": "http://www.radiokairos.it:8000/different.ogg.m3u",
+         "http": "",
+         "note": "Bologna (Local)"
+      },
+      {
+         "name": "Radio Kiss Kiss",
+         "logo": "Kiss",
+         "link": "http://players.fluidstream.net/kisskissnetwork.pls",
+         "http": "",
+         "note": "Naples (Local)"
+      },
+      {
+         "name": "Kiss Kiss History Hits",
+         "logo": "History",
+         "link": "http://players.creacast.com/creacast/kisskiss_history_hits/playlist.pls",
+         "http": "",
+         "note": "Naples (Local)"
+      },
+      {
+         "name": "Radio Kiss Kiss Italia",
+         "logo": "KissKiss",
+         "link": "http://players.fluidstream.net/kisskissitalia.pls",
+         "http": "",
+         "note": "Naples (Local)"
+      },
+      {
+         "name": "Radio Kiss Kiss Napoli",
+         "logo": "Napoli",
+         "link": "http://players.fluidstream.net/kisskissnapoli.pls",
+         "http": "",
+         "note": "Naples (Local)"
+      },
+      {
+         "name": "Radio Kolbe",
+         "logo": "Kolbe",
+         "link": "http://www.radiokolbe.it/listen.pls",
+         "http": "",
+         "note": "Schio (Local)"
+      },
+      {
+         "name": "Radio Lady",
+         "logo": "Lady",
+         "link": "http://players.fluidstream.net/radio_lady.pls",
+         "http": "",
+         "note": "Empoli (Local)"
+      },
+      {
+         "name": "Radio LatteMiele",
+         "logo": "LatteMiele",
+         "link": "http://onair18.xdevel.com:8014/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "Radio Lina",
+         "logo": "Lina",
+         "link": "http://91.121.38.216:8070/listen.pls",
+         "http": "",
+         "note": "Cagliari (Local)"
+      },
+      {
+         "name": "Radio Linea No.1",
+         "logo": "Linea",
+         "link": "http://onair11.xdevel.com:8114/listen.pls",
+         "http": "",
+         "note": "Ancona (Local)"
+      },
+      {
+         "name": "Radio Lombardia",
+         "logo": "Lombardia",
+         "link": "http://www.radiolombardia.it/rl/script/rl.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "Radio Mambo",
+         "logo": "Mambo",
+         "link": "http://www.mambo.it/player/mambo.m3u",
+         "http": "",
+         "note": "Latin Music"
+      },
+      {
+         "name": "Radio Mania",
+         "logo": "Mania",
+         "link": "http://players.fluidstream.net/radio_mania.pls",
+         "http": "",
+         "note": "Velletri (Local)"
+      },
+      {
+         "name": "Radio Margherita Network",
+         "logo": "Margherita",
+         "link": "http://shoutcast.streamingmedia.it:7072/listen.pls",
+         "http": "",
+         "note": "Palermo (Local)"
+      },
+      {
+         "name": "Radio Margherita Napoli",
+         "logo": "Napol",
+         "link": "http://shoutcast.streamingmedia.it:7074/listen.pls",
+         "http": "",
+         "note": "Neapolitan Music"
+      },
+      {
+         "name": "Radio Margherita Giovane",
+         "logo": "Giovane",
+         "link": "http://shoutcast.streamingmedia.it:7076/",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Radio Maria",
+         "logo": "Maria",
+         "link": "http://cloudrad.io/radiomariaitalia/listen.pls",
+         "http": "",
+         "note": "Erba (Local)"
+      },
+      {
+         "name": "Radio Marilù",
+         "logo": "Marilu",
+         "link": "http://players.fluidstream.net/marilu.pls",
+         "http": "",
+         "note": "Castelfranco (Local)"
+      },
+      {
+         "name": "Radio Metro'",
+         "logo": "Metro",
+         "link": "http://players.fluidstream.net/radiometro.pls",
+         "http": "",
+         "note": "Pop Music (Udine, Local)"
+      },
+      {
+         "name": "Radio Milano",
+         "logo": "Milano",
+         "link": "http://sh1.inmystream.info:8175/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Millennium",
+         "logo": "Millennium",
+         "link": "http://sr7.inmystream.info:8068/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "Radio Millenote",
+         "logo": "Millenote",
+         "link": "http://live11.streamingmedia.it/tunein.php/radiomillenote/playlist.pls",
+         "http": "",
+         "note": "Bergamo (Local)"
+      },
+      {
+         "name": "Radio MPA",
+         "logo": "MPA",
+         "link": "http://s3.mediastreaming.it:9050/listen.pls",
+         "http": "",
+         "note": "Palomonte (Local)"
+      },
+      {
+         "name": "Radio Mugello",
+         "logo": "Mugello",
+         "link": "http://audio1.meway.tv/tunein/mugello.pls",
+         "http": "",
+         "note": "Borgo San Lorenzo (Local)"
+      },
+      {
+         "name": "Radio Nettuno",
+         "logo": "Nettuno",
+         "link": "http://eu4.fastcast4u.com:5688/listen.pls",
+         "http": "",
+         "note": "Bologna (Local)"
+      },
+      {
+         "name": "Radio Nord",
+         "logo": "Nord",
+         "link": "http://streaming.lessinianet.net:8000/radionordbz.ogg.m3u",
+         "http": "",
+         "note": "Bozen (Local)"
+      },
+      {
+         "name": "Radio Number One",
+         "logo": "Number",
+         "link": "http://shoutcast.streamingmedia.it:8004/listen.pls",
+         "http": "",
+         "note": "Bergamo (Local)"
+      },
+      {
+         "name": "Radio Nuova inBlu",
+         "logo": "inBlu",
+         "link": "http://ice05.fluidstream.net/fluid0504.aac.m3u",
+         "http": "",
+         "note": "Macerata (Local)"
+      },
+      {
+         "name": "Radio Omega Sound",
+         "logo": "Omega",
+         "link": "http://ks3307856.kimsufi.com:8000/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Onda 1",
+         "logo": "1",
+         "link": "http://www.radioonda.it/live1/128.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Onda Rossa",
+         "logo": "Rossa",
+         "link": "http://radio.dyne.org:8000/ondarossa.mp3.m3u",
+         "http": "http://www.ondarossa.info/ror.pls",
+         "note": ""
+      },
+      {
+         "name": "Radio Onyx",
+         "logo": "Onyx",
+         "link": "http://players.fluidstream.net/onyx.pls",
+         "http": "",
+         "note": "Como (Local)"
+      },
+      {
+         "name": "Radio Oreb",
+         "logo": "Oreb",
+         "link": "http://onair11.xdevel.com:8200/listen.pls",
+         "http": "",
+         "note": "Lisiera (Local)"
+      },
+      {
+         "name": "Radio Padova",
+         "logo": "Padova",
+         "link": "http://str01.fluidstream.net:6020/listen.pls",
+         "http": "",
+         "note": "Padua (Local)"
+      },
+      {
+         "name": "Radio Panorama",
+         "logo": "Panorama",
+         "link": "http://players.fluidstream.net/panorama.pls",
+         "http": "",
+         "note": "Termini Imerese (Local)"
+      },
+      {
+         "name": "Radio Pianeta",
+         "logo": "Pianeta",
+         "link": "http://www.radiopianeta.it:8000/listen.pls",
+         "http": "",
+         "note": "News/Talk/Music (Cividate al Piano, Local)"
+      },
+      {
+         "name": "Radio Pico",
+         "logo": "Pico",
+         "link": "http://onair11.xdevel.com:8064/listen.pls",
+         "http": "",
+         "note": "Mirandola (Local)"
+      },
+      {
+         "name": "Radio Pico Classic",
+         "logo": "Mirandola",
+         "link": "http://onair11.xdevel.com:8014/listen.pls",
+         "http": "",
+         "note": "Mirandola (Local)"
+      },
+      {
+         "name": "Radio Piterpan",
+         "logo": "Piterpan",
+         "link": "http://players.fluidstream.net/piterpan.pls",
+         "http": "",
+         "note": "Pop Music (Verona, Local)"
+      },
+      {
+         "name": "Radio Planet",
+         "logo": "Planet",
+         "link": "http://91.121.104.139:8100/listen.pls",
+         "http": "",
+         "note": "Vicenza (Local)"
+      },
+      {
+         "name": "Radio Popolare Roma",
+         "logo": "Popolare",
+         "link": "http://www.radiopopolareroma.it/files/rpr.m3u",
+         "http": "",
+         "note": "News/Information/Culture"
+      },
+      {
+         "name": "Radio Presenza",
+         "logo": "Presenza",
+         "link": "http://players.fluidstream.net/radio_presenza.pls",
+         "http": "",
+         "note": "Cervignano del Friuli (Local)"
+      },
+      {
+         "name": "Radio Punto",
+         "logo": "Punto",
+         "link": "http://91.121.138.173:8062/listen.pls",
+         "http": "",
+         "note": "Pop Music, News (San Vittore Olona, Local)"
+      },
+      {
+         "name": "Radio Punto Nuovo",
+         "logo": "Nuovo",
+         "link": "http://s3.mediastreaming.it:7260/listen.pls",
+         "http": "",
+         "note": "Pop/Rock Music (Cesinali, Local)"
+      },
+      {
+         "name": "Radio Punto Zero",
+         "logo": "Zer",
+         "link": "http://5.63.145.172:7100/listen.pls",
+         "http": "",
+         "note": "Naples (Local)"
+      },
+      {
+         "name": "Radio Punto Zero Tre Venezie",
+         "logo": "Tre",
+         "link": "http://wma02.fluidstream.net:8120/listen.pls",
+         "http": "http://wma01.fluidstream.net:8120/listen.pls",
+         "note": "Sport/News (Trieste, Local)"
+      },
+      {
+         "name": "Radio Radicale",
+         "logo": "Radicale",
+         "link": "http://livemp3.radioradicale.it/live.mp3.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Radio Record",
+         "logo": "Record",
+         "link": "http://wma01.fluidstream.net:7170/listen.pls",
+         "http": "",
+         "note": "Santarcangelo di Romagna (Local)"
+      },
+      {
+         "name": "Radio Reporter",
+         "logo": "Reporter",
+         "link": "http://nr9.newradio.it:9085/listen.pls?sid=1",
+         "http": "",
+         "note": "Music/Information (Milan, Local)"
+      },
+      {
+         "name": "Radio Rock",
+         "logo": "Rock",
+         "link": "http://audio1.meway.tv:8050/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Radio Sei",
+         "logo": "Sei",
+         "link": "http://94.23.67.172:9104/listen.pls",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Radio Selene",
+         "logo": "Selene",
+         "link": "http://audio1.meway.tv:8032/listen.pls",
+         "http": "",
+         "note": "Corato (Local)"
+      },
+      {
+         "name": "Radio Serra 98",
+         "logo": "98",
+         "link": "http://72.13.81.34:1960/listen.pls",
+         "http": "",
+         "note": "Serra San Bruno (Local)"
+      },
+      {
+         "name": "Radio Sherwood",
+         "logo": "Sherwood",
+         "link": "http://www.sherwood.it/live/live.m3u",
+         "http": "",
+         "note": "Alternative/Variety Music"
+      },
+      {
+         "name": "Radio Sintony",
+         "logo": "Sintony",
+         "link": "http://94.23.22.181:9000/listen.pls",
+         "http": "",
+         "note": "Pop Music / Oldies (Cagliari, Local)"
+      },
+      {
+         "name": "Radio SorRriso",
+         "logo": "SorRriso",
+         "link": "http://players.fluidstream.net/sorriso.pls",
+         "http": "",
+         "note": "Castelfranco (Local)"
+      },
+      {
+         "name": "Radio Splash",
+         "logo": "Splash",
+         "link": "http://www.azotostreamingsolutions2.eu:2199/tunein/safer.pls",
+         "http": "",
+         "note": "Milazzo (Local)"
+      },
+      {
+         "name": "Radio Sportiva",
+         "logo": "Sportiva",
+         "link": "http://nr5.newradio.it:8545/listen.pls?sid=1",
+         "http": "",
+         "note": "Prato (Local)"
+      },
+      {
+         "name": "Radio Star",
+         "logo": "Lucca",
+         "link": "http://s3.shoutitaly.com:8022/listen.pls",
+         "http": "",
+         "note": "Lucca (Local)"
+      },
+      {
+         "name": "Radio Stop",
+         "logo": "Stop",
+         "link": "http://www.radiostop.it/radiostop_itunes.m3u",
+         "http": "",
+         "note": "Top 30 / Music (Cecina, Local)"
+      },
+      {
+         "name": "Radio Studio Centrale",
+         "logo": "Centrale",
+         "link": "http://83.142.228.37:8050/listen.pls",
+         "http": "",
+         "note": "Catania (Local)"
+      },
+      {
+         "name": "Radio Studio Piu'",
+         "logo": "Piu",
+         "link": "http://www.studiopiu.net:8000/listen.pls",
+         "http": "",
+         "note": "Desenzano del Garda (Local)"
+      },
+      {
+         "name": "Radio Studio Piu'2",
+         "logo": "2",
+         "link": "http://www.studiopiu.net:8005/listen.pls",
+         "http": "",
+         "note": "Desenzano del Garda (Local)"
+      },
+      {
+         "name": "Radio Studio 7",
+         "logo": "7",
+         "link": "http://onair15.xdevel.com:8144/listen.pls",
+         "http": "",
+         "note": "Pop Music(Macerata, Local)"
+      },
+      {
+         "name": "Radio Studio 95",
+         "logo": "95",
+         "link": "http://94.23.219.205:8048/listen.pls",
+         "http": "",
+         "note": "Top 30 (Melito Porto Salvo, Local)"
+      },
+      {
+         "name": "Radio StudioStar",
+         "logo": "StudioStar",
+         "link": "http://nr5.newradio.it:8520/listen.pls",
+         "http": "",
+         "note": "Top 30 / Music (Cannobio, Local)"
+      },
+      {
+         "name": "Radio Subasio",
+         "logo": "Subasio",
+         "link": "http://onair18.xdevel.com:8152/listen.pls",
+         "http": "",
+         "note": "Assisi (Local)"
+      },
+      {
+         "name": "Radio Suby",
+         "logo": "Suby",
+         "link": "http://www.streamsolution.it/onair/suby.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Radio System Network",
+         "logo": "System",
+         "link": "http://nr3.newradio.it:8110/listen.pls",
+         "http": "",
+         "note": "Copertino (Local)"
+      },
+      {
+         "name": "Radio Taormina",
+         "logo": "Taormina",
+         "link": "http://www.streamsolution.it/onair/winamp_taormina.pls",
+         "http": "",
+         "note": "70s/90s Music"
+      },
+      {
+         "name": "Radio Ti Ricordi",
+         "logo": "Ti",
+         "link": "https://fplayer.newradio.it/tiricordi/tiricordi.m3u",
+         "http": "",
+         "note": "Pop/Classic Music"
+      },
+      {
+         "name": "Radio Time",
+         "logo": "Time",
+         "link": "http://onair11.xdevel.com:8216/listen.pls",
+         "http": "",
+         "note": "Palermo (Local)"
+      },
+      {
+         "name": "Radio Tirol",
+         "logo": "Tirol",
+         "link": "http://players.creacast.com/creacast/radiotirol_a/playlist.pls",
+         "http": "",
+         "note": "Bozen (Local)"
+      },
+      {
+         "name": "Radio Toscana",
+         "logo": "Toscana",
+         "link": "http://onair15.xdevel.com:8068/listen.pls",
+         "http": "",
+         "note": "Florence (Local)"
+      },
+      {
+         "name": "Radio Tour",
+         "logo": "Tour",
+         "link": "http://shoutcast.streamingmedia.it/tunein.php/radiotour/playlist.pls",
+         "http": "",
+         "note": "Pop Music (Potenza, Local)"
+      },
+      {
+         "name": "Radio Touring",
+         "logo": "Touring",
+         "link": "http://onair18.xdevel.com:8102/listen.pls",
+         "http": "",
+         "note": "Paternò (Local)"
+      },
+      {
+         "name": "Radio TRS",
+         "logo": "TRS",
+         "link": "http://vps.radioduepuntozero.it:38080/listen.pls",
+         "http": "",
+         "note": "Pop/Rock Music (Cologno Monzese, Local)"
+      },
+      {
+         "name": "Radio Valbelluna",
+         "logo": "Valbelluna",
+         "link": "http://players.fluidstream.net/rvbfluidstream.pls",
+         "http": "",
+         "note": "Belluno (Local)"
+      },
+      {
+         "name": "Radio Valentina",
+         "logo": "Valentina",
+         "link": "http://players.fluidstream.net/valentinafluidstream.pls",
+         "http": "",
+         "note": "Pop Music (Soverato, Local)"
+      },
+      {
+         "name": "Radio Vanessa",
+         "logo": "Vanessa",
+         "link": "http://www.radiovanessa.it/files/radio_vanessa.pls",
+         "http": "",
+         "note": "Venice (Local)"
+      },
+      {
+         "name": "Radio Venere",
+         "logo": "Venere",
+         "link": "http://176.31.251.17:8030/listen.pls",
+         "http": "",
+         "note": "Top 30 (Bovalino, Local)"
+      },
+      {
+         "name": "Radio Venezia",
+         "logo": "Venezia",
+         "link": "http://wma02.fluidstream.net:8300/listen.pls",
+         "http": "",
+         "note": "Top 30 (Venice, Local)"
+      },
+      {
+         "name": "Radio Verona",
+         "logo": "Verona",
+         "link": "http://wma02.fluidstream.net:9980/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Radio Veronica One",
+         "logo": "Veronica",
+         "link": "http://onair15.xdevel.com:8320/listen.pls",
+         "http": "",
+         "note": "Top 30 (Torino, Local)"
+      },
+      {
+         "name": "Radio Zammù",
+         "logo": "Zammu",
+         "link": "http://151.97.15.7:8000/zammu.m3u",
+         "http": "",
+         "note": "Catania (Local)"
+      },
+      {
+         "name": "Radio Zero",
+         "logo": "Ravenna",
+         "link": "http://live.radiozero.it:8285/listen.pls",
+         "http": "",
+         "note": "Pop/Rock Music (Ravenna, Local)"
+      },
+      {
+         "name": "Rete Alfa",
+         "logo": "Rete",
+         "link": "http://www.ferrarain.com/retealfa.m3u",
+         "http": "",
+         "note": "Ferrara (Local)"
+      },
+      {
+         "name": "Rete Uno Network",
+         "logo": "Manduria",
+         "link": "http://dreamsiteradiocp3.com:8042/listen.pls",
+         "http": "",
+         "note": "Pop Music / Oldies (Manduria, Local)"
+      },
+      {
+         "name": "RMC 1 (Radio Monte Carlo)",
+         "logo": "Monte",
+         "link": "http://shoutcast.unitedradio.it:1103/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "RMC 2",
+         "logo": "RMC",
+         "link": "http://shoutcast.unitedradio.it:1107/listen.pls",
+         "http": "",
+         "note": "Dance/Chill/Lounge Music (Milan, Local)"
+      },
+      {
+         "name": "RMC Monte Carlo Nights Story",
+         "logo": "Carlo",
+         "link": "http://shoutcast.unitedradio.it:1115/listen.pls",
+         "http": "",
+         "note": "Pop/Soul Music (Milan, Local)"
+      },
+      {
+         "name": "RMC Love Songs",
+         "logo": "Love",
+         "link": "http://shoutcast.unitedradio.it:1121/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "RMC New Classics",
+         "logo": "New",
+         "link": "http://shoutcast.unitedradio.it:1117/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "RMC Great Artists",
+         "logo": "Great",
+         "link": "http://shoutcast.unitedradio.it:1111/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "RMC Italia",
+         "logo": "RM",
+         "link": "http://shoutcast.unitedradio.it:1211/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "RMC Marine",
+         "logo": "Marine",
+         "link": "http://shoutcast.unitedradio.it:1311/listen.pls",
+         "http": "",
+         "note": "Pop/Dance/Lounge Music"
+      },
+      {
+         "name": "RMC Hits",
+         "logo": "Hit",
+         "link": "http://shoutcast.unitedradio.it:1317/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "RMC 80",
+         "logo": "RMC80",
+         "link": "http://shoutcast.unitedradio.it:1401/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "RMC 90",
+         "logo": "RMC90",
+         "link": "http://shoutcast.unitedradio.it:1403/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "RMC Duets",
+         "logo": "Duets",
+         "link": "http://shoutcast.unitedradio.it:1209/listen.pls",
+         "http": "",
+         "note": "Milan (Local)"
+      },
+      {
+         "name": "RMC Radio Bau",
+         "logo": "Bau",
+         "link": "http://shoutcast.unitedradio.it:1405/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RTL 102.5",
+         "logo": "RTL",
+         "link": "http://shoutcast.rtl.it:3010/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "RTL 102.5 Classic",
+         "logo": "102",
+         "link": "http://shoutcast.rtl.it:3020/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RTL 102.5 Groove",
+         "logo": "Groove",
+         "link": "http://shoutcast.rtl.it:3040/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "RTL 102.5 Italian Style",
+         "logo": "Style",
+         "link": "http://shoutcast.rtl.it:3030/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "RTL 102.5 Cool",
+         "logo": "Cool",
+         "link": "http://shoutcast.rtl.it:3070/listen.pls",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "SoloRadio",
+         "logo": "SoloRadio",
+         "link": "http://panel8.newradio.it/tunein.php/asssolor/playlist.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Stereo Citta",
+         "logo": "Stereo",
+         "link": "http://onair11.xdevel.com:8134/listen.pls",
+         "http": "",
+         "note": "Padua (Local)"
+      },
+      {
+         "name": "Südtirol 1",
+         "logo": "Sudtirol",
+         "link": "http://players.creacast.com/creacast/sudtirol1a/playlist.pls",
+         "http": "",
+         "note": "Top 30 (Bozen/Bolzano, Local)"
+      },
+      {
+         "name": "TeleRadioStereo",
+         "logo": "TeleRadioStereo",
+         "link": "http://www.inmystream.info/trs.pls",
+         "http": "http://www.inmystream.info/trs.pls",
+         "note": ""
+      },
+      {
+         "name": "Top Italia Radio",
+         "logo": "Top",
+         "link": "http://94.23.8.5:8000/tir.mp3.m3u",
+         "http": "",
+         "note": "Valle d'Aosta (Local)"
+      },
+      {
+         "name": "TRS Radio",
+         "logo": "TR",
+         "link": "http://onair20.xdevel.com:8094/listen.pls",
+         "http": "",
+         "note": "Rock, Jazz, Blues, Folk Music"
+      },
+      {
+         "name": "Vatican Radio Ch1",
+         "logo": "Ch1",
+         "link": "http://vatican.ic.llnwd.net/stream/vatican_vatican01.m3u",
+         "http": "",
+         "note": "Central and Western Europe"
+      },
+      {
+         "name": "Vatican Radio Ch2",
+         "logo": "Ch2",
+         "link": "http://vatican.ic.llnwd.net/stream/vatican_vatican02.m3u",
+         "http": "",
+         "note": "Asia and Africa"
+      },
+      {
+         "name": "Vatican Radio Ch3",
+         "logo": "Ch3",
+         "link": "http://vatican.ic.llnwd.net/stream/vatican_vatican03.m3u",
+         "http": "",
+         "note": "Eastern Europe"
+      },
+      {
+         "name": "Vatican Radio Ch4",
+         "logo": "Ch4",
+         "link": "http://vatican.ic.llnwd.net/stream/vatican_vatican04.m3u",
+         "http": "",
+         "note": "America and Middle East"
+      },
+      {
+         "name": "Vatican Radio Ch5",
+         "logo": "Ch5",
+         "link": "http://vatican.ic.llnwd.net/stream/vatican_vatican05.m3u",
+         "http": "",
+         "note": "Rome and Lazio"
+      },
+      {
+         "name": "Venice Classic Radio",
+         "logo": "Venice",
+         "link": "http://www.radioonda.it/live2/128.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Veronica My Radio",
+         "logo": "My",
+         "link": "http://veronica01.fluidstream.it/fluid1002.aac.m3u",
+         "http": "",
+         "note": "Pesaro (Local)"
+      },
+      {
+         "name": "Vintage Radio",
+         "logo": "Vintage",
+         "link": "http://62.196.56.14:8040/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Virgin Radio Italia",
+         "logo": "Virgin1",
+         "link": "http://shoutcast.unitedradio.it:1301/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Virgin Rock Classic",
+         "logo": "Virgin2",
+         "link": "http://icy.unitedradio.it/VirginRockClassics.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Virgin Rock Hard Rock",
+         "logo": "Virgin3",
+         "link": "http://icy.unitedradio.it/VirginHardRock.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Virgin Rock Alternative",
+         "logo": "Virgin4",
+         "link": "http://icy.unitedradio.it/VirginRockAlternative.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Virgin Rock 80",
+         "logo": "Virgin5",
+         "link": "http://icy.unitedradio.it/VirginRock80.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Virgin Rock 70",
+         "logo": "Virgin6",
+         "link": "http://icy.unitedradio.it/VirginRock70.mp3.m3u",
+         "http": "",
+         "note": "Music"
       }
    ]
 }

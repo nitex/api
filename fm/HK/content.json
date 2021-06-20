@@ -43,13 +43,181 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "1 RTHK",
+         "logo": "1",
+         "link": "http://stm.rthk.hk/radio1.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-1-rthk,813.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "2 RTHK",
+         "logo": "2",
+         "link": "http://stm.rthk.hk/radio2.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-2-rthk,814.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "3 RTHK",
+         "logo": "3",
+         "link": "http://stm.rthk.hk/radio3.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-3-rthk,815.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "4 RTHK",
+         "logo": "4",
+         "link": "http://stm.rthk.hk/radio4.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-4-rthk,816.m3u",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "5 RTHK",
+         "logo": "5",
+         "link": "http://stm.rthk.hk/radio5.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-5-rthk,817.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "6 RTHK",
+         "logo": "6",
+         "link": "http://www.surfmusic.de/m3u/radio-6-rthk,19728.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "香港電台普通話台 AM 621",
+         "logo": "RTHK",
+         "link": "http://stm.rthk.hk/radiopth.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Apple FM",
+         "logo": "Apple",
+         "link": "http://sc.apple-fm.net:9018/listen.pls",
+         "http": "http://sc.apple-fm.net:9020/listen.pls",
+         "note": "Oldies"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Billboard Radio China - Asia Hits",
+         "logo": "Asia",
+         "link": "http://www.surfmusic.de/m3u/billboard-radio-china-asia-hits,11876.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Billboard Radio China - EDM Club",
+         "logo": "EDM",
+         "link": "http://www.surfmusic.de/m3u/billboard-radio-china-edm-club,17316.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Billboard Radio China 80s",
+         "logo": "80s",
+         "link": "http://www.surfmusic.de/m3u/billboard-radio-china-80s,10454.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Billboard Radio China Hits",
+         "logo": "Hits",
+         "link": "http://www.surfmusic.de/m3u/billboard-radio-china-hits,19459.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Billboard Radio Hot 100",
+         "logo": "100",
+         "link": "http://www.surfmusic.de/m3u/billboard-radio-hot-100,10452.m3u",
+         "http": "",
+         "note": "Music, Top"
+      },
+      {
+         "name": "Billboiard Radio China Rock",
+         "logo": "Billboiard",
+         "link": "http://www.surfmusic.de/m3u/billboiard-radio-china-rock,10453.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Commercial Radio AM 864",
+         "logo": "864",
+         "link": "http://www.surfmusic.de/m3u/commercial-radio-am-864,12215.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "CRI China Plus",
+         "logo": "CRI",
+         "link": "http://sk.cri.cn/am846.m3u8",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "HKCR1 88.1 FM",
+         "logo": "HKCR1",
+         "link": "http://www.surfmusic.de/m3u/hkcr1-88-1-fm,12725.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "HKCR2 90.3 FM",
+         "logo": "HKCR2",
+         "link": "http://www.surfmusic.de/m3u/hkcr2-90-3-fm,12726.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Metro 99.7 FM 新城知訊台",
+         "logo": "Metro",
+         "link": "http://metroradio-lh.akamaihd.net/i/997_h@349799/master.m3u8",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Metro Finance FM 104",
+         "logo": "Finance",
+         "link": "http://metroradio-lh.akamaihd.net/i/104_h@349798/master.m3u8",
+         "http": "http://www.surfmusic.de/m3u/metro-finance-live,12727.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Metro Info",
+         "logo": "Info",
+         "link": "http://www.surfmusic.de/m3u/metro-info-live,12729.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Metro Plus 1044 AM",
+         "logo": "1044",
+         "link": "http://metroradio-lh.akamaihd.net/i/1044_h@349800/master.m3u",
+         "http": "http://www.surfmusic.de/m3u/metro-plus-1044-am,12730.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "OnAirPower",
+         "logo": "OnAirPower",
+         "link": "http://www.surfmusic.de/m3u/onairpower,12728.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "TDM 100.7 FM 澳門電台",
+         "logo": "TDM",
+         "link": "http://live4.tdm.com.mo/live/rch2.live/playlist.m3u8",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

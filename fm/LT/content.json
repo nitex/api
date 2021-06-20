@@ -43,13 +43,258 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Lietuvos Radijas 1",
+         "logo": "1",
+         "link": "http://82.135.234.195:8000/lr.mp3.m3u",
+         "http": "",
+         "note": "News/Music"
+      },
+      {
+         "name": "Lietuvos Radijas Klasika",
+         "logo": "Klasika",
+         "link": "http://82.135.234.195:8000/klasika.mp3.m3u",
+         "http": "",
+         "note": "Classical"
+      },
+      {
+         "name": "Lietuvos Radijas Opus 3",
+         "logo": "3",
+         "link": "http://82.135.234.195:8000/opus3.mp3.m3u",
+         "http": "",
+         "note": "Dance"
+      },
+      {
+         "name": "Classic Rock FM",
+         "logo": "Rock",
+         "link": "http://5.20.223.18/crf32.aac.m3u",
+         "http": "http://5.20.223.18/crf64.aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "European Hit Radio",
+         "logo": "European",
+         "link": "http://84.46.162.57:8000/ehr.m3u",
+         "http": "http://84.46.162.57:8000/ehr2.m3u",
+         "note": ""
+      },
+      {
+         "name": "EXTRA FM",
+         "logo": "EXTRA",
+         "link": "http://82.135.234.195:8000/extrafm.mp3",
+         "http": "http://82.135.234.195:8000/extrafm.mp3.m3u",
+         "note": "Kaunas (Local)"
+      },
+      {
+         "name": "FM99 (Alytaus Radijas)",
+         "logo": "FM99",
+         "link": "http://82.135.234.195:8000/fm99.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Geras FM",
+         "logo": "Geras",
+         "link": "http://82.135.234.195:8000/gerasfm.mp3.m3u",
+         "http": "",
+         "note": "Dance"
+      },
+      {
+         "name": "Gold FM",
+         "logo": "Gold",
+         "link": "http://82.135.234.195:8000/goldfm.mp3.m3u",
+         "http": "",
+         "note": "Oldies"
+      },
+      {
+         "name": "Jazz FM 99,3",
+         "logo": "Jazz",
+         "link": "http://jazzfm.lt/wp-content/uploads/2016/02/jazzfm.pls",
+         "http": "http://82.135.234.195:8000/jazzfm.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Laluna",
+         "logo": "Laluna",
+         "link": "http://stream.laluna.lt/laluna/mp3.m3u",
+         "http": "http://stream.laluna.lt/laluna/high.m3u",
+         "note": "Klaipeda (Local)"
+      },
+      {
+         "name": "Lietus",
+         "logo": "Lietus",
+         "link": "http://radio.lietus.fm/LIETUS.m3u",
+         "http": "http://stream.m-1.fm/lietus/aacp.m3u",
+         "note": "Pop Music"
+      },
+      {
+         "name": "M-1",
+         "logo": "M-1",
+         "link": "http://radio.m-1.fm/m1/aacp.m3u",
+         "http": "http://radio.m-1.fm/m1/mp3.m3u",
+         "note": "Pop Music"
+      },
+      {
+         "name": "M-1 Plius",
+         "logo": "Plius",
+         "link": "http://stream.m-1.fm/M-1PLIUS.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Marijos radijas",
+         "logo": "Marijos",
+         "link": "http://streamer.marijosradijas.lt:8001/marijosradijas.mp3.m3u",
+         "http": "",
+         "note": "Kaunas (Local)"
+      },
+      {
+         "name": "Neringa FM",
+         "logo": "Neringa",
+         "link": "http://82.135.234.195:8000/neringafm.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Power Hit Radio",
+         "logo": "Power",
+         "link": "http://power-stream.data.lt:8000/PHR.m3u",
+         "http": "",
+         "note": "Top 10 / Dance"
+      },
+      {
+         "name": "Pūkas",
+         "logo": "Pukas",
+         "link": "http://82.135.234.195:8000/pukas.mp3.m3u",
+         "http": "",
+         "note": "Pop (Kaunas)"
+      },
+      {
+         "name": "Pūkas 2",
+         "logo": "2",
+         "link": "http://82.135.234.195:8000/pukas2.mp3.m3u",
+         "http": "",
+         "note": "Kaunas (Local)"
+      },
+      {
+         "name": "Pulsas",
+         "logo": "Pulsas",
+         "link": "http://212.24.103.40:8000/listen.pls?sid=1",
+         "http": "",
+         "note": "Panevėžys (Local)"
+      },
+      {
+         "name": "Radijas TAU 102.9 FM",
+         "logo": "TAU",
+         "link": "http://www.tau.lt/tau.m3u",
+         "http": "",
+         "note": "Kaunas (Local)"
+      },
+      {
+         "name": "Radiocentras",
+         "logo": "Radiocentras",
+         "link": "http://84.46.205.13/rc128.mp3.m3u",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Radijo Stotis Kelyje Kaunas",
+         "logo": "Kaunas",
+         "link": "http://82.135.234.195:8000/kelyje_kaunas.mp3.m3u",
+         "http": "",
+         "note": "Music/Information"
+      },
+      {
+         "name": "Radijo Stotis Kelyje Klaipėda",
+         "logo": "Kelyje",
+         "link": "http://82.135.234.195:8000/kelyje_klaipeda.mp3.m3u",
+         "http": "",
+         "note": "Music/Information"
+      },
+      {
+         "name": "Radijo Stotis Kelyje Vilnius",
+         "logo": "Stotis",
+         "link": "http://82.135.234.195:8000/kelyje_vilnius.mp3.m3u",
+         "http": "",
+         "note": "Music/Information"
+      },
+      {
+         "name": "Radio Znad Wilii",
+         "logo": "Znad",
+         "link": "http://play.zw.lt:8000/zw128.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio ZW Fun",
+         "logo": "ZW",
+         "link": "http://play.zw.lt:8000/zwfun.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Raduga 100.8 FM",
+         "logo": "Raduga",
+         "link": "http://stream.raduga.lt/raduga/high.m3u",
+         "http": "",
+         "note": "Music/Information (Klaipeda)"
+      },
+      {
+         "name": "Relax FM",
+         "logo": "Relax",
+         "link": "http://5.20.223.18/relaxfm128.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RS2",
+         "logo": "RS2",
+         "link": "http://rs2.lt/rs2.lt.m3u",
+         "http": "",
+         "note": "Šiauliai (Local)"
+      },
+      {
+         "name": "Russkoje Radio Baltija",
+         "logo": "Russkoje",
+         "link": "http://5.20.223.18/rrb128.mp3.m3u",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Saulės radijas",
+         "logo": "radijas",
+         "link": "http://saule-mp3.vinlita.lt:8008/stream.mp3.m3u",
+         "http": "",
+         "note": "Šiauliai (Local)"
+      },
+      {
+         "name": "Start FM",
+         "logo": "Start",
+         "link": "http://eteris.startfm.lt/startfm.mp3",
+         "http": "http://eteris.startfm.lt:8000/startfm.m3u",
+         "note": ""
+      },
+      {
+         "name": "Utenos radijas",
+         "logo": "Utenos",
+         "link": "http://gyvai.utenosradijas.lt:8010/listen.pls",
+         "http": "",
+         "note": "Utena (Local)"
+      },
+      {
+         "name": "Zip FM",
+         "logo": "Zip",
+         "link": "http://84.46.205.13/zipfm64.aac.m3u",
+         "http": "",
+         "note": "Dance"
+      },
+      {
+         "name": "Žinių Radijas",
+         "logo": "Radija",
+         "link": "http://netradio.ziniur.lt/ziniur_64.mp3.m3u",
+         "http": "",
+         "note": "News"
       }
    ]
 }

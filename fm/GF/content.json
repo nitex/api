@@ -43,13 +43,146 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "BBlack",
+         "logo": "BBlack",
+         "link": "http://srv2.streaming-ingenierie.fr:8162/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Chérie FM",
+         "logo": "Cherie",
+         "link": "http://cheriefmguyane.ice.infomaniak.ch/cheriefmguyane-64.aac.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Classica",
+         "logo": "Classica",
+         "link": "http://france16.coollabel-productions.com:8280/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "France Inter",
+         "logo": "Inter",
+         "link": "http://icecast.radiofrance.fr/franceinter-midfi.mp3",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Fun",
+         "logo": "Fun",
+         "link": "http://manager2.streaming-ingenierie.fr:8050/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "KFM 91.6",
+         "logo": "KFM",
+         "link": "http://10191.go2stream.fr:8000/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "La 1ère",
+         "logo": "1ere",
+         "link": "http://radios.la1ere.fr/guyane",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Métis FM",
+         "logo": "Metis",
+         "link": "http://str0.creacast.com/metisfm.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Nostalgie",
+         "logo": "Nostalgie",
+         "link": "http://2stream.dyndns.org/nostalgieguy.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "NRJ",
+         "logo": "NRJ",
+         "link": "http://nrjguyane.ice.infomaniak.ch/nrjguyane-64.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Péyi",
+         "logo": "Peyi",
+         "link": "https://radiopeyiguyane.ice.infomaniak.ch/radiopeyiguyane-64.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RCF",
+         "logo": "RCF",
+         "link": "http://rcf.streamakaci.com/rcf.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RFI",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfimonde-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RKS 92.4 FM",
+         "logo": "RKS",
+         "link": "http://37.187.119.81:8122/live.m3u",
+         "http": "",
+         "note": "Kourou (Local)"
+      },
+      {
+         "name": "RMC",
+         "logo": "RMC",
+         "link": "http://chai5she.cdn.dvmr.fr/rmcinfo",
+         "http": "",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "Rossignol 107.2 FM",
+         "logo": "Rossignol",
+         "link": "http://radio3.pro-fhi.net:9004/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RTL2",
+         "logo": "RTL2",
+         "link": "http://coollabel1.streaming-ingenierie.fr:8136/listen.pls?sid=1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "RTM 103.3 FM",
+         "logo": "RTM",
+         "link": "http://euroticast5.euroti.com.br:8046/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RVLD - Radio Voix dans le Désert",
+         "logo": "RVLD",
+         "link": "http://str0.creacast.com/metisfm.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Trace FM",
+         "logo": "Trace",
+         "link": "http://stream.trace.tv/trace_fm_guyane-midfi.aac",
+         "http": "",
+         "note": "Music"
       }
    ]
 }
