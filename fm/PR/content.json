@@ -43,13 +43,314 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "95X FM San Juan",
+         "logo": "95X",
+         "link": "http://www.streamlicensing.com/directory/index.cgi/playlist.pls?action=playlist&type=pls&sid=457&stream_id=757",
+         "http": "http://www.surfmusic.de/m3u/95x-fm-san-juan,19563.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Allegro 91.3 FM",
+         "logo": "Allegro",
+         "link": "http://192.254.105.36:8080/broadwave.m3u?src=1&rate=1",
+         "http": "http://www.surfmusic.de/m3u/allegro-91-3-fm,19560.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Católica 88.9 FM",
+         "logo": "88.9",
+         "link": "http://stream.rarserver.net:8078/catolicapr",
+         "http": "http://stream.rarserver.net:8078/catolicapr.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "Clamor 89.3 FM",
+         "logo": "Clamor",
+         "link": "http://www.surfmusic.de/m3u/radio-clamor-89-3-fm,18229.m3u",
+         "http": "",
+         "note": "Culebra (Local)"
+      },
+      {
+         "name": "Estereo Tempo 96.5 FM",
+         "logo": "Estereo",
+         "link": "http://www.surfmusic.de/m3u/estereo-tempo-96-5-fm,19565.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Familia 92.1 FM",
+         "logo": "Familia",
+         "link": "http://ice.eleden.com:8000/laestaciondelafamiliapr.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Fidelity 95.7 FM",
+         "logo": "Fidelity",
+         "link": "http://server7.servistreaming.com:10036/stream.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "FM 96",
+         "logo": "96",
+         "link": "http://www.surfmusic.de/m3u/radio-fm-96,19564.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "FOX Sports",
+         "logo": "Sports",
+         "link": "http://stream.revma.ihrhls.com/zc4732.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Fresh 99.9 FM",
+         "logo": "Fresh",
+         "link": "http://204.12.193.98:8173/listen.pls",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "Hot 102",
+         "logo": "102",
+         "link": "http://server7.servistreaming.com:10024/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "iHeart Latino Hits",
+         "logo": "iHeart",
+         "link": "http://stream.revma.ihrhls.com/zc7193.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Joe 106.1 FM",
+         "logo": "Joe",
+         "link": "http://s8.myradiostream.com:7808/listen.pls",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "K-LOVE",
+         "logo": "K-LOVE",
+         "link": "http://maestro.emfcdn.com/stream_for/k-love/web/mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Kodesh 89.3 FM",
+         "logo": "Kodesh",
+         "link": "http://stream.tuenlacecristiano.com:8006/stream.m3u.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "KQ 105",
+         "logo": "KQ",
+         "link": "http://live.wostreaming.net/direct/univision-wkaqfmmp3-ibc1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "La Nueva 94",
+         "logo": "Nueva",
+         "link": "http://www.surfmusic.de/m3u/la-nueva-94,17756.m3u",
+         "http": "http://live.wostreaming.net/direct/sbsystems-wodafmaac-ib-64",
+         "note": "Music"
+      },
+      {
+         "name": "La X 100.7 FM",
+         "logo": "X",
+         "link": "http://wow.eleden.com/lax/lax.stream/playlist.m3u8",
+         "http": "http://ice.eleden.com:8000/lax.ogg.m3u",
+         "note": "News, Top Music (Bayamon, Local)"
+      },
+      {
+         "name": "Magic 97.3 FM",
+         "logo": "Magic",
+         "link": "http://ice.eleden.com/magic.aac.m3u",
+         "http": "",
+         "note": "Oldies, Music"
+      },
+      {
+         "name": "MEGA 106.9 FM",
+         "logo": "MEGA",
+         "link": "http://live.wostreaming.net/direct/sbsystems-wmegfmaac-ib-64",
+         "http": "http://www.surfmusic.de/m3u/mega-106-9-fm,14779.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Noti Uno 630 AM",
+         "logo": "Noti",
+         "link": "http://68.235.35.243:9027/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/noti-uno-630-am,17576.m3u",
+         "note": "News, Talk (Rio Piedras, Local)"
+      },
+      {
+         "name": "Noticias 580 AM WKAQ",
+         "logo": "Noticias",
+         "link": "http://live.wostreaming.net/direct/univision-wkaqammp3-ibc1",
+         "http": "",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "Nueva Vida 97.7 FM",
+         "logo": "Vida",
+         "link": "http://radio.ministeriotv.com:8042/live.m3u",
+         "http": "http://www.surfmusic.de/m3u/nueva-vida-97-7-fm,13717.m3u",
+         "note": "Talk (Caguas, Local)"
+      },
+      {
+         "name": "Redentor 104 FM",
+         "logo": "Redentor",
+         "link": "http://www.surfmusic.de/m3u/redentor-104-fm,13720.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Renacer 106.1 FM",
+         "logo": "Renacer",
+         "link": "http://www.surfmusic.de/m3u/renacer-106-1-fm,13723.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sacra 91.7 FM",
+         "logo": "Sacra",
+         "link": "http://wow.eleden.com/rsacrab/rsacrab.stream/playlist.m3u8",
+         "http": "http://www.surfmusic.de/m3u/sacra-91-7-fm,19561.m3u",
+         "note": "Quebradillas (Local)"
+      },
+      {
+         "name": "Salsoul 99.1 FM",
+         "logo": "Salsoul",
+         "link": "http://68.235.35.243:8001/listen.pls?sid=1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Super K 106.5 FM",
+         "logo": "106",
+         "link": "http://69.175.122.202:8252/live.m3u",
+         "http": "http://centova2.whsh4u.com:9179/stream?type=http&nocache=1",
+         "note": "Top Music (Arecibo, Local)"
+      },
+      {
+         "name": "The Rock Radio Network",
+         "logo": "Rock",
+         "link": "http://tvportal.unored.com:4025/rock24k.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Triunfo FM 96.9",
+         "logo": "Triunfo",
+         "link": "http://www.surfmusic.de/m3u/triunfo-fm-96-9,18245.m3u",
+         "http": "",
+         "note": "Manati (Local)"
+      },
+      {
+         "name": "Universidad 89.7 FM",
+         "logo": "Universidad",
+         "link": "http://www.surfmusic.de/m3u/radio-universidad-89-7-fm,19558.m3u",
+         "http": "",
+         "note": "News, Talk, Top"
+      },
+      {
+         "name": "VID 90 90.3 FM",
+         "logo": "VID",
+         "link": "http://www.surfmusic.de/m3u/vid-90-90-3-fm,19559.m3u",
+         "http": "",
+         "note": "Anasco (Local)"
+      },
+      {
+         "name": "WAPA La Poderosa 680 AM",
+         "logo": "WAPA",
+         "link": "http://unoredradio.com:9658/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/wapa-radio-680-am,18232.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "WCRP Revelación 88.1 FM",
+         "logo": "WCRP",
+         "link": "http://tvportal.unored.com:4028/revelacion.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "WGIT Faro de Santidad",
+         "logo": "WGIT",
+         "link": "https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "WIAC 740 AM",
+         "logo": "WIAC",
+         "link": "http://166.88.21.98:9546/;",
+         "http": "http://166.88.21.98:9546/listen.pls",
+         "note": "News, Talk"
+      },
+      {
+         "name": "WIPR 940 AM",
+         "logo": "WIPR",
+         "link": "http://192.254.105.36:8080/broadwave.m3u?src=2&rate=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "WOLA Radio Procer",
+         "logo": "WOLA",
+         "link": "http://www.surfmusic.de/m3u/wola-radio-procer,18780.m3u",
+         "http": "",
+         "note": "Barranquitas (Local)"
+      },
+      {
+         "name": "WQBS Noticias 870 AM",
+         "logo": "870",
+         "link": "http://174.36.206.197:7092/listen.pls?sid=1",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "WRSO Acción 97.9",
+         "logo": "WRSO",
+         "link": "http://stream.revma.ihrhls.com/zc7959.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "WRXD Play 96 FM",
+         "logo": "WRXD",
+         "link": "http://live.wostreaming.net/direct/sbsystems-wrxdfmaac1-ib-64",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "WXEW Victoria 840 AM",
+         "logo": "Victoria",
+         "link": "http://server10.servistreaming.com:9039/listen.pls?sid=1",
+         "http": "",
+         "note": "News, Top"
+      },
+      {
+         "name": "Yunque 93",
+         "logo": "Yunque",
+         "link": "http://www.surfmusic.de/m3u/yunque-93,19562.m3u",
+         "http": "http://server7.servistreaming.com:10021/stream?type=.mp3",
+         "note": "Naguabo (Local)"
+      },
+      {
+         "name": "Zeta 93 FM",
+         "logo": "Zeta",
+         "link": "http://live.wostreaming.net/direct/sbsystems-wzntfmaac-ib-64",
+         "http": "http://www.surfmusic.de/m3u/zeta-93-fm,13718.m3u",
+         "note": "Music"
       }
    ]
 }

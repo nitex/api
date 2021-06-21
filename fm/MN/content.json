@@ -43,13 +43,83 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Арга Билиг FM 91.7",
+         "logo": "Arga",
+         "link": "http://96.31.83.94:8026/listen.pls",
+         "http": "http://s2.free-shoutcast.com:18438/;?type=http&nocache=1",
+         "note": ""
+      },
+      {
+         "name": "МҮОНР-1 FM 106",
+         "logo": "106",
+         "link": "http://www.surfmusic.de/m3u/1052-1198-1054-1053-1056-1-fm-106,18974.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "МҮОНР 2",
+         "logo": "2",
+         "link": "http://www.surfmusic.de/m3u/1052-1198-1054-1053-1056-2,18975.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Best FM 98.5",
+         "logo": "Best",
+         "link": "http://103.48.116.109:9000/listen.pls",
+         "http": "http://www.bestfm.mn/Best_FM_98.5.m3u",
+         "note": "News, Music"
+      },
+      {
+         "name": "Business FM 98.9",
+         "logo": "Business",
+         "link": "http://202.131.233.43:8443/live.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Family Radio 104.5 FM",
+         "logo": "Family",
+         "link": "http://www.surfmusic.de/m3u/family-radio-104-5-fm,18977.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Гэр бүлийн 104.5 FM",
+         "logo": "Gerbul",
+         "link": "http://c4.radioboss.fm/stream/87",
+         "http": "http://www.surfmusic.de/m3u/gerbul-radio-104-5-fm,20202.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "Metro Lounge FM 91.7",
+         "logo": "Metro",
+         "link": "http://202.70.34.57:8000/live.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "MGL 102.1 FM",
+         "logo": "MGL",
+         "link": "http://50.7.76.251:8080/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/mglradio-102-1-fm,18973.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "P3 FM 100.9",
+         "logo": "P3",
+         "link": "http://www.surfmusic.de/m3u/p3-fm-100-9,18976.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Star FM 98.5",
+         "logo": "StarFM",
+         "link": "http://153.127.247.79:30002/listen.mp3.m3u",
+         "http": "",
+         "note": ""
       }
    ]
 }

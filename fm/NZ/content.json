@@ -43,13 +43,629 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Active 89 FM",
+         "logo": "Active",
+         "link": "https://radio123-gecko.radioca.st/radioactivefm",
+         "http": "http://stream.radioactive.fm:8000/ractive.m3u",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "AM 936 新闻台",
+         "logo": "936",
+         "link": "http://radio.936.nz:8000/am936.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Apna 990 AM",
+         "logo": "Apna",
+         "link": "http://www.surfmusic.de/m3u/apna-990-am,10717.m3u",
+         "http": "",
+         "note": "Henderson (Local)"
+      },
+      {
+         "name": "Atiawa Toa FM",
+         "logo": "Atiawa",
+         "link": "http://apple.irirangi.net:8000/Q_Atiawa_Toa.aac.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "Base 107.7 FM",
+         "logo": "Base",
+         "link": "http://stream.basefm.co.nz:8000/BaseHi",
+         "http": "http://130.216.72.72:8000/BaseHi.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://wsdownload.bbc.co.uk/worldservice/meta/live/shoutcast/mp3/eieuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Beep FM",
+         "logo": "Beep",
+         "link": "http://50.7.76.254:9847/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "bFM 95",
+         "logo": "bFM",
+         "link": "http://streams.95bfm.com/stream32.m3u",
+         "http": "http://www.surfmusic.de/m3u/95-bfm-dsl,5271.m3u",
+         "note": "Music (Gold Coast, Local)"
+      },
+      {
+         "name": "Boosh FM 87.7",
+         "logo": "Boosh",
+         "link": "https://stream.boosh.fm:8443/boosh256mp3",
+         "http": "http://stream.boosh.fm:8000/boosh128mp3.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Breeze FM",
+         "logo": "Breeze",
+         "link": "http://www.surfmusic.de/m3u/the-breeze-fm,897.m3u",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Calvary",
+         "logo": "Calvary",
+         "link": "http://184.154.90.186:8225/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Chinese Voice",
+         "logo": "Chinese",
+         "link": "http://www.surfmusic.de/m3u/chinese-voice-radio-99-4-fm,18967.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "City",
+         "logo": "City",
+         "link": "http://54.251.110.128:8000/live.m3u",
+         "http": "http://54.251.110.128:8000/live",
+         "note": ""
+      },
+      {
+         "name": "Classic Gold 107.3 FM",
+         "logo": "Classic",
+         "link": "http://shoutcast.classicgold.co.nz/listen.pls?sid=1",
+         "http": "http://203.118.144.79:8002/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "Coast FM",
+         "logo": "Coast",
+         "link": "http://streaming.radiomyway.co.nz/coast2.pls",
+         "http": "http://www.surfmusic.de/m3u/coast-fm,8647.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Compass 104.9 FM",
+         "logo": "Compass",
+         "link": "http://69.56.173.49:8000/Compass_FM_104.9.m3u",
+         "http": "",
+         "note": "Christchurch (Local)"
+      },
+      {
+         "name": "Country Radio Dunedin",
+         "logo": "Country",
+         "link": "http://countryradio.ddns.net:8010/countryradiodunedin",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Dave 107.4 FM",
+         "logo": "Dave",
+         "link": "http://s1.myradiostream.com:12508/listen.pls",
+         "http": "",
+         "note": "Christchurch (Local)"
+      },
+      {
+         "name": "Dunedin 1305 AM, 95.4/106.7 FM",
+         "logo": "Dunedin",
+         "link": "http://icecast.mediaworks.co.nz:8000/Dunedin_96kbps.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-dunedin,16784.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "East FM",
+         "logo": "East",
+         "link": "http://listen.eastfm.nz/stream.mp3.m3u",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Edge 94.2",
+         "logo": "Edg",
+         "link": "http://www.surfmusic.de/m3u/the-edge-94-2,12103.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Eketahuna 106.5 FM",
+         "logo": "Eketahuna",
+         "link": "http://www.surfmusic.de/m3u/radio-eketahuna-106-5-fm,19678.m3u",
+         "http": "",
+         "note": "Tararua District (Local)"
+      },
+      {
+         "name": "Ferrymead 1413 AM",
+         "logo": "Ferrymead",
+         "link": "http://s2.stationplaylist.com:9440/listen.aac.m3u",
+         "http": "",
+         "note": "Christchurch (Local)"
+      },
+      {
+         "name": "FLAVA",
+         "logo": "FLAVA",
+         "link": "http://ais-nzme.streamguys1.com/nz_010/playlist.m3u8",
+         "http": "http://www.surfmusic.de/m3u/flava-hip-hop-rnb,17088.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "FM 90.6 中文广播电台",
+         "logo": "NZCM",
+         "link": "http://43.225.201.180:8000/NZCM.ogg.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "FM 104.2 中文電台",
+         "logo": "104",
+         "link": "http://radio.936.nz:8000/fm1042.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Free 89.0 FM / 1206 AM",
+         "logo": "Free",
+         "link": "http://live.wizz.co.nz/freefm89.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "George 96.8 FM",
+         "logo": "George",
+         "link": "http://www.surfmusic.de/m3u/george-96-8-fm,7776.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Gold",
+         "logo": "Gold",
+         "link": "http://ais-nzme.streamguys1.com/nz_015_aac",
+         "http": "http://ais-nzme.streamguys1.com/nz_016_aac",
+         "note": ""
+      },
+      {
+         "name": "Groove FM 107.7",
+         "logo": "Groove",
+         "link": "http://live.outcastdigital.com:8000/groove.m3u",
+         "http": "http://live.outcastdigital.com:8000/groove",
+         "note": "Music"
+      },
+      {
+         "name": "Hauraki 99.0 FM",
+         "logo": "Hauraki",
+         "link": "http://streaming.radiomyway.co.nz/hkalt.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-hauraki-99-0-fm,18968.m3u",
+         "note": ""
+      },
+      {
+         "name": "Heads 106.4 FM",
+         "logo": "Heads",
+         "link": "http://www.surfmusic.de/m3u/heads-106-4-fm,18969.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Humm FM 106.2",
+         "logo": "Humm",
+         "link": "https://cp12.serverse.com/proxy/hummfm?mp=/live",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Just 107.7 FM",
+         "logo": "Just",
+         "link": "http://stream.justfm.co.nz:88/broadwave.mp3.m3u",
+         "http": "",
+         "note": "Christchurch (Local)"
+      },
+      {
+         "name": "KCFM",
+         "logo": "KCFM",
+         "link": "http://37.187.90.121:4134/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "KIX FM",
+         "logo": "KIX",
+         "link": "http://209.95.43.30:8308/stream.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Life FM",
+         "logo": "Life",
+         "link": "http://s7.viastreaming.net:8435/listen.pls",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "LOVE FM 99.4 交通音乐广播",
+         "logo": "LOV",
+         "link": "http://radio.936.nz:8000/fm994.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MAD FM",
+         "logo": "MAD",
+         "link": "http://hyades.shoutca.st:8799/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mai FM 88.6",
+         "logo": "Mai",
+         "link": "http://www.surfmusic.de/m3u/mai-fm-88-6,17086.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Maniapoto FM",
+         "logo": "Maniapoto",
+         "link": "http://apple.irirangi.net:8000/R_Maniapoto.aac.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "Maranui FM 106.7",
+         "logo": "Maranui",
+         "link": "http://pebbles.wizzhosting.co.nz/maranuifm.m3u",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Mix FM 87.9",
+         "logo": "Mix",
+         "link": "https://stream.mixfm.nz/",
+         "http": "http://www.mixfm.nz/listen.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Mountainside 88.3 FM",
+         "logo": "Mountainside",
+         "link": "http://stream.nrgkits.co.nz:5000/mountainside",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Newstalk ZB 89.4 FM",
+         "logo": "ZB",
+         "link": "http://streaming.radiomyway.co.nz/zbwnalt.pls",
+         "http": "http://www.surfmusic.de/m3u/newstalk-zb-89-4-fm,18990.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Niu FM 103.8",
+         "logo": "Niu",
+         "link": "http://www.surfmusic.de/m3u/niu-fm-103-8,17087.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "One 91.0 FM",
+         "logo": "One",
+         "link": "http://stream.r1.co.nz:8090/r1-high.mp3.m3u",
+         "http": "",
+         "note": "News (Dunedin, Local)"
+      },
+      {
+         "name": "Otago Access 105.4 FM / 1575 AM",
+         "logo": "Otago",
+         "link": "http://pebbles.wizzhosting.co.nz/tr.m3u",
+         "http": "",
+         "note": "Dunedin (Local)"
+      },
+      {
+         "name": "Plains FM",
+         "logo": "Plains",
+         "link": "http://live.wizz.co.nz/pfm.m3u",
+         "http": "",
+         "note": "Music (Christchurch, Local)"
+      },
+      {
+         "name": "Planet FM 104.6",
+         "logo": "Planet",
+         "link": "http://67.212.165.106:8011/listen.pls",
+         "http": "",
+         "note": "Talk, Oldies, Music"
+      },
+      {
+         "name": "Pulse",
+         "logo": "Pulse",
+         "link": "http://www.surfmusic.de/m3u/the-pulse-radio,18970.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Pulzar 105.7 FM",
+         "logo": "Pulzar",
+         "link": "http://198.105.216.204:8088/pulzarfm.m3u",
+         "http": "",
+         "note": "Music (Christchurch, Local)"
+      },
+      {
+         "name": "Raukawa FM",
+         "logo": "Raukawa",
+         "link": "http://apple.irirangi.net:8000/W_Raukava.aac.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "RDU 98.5 FM",
+         "logo": "RDU",
+         "link": "http://live.outcastdigital.com:8000/rdu.m3u",
+         "http": "",
+         "note": "Music (Christchurch, Local)"
+      },
+      {
+         "name": "Redwood 107.5 FM",
+         "logo": "Redwood",
+         "link": "http://203.94.43.88:8020/listen.pls",
+         "http": "http://123.255.61.226:8020/listen.pls?sid=1",
+         "note": "Music (Christchurch, Local)"
+      },
+      {
+         "name": "Rhema",
+         "logo": "Rhema",
+         "link": "https://rhema-radio.streamguys1.com/rhema.mp3",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "RNZ Concert",
+         "logo": "Concert",
+         "link": "http://radionz-ice.streamguys.com/concert.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/concert-fm,7490.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "RNZ International ",
+         "logo": "International",
+         "link": "http://www.surfmusic.de/m3u/neuseeland-int,896.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "RNZ National",
+         "logo": "National",
+         "link": "http://radionz-ice.streamguys.com/national.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/national-radio,7491.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Rock It 107.5 FM",
+         "logo": "Rock",
+         "link": "http://108.163.223.242:8368/stream.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Rush FM",
+         "logo": "Rush",
+         "link": "http://rushbroadcasting.serverroom.us:5204/;",
+         "http": "http://rushbroadcasting.serverroom.us:5204/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "Salient FM 88.3",
+         "logo": "Salient",
+         "link": "http://s2.stationplaylist.com:8190/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Samoa 1593 AM",
+         "logo": "Samoa",
+         "link": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sea 90.9 FM",
+         "logo": "Sea",
+         "link": "http://www.surfmusic.de/m3u/90-9-sea-fm,9763.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sleep",
+         "logo": "Sleep",
+         "link": "http://www.surfmusic.de/m3u/sleep-radio,19414.m3u",
+         "http": "",
+         "note": "Music (Te Aroha, Local)"
+      },
+      {
+         "name": "Sport - 1332 AM",
+         "logo": "1332",
+         "link": "http://www.surfmusic.de/m3u/radio-sport-1332-am,18966.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Star Radio Network",
+         "logo": "Network",
+         "link": "https://rhema-radio.streamguys1.com/rhema-star.mp3",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "Static 88.1 FM",
+         "logo": "Static",
+         "link": "http://artsweb.aut.ac.nz:8000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Summit 96.1 FM",
+         "logo": "Summit",
+         "link": "http://nzbsbroadcast.cpit.ac.nz:8000/listen.pls",
+         "http": "",
+         "note": "Christchurch (Local)"
+      },
+      {
+         "name": "Tahu 99.6 FM",
+         "logo": "Tahu",
+         "link": "http://apple.irirangi.net:8000/P_Tahu.aac.m3u",
+         "http": "",
+         "note": "Talk, Music (Christchurch, Local)"
+      },
+      {
+         "name": "Tainui 95.4 FM",
+         "logo": "Tainui",
+         "link": "http://apple.irirangi.net:8000/F_Tainui.aac.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "Tama-Ohi",
+         "logo": "Tama-Ohi",
+         "link": "http://173.236.19.90:8174/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Tarana 1386 AM",
+         "logo": "Tarana",
+         "link": "http://peridot.streamguys.com:7150/Tarana.aac.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Te Upoko o te Ika",
+         "logo": "Upoko",
+         "link": "http://apple.irirangi.net:8000/A_Te_Upoko_O_Te_Ika.aac.m3u",
+         "http": "",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "The Cheese 87.9 FM",
+         "logo": "Cheese",
+         "link": "http://thecheese.ddns.net:8000/listen.pls",
+         "http": "http://thecheese.ddns.net:8000/listen.pls?sid=1",
+         "note": "Music"
+      },
+      {
+         "name": "The Flea 88.2 FM",
+         "logo": "Flea",
+         "link": "http://49.50.246.42:8020/listen.pls",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "The Hits",
+         "logo": "Hits",
+         "link": "http://ais-nzme.streamguys1.com/nz_007/playlist.m3u8",
+         "http": "http://ais-nzme.streamguys1.com/nz_005/playlist.m3u8",
+         "note": "Music"
+      },
+      {
+         "name": "The Hum 106.7 FM",
+         "logo": "Hum",
+         "link": "https://s42.myradiostream.com/31802/listen.mp3",
+         "http": "http://s42.myradiostream.com:31802/listen.pls?sid=1",
+         "note": ""
+      },
+      {
+         "name": "The Plug 106.9 FM",
+         "logo": "Plug",
+         "link": "http://s6.voscast.com:8768/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "The Studio",
+         "logo": "Studio",
+         "link": "http://s40.myradiostream.com:13922/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Total FM",
+         "logo": "Total",
+         "link": "http://219.89.83.33:8000/stream.m3u",
+         "http": "",
+         "note": "Music (Dunedin, Local)"
+      },
+      {
+         "name": "Virsa NZ 107.0 FM",
+         "logo": "Virsa",
+         "link": "http://s8.voscast.com:7992/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Waatea 603 AM",
+         "logo": "Waatea",
+         "link": "http://apple.irirangi.net:8000/I_Waatea.aac.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Waves of the Pacific",
+         "logo": "Pacific",
+         "link": "http://ice1.outcastdigital.com:8000/radiomapa",
+         "http": "http://ice1.outcastdigital.com:8000/radiomapa.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Wellington Access Radio 783 AM",
+         "logo": "Wellington",
+         "link": "http://live.wizz.co.nz/war.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "West FM",
+         "logo": "West",
+         "link": "http://dledgar.dyndns.org:8000/westfm.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "World FM 88.2",
+         "logo": "World",
+         "link": "http://usa.worldfm.co.nz:8882/worldfm.mp3.m3u",
+         "http": "",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "XS80s 107.3 FM",
+         "logo": "XS80s",
+         "link": "http://s1.myradiostream.com:12508/listen.pls",
+         "http": "",
+         "note": "Music (Christchurch, Local)"
+      },
+      {
+         "name": "ZM",
+         "logo": "ZM",
+         "link": "http://streaming.radiomyway.co.nz/zmalt.pls",
+         "http": "",
+         "note": "Top Music"
       }
    ]
 }

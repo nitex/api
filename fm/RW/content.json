@@ -43,13 +43,146 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "1 FM 91.1",
+         "logo": "1",
+         "link": "http://80.241.215.175:5000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "10 FM 87.6",
+         "logo": "10",
+         "link": "http://radio10-876fm.ice.infomaniak.ch/radio10-kigali.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "City Radio 88.3 FM",
+         "logo": "City",
+         "link": "http://eu7.fastcast4u.com:5248/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Flash FM 89.2",
+         "logo": "Flash",
+         "link": "http://66.55.145.43:7410/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Isango Star FM 91.5",
+         "logo": "Isango",
+         "link": "http://80.241.215.175:8000/listen.pls",
+         "http": "http://80.241.215.175:8000/;stream.mp3",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Kiss FM 102.3",
+         "logo": "Kiss",
+         "link": "http://178.obj.netromedia.com:8000/kissfm.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "KT 96.7 FM",
+         "logo": "KT",
+         "link": "http://197.243.1.130:8006/k2dlivemp3.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Maria",
+         "logo": "Maria",
+         "link": "http://dreamsiteradiocp2.com:8098/listen.pls",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "RBA Magic FM 90.7",
+         "logo": "RBA",
+         "link": "http://197.243.48.252:8080/listen.pls",
+         "http": "http://listen.rba.co.rw:8080/;",
+         "note": "News, Music"
+      },
+      {
+         "name": "RBA Rwanda",
+         "logo": "RB",
+         "link": "http://197.243.48.252:8000/listen.pls",
+         "http": "http://listen.rba.co.rw:8000/;",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RBA Inteko 101.5 FM",
+         "logo": "Inteko",
+         "link": "http://197.243.48.252:7000/listen.pls",
+         "http": "http://radios.rba.co.rw:7000/;",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "RBA Musanzen 98.4 FM",
+         "logo": "Musanzen",
+         "link": "http://listen.rba.co.rw:5000/;",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RBA Rusizi 96.5 FM",
+         "logo": "Rusizi",
+         "link": "http://listen.rba.co.rw:9000/;",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RBA Huye 100.4 FM",
+         "logo": "Huye",
+         "link": "http://listen.rba.co.rw:5050/;",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RBA Nyagatare 95.5 FM",
+         "logo": "Nyagatare",
+         "link": "http://listen.rba.co.rw:3050/rcnyagatare",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Salus",
+         "logo": "Salus",
+         "link": "http://salus.nur.ac.rw:8006/saluslive.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Umucyo FM 102.8",
+         "logo": "Umucyo",
+         "link": "http://80.241.215.175:4000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "VOA Africa",
+         "logo": "VOA",
+         "link": "https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RFI Afrique",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+         "http": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

@@ -43,13 +43,90 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Al Wisal 96.5 FM الوصال",
+         "logo": "Wisal",
+         "link": "http://uk7.internet-radio.com:8067/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/al-wisal-96-5-fm,18913.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Hala FM هلا اف ام",
+         "logo": "Hala",
+         "link": "http://s8.viastreaming.net:7850/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/hala-fm,17196.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Hi FM 95.5 FM",
+         "logo": "Hi",
+         "link": "http://s8.viastreaming.net:8965/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/hi-fm-95-5-fm,18910.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Merge 104.8 FM",
+         "logo": "Merge",
+         "link": "http://uk7.internet-radio.com:8040/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/merge-104-8-fm,18914.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Oman FM",
+         "logo": "Oma",
+         "link": "http://www.surfmusic.de/m3u/oman-fm,838.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Oman Quran 93.20 FM",
+         "logo": "Quran",
+         "link": "http://www.surfmusic.de/m3u/oman-quran-93-20-fm,20513.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Oman English 90.4 FM",
+         "logo": "English",
+         "link": "http://www.surfmusic.de/m3u/oman-r-english-90-4-fm,18911.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Oman Radio - Arabic 94.4 FM",
+         "logo": "Arabic",
+         "link": "http://www.surfmusic.de/m3u/oman-r-english-90-4-fm,18911.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Virgin 100.9 FM",
+         "logo": "Virgin",
+         "link": "http://uk5.internet-radio.com:8115/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "BBC World Arabic",
+         "logo": "BBC",
+         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "راديو سوا الخليج",
+         "logo": "Sawa",
+         "link": "http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Sky News Arabia",
+         "logo": "Sky",
+         "link": "http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

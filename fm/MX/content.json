@@ -43,13 +43,902 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Alpha 91.3",
+         "logo": "Alpha",
+         "link": "http://www.surfmusic.de/m3u/alpha-91-3,179.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ángel Guardián 106.1",
+         "logo": "Angel",
+         "link": "http://www.surfmusic.de/m3u/ngel-guardian-106-1,18874.m3u",
+         "http": "http://www.surfmusic.de/m3u/xerl-98-9-fm,12790.m3u",
+         "note": "Colima (Local)"
+      },
+      {
+         "name": "Beat 100.9 FM",
+         "logo": "Beat",
+         "link": "http://www.surfmusic.de/m3u/beat-100-9-fm,4416.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Beat 90.1 FM",
+         "logo": "Bea",
+         "link": "http://www.surfmusic.de/m3u/beat-90-1-fm,18040.m3u",
+         "http": "",
+         "note": "Monterrey (Local)"
+      },
+      {
+         "name": "XHECM 91.1 FM BONITA",
+         "logo": "XHECM",
+         "link": "http://www.surfmusic.de/m3u/bonita-91-1-fm,17444.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "Centro 97.7 FM",
+         "logo": "Centro",
+         "link": "http://www.surfmusic.de/m3u/centro-97-7-fm,718.m3u",
+         "http": "",
+         "note": "Ciudad de México (Local)"
+      },
+      {
+         "name": "Centro 1030",
+         "logo": "1030",
+         "link": "http://www.surfmusic.de/m3u/raddio-centro-103-0,190.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "D99 FM",
+         "logo": "D99",
+         "link": "http://www.surfmusic.de/m3u/d99-fm,17291.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "DiHiTall 107.1 FM",
+         "logo": "DiHiTall",
+         "link": "http://www.surfmusic.de/m3u/dihitall-107-1-fm,17441.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "El Lobo 106.1 FM",
+         "logo": "LOBO",
+         "link": "http://www.surfmusic.de/m3u/radio-el-lobo-106-1-fm,193.m3u",
+         "http": "http://streamingcwsradio20.com:9386/;",
+         "note": "Chihuahua (Local)"
+      },
+      {
+         "name": "EXA 91.1 FM",
+         "logo": "EX",
+         "link": "http://www.surfmusic.de/m3u/ponte-exa-91-1-fm,17446.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "EXA 104.9 FM",
+         "logo": "EXA",
+         "link": "http://www.surfmusic.de/m3u/exa-fm-104-9,15906.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "EXA 107.1 FM XHBJ",
+         "logo": "XHBJ",
+         "link": "http://www.surfmusic.de/m3u/exa-fm-107-1-fm-xhbj,20248.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "Fiesta Mexicana 102.3 FM",
+         "logo": "Fiest",
+         "link": "http://www.surfmusic.de/m3u/fiesta-mexicana-102-3-fm,17519.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Formato 21 790 AM",
+         "logo": "Formato",
+         "link": "http://www.surfmusic.de/m3u/formato-21-790-am,180.m3u",
+         "http": "http://www.surfmusic.de/m3u/formato-21,183.m3u",
+         "note": ""
+      },
+      {
+         "name": "Fusion 102.5 FM",
+         "logo": "Fusion",
+         "link": "http://www.surfmusic.de/m3u/fusion-102-5-fm,15900.m3u",
+         "http": "",
+         "note": "Tijuana (Local)"
+      },
+      {
+         "name": "Fusión 90.1 FM",
+         "logo": "Fusi",
+         "link": "http://www.surfmusic.de/m3u/fusion-90-1-fm,17947.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Jazz Digital 94.5 FM",
+         "logo": "Digital",
+         "link": "http://www.surfmusic.de/m3u/jazz-digital-94-5-fm,19503.m3u",
+         "http": "",
+         "note": "Music (Tijuana, Local)"
+      },
+      {
+         "name": "Joya 93.7",
+         "logo": "Joya",
+         "link": "http://www.surfmusic.de/m3u/joya-93-7,185.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ke Buena 99.1 FM",
+         "logo": "Ke",
+         "link": "http://www.surfmusic.de/m3u/ke-buena-99-1-fm,186.m3u",
+         "http": "http://192.99.44.11:9893/;",
+         "note": "Misantla (Local)"
+      },
+      {
+         "name": "Ke Buena 940 AM",
+         "logo": "940",
+         "link": "http://www.surfmusic.de/m3u/xeq-radio,17151.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "La 69",
+         "logo": "69",
+         "link": "http://www.surfmusic.de/m3u/la-69,187.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "XHVIR La Cotorra FM 101.7",
+         "logo": "Cotorra",
+         "link": "http://www.surfmusic.de/m3u/la-cotorra-fm-101-7,15904.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "La Escandaloza FM",
+         "logo": "Escandaloza",
+         "link": "http://www.surfmusic.de/m3u/la-escandaloza-fm,20290.m3u",
+         "http": "http://162.210.196.140:16150/;",
+         "note": ""
+      },
+      {
+         "name": "La Fiera 94.1 FM",
+         "logo": "La",
+         "link": "http://www.surfmusic.de/m3u/la-fiera-94-1-fm,16984.m3u",
+         "http": "",
+         "note": "Veracruz (Local)"
+      },
+      {
+         "name": "XHEMY LA JEFA 98.7 FM",
+         "logo": "JEFA",
+         "link": "http://www.surfmusic.de/m3u/la-jefa-98-7-fm,17445.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "La Mas Prendida XHHP 97.5 FM",
+         "logo": "Prendida",
+         "link": "http://www.surfmusic.de/m3u/la-mas-prendida-xhhp-97-5-fm,20247.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "La Mejor FM 100.1",
+         "logo": "Mejo",
+         "link": "http://www.surfmusic.de/m3u/la-mejor-fm-100-1,15909.m3u",
+         "http": "",
+         "note": "Acapulco (Local)"
+      },
+      {
+         "name": "La Mejor FM 95.5",
+         "logo": "Mej",
+         "link": "http://www.surfmusic.de/m3u/la-mejor-fm-95-5,15908.m3u",
+         "http": "",
+         "note": "Guadalajara (Local)"
+      },
+      {
+         "name": "La Mejor FM 103.7",
+         "logo": "Mejor",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&t=.m3u",
+         "note": "Durango (Local)"
+      },
+      {
+         "name": "La Nueva 710",
+         "logo": "710",
+         "link": "http://www.surfmusic.de/m3u/la-nueva-710,188.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "XHXO 95.7 FM - LA SUPER BUENA",
+         "logo": "XHXO",
+         "link": "http://www.surfmusic.de/m3u/la-superbuena-95-7-fm,17443.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "La V de Victoria 104.1 XHRPV",
+         "logo": "Victoria",
+         "link": "http://www.surfmusic.de/m3u/la-v-de-victoria-104-1-fm,17442.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "La Z 107.3",
+         "logo": "Z",
+         "link": "http://www.surfmusic.de/m3u/la-z-107-3,189.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Latido 90.1 FM",
+         "logo": "Latido",
+         "link": "http://www.surfmusic.de/m3u/latido-90-1-fm,16983.m3u",
+         "http": "",
+         "note": "Veracruz (Local)"
+      },
+      {
+         "name": "Magia 100.7 FM",
+         "logo": "Magia",
+         "link": "http://www.surfmusic.de/m3u/magia-100-7-fm,16390.m3u",
+         "http": "",
+         "note": "Ciudad Juarez (Local)"
+      },
+      {
+         "name": "MASS W 1380 AM",
+         "logo": "1380",
+         "link": "http://www.surfmusic.de/m3u/mass-w-1380-am,15905.m3u",
+         "http": "",
+         "note": "Ciudad Victoria (Local)"
+      },
+      {
+         "name": "MVS Noticias 102.5",
+         "logo": "MVS",
+         "link": "http://www.surfmusic.de/m3u/noticias-mvs-102-5,15907.m3u",
+         "http": "http://www.surfmusic.de/m3u/mvs-radio,15867.m3u",
+         "note": ""
+      },
+      {
+         "name": "Opus 94 XHIMER 94.5 FM",
+         "logo": "94",
+         "link": "http://www.surfmusic.de/m3u/opus-94-xhimer-94-5-fm,19502.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Panda Pop",
+         "logo": "Panda",
+         "link": "http://www.surfmusic.de/m3u/panda-pop-radio,18533.m3u",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.158.92:9376/listen.pls?sid=1&t=.m3u",
+         "note": "Music (Vivero, Local)"
+      },
+      {
+         "name": "Panda Show",
+         "logo": "Show",
+         "link": "http://www.surfmusic.de/m3u/panda-show-radio,17421.m3u",
+         "http": "",
+         "note": "Music (Vivero, Local)"
+      },
+      {
+         "name": "Radio 97.7 FM",
+         "logo": "97",
+         "link": "http://www.surfmusic.de/m3u/radio-97-7-fm,191.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Ciudadana 660 AM",
+         "logo": "660",
+         "link": "http://www.surfmusic.de/m3u/radio-ciudadana-660-am,15902.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Disney 99.3 XHPOP-FM",
+         "logo": "Disney",
+         "link": "http://www.surfmusic.de/m3u/radio-disney-99-3-xhpop-fm,17032.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Formula 103.3 FM",
+         "logo": "Formula",
+         "link": "http://www.surfmusic.de/m3u/radio-formula-103-3-fm,19607.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Formula 104.1 FM",
+         "logo": "Formul",
+         "link": "http://www.surfmusic.de/m3u/radio-formula-104-1-fm,19608.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Lagarto 1560 AM",
+         "logo": "Lagarto",
+         "link": "http://www.surfmusic.de/m3u/radio-lagarto-1560-am,15903.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Mexico Internacional",
+         "logo": "Internacional",
+         "link": "http://www.surfmusic.de/m3u/radio-mexico-internacional,15899.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Mexiquense 91.7 FM",
+         "logo": "Mexiquense",
+         "link": "http://www.surfmusic.de/m3u/radio-mexiquense-91-7-fm,20056.m3u",
+         "http": "",
+         "note": "Metepec (Local)"
+      },
+      {
+         "name": "Radio Mujer 92.7 FM",
+         "logo": "Mujer",
+         "link": "http://www.surfmusic.de/m3u/radio-mujer,15901.m3u",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8000/listen.pls?sid=1&t=.m3u",
+         "note": "Talk (Jalisco, Local)"
+      },
+      {
+         "name": "Radio Squad",
+         "logo": "Squad",
+         "link": "http://www.surfmusic.de/m3u/radio-squad,20055.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Radio Universidad",
+         "logo": "Universidad",
+         "link": "http://www.surfmusic.de/m3u/radio-universidad,197.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Reactor 105.7 FM",
+         "logo": "Reactor",
+         "link": "http://www.surfmusic.de/m3u/reactor-105-7-fm,15897.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RED AM 1110",
+         "logo": "RED",
+         "link": "http://www.surfmusic.de/m3u/red-am-1110,199.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Reporte 98.5 FM",
+         "logo": "Reporte",
+         "link": "http://www.surfmusic.de/m3u/reporte-98-5-fm,19145.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Romance 105.9 FM",
+         "logo": "Romance",
+         "link": "http://www.surfmusic.de/m3u/romance-105-9,13792.m3u",
+         "http": "",
+         "note": "Ciudad Juarez (Local)"
+      },
+      {
+         "name": "Romance 95.7 FM",
+         "logo": "Romanc",
+         "link": "http://www.surfmusic.de/m3u/romance-95-7-fm,16391.m3u",
+         "http": "",
+         "note": "Chihuahua (Local)"
+      },
+      {
+         "name": "Romance 99.5 FM",
+         "logo": "Roman",
+         "link": "http://www.surfmusic.de/m3u/romance-99-5-fm,16392.m3u",
+         "http": "",
+         "note": "Guadalajara (Local)"
+      },
+      {
+         "name": "Salsa Mexico",
+         "logo": "Salsa",
+         "link": "http://www.surfmusic.de/m3u/salsa-mexico,17080.m3u",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.18.107:8106/listen.pls?sid=1&t=.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Universal Stereo 92.1 FM",
+         "logo": "Universal",
+         "link": "http://www.surfmusic.de/m3u/universal-stereo-92-1-fm,10796.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "W Radio 106.1 FM",
+         "logo": "W",
+         "link": "http://www.surfmusic.de/m3u/w-radio-106-1-fm,6749.m3u",
+         "http": "http://www.surfmusic.de/m3u/xew-wradio,9597.m3u",
+         "note": "Sport"
+      },
+      {
+         "name": "XEAVR Radio Fórmula Nacional",
+         "logo": "XEAVR",
+         "link": "http://www.surfmusic.de/m3u/xeavr-radio-formula-nacional,9595.m3u",
+         "http": "",
+         "note": "Veracruz (Local)"
+      },
+      {
+         "name": "XEB 1220 AM La B Grande",
+         "logo": "XEB",
+         "link": "http://www.surfmusic.de/m3u/xeb-1220-am-mexico-city,15898.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "XEDA Imagen 90.5 FM",
+         "logo": "Imagen",
+         "link": "http://www.surfmusic.de/m3u/radio-imagen-90-5-fm,194.m3u",
+         "http": "http://www.surfmusic.de/m3u/xeda-imagen-90-5-fm,17739.m3u",
+         "note": ""
+      },
+      {
+         "name": "XEDF 104.1 FM Radio Formula",
+         "logo": "XEDF",
+         "link": "http://www.surfmusic.de/m3u/xedf-104-1-fm-radio-formula-segunda-cadena-nacional,17740.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "XEEM La Mexicana 880 AM",
+         "logo": "XEEM",
+         "link": "http://www.surfmusic.de/m3u/xeem-la-mexicana-880-am,18452.m3u",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6011/listen.pls?sid=1&t=.m3u",
+         "note": "Rio Verde (Local)"
+      },
+      {
+         "name": "XELL Latido 1430 AM",
+         "logo": "XELL",
+         "link": "http://www.surfmusic.de/m3u/xell-latido-1430-am,9594.m3u",
+         "http": "",
+         "note": "Veracruz (Local)"
+      },
+      {
+         "name": "XENK Radio 620 AM",
+         "logo": "620",
+         "link": "http://www.surfmusic.de/m3u/xenk-radio-620-am,17738.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "XEQK Tropicalísima 1350",
+         "logo": "XEQK",
+         "link": "http://www.surfmusic.de/m3u/xeqk-tropicalisima-1350,19504.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "XEUN Radio UNAM 96.1 FM",
+         "logo": "UNAM",
+         "link": "http://www.surfmusic.de/m3u/xeun-radio-unam-96-1-fm,17737.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "XHUAQ Radio UAQ 89.5 FM",
+         "logo": "UAQ",
+         "link": "http://www.surfmusic.de/m3u/xhuaq-radio-uaq-89-5-fm,17736.m3u",
+         "http": "http://148.220.8.7:8080/stream",
+         "note": "Queretaro (Local)"
+      },
+      {
+         "name": "XHUIA Ibero 90.9 FM",
+         "logo": "Ibero",
+         "link": "http://www.surfmusic.de/m3u/xhuia-ibero-90-9-fm,17735.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "XHYUC Yucatán FM 92.2",
+         "logo": "XHYUC",
+         "link": "http://www.surfmusic.de/m3u/xhyuc-yucatan-fm-92-2,19505.m3u",
+         "http": "",
+         "note": "Yucatan (Local)"
+      },
+      {
+         "name": "Milenio Bella Musica 105.1 FM",
+         "logo": "Milenio",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&t=.m3u",
+         "note": "Guadalajara (Local)"
+      },
+      {
+         "name": "Radio Mexico Para Cristo",
+         "logo": "Para",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.114:8550/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.77.114:8550/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Fiesta Mexicana",
+         "logo": "Fiesta",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8004/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8004/listen.pls?sid=1&t=.m3u",
+         "note": "Guadalajara (Local)"
+      },
+      {
+         "name": "ZONA 3",
+         "logo": "3",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8006/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8006/listen.pls&t=.m3u",
+         "note": "Talk (Jalisco, Local)"
+      },
+      {
+         "name": "Radio Catolica El Sembrador",
+         "logo": "Catolica",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.m3u",
+         "note": "Talk (Jalisco, Local)"
+      },
+      {
+         "name": "Tu Musica FM",
+         "logo": "Tu",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.254.193.215:8007/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.254.193.215:8007/listen.pls?sid=1&t=.m3u",
+         "note": "Tijuana (Local)"
+      },
+      {
+         "name": "Que Viva Mexico",
+         "logo": "Que",
+         "link": "https://quevivamexico.com/listen.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://188.40.135.197:8317/stream.m3u&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio de Mexico",
+         "logo": "de",
+         "link": "https://trappist.shoutca.st/tunein/radiodemexico.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8029/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Fiesta Mexicana 94.5 FM",
+         "logo": "Mexicana",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8122/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8122/listen.pls&t=.m3u",
+         "note": "Chihuahua (Local)"
+      },
+      {
+         "name": "Casa de Oracion",
+         "logo": "Casa",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8032/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.164.210:8032/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "WE Salamanca 1560",
+         "logo": "1560",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.187.112.50:8250/listen.pls?sid=1&t=.pls",
+         "http": "http://192.187.112.50:8250/;stream.mp3",
+         "note": "Irapuato (Local)"
+      },
+      {
+         "name": "La Grupera",
+         "logo": "Grupera",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.158.214:11940/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.158.214:11940/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Neta 102.5 FM",
+         "logo": "Neta",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.70.19:8040/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://72.29.70.19:8040/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Iniciador",
+         "logo": "Iniciador",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.154.69:10062/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.135.154.69:10062/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Buena 105.1 FM",
+         "logo": "Buena",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://75.147.133.197:8000/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://75.147.133.197:8000/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Raza 106.1 FM",
+         "logo": "Raza",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.178.53.106:5100/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.178.53.106:5100/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Pura Banda",
+         "logo": "Pura",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.4.216.91:8080/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://142.4.216.91:8080/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "ESNE (El Sembrador)",
+         "logo": "ESNE",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.m3u",
+         "note": "Talk (Jalisco, Local)"
+      },
+      {
+         "name": "La Ley 1170 AM",
+         "logo": "Ley",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.5:12178/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.5:12178/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Super Chivas - El Toque",
+         "logo": "Toque",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://76.164.217.100:7632/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://76.164.217.100:7632/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Euro Music",
+         "logo": "Euro",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.32.62.163:8415/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.32.62.163:8415/listen.pls?sid=1&t=.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Radio Banda",
+         "logo": "Banda",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8439/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8439/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Mass Frontera 98.9 FM",
+         "logo": "Mass",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9890/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9890/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Azteca",
+         "logo": "Azteca",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8466/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8466/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio New Mexico Music",
+         "logo": "New",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.105.124.120:8580/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://46.105.124.120:8580/listen.pls?sid=1&t=.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Emisora De Salsa - SALSA INTERACTIVA",
+         "logo": "INTERACTIVA",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.157.81:8399/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.157.81:8399/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Arrolladora",
+         "logo": "Arrolladora",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.95.39.65:5419/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.95.39.65:5419/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Stereo Salvaje",
+         "logo": "Salvaje",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.254:4326/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.254:4326/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Mega KC",
+         "logo": "KC",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.2:9638/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.2:9638/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Norteño 104.1",
+         "logo": "Norteno",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:9419/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:9419/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Poderosa 96.1",
+         "logo": "Poderosa",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.66.225:9050/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.27.66.225:9050/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Picosa 91.9",
+         "logo": "Picosa",
+         "link": "http://192.187.112.50:8170/;stream.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Los 40 Irapuato 88.5",
+         "logo": "40",
+         "link": "http://www.surfmusic.de/m3u/los-40-principales-xex-101-7-fm,18109.m3u",
+         "http": "http://192.187.112.50:8174/;stream.mp3",
+         "note": ""
+      },
+      {
+         "name": "Stereo 95.1",
+         "logo": "Stereo",
+         "link": "http://192.187.112.50:8091/;stream.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "WE! 107.9",
+         "logo": "WE",
+         "link": "http://192.187.112.50:8305/;stream.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Salmantina 810 AM",
+         "logo": "Salmantina",
+         "link": "http://192.187.112.50:8398/;stream.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Éxitos 98.9",
+         "logo": "Exitos",
+         "link": "http://192.187.112.50:8359/;stream.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "La Peligrosa 99.1",
+         "logo": "Peligrosa",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9988/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.163.166.98:9988/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Max",
+         "logo": "Max",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:5721/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.140:5721/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "New Mexico Tejano",
+         "logo": "Tejano",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8921/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://167.114.64.181:8921/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "El Capi",
+         "logo": "Capi",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us3.internet-radio.com:8129/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://us3.internet-radio.com:8129/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Fiera",
+         "logo": "Fiera",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.8.192:3488/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.99.8.192:3488/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "CSW",
+         "logo": "CSW",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.227.220.171:8174/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.227.220.171:8174/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "RUNRUN",
+         "logo": "RUNRUN",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://185.193.112.155:18084/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://185.193.112.155:18084/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Tu Palabra Es Verdad",
+         "logo": "Palabra",
+         "link": "http://192.240.102.5:7015/listen.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.240.102.5:7015/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "XHLUV - Calentana LuviMex 96.5 FM",
+         "logo": "LuviMex",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.145:22190/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.210.196.145:22190/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "KMPG 1520 AM - La Bonita",
+         "logo": "KMPG",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7840/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://162.252.85.85:7840/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Furia Mexicana",
+         "logo": "Furia",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.236.19.90:8226/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://173.236.19.90:8226/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Antojitos Mexicanos",
+         "logo": "Antojitos",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8198/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.195.94:8198/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio Mexicana",
+         "logo": "Mexican",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6040/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://158.69.253.153:6040/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "IEDMexico",
+         "logo": "IEDMexico",
+         "link": "http://s27.myradiostream.com:7916/listen.pls",
+         "http": "http://s27.myradiostream.com:7916/listen.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radiovisión México",
+         "logo": "Radiovision",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9870/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9870/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "CRSO Tropilatino",
+         "logo": "CRSO",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7146/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://108.61.34.50:7146/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Mera Musiquera",
+         "logo": "Musiquera",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.8:9102/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.8:9102/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Mexicanísima 98.9 FM",
+         "logo": "Mexicanisima",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.39.89.17:6070/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://5.39.89.17:6070/listen.pls&t=.m3u",
+         "note": "Merida (Local)"
       }
    ]
 }

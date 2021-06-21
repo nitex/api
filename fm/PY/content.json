@@ -43,13 +43,440 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "1ro de Marzo 780 AM",
+         "logo": "Marzo",
+         "link": "http://aparato.desdeparaguay.net:19272/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/1ro-de-marzo-780-am,747.m3u",
+         "note": "News, Talk, Sport, Music"
+      },
+      {
+         "name": "1000 AM",
+         "logo": "1000",
+         "link": "http://72.29.70.22:8302/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Cardinal 730 AM",
+         "logo": "Cardinal",
+         "link": "http://sc.abc.com.py:8000/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/cardinal-730-am,749.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Amor 95.9 FM",
+         "logo": "Amor",
+         "link": "http://www.surfmusic.de/m3u/amor-95-9-fm,10064.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Aspen 102.7 FM",
+         "logo": "Aspen",
+         "link": "http://www.surfmusic.de/m3u/aspen-classics-102-7-fm,16951.m3u",
+         "http": "http://rds3.desdeparaguay.net/movaspen/movaspen.stream/playlist.m3u8",
+         "note": "Top"
+      },
+      {
+         "name": "Aurora FM 87.9 FM",
+         "logo": "Aurora",
+         "link": "http://www.surfmusic.de/m3u/aurora-fm-87-9-fm,14137.m3u",
+         "http": "",
+         "note": "Caazapa (Local)"
+      },
+      {
+         "name": "Azul y Oro 94.7 FM",
+         "logo": "Azul",
+         "link": "http://aliasdns.info/?pl=winamp&c=Radio%20Azul%20y%20Oro%2094.7%20MHz%20-%20Luque%20-%20Paraguay",
+         "http": "http://aliasdns.info:8068/listen.pls",
+         "note": "News, Sport (Luque, Local)"
+      },
+      {
+         "name": "Cámara 104.1 FM",
+         "logo": "Camara",
+         "link": "http://www.surfmusic.de/m3u/radio-camara-104-1-fm,16955.m3u",
+         "http": "http://67.159.60.37/movcamara/movcamara.stream/playlist.m3u8",
+         "note": ""
+      },
+      {
+         "name": "Canal 100 FM",
+         "logo": "100",
+         "link": "http://www.surfmusic.de/m3u/canal-100-fm,748.m3u",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "Caraguatay 90.3 FM",
+         "logo": "Caraguatay",
+         "link": "http://www.surfmusic.de/m3u/caraguatay-90-3-fm,16954.m3u",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "Cáritas 680 AM",
+         "logo": "Caritas",
+         "link": "http://200.1.201.244:8000/listen.pls",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "CFA 99.5 FM",
+         "logo": "CFA",
+         "link": "http://99.198.118.250:8008/stream.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Chaco Boreal 1330 AM",
+         "logo": "Chaco",
+         "link": "http://www.surfmusic.de/m3u/chaco-boreal-1330-am,10065.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Colmenar",
+         "logo": "Colmenar",
+         "link": "http://www.surfmusic.de/m3u/radio-colmenar,9588.m3u",
+         "http": "",
+         "note": "Caaguazu (Local)"
+      },
+      {
+         "name": "Contacto FM 104.3",
+         "logo": "Contacto",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.134.147.168:9574/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.134.147.168:9574/listen.pls?sid=1&t=.m3u",
+         "note": "Capiibary (Local)"
+      },
+      {
+         "name": "Corazón 99.1 FM",
+         "logo": "Corazon",
+         "link": "http://66.55.145.43:7076/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Dios es Amor",
+         "logo": "Dios",
+         "link": "http://192.64.118.215:9300/;",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Disney",
+         "logo": "Disney",
+         "link": "http://45.55.241.10:8101/listen.pls",
+         "http": "",
+         "note": "Youth, Music"
+      },
+      {
+         "name": "Ebenezer FM",
+         "logo": "Ebenezer",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.134.147.168:9588/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.134.147.168:9588/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "El Shaddai 101.5",
+         "logo": "Shaddai",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.134.147.168:9706/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.134.147.168:9706/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Emisoras Paraguay 106.1 FM",
+         "logo": "Emisoras",
+         "link": "http://www.surfmusic.de/m3u/emisoras-paraguay-106-1-fm,10062.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Estación 40 91.1 FM",
+         "logo": "40",
+         "link": "http://playerservices.streamtheworld.com/pls/ESTACION40.pls",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Evolución 89.3",
+         "logo": "Evolucion",
+         "link": "http://www.surfmusic.de/m3u/evolucion-89-3,16962.m3u",
+         "http": "http://www.surfmusic.de/m3u/evolucion-89-3-fm,10066.m3u",
+         "note": "Eusebio Ayala (Local)"
+      },
+      {
+         "name": "Farra 101.3 FM",
+         "logo": "Farra",
+         "link": "http://www.surfmusic.de/m3u/radio-farra-101-3-fm,16963.m3u",
+         "http": "",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Fernando de la Mora 92.7 FM",
+         "logo": "Fernando",
+         "link": "http://www.surfmusic.de/m3u/fernando-de-la-mora-92-7-fm,10063.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "FM Capital 101.7",
+         "logo": "Capital",
+         "link": "http://www.surfmusic.de/m3u/radio-fm-capital-101-7,16953.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "FM Concert 107.7",
+         "logo": "Concert",
+         "link": "http://107.182.231.73:7052/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-fm-concert-107-7,12556.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Fraternidad 93.5 FM",
+         "logo": "Fraternidad",
+         "link": "http://170.75.145.138:22526/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Itapúa 102.5 FM",
+         "logo": "Itapua",
+         "link": "http://www.surfmusic.de/m3u/itapua-102-5-fm,750.m3u",
+         "http": "http://aire.itacom.com.py:8000/itapuafm",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "La 970 AM",
+         "logo": "970",
+         "link": "http://184.107.195.130:3364/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/la-970-am,751.m3u",
+         "note": "Pop Music"
+      },
+      {
+         "name": "La Deportiva 1120 AM",
+         "logo": "Deportiva",
+         "link": "http://142.4.217.133:8750/listen.pls",
+         "http": "",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "La Unión R800 AM",
+         "logo": "R800",
+         "link": "http://83.170.105.153:9772/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Leyenda 93.5 FM",
+         "logo": "Leyenda",
+         "link": "http://78.129.163.75:8140/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Libertad 95.7 FM",
+         "logo": "Libertad",
+         "link": "http://www.surfmusic.de/m3u/libertad-95-7-fm,10058.m3u",
+         "http": "",
+         "note": "San Estanislao (Local)"
+      },
+      {
+         "name": "LOS40",
+         "logo": "LOS40",
+         "link": "http://playerservices.streamtheworld.com/pls/FM92_3.pls",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Maria",
+         "logo": "Maria",
+         "link": "https://dreamsiteradiocp2.com/proxy/rmparaguay2?mp=/stream",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "Mas FM",
+         "logo": "Mas",
+         "link": "http://www.surfmusic.de/m3u/radio-mas-fm,16959.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MIX 90.1 FM",
+         "logo": "MIX",
+         "link": "http://184.107.179.162:9958/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Montecarlo 100.9 FM",
+         "logo": "Montecarlo",
+         "link": "http://184.107.195.130:1968/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/montecarlo-100-9-fm,10068.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Monumental 1080 AM",
+         "logo": "Monumental",
+         "link": "http://playerservices.streamtheworld.com/pls/MONUMENTAL.pls",
+         "http": "",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "Musica Paraguaya",
+         "logo": "Musica",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9978/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9978/listen.pls?sid=1&t=.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Nacional del Paraguay 95.1 FM",
+         "logo": "Nacional",
+         "link": "http://audio.radionacional.gov.py:8084/951fm.m3u",
+         "http": "http://audio.radionacional.gov.py:8085/920.m3u",
+         "note": ""
+      },
+      {
+         "name": "Nanduti 1020 AM",
+         "logo": "Nanduti",
+         "link": "http://107.182.231.73:7048/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-nanduti-1020-am,3719.m3u",
+         "note": "News, Top"
+      },
+      {
+         "name": "Nuevo Tiempo 97.9 FM",
+         "logo": "Nuevo",
+         "link": "https://stream.live.novotempo.com/radio/smil:rntAsuncionPY.smil/playlist.m3u8",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Obedira 102.1 FM",
+         "logo": "Obedira",
+         "link": "http://201.222.51.94:8085/obedira.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-obedira-102-1-fm,16952.m3u",
+         "note": "News, Top"
+      },
+      {
+         "name": "Popular 103.1 FM",
+         "logo": "Popular",
+         "link": "http://66.55.145.43:7079/stream.m3u",
+         "http": "",
+         "note": "News, Top"
+      },
+      {
+         "name": "RGS 94.3 FM",
+         "logo": "RGS",
+         "link": "http://www.surfmusic.de/m3u/rgs-94-3-fm,10057.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Rincon Paraguayo",
+         "logo": "Rincon",
+         "link": "http://radiohd.net:3606/listen.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://199.167.150.105:8360/listen.pls?sid=1&t=.pls",
+         "note": ""
+      },
+      {
+         "name": "Rock&Pop 95.5 FM",
+         "logo": "RockPop",
+         "link": "http://audio.radionacional.gov.py:8084/951fm.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "RQP",
+         "logo": "RQP",
+         "link": "http://radios-py.cdn.nedmedia.io/radios/py/rqp.m3u8",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "San Fernando 100.3 FM",
+         "logo": "San",
+         "link": "http://www.surfmusic.de/m3u/san-fernando-100-3-fm,14139.m3u",
+         "http": "",
+         "note": "Bella Vista (Local)"
+      },
+      {
+         "name": "Solidaridad 93.5 FM",
+         "logo": "Solidaridad",
+         "link": "http://201.217.39.18:88/broadwave.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sonica Paraguay",
+         "logo": "Sonica",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9800/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9800/listen.pls?sid=1&t=.m3u",
+         "note": "San Lorenzo (Local)"
+      },
+      {
+         "name": "Top Milenium 91.5 FM",
+         "logo": "Milenium",
+         "link": "http://www.surfmusic.de/m3u/top-milenium-91-5-fm,10055.m3u",
+         "http": "",
+         "note": "News, Top"
+      },
+      {
+         "name": "Unión 93.5 FM",
+         "logo": "Union",
+         "link": "http://186.16.10.123:8000/listen.pls",
+         "http": "http://181.120.29.165:8000/;#.MP3",
+         "note": "Limpio (Local)"
+      },
+      {
+         "name": "Universal 93.9 FM",
+         "logo": "Universal",
+         "link": "http://publish.desdeparaguay.net:9794/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Uno 650 AM",
+         "logo": "Uno",
+         "link": "http://66.55.145.43:7080/stream.m3u",
+         "http": "",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "Urbana 106.9 FM",
+         "logo": "Urbana",
+         "link": "http://playerservices.streamtheworld.com/pls/URBANA.pls",
+         "http": "http://www.surfmusic.de/m3u/urbana-106-9-fm,10056.m3u",
+         "note": "News, Top"
+      },
+      {
+         "name": "Vida 93.5 FM",
+         "logo": "Vida",
+         "link": "http://72.29.80.105:8972/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Yacyreta 98.5 FM",
+         "logo": "Yacyreta",
+         "link": "http://www.surfmusic.de/m3u/yacyreta-98-5-fm,16958.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ysapy 90.7 FM",
+         "logo": "Ysapy",
+         "link": "http://stream.aerstreaming.com:3512/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Yvoty FM 93.5",
+         "logo": "Yvoty",
+         "link": "http://134.213.164.215/05f4adcm38vtv.m3u",
+         "http": "",
+         "note": ""
       }
    ]
 }

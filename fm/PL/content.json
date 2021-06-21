@@ -43,13 +43,713 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Polskie Radio 1 (Jedynka)",
+         "logo": "1",
+         "link": "http://stream3.polskieradio.pl:8900/listen.pls",
+         "http": "",
+         "note": "News/Features"
+      },
+      {
+         "name": "Polskie Radio 2 (Dwójka)",
+         "logo": "2",
+         "link": "http://stream3.polskieradio.pl:8902/listen.pls",
+         "http": "",
+         "note": "Classical/Culture"
+      },
+      {
+         "name": "Polskie Radio 3 (Trójka)",
+         "logo": "3",
+         "link": "http://stream3.polskieradio.pl:8904/listen.pls",
+         "http": "",
+         "note": "Pop/Rock Music"
+      },
+      {
+         "name": "Polskie Radio Czwórka",
+         "logo": "4",
+         "link": "http://stream3.polskieradio.pl:8906/listen.pls",
+         "http": "",
+         "note": "Youth/Lifestyle"
+      },
+      {
+         "name": "Radio Poland",
+         "logo": "Poland",
+         "link": "http://stream3.polskieradio.pl:8908/listen.pls",
+         "http": "",
+         "note": "International"
+      },
+      {
+         "name": "Polskie Radio 24",
+         "logo": "24",
+         "link": "http://stream3.polskieradio.pl:8080/listen.pls",
+         "http": "",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Polskie Radio Rytm",
+         "logo": "Rytm",
+         "link": "http://stream3.polskieradio.pl:8910/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Polskie Radio dzieciom",
+         "logo": "dzieciom",
+         "link": "http://stream3.polskieradio.pl:8916/listen.pls",
+         "http": "",
+         "note": "Children"
+      },
+      {
+         "name": "Polskie Radio Bialystok",
+         "logo": "Bialystok",
+         "link": "http://www.radio.bialystok.pl/internetowe/radioplayer/mp3stream.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Polskie Radio Dla Ciebie",
+         "logo": "Dla",
+         "link": "http://www.rdc.pl/rdc.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Polskie Radio Gdansk",
+         "logo": "Gdansk",
+         "link": "http://stream.task.gda.pl:8000/rg1.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Polskie Radio Gorzów 95,6 FM",
+         "logo": "95,6",
+         "link": "http://stream02.radiogorzow.pl:10115/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Polskie Radio Katowice",
+         "logo": "Katowice",
+         "link": "http://panel.nadaje.com:9212/radiokatowice.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "PR Radio Kielce",
+         "logo": "Kielce",
+         "link": "http://www.radio.kielce.pl/themes/basic/radio_1/player/radio-kielce.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio Koszalin",
+         "logo": "Koszalin",
+         "link": "http://91.232.4.24:7090/listen.pls",
+         "http": "http://91.232.4.24:9092/listen.pls",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio Krakow",
+         "logo": "Krakow",
+         "link": "http://www3.radiokrakow.pl/other_media/online/RadioKrakow.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "PR Off Radio Kraków",
+         "logo": "Off",
+         "link": "http://stream4.nadaje.com:13332/offradiokrakow.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio Łódź",
+         "logo": "PR",
+         "link": "http://stream.radiolodz.pl:8000/radiolodz1.ogg.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio Lublin",
+         "logo": "Lublin",
+         "link": "http://www.radio.lublin.pl/streaming/64k.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio Merkury",
+         "logo": "Merkury",
+         "link": "http://www.radio.pionier.net.pl/stream.pls?radio=merkury",
+         "http": "",
+         "note": "Poznan (Local)"
+      },
+      {
+         "name": "PR MC Radio",
+         "logo": "MC",
+         "link": "http://www.radio.pionier.net.pl/stream.pls?radio=mcradio",
+         "http": "",
+         "note": "Pop/Rock Music (Poznan, Local)"
+      },
+      {
+         "name": "PR Radio Olsztyn",
+         "logo": "Olsztyn",
+         "link": "http://213.73.25.178:7055/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "PR Radio Opole (Region)",
+         "logo": "Region",
+         "link": "http://dab.radio.opole.pl:8090/1.m3u",
+         "http": "http://dab.radio.opole.pl:8070/1.m3u",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio Opole (City)",
+         "logo": "City",
+         "link": "http://dab.radio.opole.pl:8080/1.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "PR Radio Opole 2",
+         "logo": "Opole",
+         "link": "http://dab.radio.opole.pl:8060/1.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "PR Radio Pik",
+         "logo": "Pik",
+         "link": "http://stream.radiopik.pl:9004/listen.pls",
+         "http": "",
+         "note": "Bydgoszcz (Local)"
+      },
+      {
+         "name": "PR Radio Rzeszów",
+         "logo": "Rzeszow",
+         "link": "http://www.radio.rzeszow.pl/stereo.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio RAM",
+         "logo": "RAM",
+         "link": "http://stream4.nadaje.com:9220/ram.m3u",
+         "http": "",
+         "note": "Wroclaw (Local)"
+      },
+      {
+         "name": "PR Radio Szczecin",
+         "logo": "Szczecin",
+         "link": "http://www.radio.szczecin.pl/prs.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "PR Radio 94i4",
+         "logo": "94i4",
+         "link": "http://stream3.nadaje.com:8200/szczecinfm.m3u",
+         "http": "http://www.94i4.fm/onair.m3u",
+         "note": "Szczecin (Local)"
+      },
+      {
+         "name": "PR Radio Wroclaw",
+         "logo": "Wroclaw",
+         "link": "http://stream4.nadaje.com:9240/prw",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "PR Radio Wrocław Kultura",
+         "logo": "Kultura",
+         "link": "http://stream4.nadaje.com:9230/rwkultura.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "PR Radio Zachód",
+         "logo": "Zachod",
+         "link": "http://stream01.zachod.pl:10103/listen.pls",
+         "http": "",
+         "note": "Zielona Góra (Local)"
+      },
+      {
+         "name": "PR Radio Zielona Góra",
+         "logo": "Zielona",
+         "link": "http://rzg.pl/player/rzg.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Akademickie Radio LUZ",
+         "logo": "Akademickie",
+         "link": "http://radioluz.pwr.wroc.pl/listen.pls",
+         "http": "http://radioluz.pwr.wroc.pl/luz.pls",
+         "note": "Wroclaw (Local)"
+      },
+      {
+         "name": "Antyradio",
+         "logo": "Antyradio",
+         "link": "http://ant-waw-01.cdn.eurozet.pl:8602/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Antyradio 106.4",
+         "logo": "106.4",
+         "link": "http://ant-kat-01.cdn.eurozet.pl:8604/listen.pls",
+         "http": "",
+         "note": "Katowice (Local)"
+      },
+      {
+         "name": "Antyradio Greatest",
+         "logo": "Greatest",
+         "link": "http://antgre-01.cdn.eurozet.pl:8008/listen.pls",
+         "http": "",
+         "note": "Classic"
+      },
+      {
+         "name": "Antyradio Ballads",
+         "logo": "Ballads",
+         "link": "http://antgre-01.cdn.eurozet.pl:8002/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Antyradio Covers",
+         "logo": "Covers",
+         "link": "http://antgre-01.cdn.eurozet.pl:8006/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Antyradio Hard",
+         "logo": "Hard",
+         "link": "http://antgre-01.cdn.eurozet.pl:8010/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Antyradio Made in Poland",
+         "logo": "Made",
+         "link": "http://178.32.207.236:8012/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Antyradio Classic",
+         "logo": "Classic",
+         "link": "http://antgre-01.cdn.eurozet.pl:8004/listen.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "BabyRadio.pl",
+         "logo": "BabyRadio.pl",
+         "link": "http://www.radio.pionier.net.pl/stream.pls?radio=babyradio",
+         "http": "http://www.babyradio.pl/",
+         "note": ""
+      },
+      {
+         "name": "Blue FM (Radio Pogoda)",
+         "logo": "Blue",
+         "link": "http://mainstream.radioagora.pl/bluefm.mp3.m3u",
+         "http": "http://www.radioblue.fm/blueaac.pls",
+         "note": "Poznan (Local)"
+      },
+      {
+         "name": "Eska INFO 97,7 Krakow",
+         "logo": "97,7",
+         "link": "http://acdn.smcloud.net/t046-1.mp3.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Eska INFO 99,8 Lódz",
+         "logo": "99,8",
+         "link": "http://acdn.smcloud.net/t040-1.mp3.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Eska INFO 104,9 Wroclaw",
+         "logo": "104,9",
+         "link": "http://acdn.smcloud.net/t044-1.mp3.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Eska INFO 105,6 Warsaw",
+         "logo": "105,6",
+         "link": "http://acdn.smcloud.net/t042-1.mp3.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Eska INFO 89,9 Olsztyn",
+         "logo": "89,9",
+         "link": "http://acdn.smcloud.net/t060-1_mp3.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Eska INFO 103,6 Lublin",
+         "logo": "103,6",
+         "link": "http://acdn.smcloud.net/t062-1_mp3.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Eska Rock Ballads",
+         "logo": "Eska",
+         "link": "http://acdn.smcloud.net/t011-1_mp3.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Eska Party",
+         "logo": "Party",
+         "link": "http://acdn.smcloud.net/t005-1_mp3.pls",
+         "http": "",
+         "note": "Dance/Pop Music"
+      },
+      {
+         "name": "Eska Club",
+         "logo": "Club",
+         "link": "http://acdn.smcloud.net/t004-1_mp3.pls",
+         "http": "",
+         "note": "Dance/House Music"
+      },
+      {
+         "name": "Eska Goraca 20",
+         "logo": "Goraca",
+         "link": "http://acdn.smcloud.net/t019-1_mp3.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Eska Global Lista",
+         "logo": "Lista",
+         "link": "http://acdn.smcloud.net/t016-1_mp3.pls",
+         "http": "",
+         "note": "Dance/Pop Music"
+      },
+      {
+         "name": "Eska Rap",
+         "logo": "Rap",
+         "link": "http://acdn.smcloud.net/t002-1_mp3.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Eska RnB",
+         "logo": "Rn",
+         "link": "http://acdn.smcloud.net/t003-1_mp3.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Eska Rock",
+         "logo": "Rock",
+         "link": "http://acdn.smcloud.net/t041-1_mp3.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Eska Rock Polska",
+         "logo": "Polska",
+         "link": "http://acdn.smcloud.net/t008-1_mp3.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Eska Rock Alternative",
+         "logo": "Alternative",
+         "link": "http://acdn.smcloud.net/t015-1_mp3.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Eska Rock Xtreme",
+         "logo": "Xtreme",
+         "link": "http://acdn.smcloud.net/t001-1_mp3.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Katolickie Radio Ciechanów",
+         "logo": "Ciechanow",
+         "link": "http://sc4.24cast.pl:9802/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Katolickie Radio Podlasie",
+         "logo": "Podlasie",
+         "link": "http://listen.slotex.pl/7038.pls",
+         "http": "",
+         "note": "Siedlce (Local)"
+      },
+      {
+         "name": "Katolickie Radio Zamosc",
+         "logo": "Zamosc",
+         "link": "http://www.listenlive.eu/krz.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Katolickie Radio Rzeszów - VIA",
+         "logo": "Katolickie",
+         "link": "http://62.133.128.18:8040/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Meloradio",
+         "logo": "Meloradio",
+         "link": "http://mel01.cdn.eurozet.pl:8800/mel-net.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Muzyczne Radio",
+         "logo": "Muzyczne",
+         "link": "http://stream3.nadaje.com:9000/listen.pls",
+         "http": "",
+         "note": "Top 40 (Jelenia Góra, Local)"
+      },
+      {
+         "name": "Nadzieja.pl CCM Radio",
+         "logo": "Nadzieja.pl",
+         "link": "http://stream3.nadaje.com:8036/listen.pls",
+         "http": "",
+         "note": "Podkowa Lesna (Local)"
+      },
+      {
+         "name": "Planeta FM",
+         "logo": "Planeta",
+         "link": "http://pla-net-01.cdn.eurozet.pl:8700/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Planeta Above and Beyond",
+         "logo": "Above",
+         "link": "http://plaabo-01.cdn.eurozet.pl:8202/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Planeta House",
+         "logo": "House",
+         "link": "http://plahou-01.cdn.eurozet.pl:8208/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Planeta Oldskul",
+         "logo": "Oldskul",
+         "link": "http://plaold-01.cdn.eurozet.pl:8212/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Planeta Progressive",
+         "logo": "Progressive",
+         "link": "http://plapro-01.cdn.eurozet.pl:8214/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Planeta RnB",
+         "logo": "RnB",
+         "link": "http://plarnb-01.cdn.eurozet.pl:8216/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Radio 5 Elk",
+         "logo": "Elk",
+         "link": "http://radio.ipip.cz:8086/listen.pls",
+         "http": "https://radio5.com.pl/player/?pl=winamp&c=Elk",
+         "note": ""
+      },
+      {
+         "name": "Radio 5 Suwalki",
+         "logo": "Suwalki",
+         "link": "https://radio5.com.pl/player/?pl=winamp&c=Suwalki",
+         "http": "https://radio5.com.pl/player/?pl=quicktime&c=Suwalki",
+         "note": ""
+      },
+      {
+         "name": "Radio Afera",
+         "logo": "Afera",
+         "link": "http://lodz.radio.pionier.net.pl:8000/pl/afera.ogg.m3u",
+         "http": "",
+         "note": "Rock Music (Poznan, Local)"
+      },
+      {
+         "name": "Radio AIN KARIM",
+         "logo": "KARIM",
+         "link": "http://radioainkarim.pl/themes/portal/play/radioainkarim.pls",
+         "http": "",
+         "note": "Skomielna Czarna (Local)"
+      },
+      {
+         "name": "Radio Akadera",
+         "logo": "Akadera",
+         "link": "http://lodz.radio.pionier.net.pl:8000/pl/akadera.ogg.m3u",
+         "http": "",
+         "note": "Białystok (Local)"
+      },
+      {
+         "name": "Radio Alex",
+         "logo": "Alex",
+         "link": "http://192.184.9.158:8754/listen.pls",
+         "http": "https://tachyon.shoutca.st/tunein/radioalex.pls",
+         "note": "Zakopane (Local)"
+      },
+      {
+         "name": "Radio Bajka",
+         "logo": "Bajka",
+         "link": "http://91.232.4.24:9768/listen.pls",
+         "http": "",
+         "note": "Youth"
+      },
+      {
+         "name": "Radio Bielsko",
+         "logo": "Bielsko",
+         "link": "http://stream.nadaje.com:8044/listen.pls",
+         "http": "",
+         "note": "Top 40"
+      },
+      {
+         "name": "Radio Bogoria",
+         "logo": "Bogoria",
+         "link": "http://s6.radiohost.pl/play-8888.pls",
+         "http": "",
+         "note": "Grodzisk Mazowiecki (Local)"
+      },
+      {
+         "name": "Radio Bon Ton",
+         "logo": "Bon",
+         "link": "http://bonton.streamhost.pl:8092/listen.pls",
+         "http": "",
+         "note": "Top 40 (Chełm, Local)"
+      },
+      {
+         "name": "Radio CCM",
+         "logo": "CCM",
+         "link": "http://radioccm.pl/radio_ccm.pls",
+         "http": "",
+         "note": "Gliwice (Local)"
+      },
+      {
+         "name": "Radio Centrum 98.2",
+         "logo": "98.2",
+         "link": "http://www.listenlive.eu/centrum.m3u",
+         "http": "",
+         "note": "Lublin (Local)"
+      },
+      {
+         "name": "Radio Centrum 106.4",
+         "logo": "Centrum",
+         "link": "http://shot4.inten.pl:8888/listen.pls",
+         "http": "",
+         "note": "Kalisz (Local)"
+      },
+      {
+         "name": "Radio Centrum 89.0 FM",
+         "logo": "89.0",
+         "link": "http://62.93.41.26:8000/listen.pls",
+         "http": "",
+         "note": "Rzeszów (Local)"
+      },
+      {
+         "name": "Radio EL",
+         "logo": "EL",
+         "link": "http://shot2.inten.pl:8778/listen.pls",
+         "http": "",
+         "note": "Elblag (Local)"
+      },
+      {
+         "name": "Radio Elka Leszno",
+         "logo": "Elka",
+         "link": "http://elka.pl/elka.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio eM",
+         "logo": "eM",
+         "link": "http://shot2.inten.pl:8784/listen.pls",
+         "http": "http://194.181.177.253:8004/listen.pls",
+         "note": "Katowice (Local)"
+      },
+      {
+         "name": "Radio eM Kielce",
+         "logo": "Kielc",
+         "link": "http://78.46.170.230:8000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Emaus",
+         "logo": "Emaus",
+         "link": "http://lodz.radio.pionier.net.pl:8000/pl/emaus3.ogg.m3u",
+         "http": "",
+         "note": "Poznań (Local)"
+      },
+      {
+         "name": "Radio eR",
+         "logo": "eR",
+         "link": "http://stream.radioer.pl:8000/Radio_eR.m3u",
+         "http": "",
+         "note": "Lublin (Local)"
+      },
+      {
+         "name": "Radio Express",
+         "logo": "Express",
+         "link": "http://stream.nadaje.com:8064/listen.pls",
+         "http": "",
+         "note": "Pszczyna (Local)"
+      },
+      {
+         "name": "Radio FAMA 92,9",
+         "logo": "92,9",
+         "link": "http://stream2.nadaje.com:8078/listen.pls",
+         "http": "",
+         "note": "Kielce (Local)"
+      },
+      {
+         "name": "Radio FAMA 100,8",
+         "logo": "100,8",
+         "link": "http://stream2.nadaje.com:8076/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio FAMA 94,7",
+         "logo": "94,7",
+         "link": "http://stream3.nadaje.com:8096/listen.pls",
+         "http": "",
+         "note": "Wolomin (Local)"
+      },
+      {
+         "name": "Radio FAMA 100,8",
+         "logo": "100,8",
+         "link": "http://stream3.nadaje.com:9024/listen.pls",
+         "http": "",
+         "note": "Slupsk (Local)"
+      },
+      {
+         "name": "Radio FARA",
+         "logo": "FARA",
+         "link": "http://62.133.128.22:8000/listen.pls",
+         "http": "",
+         "note": "Przemysl (Local)"
       }
    ]
 }

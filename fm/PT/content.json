@@ -43,13 +43,370 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "RDP ANTENA 1",
+         "logo": "1",
+         "link": "https://www.rtp.pt/play/direto/antena1",
+         "http": "",
+         "note": "News / information / features"
+      },
+      {
+         "name": "RDP ANTENA 2",
+         "logo": "2",
+         "link": "https://www.rtp.pt/play/direto/antena2",
+         "http": "",
+         "note": "Culture / Classical Music"
+      },
+      {
+         "name": "RDP ANTENA 3",
+         "logo": "3",
+         "link": "https://www.rtp.pt/play/direto/antena3",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "RDP Africa",
+         "logo": "Africa",
+         "link": "https://www.rtp.pt/play/direto/rdpafrica",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP Lusitânia",
+         "logo": "RDP",
+         "link": "https://www.rtp.pt/play/direto/radiolusitania",
+         "http": "",
+         "note": "Portuguese Music"
+      },
+      {
+         "name": "RDP Jazzin",
+         "logo": "Jazzin",
+         "link": "https://www.rtp.pt/play/direto/antena2jazzin",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "RDP MEMORIA",
+         "logo": "MEMORIA",
+         "link": "https://www.rtp.pt/play/direto/antena1memoria",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP Internacional",
+         "logo": "Internacional",
+         "link": "https://www.rtp.pt/play/direto/rdpinternacional",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP VIDA",
+         "logo": "VIDA",
+         "link": "https://www.rtp.pt/play/direto/antena1vida",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP ZigZag",
+         "logo": "ZigZag",
+         "link": "https://www.rtp.pt/play/zigzag/direto/radio",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP FADO",
+         "logo": "FADO",
+         "link": "https://www.rtp.pt/play/direto/antena1fado",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP ANTENA 1 Acores",
+         "logo": "Acores",
+         "link": "https://www.rtp.pt/play/direto/antena1acores",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP ANTENA 1 Madeira",
+         "logo": "Madeira",
+         "link": "https://www.rtp.pt/play/direto/antena1madeira",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP ANTENA 2 Opera",
+         "logo": "Opera",
+         "link": "https://www.rtp.pt/play/direto/antena2opera",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RDP ANTENA 3 Madeira",
+         "logo": "ANTENA",
+         "link": "https://www.rtp.pt/play/direto/antena3madeira",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Alvor FM",
+         "logo": "Alvor",
+         "link": "http://centova.radios.pt:8469/listen.pls?sid=1",
+         "http": "",
+         "note": "Pop/Rock Music (Portimao, Local)"
+      },
+      {
+         "name": "Caria",
+         "logo": "Caria",
+         "link": "http://centova.radios.pt:8521/;listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Esposende Radio",
+         "logo": "Esposende",
+         "link": "http://66.90.103.76:9068/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Gilão FM",
+         "logo": "Gilao",
+         "link": "http://centova.radios.pt:9440/listen.pls?sid=1",
+         "http": "",
+         "note": "Tavira (Local)"
+      },
+      {
+         "name": "Hiper FM",
+         "logo": "Hiper",
+         "link": "http://109.71.41.250:8158/listen.pls",
+         "http": "",
+         "note": "Top 30 (Rio Maior, Local)"
+      },
+      {
+         "name": "Kiss FM",
+         "logo": "Kiss",
+         "link": "http://213.239.218.99:7104/listen.pls?sid=1",
+         "http": "",
+         "note": "Top 30 (Albufeira, Local)"
+      },
+      {
+         "name": "Mega Hits",
+         "logo": "Mega",
+         "link": "http://provisioning.streamtheworld.com/pls/mega_hitsaac.pls",
+         "http": "http://provisioning.streamtheworld.com/pls/mega_hits.pls",
+         "note": "Top 30"
+      },
+      {
+         "name": "Popular FM",
+         "logo": "Popular",
+         "link": "http://195.8.58.150:32281/listen.pls",
+         "http": "",
+         "note": "Pinhal Novo (Local)"
+      },
+      {
+         "name": "Brigantia",
+         "logo": "Brigantia",
+         "link": "http://81.92.207.145:7659/listen.pls",
+         "http": "",
+         "note": "Bragança (Local)"
+      },
+      {
+         "name": "F",
+         "logo": "F",
+         "link": "http://66.90.118.18:8054/listen.pls",
+         "http": "",
+         "note": "Top 30 (Guarda, Local)"
+      },
+      {
+         "name": "Foia",
+         "logo": "Foia",
+         "link": "http://centova.radios.pt:8559/listen.pls?sid=1",
+         "http": "",
+         "note": "Monchique (Local)"
+      },
+      {
+         "name": "Horizonte Algarve",
+         "logo": "Horizonte",
+         "link": "http://centova.radios.pt:9458/listen.pls?sid=1",
+         "http": "",
+         "note": "Tavira (Local)"
+      },
+      {
+         "name": "Lagoa",
+         "logo": "Lagoa",
+         "link": "http://centova.radios.pt:9488/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Miradouro",
+         "logo": "Miradouro",
+         "link": "http://radio.miradouro.pt:8000/listen.pls",
+         "http": "",
+         "note": "Madeira (Local)"
+      },
+      {
+         "name": "Planície",
+         "logo": "Planicie",
+         "link": "http://109.71.41.250:8024/listen.pls",
+         "http": "",
+         "note": "Moura (Local)"
+      },
+      {
+         "name": "RCL (Clube da Lourinhã) - 99FM",
+         "logo": "RCL",
+         "link": "http://cast.redeiw.com:2199/tunein/nunoreis.pls",
+         "http": "http://cast.redeiw.com:2199/tunein/nunoreis.qtl",
+         "note": ""
+      },
+      {
+         "name": "Renascença",
+         "logo": "Renascenca",
+         "link": "http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCAaac.pls",
+         "http": "http://provisioning.streamtheworld.com/pls/RADIO_RENASCENCA.pls",
+         "note": ""
+      },
+      {
+         "name": "RFM",
+         "logo": "RFM",
+         "link": "http://provisioning.streamtheworld.com/pls/rfmaac.pls",
+         "http": "http://provisioning.streamtheworld.com/pls/rfm.pls",
+         "note": ""
+      },
+      {
+         "name": "RFM 80s",
+         "logo": "80s",
+         "link": "http://provisioning.streamtheworld.com/pls/gr80srfmaac.pls",
+         "http": "http://provisioning.streamtheworld.com/pls/gr80srfm.pls",
+         "note": ""
+      },
+      {
+         "name": "RFM Oceano Pacífico",
+         "logo": "Oceano",
+         "link": "http://provisioning.streamtheworld.com/pls/OCEANPACIFICaac.pls",
+         "http": "http://provisioning.streamtheworld.com/pls/OCEANPACIFIC.pls",
+         "note": ""
+      },
+      {
+         "name": "RFM Clubbing",
+         "logo": "Clubbing",
+         "link": "http://provisioning.streamtheworld.com/pls/RFMCLUBBINGaac.pls",
+         "http": "http://provisioning.streamtheworld.com/pls/RFMCLUBBING.pls",
+         "note": "Dance Music"
+      },
+      {
+         "name": "Ribatejo",
+         "logo": "Ribatejo",
+         "link": "http://66.90.118.18:8116/listen.pls",
+         "http": "",
+         "note": "Pop Music (Azambuja, Local)"
+      },
+      {
+         "name": "RVE (Voz de Esmoriz)",
+         "logo": "RVE",
+         "link": "http://radios.dotsi.pt:2199/tunein/sc_rvesm.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Sagres FM",
+         "logo": "Sagres",
+         "link": "http://www.sagresfm.pt:8002/listen.pls",
+         "http": "",
+         "note": "Top 30 (Lagos, Local)"
+      },
+      {
+         "name": "Sim",
+         "logo": "Sim",
+         "link": "http://provisioning.streamtheworld.com/pls/radio_simaac.pls",
+         "http": "",
+         "note": "Music/Information"
+      },
+      {
+         "name": "Sines",
+         "logo": "Sines",
+         "link": "http://www.smartsp.com/radiosines.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Singa FM",
+         "logo": "Singa",
+         "link": "http://centova.radios.pt:8487/listen.pls?sid=1",
+         "http": "",
+         "note": "Ferreira do Alentejo (Local)"
+      },
+      {
+         "name": "Terra Quente FM",
+         "logo": "Terra",
+         "link": "http://centova.radios.pt:9402/listen.pls?sid=1",
+         "http": "",
+         "note": "Mirandela (Local)"
+      },
+      {
+         "name": "TerraNova",
+         "logo": "TerraNova",
+         "link": "http://centova.radios.pt:9404/stream",
+         "http": "",
+         "note": "Gafanha da Nazaré (Local)"
+      },
+      {
+         "name": "TLA Rádio",
+         "logo": "TLA",
+         "link": "http://centova.radios.pt:8545/listen.pls?sid=1",
+         "http": "",
+         "note": "Aljustrel (Local)"
+      },
+      {
+         "name": "Total FM",
+         "logo": "Total",
+         "link": "http://www.totalfm.pt:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Loulé, Local)"
+      },
+      {
+         "name": "TSF Nacional",
+         "logo": "TSF",
+         "link": "http://tsf.pt/emdirecto.pls",
+         "http": "",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Universidade de Coimbra (RUC)",
+         "logo": "Coimbra",
+         "link": "http://www.ruc.pt/listen-hi.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Universidade FM",
+         "logo": "Universidade",
+         "link": "http://centova.radios.pt:8405/stream",
+         "http": "",
+         "note": "Vila Real (Local)"
+      },
+      {
+         "name": "Universitária do Algarve (RUA)",
+         "logo": "Algarve",
+         "link": "http://centova.radios.pt:9536/index.html?sid=1",
+         "http": "",
+         "note": "Faro (Local)"
+      },
+      {
+         "name": "Urbana",
+         "logo": "Urbana",
+         "link": "http://213.136.92.8:2199/tunein/urbana.pls",
+         "http": "",
+         "note": "Castelo Branco (Local)"
+      },
+      {
+         "name": "Vidigueira",
+         "logo": "Vidigueira",
+         "link": "http://centova.radios.pt:8567/stream",
+         "http": "",
+         "note": ""
       }
    ]
 }

@@ -43,13 +43,839 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Amor Peru",
+         "logo": "Amor",
+         "link": "http://www.surfmusic.de/m3u/radio-amor-peru,17774.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Antankallo (TVRADIOPERU)",
+         "logo": "Antankallo",
+         "link": "http://az-streamingserver.com:2199/tunein/radiomaria.pls",
+         "http": "http://cast.az-streamingserver.com:9037/;stream.mp3",
+         "note": "Matucana (Local)"
+      },
+      {
+         "name": "Arequipa Internacional 103.9 FM",
+         "logo": "Internacional",
+         "link": "http://167.114.118.120:7084/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Arequipa Visión 102.9 FM",
+         "logo": "Arequipa",
+         "link": "http://65.60.2.26:8198/listen.pls",
+         "http": "http://65.60.2.26:8198/stream?type=http&nocache=509",
+         "note": "Music"
+      },
+      {
+         "name": "Astoria 94.9 FM",
+         "logo": "Astoria",
+         "link": "http://51.38.74.200:8421/listen.pls",
+         "http": "",
+         "note": "Iquitos (Local)"
+      },
+      {
+         "name": "Azul 840 AM",
+         "logo": "Azul",
+         "link": "https://5cefcbf58ba2e.streamlock.net/azul/azul.stream/playlist.m3u8",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Bacan Sat",
+         "logo": "Bacan",
+         "link": "http://www.surfmusic.de/m3u/radio-bacan-sat,18727.m3u",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://209.9.238.4:8944/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Bethel 1570 AM",
+         "logo": "Bethel",
+         "link": "http://96.31.83.86:8158/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Bienestar 760 AM - 1360 AM",
+         "logo": "Bienestar",
+         "link": "http://playerservices.streamtheworld.com/pls/BIENESTAR.pls?csegid=20004&dist=20004",
+         "http": "",
+         "note": "Talk, News"
+      },
+      {
+         "name": "Candela Pacayzapa 107.1 FM",
+         "logo": "Candela",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.154.254.157:16679/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.154.254.157:16679/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Canto Grande 97.7 FM",
+         "logo": "Canto",
+         "link": "http://65.60.2.26:8050/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Capital 96.7 FM",
+         "logo": "Capital",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_CAPITAL.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-capital-96-7-fm,17775.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Cielo",
+         "logo": "Cielo",
+         "link": "http://167.114.118.120:7342/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Cima 97.0 FM",
+         "logo": "Cima",
+         "link": "http://www.surfmusic.de/m3u/cima-fm-97-0,17768.m3u",
+         "http": "http://94.23.84.122:7018/;",
+         "note": ""
+      },
+      {
+         "name": "Comas 101.7 FM",
+         "logo": "Comas",
+         "link": "http://65.60.2.26:8044/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-comas-101-7-fm,17769.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Contacto Sur 93.9 FM - 800 AM",
+         "logo": "Contacto",
+         "link": "http://s30.myradiostream.com:12218/listen.pls",
+         "http": "http://s30.myradiostream.com:12218/listem.mp3",
+         "note": ""
+      },
+      {
+         "name": "Continental 740 AM",
+         "logo": "Continental",
+         "link": "https://betelgeuse.dribbcast.com/proxy/continental?mp=/stream",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Corazón 94.3 FM",
+         "logo": "Corazon",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_CORAZON.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-corazon-94-3-fm,17776.m3u",
+         "note": ""
+      },
+      {
+         "name": "Dios es Amor",
+         "logo": "Dios",
+         "link": "https://radio.gisslive.com:8256/stream.m3u",
+         "http": "https://radio.gisslive.com:8226/stream.m3u",
+         "note": ""
+      },
+      {
+         "name": "Disney",
+         "logo": "Disney",
+         "link": "http://173.192.105.252:8000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Distorsion FM",
+         "logo": "Distorsion",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.196.10.197:8100/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://190.196.10.197:8100/listen.pls&t=.m3u",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Doble N 95.3 FM",
+         "logo": "N",
+         "link": "http://www.radiodoblen.com/emision.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-doble-n-95-3fm,10431.m3u",
+         "note": "Cajamarca (Local)"
+      },
+      {
+         "name": "Doble Nueve 99.1 FM",
+         "logo": "Nueve",
+         "link": "http://54.39.129.47:8004/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-doble-nueve-99-1-fm,10260.m3u",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Enmanuel 100.7 FM",
+         "logo": "Enmanuel",
+         "link": "https://sonicpanel.dattastreaming.com/8108/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Estrella 102.7 FM",
+         "logo": "Estrella",
+         "link": "http://radio.datahost.pe:9660/listen.pls",
+         "http": "",
+         "note": "Trujillo (Local)"
+      },
+      {
+         "name": "Exito 1060 AM",
+         "logo": "Exito",
+         "link": "http://67.212.179.138:7200/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-exito-1060,12934.m3u",
+         "note": ""
+      },
+      {
+         "name": "Exitosa FM",
+         "logo": "Exitosa",
+         "link": "http://167.114.116.212:1935/radioexitosa2016/radioexitosa.stream/playlist.m3u8",
+         "http": "http://www.surfmusic.de/m3u/radio-exitosa-92-5-fm,17766.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Fe Peru 1220 AM",
+         "logo": "Fe",
+         "link": "http://www.surfmusic.de/m3u/radio-fe-peru-1220,18728.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Felicidad 88.9 FM",
+         "logo": "Felicidad",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_FELICIDAD.pls",
+         "http": "http://playerservices.streamtheworld.com/pls/RADIO_FELICIDAD_AM.pls",
+         "note": "Music"
+      },
+      {
+         "name": "Feliz 1110 AM",
+         "logo": "Feliz",
+         "link": "https://rafel.radioca.st/listen.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://31.177.57.51:8592/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Fiesta 105.5 FM",
+         "logo": "Fiesta",
+         "link": "http://www.surfmusic.de/m3u/radio-fiesta-105-5-fm,17772.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Filarmonia 102.7 FM",
+         "logo": "Filarmonia",
+         "link": "http://c22.radioboss.fm:8100/stream",
+         "http": "http://www.surfmusic.de/m3u/filarmonia-102-7fm,10391.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Frecuencia 100",
+         "logo": "100",
+         "link": "http://oyotunstream.com:7066/listen.pls",
+         "http": "",
+         "note": "Trujillo (Local)"
+      },
+      {
+         "name": "Frecuencia 1330 Arequipa",
+         "logo": "1330",
+         "link": "http://freeus3.listen2myradio.com:33698/stream",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Frecuencia Primera FM",
+         "logo": "Frecuencia",
+         "link": "http://www.surfmusic.de/m3u/frecuencia-primera-fm,759.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Gigante 102.5 FM",
+         "logo": "Gigante",
+         "link": "http://95.154.196.33:10904/listen.pls?sid=1",
+         "http": "",
+         "note": "Cusco (Local)"
+      },
+      {
+         "name": "HUASCARAN 104.5",
+         "logo": "HUASCARAN",
+         "link": "http://69.30.218.190:27832/;",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://69.30.218.190:27832/listen.pls?sid=1&t=.pls",
+         "note": "Music (Local)"
+      },
+      {
+         "name": "Impacto",
+         "logo": "Impacto",
+         "link": "http://radio.radiotel.net:9000/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/radio-impacto-90-1-fm,17762.m3u",
+         "note": ""
+      },
+      {
+         "name": "Inca 540 AM",
+         "logo": "Inca",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_INC.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radio-inca-540-am,18720.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Integridad 105.7 FM",
+         "logo": "Integridad",
+         "link": "http://167.114.118.119:7710/listen.pls",
+         "http": "",
+         "note": "Trujillo (Local)"
+      },
+      {
+         "name": "Intiraymi 830 AM",
+         "logo": "Intiraymi",
+         "link": "http://radiointiraymi.com/envivo.pls",
+         "http": "http://ip.melodyradios.com:8038/live.m3u",
+         "note": "Cusco (Local)"
+      },
+      {
+         "name": "Joven",
+         "logo": "Joven",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.203.184:8876/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.203.184:8876/listen.pls?sid=1&t=.m3u",
+         "note": "Tarma (Local)"
+      },
+      {
+         "name": "JR 88.7 FM",
+         "logo": "JR",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://99.198.110.162:8038/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://99.198.110.162:8038/listen.pls&t=.m3u",
+         "note": "Music (Arequipa, Local)"
+      },
+      {
+         "name": "Karibena 94.9 FM",
+         "logo": "Karibena",
+         "link": "http://167.114.118.120:7442/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-karibena-94-9-fm,17765.m3u",
+         "note": ""
+      },
+      {
+         "name": "KHostPeru",
+         "logo": "KHostPeru",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.154.235:8050/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.50.154.235:8050/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Cronica",
+         "logo": "Cronica",
+         "link": "https://cdnh4.iblups.com/hls/3KBokMgDQi.m3u8",
+         "http": "http://www.surfmusic.de/m3u/radio-la-cronica,18719.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Familia 105.1 FM",
+         "logo": "Familia",
+         "link": "http://65.60.2.26:6122/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "La Inolvidable 93.7 FM",
+         "logo": "Inolvidable",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_LI.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radio-la-inolvidable-93-7-fm,17764.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "La Kalle 96.1 FM",
+         "logo": "Kalle",
+         "link": "http://167.114.118.120:7448/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-la-kalle-96-1-fm,17767.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "La Luz 1080 AM",
+         "logo": "Luz",
+         "link": "http://radio.transmite.pe:9310/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-la-luz-1080am,10395.m3u",
+         "note": ""
+      },
+      {
+         "name": "La Radio Joven 1550",
+         "logo": "1550",
+         "link": "http://www.surfmusic.de/m3u/radio-1550-la-radio-joven,9666.m3u",
+         "http": "",
+         "note": "Huancayo (Local)"
+      },
+      {
+         "name": "La Ribereña Mix 89.1 FM",
+         "logo": "La",
+         "link": "https://node-20.zeno.fm/vptyc0f8eeruv",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "La Zona 90.5 FM",
+         "logo": "Zona",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_LAZONA.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-la-zona-90-5-fm,19037.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Latina 990 AM",
+         "logo": "Latina",
+         "link": "http://server07.srvsh.com.br:8016/;",
+         "http": "http://192.151.156.19:7382/listen.pls?sid=1",
+         "note": ""
+      },
+      {
+         "name": "Libertad 820 AM",
+         "logo": "820",
+         "link": "http://stream.nortecloud.com:9972/listen.pls",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Libertad Mundo 1160 AM",
+         "logo": "Libertad",
+         "link": "http://www.surfmusic.de/m3u/radio-libertad-mundo,10393.m3u",
+         "http": "http://162.244.80.118:3727/listen.pls",
+         "note": "Trujillo (Local)"
+      },
+      {
+         "name": "Lider 98.7 FM – 1240 AM",
+         "logo": "Lider",
+         "link": "https://betelgeuse.dribbcast.com/proxy/radiolider?mp=/stream",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Magica 88.3 FM",
+         "logo": "Magica",
+         "link": "http://playerservices.streamtheworld.com/pls/MAG.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radio-magica-88-3-fm,14968.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Maranon 580 AM",
+         "logo": "Maranon",
+         "link": "http://www.surfmusic.de/m3u/radio-maranon-580-am,10392.m3u",
+         "http": "",
+         "note": "Jaén (Local)"
+      },
+      {
+         "name": "Maria (Peru)",
+         "logo": "Maria",
+         "link": "https://dreamsiteradiocp4.com/proxy/rmperu2?mp=/stream",
+         "http": "http://www.surfmusic.de/m3u/radio-maria-peru-580-am,18723.m3u",
+         "note": ""
+      },
+      {
+         "name": "Melodía 104.3 FM",
+         "logo": "Melodia",
+         "link": "http://184.154.28.210:8214/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Metropolitana 1040",
+         "logo": "METROPOLITANA",
+         "link": "http://99.198.110.162:8130/listen.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://99.198.110.162:8130/listen.pls?sid=1&t=.m3u",
+         "note": "Folk Music"
+      },
+      {
+         "name": "MH Radio",
+         "logo": "MH",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://212.83.172.164:9316/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://212.83.172.164:9316/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Mil 1000 AM",
+         "logo": "Mil",
+         "link": "https://conectperu.com/cp/links.php?p=8252&m=pls",
+         "http": "https://conectperu.com/8252/stream",
+         "note": ""
+      },
+      {
+         "name": "Milenia 1530 AM",
+         "logo": "Milenia",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7130/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:7130/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Moda 97.3 FM",
+         "logo": "Moda",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_MOD.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radio-moda-97-3-fm,15197.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Moderna 930 AM",
+         "logo": "Moderna",
+         "link": "http://www.surfmusic.de/m3u/radio-moderna,18726.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mundial 1540 AM",
+         "logo": "Mundial",
+         "link": "https://node-17.zeno.fm/4gtgrwrzczzuv",
+         "http": "",
+         "note": "Music (Trujillo, Local)"
+      },
+      {
+         "name": "Nacional del Perú 103.9 FM",
+         "logo": "Nacional",
+         "link": "https://cdnh4.iblups.com/hls/OisZOgZAOB.m3u8",
+         "http": "http://www.surfmusic.de/m3u/radio-national-103-9-fm,767.m3u",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "NOVA 105.1 FM",
+         "logo": "NOVA",
+         "link": "http://67.212.179.138:7064/listen.pls",
+         "http": "",
+         "note": "Talk, Music (Trujillo, Local)"
+      },
+      {
+         "name": "Nueva Cadena 1200 AM",
+         "logo": "Cadena",
+         "link": "http://radio.transmite.pe:9300/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Nueva Q 107.1 FM",
+         "logo": "Nueva",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_NQ.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/107-1-nueva-q-fm,17773.m3u",
+         "note": ""
+      },
+      {
+         "name": "Nuevo Tiempo",
+         "logo": "Nuevo",
+         "link": "https://stream.live.novotempo.com/radio/smil:rntLimaPE.smil/playlist.m3u8",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Oasis 100.1 FM",
+         "logo": "Oasis",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_OAS.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radio-oasis-100-1-fm,17103.m3u",
+         "note": "Rock Music"
+      },
+      {
+         "name": "OK 94.9 FM",
+         "logo": "OK",
+         "link": "https://node-27.zeno.fm/qrqwzybuumzuv",
+         "http": "",
+         "note": "Music (Trujillo, Local)"
+      },
+      {
+         "name": "Onda Cero 98.1 FM",
+         "logo": "Cero",
+         "link": "https://streaming.gometri.com/stream/8011/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/radio-onda-cero-98-1-fm,13187.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Onda Digital",
+         "logo": "Onda",
+         "link": "http://www.surfmusic.de/m3u/onda-digital,12933.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Oriente 560 AM",
+         "logo": "Oriente",
+         "link": "http://player.srvstm.com/player/18090/winamp.pls",
+         "http": "http://radio.radiotel.net:9312/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "Ovación 620 AM",
+         "logo": "620",
+         "link": "https://5949aa132c8fb.streamlock.net:554/ipradioovacion1/liveovacion1radio/playlist.m3u8",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Oxigeno",
+         "logo": "Oxigeno",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_OXIGENO.pls",
+         "http": "http://www.surfmusic.de/m3u/oxigeno-rock,19640.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Pacífico 640 AM",
+         "logo": "Pacifico",
+         "link": "http://www.surfmusic.de/m3u/radio-pacifico-640-am,18724.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "PAMPA YURAC 90.1 FM",
+         "logo": "PAMPA",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9474/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.15.77.50:9474/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Panamericana",
+         "logo": "Panamericana",
+         "link": "https://streaming.gometri.com/stream/8000/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/panamericana-radio,4413.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Perú Cumbia",
+         "logo": "PeruCumbia",
+         "link": "http://www.surfmusic.de/m3u/radio-peru-cumbia,17104.m3u",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:8144/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "PERU RADIO",
+         "logo": "PER",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.7.58.248:35937/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.7.58.248:35937/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Planeta 107.7 FM",
+         "logo": "Planeta",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_PLA.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radio-planeta-107-7,14294.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Radiomar 106.3 FM",
+         "logo": "Radiomar",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_MAR.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radiomar-plus-106-3-fm,17612.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "RBC Radio 104.7 FM",
+         "logo": "RBC",
+         "link": "http://www.surfmusic.de/m3u/rbc-satelital-104-7-fm,18729.m3u",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://67.212.179.138:8730/listen.pls?sid=1&t=.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "Red Integridad",
+         "logo": "Red",
+         "link": "https://turbo.2cdn.eu/redintegridad/stream.m3u",
+         "http": "http://www.surfmusic.de/m3u/red-radio-700-am,18725.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "REDE 740 AM",
+         "logo": "REDE",
+         "link": "https://dattavolt.com/cp/links.php?p=8280&m=pls",
+         "http": "https://player.datalivehd.com/proxy/7066/;/live",
+         "note": "Music (Cusco, Local)"
+      },
+      {
+         "name": "Ritmo Romantica 93.1 FM",
+         "logo": "Ritmo",
+         "link": "http://playerservices.streamtheworld.com/pls/CRP_RIT.pls?csegid=20004&dist=20004",
+         "http": "http://www.surfmusic.de/m3u/radio-ritmo-romantica-93-1,15868.m3u",
+         "note": ""
+      },
+      {
+         "name": "RPP Noticias",
+         "logo": "RPP",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_RPP.pls",
+         "http": "http://playerservices.streamtheworld.com/pls/RADIO_RPP_AREQUIPA.pls",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "Salkantay 92.7 FM - 1080 AM",
+         "logo": "Salkantay",
+         "link": "http://ip.melodyradios.com:8040/listen.pls?sid=1",
+         "http": "",
+         "note": "Cusco (Local)"
+      },
+      {
+         "name": "San Borja 91.1 FM",
+         "logo": "Borja",
+         "link": "http://www.surfmusic.de/m3u/radio-san-borja-91-1fm,10396.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "San Martín 97.7 FM - 1380 AM",
+         "logo": "San",
+         "link": "https://sonicpanel.dattastreaming.com:10968/stream?icy=http",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Santa Mónica 93.9 FM - 600 AM",
+         "logo": "Monica",
+         "link": "https://player.voxhd.com.br/player/7400/itunes.pls",
+         "http": "https://player.voxhd.com.br/player/7400/winamp.pls",
+         "note": "Cusco (Local)"
+      },
+      {
+         "name": "Santa Rosa 1500 AM",
+         "logo": "Santa",
+         "link": "https://securestream.conectarhosting.com:8136/live.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-santa-rosa,19988.m3u",
+         "note": ""
+      },
+      {
+         "name": "Satélite 100.7 FM",
+         "logo": "Satelite",
+         "link": "https://sonicpanel.dattastreaming.com/8170/stream",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sensación 97.7 FM",
+         "logo": "Sensacion",
+         "link": "http://54.39.129.47:8106/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Sonica 88.1 FM",
+         "logo": "Sonica",
+         "link": "http://www.surfmusic.de/m3u/sonica-88-1-fm,18730.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Stereo 1",
+         "logo": "Stereo",
+         "link": "http://radiostereo1fm.com/player/playlist.php?name=listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Stereo Villa 101.7 FM",
+         "logo": "Villa",
+         "link": "http://107.150.32.26:9316/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Studio 92",
+         "logo": "92",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_STUDIO92.pls",
+         "http": "http://www.surfmusic.de/m3u/studio-92,10433.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Studio 97",
+         "logo": "97",
+         "link": "http://www.studio97.com.pe/player/?pl=winamp&c=Radio%20Studio%2097",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://91.121.113.129:8116/listen.pls?sid=1&t=.pls",
+         "note": ""
+      },
+      {
+         "name": "Sucre",
+         "logo": "Sucre",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.17:12893/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://78.129.224.17:12893/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Super Stereo 105.5 FM",
+         "logo": "Super",
+         "link": "http://198.148.103.200:8052/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Tawantinsuyo",
+         "logo": "Tawantinsuyo",
+         "link": "http://eu2.serviaudio.com:10959/listen.pls",
+         "http": "",
+         "note": "Cusco (Local)"
+      },
+      {
+         "name": "Tropical 99.1 FM",
+         "logo": "Tropical",
+         "link": "http://www.surfmusic.de/m3u/radio-tropical,10196.m3u",
+         "http": "",
+         "note": "Tarapoto (Local)"
+      },
+      {
+         "name": "TURBO MIX 92.5 FM",
+         "logo": "TURBO",
+         "link": "http://167.114.118.120:7624/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-turbomix-92-5-fm,17420.m3u",
+         "note": "News, Talk, Music (Cajamarca, Local)"
+      },
+      {
+         "name": "TURBO MIX 710 AM",
+         "logo": "710",
+         "link": "http://167.114.118.120:7626/listen.pls",
+         "http": "",
+         "note": "News, Talk, Music (Cajamarca, Local)"
+      },
+      {
+         "name": "TURBO MIX PIRATA 103.3 FM",
+         "logo": "PIRATA",
+         "link": "http://167.114.118.120:7628/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/turbo-mix-103-3-fm,16909.m3u",
+         "note": "News, Talk, Music (Cajamarca, Local)"
+      },
+      {
+         "name": "Union 103.3 FM",
+         "logo": "Union",
+         "link": "http://67.212.179.138:7218/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-union-103-3fm,10399.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Union 880 AM",
+         "logo": "880AM",
+         "link": "http://www.surfmusic.de/m3u/radio-union-880am,10398.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Victoria 92.9 FM",
+         "logo": "Victoria",
+         "link": "http://radio.sistemasandinos.org:10961/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Vida 680 AM",
+         "logo": "Vida",
+         "link": "https://eu2.serviaudio.com:10991/listen.pls?sid=1",
+         "http": "",
+         "note": "Cusco (Local)"
+      },
+      {
+         "name": "Viva FM",
+         "logo": "Viva",
+         "link": "http://tupanel.info:8746/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/viva-fm-104-7-fm,17771.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "X Radio 91.9 FM",
+         "logo": "X",
+         "link": "http://www.surfmusic.de/m3u/x-radio-91-9-fm,17763.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Yaraví 106.3 FM - 930 AM",
+         "logo": "930",
+         "link": "http://99.198.110.162:7012/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Z Rock & Pop",
+         "logo": "Z",
+         "link": "http://www.surfmusic.de/m3u/z-rock-pop,18721.m3u",
+         "http": "",
+         "note": "Top Music"
       }
    ]
 }

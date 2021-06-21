@@ -43,13 +43,811 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "NRK P1 Østlandssendingen",
+         "logo": "P1",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_aac_h.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_ostlandssendingen_mp3_m.m3u",
+         "note": "Oslo"
+      },
+      {
+         "name": "NRK P1 Buskerud",
+         "logo": "Buskerud",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_buskerud_aac_h.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_buskerud_mp3_m.m3u",
+         "note": "Drammen (Local)"
+      },
+      {
+         "name": "NRK P1 Finnmark",
+         "logo": "Finnmark",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_finnmark_aac_h.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_finnmark_mp3_m.m3u",
+         "note": "Vadsø (Local)"
+      },
+      {
+         "name": "NRK P1 Hordaland",
+         "logo": "Hordaland",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_hordaland_aac_h.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_hordaland_mp3_m.m3u",
+         "note": "Bergen (Local)"
+      },
+      {
+         "name": "NRK P1 Møre og Romsdal",
+         "logo": "Romsdal",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_aac_h.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_more_og_romsdal_mp3_m.m3u",
+         "note": "Ålesund (Local)"
+      },
+      {
+         "name": "NRK P1 Nordland",
+         "logo": "Nordland",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_nordland_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_nordland_mp3_l.m3u",
+         "note": "Bodø (Local)"
+      },
+      {
+         "name": "NRK P1 Hedmark og Oppland",
+         "logo": "Hedmark",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_l.m3u",
+         "note": "Lillehammer (Local)"
+      },
+      {
+         "name": "NRK P1 Rogaland",
+         "logo": "Rogaland",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_rogaland_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_rogaland_mp3_l.m3u",
+         "note": "Hafrsfjord (Local)"
+      },
+      {
+         "name": "NRK P1 Sogn og Fjordane",
+         "logo": "Sogn",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_sogn_og_fjordane_mp3_l.m3u",
+         "note": "Førde (Local)"
+      },
+      {
+         "name": "NRK P1 Sørlandet",
+         "logo": "Sorlandet",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_sorlandet_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_sorlandet_mp3_l.m3u",
+         "note": "Kristiansand (Local)"
+      },
+      {
+         "name": "NRK P1 Telemark",
+         "logo": "Telemark",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_telemark_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_telemark_mp3_l.m3u",
+         "note": "Porsgrunn (Local)"
+      },
+      {
+         "name": "NRK P1 Troms",
+         "logo": "Troms",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_troms_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_troms_mp3_l.m3u",
+         "note": "Tromsø (Local)"
+      },
+      {
+         "name": "NRK P1 Trøndelag",
+         "logo": "Trondelag",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_trondelag_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_trondelag_mp3_l.m3u",
+         "note": "Trondheim (Local)"
+      },
+      {
+         "name": "NRK P1 Vestfold",
+         "logo": "Vestfold",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_vestfold_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_vestfold_mp3_l.m3u",
+         "note": "Tønsberg (Local)"
+      },
+      {
+         "name": "NRK P1 Østfold",
+         "logo": "Ostfold",
+         "link": "http://lyd.nrk.no/nrk_radio_p1_ostfold_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1_ostfold_mp3_l.m3u",
+         "note": "Fredrikstad (Local)"
+      },
+      {
+         "name": "NRK P1+",
+         "logo": "P1+",
+         "link": "http://lyd.nrk.no/nrk_radio_p1pluss_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p1pluss_aac_h.m3u",
+         "note": "News / Talk / Culture / Oldies"
+      },
+      {
+         "name": "NRK P2",
+         "logo": "P2",
+         "link": "http://lyd.nrk.no/nrk_radio_p2_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p2_aac_h.m3u",
+         "note": "News / Culture / Community"
+      },
+      {
+         "name": "NRK P3",
+         "logo": "P3",
+         "link": "http://lyd.nrk.no/nrk_radio_p3_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p3_aac_h.m3u",
+         "note": "News / Talk / Humour / Music"
+      },
+      {
+         "name": "NRK P3 Radioresepsjonen",
+         "logo": "Radioresepsjonen",
+         "link": "http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p3_radioresepsjonen_mp3_l.m3u",
+         "note": "Humour"
+      },
+      {
+         "name": "NRK P3 National rap show",
+         "logo": "National",
+         "link": "http://lyd.nrk.no/nrk_radio_p3_national_rap_show_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p3_national_rap_show_mp3_l.m3u",
+         "note": "Rap/HipHop Music"
+      },
+      {
+         "name": "NRK P3 Pyro",
+         "logo": "Pyro",
+         "link": "http://lyd.nrk.no/nrk_radio_p3_pyro_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p3_pyro_mp3_l.m3u",
+         "note": "Hard Rock / Heavy Metal Music"
+      },
+      {
+         "name": "NRK P3 Urørt",
+         "logo": "NRK",
+         "link": "http://lyd.nrk.no/nrk_radio_p3_urort_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p3_urort_aac_h.m3u",
+         "note": "Pop Music"
+      },
+      {
+         "name": "NRK P13",
+         "logo": "P13",
+         "link": "http://lyd.nrk.no/nrk_radio_p13_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_p13_mp3_l.m3u",
+         "note": "Rock Music"
+      },
+      {
+         "name": "NRK mP3",
+         "logo": "mP3",
+         "link": "http://lyd.nrk.no/nrk_radio_mp3_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_mp3_aac_h.m3u",
+         "note": "Pop Music"
+      },
+      {
+         "name": "NRK Klassisk",
+         "logo": "Klassisk",
+         "link": "http://lyd.nrk.no/nrk_radio_klassisk_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_klassisk_aac_h.m3u",
+         "note": "Classical Music"
+      },
+      {
+         "name": "NRK Alltid Nyheter",
+         "logo": "Nyheter",
+         "link": "http://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_alltid_nyheter_aac_h.m3u",
+         "note": "News"
+      },
+      {
+         "name": "NRK Folkemusikk",
+         "logo": "Folkemusikk",
+         "link": "http://lyd.nrk.no/nrk_radio_folkemusikk_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_folkemusikk_aac_h.m3u",
+         "note": "Folk Music"
+      },
+      {
+         "name": "NRK Sámi Radio",
+         "logo": "Sami",
+         "link": "http://lyd.nrk.no/nrk_radio_sami_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_sami_aac_h.m3u",
+         "note": "Karasjohka (Local)"
+      },
+      {
+         "name": "NRK Jazz",
+         "logo": "Jazz",
+         "link": "http://lyd.nrk.no/nrk_radio_jazz_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_jazz_aac_h.m3u",
+         "note": ""
+      },
+      {
+         "name": "NRK Super",
+         "logo": "Super",
+         "link": "http://lyd.nrk.no/nrk_radio_super_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_super_aac_h.m3u",
+         "note": "Youth"
+      },
+      {
+         "name": "NRK Sport",
+         "logo": "Sport",
+         "link": "http://lyd.nrk.no/nrk_radio_sport_aac_l.m3u",
+         "http": "http://lyd.nrk.no/nrk_radio_sport_aac_h.m3u",
+         "note": "Sport"
+      },
+      {
+         "name": "102",
+         "logo": "102",
+         "link": "http://downstream.radio.raw.no:8000/radio102.m3u",
+         "http": "",
+         "note": "Top 30 (Karmøy, Local)"
+      },
+      {
+         "name": "1FM",
+         "logo": "1FM",
+         "link": "http://213.158.233.199:2026/listen.pls",
+         "http": "http://213.158.233.199:2012/listen.pls",
+         "note": "Top 30 (Molde, Local)"
+      },
+      {
+         "name": "3",
+         "logo": "3",
+         "link": "http://wms.yourstation.com:8000/listen.pls?sid=2",
+         "http": "",
+         "note": "Top 30 (Bodø, Local)"
+      },
+      {
+         "name": "Altaposten",
+         "logo": "Altaposten",
+         "link": "http://lyd.radioalta.no/radioalta-128k.m3u",
+         "http": "",
+         "note": "Top 30 (Alta, Local)"
+      },
+      {
+         "name": "Askøy",
+         "logo": "Askoy",
+         "link": "http://213.158.233.199:8577/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Atlantic",
+         "logo": "Atlantic",
+         "link": "http://204.232.197.158:8022/listen.pls",
+         "http": "",
+         "note": "Sandnes"
+      },
+      {
+         "name": "Beat",
+         "logo": "Beat",
+         "link": "http://www.listenlive.eu/no_thebeat_mp3.m3u",
+         "http": "",
+         "note": "RnB/HipHop Music"
+      },
+      {
+         "name": "Beiarn",
+         "logo": "Beiarn",
+         "link": "http://uk3-vn.mixstream.net/listen/8080.m3u",
+         "http": "",
+         "note": "Moldjord (Local)"
+      },
+      {
+         "name": "Bø",
+         "logo": "B",
+         "link": "http://nettradio.radiobo.com/radiobo-med.m3u",
+         "http": "http://nettradio.radiobo.com/radiobo-high.m3u",
+         "note": ""
+      },
+      {
+         "name": "ElverumsRadioen",
+         "logo": "ElverumsRadioen",
+         "link": "http://109.169.96.11:8000/elverum.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Flisa, Local)"
+      },
+      {
+         "name": "Grenland",
+         "logo": "Grenland",
+         "link": "http://stream.jaerradiogruppen.no:8020/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Hallingdal",
+         "logo": "Hallingdal",
+         "link": "http://www.radiohallingdal.no/radiohallingdal.m3u",
+         "http": "",
+         "note": "Hol (Local)"
+      },
+      {
+         "name": "HamarRadioen",
+         "logo": "HamarRadioen",
+         "link": "http://109.169.96.11:8000/hamar.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "HamarRadioen Hits",
+         "logo": "Hits",
+         "link": "http://109.169.96.11:8000/hamarhits.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Haugaland",
+         "logo": "Haugaland",
+         "link": "http://stream.radioh.no:443/rh.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Jazzabit",
+         "logo": "Jazzabit",
+         "link": "http://213.158.233.199:2042/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "JærRadioen",
+         "logo": "JrRadioen",
+         "link": "http://stream.jaerradiogruppen.no:8018/listen.pls",
+         "http": "",
+         "note": "Top 30 (Sandnes, Local)"
+      },
+      {
+         "name": "Kiss",
+         "logo": "Kiss",
+         "link": "http://stream.bauermedia.no:8000/kiss.mp3.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Kongsvinger",
+         "logo": "Kongsvinger",
+         "link": "http://stream.radiokongsvinger.no:8000/stream128.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "L",
+         "logo": "L",
+         "link": "http://www.listenlive.eu/no_radiol_mp3.m3u",
+         "http": "http://www.listenlive.eu/no_radiol_aac.m3u",
+         "note": "Lillesand (Local)"
+      },
+      {
+         "name": "Loland",
+         "logo": "Loland",
+         "link": "http://www.listenlive.eu/no_radiololand_mp3.m3u",
+         "http": "http://www.listenlive.eu/no_radiololand_aac.m3u",
+         "note": "Vennesla (Local)"
+      },
+      {
+         "name": "Lyngdal",
+         "logo": "Lyngdal",
+         "link": "http://server2.v.asphost.no:8000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Meloy",
+         "logo": "Meloy",
+         "link": "http://www.radiomeloy.no/high.m3u",
+         "http": "",
+         "note": "Ørnes (Local)"
+      },
+      {
+         "name": "Metro Oslo",
+         "logo": "Oslo",
+         "link": "http://stream.21stventure.com:8100/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Metro Buskerud",
+         "logo": "Metro",
+         "link": "http://stream.21stventure.com:8102/listen.pls",
+         "http": "",
+         "note": "Drammen (Local)"
+      },
+      {
+         "name": "Metro Mjøsbyene",
+         "logo": "Mjosbyene",
+         "link": "http://stream.21stventure.com:8104/listen.pls",
+         "http": "",
+         "note": "Gjøvik (Local)"
+      },
+      {
+         "name": "Metro Trondheim",
+         "logo": "Trondhei",
+         "link": "http://stream.21stventure.com:8108/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Metro Østfold",
+         "logo": "Ostfol",
+         "link": "http://stream.21stventure.com:8116/listen.pls",
+         "http": "",
+         "note": "Askim (Local)"
+      },
+      {
+         "name": "Metro Romerike",
+         "logo": "Romerike",
+         "link": "http://stream.21stventure.com:8114/listen.pls",
+         "http": "",
+         "note": "Lillestrøm (Local)"
+      },
+      {
+         "name": "Modum",
+         "logo": "Modum",
+         "link": "http://www.radiomodum.no/webradio.php?bitrate=48",
+         "http": "",
+         "note": "Geithus (Local)"
+      },
+      {
+         "name": "Narvik Studentradio",
+         "logo": "Narvik",
+         "link": "http://stream.sysrq.no:8000/00-nsr.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Nord-Salten",
+         "logo": "Nord-Salten",
+         "link": "http://wms.yourstation.com:8000/listen.pls?sid=5",
+         "http": "",
+         "note": "Småtindan (Local)"
+      },
+      {
+         "name": "Nordkapp",
+         "logo": "Nordkapp",
+         "link": "http://109.169.37.37:8000/listen.pls",
+         "http": "",
+         "note": "Honningsvåg (Local)"
+      },
+      {
+         "name": "Nordsjø",
+         "logo": "Nordsj",
+         "link": "http://stream.jaerradiogruppen.no:8010/listen.pls",
+         "http": "",
+         "note": "Egersund (Local)"
+      },
+      {
+         "name": "Norge",
+         "logo": "Norge",
+         "link": "http://stream2.sbsradio.no/radionorge.mp3.m3u",
+         "http": "http://stream2.sbsradio.no/radionorge.aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "Nova",
+         "logo": "Nova",
+         "link": "http://stream.radionova.no/fm993.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "NRJ",
+         "logo": "NRJ",
+         "link": "http://www.listenlive.eu/nrj_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/nrj_aac_lq.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "Nærkanalen",
+         "logo": "Nrkanalen",
+         "link": "http://www.narkanalen.no/high.m3u",
+         "http": "",
+         "note": "Ørnes (Local)"
+      },
+      {
+         "name": "Ordentlig Radio",
+         "logo": "Ordentlig",
+         "link": "http://mms-live.online.no/oradio_mp3_m.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "P4",
+         "logo": "P4",
+         "link": "http://www.listenlive.eu/p4_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p4_aac_lq.m3u",
+         "note": "Lillehammer (Local)"
+      },
+      {
+         "name": "P4 Bandit",
+         "logo": "Bandit",
+         "link": "http://www.listenlive.eu/bandit_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/bandit_aac_lq.m3u",
+         "note": "Lillehammer"
+      },
+      {
+         "name": "P5 Oslo",
+         "logo": "P5",
+         "link": "http://www.listenlive.eu/p5oslo_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p5oslo_aac_lq.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "P5 Bergen",
+         "logo": "Bergen",
+         "link": "http://www.listenlive.eu/p5bergen_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p5bergen_aac_lq.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "P5 Stavanger",
+         "logo": "Stavanger",
+         "link": "http://www.listenlive.eu/p5stavanger_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p5stavanger_aac_lq.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "P5 Trondheim",
+         "logo": "Trondheim",
+         "link": "http://www.listenlive.eu/p5trondheim_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p5trondheim_aac_lq.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "P6 Rock",
+         "logo": "P6",
+         "link": "http://www.listenlive.eu/p6_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p6_aac_lq.m3u",
+         "note": ""
+      },
+      {
+         "name": "P7 Klem",
+         "logo": "P7",
+         "link": "http://www.listenlive.eu/p7_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p7_aac_lq.m3u",
+         "note": ""
+      },
+      {
+         "name": "P8 Pop",
+         "logo": "P8",
+         "link": "http://www.listenlive.eu/p8_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p8_aac_lq.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "P9 Retro",
+         "logo": "P9",
+         "link": "http://www.listenlive.eu/p9_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p9_aac_lq.m3u",
+         "note": "Lillehammer (Local)"
+      },
+      {
+         "name": "P10 Mix",
+         "logo": "P10",
+         "link": "http://www.listenlive.eu/p10_mp3_mq.m3u",
+         "http": "http://www.listenlive.eu/p10_aac_lq.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "P7 Kystradioen",
+         "logo": "Kystradioen",
+         "link": "http://4832.cloudrad.io:8054/p7kystradioen.mp3.m3u",
+         "http": "",
+         "note": "Bergen (Local)"
+      },
+      {
+         "name": "POPradio",
+         "logo": "POPradio",
+         "link": "http://public.popradio.no:8058/live.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Prime Halden",
+         "logo": "Halden",
+         "link": "http://primestream.monsternett.no:8000/prime.mp3.m3u",
+         "http": "",
+         "note": "Classic"
+      },
+      {
+         "name": "Prime Moss",
+         "logo": "Moss",
+         "link": "http://primestream.monsternett.no:8000/moss.mp3.m3u",
+         "http": "",
+         "note": "Classic"
+      },
+      {
+         "name": "Prime Sarpsborg",
+         "logo": "Sarpsborg",
+         "link": "http://primestream.monsternett.no:8000/sarpsborg.mp3.m3u",
+         "http": "",
+         "note": "Classic"
+      },
+      {
+         "name": "Prime Fredrikstad",
+         "logo": "Fredrikstad",
+         "link": "http://primestream.monsternett.no:8000/fredrikstad.mp3.m3u",
+         "http": "",
+         "note": "Classic"
+      },
+      {
+         "name": "Prime Stromstad",
+         "logo": "Stromstad",
+         "link": "http://primestream.monsternett.no:8000/stromstad.mp3.m3u",
+         "http": "",
+         "note": "Classic Music"
+      },
+      {
+         "name": "Radio+ Country",
+         "logo": "Country",
+         "link": "http://stream.etermedier.no:8128/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio+ Nostalgi",
+         "logo": "Nostalgi",
+         "link": "http://stream.etermedier.no:8126/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio+ Dans",
+         "logo": "Dans",
+         "link": "http://stream.etermedier.no:8130/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Randsfjord",
+         "logo": "Randsfjord",
+         "link": "http://radiorandsfjord.no/randsfjord128.m3u",
+         "http": "http://radiorandsfjord.no/randsfjord64.m3u",
+         "note": ""
+      },
+      {
+         "name": "Revolt",
+         "logo": "Revolt",
+         "link": "http://streamer.radiorevolt.no:8000/revolt.m3u",
+         "http": "",
+         "note": "Trondheim (Local)"
+      },
+      {
+         "name": "Rock",
+         "logo": "Rock",
+         "link": "http://stream2.sbsradio.no/radiorock.mp3.m3u",
+         "http": "http://stream2.sbsradio.no/radiorock.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Rock FM",
+         "logo": "Nesodden",
+         "link": "http://67.212.189.122:8119/listen.pls",
+         "http": "",
+         "note": "Nesodden (Local)"
+      },
+      {
+         "name": "Rox 90.1",
+         "logo": "Rox",
+         "link": "http://stream.radiorox.no:8040/listen.pls",
+         "http": "",
+         "note": "Rock/Pop Music"
+      },
+      {
+         "name": "Salten",
+         "logo": "Salten",
+         "link": "http://wms.yourstation.com:8000/listen.pls?sid=3",
+         "http": "",
+         "note": "Rognan (Local)"
+      },
+      {
+         "name": "Sandefjord",
+         "logo": "Sandefjord",
+         "link": "http://stream.jaerradiogruppen.no:8006/listen.pls",
+         "http": "",
+         "note": "Sem (Local)"
+      },
+      {
+         "name": "Sandnes",
+         "logo": "Sandnes",
+         "link": "http://stream.jaerradiogruppen.no:8016/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Smaalenene",
+         "logo": "Smaalenene",
+         "link": "http://stream.radiosmaalenene.no:8010/listen.pls",
+         "http": "",
+         "note": "Askim (Local)"
+      },
+      {
+         "name": "SolørRadioen",
+         "logo": "SolorRadioen",
+         "link": "http://109.169.96.11:8000/solor.mp3.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Sotra FM",
+         "logo": "Sotra",
+         "link": "http://213.158.233.199:2018/listen.pls",
+         "http": "",
+         "note": "Straume (Local)"
+      },
+      {
+         "name": "Sunnhordland",
+         "logo": "Sunnhordland",
+         "link": "http://stream.radioh.no:443/rs.mp3.m3u",
+         "http": "",
+         "note": "Stord (Local)"
+      },
+      {
+         "name": "Sør Kristiansand",
+         "logo": "Kristiansand",
+         "link": "http://www.listenlive.eu/no_radiosor_mp3.m3u",
+         "http": "http://www.listenlive.eu/no_radiosor_aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "Sør Lindesnes",
+         "logo": "Lindesnes",
+         "link": "http://www.listenlive.eu/no_radiosorlindesnes_mp3.m3u",
+         "http": "http://www.listenlive.eu/no_radiosorlindesnes_aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "TrysilRadioen",
+         "logo": "TrysilRadioen",
+         "link": "http://109.169.96.11:8000/trysil.mp3.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Tromsø",
+         "logo": "Trom",
+         "link": "http://wms.yourstation.com:8000/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Trøndelag",
+         "logo": "Trondela",
+         "link": "http://webradio.radiomt.no:8000/radio.m3u",
+         "http": "",
+         "note": "Stjørdal (Local)"
+      },
+      {
+         "name": "Tønsberg",
+         "logo": "Tonsberg",
+         "link": "http://213.158.233.199:9060/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Øksnes",
+         "logo": "Oksnes",
+         "link": "http://radiooksnes-nettradio.myftp.org:8100/listen.pls",
+         "http": "",
+         "note": "Myre (Local)"
+      },
+      {
+         "name": "Øst",
+         "logo": "Ost",
+         "link": "http://stream.radio-ost.no:8002/listen.pls",
+         "http": "",
+         "note": "Råde (Local)"
+      },
+      {
+         "name": "Voice",
+         "logo": "Voice",
+         "link": "http://stream2.sbsradio.no/thevoiceoslo.mp3.m3u",
+         "http": "http://stream2.sbsradio.no/thevoiceoslo.aac.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "Voice Stavanger",
+         "logo": "Stavange",
+         "link": "http://stream2.sbsradio.no/thevoicestavanger.mp3.m3u",
+         "http": "http://stream2.sbsradio.no/thevoicestavanger.aac.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "Voice Trondheim",
+         "logo": "Trondhe",
+         "link": "http://stream2.sbsradio.no/thevoicetrondheim.mp3.m3u",
+         "http": "http://stream2.sbsradio.no/thevoicetrondheim.aac.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "Studentradioen",
+         "logo": "Studentradioen",
+         "link": "http://lyd.uia.no:8010/listen.pls",
+         "http": "",
+         "note": "Kristiansand (Local)"
       }
    ]
 }

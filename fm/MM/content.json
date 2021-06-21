@@ -43,13 +43,62 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "မြန်မာ့အသံ",
+         "logo": "mrtv",
+         "link": "http://203.81.77.250:88/broadwave.m3u?src=1&rate=1",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "တိုင်းရင်းသားအစီအစဉ်-၁",
+         "logo": "mrt",
+         "link": "http://203.81.68.21:88/broadwave.m3u?src=1&rate=1",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Cherry FM",
+         "logo": "Cherry",
+         "link": "http://knight.wavestreamer.com:5511/live.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Mandalay FM",
+         "logo": "Mandalay",
+         "link": "http://neon.wavestreamer.com:6561/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Padamyar FM 88.2",
+         "logo": "Padamyar",
+         "link": "https://s2.radio.co/s969e6c4b7/listen",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Teen Radio Pyinsawadi 91.0 FM",
+         "logo": "Teen",
+         "link": "http://stereo.wavestreamer.com:4242/listen.pls",
+         "http": "",
+         "note": "Youth"
+      },
+      {
+         "name": "Thazin FM",
+         "logo": "Thazin",
+         "link": "http://78.129.224.21:4447/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "MI Radio",
+         "logo": "MI",
+         "link": "https://hls.rastream.com/monnect-mir.web.hls/playlist.m3u8",
+         "http": "",
+         "note": "Talk"
       }
    ]
 }

@@ -43,13 +43,279 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Adhyatma Jyoti FM 104.8 रेडियो अध्यात्म ज्योति",
+         "logo": "Adhyatma",
+         "link": "http://108.166.174.131:8060/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Annapurna रेडियो अन्नपूर्ण",
+         "logo": "Annapurna",
+         "link": "http://streaming.softnep.net:8091/listen.pls",
+         "http": "",
+         "note": "Top News"
+      },
+      {
+         "name": "Audio 103.6 FM रेडियो अडियो",
+         "logo": "Audio",
+         "link": "http://streaming.softnep.net:8049/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "BFBS Gurkha",
+         "logo": "BFBS",
+         "link": "http://direct.sharp-stream.com/ssvcbfbs3.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Bhaktapur FM 105.4 भक्तपुर एफ.एम",
+         "logo": "Bhaktapur",
+         "link": "http://49.236.212.220:88/broadwave.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Big 101.2 FM Unik Chaa",
+         "logo": "Unik",
+         "link": "http://www.surfmusic.de/m3u/big-101-2-fm-unik-chaa,13786.m3u",
+         "http": "http://192.240.102.133:12406/stream?type=http&nocache=7",
+         "note": "Pokhara (Local)"
+      },
+      {
+         "name": "Buddha Awaaz 89.6 FM",
+         "logo": "Buddha",
+         "link": "http://www.surfmusic.de/m3u/radio-buddha-awaaz-89-6-fm,18030.m3u",
+         "http": "",
+         "note": "Kapilvastu (Local)"
+      },
+      {
+         "name": "Butwal FM 94.4",
+         "logo": "Butwal",
+         "link": "http://www.surfmusic.de/m3u/butwal-fm-94-4,18031.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Capital FM क्यापिटल एफ.एम",
+         "logo": "Capital",
+         "link": "http://streaming.softnep.net:8037/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Chitwan 94.6 FM",
+         "logo": "Chitwan",
+         "link": "http://www.surfmusic.de/m3u/radio-chitwan-94-6-fm,20029.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "City 98.8 FM रेडियो सिटी",
+         "logo": "City",
+         "link": "http://108.166.174.131:8006/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Didi Bahini 95.2 FM",
+         "logo": "Didi",
+         "link": "http://www.surfmusic.de/m3u/radio-didi-bahini-95-2-fm,18032.m3u",
+         "http": "",
+         "note": "Kusma (Local)"
+      },
+      {
+         "name": "Dinesh FM 93.8 FM",
+         "logo": "Dinesh",
+         "link": "http://www.surfmusic.de/m3u/dinesh-fm-93-8-fm,19092.m3u",
+         "http": "",
+         "note": "Dhangadhi (Local)"
+      },
+      {
+         "name": "Gorkha FM 93 पर्यावरण चक्र रेडियो",
+         "logo": "Gorkha",
+         "link": "http://icecast.eastlinkhost.com:8001/stream.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Himalaya",
+         "logo": "Himalaya",
+         "link": "http://www.surfmusic.de/m3u/radio-himalaya,19632.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Hits FM 91.2 FM",
+         "logo": "Hits",
+         "link": "http://webstream.hitsfm.com.np:5098/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/hits-fm-91-2-fm,13787.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Image 97.9 FM",
+         "logo": "Image",
+         "link": "http://172.17.10.29:89/broadwave.m3u?src=1&rate=1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Image News FM 103.6",
+         "logo": "Imag",
+         "link": "http://172.17.10.29:88/broadwave.m3u?src=1&rate=1",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Jaljala 105.4 FM",
+         "logo": "Jaljala",
+         "link": "http://www.surfmusic.de/m3u/radio-jaljala-105-4-fm,18033.m3u",
+         "http": "https://live.itech.host:8149/stream",
+         "note": "Rolpa (Local)"
+      },
+      {
+         "name": "Janasanchar 107.9 FM रेडियो जनसंचार",
+         "logo": "Janasanchar",
+         "link": "http://jfm.online.org.np:5998/listen.pls",
+         "http": "http://jfm.online.org.np:5998/;stream.mp3?_=1",
+         "note": ""
+      },
+      {
+         "name": "Kalika FM 95.2 FM",
+         "logo": "Kalika",
+         "link": "http://www.surfmusic.de/m3u/kalika-fm-95-2-fm,16363.m3u",
+         "http": "",
+         "note": "Chitwan (Local)"
+      },
+      {
+         "name": "Kanchanjungha FM 92.6 FM",
+         "logo": "Kanchanjungha",
+         "link": "http://www.surfmusic.de/m3u/kanchanjungha-fm-92-6-fm,18034.m3u",
+         "http": "https://live.itech.host:8425/stream",
+         "note": "Jhapa (Local)"
+      },
+      {
+         "name": "Kantipur FM",
+         "logo": "Kantipur",
+         "link": "http://broadcast.radiokantipur.com:7248/stream.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-kantipur-fm,13785.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Lamjung 91.8 FM",
+         "logo": "Lamjung",
+         "link": "http://www.surfmusic.de/m3u/radio-lamjung-91-8-fm,18035.m3u",
+         "http": "https://live.itech.host:8951/stream?type=.mp3",
+         "note": "Local"
+      },
+      {
+         "name": "Mero FM 93.3 मेरो एफ.एम",
+         "logo": "Mero",
+         "link": "http://37.59.42.207:8134/listen.pls",
+         "http": "http://streaming.hamropatro.com:8078/;",
+         "note": ""
+      },
+      {
+         "name": "Metro Traffic FM 95.6 मेट्रो ट्राफिक एफ.एम",
+         "logo": "Metro",
+         "link": "http://91.121.113.129:8260/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mirmire 89.4 FM रेडियो मिर्मिरे",
+         "logo": "Mirmire",
+         "link": "http://108.166.174.131:8232/listen.pls",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Mithila 100.8 FM",
+         "logo": "Mithila",
+         "link": "http://streaming.hamropatro.com:8246/;stream.mp3",
+         "http": "http://www.surfmusic.de/m3u/radio-mithila-100-8-fm,17685.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "MY FM",
+         "logo": "Kota",
+         "link": "http://www.surfmusic.de/m3u/my-fm,14778.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "MY FM Kota Kinabalu",
+         "logo": "Kinabalu",
+         "link": "http://www.surfmusic.de/m3u/my-fm-kota-kinabalu,16148.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Nepal FM नेपाल एफ.एम",
+         "logo": "NepalFM",
+         "link": "http://radio.itechnepal.com/nfm/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Nepal रेडियो नेपाल",
+         "logo": "Nepa",
+         "link": "http://radionepal.gov.np:40100/stream.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-nepal,18029.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Nepaliko नेपालीको रेडियो",
+         "logo": "Nepaliko",
+         "link": "http://144.76.110.138:9888/listen.pls",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Paryabaran FM 104.2 पर्यावरण चक्र रेडियो",
+         "logo": "Paryabaran",
+         "link": "http://icecast.eastlinkhost.com:8001/stream.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Reeyaz FM 96.8 रेडियो रीयाज़",
+         "logo": "Reeyaz",
+         "link": "http://50.7.70.58:8658/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sagarmatha 102.4 FM रेडियाे सगरमाथा",
+         "logo": "Sagarmatha",
+         "link": "http://108.166.174.131:8004/listen.pls",
+         "http": "http://143.95.89.54:9322/;&autostart=true",
+         "note": ""
+      },
+      {
+         "name": "STAR FM 95.2",
+         "logo": "STA",
+         "link": "https://live.itech.host:9544/stream",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ujyaalo उज्यालो एफ.एम",
+         "logo": "Ujyaalo",
+         "link": "http://ujyaalo-stream.softnep.com:7710/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Upatyaka 87.6 FM रेडियो उपत्यका",
+         "logo": "Upatyaka",
+         "link": "http://live.radioupatyaka.com.np:8124/listen.pls",
+         "http": "",
+         "note": "Talk"
       }
    ]
 }

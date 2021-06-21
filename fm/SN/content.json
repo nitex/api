@@ -43,13 +43,286 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "A2i",
+         "logo": "A2i",
+         "link": "http://www.surfmusic.de/m3u/a2i-radio,20551.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Africa Radio",
+         "logo": "Afric",
+         "link": "http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Africa7",
+         "logo": "Africa7",
+         "link": "http://162.254.149.235:8081/africa7radio/live/icecast.audio",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Al Fayda FM 90.1",
+         "logo": "Fayda",
+         "link": "http://192.99.35.93:6310/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/al-fayda-fm-90-1,19234.m3u",
+         "note": ""
+      },
+      {
+         "name": "Allo Dakar Tam Tam",
+         "logo": "Allo",
+         "link": "http://www.surfmusic.de/m3u/radio-allo-dakar-tam-tam,19536.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Asfiyahi FM 97.3",
+         "logo": "Asfiyahi",
+         "link": "http://www.surfmusic.de/m3u/asfiyahi-fm-97-3,20552.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Baye Fall FM",
+         "logo": "Baye",
+         "link": "http://www.surfmusic.de/m3u/bayefall-fm,19232.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "BBC Afrique",
+         "logo": "BBC",
+         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-frena.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Carrefour FM 90.0",
+         "logo": "Carrefour",
+         "link": "https://carrefourfm.ice.infomaniak.ch/carrefour.mp3",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Diamalahi FM 92.3",
+         "logo": "Diamalahi",
+         "link": "http://www.surfmusic.de/m3u/diamalahi-fm-92-3,18244.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Dunyaa 88.9 FM",
+         "logo": "Dunyaa",
+         "link": "http://node-06.zeno.fm/a7whxn0hq9duv.aac",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "FM Sénégal 103.1",
+         "logo": "Senegal",
+         "link": "http://stream.zenolive.com/t8gcyq6ts0quv.aac",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "iRadio",
+         "logo": "iRadio",
+         "link": "https://listen.radioking.com/radio/250102/stream/306970",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Lamp Fall FM",
+         "logo": "Lamp",
+         "link": "http://www.surfmusic.de/m3u/lampfall-fm,5153.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Medina Baye",
+         "logo": "Medina",
+         "link": "http://www.surfmusic.de/m3u/medina-baye-radio,20553.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "OXY Jeunes FM 103.4",
+         "logo": "OXY",
+         "link": "http://www.surfmusic.de/m3u/pikine-103-4-fm,19236.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Rewmi FM 97.5",
+         "logo": "Rewmi",
+         "link": "http://node-10.zeno.fm/nkzsqg16t8quv",
+         "http": "http://www.surfmusic.de/m3u/rewmi-fm-97-5,18243.m3u",
+         "note": ""
+      },
+      {
+         "name": "RFI Afrique",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RFM (Futurs Médias) 94 FM",
+         "logo": "RFM",
+         "link": "http://node-35.zeno.fm/f480h9xkrxquv",
+         "http": "http://www.surfmusic.de/m3u/rfm-radio-94-fm,5154.m3u",
+         "note": "News, Music"
+      },
+      {
+         "name": "RTS Chaîne Nationale",
+         "logo": "Nationale",
+         "link": "http://node-16.zeno.fm/6c5cv8nrt1duv.aac",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "RTS Dakar FM 94.5",
+         "logo": "Dakar",
+         "link": "http://node-29.zeno.fm/cbff588f03duv",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "RTS International",
+         "logo": "International",
+         "link": "http://node-24.zeno.fm/4ug134nd28quv",
+         "http": "http://www.surfmusic.de/m3u/rts-sedhiou-fm,18242.m3u",
+         "note": "News"
+      },
+      {
+         "name": "RTS Thiès FM",
+         "logo": "RTS",
+         "link": "http://node-07.zeno.fm/ccefz6rss1duv",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Seneweb",
+         "logo": "Seneweb",
+         "link": "http://www.surfmusic.de/m3u/seneweb-radio,16650.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Soxna FM 99.9",
+         "logo": "Soxna",
+         "link": "http://stream.zenolive.com/qkm1zuqb4rquv.aac",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sud FM",
+         "logo": "Sud",
+         "link": "http://node-11.zeno.fm/rq40edfn3reuv.mp3",
+         "http": "http://www.surfmusic.de/m3u/sudfm,10026.m3u",
+         "note": ""
+      },
+      {
+         "name": "Sunuker",
+         "logo": "Sunuker",
+         "link": "http://www.surfmusic.de/m3u/radio-sunuker-de-la-bonne-musique,16648.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Tetiane",
+         "logo": "Tetiane",
+         "link": "http://www.surfmusic.de/m3u/radio-tetiane,18482.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Top FM 97.8",
+         "logo": "TopFM",
+         "link": "http://node-20.zeno.fm/dxdd1x3a2mruv",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Trace FM",
+         "logo": "Trace",
+         "link": "http://stream.trace.tv/trace_fm_senegal-midfi.aac",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Trade FM 88.1",
+         "logo": "Trade",
+         "link": "http://tradefm.ice.infomaniak.ch/tradefm-192.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "UCAD FM 94.7",
+         "logo": "UCAD",
+         "link": "http://node-18.zeno.fm/b38a68a1krquv.aac",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Urban Africa 97.1 FM",
+         "logo": "Urban",
+         "link": "http://node-19.zeno.fm/708hahhk22quv.aac",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Vibe 102.3 FM",
+         "logo": "Vibe",
+         "link": "http://217.182.132.137:8000/viberadio.mp3.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "VOA Afrique",
+         "logo": "VOA",
+         "link": "http://stream.radiojar.com/yuqn4nngq3quv",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "WADR West Africa Democracy 94.9 FM",
+         "logo": "WADR",
+         "link": "http://statslive.infomaniak.ch/playlist/westafricademocracyradio/westafricademocracyradio.mp3/playlist.m3u",
+         "http": "http://westafricademocracyradio.ice.infomaniak.ch/westafricademocracyradio.mp3",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Walf FM 99.0",
+         "logo": "Walf",
+         "link": "http://206.190.135.28:8036/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/walf-fm-99-0,19235.m3u",
+         "note": ""
+      },
+      {
+         "name": "Xalima",
+         "logo": "Xalima",
+         "link": "http://www.surfmusic.de/m3u/radio-xalima,16649.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Xassida",
+         "logo": "Xassida",
+         "link": "http://www.surfmusic.de/m3u/khassida-radio,20554.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Zik 105.9 FM",
+         "logo": "Zik",
+         "link": "https://node-13.zeno.fm/vtxarcfpmnruv",
+         "http": "http://www.surfmusic.de/m3u/zik-105-9-fm-dakar,16651.m3u",
+         "note": "News, Talk, Music"
       }
    ]
 }

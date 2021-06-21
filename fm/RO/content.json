@@ -43,13 +43,986 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "SRR Radio România Actualitati",
+         "logo": "Actualitati",
+         "link": "http://stream2.srr.ro:8000/listen.pls",
+         "http": "http://stream2.srr.ro:8002/listen.pls",
+         "note": "News"
+      },
+      {
+         "name": "SRR Radio România Cultural",
+         "logo": "Cultural",
+         "link": "http://stream2.srr.ro:8010/listen.pls",
+         "http": "http://stream2.srr.ro:8012/listen.pls",
+         "note": "Culture"
+      },
+      {
+         "name": "SRR Radio România Muzical",
+         "logo": "Muzical",
+         "link": "http://stream2.srr.ro:8020/listen.pls",
+         "http": "http://stream2.srr.ro:8022/listen.pls",
+         "note": "Classical Music"
+      },
+      {
+         "name": "SRR Radio România Antena Satelor",
+         "logo": "Satelor",
+         "link": "http://stream2.srr.ro:8040/listen.pls",
+         "http": "http://stream2.srr.ro:8042/listen.pls",
+         "note": "Talk / Music"
+      },
+      {
+         "name": "SRR Radio 3Net",
+         "logo": "3Net",
+         "link": "http://media.3netmedia.ro:8000/Live32.m3u",
+         "http": "http://media.3netmedia.ro:8000/Live.m3u",
+         "note": "Youth"
+      },
+      {
+         "name": "SRR Bucuresti FM",
+         "logo": "Bucuresti",
+         "link": "http://stream2.srr.ro:8030/listen.pls",
+         "http": "http://stream2.srr.ro:8032/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Cluj",
+         "logo": "Cluj",
+         "link": "http://89.238.227.6:8384/listen.pls",
+         "http": "",
+         "note": "Cluj Napoca (Local)"
+      },
+      {
+         "name": "SRR Radio Antena Sibiului",
+         "logo": "Sibiului",
+         "link": "http://89.238.227.6:8380/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Constanta",
+         "logo": "Constanta",
+         "link": "http://89.238.227.6:8332/listen.pls",
+         "http": "http://89.238.227.6:8336/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Iasi",
+         "logo": "Iasi",
+         "link": "http://89.238.227.6:8202/listen.pls",
+         "http": "http://89.238.227.6:8200/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Resita",
+         "logo": "Resita",
+         "link": "http://89.238.227.6:8344/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Oltenia Craiova",
+         "logo": "Craiova",
+         "link": "http://stream2.srr.ro:8370/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Târgu Mures",
+         "logo": "Mures",
+         "link": "http://streaming.radiomures.ro:8302/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Timisoara",
+         "logo": "Timisoara",
+         "link": "http://www.radio-timisoara.ro/live/RT_FM.m3u",
+         "http": "http://www.radio-timisoara.ro/live/RT_AM.m3u",
+         "note": ""
+      },
+      {
+         "name": "SRR Radio Arad",
+         "logo": "Arad",
+         "link": "http://www.radio-timisoara.ro/live/RT_FM_ARAD.m3u",
+         "http": "",
+         "note": "Timisoara (Local)"
+      },
+      {
+         "name": "Radio Romania International 1",
+         "logo": "International",
+         "link": "http://stream2.srr.ro:8050/listen.pls",
+         "http": "http://www.rri.ro/live_stream/rri_mp3_64_1.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio Romania International 2",
+         "logo": "2",
+         "link": "http://stream2.srr.ro:8060/listen.pls",
+         "http": "http://www.rri.ro/live_stream/rri_mp3_64_2.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio Romania International 3",
+         "logo": "3",
+         "link": "http://stream2.srr.ro:8070/listen.pls",
+         "http": "http://www.rri.ro/live_stream/rri_mp3_64_3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Ardeleanul FM",
+         "logo": "Ardeleanul",
+         "link": "http://live.ardeleanulfm.ro:8000/live128.m3u",
+         "http": "",
+         "note": "Alba Iulia (Local)"
+      },
+      {
+         "name": "Arena FM",
+         "logo": "Arena",
+         "link": "http://89.120.62.106:8010/listen.pls",
+         "http": "",
+         "note": "Top 30 (Calarasi, Local)"
+      },
+      {
+         "name": "Arges Expres FM",
+         "logo": "Arges",
+         "link": "http://82.208.131.35:8000/listen.pls",
+         "http": "http://radioargesexpres.ro/wp-content/themes/radioargesexpres/stream/listen.pls",
+         "note": "Pop Music (Curtea de Arges, Local)"
+      },
+      {
+         "name": "Atlas FM",
+         "logo": "Atlas",
+         "link": "http://www.atlasfm.ro:8005/listen.pls?sid=2",
+         "http": "",
+         "note": "Top 30 (Alba Iulia, Local)"
+      },
+      {
+         "name": "Banat FM",
+         "logo": "Banat",
+         "link": "http://banatfm.ro:8002/listen.pls",
+         "http": "",
+         "note": "Resita (Local)"
+      },
+      {
+         "name": "Best FM",
+         "logo": "Best",
+         "link": "http://83.103.171.223:3100/listen.pls",
+         "http": "",
+         "note": "Pop Music (Ploiesti, Local)"
+      },
+      {
+         "name": "Big FM",
+         "logo": "Big",
+         "link": "http://82.208.143.10:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Deva, Local)"
+      },
+      {
+         "name": "CFM 92,9",
+         "logo": "CFM",
+         "link": "http://playradio.longmusic.com:9090/CFM.m3u",
+         "http": "http://radiocfm.longmusic.com:9290/listen.pls?sid=1",
+         "note": "Top 30 / Music (Constanta, Local)"
+      },
+      {
+         "name": "City Radio",
+         "logo": "City",
+         "link": "http://live.city-radio.ro:8800/listen.pls",
+         "http": "",
+         "note": "Top 30 (Szatmárnémeti, Local)"
+      },
+      {
+         "name": "Connect FM",
+         "logo": "Connect",
+         "link": "http://188.27.234.93:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Onesti, Local)"
+      },
+      {
+         "name": "Erdély FM",
+         "logo": "Erdely",
+         "link": "http://erdelyfm.ro/erdelyfm.pls",
+         "http": "http://erdelyfm.ro/wp-content/themes/erdely-fm-theme/live-streams/ErdelyFM.pls",
+         "note": "Blues/Rock Music (Târgu Mureş, Local)"
+      },
+      {
+         "name": "Europa FM",
+         "logo": "Europa",
+         "link": "http://astreaming.europafm.ro:8000/europafm_aacp48k.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Favorit FM",
+         "logo": "Favorit",
+         "link": "http://91.250.252.251:8001/listen.pls",
+         "http": "",
+         "note": "Folk Music (Oradea, Local)"
+      },
+      {
+         "name": "Focus FM",
+         "logo": "Focus",
+         "link": "http://live.focusfm.ro:8000/focusfmhigh.ogg.m3u",
+         "http": "",
+         "note": "Top 30 (Buzău, Local)"
+      },
+      {
+         "name": "For You FM Sighetul Marmatiei",
+         "logo": "Sighetul",
+         "link": "http://serv1sighet.no-ip.org:8001/listen.pls",
+         "http": "",
+         "note": "Folk Music"
+      },
+      {
+         "name": "For You FM Nasaud",
+         "logo": "Nasaud",
+         "link": "http://serv1nasaud.no-ip.org:8003/listen.pls",
+         "http": "",
+         "note": "Folk Music"
+      },
+      {
+         "name": "Fun FM",
+         "logo": "Fun",
+         "link": "http://streamhost110.gtk.hu:9408/listen.pls",
+         "http": "",
+         "note": "Top 30 (Csíkszereda, Local)"
+      },
+      {
+         "name": "Galaxy FM 87,8",
+         "logo": "Galaxy",
+         "link": "http://live.rfmromania.ro:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Campulung Muscel, Local)"
+      },
+      {
+         "name": "Gold FM",
+         "logo": "Gold",
+         "link": "http://80.86.106.110:8000/listen.pls",
+         "http": "http://80.86.106.110:8002/listen.pls",
+         "note": "Oldies"
+      },
+      {
+         "name": "HFM",
+         "logo": "HFM",
+         "link": "http://www.radiorm.ro:8000/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Impact FM Suceava",
+         "logo": "Suceava",
+         "link": "http://stream.radioimpactfm.ro:1935/listen.pls",
+         "http": "http://stream.radioimpactfm.ro:9000/listen.pls",
+         "note": "Top 30"
+      },
+      {
+         "name": "Impact FM Iasi",
+         "logo": "Impact",
+         "link": "http://live.radioimpactfm.ro:8010/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Impact FM Piatra Neamt",
+         "logo": "Piatra",
+         "link": "http://live.radioimpactfm.ro:9003/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Itsy Bitsy FM",
+         "logo": "Itsy",
+         "link": "http://live.itsybitsy.ro:8000/itsybitsy.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Joy FM",
+         "logo": "Joy",
+         "link": "http://86.106.82.9:9010/joyfmlive.m3u",
+         "http": "",
+         "note": "Pop Music (Arad, Local)"
+      },
+      {
+         "name": "Kiss FM",
+         "logo": "Kiss",
+         "link": "http://80.86.106.136/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Magic FM",
+         "logo": "Magic",
+         "link": "http://80.86.106.35:9000/listen.pls",
+         "http": "https://www.magicfm.ro/listen.pls",
+         "note": ""
+      },
+      {
+         "name": "Mamaia 91.6 FM",
+         "logo": "Mamaia",
+         "link": "http://www.mamaiafm.ro/uploads/asculta-live/listen.pls",
+         "http": "",
+         "note": "Constanţa (Local)"
+      },
+      {
+         "name": "Mondo FM 101,5",
+         "logo": "Mondo",
+         "link": "http://78.96.60.21:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Petrosani, Local)"
+      },
+      {
+         "name": "Napoca FM",
+         "logo": "Napoca",
+         "link": "http://89.45.196.210/listen.pls",
+         "http": "",
+         "note": "Cluj Napoca (Local)"
+      },
+      {
+         "name": "National FM",
+         "logo": "National",
+         "link": "http://live2.nationalfm.ro:8001/listen.pls",
+         "http": "http://www.nationalfm.ro/assets/national-fm.pls",
+         "note": ""
+      },
+      {
+         "name": "Nova FM",
+         "logo": "Nova",
+         "link": "http://www.novafm.ro/nova.pls",
+         "http": "",
+         "note": "Top 30 (Lugoj, Local)"
+      },
+      {
+         "name": "One FM",
+         "logo": "One",
+         "link": "http://80.86.106.35:8000/listen.pls",
+         "http": "http://www.onefm.ro/listen.pls",
+         "note": "Dance/Club Music"
+      },
+      {
+         "name": "Paprika Rádió",
+         "logo": "Paprika",
+         "link": "http://95.128.168.50:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Cluj-Napoca, Local)"
+      },
+      {
+         "name": "Prima Radio",
+         "logo": "Prima",
+         "link": "http://live.prima-radio.ro:8000/listen.pls",
+         "http": "http://live.prima-radio.ro:8000/listen",
+         "note": "Odorheiu Secuiesc (Local)"
+      },
+      {
+         "name": "ProFM",
+         "logo": "Pro",
+         "link": "http://stream.profm.ro:8012/profm.mp3.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "ProFM Dance",
+         "logo": "ProFM",
+         "link": "http://stream.profm.ro:8032/dancefm.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Profi Radio",
+         "logo": "Profi",
+         "link": "http://94.52.0.2:8000/listen.pls",
+         "http": "",
+         "note": "Târgu Secuiesc (Local)"
+      },
+      {
+         "name": "Radio 1",
+         "logo": "1",
+         "link": "http://86.126.255.131:8000/r1.mp3.m3u",
+         "http": "",
+         "note": "Satu Mare (Local)"
+      },
+      {
+         "name": "Radio 1 Romania",
+         "logo": "Romania",
+         "link": "http://live.radiounu.com:8000/listen.pls",
+         "http": "http://live.radiounu.com:8000/listen",
+         "note": "Top 30 (Tecuci, Local)"
+      },
+      {
+         "name": "Radio 21",
+         "logo": "21",
+         "link": "http://astreaming.europafm.ro:8000/radio21_aacp48k.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Accent 99,2",
+         "logo": "Accent",
+         "link": "http://www.listenlive.eu/accentro.pls",
+         "http": "",
+         "note": "Folk Music (Targu Jiu, Local)"
+      },
+      {
+         "name": "Radio Arad 99,1 FM",
+         "logo": "99",
+         "link": "http://85.120.220.205:8000/radio-arad.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio AS Suceava",
+         "logo": "AS",
+         "link": "http://radioas.suceava.rdsnet.ro:8000/sample128.m3u",
+         "http": "",
+         "note": "Music/News"
+      },
+      {
+         "name": "Radio Balada",
+         "logo": "Balada",
+         "link": "http://89.136.110.145:88/broadwave.asx?src=1&kbps=128",
+         "http": "",
+         "note": "Folk Music (Bistriţa, Local)"
+      },
+      {
+         "name": "Radio Banat Link",
+         "logo": "Bana",
+         "link": "http://89.35.219.49:8000/listen.pls",
+         "http": "",
+         "note": "Timisoara (Local)"
+      },
+      {
+         "name": "Radio Brasov",
+         "logo": "Brasov",
+         "link": "http://82.77.45.227:8000/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Brasov Special",
+         "logo": "Special",
+         "link": "http://82.77.45.227:8050/listen.pls",
+         "http": "http://radiobrasovspecial.ro/listen.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio Campus",
+         "logo": "Campus",
+         "link": "http://85.120.40.106:8004/listen.pls",
+         "http": "",
+         "note": "Slobozia (Local)"
+      },
+      {
+         "name": "Radio Color 92.1",
+         "logo": "Color",
+         "link": "http://82.78.244.174:8000/listen.pls",
+         "http": "",
+         "note": "Hunedoara (Local)"
+      },
+      {
+         "name": "Radio DaDa 106.6",
+         "logo": "DaDa",
+         "link": "http://radiodada.focsani.astral.ro:8000/radiodada24.m3u",
+         "http": "http://radiodada.focsani.astral.ro:8000/radiodada64.m3u",
+         "note": "Alternative/Progressive Music (Focsani, Local)"
+      },
+      {
+         "name": "Radio DEEA",
+         "logo": "DEEA",
+         "link": "http://live.radiodeea.ro:8090/listen.pls",
+         "http": "",
+         "note": "Dance Music"
+      },
+      {
+         "name": "Radio Delta",
+         "logo": "Delta",
+         "link": "http://94.24.49.42:9998/listen.pls",
+         "http": "",
+         "note": "Top 30 (Tulcea, Local)"
+      },
+      {
+         "name": "Radio Dobrogea",
+         "logo": "Dobrogea",
+         "link": "http://stream.arhivaradiodobrogea.ro:7000/dobrogea.m3u",
+         "http": "",
+         "note": "Constanta (Local)"
+      },
+      {
+         "name": "Radio eMaramures",
+         "logo": "eMaramures",
+         "link": "http://82.137.35.67:8000/listen.pls",
+         "http": "",
+         "note": "Pop Music (Baia Mare, Local)"
+      },
+      {
+         "name": "Radio Fir",
+         "logo": "Fir",
+         "link": "http://live.radiofir.ro:8000/listen.pls",
+         "http": "",
+         "note": "Dej (Local)"
+      },
+      {
+         "name": "Radio GaGa",
+         "logo": "GaGa",
+         "link": "http://www.radiogaga.ro/gaga.m3u",
+         "http": "",
+         "note": "News/Music (Targu Mures, Local)"
+      },
+      {
+         "name": "Radio Guerrilla",
+         "logo": "Guerrilla",
+         "link": "http://live.eliberadio.ro:8000/listen.pls",
+         "http": "http://live.eliberadio.ro:8002/listen.pls",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Hit",
+         "logo": "Hit",
+         "link": "http://www.listenlive.eu/hitlasi.m3u",
+         "http": "",
+         "note": "Top 30 (Iasi, Local)"
+      },
+      {
+         "name": "Radio Impuls",
+         "logo": "Impuls",
+         "link": "http://live.radio-impuls.ro/listen.pls",
+         "http": "",
+         "note": "Top 30 (Cluj-Napoca, Local)"
+      },
+      {
+         "name": "Radio Infinit",
+         "logo": "Infinit",
+         "link": "http://www.radioinfinit.ro/live.m3u",
+         "http": "",
+         "note": "Târgu Jiu (Local)"
+      },
+      {
+         "name": "Radio Lumina",
+         "logo": "Lumina",
+         "link": "http://www.radiolumina.ro/live/lumina_winamp-hi.m3u",
+         "http": "",
+         "note": "Craiova (Local)"
+      },
+      {
+         "name": "Radio M Plus",
+         "logo": "M",
+         "link": "http://89.40.49.98:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Targu Neamt, Local)"
+      },
+      {
+         "name": "Radio Maria",
+         "logo": "Maria",
+         "link": "http://cloudrad.io/radiomariaromania/listen.pls",
+         "http": "",
+         "note": "Oradea (Local)"
+      },
+      {
+         "name": "Radio Medias 725",
+         "logo": "Medias",
+         "link": "http://mediasfm.eushells.ro:8082/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Metronom",
+         "logo": "Metronom",
+         "link": "http://www.metronom.ro:8000/metronom.m3u",
+         "http": "",
+         "note": "Râmnicu Vâlcea (Local)"
+      },
+      {
+         "name": "Radio Minisat",
+         "logo": "Minisat",
+         "link": "http://radio.minisat.ro:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Dambovita, Local)"
+      },
+      {
+         "name": "Radio Neptun",
+         "logo": "Neptun",
+         "link": "http://www.listenlive.eu/neptun.m3u",
+         "http": "",
+         "note": "Constanta (Local)"
+      },
+      {
+         "name": "Radio Omega",
+         "logo": "Omega",
+         "link": "http://86.127.70.207:8100/listen.pls",
+         "http": "",
+         "note": "Top 30 (Târgu Jiu, Local)"
+      },
+      {
+         "name": "Radio Orion 88,6 FM",
+         "logo": "Orion",
+         "link": "http://www.hitradioorion.ro/live/playlists/winamp.pls",
+         "http": "http://s20.myradiostream.com:11166/listen.pls",
+         "note": "Sebes (Local)"
+      },
+      {
+         "name": "Radio Orion 91,7 FM",
+         "logo": "91",
+         "link": "http://89.41.38.165:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Feteşti, Local)"
+      },
+      {
+         "name": "Radio Prahova",
+         "logo": "Prahova",
+         "link": "http://193.238.59.94:8100/listen.pls",
+         "http": "",
+         "note": "Top 30 / Music (Ploiesti, Local)"
+      },
+      {
+         "name": "Radio Reintregirea",
+         "logo": "Reintregirea",
+         "link": "http://5.2.168.105:8000/listen.pls",
+         "http": "",
+         "note": "Alba Iulia (Local)"
+      },
+      {
+         "name": "Radio Ring",
+         "logo": "Ring",
+         "link": "http://79.118.135.82:8000/live.m3u",
+         "http": "",
+         "note": "Top 30 (Medias, Local)"
+      },
+      {
+         "name": "Radio Semnal",
+         "logo": "Semnal",
+         "link": "http://5.2.242.243:8080/listen.pls",
+         "http": "",
+         "note": "Pop Music (Alexandria, Local)"
+      },
+      {
+         "name": "Radio Sky",
+         "logo": "Sky",
+         "link": "http://193.231.242.46:8000/live2.ogg.m3u",
+         "http": "http://193.231.242.46:8000/live.ogg.m3u",
+         "note": "Top 30 (Constanta, Local)"
+      },
+      {
+         "name": "Radio Somes",
+         "logo": "Somes",
+         "link": "http://www.radiosomes.ro/asculta.pls",
+         "http": "",
+         "note": "Folk Music (Bistrita, Local)"
+      },
+      {
+         "name": "Radio Son 87,8 Reghin",
+         "logo": "Reghin",
+         "link": "http://89.33.243.3:8010/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Son 89,5 Sighisoara",
+         "logo": "Son",
+         "link": "http://89.33.243.3:8000/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio SOS",
+         "logo": "SOS",
+         "link": "http://www.listenlive.eu/radiosos.m3u",
+         "http": "",
+         "note": "Ploieşti (Local)"
+      },
+      {
+         "name": "Radio Star",
+         "logo": "Star",
+         "link": "http://94.24.49.44:8400/listen.pls",
+         "http": "",
+         "note": "Făgăraş (Local)"
+      },
+      {
+         "name": "Radio Sud FM",
+         "logo": "Sud",
+         "link": "http://media.gds.ro:8500/128.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Craiova, Local)"
+      },
+      {
+         "name": "Radio Targu-Jiu",
+         "logo": "Targu",
+         "link": "http://86.127.68.148:8000/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Top",
+         "logo": "To",
+         "link": "http://live.radiotop.ro:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Suceava, Local)"
+      },
+      {
+         "name": "Radio Transilvania Oradea",
+         "logo": "Oradea",
+         "link": "http://86.35.4.198:8000/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Cluj Napoca",
+         "logo": "Transilvania",
+         "link": "http://86.35.4.198:8006/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Baia Mare",
+         "logo": "Baia",
+         "link": "http://86.35.4.198:8010/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Satu Mare",
+         "logo": "Satu",
+         "link": "http://86.35.4.198:8004/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Bistriţa",
+         "logo": "Bistrita",
+         "link": "http://86.35.4.198:8012/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Ludas",
+         "logo": "Ludas",
+         "link": "http://89.120.185.112:8001/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Alesd",
+         "logo": "Alesd",
+         "link": "http://86.35.4.198:8002/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Carei",
+         "logo": "Carei",
+         "link": "http://87.106.102.127:9520/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Transilvania Zalau",
+         "logo": "Zalau",
+         "link": "http://46.214.212.101:555/listen.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Radio Trinitas",
+         "logo": "Trinitas",
+         "link": "http://www.radiotrinitas.ro/radiotrinitas.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio Unison",
+         "logo": "Unison",
+         "link": "http://www.radiounison.ro/listen.pls",
+         "http": "",
+         "note": "Zalau (Local)"
+      },
+      {
+         "name": "Radio Valcea 1",
+         "logo": "Valcea",
+         "link": "http://82.137.6.58:8000/valcea1.aac.m3u",
+         "http": "",
+         "note": "Top 30 (Râmnicu Vâlcea, Local)"
+      },
+      {
+         "name": "Radio Vocea Evangheliei (RVE)",
+         "logo": "Vocea",
+         "link": "http://adevarul.serverroom.us:6700/listen.pls",
+         "http": "",
+         "note": "Oradea (Local)"
+      },
+      {
+         "name": "Radio Voces Campi",
+         "logo": "Campi",
+         "link": "http://89.41.177.55:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Sfantu Gheorghe, Local)"
+      },
+      {
+         "name": "Radio Zu",
+         "logo": "Zu",
+         "link": "http://www.radiozu.ro/live.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Retro Radio",
+         "logo": "Retro",
+         "link": "http://streamhost110.gtk.hu:9410/listen.pls",
+         "http": "",
+         "note": "Miercurea Ciuc (Local)"
+      },
+      {
+         "name": "Rock FM",
+         "logo": "Rock",
+         "link": "http://www.rockfm.ro/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Romantic FM",
+         "logo": "Romantic",
+         "link": "http://live.romanticfm.ro:8002/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Sepsi Radio",
+         "logo": "Sepsi",
+         "link": "http://streaming.planet.ro:8000/SepsiRadio.m3u",
+         "http": "",
+         "note": "Sfântu Gheorghe (Local)"
+      },
+      {
+         "name": "Slager Radio",
+         "logo": "Slager",
+         "link": "http://89.37.193.61:8000/raspi.m3u",
+         "http": "",
+         "note": "Sfântu Gheorghe (Local)"
+      },
+      {
+         "name": "Smart FM",
+         "logo": "Smart",
+         "link": "http://astreaming.europafm.ro:8000/smartfm_aacp48k.m3u",
+         "http": "",
+         "note": "Oldies/Jazz Music"
+      },
+      {
+         "name": "Smile FM",
+         "logo": "Smile",
+         "link": "http://smilefm.vaslui.net:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Vaslui, Local)"
+      },
+      {
+         "name": "Sport Total FM",
+         "logo": "Total",
+         "link": "http://www.sptfm.ro/stream/listen.pls",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Star FM",
+         "logo": "StarFM",
+         "link": "http://www.starfmsebes.ro/design/starFm/liveConfig/winamp.pls",
+         "http": "",
+         "note": "Sebes (Local)"
+      },
+      {
+         "name": "Star Radio",
+         "logo": "StarRadio",
+         "link": "http://mail.d3.ro:8000/listen.pls",
+         "http": "",
+         "note": "Odorheiu Secuiesc (Local)"
+      },
+      {
+         "name": "Stil FM",
+         "logo": "Stil",
+         "link": "http://5.2.240.133:8000/live.m3u",
+         "http": "",
+         "note": "Top 30 (Calarasi, Local)"
+      },
+      {
+         "name": "Super FM",
+         "logo": "Super",
+         "link": "http://www.superradio.ro/listen.m3u",
+         "http": "",
+         "note": "Brasov (Local)"
+      },
+      {
+         "name": "TANANANA",
+         "logo": "TANANANA",
+         "link": "http://live.tananana.ro:8010/stream-48.aac.m3u",
+         "http": "http://tananana.ro/assets/playlists/TANANANA.m3u",
+         "note": "Alternative Music"
+      },
+      {
+         "name": "Terra FM",
+         "logo": "Terra",
+         "link": "http://live.terrafm.ro:8000/listen.pls",
+         "http": "",
+         "note": "Piatra Neamt (Local)"
+      },
+      {
+         "name": "Tex FM 105,5",
+         "logo": "Tex",
+         "link": "http://www.texfm.ro:8000/live.m3u",
+         "http": "",
+         "note": "Top 30 (Brasov, Local)"
+      },
+      {
+         "name": "Unirea FM",
+         "logo": "Unirea",
+         "link": "http://82.208.158.156:8000/listen.pls",
+         "http": "",
+         "note": "Alba Iulia (Local)"
+      },
+      {
+         "name": "V24",
+         "logo": "V24",
+         "link": "http://v24fm.vaslui.net:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Vaslui, Local)"
+      },
+      {
+         "name": "Vibe FM",
+         "logo": "Vibe",
+         "link": "http://astreaming.europafm.ro:8000/vibefm_aacp48k.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Viva FM",
+         "logo": "Viva",
+         "link": "http://stream.vivafm.ro:9010/listen.pls",
+         "http": "https://vivafm.ro/viva-fm-suceava.html",
+         "note": "Suceava (Local)"
+      },
+      {
+         "name": "Vox FM 88,6",
+         "logo": "Vox",
+         "link": "http://stream.voxfm.ro:8000/listen.pls",
+         "http": "",
+         "note": "Top 30 (Harghita, Local)"
+      },
+      {
+         "name": "We Radio",
+         "logo": "We",
+         "link": "http://weradio.ro/popup/listen.pls",
+         "http": "",
+         "note": "Top 30 (Sfantu Gheorghe, Local)"
+      },
+      {
+         "name": "West City Radio",
+         "logo": "West",
+         "link": "http://live.westcityradio.ro:8000/mp3.m3u",
+         "http": "https://www.westcityradio.ro/listen.pls",
+         "note": "Timisoara (Local)"
+      },
+      {
+         "name": "WYL FM",
+         "logo": "WYL",
+         "link": "http://online.radiowylfm.ro:9200/listen.pls",
+         "http": "",
+         "note": "Ploiesti (Local)"
       }
    ]
 }
