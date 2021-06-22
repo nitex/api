@@ -43,13 +43,69 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Азия-Плюс",
+         "logo": "Asia",
+         "link": "http://62.122.137.82:8020/ap.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Ватан 106.0 FM",
+         "logo": "Vatan",
+         "link": "http://217.11.177.201:8000/sr128.m3u",
+         "http": "",
+         "note": "Talk"
+      },
+      {
+         "name": "Имруз 107.4 FM",
+         "logo": "Imruz",
+         "link": "http://109.74.75.131:8000/Imruz64.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Овози тоҷик 105.5 FM",
+         "logo": "Ovozi",
+         "link": "https://str-4.mediabay.tv/Radio_OvoziTojik/tracks-a1/mono.m3u8?token=4531178f567650fd14ee711f3294f6c8914a03f4-445d9ebfbd6cea5082cc68197ae824db-1573839741-1573828941",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Садои Душанбе",
+         "logo": "Sadoidushanbe",
+         "link": "https://str-4.mediabay.tv/Radio_SadoiDushanbe/tracks-a1/mono.m3u8?token=1b0201334d3466862f7bab7b01e1f2ad106cd9be-ca4298883a3c245b1ca4f69970481cb1-1573839741-1573828941",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Спутник",
+         "logo": "Sputnik",
+         "link": "http://nfw.ria.ru/flv/audio.aspx?ID=68862011&type=mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Тоҷикистон 104.7 FM",
+         "logo": "Tojikiston",
+         "link": "https://str-4.mediabay.tv/Radio_Tajik/tracks-a1/mono.m3u8?token=18e5687350f827906133ae3d87474ab923c09c5f-8398d55fb99611192ca40c3b52577e36-1573839741-1573828941",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Фарҳанг 106.5 FM",
+         "logo": "Farhang",
+         "link": "https://str-4.mediabay.tv/Radio_Farhang/tracks-a1/mono.m3u8?token=675a828662eaea0613bed07596f2a3d31cd65193-ace3cfa278cc70a25a5469002ccf559d-1573839741-1573828941",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ховар 101.5 FM",
+         "logo": "Hobar",
+         "link": "http://193.124.66.132:8001/live.m3u",
+         "http": "",
+         "note": "Talk"
       }
    ]
 }

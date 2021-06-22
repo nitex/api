@@ -43,13 +43,97 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "RTBF La Première",
+         "logo": "La",
+         "link": "http://www.listenlive.eu/streams/belgium/be_rtbflaprem1eremp3.m3u",
+         "http": "http://www.listenlive.eu/streams/belgium/be_rtbflaprem1ereaac.m3u",
+         "note": "Music / Information"
+      },
+      {
+         "name": "RTBF Classic 21",
+         "logo": "21",
+         "link": "http://www.listenlive.eu/streams/belgium/be_rtbfclassic21mp3.m3u",
+         "http": "http://www.listenlive.eu/streams/belgium/be_rtbfclassic21aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "RTBF Classic 21 60s",
+         "logo": "60s",
+         "link": "http://www.listenlive.eu/streams/belgium/be_rtbfc21-60mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RTBF Classic 21 70s",
+         "logo": "70s",
+         "link": "http://www.listenlive.eu/streams/belgium/be_rtbfc21-70mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RTBF Classic 21 80s",
+         "logo": "80s",
+         "link": "http://www.listenlive.eu/streams/belgium/be_rtbfc21-80mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RTBF Pure FM",
+         "logo": "Pure",
+         "link": "http://www.listenlive.eu/streams/belgium/be_rtbfpuremp3.m3u",
+         "http": "http://www.listenlive.eu/streams/belgium/be_rtbfpureaac.m3u",
+         "note": "Top 40"
+      },
+      {
+         "name": "RTBF Pure 2",
+         "logo": "2",
+         "link": "http://www.listenlive.eu/streams/belgium/be_rtbfpure2mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "NPO Radio 1",
+         "logo": "1",
+         "link": "http://icecast.omroep.nl/radio1-sb-mp3.m3u",
+         "http": "http://icecast.omroep.nl/radio1-bb-mp3.m3u",
+         "note": "News / Feature programmes"
+      },
+      {
+         "name": "NPO Radio 1 Nieuws24",
+         "logo": "Nieuws24",
+         "link": "http://icecast.omroep.nl/nieuws24-sb-mp3.m3u",
+         "http": "http://icecast.omroep.nl/nieuws24-bb-mp3.m3u",
+         "note": "News"
+      },
+      {
+         "name": "NPO Radio 2",
+         "logo": "r2",
+         "link": "http://icecast.omroep.nl/radio2-sb-mp3.m3u",
+         "http": "http://icecast.omroep.nl/radio2-bb-mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "NPO Radio 2 Top 2000",
+         "logo": "2000",
+         "link": "http://icecast.omroep.nl/radio2-top2000-mp3.m3u",
+         "http": "http://icecast.omroep.nl/radio2-top2000-aac.m3u",
+         "note": "Oldies"
+      },
+      {
+         "name": "NPO Radio 2 Liedkunst",
+         "logo": "Liedkunst",
+         "link": "http://icecast.omroep.nl/radio2-liedkunst-mp3.m3u",
+         "http": "http://icecast.omroep.nl/radio2-liedkunst-aac.m3u",
+         "note": "Comedy / Dutch music"
+      },
+      {
+         "name": "NPO Radio 2 In Concert",
+         "logo": "In",
+         "link": "http://icecast.omroep.nl/radio2-inconcert-mp3.m3u",
+         "http": "http://icecast.omroep.nl/radio2-inconcert-aac.m3u",
+         "note": "Live music"
       }
    ]
 }

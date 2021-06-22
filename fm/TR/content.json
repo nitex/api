@@ -43,13 +43,111 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Capital Radio",
+         "logo": "Capital",
+         "link": "http://46.20.3.195/listen.pls",
+         "http": "",
+         "note": "80s/90s Music"
+      },
+      {
+         "name": "Dinamo 103.8",
+         "logo": "Dinamo",
+         "link": "http://www.dinamo.fm/dinamo_aacplus.pls",
+         "http": "",
+         "note": "Electronic/Urban Music"
+      },
+      {
+         "name": "Dolunay Radyo 108",
+         "logo": "108",
+         "link": "http://yayin1.canliyayin.org:8318/listen.pls",
+         "http": "",
+         "note": "Islamic Music"
+      },
+      {
+         "name": "İTÜ Radyosu Klasik",
+         "logo": "Klasik",
+         "link": "http://radyo.itu.edu.tr/ITU_Radio_Classical.pls",
+         "http": "",
+         "note": "Classical"
+      },
+      {
+         "name": "İTÜ Radyosu Caz Blues",
+         "logo": "Caz",
+         "link": "http://radyo.itu.edu.tr/ITU_Radio_Jazz_Blues.pls",
+         "http": "",
+         "note": "Jazz/Blues Music"
+      },
+      {
+         "name": "İTÜ Radyosu Rock",
+         "logo": "Rock",
+         "link": "http://radyo.itu.edu.tr/ITU_Radio_Rock.pls",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Metro FM",
+         "logo": "Metro",
+         "link": "http://provisioning.streamtheworld.com/pls/metro_fm.pls",
+         "http": "http://provisioning.streamtheworld.com/pls/metro_fmaac.pls",
+         "note": ""
+      },
+      {
+         "name": "Olay FM 90.5",
+         "logo": "Olay",
+         "link": "http://yayin5.yayindayiz.biz:8190/listen.pls",
+         "http": "http://www.olayfm.com.tr/live/olayfmlist.pls",
+         "note": "Biliyordum (Local)"
+      },
+      {
+         "name": "Park FM",
+         "logo": "Park",
+         "link": "http://park.netradyom.com:1345/listen.pls",
+         "http": "",
+         "note": "Talk/Music"
+      },
+      {
+         "name": "Radio Line 99.1 FM",
+         "logo": "Line",
+         "link": "http://radioline.fm:8000/listen.pls",
+         "http": "",
+         "note": "Bursa (Local)"
+      },
+      {
+         "name": "Radyo Metropol",
+         "logo": "Metropol",
+         "link": "http://radyometropol.radyolarburada.com:5544/listen.pls",
+         "http": "http://sunucu2.radyolarburada.com:5544/listen.pls",
+         "note": "Mersin (Local)"
+      },
+      {
+         "name": "Radyo Medya 101.8",
+         "logo": "Medya",
+         "link": "http://radyomedya.radyoyayini.com:9160/listen.pls",
+         "http": "http://radyomedyaa.radyoyayini.com:6052/listen.pls",
+         "note": "Pop/Dance Music (Inegöl/Bursa, Local)"
+      },
+      {
+         "name": "Radyo Seymen 107",
+         "logo": "Seymen",
+         "link": "http://seymenfm.radyolarburada.com:6363/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radyo Voyage 107.4",
+         "logo": "Voyage",
+         "link": "http://shoutcastdogus.cdnturk.com/listen.pls?sid=23",
+         "http": "",
+         "note": "Ambient/New Music"
+      },
+      {
+         "name": "Virgin Radio Türkiye",
+         "logo": "Virgin",
+         "link": "http://shoutcastdogus.cdnturk.com/listen.pls?sid=31",
+         "http": "",
+         "note": ""
       }
    ]
 }

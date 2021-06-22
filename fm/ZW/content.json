@@ -43,13 +43,104 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Nehanda",
+         "logo": "Nehanda",
+         "link": "http://www.surfmusic.de/m3u/nehanda-radio,19036.m3u",
+         "http": "",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "RFI English",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Spot FM",
+         "logo": "Spot",
+         "link": "http://www.surfmusic.de/m3u/spot-fm,12.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Star FM",
+         "logo": "Sta",
+         "link": "http://anton.antfarm.co.za:8000/StarFM.m3u",
+         "http": "",
+         "note": "News, Oldies, Music"
+      },
+      {
+         "name": "VOA",
+         "logo": "VOA",
+         "link": "http://voa-37.ng.akacast.akamaistream.net/7/420/322049/v1/ibb.akacast.akamaistream.net/voa-37",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "ZiFM Stereo",
+         "logo": "ZIFM",
+         "link": "http://ice31.securenetsystems.net/ZIFM.m3u",
+         "http": "http://www.surfmusic.de/m3u/zifm-stereo,15983.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "ZBC Classic 263",
+         "logo": "Classic",
+         "link": "http://41.220.21.66:88/broadwave.mp3?src=2",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "ZBC Khulumani FM 95.0",
+         "logo": "Khulumani",
+         "link": "http://197.221.250.170:88/broadwave.mp3?src=1",
+         "http": "",
+         "note": "Bulawayo (Local)"
+      },
+      {
+         "name": "ZBC National FM",
+         "logo": "National",
+         "link": "http://41.220.21.70:88/broadwave.mp3?src=1",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "ZBC Power FM",
+         "logo": "Power",
+         "link": "http://41.220.21.66:88/broadwave.mp3?src=1",
+         "http": "http://www.surfmusic.de/m3u/power-fm-zimbabwe,17647.m3u",
+         "note": "News"
+      },
+      {
+         "name": "ZBC Radio Zimbabwe",
+         "logo": "ZBC",
+         "link": "http://41.220.21.70:88/broadwave.mp3?src=1",
+         "http": "http://www.surfmusic.de/m3u/radio-simbabwe,11.m3u",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "zim NET radio",
+         "logo": "zim",
+         "link": "http://www.surfmusic.de/m3u/zim-net-radio,16560.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "zim NET Gospel Channel",
+         "logo": "NET",
+         "link": "http://www.surfmusic.de/m3u/zim-net-radio-gospel-channel,16559.m3u",
+         "http": "",
+         "note": "Talk, Music"
       }
    ]
 }

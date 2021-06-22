@@ -1,55 +1,846 @@
 {
    "amznFM":{
-      "changeCountry":yes,
-      "ownVisible":yes,
+      "changeCountry": false,
+      "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
       "bonus":"",
-      "showMode":yes,			// no - browser, yes - player
-      "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
+      "showMode": true,
+      "visualMode":1,
       "minuteCount":4,
-      "id":"0000000000",
-      "chngAd":"111111",
-      "mainAd":"111111",
-      "rtrnAd":"111111",
-      "mainb":"2222222",
-      "show1":"2222222",
-      "show2":"2222222",
-      "show3":"2222222",
-      "show4":"2222222"
+      "id":"REPLACE",
+      "mainAd":"",
+      "rtrnAd":"",
+      "mainb":"",
+      "show1":"",
+      "show2":"",
+      "show3":"",
+      "show4":"",
+      "chngAd":""
    },
    "huawFM":{
-      "changeCountry":no,
-      "ownVisible":yes,
+      "changeCountry": false,
+      "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "other":"",
       "bonus":"",
-      "showMode":yes,			// no - browser, yes - player
-      "visualMode":1,			// 0 - none, 1 - circle, 2 - bar
+      "showMode": true,
+      "visualMode":1,
       "minuteCount":4,
-      "id":"0000000000",
-      "chngAd":"111111",
-      "mainAd":"111111",
-      "rtrnAd":"111111",
-      "mainb":"2222222",
-      "show1":"2222222",
-      "show2":"2222222",
-      "show3":"2222222",
-      "show4":"2222222"
+      "id":"REPLACE",
+      "mainAd":"",
+      "rtrnAd":"",
+      "mainb":"",
+      "show1":"",
+      "show2":"",
+      "show3":"",
+      "show4":"",
+      "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Public radio of Armenia (Հայաստանի Հանրային Ռադիո)",
+         "logo": "Public",
+         "link": "http://eu1.stream4cast.com:2199/tunein/pra192.pls",
+         "http": "http://eu1.stream4cast.com:2199/tunein/aamiryan.pls",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Radio Yerevan",
+         "logo": "Yerevan",
+         "link": "http://199.195.194.92:8029/listen.pls",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "ArmRadio (LAVradio)",
+         "logo": "ArmRadio",
+         "link": "http://streams4.museter.com:8218/listen.pls",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Hay Radio 104.1 FM",
+         "logo": "Hay",
+         "link": "http://mix.am:8000/rhyerevan.m3u",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "News Radio Impuls 106,5 (Լրատվական Ռադիո)",
+         "logo": "Impuls",
+         "link": "http://212.34.233.78:8000/live.m3u",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Nor Radyo / Նոր Ռատիօ",
+         "logo": "Nor",
+         "link": "http://norradyo.com:8000/live.m3u",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Radio Aurora",
+         "logo": "Aurora",
+         "link": "http://radioaurora.am:8000/listen.pls",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Radio Van",
+         "logo": "Van",
+         "link": "http://media.radiovan.am:8000/96_stereo.m3u",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "ANS ÇM Radio 102 FM",
+         "logo": "ANS",
+         "link": "http://stream.ansradio.ws:8152/ANS-102FM-128k-Online.m3u",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Media FM",
+         "logo": "Medi",
+         "link": "http://85.132.78.130:8081/mediafm-mp3.m3u",
+         "http": "http://85.132.71.10:8000/live",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Radio Antenn",
+         "logo": "Antenn",
+         "link": "http://85.132.78.130:8081/antenn-mp3.m3u",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "Mix FM",
+         "logo": "Mix",
+         "link": "http://mix.am:8000/mix.m3u",
+         "http": "",
+         "note": "Armenia (Հայաստան)"
+      },
+      {
+         "name": "106 FM",
+         "logo": "106",
+         "link": "http://85.132.81.184:8080/106new/index.m3u8",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Antenn 101 FM",
+         "logo": "Antenn",
+         "link": "http://85.132.71.10:8000/antenn-mp3.m3u",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Araz FM 103.3 FM",
+         "logo": "Araz",
+         "link": "http://s39.myradiostream.com:5458/listen.pls",
+         "http": "http://s14.myradiostream.com:30454/listen.mp3",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "ASAN 100.0 FM",
+         "logo": "ASAN",
+         "link": "http://94.20.74.206:4448/stream1.m3u",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Azad 106.3 FM",
+         "logo": "Azad",
+         "link": "http://85.132.71.10:8000/atv1063fm.m3u",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Ictimai 90.0 FM",
+         "logo": "ictimai",
+         "link": "http://85.132.81.13:8888/2702",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Kəpəz FM 93.3",
+         "logo": "kepez",
+         "link": "http://85.132.78.122:3344/now.m3u",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Media FM 105.5",
+         "logo": "Media",
+         "link": "http://85.132.71.10:8000/live.m3u",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Vətən 92.3 FM",
+         "logo": "veten",
+         "link": "https://node-16.zeno.fm/0kgkkzanmueuv",
+         "http": "",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Xəzər Hit FM 103.0",
+         "logo": "Hit",
+         "link": "http://s30.myradiostream.com:32684/listen.pls",
+         "http": "https://s30.myradiostream.com/32684/listen.mp3",
+         "note": "Azerbaijan (Azərbaycan)"
+      },
+      {
+         "name": "Барановичи",
+         "logo": "Baranovichi",
+         "link": "http://radio.100fm.by:8000/100fm.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Брест",
+         "logo": "Brest",
+         "link": "http://93.84.112.253:8039/stream.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Душевное",
+         "logo": "Dushevnoe",
+         "link": "http://imgradio.pro/DushevnoeRadio48.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Гомель",
+         "logo": "Gomel",
+         "link": "http://s1.radioheart.ru:8001/radiogomelfm.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Гомель Плюс 103,7 FM",
+         "logo": "103",
+         "link": "http://s1.radioheart.ru:8001/radiogomel.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Лидер",
+         "logo": "Lider",
+         "link": "http://lider-fm.by:8000/radio.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "MFM 105.0",
+         "logo": "MFM",
+         "link": "http://105fm.by/mfm.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "MV",
+         "logo": "MV",
+         "link": "http://radio.adsl.by:8000/mvolna.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Новое Радио",
+         "logo": "Novoe",
+         "link": "http://www.live.bn.by:8000/novoeradio_128.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Гомель 107,4 FM",
+         "logo": "107",
+         "link": "http://skycast.su:2007/998.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "BA International",
+         "logo": "BA",
+         "link": "http://87.252.252.78:8000/BA.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Радио Мелодии века",
+         "logo": "Melodii",
+         "link": "http://87.252.252.78:8000/MV.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Радио Минск",
+         "logo": "Minsk",
+         "link": "http://93.84.113.142:8000/radio.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Радио Витебск",
+         "logo": "Vitebsk",
+         "link": "http://radio.vtv.by:8000/radio_vitebsk_128.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Unistar 99.5 FM",
+         "logo": "Unistar",
+         "link": "http://unistar.by:8000/unistar-128kb.m3u",
+         "http": "",
+         "note": "Belarus (Беларусь)"
+      },
+      {
+         "name": "Ar Daidardo არ დაიდარდო",
+         "logo": "Ar",
+         "link": "http://www.ardaidardo.ge/live.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Fortuna FM 106,9",
+         "logo": "Fortuna",
+         "link": "http://www.listenlive.eu/fortunafm.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Fortuna Plus 103,4 რადიო ფორტუნა პლუსი",
+         "logo": "Plus",
+         "link": "http://www.fortunaplus.ge/live/live.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Jako FM 96.3 რადიო",
+         "logo": "Jako",
+         "link": "http://188.169.118.246:8000/listen.pls",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Radio Argo",
+         "logo": "Argo",
+         "link": "http://188.93.89.164:8000/listen.pls?sid=1",
+         "http": "http://80.241.246.125:9000/listen.pls",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Radio DK ძველი ქალაქი",
+         "logo": "D",
+         "link": "http://iis.ge:8000/radiodk.mp3.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Radio GIPA რადიო ჯიპა FM 94.3",
+         "logo": "GIPA",
+         "link": "http://31.146.205.144:8000/livemp3.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Radio Hereti FM 102,8",
+         "logo": "Hereti",
+         "link": "http://www.heretifm.com/upload/tmpfiles/hereti.mp3.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Radio MUZA",
+         "logo": "MUZA",
+         "link": "http://www.bfnstreaming.nl/radiomuza.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Radio Palitra 103,9 FM რადიო პალიტრა ",
+         "logo": "Palitra",
+         "link": "http://stream.palitra.ge:8000/stream.mp3.m3u",
+         "http": "",
+         "note": "Georgia (საქართველო)"
+      },
+      {
+         "name": "Актобе 101.4 FM",
+         "logo": "Aktobe",
+         "link": "http://85.29.144.124:8000/listen.pls",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "Gakku",
+         "logo": "Gakku",
+         "link": "http://stream.gakku.tv/radio/recordfm_192.mp3.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "Qazaq Radıosy",
+         "logo": "Qazaq",
+         "link": "http://onradio.kaztrk.kz:8000/kazradio.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "Shalqar Radıosy",
+         "logo": "Shalqar",
+         "link": "http://onradio.kaztrk.kz:8000/shalkar.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "Astana Radıosy 101.4 FM",
+         "logo": "Astana",
+         "link": "http://onradio.kaztrk.kz:8000/astana.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "Жұлдыз",
+         "logo": "Zhuldyz",
+         "link": "http://195.210.47.197:8000/zhulduz.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "City",
+         "logo": "City",
+         "link": "http://94.247.130.243:5050/city.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "Energy FM 102.2",
+         "logo": "Energy",
+         "link": "http://89.219.34.117:8008/NEWENERGY.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "7 106.9 FM",
+         "logo": "7",
+         "link": "http://listen4.myradio24.com:9000/8334.m3u",
+         "http": "",
+         "note": "Kazakhstan (Қазақстан)"
+      },
+      {
+         "name": "Алмаз-ФМ",
+         "logo": "Almaz",
+         "link": "http://almazfm.ddns.net:8888/listen.pls",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "КТРК Кыргыз",
+         "logo": "KTRK",
+         "link": "http://212.112.96.232:8083/",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "Кыргызстан Обондору",
+         "logo": "Obondoru",
+         "link": "http://31.192.250.52:8000/obondoru128.m3u",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "Manas 102.9 FM",
+         "logo": "Manas",
+         "link": "http://live.mediamanas.kg:8000/online.m3u",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "Марал",
+         "logo": "Maral",
+         "link": "http://212.42.115.186:8000/listen.pls",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "ОК",
+         "logo": "OK",
+         "link": "http://stream.okradio.kg:8000/mp3-hq.m3u",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "Romantika",
+         "logo": "Romantika",
+         "link": "https://pub0302.101.ru:8443/stream/air/aac/64/101.m3u",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "Тумар FM 101.3",
+         "logo": "Tumar",
+         "link": "http://live.tumar.fm:8000/online.m3u",
+         "http": "",
+         "note": "Kyrgyzstan (Кыргызстан)"
+      },
+      {
+         "name": "Авторадио",
+         "logo": "Avto",
+         "link": "http://ic4.101.ru:8000/v3_1.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Наше Радио",
+         "logo": "Nashe",
+         "link": "http://nashe3.hostingradio.ru/nashe-128.mp3.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Радио Шансон",
+         "logo": "Chanson",
+         "link": "http://audio.rambler.ru/action/play.m3u?id=420",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Русское Радио",
+         "logo": "Russkoe",
+         "link": "http://www.listenlive.eu/ru_russkoeradio.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Ретро FM Москва",
+         "logo": "88,3",
+         "link": "http://retroserver.streamr.ru:8043/retro128.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Ретро FM Петербург",
+         "logo": "Retro",
+         "link": "http://www.onair.eltel.net/retrofm128.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Europa Plus",
+         "logo": "Europa",
+         "link": "http://ep128server.streamr.ru:8030/ep128.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Europa Plus Top 40",
+         "logo": "40",
+         "link": "http://eptop128server.streamr.ru:8033/eptop128.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Блиц FM 105,5",
+         "logo": "Blitz",
+         "link": "http://r1.vmariel.ru:8000/blitz.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Business FM",
+         "logo": "Business",
+         "link": "http://m1.bfm.ru:8000/fm64.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Дорожное Радио",
+         "logo": "Dorognoe",
+         "link": "http://dorognoe.hostingradio.ru:8000/dorognoe.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Hit FM",
+         "logo": "HitFM",
+         "link": "http://www.listenlive.eu/hitfm_ru.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Love Radio",
+         "logo": "Love",
+         "link": "http://www.listenlive.eu/loveradio_ru.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Radio Monte Carlo",
+         "logo": "Monte",
+         "link": "http://www.listenlive.eu/ru_rmc.m3u",
+         "http": "",
+         "note": "Russia (Россия)"
+      },
+      {
+         "name": "Азия-Плюс",
+         "logo": "Asia",
+         "link": "http://62.122.137.82:8020/ap.m3u",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Ватан 106.0 FM",
+         "logo": "Vatan",
+         "link": "http://217.11.177.201:8000/sr128.m3u",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Имруз 107.4 FM",
+         "logo": "Imruz",
+         "link": "http://109.74.75.131:8000/Imruz64.mp3.m3u",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Овози тоҷик 105.5 FM",
+         "logo": "Ovozi",
+         "link": "https://str-4.mediabay.tv/Radio_OvoziTojik/tracks-a1/mono.m3u8?token=4531178f567650fd14ee711f3294f6c8914a03f4-445d9ebfbd6cea5082cc68197ae824db-1573839741-1573828941",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Садои Душанбе",
+         "logo": "Sadoidushanbe",
+         "link": "https://str-4.mediabay.tv/Radio_SadoiDushanbe/tracks-a1/mono.m3u8?token=1b0201334d3466862f7bab7b01e1f2ad106cd9be-ca4298883a3c245b1ca4f69970481cb1-1573839741-1573828941",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Тоҷикистон 104.7 FM",
+         "logo": "Tojikiston",
+         "link": "https://str-4.mediabay.tv/Radio_Tajik/tracks-a1/mono.m3u8?token=18e5687350f827906133ae3d87474ab923c09c5f-8398d55fb99611192ca40c3b52577e36-1573839741-1573828941",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Фарҳанг 106.5 FM",
+         "logo": "Farhang",
+         "link": "https://str-4.mediabay.tv/Radio_Farhang/tracks-a1/mono.m3u8?token=675a828662eaea0613bed07596f2a3d31cd65193-ace3cfa278cc70a25a5469002ccf559d-1573839741-1573828941",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Ховар 101.5 FM",
+         "logo": "Hobar",
+         "link": "http://193.124.66.132:8001/live.m3u",
+         "http": "",
+         "note": "Tajikistan (Тоҷикистон)"
+      },
+      {
+         "name": "Çar Tarapdan",
+         "logo": "Tarapdan",
+         "link": "http://217.174.238.59/tarap.mp3",
+         "http": "",
+         "note": "Turkmenistan (Туркменистан)"
+      },
+      {
+         "name": "Miras",
+         "logo": "Miras",
+         "link": "http://217.174.238.59/miras.mp3",
+         "http": "",
+         "note": "Turkmenistan (Туркменистан)"
+      },
+      {
+         "name": "Watan",
+         "logo": "Watan",
+         "link": "http://217.174.238.59/watan.mp3",
+         "http": "",
+         "note": "Turkmenistan (Туркменистан)"
+      },
+      {
+         "name": "Owaz 101.3 FM",
+         "logo": "Owaz",
+         "link": "http://217.174.238.59/owaz.mp3",
+         "http": "",
+         "note": "Turkmenistan (Туркменистан)"
+      },
+      {
+         "name": "Pars Today (Türkmen)",
+         "logo": "Pars",
+         "link": "http://cdn1.live.irib.ir:1935/channel-live/smil:r-torkaman/playlist.m3u8",
+         "http": "",
+         "note": "Turkmenistan (Туркменистан)"
+      },
+      {
+         "name": "АвтоРадіо Маріуполь",
+         "logo": "Mariupol",
+         "link": "http://radio.format-tv.net:8010/auto.m3u",
+         "http": "",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Трек 106.4 FM",
+         "logo": "Trek",
+         "link": "http://radio.rivne.net:8000/listen.pls",
+         "http": "http://online2.radiotrek.rv.ua:8000/MP3_128.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "DJ FM",
+         "logo": "DJ",
+         "link": "http://media.brg.ua/m3u/djfm64.m3u",
+         "http": "http://media.brg.ua/m3u/djfm128.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Feel 102.2 FM",
+         "logo": "Feel",
+         "link": "http://62.80.190.246:8000/Feel.m3u",
+         "http": "",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "FM Галичина",
+         "logo": "Galychyna",
+         "link": "http://www.galychyna.fm/images/galychyna_line.m3u",
+         "http": "http://ua.uar.net:8000/galychyna.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Хіт FM",
+         "logo": "HitF",
+         "link": "http://www.hitfm.ua/HitFM.m3u",
+         "http": "http://online.hitfm.ua/HitFM_HD",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "KISS FM",
+         "logo": "KISS",
+         "link": "http://online-kissfm.tavrmedia.ua:8000/kiss.m3u",
+         "http": "http://online-kissfm.tavrmedia.ua:8000/kissACC.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Люкс FM",
+         "logo": "Lux",
+         "link": "http://icecast.luxnet.ua/lux.m3u",
+         "http": "http://icecastdc.luxnet.ua/lux.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Львівська Хвиля",
+         "logo": "Lviv",
+         "link": "http://onair.lviv.fm:8000/lviv32.fm.m3u",
+         "http": "http://onair.lviv.fm:8000/lviv.fm.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Мелодія FM",
+         "logo": "Melodiya",
+         "link": "http://online-radiomelodia.tavrmedia.ua:8000/RadioMelodia_32.m3u",
+         "http": "http://online-radiomelodia.tavrmedia.ua:8000/RadioMelodia.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Radio ROKS",
+         "logo": "ROKS",
+         "link": "https://www.radioroks.ua/RadioROKS.m3u",
+         "http": "http://www.radioroks.com.ua/RadioROKS.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Радіо HB",
+         "logo": "HB",
+         "link": "http://91.218.212.84:8000/radionv.mp3.m3u",
+         "http": "",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Перець ФМ",
+         "logo": "Perec",
+         "link": "http://radio.urg.ua/radio-stilnoe.m3u",
+         "http": "http://radio.stilnoe.fm:8080/radio-stilnoe.m3u",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "Українське радіо",
+         "logo": "Ukrain",
+         "link": "http://radio.ukr.radio:8000/ur1-mp3-m.m3u",
+         "http": "http://91.218.213.49:8000/ur1d",
+         "note": "Ukraine (Україна)"
+      },
+      {
+         "name": "A'lo 90.0 FM",
+         "logo": "Alo",
+         "link": "http://tabassum.uz:9000/alo_high.m3u",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "Avtoradio Hamroh 102.0 FM",
+         "logo": "Avtoradio",
+         "link": "https://st5.mediabay.uz/radio/Hamroh/tracks-a1/mono.m3u8",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "Classic 104.4 FM",
+         "logo": "Classic",
+         "link": "https://str-3.mediabay.tv/Radio_Classic/tracks-a1/mono.m3u8?token=7b6af4bbb3c793f701267a88f6775c28f66e9d43-05966f6be2c19fb57ab5430c7a00b367-1573855646-1573844846",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "MAXIMA 105.4 FM",
+         "logo": "MAXIMA",
+         "link": "https://str-3.mediabay.tv/Radio_Maxima/tracks-a1/mono.m3u8?token=8420e8c610a4dd9bc9f22ccbe12fc7b0fc5c9d15-c8cbf13b65d5a87b7d1200e5600e6bae-1573855646-1573844846",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "Navruz 88.4 FM",
+         "logo": "Navruz",
+         "link": "http://navruzfm.uz:9000/navruz_low.m3u",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "ORIAT 100.5 FM",
+         "logo": "ORIAT",
+         "link": "http://oriat.mediabay.uz/oriatfm.m3u8",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "ORIAT Dono 106.5 FM",
+         "logo": "Dono",
+         "link": "http://oriat.mediabay.uz/oriatdono.m3u8",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "O'zbegim Taronasi 101.0 FM",
+         "logo": "Taronasi",
+         "link": "http://fm101.uz:1935/radiostream/radiostation.stream/playlist.m3u8",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
+      },
+      {
+         "name": "Vodiy Sadosi",
+         "logo": "Vodiy",
+         "link": "https://str-3.mediabay.tv/Radio_Echo/tracks-a1/mono.m3u8?token=117485e4151c70765e246c5427ea14195848a847-809493bd2d76718b2f7d1fb4441cdaa3-1573855646-1573844846",
+         "http": "",
+         "note": "Uzbekistan (Oʻzbekiston)"
       }
    ]
 }

@@ -43,13 +43,153 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Breeze FM Zambia",
+         "logo": "Breeze",
+         "link": "http://www.surfmusic.de/m3u/breeze-fm-zambia,19302.m3u",
+         "http": "",
+         "note": "Talk (Chipata, Local)"
+      },
+      {
+         "name": "Chikuni Radio 91.9 FM",
+         "logo": "Chikuni",
+         "link": "http://www.surfmusic.de/m3u/chikuni-radio-91-9-fm,19303.m3u",
+         "http": "",
+         "note": "Monze (Local)"
+      },
+      {
+         "name": "Christian Voice - FM 106.1",
+         "logo": "Christian",
+         "link": "http://zas2.ndx.co.za/proxy/cvglobal",
+         "http": "http://www.surfmusic.de/m3u/radio-christian-voice-fm-106-1,19309.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "Flava FM 87.7 FM",
+         "logo": "Flava",
+         "link": "http://s2.voscast.com:9304/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/flawa-fm-87-7-fm,19304.m3u",
+         "note": "Music (Kitwe, Local)"
+      },
+      {
+         "name": "Hot FM",
+         "logo": "Hot",
+         "link": "http://s2.yesstreaming.net:7091/stream.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Komboni FM 94.9",
+         "logo": "Komboni",
+         "link": "http://164.160.13.136:88/broadwave.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Maria",
+         "logo": "Maria",
+         "link": "http://dreamsiteradiocp2.com:8060/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Money FM 93.7",
+         "logo": "Money",
+         "link": "http://s26.myradiostream.com:18162/listen.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "One Love",
+         "logo": "One",
+         "link": "http://usa11.fastcast4u.com/proxy/thidhzuy",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Phoenix 89.5 FM",
+         "logo": "Phoenix",
+         "link": "http://playerservices.streamtheworld.com/pls/RADIO_PHOENIXAAC.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-phoenix-89-5-fm,19305.m3u",
+         "note": ""
+      },
+      {
+         "name": "Power FM",
+         "logo": "Power",
+         "link": "http://41.60.195.11:8000/stream.ogg.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "RFI English",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Rock FM 96.5",
+         "logo": "Rock",
+         "link": "http://www.surfmusic.de/m3u/rock-fm-96-5,19306.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "VOA",
+         "logo": "VOA",
+         "link": "http://voa-37.ng.akacast.akamaistream.net/7/420/322049/v1/ibb.akacast.akamaistream.net/voa-37",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Voice of Hope",
+         "logo": "Hope",
+         "link": "http://99.198.118.250:8164/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Yar FM 89.9 FM",
+         "logo": "Yar",
+         "link": "http://196.46.210.116:8000/stream.m3u",
+         "http": "http://www.surfmusic.de/m3u/yar-fm-89-9-fm,19307.m3u",
+         "note": "Local (Kitwe, Local)"
+      },
+      {
+         "name": "Zambezi FM 107.7",
+         "logo": "Zambezi",
+         "link": "http://www.surfmusic.de/m3u/zambezi-fm-107-7,19308.m3u",
+         "http": "",
+         "note": "Livingstone (Local)"
+      },
+      {
+         "name": "ZNBC 1",
+         "logo": "1",
+         "link": "http://eu6.fastcast4u.com/proxy/radio1",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "ZNBC 2",
+         "logo": "2",
+         "link": "http://eu6.fastcast4u.com/proxy/radio2",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "ZNBC 4",
+         "logo": "4",
+         "link": "http://eu6.fastcast4u.com/proxy/radio4",
+         "http": "",
+         "note": "News"
       }
    ]
 }

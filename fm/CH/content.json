@@ -43,13 +43,1336 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "SRF 1",
+         "logo": "SRF",
+         "link": "http://stream.srg-ssr.ch/drs1/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/drs1/aacp_32.m3u",
+         "note": "Basel"
+      },
+      {
+         "name": "SRF 1 Aargau Solothurn",
+         "logo": "Aargau",
+         "link": "http://stream.srg-ssr.ch/regi_ag_so/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/regi_ag_so/aacp_32.m3u",
+         "note": ""
+      },
+      {
+         "name": "SRF 1 Basel Baselland",
+         "logo": "Basel",
+         "link": "http://stream.srg-ssr.ch/regi_bs_bl/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/regi_bs_bl/aacp_32.m3u",
+         "note": ""
+      },
+      {
+         "name": "SRF 1 Bern Freibourg Wallis",
+         "logo": "Wallis",
+         "link": "http://stream.srg-ssr.ch/regi_be_fr_vs/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/regi_be_fr_vs/aacp_32.m3u",
+         "note": "News / Features"
+      },
+      {
+         "name": "SRF 1 Ostschweiz",
+         "logo": "Ostschweiz",
+         "link": "http://stream.srg-ssr.ch/regi_ost/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/regi_ost/aacp_32.m3u",
+         "note": "St.Gallen (Local)"
+      },
+      {
+         "name": "SRF 1 Zentralschweiz",
+         "logo": "Zentralschweiz",
+         "link": "http://stream.srg-ssr.ch/regi_zentr/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/regi_zentr/aacp_32.m3u",
+         "note": "Luzern (Local)"
+      },
+      {
+         "name": "SRF 1 Zürich Schaffhausen",
+         "logo": "Schaffhausen",
+         "link": "http://stream.srg-ssr.ch/regi_zh_sh/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/regi_zh_sh/aacp_32.m3u",
+         "note": ""
+      },
+      {
+         "name": "SRF 2 Kultur",
+         "logo": "Kultur",
+         "link": "http://stream.srg-ssr.ch/drs2/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/drs2/aacp_32.m3u",
+         "note": "Culture / Classical / Jazz Music"
+      },
+      {
+         "name": "SRF 3",
+         "logo": "3",
+         "link": "http://stream.srg-ssr.ch/drs3/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/drs3/aacp_32.m3u",
+         "note": "Rock / Pop Music"
+      },
+      {
+         "name": "SRF 4 News",
+         "logo": "4",
+         "link": "http://stream.srg-ssr.ch/drs4news/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/drs4news/aacp_32.m3u",
+         "note": "News / Information"
+      },
+      {
+         "name": "SRF Virus",
+         "logo": "Virus",
+         "link": "http://stream.srg-ssr.ch/drsvirus/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/drsvirus/aacp_32.m3u",
+         "note": "Youth"
+      },
+      {
+         "name": "SRF Musikwelle",
+         "logo": "Musikwelle",
+         "link": "http://stream.srg-ssr.ch/drsmw/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/drsmw/aacp_32.m3u",
+         "note": "Traditional/Folk Music"
+      },
+      {
+         "name": "SRG SSR Radio Swiss Pop",
+         "logo": "Pop",
+         "link": "http://stream.srg-ssr.ch/rsp/mp3_128.m3u",
+         "http": "http://www.radioswisspop.ch/live/aacp32.m3u",
+         "note": "Pop Music"
+      },
+      {
+         "name": "SRG SSR Radio Swiss Jazz",
+         "logo": "SRG",
+         "link": "http://stream.srg-ssr.ch/rsj/mp3_128.m3u",
+         "http": "http://www.radioswissjazz.ch/live/aacp32.m3u",
+         "note": ""
+      },
+      {
+         "name": "SRG SSR Radio Swiss Classic",
+         "logo": "SSR",
+         "link": "http://stream.srg-ssr.ch/rsc_de/mp3_128.m3u",
+         "http": "http://www.radioswissclassic.ch/live/aacp32.m3u",
+         "note": ""
+      },
+      {
+         "name": "SRG SSR Radio Suisse Classique",
+         "logo": "Classique",
+         "link": "http://stream.srg-ssr.ch/rsc_fr/mp3_128.m3u",
+         "http": "http://www.radiosuisseclassique.ch/live/aacp32.m3u",
+         "note": ""
+      },
+      {
+         "name": "SRG SSR Radio Svizzera Classica",
+         "logo": "Classica",
+         "link": "http://stream.srg-ssr.ch/rsc_it/mp3_128.m3u",
+         "http": "http://www.radiosvizzeraclassica.ch/live/aacp32.m3u",
+         "note": ""
+      },
+      {
+         "name": "RTR Radio Rumantsch",
+         "logo": "Rumantsch",
+         "link": "http://stream.srg-ssr.ch/rr/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/rr/aacp_96.m3u",
+         "note": "Chur (Local)"
+      },
+      {
+         "name": "RSR La Premiere",
+         "logo": "Premiere",
+         "link": "http://stream.srg-ssr.ch/la-1ere/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/la-1ere/aacp_32.m3u",
+         "note": "News/Features (Lausanne, Local)"
+      },
+      {
+         "name": "RSR Espace 2",
+         "logo": "Espace",
+         "link": "http://stream.srg-ssr.ch/espace-2/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/espace-2/aacp_32.m3u",
+         "note": "Culture/Classical/Jazz Jazz (Lausanne, Local)"
+      },
+      {
+         "name": "RSR Couleur 3",
+         "logo": "Couleur",
+         "link": "http://stream.srg-ssr.ch/couleur3/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/couleur3/aacp_32.m3u",
+         "note": "Rock/Pop Music (Lausanne, Local)"
+      },
+      {
+         "name": "RSR Option Musique",
+         "logo": "Musique",
+         "link": "http://stream.srg-ssr.ch/option-musique/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/option-musique/aacp_32.m3u",
+         "note": "Hits (Lausanne, Local)"
+      },
+      {
+         "name": "RSI Rete Uno",
+         "logo": "Uno",
+         "link": "http://stream.srg-ssr.ch/reteuno/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/reteuno/aacp_32.m3u",
+         "note": "News/Features (Lugano, Local)"
+      },
+      {
+         "name": "RSI Rete Due",
+         "logo": "Due",
+         "link": "http://stream.srg-ssr.ch/retedue/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/retedue/aacp_32.m3u",
+         "note": "Culture/Classical/Jazz Music (Lugano, Local)"
+      },
+      {
+         "name": "RSI Rete Tre",
+         "logo": "Tre",
+         "link": "http://stream.srg-ssr.ch/retetre/mp3_128.m3u",
+         "http": "http://stream.srg-ssr.ch/retetre/aacp_32.m3u",
+         "note": "Rock/Pop Music (Lugano, Local)"
+      },
+      {
+         "name": "Argovia",
+         "logo": "Argovia",
+         "link": "http://icecast.argovia.ch/argovia128.m3u",
+         "http": "",
+         "note": "Aarau (Local)"
+      },
+      {
+         "name": "Argovia Classic Rock",
+         "logo": "Classic",
+         "link": "http://www.argovia.ch/radio/streams/scr-hq.m3u",
+         "http": "",
+         "note": "Aarau (Local)"
+      },
+      {
+         "name": "Argovia Hit Mix",
+         "logo": "Hit",
+         "link": "http://www.argovia.ch/radio/streams/hm-hq.m3u",
+         "http": "",
+         "note": "Aarau (Local)"
+      },
+      {
+         "name": "Argovia News",
+         "logo": "New",
+         "link": "http://icecast.argovia.ch/argovianews.m3u",
+         "http": "",
+         "note": "Aarau (Local)"
+      },
+      {
+         "name": "Argovia Love",
+         "logo": "Lov",
+         "link": "http://icecast.argovia.ch/argovialove.m3u",
+         "http": "",
+         "note": "Aarau (Local)"
+      },
+      {
+         "name": "Argovia Comedy",
+         "logo": "Comedy",
+         "link": "http://icecast.argovia.ch/argoviacomedy.m3u",
+         "http": "",
+         "note": "Aarau (Local)"
+      },
+      {
+         "name": "Country Radio Switzerland",
+         "logo": "Country",
+         "link": "http://www.countryradio.ch/assets/files/listen.pls",
+         "http": "https://www.countryradio.ch/crs-64.pls",
+         "note": "Schoenenberg (Local)"
+      },
+      {
+         "name": "Creatures Of The Night Radio",
+         "logo": "Creatures",
+         "link": "http://streaming.smartradio.ch:2199/tunein/cotn.pls",
+         "http": "",
+         "note": "Chillout/Lounge Music (Locarno, Local)"
+      },
+      {
+         "name": "DJ Radio",
+         "logo": "DJ",
+         "link": "http://login.streamplus.de/player.php?spt=4411.m3u",
+         "http": "",
+         "note": "Dance Music(Zurich)"
+      },
+      {
+         "name": "Energy Zurich",
+         "logo": "Zurich",
+         "link": "http://statslive.infomaniak.ch/playlist/energyzuerich/energyzuerich-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Energy Bern",
+         "logo": "Bern",
+         "link": "http://statslive.infomaniak.ch/playlist/energybern/energybern-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Energy Basel",
+         "logo": "Energy",
+         "link": "http://energybasel.ice.infomaniak.ch/energybasel-high.mp3.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Energy Black",
+         "logo": "Black",
+         "link": "http://statslive.infomaniak.ch/playlist/energyblack/energyblack-high.mp3/playlist.pls",
+         "http": "",
+         "note": "RnB/HipHop Music (Zurich)"
+      },
+      {
+         "name": "Energy Charts",
+         "logo": "Charts",
+         "link": "http://statslive.infomaniak.ch/playlist/energycharts/energycharts-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Top 30 (Zurich)"
+      },
+      {
+         "name": "Energy Elektro",
+         "logo": "Elektro",
+         "link": "http://statslive.infomaniak.ch/playlist/energyelektro/energyelektro-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Electronic Music (Zurich)"
+      },
+      {
+         "name": "Energy German",
+         "logo": "German",
+         "link": "http://statslive.infomaniak.ch/playlist/energygerman/energygerman-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Pop Music (Zurich)"
+      },
+      {
+         "name": "Energy Italy",
+         "logo": "Italy",
+         "link": "http://statslive.infomaniak.ch/playlist/energyitaly/energyitaly-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Pop Music (Zurich)"
+      },
+      {
+         "name": "Energy Love",
+         "logo": "Love",
+         "link": "http://statslive.infomaniak.ch/playlist/energylove/energylove-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy Hot",
+         "logo": "Hot",
+         "link": "http://statslive.infomaniak.ch/playlist/energyhot/energyhot-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Top 30 (Zurich)"
+      },
+      {
+         "name": "Energy 80s",
+         "logo": "80s",
+         "link": "http://statslive.infomaniak.ch/playlist/energy80s/energy80s-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy 90s",
+         "logo": "90s",
+         "link": "http://statslive.infomaniak.ch/playlist/energy90s/energy90s-high.mp3/playlist.pls",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy 00s",
+         "logo": "00s",
+         "link": "http://broadcast.infomaniak.ch/energy00s-high.mp3.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy Dance",
+         "logo": "Dance",
+         "link": "http://broadcast.infomaniak.ch/energydance-high.mp3.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy Girl",
+         "logo": "Girl",
+         "link": "http://broadcast.infomaniak.ch/energygirl-high.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Zurich)"
+      },
+      {
+         "name": "Energy Latin",
+         "logo": "Latin",
+         "link": "http://broadcast.infomaniak.ch/nrjlatin-high.mp3.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy Léman",
+         "logo": "Leman",
+         "link": "http://broadcast.infomaniak.net/nrj-low.mp3.m3u",
+         "http": "http://broadcast.infomaniak.net/nrj-high.mp3.m3u",
+         "note": "Top 30 (Geneva)"
+      },
+      {
+         "name": "Energy Live",
+         "logo": "Live",
+         "link": "http://broadcast.infomaniak.ch/energylive-high.mp3.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy Lounge",
+         "logo": "Lounge",
+         "link": "http://broadcast.infomaniak.ch/energylounge-high.mp3.m3u",
+         "http": "",
+         "note": "Music (Zurich)"
+      },
+      {
+         "name": "Energy Mix",
+         "logo": "Mix",
+         "link": "http://broadcast.infomaniak.ch/energymix-high.mp3.m3u",
+         "http": "",
+         "note": "HipHop Music (Zurich)"
+      },
+      {
+         "name": "Energy Rock",
+         "logo": "Rock",
+         "link": "http://broadcast.infomaniak.ch/energyrock-high.mp3.m3u",
+         "http": "",
+         "note": "Music (Zurich)"
+      },
+      {
+         "name": "Energy Soundtrack",
+         "logo": "Soundtrack",
+         "link": "http://broadcast.infomaniak.ch/energysoundtrack-high.mp3.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Energy Swiss",
+         "logo": "Swiss",
+         "link": "http://broadcast.infomaniak.ch/energyswiss-high.mp3.m3u",
+         "http": "",
+         "note": "Rock/Pop Music (Zurich)"
+      },
+      {
+         "name": "FC Sion Radio",
+         "logo": "Sion",
+         "link": "http://fcsion.stream2net.eu:8220/listen.pls",
+         "http": "",
+         "note": "Top 30 / Sport"
+      },
+      {
+         "name": "FM1 Nord",
+         "logo": "Nord",
+         "link": "http://www.radiofm1.ch/streaming/fm1sg128.m3u",
+         "http": "",
+         "note": "St.Gallen (Local)"
+      },
+      {
+         "name": "FM1 Süd",
+         "logo": "Sud",
+         "link": "http://fm1sud.bcast.infomaniak.ch/fm1sud.mp3.m3u",
+         "http": "",
+         "note": "Buchs (Local)"
+      },
+      {
+         "name": "FM1 Gold",
+         "logo": "Gold",
+         "link": "http://www.radiofm1.ch/streaming/fm1gold128.m3u",
+         "http": "",
+         "note": "St.Gallen (Local)"
+      },
+      {
+         "name": "FM1 Hot",
+         "logo": "FM1",
+         "link": "http://www.radiofm1.ch/streaming/fm1hot128.m3u",
+         "http": "",
+         "note": "Top 30 / RnB Music (St.Gallen, Local)"
+      },
+      {
+         "name": "Fréquence Banane",
+         "logo": "Banane",
+         "link": "http://www.frequencebanane.ch/fb_128.m3u",
+         "http": "",
+         "note": "Lausanne (Local)"
+      },
+      {
+         "name": "Global SPORT",
+         "logo": "Global",
+         "link": "http://broadcast.infomaniak.ch/globalfm-high.mp3.m3u",
+         "http": "",
+         "note": "Lausanne (Local)"
+      },
+      {
+         "name": "IP music",
+         "logo": "IP",
+         "link": "http://www.ipmusic.ch/ipmusic128.m3u",
+         "http": "http://www.ipmusic.ch/ipmusicaacplus64.m3u",
+         "note": "Top 30 (Lausanne, Local)"
+      },
+      {
+         "name": "IP music Slow",
+         "logo": "Slow",
+         "link": "http://www.ipmusicslow.ch/ipmusicslow128.m3u",
+         "http": "http://www.ipmusicslow.ch/ipmusicslowaacplus128.m3u",
+         "note": "Lausanne (Local)"
+      },
+      {
+         "name": "Kanal K",
+         "logo": "K",
+         "link": "http://82.197.165.150/listen.pls",
+         "http": "",
+         "note": "Aarau (Local)"
+      },
+      {
+         "name": "KTFM SA",
+         "logo": "KTFM",
+         "link": "http://broadcast.infomaniak.ch/ktfm-high.mp3.m3u",
+         "http": "",
+         "note": "70s/80s Music (Geneva)"
+      },
+      {
+         "name": "La Fabrik",
+         "logo": "Fabrik",
+         "link": "http://stream.lafabrik.ch/lafabrik.m3u",
+         "http": "",
+         "note": "Petit-Lancy (Local)"
+      },
+      {
+         "name": "LFM",
+         "logo": "LFM",
+         "link": "http://broadcast.infomaniak.ch/lausannefm-high.mp3.m3u",
+         "http": "",
+         "note": "Lausanne (Local)"
+      },
+      {
+         "name": "Life Channel",
+         "logo": "Channel",
+         "link": "http://www.listenlive.eu/lifechannel.m3u",
+         "http": "",
+         "note": "Pfäffikon (Local)"
+      },
+      {
+         "name": "Lounge-Radio.com",
+         "logo": "Radio.com",
+         "link": "http://www.lounge-radio.com/listen128.m3u",
+         "http": "https://lounge-radio.com/aacplus.m3u",
+         "note": "Ambient/Lounge Music"
+      },
+      {
+         "name": "LuNe Radio",
+         "logo": "LuNe",
+         "link": "http://broadcaster.infomaniak.ch/lune-high.mp3.m3u",
+         "http": "",
+         "note": "Neuchâtel (Local)"
+      },
+      {
+         "name": "Magic Radio",
+         "logo": "Magic",
+         "link": "http://91.121.98.154:8000/listen.pls",
+         "http": "http://www.magicradio.ch/magic-mobile.m3u",
+         "note": "Top 30 / Dance Music"
+      },
+      {
+         "name": "Mountain Radio Verbier",
+         "logo": "Mountain",
+         "link": "http://mountainradioverbier.stream2net.eu:8270/listen.pls",
+         "http": "http://mountainradioverbier.stream2net.eu:8280/listen.pls",
+         "note": "Lourtier (Local)"
+      },
+      {
+         "name": "neo1",
+         "logo": "neo1",
+         "link": "http://stream-02.zic-network.ch:8000/neo1.m3u",
+         "http": "http://webradio.neo1.ch/neo1",
+         "note": "Pop/Rock Music (Langnau, Local)"
+      },
+      {
+         "name": "One FM",
+         "logo": "One",
+         "link": "http://broadcast.infomaniak.ch/onefm-low.mp3.m3u",
+         "http": "http://broadcast.infomaniak.ch/onefm-high.aac.m3u",
+         "note": "Top 30 (Geneva)"
+      },
+      {
+         "name": "Planet 105",
+         "logo": "105",
+         "link": "http://radio.netstream.ch/planet105_128k_mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Zurich)"
+      },
+      {
+         "name": "Radio 1",
+         "logo": "1",
+         "link": "http://radio.netstream.ch/128k.m3u",
+         "http": "",
+         "note": "Pop/Rock Music (Zurich)"
+      },
+      {
+         "name": "Radio 3fach",
+         "logo": "3fach",
+         "link": "http://3fach.ch/wp-content/uploads/listen.pls",
+         "http": "",
+         "note": "Lucerne (Local)"
+      },
+      {
+         "name": "Radio 24",
+         "logo": "24",
+         "link": "http://icecast.radio24.ch/radio24.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Radio 24 Rock",
+         "logo": "24Rock",
+         "link": "http://icecast.radio24.ch/radio24rock.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Radio 24 Pop",
+         "logo": "24Pop",
+         "link": "http://icecast.radio24.ch/radio24pop.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Radio 32",
+         "logo": "32",
+         "link": "http://radio32-stream.customer.solnet.ch:8000/radio32.m3u",
+         "http": "",
+         "note": "Solothurn (Local)"
+      },
+      {
+         "name": "Radio 32 Goldies",
+         "logo": "Goldies",
+         "link": "http://radio32-stream.customer.solnet.ch:8100/radio32goldies.m3u",
+         "http": "",
+         "note": "Solothurn (Local)"
+      },
+      {
+         "name": "Radio Basilisk",
+         "logo": "Basilisk",
+         "link": "http://statslive.infomaniak.com/playlist/ohnewerbung/radiobasilisk-64-128-0.mp3/playlist.m3u",
+         "http": "http://statslive.infomaniak.com/playlist/ohnewerbung/radiobasilisk-64-0.aac/playlist.m3u",
+         "note": "Basel (Local)"
+      },
+      {
+         "name": "Radio BeO",
+         "logo": "BeO",
+         "link": "http://87.237.169.123:8000/radiobeo.mp3.m3u",
+         "http": "",
+         "note": "Pop Music, Oldies, Country (Interlaken, Local)"
+      },
+      {
+         "name": "Radio BERN1",
+         "logo": "BERN1",
+         "link": "http://mp3.radiobern1.ch/radiobern1128k.m3u",
+         "http": "http://aac.radiobern1.ch/radiobern164k.m3u",
+         "note": "Pop/Rock Music (Berne)"
+      },
+      {
+         "name": "Radio Central",
+         "logo": "Central",
+         "link": "http://195.48.36.34/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Central Charts",
+         "logo": "Chart",
+         "link": "http://sp1128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Top 30 (Brunnen, Local)"
+      },
+      {
+         "name": "Radio Central Swiss",
+         "logo": "Swis",
+         "link": "http://sp3128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Central Jazz",
+         "logo": "Jazz",
+         "link": "http://sp4128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Central HipHop",
+         "logo": "HipHop",
+         "link": "http://sp5128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Central Funk",
+         "logo": "Funk",
+         "link": "http://sp6128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Soul Music (Brunnen, Local)"
+      },
+      {
+         "name": "Radio Central Rock",
+         "logo": "Roc",
+         "link": "http://sp7128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Central Dance",
+         "logo": "Danc",
+         "link": "http://sp8128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Central Country",
+         "logo": "Countr",
+         "link": "http://sp9128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Central Schlager",
+         "logo": "Schlager",
+         "link": "http://sp9128.mp3.green.ch/listen.pls",
+         "http": "",
+         "note": "Brunnen (Local)"
+      },
+      {
+         "name": "Radio Chablais",
+         "logo": "Chablais",
+         "link": "http://broadcast.infomaniak.ch/radiochablais-high.mp3.m3u",
+         "http": "",
+         "note": "Monthey (Local)"
+      },
+      {
+         "name": "Radio Cité",
+         "logo": "Cite",
+         "link": "http://statslive.infomaniak.com/playlist/radiocite/radiocite-highest.aac/playlist.m3u",
+         "http": "",
+         "note": "Pop Music (Geneva)"
+      },
+      {
+         "name": "Radio Freiburg",
+         "logo": "Freiburg",
+         "link": "http://broadcast.infomaniak.ch/radiofreiburg-low.mp3.m3u",
+         "http": "http://broadcast.infomaniak.ch/radiofribourg-low.mp3.m3u",
+         "note": "Fribourg (Local)"
+      },
+      {
+         "name": "Radio Gloria",
+         "logo": "Gloria",
+         "link": "http://live-two.dmd2.ch:8080/radiogloria_lo.m3u",
+         "http": "",
+         "note": "Baldegg (Local)"
+      },
+      {
+         "name": "Radio Inside",
+         "logo": "Inside",
+         "link": "http://fra.radiostream.de:37499/listen.pls",
+         "http": "",
+         "note": "Pop/Dance Music (Zofingen, Local)"
+      },
+      {
+         "name": "Radio Kaiseregg",
+         "logo": "Kaiseregg",
+         "link": "http://radiokaiseregg128k.ice.infomaniak.ch/playlists/stream128k.mp3.m3u",
+         "http": "",
+         "note": "80s/Pop/Rock Music (Schwarzsee, Local)"
+      },
+      {
+         "name": "Radio LoRa 97,5 MHz",
+         "logo": "LoRa",
+         "link": "http://statslive.infomaniak.ch/playlist/lora/lora-192.mp3/playlist.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Radio Melody",
+         "logo": "Melody",
+         "link": "http://www.radiofm1.ch/streaming/fm1melody128.m3u",
+         "http": "",
+         "note": "St.Gallen (Local)"
+      },
+      {
+         "name": "Radio Monte Carlo Swiss",
+         "logo": "Monte",
+         "link": "http://stream.105.ch:8000/rmc.m3u",
+         "http": "",
+         "note": "Zurich"
+      },
+      {
+         "name": "Radio Ouistiti",
+         "logo": "Ouistiti",
+         "link": "http://ouistiti.stream2net.eu:8090/listen.pls",
+         "http": "http://ouistiti-aac.stream2net.eu:8100/listen.pls",
+         "note": "Sion (Local)"
+      },
+      {
+         "name": "Radio Pilatus",
+         "logo": "Pilatus",
+         "link": "http://radiopilatus.bcast.infomaniak.ch/pilatus192.mp3.m3u",
+         "http": "",
+         "note": "Lucerne (Local)"
+      },
+      {
+         "name": "Radio RaBe 95,6",
+         "logo": "RaBe",
+         "link": "http://stream.rabe.ch:8000/livestream/rabe-mid.mp3.m3u",
+         "http": "",
+         "note": "Culture (Berne)"
+      },
+      {
+         "name": "Radio Radius",
+         "logo": "Radius",
+         "link": "http://radioradius.ch/radius_quicktime.pls",
+         "http": "http://relay.radio.ethz.ch/radius_winamp.m3u",
+         "note": "Zurich"
+      },
+      {
+         "name": "Radio Rottu Oberwallis",
+         "logo": "Rottu",
+         "link": "http://www.listenlive.eu/rro.m3u",
+         "http": "",
+         "note": "Visp (Local)"
+      },
+      {
+         "name": "Radio Stadfilter",
+         "logo": "Stadfilter",
+         "link": "http://www.stadtfilter.ch/pub/streams/stadtfilter.pls",
+         "http": "",
+         "note": "Winterthur (Local)"
+      },
+      {
+         "name": "Radio Sunshine",
+         "logo": "Sunshine",
+         "link": "http://mp3stream.sunshine.ch/listen.pls",
+         "http": "",
+         "note": "Rotkreuz (Local)"
+      },
+      {
+         "name": "Radio Tell",
+         "logo": "Tell",
+         "link": "http://stream.radiotell.ch/radiotell.mp3.m3u",
+         "http": "",
+         "note": "Kehrsatz (Local)"
+      },
+      {
+         "name": "Radio Tropic",
+         "logo": "Tropic",
+         "link": "http://broadcast.infomaniak.ch/tropic-low.mp3.m3u",
+         "http": "http://broadcast.infomaniak.ch/tropic-high.mp3.m3u",
+         "note": "Zurich"
+      },
+      {
+         "name": "Radio Zürisee",
+         "logo": "Zurisee",
+         "link": "http://radio.netstream.ch/radiozuerisee128k.m3u",
+         "http": "",
+         "note": "Top 30 (Rapperswil, Local)"
+      },
+      {
+         "name": "RASA",
+         "logo": "RASA",
+         "link": "http://s7.pop-stream.de:7830/listen.pls",
+         "http": "",
+         "note": "Schaffhausen (Local)"
+      },
+      {
+         "name": "RFT (Fiume Ticino)",
+         "logo": "Fiume",
+         "link": "http://streaming.smartradio.ch:2199/tunein/direttahq.pls",
+         "http": "",
+         "note": "Top 30 (Locarno, Local)"
+      },
+      {
+         "name": "RFT CHARME",
+         "logo": "CHARME",
+         "link": "http://streaming.smartradio.ch:2199/tunein/rftcharme.pls",
+         "http": "",
+         "note": "Lounge, Fusion, Jazz Music (Locarno, Local)"
+      },
+      {
+         "name": "RFT MOVIDA",
+         "logo": "MOVIDA",
+         "link": "http://streaming.smartradio.ch:2199/tunein/rftmovida.pls",
+         "http": "",
+         "note": "House Music (Locarno, Local)"
+      },
+      {
+         "name": "RFT POP",
+         "logo": "RFT",
+         "link": "http://streaming.smartradio.ch:2199/tunein/rftpop.pls",
+         "http": "",
+         "note": "Locarno (Local)"
+      },
+      {
+         "name": "RFT ROCK",
+         "logo": "RFTROCK",
+         "link": "http://streaming.smartradio.ch:2199/tunein/rftrock.pls",
+         "http": "",
+         "note": "Locarno (Local)"
+      },
+      {
+         "name": "RFT GOLD",
+         "logo": "RFTGOLD",
+         "link": "http://streaming.smartradio.ch:2199/tunein/rftgold.pls",
+         "http": "",
+         "note": "Locarno (Local)"
+      },
+      {
+         "name": "Rhône FM",
+         "logo": "Rhone",
+         "link": "http://broadcast.infomaniak.ch/rhonefm-low.mp3.m3u",
+         "http": "http://broadcast.infomaniak.ch/rhonefm-high.mp3.m3u",
+         "note": "Sion (Local)"
+      },
+      {
+         "name": "RFJ",
+         "logo": "RFJ",
+         "link": "http://www.rfj.ch/RFJ/live/48k.mp3.m3u",
+         "http": "http://www.rfj.ch/RFJ/live/128k.mp3.m3u",
+         "note": "Top 30 (Delémont, Local)"
+      },
+      {
+         "name": "RJB",
+         "logo": "RJB",
+         "link": "http://www.rjb.ch/RJB/live/rjb-low.mp3.m3u",
+         "http": "http://www.rjb.ch/RJB/live/rjb-high.mp3.m3u",
+         "note": "Top 30 (Tavannes, Local)"
+      },
+      {
+         "name": "RTN",
+         "logo": "RTN",
+         "link": "http://www.rjb.ch/RTN/live/rtn-low.mp3.m3u",
+         "http": "http://www.rjb.ch/RTN/live/rtn-high.mp3.m3u",
+         "note": "Top 30 (Marin, Local)"
+      },
+      {
+         "name": "Rouge",
+         "logo": "Rouge",
+         "link": "http://rougefm.ice.infomaniak.ch/rougefm-high.mp3.m3u",
+         "http": "",
+         "note": "Top 30 (Le Mont-sur-Lausanne, Local)"
+      },
+      {
+         "name": "Rouge Platine",
+         "logo": "Platine",
+         "link": "http://rougeplatine.ice.infomaniak.ch/rougeplatine-high.mp3.m3u",
+         "http": "",
+         "note": "Electronic Music (Le Mont-sur-Lausanne, Local)"
+      },
+      {
+         "name": "Rouge Rock",
+         "logo": "Ro",
+         "link": "http://rouge-rockpop.ice.infomaniak.ch/rouge-rockpop-high.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Latino",
+         "logo": "Latino",
+         "link": "http://rouge-latino.ice.infomaniak.ch/rouge-latino-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge RnB",
+         "logo": "RnB",
+         "link": "http://rouge-rnb.ice.infomaniak.ch/rouge-rnb-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Dance",
+         "logo": "Dan",
+         "link": "http://rouge-dance.ice.infomaniak.ch/rouge-dance-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Lounge",
+         "logo": "Loung",
+         "link": "http://rouge-lounge.ice.infomaniak.ch/rouge-lounge-128.mp3.m3u",
+         "http": "",
+         "note": "Music (Le Mont-sur-Lausanne, Local)"
+      },
+      {
+         "name": "Rouge 70s",
+         "logo": "70s",
+         "link": "http://rouge-70s.ice.infomaniak.ch/rouge-70s-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge 80s",
+         "logo": "8",
+         "link": "http://rouge-80s.ice.infomaniak.ch/rouge-80s-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge 90s",
+         "logo": "90",
+         "link": "http://rouge-90.ice.infomaniak.ch/rouge-90-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Alternative",
+         "logo": "Alternative",
+         "link": "http://rouge-alternative.ice.infomaniak.ch/rouge-alternative-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Disco",
+         "logo": "Disco",
+         "link": "http://rouge-disco.ice.infomaniak.ch/rouge-disco-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Hip-Hop",
+         "logo": "Hip",
+         "link": "http://rouge-hiphop.ice.infomaniak.ch/rouge-hiphop-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Hot 100",
+         "logo": "100",
+         "link": "http://rouge-hot100.ice.infomaniak.ch/rouge-hot100-128.mp3.m3u",
+         "http": "",
+         "note": "Top 30 / Pop Music (Le Mont-sur-Lausanne, Local)"
+      },
+      {
+         "name": "Rouge In Love",
+         "logo": "In",
+         "link": "http://rouge-inlove.ice.infomaniak.ch/rouge-inlove-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Italia",
+         "logo": "Italia",
+         "link": "http://rouge-italia.ice.infomaniak.ch/rouge-italia-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Made in France",
+         "logo": "Made",
+         "link": "http://rouge-madeinfrance.ice.infomaniak.ch/rouge-madeinfrance-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Reggae",
+         "logo": "Reggae",
+         "link": "http://rouge-reggae.ice.infomaniak.ch/rouge-reggae-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge Soundtrack",
+         "logo": "Sound",
+         "link": "http://rouge-soundtrack.ice.infomaniak.ch/rouge-soundtrack-128.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
+      },
+      {
+         "name": "Rouge BPM",
+         "logo": "BPM",
+         "link": "http://rouge-bpm.ice.infomaniak.ch/rouge-bpm-128.mp3.m3u",
+         "http": "",
+         "note": "Sports (Le Mont-sur-Lausanne)"
+      },
+      {
+         "name": "Rouge Metal",
+         "logo": "Metal",
+         "link": "http://rouge-metal.ice.infomaniak.ch/rouge-metal-128.mp3.m3u",
+         "http": "",
+         "note": "Rock Music (Le Mont-sur-Lausanne, Local)"
+      },
+      {
+         "name": "Spoon Radio",
+         "logo": "Spoon",
+         "link": "http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-high.mp3/playlist.pls",
+         "http": "http://statslive.infomaniak.ch/playlist/spoonradio/spoonradio-low.aac/playlist.pls",
+         "note": "Rock Music (Geneva)"
+      },
+      {
+         "name": "toxic.fm",
+         "logo": "toxic",
+         "link": "http://toxicfm.ice.infomaniak.ch/toxicfm-128.m3u",
+         "http": "",
+         "note": "Rock/Pop/Electro Music (St.Gallen, Local)"
+      },
+      {
+         "name": "Traxx FM Deluxe",
+         "logo": "Deluxe",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx001-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx001-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM House",
+         "logo": "House",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx002-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx002-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Electro",
+         "logo": "Electro",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx003-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx003-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Lounge",
+         "logo": "Traxx1",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx004-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx004-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Cool Jam",
+         "logo": "Cool",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx005-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx005-48.aac.m3u",
+         "note": "Jazzy/Soul/Lounge Music"
+      },
+      {
+         "name": "Traxx FM Soul",
+         "logo": "Soul",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx006-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx006-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM RnB",
+         "logo": "FM",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx007-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx007-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Latino",
+         "logo": "Traxx2",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx008-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx008-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Pop",
+         "logo": "Traxx3",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx009-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx009-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Hits",
+         "logo": "Hits",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx010-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx010-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Ambient",
+         "logo": "Ambient",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx011-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx011-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Classic",
+         "logo": "Traxx4",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx012-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx012-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Deep",
+         "logo": "Deep",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx013-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx013-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Jazz",
+         "logo": "Traxx5",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx014-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx014-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Rap",
+         "logo": "Rap",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx015-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx015-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Funk",
+         "logo": "Traxx6",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx016-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx016-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Gold Hits 70-90",
+         "logo": "70-90",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx017-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx017-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Trance",
+         "logo": "Trance",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx018-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx018-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Rock",
+         "logo": "Traxx7",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx019-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx019-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Tech-Minimal",
+         "logo": "Minimal",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx020-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx020-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Italia",
+         "logo": "Traxx8",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx021-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx021-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Latino Pop",
+         "logo": "Traxx9",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx022-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx022-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Golden Oldies",
+         "logo": "Golden",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx023-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx023-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM Gold Hits 90-00",
+         "logo": "90-00",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx024-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx024-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Traxx FM France",
+         "logo": "France",
+         "link": "http://traxx001.ice.infomaniak.ch/traxx025-low.mp3.m3u",
+         "http": "http://traxx001.ice.infomaniak.ch/traxx025-48.aac.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Swiss Internet Radio Classical",
+         "logo": "Classical",
+         "link": "http://www.swissradio.ch/streams/6034.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Swiss Internet Radio Opera",
+         "logo": "Opera",
+         "link": "http://www.swissradio.ch/streams/6060.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Swiss Internet Radio Jazz",
+         "logo": "Internet",
+         "link": "http://www.swissradio.ch/streams/6054.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Swiss Internet Radio Modern Jazz",
+         "logo": "Modern",
+         "link": "http://www.swissradio.ch/streams/6092.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Swiss Internet Radio 80s Pop",
+         "logo": "80",
+         "link": "http://www.radiocrazy.ch/streams/6070.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Swiss Internet Radio Sanctus",
+         "logo": "Sanctus",
+         "link": "http://www.radiocrazy.ch/streams/6080.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "SwissGroove",
+         "logo": "SwissGroove",
+         "link": "http://www.swissgroove.ch/listen.m3u",
+         "http": "",
+         "note": "Jazz/Funk Music"
+      },
+      {
+         "name": "Vibration",
+         "logo": "Vibration",
+         "link": "http://vibration.stream2net.eu:8130/listen.pls",
+         "http": "http://vibration-aac.stream2net.eu:8040/listen.pls",
+         "note": "Top 30 (Sion, Local)"
+      },
+      {
+         "name": "Vibration Poprock",
+         "logo": "Poprock",
+         "link": "http://vibrationpoprock.stream2net.eu:8260/listen.pls",
+         "http": "http://vibrationpoprock.stream2net.eu:8030/listen.pls",
+         "note": "Top 30 (Sion, Local)"
+      },
+      {
+         "name": "Vibration Classic hits",
+         "logo": "Classichits",
+         "link": "http://vibrationclassic80.stream2net.eu:8060/listen.pls",
+         "http": "http://vibrationclassic80-aac.stream2net.eu:8110/listen.pls",
+         "note": "80s/Oldies (Sion, Local)"
+      },
+      {
+         "name": "Vibration Soft Hits",
+         "logo": "Soft",
+         "link": "http://vibrationsofthits.stream2net.eu:8350/listen.pls",
+         "http": "http://vibrationsofthits.stream2net.eu:8380/listen.pls",
+         "note": "Sion (Local)"
+      },
+      {
+         "name": "Vibration Latina",
+         "logo": "Latina",
+         "link": "http://vibracionlatina.stream2net.eu:8410/listen.pls",
+         "http": "http://vibracionlatina.stream2net.eu:8420/listen.pls",
+         "note": "Sion (Local)"
+      },
+      {
+         "name": "World Radio Switzerland",
+         "logo": "World",
+         "link": "http://direct.sharp-stream.com/radiofrontier.mp3.m3u",
+         "http": "",
+         "note": "Geneva"
+      },
+      {
+         "name": "Yes FM (LAC)",
+         "logo": "Yes",
+         "link": "http://yesfm.ice.infomaniak.ch/yesfm-high.mp3.m3u",
+         "http": "",
+         "note": "Le Mont-sur-Lausanne (Local)"
       }
    ]
 }

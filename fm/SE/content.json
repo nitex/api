@@ -43,13 +43,629 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
-      {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
-      }
-   ]
+  "Content": [
+    {
+      "name": "Sveriges Radio P1",
+      "logo": "P1",
+      "link": "http://sverigesradio.se/topsy/direkt/132-hi-mp3.m3u",
+      "http": "http://sverigesradio.se/topsy/direkt/132-lo-aac.pls",
+      "note": "News / Features"
+    },
+    {
+      "name": "Sveriges Radio P2",
+      "logo": "P2",
+      "link": "http://sverigesradio.se/topsy/direkt/163-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/163-lo-aac.pls",
+      "note": "Classical / Cultural"
+    },
+    {
+      "name": "Sveriges Radio P2 Musik",
+      "logo": "Musik",
+      "link": "http://sverigesradio.se/topsy/direkt/2562-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/2562-lo-aac.pls",
+      "note": "Classical"
+    },
+    {
+      "name": "Sveriges Radio P2 Världen",
+      "logo": "Sveriges",
+      "link": "http://sverigesradio.se/topsy/direkt/2619-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/2619-lo-aac.pls",
+      "note": "Music"
+    },
+    {
+      "name": "Sveriges Radio P3",
+      "logo": "P3",
+      "link": "http://sverigesradio.se/topsy/direkt/164-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/164-lo-aac.pls",
+      "note": "News / Youth Music"
+    },
+    {
+      "name": "Sveriges Radio P3 Star",
+      "logo": "Star",
+      "link": "http://sverigesradio.se/topsy/direkt/1607-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/1607-lo-aac.pls",
+      "note": "Top 30 / Music"
+    },
+    {
+      "name": "Sveriges Radio P4 med Radiosporten",
+      "logo": "Radiosporten",
+      "link": "http://sverigesradio.se/topsy/direkt/179-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/179-lo-aac.pls",
+      "note": "Sport / Talk / Music"
+    },
+    {
+      "name": "Sveriges Radio P4 Blekinge",
+      "logo": "Blekinge",
+      "link": "http://sverigesradio.se/topsy/direkt/213-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/213-lo-aac.pls",
+      "note": "Karlskrona (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Dalarna",
+      "logo": "Dalarna",
+      "link": "http://sverigesradio.se/topsy/direkt/223-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/223-lo-aac.pls",
+      "note": "Falun (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Gotland",
+      "logo": "Gotland",
+      "link": "http://sverigesradio.se/topsy/direkt/205-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/205-lo-aac.pls",
+      "note": "Visby (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Gävleborg",
+      "logo": "Gavleborg",
+      "link": "http://sverigesradio.se/topsy/direkt/210-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/210-lo-aac.pls",
+      "note": "Gävle (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Göteborg",
+      "logo": "Goteborg",
+      "link": "http://sverigesradio.se/topsy/direkt/212-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/212-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio P4 Halland",
+      "logo": "Halland",
+      "link": "http://sverigesradio.se/topsy/direkt/220-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/220-lo-aac.pls",
+      "note": "Halmstad (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Jämtland",
+      "logo": "Jamtland",
+      "link": "http://sverigesradio.se/topsy/direkt/200-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/200-lo-aac.pls",
+      "note": "Östersund (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Jönköping",
+      "logo": "Jonkoping",
+      "link": "http://sverigesradio.se/topsy/direkt/203-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/203-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio P4 Kalmar",
+      "logo": "Kalmar",
+      "link": "http://sverigesradio.se/topsy/direkt/201-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/201-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio P4 Kristianstad",
+      "logo": "Kristianstad",
+      "link": "http://sverigesradio.se/topsy/direkt/211-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/211-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio P4 Kronoberg",
+      "logo": "Kronoberg",
+      "link": "http://sverigesradio.se/topsy/direkt/214-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/214-lo-aac.pls",
+      "note": "Växjö (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Malmöhus",
+      "logo": "Malmohus",
+      "link": "http://sverigesradio.se/topsy/direkt/207-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/207-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio P4 Norrbotten",
+      "logo": "Norrbotten",
+      "link": "http://sverigesradio.se/topsy/direkt/209-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/209-lo-aac.pls",
+      "note": "Luleå (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Sjuhärad",
+      "logo": "Sjuharad",
+      "link": "http://sverigesradio.se/topsy/direkt/206-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/206-lo-aac.pls",
+      "note": "Borås (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Skaraborg",
+      "logo": "Skaraborg",
+      "link": "http://sverigesradio.se/topsy/direkt/208-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/208-lo-aac.pls",
+      "note": "Skövde (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Stockholm",
+      "logo": "Stockholm",
+      "link": "http://sverigesradio.se/topsy/direkt/701-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/701-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio P4 Sörmland",
+      "logo": "Sormland",
+      "link": "http://sverigesradio.se/topsy/direkt/202-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/202-lo-aac.pls",
+      "note": "Eskilstuna (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Uppland",
+      "logo": "Uppland",
+      "link": "http://sverigesradio.se/topsy/direkt/218-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/218-lo-aac.pls",
+      "note": "Uppsala (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Värmland",
+      "logo": "Varmland",
+      "link": "http://sverigesradio.se/topsy/direkt/204-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/204-lo-aac.pls",
+      "note": "Karlstad (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Väst",
+      "logo": "Vast",
+      "link": "http://sverigesradio.se/topsy/direkt/219-hi-mp3.m3u",
+      "http": "http://sverigesradio.se/topsy/direkt/219-lo-aac.pls",
+      "note": "Uddevalla (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Västerbotten",
+      "logo": "Vasterbotten",
+      "link": "http://sverigesradio.se/topsy/direkt/215-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/215-lo-aac.pls",
+      "note": "Umeå (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Västernorrland",
+      "logo": "Vasternorrland",
+      "link": "http://sverigesradio.se/topsy/direkt/216-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/217-lo-aac.pls",
+      "note": "Sundsvall (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Västmanland",
+      "logo": "Vastmanland",
+      "link": "http://sverigesradio.se/topsy/direkt/217-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/217-lo-aac.pls",
+      "note": "Västerås (Local)"
+    },
+    {
+      "name": "Sveriges Radio P4 Örebro",
+      "logo": "Orebro",
+      "link": "http://sverigesradio.se/topsy/direkt/221-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/221-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio P4 Östergötland",
+      "logo": "Ostergotland",
+      "link": "http://sverigesradio.se/topsy/direkt/222-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/222-lo-aac.pls",
+      "note": "Norrköping (Local)"
+    },
+    {
+      "name": "Sveriges Radio Sisuradio",
+      "logo": "Sisuradio",
+      "link": "http://sverigesradio.se/topsy/direkt/226-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/226-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Sveriges Radio SR Klassiskt",
+      "logo": "Klassiskt",
+      "link": "http://sverigesradio.se/topsy/direkt/1603-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/1603-lo-aac.pls",
+      "note": "Classical Music"
+    },
+    {
+      "name": "Sveriges Radio SR Sápmi",
+      "logo": "SR",
+      "link": "http://sverigesradio.se/topsy/direkt/224-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/224-lo-aac.pls",
+      "note": "Sámi (Local)"
+    },
+    {
+      "name": "Sveriges Radio Radioapans knattekanal",
+      "logo": "Radioapans",
+      "link": "http://sverigesradio.se/topsy/direkt/2755-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/2755-lo-aac.pls",
+      "note": "Youth"
+    },
+    {
+      "name": "Sveriges Radio Din gata",
+      "logo": "Din",
+      "link": "http://sverigesradio.se/topsy/direkt/2576-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/2576-lo-aac.pls",
+      "note": "HipHop/RnB Music"
+    },
+    {
+      "name": "Sveriges Radio Metropol",
+      "logo": "Metropol",
+      "link": "http://sverigesradio.se/topsy/direkt/2842-hi-mp3.pls",
+      "http": "http://sverigesradio.se/topsy/direkt/2842-lo-aac.pls",
+      "note": ""
+    },
+    {
+      "name": "Bandit Rock 106.3",
+      "logo": "Bandit",
+      "link": "http://stream-ice.mtgradio.com:8080/stat_bandit.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Dansbandskanalen",
+      "logo": "Dansbandskanalen",
+      "link": "http://www.guldkanalen.se/static/streamDBK/128MP3.pls",
+      "http": "http://www.guldkanalen.se/static/streamDBK/64AAC.pls",
+      "note": "Malmo (Local)"
+    },
+    {
+      "name": "East FM",
+      "logo": "East",
+      "link": "http://www.listenlive.eu/eastfm.m3u",
+      "http": "",
+      "note": "RnB/Dance/Alternative Music (Norrköping, Local)"
+    },
+    {
+      "name": "Gold 102,4",
+      "logo": "Gold",
+      "link": "http://gold24.xnk.nu:8080/listen.pls",
+      "http": "",
+      "note": "Växjö (Local)"
+    },
+    {
+      "name": "Guldkanalen 102.6",
+      "logo": "102",
+      "link": "http://www.guldkanalen.se/static/streamGK/128MP3.pls",
+      "http": "http://www.guldkanalen.se/static/streamGK/64AAC.pls",
+      "note": "Malmo (Local)"
+    },
+    {
+      "name": "Guldkanalen 60-tal",
+      "logo": "60",
+      "link": "http://www.guldkanalen.se/static/streamGK60/128MP3.pls",
+      "http": "http://www.guldkanalen.se/static/streamGK60/64AAC.pls",
+      "note": "Malmo (Local)"
+    },
+    {
+      "name": "Guldkanalen 70-tal",
+      "logo": "70",
+      "link": "http://www.guldkanalen.se/static/streamGK70/128MP3.pls",
+      "http": "http://www.guldkanalen.se/static/streamGK70/64AAC.pls",
+      "note": "Malmo (Local)"
+    },
+    {
+      "name": "Guldkanalen 80-tal",
+      "logo": "80",
+      "link": "http://www.guldkanalen.se/static/streamGK80/128MP3.pls",
+      "http": "http://www.guldkanalen.se/static/streamGK80/64AAC.pls",
+      "note": "Malmo (Local)"
+    },
+    {
+      "name": "Guldkanalen 90-tal",
+      "logo": "90",
+      "link": "http://www.guldkanalen.se/static/streamGK90/128MP3.pls",
+      "http": "http://www.guldkanalen.se/static/streamGK90/64AAC.pls",
+      "note": "Malmo (Local)"
+    },
+    {
+      "name": "Hitcity Öresund 94.5",
+      "logo": "Hitcity",
+      "link": "http://hitcity.bredbandsson.se/live.m3u",
+      "http": "",
+      "note": "Music (Landskrona, Local)"
+    },
+    {
+      "name": "K103",
+      "logo": "K103",
+      "link": "http://130.241.172.94:8080/icestream96.mp3.m3u",
+      "http": "",
+      "note": "Gothenburg (Local)"
+    },
+    {
+      "name": "Lite FM",
+      "logo": "Lite",
+      "link": "http://www.litefm.se/live.m3u",
+      "http": "",
+      "note": "Top 30 / Dance (Trollhättan, Local)"
+    },
+    {
+      "name": "Lugna Favoriter 104,7",
+      "logo": "Lugna",
+      "link": "http://stream-ice.mtgradio.com:8080/stat_lugna_favoriter.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Mix Megapol",
+      "logo": "Megapol",
+      "link": "http://194.16.21.227/mix_se_mp3.m3u",
+      "http": "http://194.16.21.227/mix_se_aacp.m3u",
+      "note": "Stockholm"
+    },
+    {
+      "name": "Mix Megapol 107,3",
+      "logo": "Mix",
+      "link": "http://194.16.21.227/mix_gbg_se_mp3.m3u",
+      "http": "http://194.16.21.227/mix_gbg_se_aacp.m3u",
+      "note": "Göteborg (Local)"
+    },
+    {
+      "name": "Mix Megapol 107,0",
+      "logo": "107",
+      "link": "http://194.16.21.227/mix_malmo_se_mp3.m3u",
+      "http": "http://194.16.21.227/mix_malmo_se_aacp.m3u",
+      "note": "Malmö (Local)"
+    },
+    {
+      "name": "MRS",
+      "logo": "MRS",
+      "link": "http://radiostreamone.mine.nu:19050/listen.pls",
+      "http": "http://user.tninet.se/~hyt673y/stream/mrs905/",
+      "note": ""
+    },
+    {
+      "name": "NERadio",
+      "logo": "NERadio",
+      "link": "http://www.neradio.se/listen.pls",
+      "http": "",
+      "note": "Techno/Trance Music"
+    },
+    {
+      "name": "NRJ",
+      "logo": "NRJ",
+      "link": "http://194.16.21.227/nrj_se_mp3.m3u",
+      "http": "http://194.16.21.227/nrj_se_aacp.m3u",
+      "note": "Top 30"
+    },
+    {
+      "name": "One FM",
+      "logo": "One",
+      "link": "http://www.joda.se/onefm/stream.pls",
+      "http": "",
+      "note": "Top 30 (Åre, Local)"
+    },
+    {
+      "name": "Pirate Rock",
+      "logo": "Pirate",
+      "link": "http://scb2.fantis.se:8080/listen.pls",
+      "http": "",
+      "note": "Kungälv (Local)"
+    },
+    {
+      "name": "Playdio",
+      "logo": "Playdio",
+      "link": "http://media.playdio.se/listen.pls",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Pop och Rock",
+      "logo": "och",
+      "link": "http://radioumea.dyndns.info:8000/listen.pls",
+      "http": "",
+      "note": "Umeå (Local)"
+    },
+    {
+      "name": "Radio 107.5",
+      "logo": "107.5",
+      "link": "http://194.16.21.227/1075_se_mp3.m3u",
+      "http": "http://194.16.21.227/1075_se_aacp.m3u",
+      "note": "Uptempo Music"
+    },
+    {
+      "name": "Radio Active",
+      "logo": "Active",
+      "link": "http://www.listenlive.eu/fmosterlan.m3u",
+      "http": "",
+      "note": "Top 30 (Ystad, Local)"
+    },
+    {
+      "name": "Radio AF",
+      "logo": "AF",
+      "link": "http://live.radioaf.se:8000/listen.pls?sid=1",
+      "http": "",
+      "note": "Lund (Local)"
+    },
+    {
+      "name": "Radio Andra",
+      "logo": "Andra",
+      "link": "http://majestic.wavestreamer.com:9472/listen.pls",
+      "http": "",
+      "note": "Indie/Alternative Music (Gothenburg, Local)"
+    },
+    {
+      "name": "Radio Berg",
+      "logo": "Berg",
+      "link": "http://62.20.28.156/listen.pls",
+      "http": "",
+      "note": "Svenstavik (Local)"
+    },
+    {
+      "name": "Radio Bohuslän 106,2",
+      "logo": "Bohuslan",
+      "link": "http://radio.itconnect.se/rb2.m3u",
+      "http": "",
+      "note": "Uddevalla (Local)"
+    },
+    {
+      "name": "Radio Campus",
+      "logo": "Campus",
+      "link": "http://130.243.117.157:8000/radiocampus.m3u",
+      "http": "",
+      "note": "Örebro (Local)"
+    },
+    {
+      "name": "Radio Guld",
+      "logo": "Guld",
+      "link": "http://audiostream.picsearch.com:8000/radioguld.m3u",
+      "http": "",
+      "note": "Sundsvall (Local)"
+    },
+    {
+      "name": "Radio Lidingö",
+      "logo": "Lidingo",
+      "link": "http://83.251.191.119:8000/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Radio Mariestad",
+      "logo": "Mariestad",
+      "link": "http://myradiostream.com/17/10512/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Radio Nacka",
+      "logo": "Nacka",
+      "link": "http://user.tninet.se/~hyt673y/stream/radionacka/listen.m3u",
+      "http": "",
+      "note": "Talk/Culture"
+    },
+    {
+      "name": "Radio Prime",
+      "logo": "Prime",
+      "link": "http://primestream.monsternett.no:8000/stromstad.mp3.m3u",
+      "http": "",
+      "note": "Contemporary/Classic (Strömstad, Local)"
+    },
+    {
+      "name": "Radio Seven",
+      "logo": "Seven",
+      "link": "http://www.radioseven.se/128.pls",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Radio Skellefteå",
+      "logo": "Skelleftea",
+      "link": "http://goldtown.servemp3.com/listen.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Radio Sotenäs",
+      "logo": "Sotenas",
+      "link": "http://ice-cluster.streaming.xmc.se/radiosotenas.m3u",
+      "http": "",
+      "note": "Kungshamn (Local)"
+    },
+    {
+      "name": "Radio Sydväst",
+      "logo": "Sydvast",
+      "link": "http://www.radiosydvast.se/webbradio/webbradio.pls",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Radio Treby",
+      "logo": "Treby",
+      "link": "http://stream1.bogalnet.se:443/vargarda.mp3.m3u",
+      "http": "",
+      "note": "Vara"
+    },
+    {
+      "name": "Rix FM",
+      "logo": "Rix",
+      "link": "http://stream-ice.mtgradio.com:8080/stat_rix_fm.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Rocket FM 95.3",
+      "logo": "Rocket",
+      "link": "http://stream.thsradio.se:8000/rocket_hi.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Rockklassiker 106,7",
+      "logo": "Rockklassiker",
+      "link": "http://194.16.21.227/rock_se_mp3.m3u",
+      "http": "http://194.16.21.227/rock_se_aacp.m3u",
+      "note": ""
+    },
+    {
+      "name": "Stockholms Närradio 88,0",
+      "logo": "88",
+      "link": "http://www.narradio.se/webbradio.php?k=880&q=32&m=m3u",
+      "http": "http://www.narradio.se/webbradio.php?k=880&q=64&m=m3u",
+      "note": ""
+    },
+    {
+      "name": "Stockholms Närradio 95,3",
+      "logo": "95",
+      "link": "http://www.narradio.se/webbradio.php?k=953&q=32&m=m3u",
+      "http": "http://www.narradio.se/webbradio.php?k=953&q=64&m=m3u",
+      "note": ""
+    },
+    {
+      "name": "Stockholms Närradio 101,1",
+      "logo": "101",
+      "link": "http://www.narradio.se/webbradio.php?k=101&q=32&m=m3u",
+      "http": "http://www.narradio.se/webbradio.php?k=101&q=64&m=m3u",
+      "note": ""
+    },
+    {
+      "name": "Studentradion 98,9",
+      "logo": "Studentradion",
+      "link": "http://130.238.166.180:8004/live.m3u",
+      "http": "",
+      "note": "Uppsala (Local)"
+    },
+    {
+      "name": "Tidaholm FM",
+      "logo": "Tidaholm",
+      "link": "http://radio.fnf.nu:443/radiotidaholm.mp3.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Vinyl 107",
+      "logo": "Vinyl",
+      "link": "http://194.16.21.227/vinyl_se_mp3.m3u",
+      "http": "http://194.16.21.227/vinyl_se_aacp.m3u",
+      "note": ""
+    },
+    {
+      "name": "V97",
+      "logo": "V97",
+      "link": "http://v97stream.audire.se:8080/listen.pls",
+      "http": "",
+      "note": "Vallentuna (Local)"
+    },
+    {
+      "name": "The Voice 105,9",
+      "logo": "Voice",
+      "link": "http://194.16.21.227/voice_se_mp3.m3u",
+      "http": "http://194.16.21.227/voice_se_aacp.m3u",
+      "note": "HipHop/RnB Music"
+    }
+  ]
 }

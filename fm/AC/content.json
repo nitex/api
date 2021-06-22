@@ -43,13 +43,167 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Pulsar 94.8 FM Ouaga",
+         "logo": "Ouaga",
+         "link": "http://pulsarouagadougou.ice.infomaniak.ch/pulsarouagadougou-64.mp3",
+         "http": "http://www.surfmusic.de/m3u/pulsar-94-8-fm-ouaga,16626.m3u",
+         "note": "Burkina Faso"
+      },
+      {
+         "name": "Pulsar FM",
+         "logo": "Pulsar",
+         "link": "http://www.surfmusic.de/m3u/pulsar-fm,13849.m3u",
+         "http": "",
+         "note": "Burkina Faso"
+      },
+      {
+         "name": "Savane FM",
+         "logo": "Savane",
+         "link": "http://node-07.zeno.fm/khc1vp4mb",
+         "http": "",
+         "note": "Burkina Faso"
+      },
+      {
+         "name": "Ndeke Luka",
+         "logo": "Ndeke",
+         "link": "http://stream.radiondekeluka.org:8001/ndekeluka.m3u",
+         "http": "https://stream.radiondekeluka.org/ndekeluka",
+         "note": "Central African Republic"
+      },
+      {
+         "name": "CASM FM",
+         "logo": "CASM",
+         "link": "https://casmfm.ice.infomaniak.ch/casmfm-32.mp3",
+         "http": "",
+         "note": "Comores"
+      },
+      {
+         "name": "RCM13 Comores",
+         "logo": "RCM13",
+         "link": "http://sv1.vestaradio.com/rcm13.m3u",
+         "http": "",
+         "note": "Comores"
+      },
+      {
+         "name": "RTMC Mbéni",
+         "logo": "RTMC",
+         "link": "http://rtmc.ice.infomaniak.ch/rtmc-32.mp3",
+         "http": "",
+         "note": "Comores"
+      },
+      {
+         "name": "Bonne Nouvelle 95.5 FM",
+         "logo": "Bonne",
+         "link": "http://31.14.40.144:3006/stream.m3u",
+         "http": "",
+         "note": "Gabon"
+      },
+      {
+         "name": "Record FM 107.9",
+         "logo": "Record",
+         "link": "http://162.210.196.217:8086/listen.pls?sid=1",
+         "http": "",
+         "note": "Gabon"
+      },
+      {
+         "name": "RTN 100.0 FM",
+         "logo": "RTN",
+         "link": "http://31.14.40.144:3036/stream.m3u",
+         "http": "",
+         "note": "Gabon"
+      },
+      {
+         "name": "Dziani 104.8 FM",
+         "logo": "Dziani",
+         "link": "http://listen.radioking.com/radio/3331/stream/63166",
+         "http": "",
+         "note": "Mayotte"
+      },
+      {
+         "name": "Kwezi FM",
+         "logo": "Kwezi",
+         "link": "http://kwezifm.ice.infomaniak.ch/kwezifm-128.mp3",
+         "http": "",
+         "note": "Mayotte"
+      },
+      {
+         "name": "Mawoua 88.1 FM",
+         "logo": "Mawoua",
+         "link": "http://mawoua.ice.infomaniak.ch/mawoua-32.aac",
+         "http": "",
+         "note": "Mayotte"
+      },
+      {
+         "name": "Mayana FM",
+         "logo": "Mayana",
+         "link": "http://62.210.131.27:8029/listen.pls?sid=1",
+         "http": "",
+         "note": "Mayotte"
+      },
+      {
+         "name": "ELBC 99.9 FM",
+         "logo": "ELBC",
+         "link": "http://stream.zenolive.com/g2wp7rzbaq5tv.m3u",
+         "http": "",
+         "note": "Liberia"
+      },
+      {
+         "name": "K-Radio 97.2 FM",
+         "logo": "K",
+         "link": "http://www.k-ent.sc:8000/kradio.mp3.m3u",
+         "http": "http://www.k-ent.sc:8000/kradio.mp3",
+         "note": "Seychelles"
+      },
+      {
+         "name": "Pure FM 90.7",
+         "logo": "Pure",
+         "link": "http://radio.sbc.sc:8010/purefmlive.mp3.m3u",
+         "http": "",
+         "note": "Seychelles"
+      },
+      {
+         "name": "SBC Paradise FM",
+         "logo": "Paradise",
+         "link": "https://streaming.fabrik.fm/paradise-fm/echocast/audio/index.m3u8",
+         "http": "",
+         "note": "Seychelles"
+      },
+      {
+         "name": "Saint FM Community",
+         "logo": "Saint",
+         "link": "http://radio.canstream.co.uk:8013/live96.mp3.m3u",
+         "http": "",
+         "note": "St. Helena Island"
+      },
+      {
+         "name": "SAMS",
+         "logo": "SAMS",
+         "link": "http://lush.wavestreamer.com:7465/Live.m3u",
+         "http": "",
+         "note": "St. Helena Island"
+      },
+      {
+         "name": "88.4 City FM",
+         "logo": "City",
+         "link": "http://streams.radio.co/s27dd498f6/listen",
+         "http": "",
+         "note": "South Sudan"
+      },
+      {
+         "name": "Eye Radio 98.6 FM",
+         "logo": "Eye",
+         "link": "http://eyeradio.primcast.com:9588/listen.pls",
+         "http": "",
+         "note": "South Sudan"
+      },
+      {
+         "name": "Miraya 101.0 FM",
+         "logo": "Miraya",
+         "link": "http://s3.myradiostream.com:15918/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/miraya-fm,13333.m3u",
+         "note": "South Sudan"
       }
    ]
 }

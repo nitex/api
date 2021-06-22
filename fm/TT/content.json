@@ -43,13 +43,272 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "103 FM",
+         "logo": "103",
+         "link": "http://s4.myradiostream.com/14348/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/103fm,11296.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Aakash Vani 106.5 FM",
+         "logo": "Aakash",
+         "link": "https://www.radiomast.io/stream/3ccc1156-fcf8-4ba7-9a0c-28e3a465e1ae/listen",
+         "http": "http://www.surfmusic.de/m3u/aakash-vani-106-5-fm,16740.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Bacchanal Radio",
+         "logo": "Bacchanal",
+         "link": "http://www.surfmusic.de/m3u/bacchanal-radio,17868.m3u",
+         "http": "",
+         "note": "Music (Trincity, Local)"
+      },
+      {
+         "name": "Boom Champions 94.1",
+         "logo": "Boom",
+         "link": "http://www.surfmusic.de/m3u/94-1-boom-champions,17468.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Heartbeat 104.1 FM",
+         "logo": "Heartbeat",
+         "link": "http://ice42.securenetsystems.net/CLCL.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Heritage Radio 101.7 FM",
+         "logo": "Heritage",
+         "link": "http://www.surfmusic.de/m3u/heritage-radio-101-7-fm,12202.m3u",
+         "http": "",
+         "note": "News, Talk (San Fernando, Local)"
+      },
+      {
+         "name": "Hott 93.5 FM",
+         "logo": "Hott",
+         "link": "http://ice41.securenetsystems.net/HOTT93.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "i95.5 FM",
+         "logo": "i95",
+         "link": "http://104.238.99.1:8000/i955fm.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/i95-5-fm,4616.m3u",
+         "note": ""
+      },
+      {
+         "name": "Inspirational Radio 730AM",
+         "logo": "Inspirational",
+         "link": "http://www.surfmusic.de/m3u/inspirational-radio-730am,16741.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ISAAC 98.1 FM The Promise",
+         "logo": "Isaac",
+         "link": "http://ice66.securenetsystems.net/FFBN.m3u",
+         "http": "http://www.surfmusic.de/m3u/isaac-radio-98-1-fm,12205.m3u",
+         "note": "Talk (Newtown, Local)"
+      },
+      {
+         "name": "Jaagriti 102.7 FM",
+         "logo": "Jaagriti",
+         "link": "http://www.surfmusic.de/m3u/radio-jaagriti-102-7-fm,12203.m3u",
+         "http": "",
+         "note": "Talk (Tunapuna, Local)"
+      },
+      {
+         "name": "Lime 101.7 FM",
+         "logo": "Lime",
+         "link": "https://www.radioking.com/play/lime-101-7fm-trinidad",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "More 104.7 FM",
+         "logo": "More",
+         "link": "https://stream.radio.co/se599d8fd9/listen",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Music for Life 107.7 FM",
+         "logo": "Life",
+         "link": "https://fms.ttrn.org/live/1077fm.sdp/playlist.m3u8",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Music Radio 97.1 FM",
+         "logo": "MusicRadio",
+         "link": "http://ice42.securenetsystems.net/MR97.m3u",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Next 99.1 FM",
+         "logo": "Next",
+         "link": "http://162.244.80.52:8972/listen.pls?sid=1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Platinum Hits 103.5 FM",
+         "logo": "Platinum",
+         "link": "http://ice42.securenetsystems.net/PLATHITS.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Power 102.1 FM",
+         "logo": "Power",
+         "link": "http://ttaccount.com:8080/m102.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/power-102-fm,12199.m3u",
+         "note": ""
+      },
+      {
+         "name": "Pulse 89.5 FM",
+         "logo": "Pulse",
+         "link": "https://radio.kgitsolutions.net/8002/stream",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Radio 90.5 FM",
+         "logo": "Radi",
+         "link": "http://ice42.securenetsystems.net/CR90.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Red 96.7 FM",
+         "logo": "Red",
+         "link": "http://104.238.99.1:8000/red967.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/red-96-7-fm,12207.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Remix 95.1 FM",
+         "logo": "Remix",
+         "link": "https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Sangeet 106 FM",
+         "logo": "Sangeet",
+         "link": "https://www.radiomast.io/stream/22e2c991-fc0c-4242-8cba-0a64d0aea809/listen",
+         "http": "http://www.surfmusic.de/m3u/sangeet-106-fm,16742.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Sky 99.5 FM",
+         "logo": "Sky",
+         "link": "https://www.radiomast.io/stream/efe56859-e3cb-4563-8e94-0320488b7cbd/listen",
+         "http": "",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "Slam 100.5 FM",
+         "logo": "Slam",
+         "link": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
+         "http": "http://www.surfmusic.de/m3u/slam-100-5-fm,16743.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Soca Switch Radio",
+         "logo": "Soca",
+         "link": "http://5.189.142.165:8403/stream",
+         "http": "http://www.surfmusic.de/m3u/soca-switch-radio,19650.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Star 94.7 HD FM",
+         "logo": "HD",
+         "link": "https://fms.ttrn.org/live/star947.sdp/playlist.m3u8",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Sweet 100 FM",
+         "logo": "Sweet",
+         "link": "http://185.105.4.53:6030/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/sweet-100-fm,17243.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "TAJ 92.3 FM",
+         "logo": "TAJ",
+         "link": "http://ice66.securenetsystems.net/TAJ.m3u",
+         "http": "http://www.surfmusic.de/m3u/taj-92-3-fm,19301.m3u",
+         "note": "Curepe (Local)"
+      },
+      {
+         "name": "Talk City 91.1 FM",
+         "logo": "City",
+         "link": "http://162.244.80.52:9356/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/talk-city-91-1-fm,12209.m3u",
+         "note": "Talk, Music"
+      },
+      {
+         "name": "Tambrin 92.7 FM",
+         "logo": "Tambrin",
+         "link": "http://ice42.securenetsystems.net/TAMBRIN.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-tambrin-92-7-fm,12198.m3u",
+         "note": "News, Music (Tobago, Local)"
+      },
+      {
+         "name": "The Best Mix 95.1 FM",
+         "logo": "Best",
+         "link": "http://ttaccount.com:8080/m94.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/95-1-fm-the-best-mix,12208.m3u",
+         "note": "Top"
+      },
+      {
+         "name": "U97.5 FM - Hot Like Pepper!",
+         "logo": "Pepper",
+         "link": "http://s7.voscast.com:7490/listen.pls?sid=1",
+         "http": "http://cdn.voscast.com/resources/?key=46e359b87cc242c77f5c7ecacde6a8eb&c=winamp",
+         "note": "Music"
+      },
+      {
+         "name": "Vibe CT 105 FM",
+         "logo": "Vibe",
+         "link": "https://www.radiomast.io/stream/c35d311e-cc60-41b9-b0c5-339e62c14dee/listen",
+         "http": "http://www.surfmusic.de/m3u/vibe-ct-105-fm,16739.m3u",
+         "note": "Music (San Fernando, Local)"
+      },
+      {
+         "name": "W107.1 FM",
+         "logo": "W107",
+         "link": "http://www.surfmusic.de/m3u/w107-1-fm,16863.m3u",
+         "http": "http://104.238.99.1:8000/w107_128.mp3",
+         "note": "Scarborough (Local)"
+      },
+      {
+         "name": "Wack 90.1 FM",
+         "logo": "Wack",
+         "link": "https://stream.zeno.fm/4h2xb1zme3vtv",
+         "http": "http://www.surfmusic.de/m3u/wack-radio-90-1-fm,12200.m3u",
+         "note": "News, Music (San Fernando, Local)"
+      },
+      {
+         "name": "WEFM 96.1",
+         "logo": "WEFM",
+         "link": "https://fms.ttrn.org/live/961wefm.sdp/playlist.m3u8",
+         "http": "http://www.surfmusic.de/m3u/96-1-wefm,16663.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "WMJX 100.5 FM",
+         "logo": "WMJX",
+         "link": "http://www.surfmusic.de/m3u/wmjx-100-5-fm,12197.m3u",
+         "http": "",
+         "note": "St. James (Local)"
       }
    ]
 }

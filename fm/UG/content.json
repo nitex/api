@@ -43,13 +43,265 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Africa Radio",
+         "logo": "Afric",
+         "link": "http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Akaboozi 87.9 FM Kampala",
+         "logo": "Akaboozi",
+         "link": "https://www.radiouganda.net/kaboozi.m3u",
+         "http": "http://www.surfmusic.de/m3u/akaboozi-87-9-fm-kampala,16603.m3u",
+         "note": "News, Talk (Buganda, Local)"
+      },
+      {
+         "name": "BBC Idhaa ya Kiswahili",
+         "logo": "Idhaa",
+         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-swaha_backup.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Beat 96.3 FM",
+         "logo": "Beat",
+         "link": "http://144.217.203.226:8354/live.m3u",
+         "http": "",
+         "note": "Top Music"
+      },
+      {
+         "name": "Bob FM 92.7",
+         "logo": "Bob",
+         "link": "http://216.104.207.60:88//broadwave.m3u?src=1&rate=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Buddu",
+         "logo": "Buddu",
+         "link": "http://66.55.145.43:7344/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Capital FM 91.3",
+         "logo": "Capital",
+         "link": "https://www.radiouganda.net/capital.m3u",
+         "http": "http://www.surfmusic.de/m3u/91-3-capital-fm,18857.m3u",
+         "note": "Top"
+      },
+      {
+         "name": "CBS Buganda 88.8",
+         "logo": "CBS",
+         "link": "http://streamer.radiouganda.net:8000/cbs888.m3u",
+         "http": "http://www.surfmusic.de/m3u/88-8-cbs-fm-buganda,15008.m3u",
+         "note": "News"
+      },
+      {
+         "name": "CBS Buganda 89.2",
+         "logo": "Buganda",
+         "link": "http://streamer.radiouganda.net:8000/cbs892.m3u",
+         "http": "http://www.surfmusic.de/m3u/89-2-cbs-radio-buganda,15007.m3u",
+         "note": "News"
+      },
+      {
+         "name": "City 97.0 FM",
+         "logo": "City",
+         "link": "http://www.surfmusic.de/m3u/radiocity-97-0-fm,17904.m3u",
+         "http": "http://185.5.55.194:8050/listen.pls?sid=1",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "Connect Uganda Radio",
+         "logo": "Connect",
+         "link": "http://www.surfmusic.de/m3u/connect-uganda-radio,15011.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Elgon FM 101.4",
+         "logo": "Elgon",
+         "link": "http://www.surfmusic.de/m3u/elgon-fm-101-4,20285.m3u",
+         "http": "",
+         "note": "Mbale (Local)"
+      },
+      {
+         "name": "Digida 106.5 FM",
+         "logo": "Digida",
+         "link": "http://66.55.145.43:7383/arabellavie.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Galaxy FM 100.2",
+         "logo": "Galaxy",
+         "link": "http://192.184.9.158:8638/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/100-2-galaxy-fm,17856.m3u",
+         "note": ""
+      },
+      {
+         "name": "HOT100 Kampala",
+         "logo": "HOT100",
+         "link": "http://5.189.157.59:8000/stream.m3u",
+         "http": "http://www.surfmusic.de/m3u/hot100-kampala,19354.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Impact Radio 98.5 FM",
+         "logo": "Impact",
+         "link": "http://www.surfmusic.de/m3u/impact-radio-98-5-fm,11223.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "KDR 100.3 FM",
+         "logo": "KDR",
+         "link": "http://www.surfmusic.de/m3u/kdr-100-3-fm,20496.m3u",
+         "http": "",
+         "note": "Kibaale (Local)"
+      },
+      {
+         "name": "KFM Kampala 93.3",
+         "logo": "KFM",
+         "link": "http://41.221.93.134:8000/stream.m3u",
+         "http": "http://www.surfmusic.de/m3u/93-3-kfm-kampala,17524.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "Maria",
+         "logo": "Maria",
+         "link": "http://dreamsiteradiocp.com:8052/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-maria,11225.m3u",
+         "note": ""
+      },
+      {
+         "name": "MCF 98.7 FM",
+         "logo": "MCF",
+         "link": "http://shaincast.caster.fm:34777/listen.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Metro FM 90.8",
+         "logo": "Metro",
+         "link": "http://66.55.145.43:7757/listen.pls?sid=1",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Next Radio",
+         "logo": "Next",
+         "link": "http://www.surfmusic.de/m3u/nxt-radio,20255.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "One 90.0 FM",
+         "logo": "One",
+         "link": "http://rselvis.serverroom.net:5116/listen.pls?sid=1",
+         "http": "",
+         "note": "News, Music"
+      },
+      {
+         "name": "Pearl FM 107.9",
+         "logo": "Pearl",
+         "link": "http://66.55.145.43:7404/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/107-9-pearl-fm-pearl-of-africa,19041.m3u",
+         "note": "News"
+      },
+      {
+         "name": "POWER FM 104.1 Kampala",
+         "logo": "POWER",
+         "link": "http://www.surfmusic.de/m3u/power-fm-104-1-kampala,19137.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Prime 91.9 FM",
+         "logo": "Prime",
+         "link": "http://cast5.servcast.net:8266/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RFI Afrique",
+         "logo": "Afrique",
+         "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RFI English",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RFI Kiswahili",
+         "logo": "Kiswahili",
+         "link": "http://icepe1.infomaniak.ch/rfiswahili-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "SALT FM 107.0",
+         "logo": "SALT",
+         "link": "http://www.surfmusic.de/m3u/107-0-salt-fm,18859.m3u",
+         "http": "http://uk6.internet-radio.com:8358/stream",
+         "note": "News, Music"
+      },
+      {
+         "name": "Sanyu FM 88.2",
+         "logo": "Sanyu",
+         "link": "http://s44.myradiostream.com:8138/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Sapientia",
+         "logo": "Sapientia",
+         "link": "http://streamer.radiouganda.net:8000/sapientia.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-sapientia,15006.m3u",
+         "note": ""
+      },
+      {
+         "name": "Simba 97.3 FM",
+         "logo": "Simba",
+         "link": "http://www.surfmusic.de/m3u/radio-simba-kampala,19355.m3u",
+         "http": "http://www.surfmusic.de/m3u/simba-fm,13214.m3u",
+         "note": "News, Music"
+      },
+      {
+         "name": "Spirit FM 96.6",
+         "logo": "Spirit",
+         "link": "http://216.104.207.60:89/broadwave.m3u?src=1&rate=1",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Uganda Boston",
+         "logo": "Boston",
+         "link": "http://www.surfmusic.de/m3u/radio-uganda-boston,15012.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "VOA Afrique",
+         "logo": "VOA",
+         "link": "http://stream.radiojar.com/yuqn4nngq3quv",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }

@@ -43,13 +43,132 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "KSBS Island 92.1 FM",
+         "logo": "KSBS",
+         "link": "http://205.161.15.113:88/broadwave.mp3?src=3&kbps=128",
+         "http": "",
+         "note": "American Samoa"
+      },
+      {
+         "name": "Kiribati",
+         "logo": "Kiribati",
+         "link": "http://streamer5.rightclickitservices.com:9790/listen.pls?sid=1",
+         "http": "",
+         "note": "Kiribati"
+      },
+      {
+         "name": "Nauru 105.1 FM",
+         "logo": "Nauru",
+         "link": "http://radionauru.nr:8000/live.m3u",
+         "http": "",
+         "note": "Nauru"
+      },
+      {
+         "name": "Djiido",
+         "logo": "Djiido",
+         "link": "http://radiodjiido.nc:8000/listen.pls",
+         "http": "",
+         "note": "New Caledonia"
+      },
+      {
+         "name": "La 1ère",
+         "logo": "1ere",
+         "link": "http://radios.la1ere.fr/nouvellecaledonie",
+         "http": "",
+         "note": "New Caledonia"
+      },
+      {
+         "name": "NRJ",
+         "logo": "NRJ",
+         "link": "http://testradio01.ice.infomaniak.ch/testradio01-192.mp3.m3u",
+         "http": "",
+         "note": "New Caledonia"
+      },
+      {
+         "name": "Océane FM",
+         "logo": "Oceane",
+         "link": "http://radio.oceanefm.nc:8000/oceanenc.m3u",
+         "http": "",
+         "note": "New Caledonia"
+      },
+      {
+         "name": "Rythme Bleu",
+         "logo": "Rythme",
+         "link": "http://radio.lagoon.nc/rrb.m3u",
+         "http": "https://stream.rrb.nc/",
+         "note": "New Caledonia"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "Northern Mariana Islands"
+      },
+      {
+         "name": "KKMP Man'nge Elle' ",
+         "logo": "KKMP",
+         "link": "https://s2.yesstreaming.net/proxy/bluecont?mp=/live",
+         "http": "",
+         "note": "Northern Mariana Islands"
+      },
+      {
+         "name": "FM100",
+         "logo": "FM100",
+         "link": "http://124.240.197.88:8000/listen.pls",
+         "http": "",
+         "note": "Papua New Guinea"
+      },
+      {
+         "name": "Maria",
+         "logo": "Maria",
+         "link": "http://dreamsiteradiocp.com:8030/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-maria-no-te-hau,898.m3u",
+         "note": "Papua New Guinea"
+      },
+      {
+         "name": "Wantok Light",
+         "logo": "Wantok",
+         "link": "http://ice6.securenetsystems.net/PNGRADIO.m3u",
+         "http": "",
+         "note": "Papua New Guinea"
+      },
+      {
+         "name": "1",
+         "logo": "1",
+         "link": "http://www.surfmusic.de/m3u/radio-1,14111.m3u",
+         "http": "",
+         "note": "Tahiti"
+      },
+      {
+         "name": "Tiare FM",
+         "logo": "Tiare",
+         "link": "http://www.surfmusic.de/m3u/tiare-fm,899.m3u",
+         "http": "",
+         "note": "Tahiti"
+      },
+      {
+         "name": "Letio FM87.5",
+         "logo": "Letio",
+         "link": "http://stereo.wavestreamer.com:5856/listen.pls",
+         "http": "",
+         "note": "Tonga"
+      },
+      {
+         "name": "TBC",
+         "logo": "TBC",
+         "link": "http://tbcletio.serverroom.us:8142/listen.pls",
+         "http": "",
+         "note": "Tonga"
+      },
+      {
+         "name": "Capital FM107",
+         "logo": "Capital",
+         "link": "http://s1.wohooo.net:8021/listen.pls",
+         "http": "",
+         "note": "Vanuatu"
       }
    ]
 }

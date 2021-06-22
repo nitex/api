@@ -43,13 +43,398 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Rádio Slovensko",
+         "logo": "Slovensko",
+         "link": "http://live.slovakradio.sk:8000/Slovensko_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Slovensko_128.mp3.m3u",
+         "note": "News/Feature"
+      },
+      {
+         "name": "Rádio Devín",
+         "logo": "Devin",
+         "link": "http://live.slovakradio.sk:8000/Devin_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Devin_128.mp3.m3u",
+         "note": "Cultural"
+      },
+      {
+         "name": "Rádio_FM",
+         "logo": "FM",
+         "link": "http://live.slovakradio.sk:8000/FM_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/FM_128.mp3.m3u",
+         "note": "Pop/Rock/Alternative Music"
+      },
+      {
+         "name": "Rádio Regina Bratislava",
+         "logo": "Bratislava",
+         "link": "http://live.slovakradio.sk:8000/Regina_BA_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Regina_BA_128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Rádio Regina Košice",
+         "logo": "Regina",
+         "link": "http://live.slovakradio.sk:8000/Regina_KE_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Regina_KE_128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Rádio Regina Banská Bystrica",
+         "logo": "Bystrica",
+         "link": "http://live.slovakradio.sk:8000/Regina_BB_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Regina_BB_128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Patria",
+         "logo": "Patria",
+         "link": "http://live.slovakradio.sk:8000/Patria_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Patria_128.mp3.m3u",
+         "note": "Ethnic minorities"
+      },
+      {
+         "name": "RSI (Radio Slovakia International)",
+         "logo": "RSI",
+         "link": "http://live.slovakradio.sk:8000/RSI_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/RSI_128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Rádio Klasika",
+         "logo": "Klasika",
+         "link": "http://live.slovakradio.sk:8000/Klasika_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Klasika_128.mp3.m3u",
+         "note": "Classical Music"
+      },
+      {
+         "name": "Rádio Litera",
+         "logo": "Litera",
+         "link": "http://live.slovakradio.sk:8000/Litera_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Litera_128.mp3.m3u",
+         "note": "Literature"
+      },
+      {
+         "name": "Rádio Junior",
+         "logo": "Junior",
+         "link": "http://live.slovakradio.sk:8000/Junior_32.mp3.m3u",
+         "http": "http://live.slovakradio.sk:8000/Junior_128.mp3.m3u",
+         "note": "Youth"
+      },
+      {
+         "name": "Best FM",
+         "logo": "Best",
+         "link": "http://stream.bestfm.sk/128.mp3.m3u",
+         "http": "",
+         "note": "Oldies"
+      },
+      {
+         "name": "Dobré Rádio",
+         "logo": "Dobre",
+         "link": "http://stream.dobreradio.sk:8000/Dobre128mp3.m3u",
+         "http": "http://stream.dobreradio.sk:8000/Dobre192mp3.m3u",
+         "note": "Prešov (Local)"
+      },
+      {
+         "name": "Europa 2",
+         "logo": "Europa",
+         "link": "http://pool.cdn.lagardere.cz/fm-europa2sk-128.m3u",
+         "http": "",
+         "note": "Top 30"
+      },
+      {
+         "name": "Fun Radio",
+         "logo": "Fun",
+         "link": "http://stream.funradio.sk:8000/fun64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/fun128.mp3.m3u",
+         "note": "Top 30"
+      },
+      {
+         "name": "Fun Radio Top 20",
+         "logo": "20",
+         "link": "http://stream.funradio.sk:8000/top2064.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/top20128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Fun Radio Novinky",
+         "logo": "Novinky",
+         "link": "http://stream.funradio.sk:8000/new64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/new128.mp3.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Fun Radio Dance",
+         "logo": "Dance",
+         "link": "http://stream.funradio.sk:8000/dance64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/dance128.mp3.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Fun Radio 80.90.Roky",
+         "logo": "80",
+         "link": "http://stream.funradio.sk:8000/80-90-64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/80-90-128.mp3.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Fun Radio Rock",
+         "logo": "Rock",
+         "link": "http://stream.funradio.sk:8000/rock64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/rock128.mp3.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Fun Radio Love Songs",
+         "logo": "Love",
+         "link": "http://stream.funradio.sk:8000/slow64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/slow128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Fun Radio Pre Deti",
+         "logo": "Pre",
+         "link": "http://stream.funradio.sk:8000/children64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/children128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Fun Radio HipHop",
+         "logo": "HipHop",
+         "link": "http://stream.funradio.sk:8000/hiphop64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/hiphop128.mp3.m3u",
+         "note": "HipHop/RnB Music"
+      },
+      {
+         "name": "Fun Radio Czechoslovakia",
+         "logo": "Czechoslovakia",
+         "link": "http://stream.funradio.sk:8000/cs64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/cs128.mp3.m3u",
+         "note": "Pop Music"
+      },
+      {
+         "name": "Fun Radio Running",
+         "logo": "Running",
+         "link": "http://stream.funradio.sk:8000/running64.mp3.m3u",
+         "http": "http://stream.funradio.sk:8000/running128.mp3.m3u",
+         "note": "UpBeat"
+      },
+      {
+         "name": "Rádio 7",
+         "logo": "7",
+         "link": "http://37.9.170.32:8000/128.m3u",
+         "http": "",
+         "note": "Christian"
+      },
+      {
+         "name": "Rádio Aktual",
+         "logo": "Aktual",
+         "link": "http://stream.radioaktual.sk:8000/aktual64.mp3",
+         "http": "http://stream.radioaktual.sk:8000/aktual128.mp3",
+         "note": "News/Talk"
+      },
+      {
+         "name": "Rádio Aligátor",
+         "logo": "Aligator",
+         "link": "http://stream.aligator.sk:8000/aligator_128.mp3.m3u",
+         "http": "http://stream.aligator.sk:8000/aligator_192.mp3.m3u",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Rádio Anténa Rock",
+         "logo": "Antena",
+         "link": "http://stream.antenarock.sk/antena-lo.mp3.m3u",
+         "http": "http://stream.antenarock.sk/antena-hi.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Rádio Beta",
+         "logo": "Beta",
+         "link": "http://server1.internetoveradio.sk:2199/tunein/radiobeta.pls",
+         "http": "",
+         "note": "Bojnice (Local)"
+      },
+      {
+         "name": "Radio Expres",
+         "logo": "Expres",
+         "link": "http://stream.expres.sk:8000/128.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Rádio Frontinus",
+         "logo": "Frontinus",
+         "link": "http://www.frontinus.sk/frontinus128.m3u",
+         "http": "http://www.frontinus.sk/frontinus64.m3u",
+         "note": "Žilina (Local)"
+      },
+      {
+         "name": "Radio Jemné",
+         "logo": "Jemne",
+         "link": "http://stream.jemne.sk/jemne-lo.mp3.m3u",
+         "http": "http://stream.jemne.sk/jemne-hi.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Rádio Kiss",
+         "logo": "Kiss",
+         "link": "http://195.146.10.45:8000/kissmp3pro_64.mp3.m3u",
+         "http": "http://195.146.10.45:8000/kissmp3_128.mp3.m3u",
+         "note": "Košice (Local)"
+      },
+      {
+         "name": "Rádio Košice",
+         "logo": "Kosice",
+         "link": "http://stream.ecce.sk:8000/radiokosice-64.mp3.m3u",
+         "http": "http://stream.ecce.sk:8000/radiokosice-128.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio Liptov",
+         "logo": "Liptov",
+         "link": "http://www.radioliptov.sk/stream.m3u",
+         "http": "",
+         "note": "Liptovský Mikuláš (Local)"
+      },
+      {
+         "name": "Rádio Lumen",
+         "logo": "Lumen",
+         "link": "http://audio.lumen.sk:8000/live64.mp3.m3u",
+         "http": "http://audio.lumen.sk:8000/live128.mp3.m3u",
+         "note": "Banská Bystrica (Local)"
+      },
+      {
+         "name": "Radio Max",
+         "logo": "Max",
+         "link": "http://mp3stream4.abradio.cz:8000/max64.mp3.m3u",
+         "http": "http://mp3stream4.abradio.cz:8000/max128.mp3.m3u",
+         "note": "Nitra"
+      },
+      {
+         "name": "Radio Modra",
+         "logo": "Modra",
+         "link": "http://217.75.82.149:8000/listen.pls",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Radio One",
+         "logo": "One",
+         "link": "http://217.75.92.14:8000/nr160kb.m3u",
+         "http": "",
+         "note": "Nitra (Local)"
+      },
+      {
+         "name": "Radio One Retro",
+         "logo": "Retro",
+         "link": "http://217.75.92.14:8000/retro.m3u",
+         "http": "",
+         "note": "90s Music"
+      },
+      {
+         "name": "Radio One Rock",
+         "logo": "Roc",
+         "link": "http://217.75.92.14:8000/rrock.m3u",
+         "http": "",
+         "note": "Banská Bystrica (Local)"
+      },
+      {
+         "name": "Rádio Pieštany",
+         "logo": "Piestany",
+         "link": "http://live.radiopiestany.sk:8000/live.mp3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Rádio Plus 105,9 FM",
+         "logo": "Plus",
+         "link": "http://stream.sepia.sk:8000/plus128.mp3.m3u",
+         "http": "",
+         "note": "Nitra (Local)"
+      },
+      {
+         "name": "Rádio Rebeca",
+         "logo": "Rebeca",
+         "link": "http://server1.internetoveradio.sk:8822/listen.pls",
+         "http": "",
+         "note": "Pop/Rock Music (Martin, Local)"
+      },
+      {
+         "name": "Rádio Sever",
+         "logo": "Sever",
+         "link": "http://stream.sepia.sk:8000/sever128.mp3.m3u",
+         "http": "",
+         "note": "Pop/Rock/Dance Music (Žilina, Local)"
+      },
+      {
+         "name": "Radio SiTy",
+         "logo": "SiTy",
+         "link": "http://www.radiosity.sk/sity32.m3u",
+         "http": "http://www.radiosity.sk/sity96.m3u",
+         "note": ""
+      },
+      {
+         "name": "Rádio Šport",
+         "logo": "Sport",
+         "link": "http://stream.radiosport.sk:8000/Sport192.mp3.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Radio Viva Metropol",
+         "logo": "Viva",
+         "link": "http://stream.sepia.sk:8000/viva128.mp3.m3u",
+         "http": "http://stream.sepia.sk:8000/viva24.aac.m3u",
+         "note": ""
+      },
+      {
+         "name": "Rádio Vlna",
+         "logo": "Vlna",
+         "link": "http://stream.radiovlna.sk/vlna-lo.mp3.m3u",
+         "http": "http://stream.radiovlna.sk/vlna-hi.mp3.m3u",
+         "note": ""
+      },
+      {
+         "name": "Radio WOW",
+         "logo": "WOW",
+         "link": "http://stream.radiowow.sk:8200/listen.pls",
+         "http": "",
+         "note": "Bánovce (Local)"
+      },
+      {
+         "name": "Radio Yes",
+         "logo": "Yes",
+         "link": "http://www.radioyes.sk:8000/listen.pls",
+         "http": "",
+         "note": "Topolcany (Local)"
+      },
+      {
+         "name": "Rocková republika",
+         "logo": "republika",
+         "link": "http://217.67.31.66:8000/republika128.mp3.m3u",
+         "http": "",
+         "note": "Rock Music"
+      },
+      {
+         "name": "Sky Rádio",
+         "logo": "Sky",
+         "link": "http://stream.skyradio.sk:8000/sky128.m3u",
+         "http": "",
+         "note": "Prešov (Local)"
+      },
+      {
+         "name": "Trnavské Rádio",
+         "logo": "Trnavske",
+         "link": "http://stream.trnavskeradio.sk:8000/trnavske.m3u",
+         "http": "",
+         "note": "Trnava (Local)"
+      },
+      {
+         "name": "Záhorácke Rádio",
+         "logo": "Zahoracke",
+         "link": "http://play.zahorackeradio.sk/live/high.m3u",
+         "http": "",
+         "note": "Skalica (Local)"
       }
    ]
 }

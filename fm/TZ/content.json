@@ -43,13 +43,118 @@
       "show4":"",
       "chngAd":""
    },
-   "Content":[
+  "Content": [
       {
-         "name":"Arazokia FM 90.3",
-         "logo":"Arazokia",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":"News, Talk"
+         "name": "Capital 101.3 FM",
+         "logo": "Capital",
+         "link": "http://capitalradio.radioca.st/listen.pls",
+         "http": "https://capitalradio.radioca.st/stream",
+         "note": ""
+      },
+      {
+         "name": "Choice 102.5 FM",
+         "logo": "Choice",
+         "link": "http://51.255.235.165:5362/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Clouds FM 88.5",
+         "logo": "Clouds",
+         "link": "http://eu6.fastcast4u.com:5306/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "East Africa 88.1 FM",
+         "logo": "East",
+         "link": "http://eatv.radioca.st/listen.pls?sid=1",
+         "http": "https://eatv.radioca.st/stream",
+         "note": ""
+      },
+      {
+         "name": "eFM",
+         "logo": "eFM",
+         "link": "http://107.182.231.73:7127/efm.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Free Africa",
+         "logo": "Free",
+         "link": "https://s3.radio.co/s8df0149e0/listen",
+         "http": "",
+         "note": "Kisarawe (Local)"
+      },
+      {
+         "name": "Maria",
+         "logo": "Maria",
+         "link": "http://dreamsiteradiocp.com:8048/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Morning Star",
+         "logo": "Morning",
+         "link": "http://stream.zenolive.com/4aq1th23pvduv",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "One FM 89.7",
+         "logo": "One",
+         "link": "http://radioonetanzania.radioca.st/listen.pls",
+         "http": "https://radioonetanzania.radioca.st/stream",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Street One",
+         "logo": "Street",
+         "link": "http://www.surfmusic.de/m3u/street-one-radio,20397.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "TBC FM",
+         "logo": "TBC",
+         "link": "http://s12.myradiostream.com:4574/;listen.mp3",
+         "http": "http://s12.myradiostream.com:4574/listen.pls",
+         "note": "News, Music"
+      },
+      {
+         "name": "TBC International",
+         "logo": "International",
+         "link": "http://s18.myradiostream.com:10246/;listen.mp3",
+         "http": "http://s18.myradiostream.com:10246/listen.pls",
+         "note": "News, Music"
+      },
+      {
+         "name": "TBC Taifa",
+         "logo": "Taifa",
+         "link": "http://usa9-vn.mixstream.net:8080/;listen.mp3",
+         "http": "http://usa9-vn.mixstream.net:8080/listen.pls",
+         "note": "News, Music"
+      },
+      {
+         "name": "VOA Africa",
+         "logo": "VOA",
+         "link": "https://voa17.akacast.akamaistream.net/7/685/437799/v1/ibb.akacast.akamaistream.net/voa17",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RFI Afrique",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
+         "http": "http://icepe1.infomaniak.ch/rfianglais-96k.mp3.m3u",
+         "note": "News, Talk"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
       }
    ]
 }
