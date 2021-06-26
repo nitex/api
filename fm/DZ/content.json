@@ -5,22 +5,22 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"http://www.amazon.com/gp/mas/dl/android?asin=B096G7QFPG",
-      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=B096G7QFPG",
+      "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
       "bonus":"",
-      "showMode": true,
+      "showMode": true,	
       "visualMode":1,
       "minuteCount":4,
-      "id":"app297a4055fe2c44d0ac",
-      "mainAd":"vz3122c398dcbe4b67b1",
-      "rtrnAd":"vzc8ba0e8febed4cc3a5",
-      "mainb":"vz92a7ba62aa57401ca6",
-      "show1":"vz655cf606c87042b999",
-      "show2":"",
-      "show3":"",
-      "show4":"vze968f4a753e4407fbd",
-      "chngAd":""
+      "id":"0000000000",
+      "chngAd":"111111",
+      "mainAd":"111111",
+      "rtrnAd":"111111",
+      "mainb":"2222222",
+      "show1":"2222222",
+      "show2":"2222222",
+      "show3":"2222222",
+      "show4":"2222222"
    },
    "huawFM":{
       "changeCountry": false,
@@ -28,527 +28,72 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104382911",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104382911",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/",
       "other":"",
       "bonus":"",
-      "showMode": true,
+      "showMode": true,	
       "visualMode":1,
       "minuteCount":4,
-      "id":"app297a4055fe2c44d0ac",
-      "mainAd":"vz4e2b225cbaaa4822a5",
-      "rtrnAd":"vz728e0506430c4768ad",
-      "mainb":"vzea813ee93b2741aabd",
-      "show1":"vzf5b8e182d5d2410b8f",
-      "show2":"",
-      "show3":"",
-      "show4":"vz6013e31160204e4cb1",
-      "chngAd":""
+      "id":"0000000000",
+      "chngAd":"111111",
+      "mainAd":"111111",
+      "rtrnAd":"111111",
+      "mainb":"2222222",
+      "show1":"2222222",
+      "show2":"2222222",
+      "show3":"2222222",
+      "show4":"2222222"
    },
-   "Content": [
+   "Content":[
       {
-         "name": "راديو مرجاجو",
-         "logo": "Marjago",
-         "link": "http://listen.radionomy.com/murdjajo",
-         "http": "",
-         "note": ""
+         "name":"راديو مرجاجو",
+         "logo":"Marjago",
+         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
+         "http":"",
+         "note":""
       },
       {
-         "name": "Adrar 1089 AM (إذاعة أدرار)",
-         "logo": "1089",
-         "link": "http://www.surfmusic.de/m3u/radio-adrar-1089-am,16453.m3u",
-         "http": "https://adrar.ice.infomaniak.ch/01.aac",
-         "note": "Local"
+         "name":"Adrar 1089 AM (إذاعة أدرار)",
+         "logo":"1089",
+         "link":"https://s3.radio.co/s3a13a855f/listen",
+         "http":"",
+         "note":"Local"
       },
       {
-         "name": "Africa Radio",
-         "logo": "Afric",
-         "link": "http://statslive.infomaniak.ch/playlist/african1paris/african1paris-128.mp3/playlist.m3u",
-         "http": "",
-         "note": "News, Talk"
+         "name":"Africa Radio",
+         "logo":"Afric",
+         "link":"http://176.31.248.14:12238/listen.pls",
+         "http":"",
+         "note":"News, Talk"
       },
       {
-         "name": "Ain Defla (عين الدفلى)",
-         "logo": "Ain",
-         "link": "https://aindefla.ice.infomaniak.ch/44.aac",
-         "http": "",
-         "note": "Local"
+         "name":"Ain Defla (عين الدفلى)",
+         "logo":"Ain",
+         "link":"http://ca10.rcast.net:8026/listen.pls",
+         "http":"",
+         "note":"Local"
       },
       {
-         "name": "Ain Timouchent 95.9 FM (عين تموشنت)",
-         "logo": "Timouchent",
-         "link": "http://www.surfmusic.de/m3u/radio-ain-temouchent-95-9-fm,16454.m3u",
-         "http": "https://aintemouchent.ice.infomaniak.ch/46.aac",
-         "note": "Local"
+         "name":"Ain Timouchent 95.9 FM (عين تموشنت)",
+         "logo":"Timouchent",
+         "link":"http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
+         "http":"",
+         "note":"Local"
       },
       {
-         "name": "Alger Bahdja (الجزائر العاصمة)",
-         "logo": "Alger",
-         "link": "https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac",
-         "http": "http://elbahdja.ice.infomaniak.ch/elbahdja-32.aac.m3u",
-         "note": "Local"
+         "name":"Alger Bahdja (الجزائر العاصمة)",
+         "logo":"Alger",
+         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
+         "http":"",
+         "note":"Local"
       },
       {
-         "name": "Algerie Internationale (نشرة الواحدة )",
-         "logo": "Internationale",
-         "link": "https://rai.ice.infomaniak.ch/rai-32.aac",
-         "http": "http://www.surfmusic.de/m3u/radio-algerie-internationale,12001.m3u",
-         "note": "News (El Bahdja, Local)"
-      },
-      {
-         "name": "Annaba (عنابة)",
-         "logo": "Annaba",
-         "link": "http://www.surfmusic.de/m3u/radio-annaba,16455.m3u",
-         "http": "https://annaba.ice.infomaniak.ch/23.aac",
-         "note": ""
-      },
-      {
-         "name": "Batna (باتنة)",
-         "logo": "Batna",
-         "link": "https://batna.ice.infomaniak.ch/05.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "BBC Arabic",
-         "logo": "BBC",
-         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u",
-         "http": "",
-         "note": "News, Talk"
-      },
-      {
-         "name": "Bechar (بشار)",
-         "logo": "Bechar",
-         "link": "http://www.surfmusic.de/m3u/radio-bechar,16456.m3u",
-         "http": "https://bechar.ice.infomaniak.ch/08.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Bejaia (بجاية)",
-         "logo": "Bejaia",
-         "link": "https://bejaia.ice.infomaniak.ch/06.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Beur FM",
-         "logo": "Beur",
-         "link": "http://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
-         "http": "",
-         "note": "Music"
-      },
-      {
-         "name": "Biskra (بسكرة)",
-         "logo": "Biskra",
-         "link": "http://www.surfmusic.de/m3u/radio-biskra,16457.m3u",
-         "http": "https://biskra.ice.infomaniak.ch/07.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Blida (البليدة)",
-         "logo": "Blida",
-         "link": "http://blida.ice.infomaniak.ch/09.aac.m3u",
-         "http": "https://blida.ice.infomaniak.ch/09.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Bordj Bou Arreridj (برج بوعريريج)",
-         "logo": "Bordj",
-         "link": "http://www.surfmusic.de/m3u/radio-bordj-bou-arreridj,16458.m3u",
-         "http": "https://bba.ice.infomaniak.ch/34.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Bouira (البويرة)",
-         "logo": "Bouira",
-         "link": "http://www.surfmusic.de/m3u/radio-bouira,16459.m3u",
-         "http": "https://bouira.ice.infomaniak.ch/10.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Boumerdes (بومرداس)",
-         "logo": "Boumerdes",
-         "link": "http://boumerdes.ice.infomaniak.ch/35.aac.m3u",
-         "http": "https://boumerdes.ice.infomaniak.ch/35.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Chaine 1 (القناة الأولى)",
-         "logo": "1",
-         "link": "https://ch1.ice.infomaniak.ch/ch1-32.aac",
-         "http": "http://www.surfmusic.de/m3u/radio-chaine-1,3466.m3u",
-         "note": "News, Talk, Sport"
-      },
-      {
-         "name": "Chaine 2 (القناة الثانية)",
-         "logo": "2",
-         "link": "https://ch2.ice.infomaniak.ch/ch2-32.aac",
-         "http": "http://www.surfmusic.de/m3u/radio-chaine-2,3467.m3u",
-         "note": "News, Talk, Sport"
-      },
-      {
-         "name": "Chaine 3 (القناة الثالثة)",
-         "logo": "3",
-         "link": "https://ch3.ice.infomaniak.ch/ch3-32.aac",
-         "http": "http://www.surfmusic.de/m3u/radio-chaine-3,3468.m3u",
-         "note": "News, Talk, Sport"
-      },
-      {
-         "name": "Chlef (الشلف)",
-         "logo": "Chlef",
-         "link": "http://www.surfmusic.de/m3u/radio-chlef,16460.m3u",
-         "http": "https://chlef.ice.infomaniak.ch/02.aac",
-         "note": ""
-      },
-      {
-         "name": "Constantine (قسنطينة)",
-         "logo": "Constantine",
-         "link": "https://constantine.ice.infomaniak.ch/25.aac",
-         "http": "http://listen.radionomy.com/radiomalouf",
-         "note": "Music"
-      },
-      {
-         "name": "Djelfa (الجلفة)",
-         "logo": "Djelfa",
-         "link": "https://djelfa.ice.infomaniak.ch/17.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Dzair",
-         "logo": "Dzair",
-         "link": "http://www.surfmusic.de/m3u/radio-dzair,12002.m3u",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "Dzair Aures",
-         "logo": "Aures",
-         "link": "http://www.surfmusic.de/m3u/radio-dzair-aures,12003.m3u",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "Dzair Chaabia el Andaloussia",
-         "logo": "Chaabia",
-         "link": "http://www.surfmusic.de/m3u/radio-dzair-chaabia-el-andaloussia,12004.m3u",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "Dzair Izuran",
-         "logo": "Izuran",
-         "link": "http://www.surfmusic.de/m3u/radio-dzair-izuran,12005.m3u",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "Dzair Orientale",
-         "logo": "Orientale",
-         "link": "http://www.surfmusic.de/m3u/radio-dzair-orientale,12006.m3u",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "Dzair Raina",
-         "logo": "Raina",
-         "link": "http://www.surfmusic.de/m3u/radio-dzair-raina,12008.m3u",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "Coran",
-         "logo": "Coran",
-         "link": "http://coran.ice.infomaniak.ch/coran-64.aac.m3u",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "El Bahdja (إذاعة البهجة)",
-         "logo": "Bahdja",
-         "link": "http://www.surfmusic.de/m3u/radio-el-bahdja,3469.m3u",
-         "http": "https://elbahdja.ice.infomaniak.ch/elbahdja-32.aac",
-         "note": "News"
-      },
-      {
-         "name": "El Bayadh",
-         "logo": "Bayadh",
-         "link": "http://www.surfmusic.de/m3u/radio-el-bayadh,16462.m3u",
-         "http": "https://bayadh.ice.infomaniak.ch/32.aac",
-         "note": "Local"
-      },
-      {
-         "name": "El Oued (الوادي)",
-         "logo": "Oued",
-         "link": "https://eloued.ice.infomaniak.ch/39.aac",
-         "http": "http://eloued.ice.infomaniak.ch/39.aac",
-         "note": "Local"
-      },
-      {
-         "name": "El Tarf (الطارف)",
-         "logo": "Tarf",
-         "link": "http://www.surfmusic.de/m3u/radio-el-taref,16463.m3u",
-         "http": "https://eltarf.ice.infomaniak.ch/36.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Ghardaia (غرداية)",
-         "logo": "Ghardaia",
-         "link": "http://www.surfmusic.de/m3u/radio-ghardaia,16465.m3u",
-         "http": "https://ghardaia.ice.infomaniak.ch/47.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Guelma (قالمة)",
-         "logo": "Guelma",
-         "link": "https://guelma.ice.infomaniak.ch/24.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Illizi (اليزي)",
-         "logo": "Illizi",
-         "link": "https://illizi.ice.infomaniak.ch/33.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Jil FM (جيل إف إم)",
-         "logo": "Jil",
-         "link": "http://jil-fm.ice.infomaniak.ch/jilfm.aac.m3u",
-         "http": "http://www.surfmusic.de/m3u/jil-fm,17631.m3u",
-         "note": ""
-      },
-      {
-         "name": "Jijel (جيجل)",
-         "logo": "Jijel",
-         "link": "https://jijel.ice.infomaniak.ch/18.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Kaina",
-         "logo": "Kaina",
-         "link": "http://listen.radionomy.com/kaina-radio",
-         "http": "",
-         "note": ""
-      },
-      {
-         "name": "Khenchla (خنشلة)",
-         "logo": "Khenchla",
-         "link": "http://www.surfmusic.de/m3u/radio-ghardaia,16465.m3u",
-         "http": "https://khenchla.ice.infomaniak.ch/40.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Laghouat (الأغواط)",
-         "logo": "Laghouat",
-         "link": "https://laghouat.ice.infomaniak.ch/03.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Mascara (معسكر)",
-         "logo": "Mascara",
-         "link": "http://www.surfmusic.de/m3u/radio-mascara,16470.m3u",
-         "http": "https://mascara.ice.infomaniak.ch/29.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Medea (المدية)",
-         "logo": "Medea",
-         "link": "http://www.surfmusic.de/m3u/radio-medea,16471.m3u",
-         "http": "https://medea.ice.infomaniak.ch/26.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Mila (ميلة)",
-         "logo": "Mila",
-         "link": "http://www.surfmusic.de/m3u/radio-mila,16472.m3u",
-         "http": "https://mila.ice.infomaniak.ch/43.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Mostaganem (مستغانم)",
-         "logo": "Mostaganem",
-         "link": "https://mostaganem.ice.infomaniak.ch/27.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Msila (المسيلة)",
-         "logo": "Msila",
-         "link": "http://www.surfmusic.de/m3u/radio-msila,16473.m3u",
-         "http": "https://msila.ice.infomaniak.ch/28.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Naama FM\t (النعامة)",
-         "logo": "Naama",
-         "link": "http://www.surfmusic.de/m3u/radio-naama-fm,16474.m3u",
-         "http": "https://naama.ice.infomaniak.ch/45.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Oran (وهران)",
-         "logo": "Oran",
-         "link": "http://www.surfmusic.de/m3u/radio-oran,16475.m3u",
-         "http": "https://oran.ice.infomaniak.ch/31.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Ouargla (ورقلة)",
-         "logo": "Ouargla",
-         "link": "https://ouargla.ice.infomaniak.ch/30.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Oum El Bouaghi (أم البواقي)",
-         "logo": "Oum",
-         "link": "http://www.surfmusic.de/m3u/radio-oum-el-bouaghi,16476.m3u",
-         "http": "https://oeb.ice.infomaniak.ch/04.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Relizane (غليزان)",
-         "logo": "Relizane",
-         "link": "http://www.surfmusic.de/m3u/radio-relizane,16477.m3u",
-         "http": "https://relizane.ice.infomaniak.ch/48.aac",
-         "note": "Local"
-      },
-      {
-         "name": "RFI Afrique",
-         "logo": "RFI",
-         "link": "http://icepe1.infomaniak.ch/rfiafrique-96k.mp3.m3u",
-         "http": "",
-         "note": "News, Talk"
-      },
-      {
-         "name": "Saida (سعيدة)",
-         "logo": "Saida",
-         "link": "http://www.surfmusic.de/m3u/radio-saida,16478.m3u",
-         "http": "https://saida.ice.infomaniak.ch/20.aac",
-         "note": "Local"
-      },
-      {
-         "name": "راديو سوا المغرب",
-         "logo": "Sawa",
-         "link": "http://mbn-channel-04.akacast.akamaistream.net/7/26/233453/v1/ibb.akacast.akamaistream.net/mbn_channel_04",
-         "http": "http://mbn-channel-06.akacast.akamaistream.net/7/28/233455/v1/ibb.akacast.akamaistream.net/mbn_channel_06;stream.mp3",
-         "note": "News, Talk"
-      },
-      {
-         "name": "Setif 90.4 FM إذاعة سطيف الجهوية",
-         "logo": "Setif",
-         "link": "http://listen.radionomy.com/radio-setif-fm",
-         "http": "http://www.surfmusic.de/m3u/radio-setif-fm,13234.m3u",
-         "note": "Local"
-      },
-      {
-         "name": "Sidi Bel Abbes (سيدي بلعباس)",
-         "logo": "Sidi",
-         "link": "https://sidibelabbes.ice.infomaniak.ch/22.aac",
-         "http": "http://sidibelabbes.ice.infomaniak.ch/22.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Skikda (سكيكدة)",
-         "logo": "Skikda",
-         "link": "http://www.surfmusic.de/m3u/radio-skikda,16480.m3u",
-         "http": "https://skikda.ice.infomaniak.ch/21.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Sky News Arabia",
-         "logo": "Sky",
-         "link": "http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u",
-         "http": "",
-         "note": "News, Talk"
-      },
-      {
-         "name": "Souk Ahras (سوق أهراس)",
-         "logo": "Souk",
-         "link": "https://soukahras.ice.infomaniak.ch/41.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Soummam",
-         "logo": "Soummam",
-         "link": "http://www.surfmusic.de/m3u/radio-soummam,13298.m3u",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Tamenrasset (تمنراست)",
-         "logo": "Tamenrasset",
-         "link": "https://tamanrasset.ice.infomaniak.ch/11.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "Tebessa (تبسة)",
-         "logo": "Tebessa",
-         "link": "http://www.surfmusic.de/m3u/radio-tebessa,16482.m3u",
-         "http": "https://radiotebessa.ice.infomaniak.ch/12.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Tiaret 92.5 FM (تيارت)",
-         "logo": "Tiaret",
-         "link": "http://www.surfmusic.de/m3u/radio-tiaret-92-5-fm,20127.m3u",
-         "http": "https://tiaret.ice.infomaniak.ch/14.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Tindouf (تندوف)",
-         "logo": "Tindouf",
-         "link": "http://www.surfmusic.de/m3u/radio-tindouf,16483.m3u",
-         "http": "https://tindouf.ice.infomaniak.ch/37.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Tipaza (تيبازة)",
-         "logo": "Tipaza",
-         "link": "http://tipaza.ice.infomaniak.ch/42.aac.m3u",
-         "http": "https://tipaza.ice.infomaniak.ch/42.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Tissemsilt (تسمسيلت)",
-         "logo": "Tissemsilt",
-         "link": "http://www.surfmusic.de/m3u/radio-tissemsilt,16484.m3u",
-         "http": "https://tissemsilt.ice.infomaniak.ch/38.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Tizi Ouzou (تيزي وزو)",
-         "logo": "Tizi",
-         "link": "http://www.surfmusic.de/m3u/radio-tizi-ouzou,16485.m3u",
-         "http": "https://tiziouzou.ice.infomaniak.ch/15.aac",
-         "note": "Local"
-      },
-      {
-         "name": "Tlemcen (تلمسان)",
-         "logo": "Tlemcen",
-         "link": "https://tlemcen.ice.infomaniak.ch/13.aac",
-         "http": "",
-         "note": "Local"
-      },
-      {
-         "name": "VOA Afrique",
-         "logo": "VOA",
-         "link": "http://stream.radiojar.com/yuqn4nngq3quv",
-         "http": "",
-         "note": "News, Talk"
-      },
-      {
-         "name": "Wah Rai",
-         "logo": "Rai",
-         "link": "http://radio-dzair.net:8000/;",
-         "http": "",
-         "note": ""
+         "name":"Algerie Internationale (نشرة الواحدة )",
+         "logo":"Internationale",
+         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "http":"",
+         "note":"News (El Bahdja, Local)"
       }
    ]
 }

@@ -1,152 +1,99 @@
 {
    "amznFM":{
-      "changeCountry": true,
-      "mainVisible": true,
-      "ownVisible": true,
+      "changeCountry": false,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"http://www.amazon.com/gp/mas/dl/android?asin=B0966TRBSJ",
-      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=B0966TRBSJ",
-      "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
-      "bonus":"",
-      "showMode": true,
-      "visualMode":1,
+      "share":"https://www.amazon.com/gp/product/",
+      "rateL":"https://www.amazon.com/gp/product/",
+      "other":"https://www.amazon.com/gp/product/",
+      "bonus":"https://www.amazon.com/gp/product/",
+      "showMode": true,	
+      "visualMode":1,	
       "minuteCount":4,
-      "adc_id":"appa1576f6f57d1420dac",
-      "adc_mainAd":"vzf8a685e7e80d44218e",
-      "adc_rtrnAd":"vz6ff51c72f8584137a4",
-      "adc_mainb":"vz10f2b2fccad74b3ab9",
-      "adc_show1":"vze6faf54f246b4572a6",
-      "adc_show2":"",
-      "adc_show3":"",
-      "adc_show4":"vz17d805713d58402c90",
-      "adc_chngAd":"",
-      "adType": 1,
-      "uni_id": "4171505",
-      "uni_mainAd": "uni_mainAd",
-      "uni_rtrnAd": "uni_rtrnAd",
-      "uni_mainb": "uni_mainb",
-      "uni_show1": "uni_show1",
-      "uni_show2": "",
-      "uni_show3": "",
-      "uni_show4": "uni_show1",
-      "uni_chngAd": "uni_chngAd"
-  },
+      "id":"0000000000",
+      "chngAd":"111111",
+      "mainAd":"111111",
+      "rtrnAd":"111111",
+      "mainb":"2222222",
+      "show1":"2222222",
+      "show2":"2222222",
+      "show3":"2222222",
+      "show4":"2222222"
+   },
    "huawFM":{
-      "changeCountry": true,
-      "mainVisible": true,
-      "ownVisible": true,
+      "changeCountry": false,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104371847",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104371847",
-      "other":"",
-      "bonus":"https://appgallery.cloud.huawei.com/ag/n/app/C104391805",
-      "showMode": true,
-      "visualMode":1,
+      "share":"https://appgallery.cloud.huawei.com/",
+      "rateL":"https://appgallery.cloud.huawei.com/",
+      "other":"https://appgallery.cloud.huawei.com/",
+      "bonus":"https://appgallery.cloud.huawei.com/",
+      "showMode": true,	
+      "visualMode":1,	
       "minuteCount":4,
-      "id":"appa1576f6f57d1420dac",
-      "mainAd":"vz80213779609348b4bb",
-      "rtrnAd":"vz1bffc527d25c476589",
-      "mainb":"vze20a7f9680af404b89",
-      "show1":"vzcc71b3526e79430d97",
-      "show2":"",
-      "show3":"",
-      "show4":"vz16d1cce2bf834b1e8a",
-      "chngAd":"",
-      "adType": 1
-  },
-   "Content": [
+      "id":"0000000000",
+      "chngAd":"111111",
+      "mainAd":"111111",
+      "rtrnAd":"111111",
+      "mainb":"2222222",
+      "show1":"2222222",
+      "show2":"2222222",
+      "show3":"2222222",
+      "show4":"2222222"
+   },
+   "Content":[
       {
-         "name": "Arazokia FM 90.3",
-         "logo": "Arazokia",
-         "link": "http://158.69.225.238:4723/listen.pls",
-         "http": "http://www.surfmusic.de/m3u/arazokia-90-3-fm,17586.m3u",
-         "note": "News, Talk, Music"
+         "name":"Arazokia FM 90.3",
+         "logo":"Arazokia",
+         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
+         "http":"",
+         "note":"News, Talk"
       },
       {
-         "name": "Ariana FM 93.5 - کابل",
-         "logo": "Ariana",
-         "link": "https://streams.radio.co/sa3345aaa8/listen",
-         "http": "",
-         "note": ""
+         "name":"Ariana FM 93.5 - کابل",
+         "logo":"Ariana",
+         "link":"https://s3.radio.co/s3a13a855f/listen",
+         "http":"",
+         "note":""
       },
       {
-         "name": "Arman FM 98.1",
-         "logo": "Arman",
-         "link": "http://158.69.225.238:3953/listen.pls",
-         "http": "http://www.surfmusic.de/m3u/98-1-arman-fm,10311.m3u",
-         "note": "Local"
+         "name":"Arman FM 98.1",
+         "logo":"Arman",
+         "link":"http://176.31.248.14:12238/listen.pls",
+         "http":"",
+         "note":"Local"
       },
       {
-         "name": "ATN News FM 100.2 - کابل",
-         "logo": "ATN",
-         "link": "https://streams.radio.co/sb55071395/listen",
-         "http": "",
-         "note": "News, Talk"
+         "name":"ATN News FM 100.2 - کابل",
+         "logo":"ATN",
+         "link":"http://ca10.rcast.net:8026/listen.pls",
+         "http":"",
+         "note":"News, Talk"
       },
       {
-         "name": "Azadi",
-         "logo": "Azadi",
-         "link": "http://www.surfmusic.de/m3u/radio-azadi,19718.m3u",
-         "http": "https://audio.rferl.org/AF/2020/05/17/20200517-140000-AF061-program.mp3?download=1",
-         "note": "News"
+         "name":"Azadi",
+         "logo":"Azadi",
+         "link":"http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
+         "http":"",
+         "note":"News"
       },
       {
-         "name": "Bakhtar",
-         "logo": "Bakhtar",
-         "link": "http://www.surfmusic.de/m3u/bakhtar-radio,13699.m3u",
-         "http": "",
-         "note": ""
+         "name":"Bakhtar",
+         "logo":"Bakhtar",
+         "link":"https://s3.radio.co/s3a13a855f/listen",
+         "http":"",
+         "note":""
       },
       {
-         "name": "BBC Pashto",
-         "logo": "BBC",
-         "link": "http://www.surfmusic.de/m3u/bbc-pashto,20125.m3u",
-         "http": "",
-         "note": "News, Talk"
-      },
-      {
-         "name": "BFBS Afghanistan",
-         "logo": "BFBS",
-         "link": "http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http": "http://www.surfmusic.de/m3u/bfbs-afghanistan,15832.m3u",
-         "note": "News, Talk"
-      },
-      {
-         "name": "Sky News Arabia",
-         "logo": "Sky",
-         "link": "http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u",
-         "http": "",
-         "note": "News, Talk"
-      },
-      {
-         "name": "رادیو جوانان - کابل 97.5 اف ام",
-         "logo": "Jawanan",
-         "link": "https://s3.radio.co/s3a13a855f/listen",
-         "http": "",
-         "note": "Music"
-      },
-      {
-         "name": "راديو سلام وطندار - افغانستان",
-         "logo": "Salam",
-         "link": "http://176.31.248.14:12238/listen.pls",
-         "http": "",
-         "note": "Music"
-      },
-      {
-         "name": "سپوږمۍ راډیو - کابل",
-         "logo": "Spogmai",
-         "link": "http://ca10.rcast.net:8026/listen.pls",
-         "http": "https://ca10ssl.rcast.net/stream/61805.mp3",
-         "note": "Talk"
-      },
-      {
-         "name": "راديو سوا الخليج",
-         "logo": "Sawa",
-         "link": "http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
-         "http": "",
-         "note": "News, Talk"
+         "name":"رادیو جوانان - کابل 97.5 اف ام",
+         "logo":"Jawanan",
+         "link":"https://s3.radio.co/s3a13a855f/listen",
+         "http":"",
+         "note":"Music"
       }
    ]
 }
