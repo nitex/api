@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,108 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "Oʻzbekiston",
-      "logo": "Ozbekiston",
-      "link": "https://www.mtrk.uz/uz/tv/ozbekiston/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Yoshlar",
-      "logo": "Yoshlar1",
-      "link": "https://www.mtrk.uz/uz/tv/yoshlar/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Madaniyat va Ma'rifat",
-      "logo": "Madaniyat",
-      "link": "https://www.mtrk.uz/uz/tv/madaniyat/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Navo",
-      "logo": "Navo",
-      "link": "https://www.mtrk.uz/uz/tv/navo/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Toshkent",
-      "logo": "Toshkent1",
-      "link": "https://www.mtrk.uz/uz/tv/toshkent/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Sport",
-      "logo": "Sport",
-      "link": "https://www.mtrk.uz/uz/tv/sport/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Bolajon",
-      "logo": "Bolajon",
-      "link": "https://www.mtrk.uz/uz/tv/bolajon/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Dunyo bo‘ylab",
-      "logo": "Dunyo",
-      "link": "https://www.mtrk.uz/uz/tv/dunyo/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "OʻZBEKISTON 24",
-      "logo": "UZHD",
-      "link": "https://www.mtrk.uz/uz/tv/uz24/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Mahalla",
-      "logo": "Mahalla",
-      "link": "https://www.mtrk.uz/uz/tv/mahalla/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Kinoteatr",
-      "logo": "Kinoteatr",
-      "link": "https://www.mtrk.uz/uz/tv/kinoteatr/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Oilaviy",
-      "logo": "Oilaviy",
-      "link": "https://www.mtrk.uz/uz/tv/oilaviy/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Yoshlar FM",
-      "logo": "Yoshlar2",
-      "link": "https://www.mtrk.uz/uz/radio/yoshlar/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Oʻzbekiston FM",
-      "logo": "Ozbekiston2",
-      "link": "https://www.mtrk.uz/uz/radio/ozbekiston/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Toshkent FM",
-      "logo": "Toshkent2",
-      "link": "https://www.mtrk.uz/uz/radio/toshkent/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "name": "Mahalla FM",
-      "logo": "Mahalla2",
-      "link": "https://www.mtrk.uz/uz/radio/mahalla/",
-      "http": "https://www.mtrk.uz"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

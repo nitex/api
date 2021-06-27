@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,66 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "КТРК",
-      "logo": "KTRK",
-      "link": "http://www.ktrk.kg/streams",
-      "http": "http://www.ktrk.kg"
-   },
-   {
-      "name": "Ала Тоо 24",
-      "logo": "24",
-      "link": "http://www.ktrk.kg/streams",
-      "http": "http://www.ktrk.kg"
-   },
-   {
-      "name": "Музыка",
-      "logo": "Musika",
-      "link": "http://www.ktrk.kg/music",
-      "http": "http://www.ktrk.kg/streams"
-   },
-   {
-      "name": "КТРК Спорт",
-      "logo": "Sport",
-      "link": "http://www.ktrk.kg/sport",
-      "http": "http://www.ktrk.kg/streams"
-   },
-   {
-      "name": "Аян",
-      "logo": "Ayan",
-      "link": "http://ayan.kg/%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/",
-      "http": "http://ayan.kg"
-   },
-   {
-      "name": "ОшТВ",
-      "logo": "Osh",
-      "link": "http://oshtv.kg/",
-      "http": "http://oshtv.kg"
-   },
-   {
-      "name": "Хамелеон",
-      "logo": "Hameleon",
-      "link": "http://www.htv.kg/stream/",
-      "http": "http://www.htv.kg"
-   },
-   {
-      "name": "MAHAC",
-      "logo": "MAHAC",
-      "link": "http://mediamanas.kg/",
-      "http": "http://mediamanas.kg/"
-   },
-   {
-      "name": "RT Новости",
-      "logo": "RT",
-      "link": "https://www.rt.com/on-air/embed/",
-      "http": "https://www.rt.com/"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

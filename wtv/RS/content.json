@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,168 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "RROKUM",
-      "logo": "Rrokum",
-      "link": "https://www.rrokum.tv/?page_id=331",
-      "http": "https://www.rrokum.tv"
-   },
-   {
-      "name": "N1 Srbija",
-      "logo": "N1",
-      "link": "http://hr.n1info.com/Video/LIVE-TV/a5760/N1-UZIVO.html",
-      "http": "http://rs.n1info.com"
-   },
-   {
-      "name": "СОС канал",
-      "logo": "SOS",
-      "link": "http://soskanal.net/sos-stream",
-      "http": "http://soskanal.net/"
-   },
-   {
-      "name": "ТВ Дуга Плус",
-      "logo": "Duga",
-      "link": "http://www.tvdugaplus.com/",
-      "http": "http://www.rtvduga.com/"
-   },
-   {
-      "name": "TOP SOUND",
-      "logo": "TopSound",
-      "link": "http://www.tvtopsound.com/",
-      "http": "http://www.tvtopsound.com/"
-   },
-   {
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
       "name": "euronews",
-      "logo": "Euronews",
-      "link": "http://de.euronews.com/live",
-      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
-   },
-   {
-      "name": "Bloomberg TV Europe",
-      "logo": "bloomberg",
-      "link": "https://www.bloomberg.com/live/europe",
-      "http": "https://www.bloomberg.com/live/us"
-   },
-   {
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
       "name": "Sky News",
-      "logo": "Sky",
-      "link": "https://news.sky.com/watch-live",
-      "http": "https://www.youtube.com/user/skynews"
-   },
-   {
-      "name": "Subotica",
-      "logo": "Subotica",
-      "link": "http://www.tvsubotica.com/index.php?c=tvsu_live&slider=off&lg=sr",
-      "http": "http://www.tvsubotica.com/"
-   },
-   {
-      "name": "K23",
-      "logo": "K23",
-      "link": "http://www.k23tv.com/online-tv/",
-      "http": "http://www.k23tv.com/"
-   },
-   {
-      "name": "Pannon RTV",
-      "logo": "Pannon",
-      "link": "http://pannonrtv.com/web2/?p=294454",
-      "http": "http://pannonrtv.com/"
-   },
-   {
-      "name": "Kanal 9",
-      "logo": "9",
-      "link": "http://www.kanal9tv.com/tv-k9-uzivo/",
-      "http": "http://www.kanal9tv.com/"
-   },
-   {
-      "name": "RTV City Ub",
-      "logo": "RTV",
-      "link": "http://www.rtvcityub.rs/uzivo/",
-      "http": "http://www.rtvcityub.rs/"
-   },
-   {
-      "name": "ТВ Ас Šabac",
-      "logo": "As",
-      "link": "http://www.rtvas.rs/televizija",
-      "http": "http://www.rtvas.rs/"
-   },
-   {
-      "name": "RTV Trstenik",
-      "logo": "Trstenik",
-      "link": "http://www.rtvtrstenik.rs/viewpage.php?page_id=6",
-      "http": "http://www.rtvtrstenik.rs/"
-   },
-   {
-      "name": "RTV Trstenik",
-      "logo": "Trstenik",
-      "link": "http://www.rtvtrstenik.rs/viewpage.php?page_id=6",
-      "http": "http://www.rtvtrstenik.rs/"
-   },
-   {
-      "name": "Studio B",
-      "logo": "B",
-      "link": "http://webstudiob.videostreaming.rs/player.php",
-      "http": "http://studiob.rs/"
-   },
-   {
-      "name": "Kladovo",
-      "logo": "Kladovo",
-      "link": "http://www.kladovo.net/iptv/indexktv.html",
-      "http": "http://www.kladovo.net/"
-   },
-   {
-      "name": "Leskovac",
-      "logo": "Leskovac",
-      "link": "http://www.tvl.rs/",
-      "http": "http://partners.nettvplus.com/tvleskovac/video.html?iframe=true&width=740&height=600"
-   },
-   {
-      "name": "ТВ Протокол К-1",
-      "logo": "K1",
-      "link": "http://www.protokolk1.tv/index.php/protokol-k-1-uivo",
-      "http": "http://www.protokolk1.tv"
-   },
-   {
-      "name": "Бел Ами",
-      "logo": "Belle",
-      "link": "http://www.belami.rs/tv-uzivo/",
-      "http": "http://www.belami.rs/"
-   },
-   {
-      "name": "Pi Canal Pirot",
-      "logo": "Pi",
-      "link": "http://www.pikanal.rs/live-tv/",
-      "http": "http://www.pikanal.rs/live-tv/"
-   },
-   {
-      "name": "Radio S1 TV",
-      "logo": "S1",
-      "link": "http://www.radios1.rs/tv/",
-      "http": "http://www.radios1.rs"
-   },
-   {
-      "name": "Храм",
-      "logo": "Hram",
-      "link": "http://www.tvhram.rs/",
-      "http": "http://www.tvhram.rs/"
-   },
-   {
-      "name": "Zdrava",
-      "logo": "Zdrava",
-      "link": "http://rs.zdrava-televizija.com/",
-      "http": "http://rs.zdrava-televizija.com/"
-   },
-   {
-      "name": "EbS Europe by Satellite",
-      "logo": "EbS",
-      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
-      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
-   }
-]
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

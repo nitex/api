@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,78 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "Yeshua ישוע חי",
-      "logo": "Yeshua",
-      "link": "https://www.yeshuachai.tv/",
-      "http": "https://www.yeshuachai.tv/"
-   },
-   {
-      "name": "Channel 10 ערוץ עשר",
-      "logo": "10",
-      "link": "http://10tv.nana10.co.il/",
-      "http": "http://10tv.nana10.co.il/Article/?ArticleID=1055909"
-   },
-   {
-      "name": "Channel 20 ערוץ",
-      "logo": "20",
-      "link": "http://www.20il.co.il/vod/",
-      "http": "http://www.20il.co.il"
-   },
-   {
-      "name": "כאן 11",
-      "logo": "11",
-      "link": "https://www.kan.org.il/live/tv.aspx?stationid=2",
-      "http": "https://www.kan.org.il"
-   },
-   {
-      "name": "כאן חינוכית",
-      "logo": "1",
-      "link": "https://www.kan.org.il/live/tv.aspx?stationid=20",
-      "http": "https://www.kan.org.il"
-   },
-   {
-      "name": "33 | مكان",
-      "logo": "33",
-      "link": "https://www.makan.org.il/live/tv.aspx?stationid=3",
-      "http": "https://www.makan.org.il"
-   },
-   {
-      "name": "Reshet 13 (13 רשת‎)",
-      "logo": "13",
-      "link": "https://reshet.tv/live/",
-      "http": "https://reshet.tv"
-   },
-   {
-      "name": "Knesset Кнессета",
-      "logo": "Knesset",
-      "link": "http://main.knesset.gov.il/News/Broadcast/Pages/Channel99.aspx",
-      "http": "http://main.knesset.gov.il"
-   },
-   {
-      "name": "Meir",
-      "logo": "Meir",
-      "link": "http://meirtv.co.il/site/live.asp",
-      "http": "http://meirtv.co.il"
-   },
-   {
-      "name": "Kabbalah (ערוץ הקבלה) Hebrew",
-      "logo": "Kabbalah1",
-      "link": "http://www.kab.tv/heb#/stream",
-      "http": "http://www.kab.tv/eng#/playlist"
-   },
-   {
-      "name": "Kabbalah (ערוץ הקבלה) Русский",
-      "logo": "Kabbalah2",
-      "link": "http://www.kab.tv/rus#/stream",
-      "http": "http://www.kab.tv/eng#/playlist"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

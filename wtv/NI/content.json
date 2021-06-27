@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,78 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "TN8",
-      "logo": "TN8",
-      "link": "http://www.tn8.tv/",
-      "http": "http://www.tn8.tv/"
-   },
-   {
-      "name": "10 Nicaragua",
-      "logo": "10",
-      "link": "http://www.canal10.com.ni/envivo",
-      "http": "http://www.canal10.com.ni"
-   },
-   {
-      "name": "2",
-      "logo": "2",
-      "link": "http://canal2tv.com/envivo/",
-      "http": "http://canal2tv.com"
-   },
-   {
-      "name": "VOS",
-      "logo": "VOS",
-      "link": "https://www.vostv.com.ni/directo/",
-      "http": "https://www.vostv.com.ni"
-   },
-   {
-      "name": "6",
-      "logo": "6",
-      "link": "http://canal6.com.ni/",
-      "http": "http://canal6.com.ni/"
-   },
-   {
-      "name": "4",
-      "logo": "4",
-      "link": "http://www.ustream.tv/channel/canal-4-nicaragua-lmtv",
-      "http": "http://www.canal4.com.ni/"
-   },
-   {
-      "name": "12",
-      "logo": "12",
-      "link": "http://www.canal12.com.ni/en-vivo",
-      "http": "http://www.canal12.com.ni"
-   },
-   {
-      "name": "Megabox 76",
-      "logo": "76",
-      "link": "http://www.megaboxni.tv/",
-      "http": "http://www.megaboxni.tv/"
-   },
-   {
-      "name": "Viva Nicaragua",
-      "logo": "Viva",
-      "link": "https://www.vivanicaragua.com.ni/",
-      "http": "https://www.vivanicaragua.com.ni/"
-   },
-   {
-      "name": "CDNN 23",
-      "logo": "23",
-      "link": "http://www.cdnn23.com/",
-      "http": "http://www.cdnn23.com/"
-   },
-   {
-      "name": "TeleSUR",
-      "logo": "TeleSUR",
-      "link": "https://www.youtube.com/user/telesurtv/videos?view=2&live_view=501&flow=grid",
-      "http": "https://www.telesurtv.net/"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

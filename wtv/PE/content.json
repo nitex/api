@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,186 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "Perú",
-      "logo": "Peru",
-      "link": "http://www.tvperu.gob.pe/play",
-      "http": "http://www.tvperu.gob.pe/play/HD"
-   },
-   {
-      "name": "Perú NOTICIAS",
-      "logo": "NOTICIAS",
-      "link": "http://www.tvperu.gob.pe/play73",
-      "http": "http://www.tvperu.gob.pe/play/HD"
-   },
-   {
-      "name": "RBC",
-      "logo": "RBC",
-      "link": "http://www.rbconline.pe/",
-      "http": "http://www.rbconline.pe/"
-   },
-   {
-      "name": "Willax",
-      "logo": "Willax",
-      "link": "http://willax.tv/",
-      "http": "http://willax.tv/"
-   },
-   {
-      "name": "Latina",
-      "logo": "Latina",
-      "link": "https://www.latina.pe/tvenvivo",
-      "http": "https://www.latina.pe"
-   },
-   {
-      "name": "Panamericana",
-      "logo": "Panamericana",
-      "link": "https://panamericana.pe/tvenvivo",
-      "http": "https://panamericana.pe/tvenvivo/sd"
-   },
-   {
-      "name": "ATV",
-      "logo": "ATV",
-      "link": "http://www.atv.pe/envivo?ref=menu-sup",
-      "http": "http://www.atv.pe/envivo?canal=ATV"
-   },
-   {
-      "name": "Congreso (CNC)",
-      "logo": "Congreso",
-      "link": "http://www.congreso.gob.pe/tvenlinea",
-      "http": "http://www.congreso.gob.pe/"
-   },
-   {
-      "name": "Mundo Arequipa",
-      "logo": "Arequipa",
-      "link": "http://www.tvmundo.pe/en-vivo",
-      "http": "http://www.tvmundo.pe"
-   },
-   {
-      "name": "Mega Arequipa",
-      "logo": "Mega",
-      "link": "http://www.megatvarequipa.com/television-en-vivo/",
-      "http": "http://www.megatvarequipa.com/"
-   },
-   {
-      "name": "CTC",
-      "logo": "CTC",
-      "link": "http://diariomatutino.com/ctcenvivo.php",
-      "http": "http://diariomatutino.com"
-   },
-   {
-      "name": "Mundo Cusco",
-      "logo": "Mundo",
-      "link": "http://www.tvmundoperu.com/tv-en-linea/",
-      "http": "http://www.tvmundoperu.com"
-   },
-   {
-      "name": "Inkavisión",
-      "logo": "Inkavision",
-      "link": "http://www.inkavision.pe/",
-      "http": "http://www.inkavision.pe/"
-   },
-   {
-      "name": "RTV El Diario Cusco",
-      "logo": "RTV",
-      "link": "http://www.diariodelcusco.com/corporacion-multimedia-el-diario-del-cusco/rtv-el-diario/",
-      "http": "http://www.diariodelcusco.com/"
-   },
-   {
-      "name": "21 Huancayo",
-      "logo": "Huancayo",
-      "link": "http://www.canal21huancayo.com/?rid=78&page=tv_en_vivo",
-      "http": "http://www.ustream.tv/channel/21hyo/pop-out"
-   },
-   {
-      "name": "Sol",
-      "logo": "Sol",
-      "link": "http://soltvperu.com/web/senal-en-vivo/",
-      "http": "http://soltvperu.com"
-   },
-   {
-      "name": "Cosmos",
-      "logo": "Cosmos",
-      "link": "http://tvcosmos.pe/envivo/",
-      "http": "http://tvcosmos.pe/"
-   },
-   {
-      "name": "Norte - Chiclayo",
-      "logo": "Norte1",
-      "link": "http://www.tvnorte-peru.com/web/index.php/tv-on-line/tv-en-vivo-chiclayo",
-      "http": "http://www.tvnorte-peru.com/"
-   },
-   {
-      "name": "Norte - Piura",
-      "logo": "Norte2",
-      "link": "http://www.tvnorte-peru.com/web/index.php/tv-on-line/tv-en-vivo-piura",
-      "http": "http://www.tvnorte-peru.com/"
-   },
-   {
-      "name": "Norte - Cajamarca",
-      "logo": "Norte3",
-      "link": "http://www.tvnorte-peru.com/web/index.php/tv-on-line/tv-en-vivo-cajamarca",
-      "http": "http://www.tvnorte-peru.com/"
-   },
-   {
-      "name": "Capital",
-      "logo": "Capital1",
-      "link": "http://www.capital.com.pe/capitaltv.html",
-      "http": "http://www.capital.com.pe/tvenvivo"
-   },
-   {
-      "name": "Capital Cabina",
-      "logo": "Capital2",
-      "link": "http://www.capital.com.pe/cabinaenvivo",
-      "http": "http://www.capital.com.pe/tvenvivo"
-   },
-   {
-      "name": "Capital Radio",
-      "logo": "Capital3",
-      "link": "http://radioplayerperu.capital.com.pe/",
-      "http": "http://www.capital.com.pe/tvenvivo"
-   },
-   {
-      "name": "Foro",
-      "logo": "Foro1",
-      "link": "https://www.forotv.pe/tv-en-vivo/",
-      "http": "https://www.forotv.pe"
-   },
-   {
-      "name": "Foro Radio",
-      "logo": "Foro2",
-      "link": "https://www.forotv.pe/radio-en-vivo/",
-      "http": "https://www.forotv.pe"
-   },
-   {
-      "name": "Monterrico",
-      "logo": "Monterrico",
-      "link": "http://www.hipodromodemonterrico.com.pe/pedigree/sistemas/arbol/senal_envivo.php",
-      "http": "http://www.hipodromodemonterrico.com.pe"
-   },
-   {
-      "name": "Bethel",
-      "logo": "Bethel",
-      "link": "http://www.betheltv.tv/envivo.php",
-      "http": "http://www.betheltv.tv"
-   },
-   {
-      "name": "La Luz",
-      "logo": "Luz1",
-      "link": "http://radiolaluz.com/tv-en-vivo/",
-      "http": "http://radiolaluz.com"
-   },
-   {
-      "name": "La Luz Radio",
-      "logo": "Luz2",
-      "link": "http://radiolaluz.com/radio-en-vivo/",
-      "http": "http://radiolaluz.com"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

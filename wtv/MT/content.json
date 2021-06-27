@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,72 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "TVM 1",
-      "logo": "TVM1",
-      "link": "http://www.tvm.com.mt/mt/live/",
-      "http": "http://www.tvm.com.mt/"
-   },
-   {
-      "name": "TVM 2",
-      "logo": "TVM2",
-      "link": "http://www.tvm.com.mt/mt/live/tvm-2/",
-      "http": "http://www.tvm.com.mt/"
-   },
-   {
-      "name": "NET Television",
-      "logo": "NET",
-      "link": "http://live.nettv.com.mt/",
-      "http": "http://live.nettv.com.mt/"
-   },
-   {
-      "name": "F Living",
-      "logo": "Living",
-      "link": "http://fliving.tv/site/live-streaming",
-      "http": "http://fliving.tv"
-   },
-   {
-      "name": "One",
-      "logo": "One",
-      "link": "http://www.one.com.mt/live/one.html",
-      "http": "http://www.one.com.mt/"
-   },
-   {
-      "name": "Smash",
-      "logo": "Smash",
-      "link": "http://www.ustream.tv/channel/smash-tv-malta/pop-out",
-      "http": "https://www.facebook.com/Smash-TV-Malta-122848811119080/"
-   },
-   {
-      "name": "EbS Europe by Satellite",
-      "logo": "EbS",
-      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=2",
-      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
-   },
-   {
-      "name": "Bloomberg TV",
-      "logo": "bloomberg",
-      "link": "https://www.bloomberg.com/live/europe",
-      "http": "https://www.bloomberg.com/live/us"
-   },
-   {
-      "name": "Sky TG24 Italia",
-      "logo": "Sky",
-      "link": "http://video.sky.it/news/diretta",
-      "http": "http://video.sky.it/"
-   },
-   {
-      "name": "Euronews",
-      "logo": "Euronews",
-      "link": "http://de.euronews.com/live",
-      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

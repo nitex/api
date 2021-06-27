@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,102 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "TVN",
-      "logo": "TVN",
-      "link": "https://www.tvn-2.com/tv/en-directo",
-      "http": "https://www.tvn-2.com/tv/en-directo/#tvn"
-   },
-   {
-      "name": "TVMax",
-      "logo": "TVMax",
-      "link": "https://www.tvmax-9.com/en_vivo/#tvmax",
-      "http": "https://www.tvn-2.com/tv/en-directo/#tvmax"
-   },
-   {
-      "name": "RPC",
-      "logo": "RPC",
-      "link": "http://www.rpctv.com/endirecto/",
-      "http": "http://www.rpctv.com"
-   },
-   {
-      "name": "NEX",
-      "logo": "NEX",
-      "link": "http://www.nexpanama.com/envivo",
-      "http": "http://www.nexpanama.com"
-   },
-   {
-      "name": "SERTV",
-      "logo": "SERTV",
-      "link": "http://www.sertv.gob.pa/live",
-      "http": "http://www.sertv.gob.pa"
-   },
-   {
-      "name": "Hosanna Visión",
-      "logo": "Hosanna",
-      "link": "http://hosannavision.com/envivo",
-      "http": "http://hosannavision.com"
-   },
-   {
-      "name": "FETV",
-      "logo": "FETV",
-      "link": "http://www.fetv.org/en-directo/",
-      "http": "http://www.fetv.org"
-   },
-   {
-      "name": "TVN Radio TV",
-      "logo": "Radio",
-      "link": "https://www.tvn-2.com/tv/en-directo/#radiotv",
-      "http": "https://www.tvn-2.com/tv/en-directo/#radio"
-   },
-   {
-      "name": "Telemetro",
-      "logo": "Telemetro1",
-      "link": "http://www.telemetro.com/endirecto/",
-      "http": "http://www.telemetro.com"
-   },
-   {
-      "name": "Telemetro Radio",
-      "logo": "Telemetro2",
-      "link": "http://www.telemetro.com/radio/",
-      "http": "http://www.telemetro.com"
-   },
-   {
-      "name": "RPC Radio Canal",
-      "logo": "Canal",
-      "link": "http://www.rpcradio.com/enlinea/index.html",
-      "http": "http://www.rpcradio.com/"
-   },
-   {
-      "name": "Hosanna Capital",
-      "logo": "Capital",
-      "link": "http://hosannacapital.com.pa/",
-      "http": "http://hosannacapital.com.pa/"
-   },
-   {
-      "name": "Hosanna Stereo",
-      "logo": "Stereo",
-      "link": "http://hosannastereo.com/",
-      "http": "http://hosannastereo.com/"
-   },
-   {
-      "name": "Hosanna Carismatica",
-      "logo": "Carismatica",
-      "link": "http://lanuevahosannacarismatica.com/",
-      "http": "http://lanuevahosannacarismatica.com/"
-   },
-   {
-      "name": "FARO",
-      "logo": "FARO",
-      "link": "http://www.farodedavid.com/faro-tv/",
-      "http": "http://www.farodedavid.com/faro-tv/"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

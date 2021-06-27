@@ -7,72 +7,72 @@
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "other":"http://www.amazon.com/gp/mas/dl/android?s=Labins",
+      "other":"http://www.amazon.com/gp/mas/dl/android?s= Labinson%20Diares",
       "bonus":"",
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104391805",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104391805",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "other":"",
-      "bonus":"https://appgallery.cloud.huawei.com/ag/n/app/C104371847",
+      "bonus":"",
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"app57635d45cf7b4d92bb",
-      "mainAd":"vzb8a9a0685bdd4ffdb0",
-      "rtrnAd":"vz6e526d8b10764e33bb",
-      "mainb":"vz27d5a5cb1f274830bf",
-      "chngAd":""
-   },
-   "Content":[
-   {
-      "name":"Al Jazeera",
-      "logo":"_000001",
-      "link":"https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
-      "http":""
-   },
-   {
-      "name":"Al Jazeera English",
-      "logo":"_000002",
-      "link":"http://ott-cdn.ucom.am/s23/index.m3u8",
-      "http":""
-   },
-   {
-      "name":"euronews",
-      "logo":"_000003",
-      "link":"https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
-      "http":""
-   },
-   {
-      "name":"Bloomberg Asia",
-      "logo":"_000004",
-      "link":"https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
-      "http":""
-   },
-   {
-      "name":"Sky News",
-      "logo":"_000005",
-      "link":"http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
-      "http":""
-   },
-   {
-      "name":"Sky News Arabic",
-      "logo":"_000006",
-      "link":"https://stream.skynewsarabia.com/hls/sna.m3u8",
-      "http":""
-   }
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
   ]
 }

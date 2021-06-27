@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,120 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "TVP",
-      "logo": "TVP",
-      "link": "http://tvpstream.tvp.pl/",
-      "http": "http://www.tvp.pl/tvplayer?channel_id=1455&autoplay=true"
-   },
-   {
-      "name": "TVP3",
-      "logo": "3",
-      "link": "http://warszawa.tvp.pl/",
-      "http": "http://tvp3.tvp.pl/"
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
     {
-      "name": "Telewizja WTK",
-      "logo": "WTK",
-      "link": "http://www.wtkplay.pl/live",
-      "http": "http://www.wtk.pl/live"
-   },
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
     {
-      "name": "Torun",
-      "logo": "Torun",
-      "link": "http://www.tvtorun.net/",
-      "http": "http://www.toruntv.pl/"
-   },
-   {
-      "name": "Belsat",
-      "logo": "Belsat",
-      "link": "http://belsat.eu/online/",
-      "http": "http://belsat.eu/"
-   },
-   {
-      "name": "CW24TV",
-      "logo": "24",
-      "link": "http://www.cw24tv.pl/",
-      "http": "http://cw24.tv/"
-   },
-   {
-      "name": "TVK Telewizja Kujawy",
-      "logo": "TVK",
-      "link": "http://www.kujawy.info/na-zywo",
-      "http": "http://www.kujawy.info/"
-   },
-   {
-      "name": "Toya",
-      "logo": "Toya",
-      "link": "http://tvtoya.pl/live",
-      "http": "http://tvtoya.pl"
-   },
-   {
-      "name": "TV Master",
-      "logo": "Master",
-      "link": "http://www.tv.master.pl/tv_online.php",
-      "http": "http://www.tv.master.pl/"
-   },
-   {
-      "name": "Telewizja Sudecka",
-      "logo": "Sudecka",
-      "link": "http://www.tvsudecka.pl/streams/single/1",
-      "http": "https://www.youtube.com/user/tvsudecka/videos?shelf_id=0&live_view=501&sort=dd&view=2"
-   },
-   {
-      "name": "Dami",
-      "logo": "Dami",
-      "link": "http://dami24.pl/tvdami/dami-on-line",
-      "http": "http://dami24.pl"
-   },
-   {
-      "name": "Sfera TV",
-      "logo": "Sfera",
-      "link": "http://www.sferatv.pl/na-zywo",
-      "http": "http://www.sferatv.pl"
-   },
-   {
-      "name": "RBL",
-      "logo": "RBL",
-      "link": "http://www.rbl.tv/live.html",
-      "http": "http://www.rbl.tv/"
-   },
-   {
-      "name": "OPOKA",
-      "logo": "OPOKA",
-      "link": "http://opoka.tv/opoka-tv-live/",
-      "http": "http://opoka.tv/"
-   },
-   {
-      "name": "Mango 24",
-      "logo": "Mango",
-      "link": "http://tv.mango.pl/",
-      "http": "http://www.mango.pl/"
-   },
-   {
-      "name": "Trwam",
-      "logo": "Trwam",
-      "link": "http://www.tv-trwam.pl/na-zywo",
-      "http": "http://www.tv-trwam.pl"
-   },
-   {
-      "name": "EWTN",
-      "logo": "EWTN",
-      "link": "http://www.ewtn.com/multimedia/live_player.asp?satname=ukirlnlp",
-      "http": "http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&feed=ukirln"
-   },
-   {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
       "name": "Sky News",
-      "logo": "Sky",
-      "link": "https://news.sky.com/watch-live",
-      "http": "https://www.youtube.com/user/skynews"
-   }
-]
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

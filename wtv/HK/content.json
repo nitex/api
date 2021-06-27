@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,90 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "Phoenix TV InfoNews 资讯台",
-      "logo": "ifeng1",
-      "link": "http://v.ifeng.com/live/#4AC51C17-9FBE-47F2-8EE0-8285A66EAFF5",
-      "http": "http://v.ifeng.com/live"
-   },
-   {
-      "name": "Phoenix TV Chinese 中文台",
-      "logo": "ifeng2",
-      "link": "http://v.ifeng.com/live/#270DE943-3CDF-45E1-8445-9403F93E80C4",
-      "http": "http://v.ifeng.com/"
-   },
-   {
-      "name": "Phoenix TV Hong Kong 香港台",
-      "logo": "ifeng3",
-      "link": "http://v.ifeng.com/live/#2c942450-2165-4750-80de-7dff9c224153",
-      "http": "http://v.ifeng.com/"
-   },
-   {
-      "name": "HKS TV 香港衛視 / 香港卫视",
-      "logo": "hks",
-      "link": "http://www.hkstv.tv/?mod=index&do=live",
-      "http": "http://www.hkstv.tv/"
-   },
-   {
-      "name": "Health TV 健康卫视",
-      "logo": "health",
-      "link": "http://www.jkwshk.tv/live/",
-      "http": "http://www.jkwshk.tv"
-   },
-   {
-      "name": "RTHK31 港台電視 31",
-      "logo": "trthk31",
-      "link": "http://programme.rthk.hk/rthk/tv/index.php?c=tv&m=timetabled&channel=dtt31",
-      "http": "http://rthk.hk/index.htm"
-   },
-   {
-      "name": "RTHK32 港台電視 32",
-      "logo": "trthk32",
-      "link": "http://programme.rthk.hk/rthk/tv/index.php?c=tv&m=timetabled&channel=dtt32",
-      "http": "http://rthk.hk/index.htm"
-   },
-   {
-      "name": "立法會直擊 Legislative Council of HK",
-      "logo": "trthk33",
-      "link": "http://app4.rthk.hk/special/legcolive/index.htm",
-      "http": "http://app4.rthk.hk/special/legcolive/index.htm"
-   },
-   {
-      "name": "Bloomberg TV Asia",
-      "logo": "bloom1",
-      "link": "http://www.bloomberg.com/live/asia",
-      "http": "http://www.bloomberg.com/live"
-   },
-   {
-      "name": "Bloomberg TV Asia Event",
-      "logo": "bloom2",
-      "link": "http://www.bloomberg.com/live/asia_stream",
-      "http": "http://www.bloomberg.com/live"
-   },
-   {
-      "name": "Creation TV 創世電視",
-      "logo": "cgtv",
-      "link": "http://www.creation-tv.com/cgtv/",
-      "http": "http://www.creation-tv.com/"
-   },
-   {
-      "name": "HOPE",
-      "logo": "chinesehope",
-      "link": "http://chinesehope.tv/zh/home/index.php",
-      "http": "http://chinesehope.tv/"
-   },
-   {
-      "name": "HK Buddhist Edu. Fdn",
-      "logo": "amtbhk",
-      "link": "http://amtbhk.com/livetv",
-      "http": "http://amtbhk.com/"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

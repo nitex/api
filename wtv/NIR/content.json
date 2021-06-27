@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,84 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "Sky News",
-      "logo": "Sky",
-      "link": "https://news.sky.com/watch-live",
-      "http": "https://www.youtube.com/user/skynews"
-   },
-   {
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
       "name": "euronews",
-      "logo": "euronews",
-      "link": "http://www.euronews.com/live",
-      "http": "http://fr.euronews.com/"
-   },
-   {
-      "name": "Bloomberg TV",
-      "logo": "bloomberg",
-      "link": "https://www.bloomberg.com/live/europe",
-      "http": "https://www.bloomberg.com/live/us"
-   },
-   {
-      "name": "LA Muscle (Active Channel)",
-      "logo": "lamuscletv",
-      "link": "http://www.lamuscle.com/lamuscletv/live/",
-      "http": "http://www.lamuscle.com/"
-   },
-   {
-      "name": "Heart",
-      "logo": "Heart",
-      "link": "http://www.heart.co.uk/tv/player/",
-      "http": "http://www.heart.co.uk/"
-   },
-   {
-      "name": "NUsic",
-      "logo": "NUsic",
-      "link": "http://www.nusictv.com/on-air/",
-      "http": "http://www.nusictv.com/"
-   },
-   {
-      "name": "Landscape",
-      "logo": "Landscape",
-      "link": "http://www.landscapetv.com/on-air/",
-      "http": "http://www.landscapetv.com/"
-   },
-   {
-      "name": "Rocks & Co.",
-      "logo": "rocksandco",
-      "link": "http://www.rocksandco.com/live-auction/",
-      "http": "http://www.rocksandco.com/"
-   },
-   {
-      "name": "The Lounge",
-      "logo": "lounge",
-      "link": "http://www.gemporia.com/en-gb/auction/the-lounge/",
-      "http": "http://www.gemporia.com/"
-   },
-   {
-      "name": "Ideal World",
-      "logo": "idealworld",
-      "link": "http://www.idealworld.tv/ShowGridView?showId=2625283",
-      "http": "http://www.idealworld.tv/"
-   },
-   {
-      "name": "Create and Craft",
-      "logo": "createandcraft",
-      "link": "http://www.createandcraft.tv/showgridview?showId=2624535",
-      "http": "http://www.createandcraft.tv/"
-   },
-   {
-      "name": "Asian Star",
-      "logo": "101.6",
-      "link": "http://www.asianstar1016.co.uk/livetv/",
-      "http": "http://www.asianstar1016.co.uk/livetv/"
-   }
-]
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

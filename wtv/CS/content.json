@@ -1,7 +1,8 @@
 {
    "amznTV":{
-      "changeCountry": true,
-      "ownVisible": true,
+      "changeCountry": false,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,537 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "AzTV AZƏRBAYCAN ",
-      "logo": "AzTV",
-      "link": "http://www.aztv.az/canli/aztv-canli.htm",
-      "http": "http://www.aztv.az"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "İctimai",
-      "logo": "ictimai",
-      "link": "https://itv.az/live-tv",
-      "http": "https://itv.az"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "Xəzər Xəbər",
-      "logo": "Xezer",
-      "link": "http://xezerxeber.az/det-1",
-      "http": "http://dalga.az/az/live/1"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "ARB",
-      "logo": "ARB",
-      "link": "http://arbtv.az/az/pages/live",
-      "http": "http://www.arbtv.az/az/pages/canli_yayim"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "ARB 24",
-      "logo": "ARB24",
-      "link": "http://24.arbtv.az/az/pages/live",
-      "http": "http://24.arbtv.az"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "ARB Günəş",
-      "logo": "Gunesh",
-      "link": "http://gunesh.arbtv.az/az/pages/live",
-      "http": "http://gunesh.arbtv.az"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "Günaz",
-      "logo": "Gunaz",
-      "link": "https://www.gunaz.tv/az/live",
-      "http": "https://www.gunaz.tv/"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "Lider",
-      "logo": "Lider",
-      "link": "http://www.lidertv.com/",
-      "http": "http://www.lidertv.com/az/onlinetv.html"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "CBC",
-      "logo": "CBC",
-      "link": "http://cbc.az/ru/pages/live",
-      "http": "http://cbc.az"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "İnterAz",
-      "logo": "InterAz",
-      "link": "https://interaztv.com/stream/",
-      "http": "https://interaztv.com"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "APA",
-      "logo": "APA",
-      "link": "https://www.apa.tv/live",
-      "http": "https://www.apa.tv/"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "İdman Azərbaycan",
-      "logo": "idman",
-      "link": "http://yoda.az/idmanlive/index.php",
-      "http": "http://www.idmantv.az"
-   },
-   {
-      "country": "Azərbaycan (Азербайджан)",
-      "name": "Mədəniyyət",
-      "logo": "medeniyyet",
-      "link": "http://yoda.az/medenlive/index.php",
-      "http": "http://medeniyyettv.az"
-   },
-   {
-      "country": "Հայաստան (Армения)",
-      "name": "Հայաստան 1 (H1)",
-      "logo": "H1",
-      "link": "http://www.1tv.am/",
-      "http": "http://www.1tv.am/"
-   },
-   {
-      "country": "Հայաստան (Армения)",
-      "name": "Kentron (Կենտրոն)",
-      "logo": "Kentron",
-      "link": "http://kentron.tv/live.html",
-      "http": "http://kentron.tv"
-   },
-   {
-      "country": "Հայաստան (Армения)",
-      "name": "Global (ԳԼՈԲԱԼ ԹԻ-ՎԻ)",
-      "logo": "Global",
-      "link": "http://globaltv.am/%D6%85%D5%B6%D5%AC%D5%A1%D5%B5%D5%B6",
-      "http": "http://globaltv.am"
-   },
-   {
-      "country": "Հայաստան (Армения)",
-      "name": "Hrazdan (Հրազդան)",
-      "logo": "Hrazdan",
-      "link": "http://www.hrazdantv.am/?page_id=1500",
-      "http": "http://www.hrazdantv.am"
-   },
-   {
-      "country": "Հայաստան (Армения)",
-      "name": "Гала (Գալա)",
-      "logo": "Gala",
-      "link": "http://galatv.am/",
-      "http": "http://galatv.am/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "АНТ - Общенациональное телевидение",
-      "logo": "ont",
-      "link": "http://online.ont.by/",
-      "http": "http://ont.by/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "БЕЛАРУСЬ 24",
-      "logo": "belarus24",
-      "link": "http://belarus24.by/",
-      "http": "http://www.tvr.by/televidenie/belarus-24/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "БЕЛАРУСЬ 1",
-      "logo": "belarus1",
-      "link": "http://www.tvr.by/televidenie/belarus-1/",
-      "http": "http://www.tvr.by/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "БЕЛАРУСЬ 2",
-      "logo": "belarus2",
-      "link": "http://www.tvr.by/televidenie/belarus-2/",
-      "http": "http://www.tvr.by/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "БЕЛАРУСЬ 3",
-      "logo": "belarus3",
-      "link": "http://www.3belarus.by/online",
-      "http": "http://www.tvr.by/televidenie/belarus-3/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "БЕЛАРУСЬ 5",
-      "logo": "belarus5",
-      "link": "http://www.tvr.by/televidenie/belarus-5/",
-      "http": "http://www.tvr.by/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "Столичное телевидение",
-      "logo": "ctv",
-      "link": "http://www.ctv.by/online",
-      "http": "http://www.ctv.by/"
-   },
-   {
-      "country": "Беларусь",
-      "name": "Белсат",
-      "logo": "belsat",
-      "link": "http://belsat.eu/online/",
-      "http": "https://www.youtube.com/user/ibelsat/videos?view=2&flow=grid&live_view=501"
-   },
-   {
-      "country": "Қазақстан",
-      "name": "KTK",
-      "logo": "ktk",
-      "link": "http://www.ktk.kz/ru/live",
-      "http": "http://www.ktk.kz/"
-   },
-   {
-      "country": "Қазақстан",
-      "name": "Первый в Казахстане",
-      "logo": "kaz",
-      "link": "https://1tv.kz/?page_id=38",
-      "http": "https://1tv.kz/"
-   },
-   {
-      "country": "Қазақстан",
-      "name": "Астана TV",
-      "logo": "astana",
-      "link": "http://www.astanatv.kz/p/Online.html",
-      "http": "http://www.astanatv.kz/"
-   },
-   {
-      "country": "Қазақстан",
-      "name": "Қазақстан",
-      "logo": "kaztrk",
-      "link": "http://kaztv.kaztrk.kz/kz/live/",
-      "http": "http://kaztv.kaztrk.kz/kz/"
-   },
-   {
-      "country": "Қазақстан",
-      "name": "KAZSPORT",
-      "logo": "kazsport",
-      "link": "http://kazsport.kaztrk.kz/online",
-      "http": "http://kazsport.kaztrk.kz/kz"
-   },
-   {
-      "country": "Қазақстан",
-      "name": "Балапан",
-      "logo": "balapan",
-      "link": "http://balapan.kaztrk.kz/kz/online",
-      "http": "http://balapan.kaztrk.kz/kz"
-   },
-   {
-      "country": "Қазақстан",
-      "name": "7 Channel",
-      "logo": "7",
-      "link": "http://tv7.kz/kz/online/",
-      "http": "http://tv7.kz/"
-   },
-   {
-      "country": "Кыргызстан",
-      "name": "КТРК",
-      "logo": "KTRK",
-      "link": "http://www.ktrk.kg/streams",
-      "http": "http://www.ktrk.kg"
-   },
-   {
-      "country": "Кыргызстан",
-      "name": "Ала Тоо 24",
-      "logo": "Too",
-      "link": "http://www.ktrk.kg/streams",
-      "http": "http://www.ktrk.kg"
-   },
-   {
-      "country": "Кыргызстан",
-      "name": "Аян",
-      "logo": "Ayan",
-      "link": "http://ayan.kg/%D0%BE-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8/",
-      "http": "http://ayan.kg"
-   },
-   {
-      "country": "Кыргызстан",
-      "name": "ОшТВ",
-      "logo": "Osh",
-      "link": "http://oshtv.kg/",
-      "http": "http://oshtv.kg"
-   },
-   {
-      "country": "Кыргызстан",
-      "name": "Хамелеон",
-      "logo": "Hameleon",
-      "link": "http://www.htv.kg/stream/",
-      "http": "http://www.htv.kg"
-   },
-   {
-      "country": "Кыргызстан",
-      "name": "MAHAC",
-      "logo": "MAHAC",
-      "link": "http://mediamanas.kg/",
-      "http": "http://mediamanas.kg/"
-   },
-   {
-      "country": "Moldova (Молдавия)",
-      "name": "TRM",
-      "logo": "TRM",
-      "link": "http://www.trm.md/ro/tv-on-line/",
-      "http": "http://www.trm.md"
-   },
-   {
-      "country": "Moldova (Молдавия)",
-      "name": "Publika",
-      "logo": "Publika",
-      "link": "http://www.publika.md/live",
-      "http": "http://www.publika.md"
-   },
-   {
-      "country": "Moldova (Молдавия)",
-      "name": "Pro TV Chişinău",
-      "logo": "Pro",
-      "link": "http://protv.md/protv-live.html",
-      "http": "http://protv.md"
-   },
-   {
-      "country": "Moldova (Молдавия)",
-      "name": "Realitatea",
-      "logo": "Realitatea",
-      "link": "http://www.realitatea.md/tv",
-      "http": "http://www.realitatea.md"
-   },
-   {
-      "country": "Moldova (Молдавия)",
-      "name": "TVR Moldova",
-      "logo": "TVR",
-      "link": "http://www.tvrplus.ro/live-tvr-moldova",
-      "http": "http://www.tvrplus.ro"
-   },
-   {
-      "country": "Moldova (Молдавия)",
-      "name": "Accent",
-      "logo": "Accent",
-      "link": "http://www.a-tv.md/index.php?do=static&page=live",
-      "http": "http://www.a-tv.md/"
-   },
-   {
-      "country": "Россия",
-      "name": "ПЕРВЫЙ",
-      "logo": "1",
-      "link": "http://stream.1tv.ru/live/",
-      "http": "http://www.1tv.ru/"
-   },
-   {
-      "country": "Россия",
-      "name": "euronews Россия",
-      "logo": "euronews",
-      "link": "http://ru.euronews.com/live",
-      "http": "https://www.youtube.com/user/euronewsru/videos?flow=grid&live_view=501&view=2"
-   },
-   {
-      "country": "Россия",
-      "name": "РБК",
-      "logo": "rbc",
-      "link": "http://tv.rbc.ru/",
-      "http": "http://tv.rbc.ru/"
-   },
-   {
-      "country": "Россия",
-      "name": "RT News",
-      "logo": "RT1",
-      "link": "https://www.rt.com/on-air/embed/",
-      "http": "https://www.rt.com/"
-   },
-   {
-      "country": "Россия",
-      "name": "ОТР",
-      "logo": "otr",
-      "link": "http://www.otr-online.ru/online/",
-      "http": "http://www.otr-online.ru/"
-   },
-   {
-      "country": "Россия",
-      "name": "Europa Plus ТВ",
-      "logo": "Europa",
-      "link": "http://www.europaplustv.com/online",
-      "http": "http://www.europaplustv.com/online-new"
-   },
-   {
-      "country": "Россия",
-      "name": "Европа Плюс",
-      "logo": "Plus",
-      "link": "http://www.europaplus.ru/live",
-      "http": "http://www.europaplus.ru"
-   },
-   {
-      "country": "Россия",
-      "name": "НТВ",
-      "logo": "NTV1",
-      "link": "https://www.youtube.com/user/ntvru/videos?view=2&live_view=501&flow=grid",
-      "http": "http://www.ntv.ru/air"
-   },
-   {
-      "country": "Россия",
-      "name": "НТВ-Стиль",
-      "logo": "NTV2",
-      "link": "http://www.ntv.ru/air/ntvstyle",
-      "http": "http://www.ntv.ru/air"
-   },
-   {
-      "country": "Россия",
-      "name": "НТВ-Право",
-      "logo": "NTV3",
-      "link": "http://www.ntv.ru/air/ntvlaw",
-      "http": "http://www.ntv.ru/air"
-   },
-   {
-      "country": "Россия",
-      "name": "НТВ-Сериал",
-      "logo": "NTV4",
-      "link": "http://www.ntv.ru/air/ntvseries",
-      "http": "http://www.ntv.ru/air"
-   },
-   {
-      "country": "Россия",
-      "name": "Настоящее Время",
-      "logo": "Current",
-      "link": "https://www.currenttime.tv/live",
-      "http": "https://www.currenttime.tv/live/video/92"
-   },
-   {
-      "country": "Россия",
-      "name": "Телеканал Ю",
-      "logo": "U",
-      "link": "https://www.u-tv.ru/online/",
-      "http": "https://www.u-tv.ru"
-   },
-   {
-      "country": "Россия",
-      "name": "MUSICBOX",
-      "logo": "musicbox-tv",
-      "link": "http://www.mboxtv.ru/",
-      "http": "http://www.mboxtv.ru/"
-   },
-   {
-      "country": "Россия",
-      "name": "8",
-      "logo": "8",
-      "link": "http://live.proofix.ru/embed/tv8.php",
-      "http": "http://www.8tv.ru/"
-   },
-   {
-      "country": "Россия",
-      "name": "RT USA",
-      "logo": "RT2",
-      "link": "https://www.rt.com/on-air/rt-america-air/embed/",
-      "http": "https://www.rt.com/"
-   },
-   {
-      "country": "Россия",
-      "name": "RT UK",
-      "logo": "RT3",
-      "link": "https://www.rt.com/on-air/rt-uk-air/embed/",
-      "http": "https://www.rt.com/"
-   },
-   {
-      "country": "Россия",
-      "name": "RT Документальный",
-      "logo": "RT4",
-      "link": "https://rtd.rt.com/on-air/embed/",
-      "http": "https://www.rt.com/"
-   },
-   {
-      "country": "Тоҷикистон",
-      "name": "TVT Тоҷикистон",
-      "logo": "TVT",
-      "link": "http://ktr.tj/tvt",
-      "http": "http://teleradiocom.tj/online-tv/81-shabakai-avval.html"
-   },
-   {
-      "country": "Тоҷикистон",
-      "name": "Ҷаҳоннамо",
-      "logo": "Jahonnamo",
-      "link": "http://ktr.tj/tvj",
-      "http": "http://jahonnamo.tj/tv-onlain.html"
-   },
-   {
-      "country": "Тоҷикистон",
-      "name": "TVS Сафина",
-      "logo": "TVS",
-      "link": "http://ktr.tj/tvs",
-      "http": "http://teleradiocom.tj/online-tv/82-shabakai-safina.html"
-   },
-   {
-      "country": "Türkmenistan",
-      "name": "Altyn Asyr",
-      "logo": "Altyn",
-      "link": "https://online.tm/webtv/ch001.php",
-      "http": "https://online.tm/webtv/"
-   },
-   {
-      "country": "Türkmenistan",
-      "name": "Türkmenistan",
-      "logo": "Turkmenistan",
-      "link": "https://online.tm/webtv/ch007.php",
-      "http": "https://online.tm/webtv/"
-   },
-   {
-      "country": "Oʻzbekiston",
-      "name": "Oʻzbekiston",
-      "logo": "Ozbekiston",
-      "link": "https://www.mtrk.uz/uz/tv/ozbekiston/",
-      "http": "https://www.mtrk.uz"
-   },
-   {
-      "country": "Україна",
-      "name": "5",
-      "logo": "ua5",
-      "link": "http://www.5.ua/live/",
-      "http": "http://www.5.ua/"
-   },
-   {
-      "country": "Україна",
-      "name": "Еспресо TV",
-      "logo": "espreso",
-      "link": "http://espreso.tv/stream/",
-      "http": "http://espreso.tv/"
-   },
-   {
-      "country": "Україна",
-      "name": "Громадське",
-      "logo": "gromadske",
-      "link": "http://hromadske.ua/stream",
-      "http": "http://hromadske.ua"
-   },
-   {
-      "country": "Україна",
-      "name": "UBR",
-      "logo": "ubr",
-      "link": "http://tv.ubr.ua/",
-      "http": "http://ubr.ua/"
-   },
-   {
-      "country": "Україна",
-      "name": "UA: ПЕРШИЙ",
-      "logo": "ua1",
-      "link": "https://tv.suspilne.media/live",
-      "http": "https://tv.suspilne.media"
-   },
-   {
-      "country": "Україна",
-      "name": "100% NEWS",
-      "logo": "100",
-      "link": "http://www.100news.tv/p/blog-page_7972.html",
-      "http": "http://www.100news.tv/"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

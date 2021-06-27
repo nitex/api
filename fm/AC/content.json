@@ -22,15 +22,15 @@
     "adc_show4": "vz17d805713d58402c90",
     "adc_chngAd": "",
     "adType": 1,
-    "uni_id": "41715",
+    "uni_id": "4172767",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
-    "uni_mainb": "uni_mainb",
-    "uni_show1": "uni_show1",
+    "uni_mainb": "testB",
+    "uni_show1": "testB",
     "uni_show2": "",
     "uni_show3": "",
-    "uni_show4": "uni_show1",
-    "uni_chngAd": "uni_chngAd"
+    "uni_show4": "testB",
+    "uni_chngAd": ""
   },
   "huawFM":{
       "changeCountry": false,
@@ -44,16 +44,14 @@
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "show1":"",
-      "show2":"",
-      "show3":"",
-      "show4":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
   "Content": [
       {
          "name": "Pulsar 94.8 FM Ouaga",

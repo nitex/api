@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,156 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "Sun",
-      "logo": "Sun",
-      "link": "http://stream.sun.mv/livestream",
-      "http": "http://stream.sun.mv"
-   },
-   {
-      "name": "Maldives",
-      "logo": "Maldives",
-      "link": "https://maldivestv.mv/",
-      "http": "https://maldivestv.mv/"
-   },
-   {
-      "name": "VNews",
-      "logo": "VNews",
-      "link": "http://www.vnews.mv/vtv/",
-      "http": "http://www.vnews.mv"
-   },
-   {
-      "name": "Rupavahini",
-      "logo": "Rupavahini",
-      "link": "http://www.rupavahini.lk/index.php?option=com_content&view=article&id=2958&Itemid=209",
-      "http": "http://www.rupavahini.lk"
-   },
-   {
-      "name": "ITN",
-      "logo": "ITN",
-      "link": "http://www.itntv.lk/",
-      "http": "http://www.itntv.lk/"
-   },
-   {
-      "name": "Vasantham",
-      "logo": "Vasantham",
-      "link": "http://www.vasantham.lk/",
-      "http": "http://www.vasantham.lk/"
-   },
-   {
-      "name": "Swarnavahini",
-      "logo": "Swarnavahini",
-      "link": "https://www.youtube.com/channel/UCAH7R88V7gz7RqJv78nNOzg/videos?view=2&live_view=501&flow=grid",
-      "http": "https://www.youtube.com/channel/UCAH7R88V7gz7RqJv78nNOzg"
-   },
-   {
-      "name": "1",
-      "logo": "1",
-      "link": "http://tv1.lk/watch-live/",
-      "http": "https://www.youtube.com/channel/UCoQXpCWew0Q3qz6buZYOAFg/videos?flow=grid&live_view=501&view=2"
-   },
-   {
-      "name": "Hiru",
-      "logo": "Hiru",
-      "link": "http://www.hirutv.lk/hirulive.php",
-      "http": "http://www.hirutv.lk/hiruyoutubelive.php"
-   },
-   {
-      "name": "Athavan",
-      "logo": "Athavan",
-      "link": "http://athavantv.com/",
-      "http": "http://athavannews.com/"
-   },
-   {
-      "name": "Derana",
-      "logo": "Derana",
-      "link": "http://www.derana.lk/live/",
-      "http": "https://www.youtube.com/user/tvderanavideos/videos?view=2&live_view=501&flow=grid"
-   },
-   {
-      "name": "Siyatha",
-      "logo": "Siyatha",
-      "link": "http://siyathatv.lk/live/",
-      "http": "http://siyathatv.lk/live-stream/"
-   },
-   {
-      "name": "Sirasa",
-      "logo": "Sirasa",
-      "link": "http://sirasatv.lk/watch-live/",
-      "http": "http://sirasatv.lk"
-   },
-   {
-      "name": "NewsFirst",
-      "logo": "NewsFirst",
-      "link": "https://www.newsfirst.lk/live/",
-      "http": "https://www.newsfirst.lk"
-   },
-   {
-      "name": "TNL Telshan",
-      "logo": "TNL",
-      "link": "https://tnltvapp.github.io/dvr/",
-      "http": "http://tnltv.lk/"
-   },
-   {
-      "name": "Nethra (Eye)",
-      "logo": "Nethra",
-      "link": "http://www.nethratv.lk/index.php/nethratv-live-webcast",
-      "http": "http://www.nethratv.lk/"
-   },
-   {
-      "name": "Sri",
-      "logo": "Sri",
-      "link": "http://www.sritv.lk/sritvlive.php",
-      "http": "http://www.sritv.lk"
-   },
-   {
-      "name": "Vettri",
-      "logo": "Vettri",
-      "link": "http://www.vettritv.com/",
-      "http": "http://www.vettritv.com/"
-   },
-   {
-      "name": "Kiss",
-      "logo": "Kiss",
-      "link": "http://www.kiss-tv.com/",
-      "http": "http://www.kiss-tv.com/"
-   },
-   {
-      "name": "Real",
-      "logo": "Real",
-      "link": "http://www.realtvlive.com/",
-      "http": "http://www.realtvlive.com/"
-   },
-   {
-      "name": "Learn",
-      "logo": "Learn",
-      "link": "http://learntv.lk/stream1",
-      "http": "http://learntv.lk/stream2"
-   },
-   {
-      "name": "The Buddhist",
-      "logo": "Buddhist",
-      "link": "https://www.youtube.com/channel/UCfQqHQ0uiF7OHo6peS-8Rsw/videos?flow=grid&view=2&live_view=501",
-      "http": "https://www.thebuddhist.tv/"
-   },
-   {
-      "name": "Shraddha",
-      "logo": "Shraddha",
-      "link": "https://www.shraddha.lk/tv/",
-      "http": "https://www.youtube.com/user/ShraddhaTV/videos?flow=grid&view=2&live_view=501"
-   },
-   {
-      "name": "Verbum",
-      "logo": "Verbum",
-      "link": "http://www.verbumtv.com/live.html",
-      "http": "http://www.verbumtv.com"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

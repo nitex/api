@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,96 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "People s Television",
-      "logo": "PTV",
-      "link": "http://corporate.ptv.ph/ptvlivestream",
-      "http": "https://www.youtube.com/user/PTVPhilippines/videos?flow=grid&live_view=501&sort=dd&view=2"
-   },
-   {
-      "name": "NET25",
-      "logo": "NET25",
-      "link": "http://www.eaglebroadcasting.net/net25tv/",
-      "http": "http://www.eaglenews.ph/net25online/"
-   },
-   {
-      "name": "CNN Philippines",
-      "logo": "CNN",
-      "link": "http://cnnphilippines.com/videos/",
-      "http": "http://cnnphilippines.com"
-   },
-   {
-      "name": "UNTV",
-      "logo": "UNTV",
-      "link": "https://www.untvweb.com/live-stream/",
-      "http": "https://www.untvweb.com"
-   },
-   {
-      "name": "TV5",
-      "logo": "TV5",
-      "link": "http://news.tv5.com.ph/",
-      "http": "http://www.tv5.com.ph/"
-   },
-   {
-      "name": "Maria",
-      "logo": "Maria",
-      "link": "http://tvmaria.ph/watch-2/",
-      "http": "http://tvmaria.ph/index.php/watch-2/"
-   },
-   {
-      "name": "INC",
-      "logo": "INC",
-      "link": "http://iglesianicristo.net/inctv/",
-      "http": "http://incmedia.org/live-stream/"
-   },
-   {
-      "name": "SMNI",
-      "logo": "SMNI",
-      "link": "http://smni.com/",
-      "http": "http://smni.com/"
-   },
-   {
-      "name": "Sonshine",
-      "logo": "Sonshine",
-      "link": "http://www.sonshinetvradyo.com/",
-      "http": "http://www.sonshinetvradyo.com/"
-   },
-   {
-      "name": "CCTN 47",
-      "logo": "CCTN",
-      "link": "http://cctn47.com/cctn/?page_id=2",
-      "http": "http://www.ustream.tv/channel/cctn47"
-   },
-   {
-      "name": "Old Path",
-      "logo": "Path",
-      "link": "https://www.theoldpath.tv/",
-      "http": "https://www.theoldpath.tv/"
-   },
-   {
-      "name": "Ang Dating Daan",
-      "logo": "Ang",
-      "link": "http://angdatingdaan.org/",
-      "http": "http://angdatingdaan.org/"
-   },
-   {
-      "name": "CLTV 36",
-      "logo": "CLTV",
-      "link": "http://www.cltv36.tv/livestreaming.php",
-      "http": "http://www.cltv36.tv/#livestream"
-   },
-   {
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
       "name": "Bloomberg Asia",
-      "logo": "bloomberg",
-      "link": "https://www.bloomberg.com/live/asia",
-      "http": "https://www.bloomberg.com/live/asia_stream"
-   }
-]
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

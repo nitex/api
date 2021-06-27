@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,210 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "KTK",
-      "logo": "ktk",
-      "link": "http://www.ktk.kz/ru/live",
-      "http": "http://www.ktk.kz/"
-   },
-   {
-      "name": "Первый в Казахстане",
-      "logo": "1",
-      "link": "https://1tv.kz/1tv-live/",
-      "http": "https://www.youtube.com/channel/UClnTdCChBo5ocDX70Lh--uQ/videos?view=2&live_view=501"
-   },
-   {
-      "name": "Астана TV",
-      "logo": "astana",
-      "link": "https://astanatv.kz/ru/live",
-      "http": "https://astanatv.kz"
-   },
-   {
-      "name": "Qazaqstan (Қазақстан)",
-      "logo": "kaztrk",
-      "link": "https://qazaqstan.tv/live",
-      "http": "https://qazaqstan.tv"
-   },
-   {
-      "name": "QAZSPORT (Қазспорт)",
-      "logo": "kazsport",
-      "link": "https://qazsporttv.kz/kz/live",
-      "http": "https://qazsporttv.kz"
-   },
-   {
-      "name": "Балапан",
-      "logo": "balapan",
-      "link": "https://balapan.tv/live",
-      "http": "https://balapan.tv"
-   },
-   {
-      "name": "7 Channel",
-      "logo": "7",
-      "link": "http://tv7.kz/kz/online/",
-      "http": "http://tv7.kz/"
-   },
-   {
-      "name": "Новое телевидение",
-      "logo": "novoe",
-      "link": "http://novoetv.kz/smotret-onlajn/",
-      "http": "http://novoetv.kz/"
-   },
-   {
-      "name": "МТРК",
-      "logo": "mtrk",
-      "link": "https://mtrk.kz/ru/on-air-online/",
-      "http": "https://mtrk.kz"
-   },
-   {
-      "name": "Gakku",
-      "logo": "gakku",
-      "link": "https://gakku.kz/ru/tv",
-      "http": "https://gakku.kz"
-   },
-   {
-      "name": "Hit TV",
-      "logo": "hittv",
-      "link": "http://hittv.kz/pryamoj-efir.html",
-      "http": "http://hittv.kz/"
-   },
-   {
-      "name": "ТУРАН",
-      "logo": "turantv",
-      "link": "https://turantv.kz/live.html",
-      "http": "https://turantv.kz"
-   },
-   {
-      "name": "Asyl Arna (Асыл арна)",
-      "logo": "asylarna",
-      "link": "http://www.asylarna.kz/online",
-      "http": "http://www.asylarna.kz/"
-   },
-   {
-      "name": "Қазақстан Ақтау",
-      "logo": "kaztrk1",
-      "link": "http://mangystautv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Ақтөбе",
-      "logo": "kaztrk2",
-      "link": "http://aktobetv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Алматы",
-      "logo": "kaztrk3",
-      "link": "http://almatytrk.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Атырау",
-      "logo": "kaztrk4",
-      "link": "http://atyrautv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Қарағанды",
-      "logo": "kaztrk5",
-      "link": "http://kartv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Көкшетау",
-      "logo": "kaztrk6",
-      "link": "http://kokshetautv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Қостанай",
-      "logo": "kaztrk7",
-      "link": "http://kostanaytv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Қызылорда",
-      "logo": "kaztrk8",
-      "link": "http://kyzylordatv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Орал",
-      "logo": "kaztrk9",
-      "link": "http://oraltv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Өскемен",
-      "logo": "kaztrk10",
-      "link": "http://oskementv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Павлодар",
-      "logo": "kaztrk11",
-      "link": "http://pavlodartv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Петропавл",
-      "logo": "kaztrk12",
-      "link": "http://petropavltv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Семей",
-      "logo": "kaztrk13",
-      "link": "http://semeytv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Шымкент",
-      "logo": "kaztrk14",
-      "link": "http://shymkenttv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Қазақстан Тараз",
-      "logo": "kaztrk15",
-      "link": "http://taraztv.kz/kz/online",
-      "http": "https://kaztrk.kz/kz"
-   },
-   {
-      "name": "Алматы",
-      "logo": "Almaty",
-      "link": "https://almaty.tv/broadcasting",
-      "http": "https://almaty.tv"
-   },
-   {
-      "name": "НТК - Независимый Телевизионный Канал",
-      "logo": "HTK",
-      "link": "http://www.ntk.kz/ru/live/",
-      "http": "http://www.ntk.kz"
-   },
-   {
-      "name": "Рика",
-      "logo": "Rika",
-      "link": "http://www.rikatv.kz/onlayn-tv/",
-      "http": "http://www.rikatv.kz"
-   },
-   {
-      "name": "Muzzone",
-      "logo": "Muzzone",
-      "link": "https://muzzone.tv/",
-      "http": "https://player-muzzone.daitsuna.net/player"
-   },
-   {
-      "name": "Atameken Business",
-      "logo": "Atameken",
-      "link": "https://inbusiness.kz/ru/tv",
-      "http": "https://inbusiness.kz"
-   }
-]
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

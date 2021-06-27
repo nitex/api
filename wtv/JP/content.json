@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,78 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "NHK",
-      "logo": "NHK",
-      "link": "https://www3.nhk.or.jp/nhkworld/en/live/",
-      "http": "https://www3.nhk.or.jp/nhkworld/en/tv/"
-   },
-   {
-      "name": "SOLiVE24",
-      "logo": "24",
-      "link": "http://weathernews.jp/solive24/",
-      "http": "https://www.youtube.com/user/weathernews"
-   },
-   {
-      "name": "Nikkei",
-      "logo": "Nikkei1",
-      "link": "http://channel.nikkei.co.jp/",
-      "http": "http://www.ustream.tv/channel/nikkei-channel-business"
-   },
-   {
-      "name": "Nikkei Shimbun",
-      "logo": "Nikkei2",
-      "link": "http://www.nikkei.com/video/",
-      "http": "http://www.nikkei.com/"
-   },
-   {
-      "name": "FNN",
-      "logo": "FNN",
-      "link": "http://www.fnn-news.com/news/videolist/index.html",
-      "http": "http://www.fnn-news.com/"
-   },
-   {
-      "name": "Channel JAPAN",
-      "logo": "japan",
-      "link": "http://www.ustream.tv/channel/channeljapan",
-      "http": "http://www.ch-japan.com/"
-   },
-   {
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
       "name": "Bloomberg Asia",
-      "logo": "bloomberg",
-      "link": "https://www.bloomberg.com/live/asia",
-      "http": "https://www.bloomberg.com/live/asia_stream"
-   },
-   {
-      "name": "Shop Channel",
-      "logo": "Shop",
-      "link": "http://www.shopch.jp/RealTimeTVHDShow.do",
-      "http": "http://www.shopch.jp/RealTimeTVPopShow.do?il=header&ic=live"
-   },
-   {
-      "name": "Japanet DX",
-      "logo": "japanet",
-      "link": "http://www.japanet.co.jp/shopping/",
-      "http": "http://www.japanet.co.jp/shopping/dx/"
-   },
-   {
-      "name": "QVC",
-      "logo": "QVC",
-      "link": "http://qvc.jp/cont/live/Main?",
-      "http": "https://www.youtube.com/user/QVCJapan/videos?view=2&flow=grid"
-   },
-   {
-      "name": "GSTV",
-      "logo": "GSTV",
-      "link": "https://www.gstv.jp/live_tv.html",
-      "http": "https://www.gstv.jp/"
-   }
-]
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News",
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }

@@ -1,7 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": false,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -11,15 +12,16 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
    "huawTV":{
       "changeCountry": false,
-      "ownVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
@@ -29,306 +31,48 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "chngAd":""
-   },
-  "Content": [
-   {
-      "name": "RTS Info",
-      "logo": "RTS",
-      "link": "https://www.rts.ch/play/tv/rts-info/video/la-chane-dinformation-rts-info-en-continu?id=1967124",
-      "http": "http://www.rts.ch/"
-   },
-   {
-      "name": "RTS Un",
-      "logo": "Un",
-      "link": "http://www.rts.ch/play/tv/direct#?tvLiveId=3608506",
-      "http": "http://www.rts.ch/"
-   },
-   {
-      "name": "RTS Deux",
-      "logo": "Deux",
-      "link": "http://www.rts.ch/play/tv/direct#?tvLiveId=3608517",
-      "http": "http://www.rts.ch/"
-   },
-   {
-      "name": "TeleZüri",
-      "logo": "TeleZuri",
-      "link": "http://www.telezueri.ch/live",
-      "http": "http://www.telezueri.ch/"
-   },
-   {
-      "name": "Canal 9",
-      "logo": "9",
-      "link": "http://canal9.ch/direct/",
-      "http": "http://canal9.ch/"
-   },
-   {
-      "name": "TeleBielingue",
-      "logo": "TeleBielingue",
-      "link": "http://livevideo.infomaniak.com/iframe.php?stream=telebielinguech&name=tbplayer&player=1020",
-      "http": "http://www.telebielingue.ch/de"
-   },
-   {
-      "name": "Tele 1",
-      "logo": "Tele1",
-      "link": "http://www.tele1.ch/",
-      "http": "https://www.youtube.com/user/Tele1AG/videos?view=2&flow=grid&live_view=501"
-   },
-   {
-      "name": "TVO - Das Ostschweizer Fernsehen",
-      "logo": "TVO",
-      "link": "http://www.tvo-online.ch/?playlist=livestream",
-      "http": "http://www.tvo-online.ch/"
-   },
-   {
-      "name": "Schweiz 5",
-      "logo": "5",
-      "link": "http://www.schweiz5.ch/v2/?page_id=52",
-      "http": "http://www.schweiz5.ch/"
-   },
-   {
-      "name": "TeleBärn",
-      "logo": "TeleBarn",
-      "link": "http://www.telebaern.tv/live",
-      "http": "http://www.telebaern.tv"
-   },
-   {
-      "name": "La Télé",
-      "logo": "La",
-      "link": "http://www.latele.ch/live",
-      "http": "http://www.latele.ch/"
-   },
-   {
-      "name": "TVM3",
-      "logo": "3",
-      "link": "http://www.tvm3.tv/",
-      "http": "http://livevideo.infomaniak.com/iframe.php?stream=tvm3&name=html5&player=922"
-   },
-   {
-      "name": "Telebasel",
-      "logo": "Telebasel",
-      "link": "https://telebasel.ch/live/",
-      "http": "https://telebasel.ch/live/?utm_source=live&utm_medium=button&utm_campaign=Live%20Button"
-   },
-   {
-      "name": "TeleTicino",
-      "logo": "TeleTicino",
-      "link": "http://www.teleticino.ch/",
-      "http": "http://www.teleticino.ch/palinsesto.php"
-   },
-   {
-      "name": "SRF 1",
-      "logo": "1",
-      "link": "http://www.srf.ch/livestream/player/srf-1",
-      "http": "http://www.rtr.ch/play/tv/live"
-   },
-   {
-      "name": "SRF Zwei",
-      "logo": "2",
-      "link": "http://www.srf.ch/livestream/player/srf-2",
-      "http": "http://www.srf.ch/play/tv/live#?tvLiveId=c49c1d64-9f60-0001-1c36-43c288c01a10"
-   },
-   {
-      "name": "SRF Info",
-      "logo": "SRF",
-      "link": "http://www.srf.ch/livestream/player/srf-info",
-      "http": "http://www.srf.ch/play/tv/live"
-   },
-   {
-      "name": "RSI LA 1",
-      "logo": "RSI1",
-      "link": "https://www.rsi.ch/play/tv/live#?tvLiveId=livestream_La1",
-      "http": "https://www.rsi.ch/play/tv/live"
-   },
-   {
-      "name": "RSI LA 2",
-      "logo": "RSI2",
-      "link": "https://www.rsi.ch/play/tv/live#?tvLiveId=livestream_La2",
-      "http": "https://www.rsi.ch/play/tv/live"
-   },
-   {
-      "name": "Rouge TV",
-      "logo": "Rouge",
-      "link": "http://www.rouge.com/rouge-tv-live",
-      "http": "http://www.rouge.com/rouge-tv-live"
-   },
-   {
-      "name": "Rouge Pop Rock",
-      "logo": "Rouge1",
-      "link": "http://www.rougefm.com/webtvs.php?tv=rock",
-      "http": "http://www.rouge.com/rouge-tv-live"
-   },
-   {
-      "name": "Rouge Electro",
-      "logo": "Rouge2",
-      "link": "http://www.rougefm.com/webtvs.php?tv=electro",
-      "http": "http://www.rouge.com/rouge-tv-live"
-   },
-   {
-      "name": "Rouge Hip Hop & RnB",
-      "logo": "Rouge3",
-      "link": "http://www.rougefm.com/webtvs.php?tv=hiphop",
-      "http": "http://www.rouge.com/rouge-tv-live"
-   },
-   {
-      "name": "Rouge Latino",
-      "logo": "Rouge4",
-      "link": "http://www.rougefm.com/webtvs.php?tv=latino",
-      "http": "http://www.rouge.com/rouge-tv-live"
-   },
-   {
-      "name": "One",
-      "logo": "One",
-      "link": "https://www.onefm.ch/direct/",
-      "http": "https://www.onefm.ch"
-   },
-   {
-      "name": "LFM",
-      "logo": "LFM",
-      "link": "https://www.lfmtv.ch/",
-      "http": "https://www.lfmtv.ch/"
-   },
-   {
-      "name": "TELE TOP",
-      "logo": "Top",
-      "link": "https://www.toponline.ch/index.php?id=1051",
-      "http": "https://www.toponline.ch"
-   },
-   {
-      "name": "Bloomberg TV Europe",
-      "logo": "bloomberg",
-      "link": "https://www.bloomberg.com/live/europe",
-      "http": "https://www.bloomberg.com/live/us"
-   },
-   {
-      "name": "Euronews",
-      "logo": "Euronews",
-      "link": "http://de.euronews.com/live",
-      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
-   },
-   {
-      "name": "EbS Europe by Satellite",
-      "logo": "EbS",
-      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
-      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
-   },
-   {
-      "name": "Leman Bleu",
-      "logo": "Leman",
-      "link": "http://www.lemanbleu.ch/fr/Live.html#wrapper",
-      "http": "http://www.lemanbleu.ch/"
-   },
-   {
-      "name": "Dieu",
-      "logo": "Dieu",
-      "link": "http://www.dieutv.com/",
-      "http": "http://www.dieutv.com/"
-   },
-   {
-      "name": "K-TV",
-      "logo": "K-TV",
-      "link": "http://www3.k-tv.org/live-stream/hohe-qualit%C3%A4t",
-      "http": "http://www3.k-tv.org/live-stream"
-   },
-   {
-      "name": "ERF",
-      "logo": "ERF",
-      "link": "https://www.erf.de/fernsehen/livestream/4072?reset=1",
-      "http": "https://www.erf.de/fernsehen/4049"
-   },
-   {
-      "name": "Hope",
-      "logo": "Hope",
-      "link": "http://www.hopechannel.de/tv/live/",
-      "http": "http://www.hopechannel.de/"
-   },
-   {
-      "name": "EWTN",
-      "logo": "EWTN",
-      "link": "http://www.ewtn.de/streaming/player.php",
-      "http": "http://www.ewtn.de/"
-   },
-   {
-      "name": "Bibel",
-      "logo": "Bibel1",
-      "link": "http://www.bibeltv.de/livestreams/bibeltv/",
-      "http": "http://www.bibeltv.de/"
-   },
-   {
-      "name": "MTA",
-      "logo": "MTA",
-      "link": "http://www.mta.tv/live",
-      "http": "https://www.youtube.com/user/mtaOnline1/videos?view=2&live_view=501&flow=grid"
-   },
-   {
-      "name": "Wesal Wiv",
-      "logo": "Wiv",
-      "link": "http://www.wiv-online.tv/",
-      "http": "http://www.wiv-online.tv/"
-   },
-   {
-      "name": "3sat",
-      "logo": "sat",
-      "link": "http://www.3sat.de/webtv/?live24.rm",
-      "http": "http://www.3sat.de/mediathek/?mode=play&obj=42667"
-   },
-   {
-      "name": "ZDF",
-      "logo": "ZDF",
-      "link": "https://www.zdf.de/live-tv",
-      "http": "https://www.zdf.de/"
-   },
-   {
-      "name": "Tagesschau",
-      "logo": "Tagesschau",
-      "link": "http://www.tagesschau.de/multimedia/livestreams/livestream1/index.html",
-      "http": "http://programm.tagesschau24.de/"
-   },
-   {
-      "name": "Das Erste",
-      "logo": "Erste",
-      "link": "http://www.daserste.de/live/index.html",
-      "http": "http://www.daserste.de/"
-   },
-   {
-      "name": "Deutsche Welle",
-      "logo": "DW1",
-      "link": "http://www.dw.com/en/media-center/live-tv/s-100825?channel=5",
-      "http": "http://www.dw.com/en/media-center/live-tv/s-100825?channel=4"
-   },
-   {
-      "name": "Der Spiegel",
-      "logo": "Spiegel",
-      "link": "http://www.spiegel.tv/filme/chance-oder-scheitern/",
-      "http": "http://www.spiegel.de/"
-   },
-   {
-      "name": "Canal+",
-      "logo": "Canal+",
-      "link": "http://www.canalplus.fr/pid3580-live-tv-clair.html",
-      "http": "http://www.canalplus.fr/"
-   },
-   {
-      "name": "RMC",
-      "logo": "RMC",
-      "link": "http://rmc.bfmtv.com/mediaplayer/live-audio/",
-      "http": "http://rmcdecouverte.bfmtv.com/mediaplayer-direct/"
-   },
-   {
-      "name": "iTELE",
-      "logo": "iTELE",
-      "link": "http://www.dailymotion.com/ITELE",
-      "http": "http://www.itele.fr/direct"
-   },
-   {
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
+   "Content": [
+    {
+      "name": "Al Jazeera",
+      "logo": "_000001",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Jazeera English",
+      "logo": "_000002",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "euronews",
+      "logo": "_000003",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Bloomberg Asia",
+      "logo": "_000004",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "http": ""
+    },
+    {
       "name": "Sky News",
-      "logo": "Sky",
-      "link": "https://news.sky.com/watch-live",
-      "http": "https://www.youtube.com/user/skynews"
-   }
-]
+      "logo": "_000005",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Sky News Arabic",
+      "logo": "_000006",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "http": ""
+    }
+  ]
 }
