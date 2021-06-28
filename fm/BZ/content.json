@@ -26,70 +26,154 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104422675",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104422675",
       "other":"",
       "bonus":"",
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4193735",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb",
     "uni_show1": "uni_show1",
     "uni_show4": "uni_show4"
   },
-   "Content":[
+  "Content": [
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "BFBS 1",
+         "logo": "1",
+         "link": "http://direct.sharp-stream.com/ssvcbfbs1.mp3.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "BFBS 2",
+         "logo": "2",
+         "link": "http://direct.sharp-stream.com/ssvcbfbs2.mp3.m3u",
+         "http": "",
+         "note": "News"
+      },
       {
          "name": "Belizemix",
          "logo": "Belizemix",
-         "link": "http://media-ice.musicradio.com/LBCLondonMP3Low.m3u",
-         "http": "",
+         "link": "http://cp7.serverse.com:2199/tunein/sc1_us20.pls",
+         "http": "http://192.99.2.151:8040/;",
          "note": ""
       },
       {
          "name": "Catolica El Sembrador",
          "logo": "Catolica",
-         "link": "http://93.123.123.7:8000/listen.pls",
-         "http": "",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8002/listen.pls?sid=1&t=.m3u",
          "note": "Talk"
       },
       {
          "name": "EL LOBO 106.1 FM",
          "logo": "LOBO",
-         "link": "http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
-         "http": "",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.29.178:9386/listen.pls?sid=1&t=.pls",
+         "http": "http://50.7.29.178:9386/;",
          "note": ""
       },
       {
          "name": "Horizon Radio",
          "logo": "Horizon",
-         "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
-         "http": "",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.185.82:8075/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://149.56.185.82:8075/listen.pls&t=.m3u",
          "note": "Talk"
       },
       {
          "name": "KREM 96.5 FM",
          "logo": "KREM",
-         "link": "http://media-ice.musicradio.com/SmoothLondonMP3.m3u",
+         "link": "http://159.65.32.199:8016/listen.pls",
          "http": "",
          "note": "News, Talk, Top"
       },
-    {
+      {
+         "name": "La Mejor FM 103.7",
+         "logo": "Mejor",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://38.96.148.134:9000/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Love FM",
+         "logo": "Love",
+         "link": "http://37.59.37.6:14730/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
          "name": "Milenio Bella Musica 105.1 FM",
          "logo": "Milenio",
-         "link": "https://59d52c5a5ce5e.streamlock.net:4443/radio/radiosur.stream/playlist.m3u8",
-         "http": "",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8018/listen.pls?sid=1&t=.m3u",
          "note": "Music"
       },
       {
          "name": "Mood FM 106.3",
          "logo": "Mood",
-         "link": "http://media-ice.musicradio.com/RadioXLondonMP3.m3u",
+         "link": "http://usa7-vn.mixstream.net:8016/listen.pls",
          "http": "",
          "note": "Oldies Music"
+      },
+      {
+         "name": "Mujer 92.7 FM",
+         "logo": "Mujer",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8000/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8000/listen.pls?sid=1&t=.m3u",
+         "note": "Talk"
+      },
+      {
+         "name": "Power FM 95.5",
+         "logo": "Power",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.162.241:8048/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://144.217.162.241:8048/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Pulse Radio",
+         "logo": "Pulse",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.59.28.208:8176/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://37.59.28.208:8176/listen.pls?sid=1&t=.m3u",
+         "note": "Top"
+      },
+      {
+         "name": "Tu Musica FM",
+         "logo": "Tu",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.254.193.215:8007/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://192.254.193.215:8007/listen.pls?sid=1&t=.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Turquesa 91.5 FM",
+         "logo": "Turquesa",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.45.106:8050/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://184.154.45.106:8050/listen.pls&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Vibes",
+         "logo": "Vibes",
+         "link": "http://159.65.32.199:8040/listen.pls",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ZONA 3",
+         "logo": "3",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8006/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://radio.promosat.com:8006/listen.pls&t=.m3u",
+         "note": "Talk"
       }
    ]
 }

@@ -5,8 +5,8 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "share":"http://www.amazon.com/gp/mas/dl/android?asin=B09778M13Y",
+      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=B09778M13Y",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
       "bonus":"",
       "showMode": true,
@@ -26,70 +26,301 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104462657",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104462657",
       "other":"",
       "bonus":"",
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4193753",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb",
     "uni_show1": "uni_show1",
     "uni_show4": "uni_show4"
   },
-   "Content":[
-      {
-         "name": "aplus",
-         "logo": "aplus",
-         "link": "http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps",
-         "http": "",
-         "note": "Music"
-      },
-      {
-         "name": "Авторадио 98.0 FM",
-         "logo": "Avto",
-         "link": "http://ic7.101.ru:8000/a100.m3u",
-         "http": "",
-         "note": "Music"
-      },
-      {
-         "name": "Альфа",
-         "logo": "Alpha",
-         "link": "https://bfm.hostingradio.ru:9075/fm",
-         "http": "",
-         "note": "News, Music"
-      },
-      {
-         "name": "Барановичи",
-         "logo": "Baranovichi",
-         "link": "http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3.m3u",
-         "http": "",
-         "note": "Top"
-      },
-      {
-         "name": "Би-Эй (BA)",
-         "logo": "BA",
-         "link": "http://ic6.101.ru:8000/a102.m3u",
-         "http": "",
-         "note": "Top Music"
-      },
-      {
-         "name": "Брест 104.8 FM",
-         "logo": "Brest",
-         "link": "https://icecast-echomsksni.cdnvideo.ru/stream2",
-         "http": "",
-         "note": "News, Top"
-      },
-      {
-         "name": "Витебск 91.2 FM",
-         "logo": "Vitebsk",
-         "link": "http://nashe3.hostingradio.ru/jazz-128.mp3.m3u",
-         "http": "",
-         "note": "News, Top Music (Local)"
-      }
+  "Content": [
+    {
+      "name": "aplus",
+      "logo": "aplus",
+      "link": "http://www.surfmusic.de/m3u/radio-aplus-hip-hop,16407.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Авторадио 98.0 FM",
+      "logo": "Avto",
+      "link": "http://live.humorfm.by:8000/avtoradio.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Альфа",
+      "logo": "Alpha",
+      "link": "http://live.alpha.by:7000/alpha.m3u",
+      "http": "",
+      "note": "News, Music"
+    },
+    {
+      "name": "Барановичи",
+      "logo": "Baranovichi",
+      "link": "http://radio.100fm.by:8000/100fm.m3u",
+      "http": "",
+      "note": "Top"
+    },
+    {
+      "name": "Би-Эй (BA)",
+      "logo": "BA",
+      "link": "http://93.125.106.180:8000/BA128.m3u",
+      "http": "http://87.252.252.78:8000/BA.m3u",
+      "note": "Top Music"
+    },
+    {
+      "name": "Брест 104.8 FM",
+      "logo": "Brest",
+      "link": "http://93.84.112.253:8039/live.m3u",
+      "http": "http://93.84.112.253:8039/stream.m3u",
+      "note": "News, Top"
+    },
+    {
+      "name": "Витебск 91.2 FM",
+      "logo": "Vitebsk",
+      "link": "http://radio.vtv.by:8000/radio_vitebsk_128.m3u",
+      "http": "",
+      "note": "News, Top Music (Local)"
+    },
+    {
+      "name": "Душевное",
+      "logo": "Dushevnoe",
+      "link": "http://stream.hoster.by:8081/pilotfm/audio/icecast.audio",
+      "http": "http://imgradio.pro/DushevnoeRadio48.m3u",
+      "note": "Oldies Music"
+    },
+    {
+      "name": "Energy 100.4 FM",
+      "logo": "Energy",
+      "link": "http://87.252.227.241:8888/energyfm.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "Гомель 107.4",
+      "logo": "107",
+      "link": "http://skycast.su:2007/998.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Гомель FM",
+      "logo": "Gomel",
+      "link": "http://s1.radioheart.ru:8001/radiogomelfm.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "Гомель Плюс 103.7 FM",
+      "logo": "103",
+      "link": "http://s1.radioheart.ru:8001/radiogomel.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "Гомельское городское 107.4 FM",
+      "logo": "Gomelskoe",
+      "link": "http://31.130.206.32:2015/gomelradio.m3u",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Гродно",
+      "logo": "Grodno",
+      "link": "http://178.124.203.233:8000/live.m3u",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Культура",
+      "logo": "Kultura",
+      "link": "http://stream.hoster.by/tvrbyradio/cultura/icecast.audio",
+      "http": "",
+      "note": "Talk, Music"
+    },
+    {
+      "name": "Легенды 94.1 FM",
+      "logo": "Legendy",
+      "link": "http://live.legendy.by:8000/legendyfm.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Лидер FM",
+      "logo": "Lider",
+      "link": "http://lider-fm.by:8000/radio.m3u",
+      "http": "",
+      "note": "News (Lida, Local)"
+    },
+    {
+      "name": "MFM 105.0",
+      "logo": "MFM",
+      "link": "http://radio.105fm.by:8005/gpradio.m3u",
+      "http": "http://105fm.by/mfm.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "Мелодии века 96.2 FM",
+      "logo": "Melodii",
+      "link": "http://93.84.112.253:8010/MV128.m3u",
+      "http": "http://87.252.252.78:8000/MV.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "Минск",
+      "logo": "Minsk",
+      "link": "http://93.84.113.142:8000/radio.m3u",
+      "http": "",
+      "note": "News, Music"
+    },
+    {
+      "name": "Минская волна",
+      "logo": "MV",
+      "link": "http://stream.mvolna.by:8000/mvolna.m3u",
+      "http": "http://radio.adsl.by:8000/mvolna.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "Могилёв",
+      "logo": "Mogilev",
+      "link": "https://stream.hoster.by/tvrmogilev/radiomogilev/icecast.audio",
+      "http": "",
+      "note": ""
+    },
+    {
+      "name": "Народное",
+      "logo": "Narodnoe",
+      "link": "http://live.novoeradio.by:8000/narodnoe-radio-128k.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Новое Радио",
+      "logo": "Novoe",
+      "link": "http://www.live.bn.by:8000/novoeradio_128.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "Першы нацыянальны",
+      "logo": "1",
+      "link": "http://stream.hoster.by/tvrbyradio/radio1/icecast.audio",
+      "http": "http://www.surfmusic.de/m3u/radio-1,855.m3u",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Пилот-FM",
+      "logo": "Pilot",
+      "link": "http://stream.hoster.by:8081/pilotfm/pilot/icecast.audio",
+      "http": "http://www.surfmusic.de/m3u/pilot-fm-101-2,18175.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "Правда 99.0 FM",
+      "logo": "Pravda",
+      "link": "http://79.98.49.5:8132/pravda.m3u",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Relax 87.5 FM",
+      "logo": "Relax",
+      "link": "http://live.humorfm.by:8000/relax.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Радио Беларусь",
+      "logo": "Belaru",
+      "link": "http://stream.hoster.by/tvrbyradio/belarusfm/icecast.audio",
+      "http": "",
+      "note": "News"
+    },
+    {
+      "name": "Радиус FM",
+      "logo": "Radius",
+      "link": "http://stream.radiusfm.by/tvrbyradio/radius_main/icecast.audio",
+      "http": "http://www.surfmusic.de/m3u/radius-fm,5871.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "РАНАК",
+      "logo": "Ranak",
+      "link": "http://www.draiv.by:8000/ranak.m3u",
+      "http": "",
+      "note": "Music (Svetlogorsk, Local)"
+    },
+    {
+      "name": "Рокс-М",
+      "logo": "Roks",
+      "link": "http://91.149.157.79:8000/roks.m3u",
+      "http": "http://radio.roks.com:8000/live.m3u",
+      "note": "Music"
+    },
+    {
+      "name": "Русское Радио",
+      "logo": "Russkoe",
+      "link": "http://live.rusradio.by:8000/live.m3u",
+      "http": "",
+      "note": "Pop Music"
+    },
+    {
+      "name": "Свабода",
+      "logo": "Svaboda",
+      "link": "https://stream.radiojar.com/zv9u3eapn3quv",
+      "http": "",
+      "note": "News, Talk"
+    },
+    {
+      "name": "Сталіца",
+      "logo": "Stolica",
+      "link": "http://stream.hoster.by/tvrbyradio/stalica/icecast.audio",
+      "http": "",
+      "note": "News"
+    },
+    {
+      "name": "Хит Радио",
+      "logo": "Hit",
+      "link": "http://www.listenlive.eu/hitradioby.m3u",
+      "http": "",
+      "note": "Top Music"
+    },
+    {
+      "name": "Центр FM",
+      "logo": "Centr",
+      "link": "http://93.125.31.151:8000/ont.m3u",
+      "http": "",
+      "note": "Music"
+    },
+    {
+      "name": "Unistar 99.5 FM",
+      "logo": "Unistar",
+      "link": "http://stream.hoster.by/unistar/unistar-128kb/icecast.audio",
+      "http": "http://unistar.by:8000/unistar-128kb.m3u",
+      "note": "Top"
+    },
+    {
+      "name": "Юмор FM",
+      "logo": "Umor",
+      "link": "http://live.humorfm.by:8000/veseloe.m3u",
+      "http": "http://live.humorfm.by:8000/veseloeradio",
+      "note": "Top"
+    },
+    {
+      "name": "Zефир 95.4 FM",
+      "logo": "Zefir",
+      "link": "http://178.124.152.212:8008/Zefir.m3u",
+      "http": "",
+      "note": "Talk, Music"
+    }
   ]
 }

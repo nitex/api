@@ -26,70 +26,112 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104462713",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104462713",
       "other":"",
       "bonus":"",
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4193763",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb",
     "uni_show1": "uni_show1",
     "uni_show4": "uni_show4"
   },
-   "Content":[
+  "Content": [
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
       {
          "name": "Capital Media HD 99.3 FM",
          "logo": "Capital",
-         "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
+         "link": "http://www.surfmusic.de/m3u/capital-media-hd-99-3-fm,19163.m3u",
          "http": "",
          "note": ""
       },
       {
          "name": "CBC 94.7 FM",
          "logo": "CBC",
-         "link": "http://media-ice.musicradio.com/LBCLondonMP3Low.m3u",
-         "http": "",
+         "link": "http://184.154.57.230:8000/947fm128.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/cbc-94-7-fm,16665.m3u",
          "note": "Oldies, Music"
       },
       {
          "name": "CBC Q 100.7 FM",
          "logo": "Q",
-         "link": "http://media-ice.musicradio.com/SmoothLondonMP3.m3u",
-         "http": "",
+         "link": "http://184.154.57.230:8000/qfm128.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/cbc-q-100-7-fm,16667.m3u",
          "note": "Oldies, Music"
       },
       {
          "name": "CBC The One",
          "logo": "One",
-         "link": "http://media-ice.musicradio.com/RadioXLondonMP3.m3u",
-         "http": "",
+         "link": "http://184.154.57.230:8000/981fm128.mp3.m3u",
+         "http": "http://www.surfmusic.de/m3u/cbc-98-1-the-one,16666.m3u",
          "note": "Top Music"
       },
       {
          "name": "CITA Radio 90.1 FM",
          "logo": "CITA",
-         "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
-         "http": "",
+         "link": "http://192.99.8.192:5016/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/cita-radio-90-1-fm,17033.m3u",
          "note": "Talk"
       },
       {
          "name": "HOTT 95.3 FM",
          "logo": "HOTT",
-         "link": "http://media-ice.musicradio.com/HeartLondonMP3.m3u",
-         "http": "",
+         "link": "http://icy2.wostreaming.net/starcom-hottmp3-32.m3u",
+         "http": "http://www.surfmusic.de/m3u/hott-95-3-fm,13928.m3u",
          "note": "Top Music"
       },
       {
          "name": "Life 97.5 FM",
          "logo": "Life",
-         "link": "http://stream-kiss.planetradio.co.uk/kiss100.mp3",
-         "http": "",
+         "link": "http://icy2.wostreaming.net/starcom-lifemp3-32.m3u",
+         "http": "http://www.surfmusic.de/m3u/life-97-5,13927.m3u",
          "note": "Talk"
+      },
+      {
+         "name": "Mix 96.9 FM",
+         "logo": "Mix",
+         "link": "http://www.surfmusic.de/m3u/mix-96-9-fm,13929.m3u",
+         "http": "",
+         "note": "Oldies, Music"
+      },
+      {
+         "name": "SLAM 101.1 FM",
+         "logo": "SLAM",
+         "link": "http://s2.nexuscast.com:8014/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/slam-101-1-fm,12805.m3u",
+         "note": "Top Music"
+      },
+      {
+         "name": "The Beat 104.1",
+         "logo": "Beat",
+         "link": "http://icy2.wostreaming.net/starcom-lovemp3-32.m3u",
+         "http": "http://www.surfmusic.de/m3u/the-beat-104-1-fm,16668.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Voice of Barbados 92.9 FM",
+         "logo": "Voice",
+         "link": "http://icy2.wostreaming.net/starcom-vobmp3-32.m3u",
+         "http": "http://www.surfmusic.de/m3u/voice-of-barbados-92-9-fm,2209.m3u",
+         "note": "News, Top Music"
+      },
+      {
+         "name": "Y 103.3 FM",
+         "logo": "Y",
+         "link": "http://www.surfmusic.de/m3u/y-103-3-fm,19779.m3u",
+         "http": "",
+         "note": "News, Talk, Oldies, Top Music"
       }
-  ]
+   ]
 }

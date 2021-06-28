@@ -12,88 +12,105 @@
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
-      "id":"appd1b462d7b69e4d3191",
-      "mainAd":"vz609727108ba245e9b9",
-      "rtrnAd":"vz9d7c2e662a814adf8c",
-      "mainb":"vz239357998c48444085",
-      "show1":"vz03cd8d2b94d8495da3",
-      "show2":"",
-      "show3":"",
-      "show4":"vz3cd7760ceb0e40e88d",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "4194069",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
    "huawFM":{
       "changeCountry": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104464889",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104464889",
       "other":"",
       "bonus":"",
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "show1":"",
-      "show2":"",
-      "show3":"",
-      "show4":"",
-      "chngAd":""
-   },
-   "Content":[
+    "adType": 1,
+    "uni_id": "4194073",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
+  "Content": [
       {
          "name": "بحرين إف إم 93.3 - بحرين",
          "logo": "93",
-         "link": "http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
+         "link": "http://185.105.4.106:1935/live/radio-93-3/playlist.m3u8",
          "http": "",
          "note": "News, Talk"
       },
       {
          "name": "الشعبية 95 - بحرين",
          "logo": "95",
-         "link": "https://s3.radio.co/s3a13a855f/listen",
+         "link": "http://185.105.4.106:1935/live/radio-95-0/playlist.m3u8",
          "http": "",
          "note": "News, Talk"
       },
       {
          "name": "الشـبـابـيـة 98.4 - بحرين",
          "logo": "98",
-         "link": "http://176.31.248.14:12238/listen.pls",
+         "link": "http://185.105.4.106:1935/live/radio-98-4/playlist.m3u8",
          "http": "",
          "note": "News, Talk"
       },
       {
          "name": "إذاعة البحرين 102.3 - بحرين",
          "logo": "102",
-         "link": "http://ca10.rcast.net:8026/listen.pls",
+         "link": "http://185.105.4.106:1935/live/radio-102-3/playlist.m3u8",
          "http": "",
          "note": "News, Talk"
       },
       {
          "name": "القرآن الكريم 106.1 - بحرين",
          "logo": "106",
-         "link": "http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
+         "link": "http://185.105.4.106:1935/live/radio-106-1/playlist.m3u8",
          "http": "",
          "note": "News, Talk"
       },
       {
          "name": "Mirchi 104.2 FM",
          "logo": "Mirchi",
-         "link": "http://ca10.rcast.net:8026/listen.pls",
+         "link": "http://162.244.80.118:4055/stream.m3u",
          "http": "",
          "note": "Music"
       },
       {
          "name": "Radio Bahrain 96.5 FM",
          "logo": "96",
+         "link": "http://185.105.4.106:1935/live/radio-96-5/playlist.m3u8",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "BBC World Arabic",
+         "logo": "Arabic",
+         "link": "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-araba.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "راديو سوا الخليج",
+         "logo": "Sawa",
          "link": "http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
          "http": "",
          "note": "News, Talk"
+      },
+      {
+         "name": "Sky News Arabia",
+         "logo": "Sky",
+         "link": "http://radio.skynewsarabia.com/stream/radio/skynewsarabia.m3u",
+         "http": "",
+         "note": "News, Talk"
       }
-  ]
+   ]
 }
