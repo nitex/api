@@ -5,95 +5,147 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "share":"http://www.amazon.com/gp/mas/dl/android?asin=B096KJCGPB",
+      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=B096KJCGPB",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
       "bonus":"",
       "showMode": true,	
       "visualMode":1,	
       "minuteCount":4,
-      "id":"0000000000",
-      "chngAd":"111111",
-      "mainAd":"111111",
-      "rtrnAd":"111111",
-      "mainb":"2222222",
-      "show1":"2222222",
-      "show2":"2222222",
-      "show3":"2222222",
-      "show4":"2222222"
-   },
+    "adType": 1,
+    "uni_id": "4195373",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
    "huawFM":{
       "changeCountry": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104388055",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104388055",
       "other":"",
       "bonus":"",
       "showMode": true,	
       "visualMode":1,	
       "minuteCount":4,
-      "id":"0000000000",
-      "chngAd":"111111",
-      "mainAd":"111111",
-      "rtrnAd":"111111",
-      "mainb":"2222222",
-      "show1":"2222222",
-      "show2":"2222222",
-      "show3":"2222222",
-      "show4":"2222222"
-   },
-   "Content":[
+    "adType": 1,
+    "uni_id": "4195381",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
+  "Content": [
       {
-         "name":"RTVA Nacional d'Andorra",
-         "logo":"Nacional",
-         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
-         "http":"",
-         "note":"News, Talk, Sport"
+         "name": "RTVA Nacional d'Andorra",
+         "logo": "Nacional",
+         "link": "https://videos.rtva.ad/live/rna/playlist.m3u8",
+         "http": "http://www.surfmusic.de/m3u/rna-radio,5994.m3u",
+         "note": "News, Talk, Sport"
       },
       {
-         "name":"RTVA Andorra Música",
-         "logo":"RTVA",
-         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
-         "http":"",
-         "note":"Music"
+         "name": "RTVA Andorra Música",
+         "logo": "RTVA",
+         "link": "https://videos.rtva.ad/live/am/playlist.m3u8",
+         "http": "",
+         "note": "Music"
       },
       {
-         "name":"Valira 93.3 FM",
-         "logo":"Valira",
-         "link":"http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
-         "http":"",
-         "note":""
+         "name": "Valira 93.3 FM",
+         "logo": "Valira",
+         "link": "http://91.187.93.115:8020/listen.pls?sid=1",
+         "http": "",
+         "note": ""
       },
       {
-         "name":"Pròxima FM",
-         "logo":"Proxima",
-         "link":"https://s3.radio.co/s3a13a855f/listen",
-         "http":"",
-         "note":"Music"
+         "name": "Pròxima FM",
+         "logo": "Proxima",
+         "link": "http://91.187.93.115:8000/listen.pls",
+         "http": "",
+         "note": "Music"
       },
       {
-         "name":"SER Principat d'Andorra 102.3 FM",
-         "logo":"SER",
-         "link":"http://live.leanstream.co/CFNYFM-MP3?tunein",
-         "http":"",
-         "note":"News"
+         "name": "SER Principat d'Andorra 102.3 FM",
+         "logo": "SER",
+         "link": "http://playerservices.streamtheworld.com/pls/SER_ANDORRA.pls",
+         "http": "",
+         "note": "News"
       },
       {
-         "name":"Cadena 100 95.0 FM",
-         "logo":"100",
-         "link":"http://93.123.123.7:8000/listen.pls",
-         "http":"",
-         "note":"Music"
+         "name": "Cadena 100 95.0 FM",
+         "logo": "100",
+         "link": "http://cadena100-streamers-mp3.flumotion.com/cope/cadena100.mp3",
+         "http": "http://www.surfmusic.de/m3u/cadena-100-95-0-fm,17589.m3u",
+         "note": "Music"
       },
       {
-         "name":"Seu 107.2 FM",
-         "logo":"Seu",
-         "link":"http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
-         "http":"",
-         "note":"Music"
+         "name": "Seu 107.2 FM",
+         "logo": "Seu",
+         "link": "http://www.surfmusic.de/m3u/radio-seu-107-2-fm,20128.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "RNE Cataluña",
+         "logo": "RNE",
+         "link": "http://rne.rtveradio.cires21.com/rnecat.mp3",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Virgin",
+         "logo": "Virgin",
+         "link": "http://ais-live.cloud-services.paris:8000/virgin.mp3",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "NRJ",
+         "logo": "NRJ",
+         "link": "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=tune-in-radio",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Fun",
+         "logo": "Fun",
+         "link": "http://streaming.radio.funradio.fr/fun-1-44-128.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Nostalgie",
+         "logo": "Nostalgie",
+         "link": "http://185.52.127.160/fr/30601/mp3_128.mp3?origine=tune-in-radio",
+         "http": "",
+         "note": "Oldies Music"
+      },
+      {
+         "name": "BBC World Service",
+         "logo": "BBC",
+         "link": "http://www.bbc.co.uk/worldservice/meta/live/mp3/eneuk.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "RFI",
+         "logo": "RFI",
+         "link": "http://icepe1.infomaniak.ch/rfimonde-96k.mp3.m3u",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Maria",
+         "logo": "Maria",
+         "link": "http://dreamsiteradiocp.com:8024/listen.pls",
+         "http": "",
+         "note": "Talk"
       }
    ]
 }

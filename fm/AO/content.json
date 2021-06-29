@@ -5,95 +5,187 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "share":"http://www.amazon.com/gp/mas/dl/android?asin=B096MJ3J9X",
+      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=B096MJ3J9X",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
       "bonus":"",
       "showMode": true,	
       "visualMode":1,	
       "minuteCount":4,
-      "id":"REPLACE",
-      "chngAd":"",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "show1":"",
-      "show2":"",
-      "show3":"",
-      "show4":""
-   },
+    "adType": 1,
+    "uni_id": "4195341",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
    "huawFM":{
       "changeCountry": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104390927",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104390927",
       "other":"",
       "bonus":"",
       "showMode": true,	
       "visualMode":1,	
       "minuteCount":4,
-      "id":"REPLACE",
-      "chngAd":"",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "show1":"",
-      "show2":"",
-      "show3":"",
-      "show4":""
-   },
-   "Content":[
+    "adType": 1,
+    "uni_id": "4195357",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },"Content": [
       {
          "name": "Benguela",
          "logo": "Benguela",
-         "link": "http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "link": "http://www.surfmusic.de/m3u/radio-benguela,20023.m3u",
          "http": "",
          "note": ""
       },
       {
          "name": "Canal A - Radio National",
          "logo": "Canal",
-         "link": "http://93.123.123.7:8000/listen.pls",
-         "http": "",
+         "link": "http://radios.vpn.sapo.pt/AO/radio3.mp3",
+         "http": "http://www.surfmusic.de/m3u/canal-a-radio-national,15544.m3u",
          "note": "Talk"
       },
       {
          "name": "Cinco 94.5 FM",
          "logo": "Cinco",
-         "link": "http://live.leanstream.co/CFNYFM-MP3?tunein",
-         "http": "",
+         "link": "http://radios.vpn.sapo.pt/AO/radio5.mp3",
+         "http": "http://www.surfmusic.de/m3u/radio-cinco-94-5-fm,18158.m3u",
          "note": "Sport"
       },
       {
          "name": "Cunene 92.2 FM",
          "logo": "Cunene",
-         "link": "http://ca10.rcast.net:8026/listen.pls",
+         "link": "http://www.surfmusic.de/m3u/radio-cunene-92-2-fm,18155.m3u",
          "http": "",
          "note": "Ondjiva (Local)"
       },
       {
          "name": "Ecclesia",
          "logo": "Ecclesia",
-         "link": "http://live.leanstream.co/CFNYFM-MP3?tunein",
-         "http": "",
+         "link": "https://www.radioecclesia.org/jplayer/player.html",
+         "http": "http://radios.vpn.sapo.pt/AO/radio8.mp3",
          "note": ""
       },
       {
          "name": "Escola 88.5 FM",
          "logo": "Escola",
-         "link": "http://93.123.123.7:8000/listen.pls",
+         "link": "http://radios.vpn.sapo.pt/AO/radio1.mp3",
          "http": "",
          "note": "Music"
       },
       {
          "name": "Huila 96.6 FM",
          "logo": "Huila",
-         "link": "http://stream.it-solutions.ge:8000/mp3-starfm.m3u",
+         "link": "http://www.surfmusic.de/m3u/radio-huila-96-6-fm,18159.m3u",
          "http": "",
          "note": "Lubango (Local)"
+      },
+      {
+         "name": "Kairós 98.4 FM",
+         "logo": "Kairos",
+         "link": "http://radios.vpn.sapo.pt/AO/radio9.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Kuia Bue FM",
+         "logo": "Kuia",
+         "link": "http://app.kshost.com.br/player/9126/winamp.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-kuia-bue-fm,19128.m3u",
+         "note": ""
+      },
+      {
+         "name": "Kwanza Sul 97.6 FM",
+         "logo": "Kwanza",
+         "link": "http://www.surfmusic.de/m3u/radio-kwanza-sul-97-6-fm,18156.m3u",
+         "http": "",
+         "note": "Sumbe (Local)"
+      },
+      {
+         "name": "LAC Luanda Antena Comercial",
+         "logo": "LAC",
+         "link": "http://radios.vpn.sapo.pt/AO/radio14.mp3",
+         "http": "http://www.surfmusic.de/m3u/lac-luanda-antena-comercial,13236.m3u",
+         "note": "News, Talk, Music"
+      },
+      {
+         "name": "Lobito 89.1 FM",
+         "logo": "Lobito",
+         "link": "http://www.surfmusic.de/m3u/radio-lobito-89-1-fm,18157.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "Mais 99.1 FM",
+         "logo": "Mais",
+         "link": "http://5.189.189.245:2199/tunein/maisluanda.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-mais-99-1-fm,20239.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "MFM 91.7",
+         "logo": "MFM",
+         "link": "http://radios.vpn.sapo.pt/AO/radio9.mp3",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "RD 91.0 FM Despertar",
+         "logo": "Despertar",
+         "link": "http://radios.vpn.sapo.pt/AO/radio15.mp3",
+         "http": "",
+         "note": "News, Talk, Sport"
+      },
+      {
+         "name": "RNA Cacuaco 105.0 FM",
+         "logo": "Cacuaco",
+         "link": "http://radios.vpn.sapo.pt/AO/radio17.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RNA Luanda 99.9 FM",
+         "logo": "Luanda",
+         "link": "http://www.surfmusic.de/m3u/radio-luanda,15543.m3u",
+         "http": "http://www.surfmusic.de/m3u/radio-luanda-99-9-fm,17591.m3u",
+         "note": ""
+      },
+      {
+         "name": "RNA N'gola Yetu 101.4 FM",
+         "logo": "Yetu",
+         "link": "http://radios.vpn.sapo.pt/AO/radio12.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "RNA Viana Cultural 92.8 FM",
+         "logo": "Viana",
+         "link": "http://radios.vpn.sapo.pt/AO/radio16.mp3",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Romantica 97.9 FM",
+         "logo": "Romantica",
+         "link": "http://radios.vpn.sapo.pt/AO/radio4.mp3",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "UnIA 92.3 FM",
+         "logo": "UnIA",
+         "link": "http://radios.vpn.sapo.pt/AO/radio2.mp3",
+         "http": "",
+         "note": "Music"
       }
-   ]
-}
+   ]}

@@ -5,95 +5,952 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "share":"http://www.amazon.com/gp/mas/dl/android?asin=B096ZXMPMG",
+      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=B096ZXMPMG",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=fowler%20lairon",
       "bonus":"",
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "show1":"",
-      "show2":"",
-      "show3":"",
-      "show4":"",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "4195197",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
    "huawFM":{
       "changeCountry": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104420319",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104420319",
       "other":"",
       "bonus":"",
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "show1":"",
-      "show2":"",
-      "show3":"",
-      "show4":"",
-      "chngAd":""
-   },
-   "Content":[
+    "adType": 1,
+    "uni_id": "4195201",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
+  "Content": [
       {
          "name": "1",
          "logo": "1",
-         "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
+         "link": "http://www.surfmusic.de/m3u/radio-1,14111.m3u",
          "http": "",
          "note": "Tahiti (Local)"
       },
       {
          "name": "101.7 WS-FM",
          "logo": "WS-FM",
-         "link": "http://media-ice.musicradio.com/HeartLondonMP3.m3u",
+         "link": "http://www.surfmusic.de/m3u/101-7-ws-fm,6801.m3u",
          "http": "",
          "note": ""
       },
       {
          "name": "101FM Radio Logan",
          "logo": "Logan",
-         "link": "http://media-ice.musicradio.com/LBCLondonMP3Low.m3u",
-         "http": "http://media-ice.musicradio.com/LBCLondonMP3Low.m3u",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8930/listen.pls&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8930/listen.pls&t=.m3u",
          "note": ""
       },
       {
          "name": "101.7 WSFM Classic Hits",
          "logo": "WSFM",
-         "link": "http://media-ice.musicradio.com/SmoothLondonMP3.m3u",
+         "link": "http://www.surfmusic.de/m3u/101-7-wsfm-classic-hits,15191.m3u",
          "http": "",
          "note": "Brisbane (Local)"
       },
       {
          "name": "105.7 Radio Metro",
          "logo": "Metro",
-         "link": "http://media-ice.musicradio.com/CapitalMP3.m3u",
-         "http": "http://media-ice.musicradio.com/CapitalMP3.m3u",
+         "link": "https://radiometro.com.au/songapp/Radio-Metro.pls",
+         "http": "http://www.surfmusic.de/m3u/105-7-radio-metro,16805.m3u",
          "note": "Top (Gold Coast, Local)"
       },
       {
          "name": "106.3 The Lounge",
          "logo": "The",
-         "link": "http://media-ice.musicradio.com/RadioXLondonMP3.m3u",
-         "http": "http://media-ice.musicradio.com/RadioXLondonMP3.m3u",
+         "link": "http://www.fast-serv.com/live/stream.pls?host=ic2329.c564.fast-serv.com&port=80&path=/stream",
+         "http": "http://www.surfmusic.de/m3u/106-3-the-lounge,15186.m3u",
          "note": "Port Douglas (Local)"
       },
       {
          "name": "107.5 Orange",
          "logo": "Orange",
-         "link": "http://stream-kiss.planetradio.co.uk/kiss100.mp3",
-         "http": "http://stream-kiss.planetradio.co.uk/kiss100.mp3",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:12134/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://176.31.248.14:12134/listen.pls?sid=1&t=.m3u",
          "note": ""
+      },
+      {
+         "name": "2CA 105.3 FM",
+         "logo": "2CA",
+         "link": "http://eu7.fastcast4u.com/proxy/radio2ca?mp=/stream2ca.mp3",
+         "http": "http://www.surfmusic.de/m3u/2ca-105-3-fm,18576.m3u",
+         "note": ""
+      },
+      {
+         "name": "2CC 1206 AM",
+         "logo": "2CC",
+         "link": "http://www.surfmusic.de/m3u/2cc-1206-am,18587.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "2CH Easy 1170",
+         "logo": "2CH",
+         "link": "http://www.surfmusic.de/m3u/2ch-easy-1170,886.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "2EC",
+         "logo": "2EC",
+         "link": "http://www.surfmusic.de/m3u/2ec,18577.m3u",
+         "http": "",
+         "note": "Bega (Local)"
+      },
+      {
+         "name": "2GB 873 AM",
+         "logo": "873",
+         "link": "http://www.surfmusic.de/m3u/2gb-873-am,887.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "2GLF 89.3 FM",
+         "logo": "2GLF",
+         "link": "http://www.surfmusic.de/m3u/2glf-89-3fm,9608.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "2MBS-FM",
+         "logo": "2MBS",
+         "link": "http://www.surfmusic.de/m3u/2mbs-fm,10427.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "2Moro - Sawt El Ghad",
+         "logo": "2Moro",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:7648/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.11:7648/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "2NM AM981",
+         "logo": "2NM",
+         "link": "http://www.surfmusic.de/m3u/2nm-am981,18578.m3u",
+         "http": "",
+         "note": "Hunter Valley (Local)"
+      },
+      {
+         "name": "2ST 999 AM",
+         "logo": "999",
+         "link": "http://www.surfmusic.de/m3u/2st-999-am,18579.m3u",
+         "http": "",
+         "note": "Hunter Valley (Local)"
+      },
+      {
+         "name": "2UE 954",
+         "logo": "2UE",
+         "link": "http://www.surfmusic.de/m3u/2ue,15185.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "3AW 693",
+         "logo": "3AW",
+         "link": "http://www.surfmusic.de/m3u/3aw,889.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "3BA 102.3 FM",
+         "logo": "3BA",
+         "link": "http://www.surfmusic.de/m3u/3ba-102-3-fm,18580.m3u",
+         "http": "",
+         "note": "Ballarat (Local)"
+      },
+      {
+         "name": "3CR",
+         "logo": "3CR",
+         "link": "http://www.surfmusic.de/m3u/3cr,9682.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "3KND",
+         "logo": "3KND",
+         "link": "http://www.surfmusic.de/m3u/3knd,9681.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "3MBS 103.5 FM",
+         "logo": "3MBS",
+         "link": "http://www.surfmusic.de/m3u/3mbs-103-5-fm,14112.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "3RRR 102.7 FM",
+         "logo": "3RRR",
+         "link": "http://www.surfmusic.de/m3u/3rrr-102-7-fm,2375.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "4BC Radio",
+         "logo": "4BC",
+         "link": "http://www.surfmusic.de/m3u/4bc-radio,5266.m3u",
+         "http": "",
+         "note": "Brisbane (Local)"
+      },
+      {
+         "name": "4BU 1332 AM",
+         "logo": "4BU",
+         "link": "http://www.surfmusic.de/m3u/4bu-1332-am,18581.m3u",
+         "http": "",
+         "note": "Bundaberg (Local)"
+      },
+      {
+         "name": "4CA 864 AM",
+         "logo": "4CA",
+         "link": "http://www.surfmusic.de/m3u/4ca-864-am,18582.m3u",
+         "http": "",
+         "note": "Cairns (Local)"
+      },
+      {
+         "name": "4MBS Classic FM 103.7",
+         "logo": "4MBS",
+         "link": "http://www.surfmusic.de/m3u/4mbs-classic-fm,15190.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "4MK 1026 AM",
+         "logo": "4MK",
+         "link": "http://www.surfmusic.de/m3u/4mk-1026-am,18585.m3u",
+         "http": "",
+         "note": "Mackay (Local)"
+      },
+      {
+         "name": "5MBS",
+         "logo": "5MBS",
+         "link": "http://www.surfmusic.de/m3u/5mbs,16490.m3u",
+         "http": "",
+         "note": "Adelaide (Local)"
+      },
+      {
+         "name": "5MU 1125 AM",
+         "logo": "5MU",
+         "link": "http://www.surfmusic.de/m3u/5mu-1125-am,18583.m3u",
+         "http": "",
+         "note": "Murray Bridge (Local)"
+      },
+      {
+         "name": "5RM 801 AM",
+         "logo": "5RM",
+         "link": "http://www.surfmusic.de/m3u/5rm-801-am,18584.m3u",
+         "http": "",
+         "note": "Berri (Local)"
+      },
+      {
+         "name": "5UV Adelaide 101.5 FM",
+         "logo": "5UV",
+         "link": "http://www.surfmusic.de/m3u/5uv-adelaide-101-5-fm,2541.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "6PR 882 News Talk",
+         "logo": "6PR",
+         "link": "http://www.surfmusic.de/m3u/6pr-news-talk-radio,2542.m3u",
+         "http": "",
+         "note": "Perth (Local)"
+      },
+      {
+         "name": "7HOFM 101.7",
+         "logo": "7HOFM",
+         "link": "http://www.surfmusic.de/m3u/7hofm-101-7,18571.m3u",
+         "http": "",
+         "note": "Hobart (Local)"
+      },
+      {
+         "name": "7XS West Coast",
+         "logo": "7XS",
+         "link": "http://www.surfmusic.de/m3u/7xs-west-coast,18586.m3u",
+         "http": "",
+         "note": "Queenstown (Local)"
+      },
+      {
+         "name": "89.3 LAFM",
+         "logo": "LAFM",
+         "link": "http://www.surfmusic.de/m3u/89-3-lafm,18574.m3u",
+         "http": "",
+         "note": "Launceston (Local)"
+      },
+      {
+         "name": "89.7 Eastside FM",
+         "logo": "Eastside",
+         "link": "http://www.surfmusic.de/m3u/89-7-eastside-fm,16405.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "90.9 Sea FM",
+         "logo": "Sea",
+         "link": "http://www.surfmusic.de/m3u/90-9-sea-fm,9763.m3u",
+         "http": "",
+         "note": "Gold Coast (Local)"
+      },
+      {
+         "name": "91.1 The Edge",
+         "logo": "Edge",
+         "link": "http://www.surfmusic.de/m3u/91-1-the-edge,6797.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "95 BFM",
+         "logo": "95",
+         "link": "http://www.surfmusic.de/m3u/95-bfm-dsl,5271.m3u",
+         "http": "http://www.surfmusic.de/m3u/95-bfm-modem,892.m3u",
+         "note": ""
+      },
+      {
+         "name": "96Five FM Bristol",
+         "logo": "96Five",
+         "link": "http://www.surfmusic.de/m3u/96five-fm-bristol,2545.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "96FM Perth`s best Music",
+         "logo": "96FM",
+         "link": "http://www.surfmusic.de/m3u/96fm-perth-s-best-music,2544.m3u",
+         "http": "",
+         "note": "Top, Local"
+      },
+      {
+         "name": "96three FM",
+         "logo": "96three",
+         "link": "http://www.surfmusic.de/m3u/96three-fm,5268.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "97.3 FM Brisbane",
+         "logo": "Brisban",
+         "link": "http://www.surfmusic.de/m3u/97-3-fm-brisbane,5267.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "98.5 Sonshine FM",
+         "logo": "Sonshine",
+         "link": "http://www.surfmusic.de/m3u/98-5-soneshine-fm,2546.m3u",
+         "http": "https://stream1.cnmns.net/sfm",
+         "note": "Perth, Local"
+      },
+      {
+         "name": "A-Net Station",
+         "logo": "A-Net",
+         "link": "http://www.surfmusic.de/m3u/a-net-station,5272.m3u",
+         "http": "",
+         "note": "Suedpol (Local)"
+      },
+      {
+         "name": "ABC Australia Radio",
+         "logo": "ABC",
+         "link": "http://www.surfmusic.de/m3u/abc-australia-radio,2548.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "ABC Adelaide 891",
+         "logo": "891",
+         "link": "http://www.surfmusic.de/m3u/891-abc-adelaide,17437.m3u",
+         "http": "",
+         "note": "Local"
+      },
+      {
+         "name": "ABC Brisbane",
+         "logo": "Brisbane",
+         "link": "http://www.surfmusic.de/m3u/abc-brisbane,15188.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Canberra",
+         "logo": "Canberra",
+         "link": "http://www.surfmusic.de/m3u/abc-canberra,18875.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Classic FM",
+         "logo": "Classic",
+         "link": "http://www.surfmusic.de/m3u/abc-classic-fm-dsl,7891.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "ABC Country",
+         "logo": "Countr",
+         "link": "http://www.surfmusic.de/m3u/abc-country,18876.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "ABC Extra",
+         "logo": "Extra",
+         "link": "http://www.surfmusic.de/m3u/abc-extra,17944.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "ABC Grandstand",
+         "logo": "Grandstand",
+         "link": "http://www.surfmusic.de/m3u/abc-grandstand-radio,16393.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "ABC Jazz",
+         "logo": "Jazz",
+         "link": "http://www.surfmusic.de/m3u/abc-jazz,15181.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Melbourne",
+         "logo": "Melbourne",
+         "link": "http://www.surfmusic.de/m3u/abc-melbourne,15183.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC News Radio 103.9 FM",
+         "logo": "ABCNews",
+         "link": "http://www.surfmusic.de/m3u/abc-news-radio-103-9-fm,15184.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "ABC Perth",
+         "logo": "Perth",
+         "link": "http://www.surfmusic.de/m3u/abc-perth,18877.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Radio National",
+         "logo": "National",
+         "link": "http://www.surfmusic.de/m3u/abc-radio-national,15180.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Sydney",
+         "logo": "Sydney",
+         "link": "http://www.surfmusic.de/m3u/abc-sydney,18878.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Sydney 702 2BL",
+         "logo": "702",
+         "link": "http://www.surfmusic.de/m3u/702-abc-sydney-2bl,15182.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "ABC Double J",
+         "logo": "Double",
+         "link": "http://www.surfmusic.de/m3u/dig-radio,10670.m3u",
+         "http": "http://www.surfmusic.de/m3u/dig-country-dsl,10672.m3u",
+         "note": ""
+      },
+      {
+         "name": "ABC Triple J",
+         "logo": "J",
+         "link": "http://www.surfmusic.de/m3u/abc-triple-j,2554.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Apna 990 AM",
+         "logo": "990",
+         "link": "http://www.surfmusic.de/m3u/apna-990-am,10717.m3u",
+         "http": "",
+         "note": "Wellington (Local)"
+      },
+      {
+         "name": "AustraliaLatestNews.com",
+         "logo": "AustraliaLatestNews",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.33.251.97:8329/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://178.33.251.97:8329/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Australian Radio Indie",
+         "logo": "Australian",
+         "link": "http://www.australianradio.audio/australianradioindie.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:9542/listen.pls?sid=1&t=.pls",
+         "note": ""
+      },
+      {
+         "name": "Bay FM 99.9",
+         "logo": "Bay",
+         "link": "http://www.surfmusic.de/m3u/bay-fm,9673.m3u",
+         "http": "",
+         "note": "Byron Bay (Local)"
+      },
+      {
+         "name": "Big Country Radio 88 FM",
+         "logo": "Big",
+         "link": "http://myradiostream.com/bigcountryradio",
+         "http": "http://www.surfmusic.de/m3u/big-country-radio,15189.m3u",
+         "note": "Music (Central Coast, Local)"
+      },
+      {
+         "name": "Chilli 90.1 FM",
+         "logo": "Chilli",
+         "link": "http://www.surfmusic.de/m3u/chilli-90-1-fm,18567.m3u",
+         "http": "",
+         "note": "Top (Launceston, Local)"
+      },
+      {
+         "name": "Coast FM",
+         "logo": "Coast",
+         "link": "http://www.surfmusic.de/m3u/coast-fm,8647.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "CRC",
+         "logo": "CRC",
+         "link": "http://www.xrn.com.au/serverlinks07.m3u",
+         "http": "http://www.xrn.com.au/serverlinks08.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Eketahuna 106.5 FM",
+         "logo": "Eketahuna",
+         "link": "http://www.surfmusic.de/m3u/radio-eketahuna-106-5-fm,19678.m3u",
+         "http": "",
+         "note": "Tararua District (Local)"
+      },
+      {
+         "name": "Ena",
+         "logo": "Ena",
+         "link": "http://www.surfmusic.de/m3u/radio-ena,9607.m3u",
+         "http": "",
+         "note": "Adelaide (Local)"
+      },
+      {
+         "name": "Energy FM",
+         "logo": "Energy",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8502/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://95.211.3.65:8502/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "FBi Radio 94.5 FM",
+         "logo": "FBi",
+         "link": "http://www.surfmusic.de/m3u/fbi-radio-94-5-fm,20130.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "FM 104.7 - 2ROC",
+         "logo": "2ROC",
+         "link": "http://www.surfmusic.de/m3u/fm-104-7-2roc,18097.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Fox 101.9 FM",
+         "logo": "Fox",
+         "link": "http://www.surfmusic.de/m3u/fox-101-9-fm,7769.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Fremantle",
+         "logo": "Fremantle",
+         "link": "http://203.59.4.85:8000/live",
+         "http": "http://www.surfmusic.de/m3u/radio-fremantle,9575.m3u",
+         "note": ""
+      },
+      {
+         "name": "Golden Days Radio 95.7 FM",
+         "logo": "Golden",
+         "link": "http://www.surfmusic.de/m3u/golden-days-radio-95-7-fm,14278.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Hit105 105.3 FM 4BBB",
+         "logo": "Hit105",
+         "link": "http://www.surfmusic.de/m3u/hit105-105-3-fm-4bbb,18588.m3u",
+         "http": "",
+         "note": "Top (Brisbane, Local)"
+      },
+      {
+         "name": "Hitz 93.9 FM",
+         "logo": "Hitz",
+         "link": "http://www.surfmusic.de/m3u/hitz-93-9-fm,18566.m3u",
+         "http": "",
+         "note": "Top (Bundaberg, Local)"
+      },
+      {
+         "name": "Hope 103.2",
+         "logo": "Hope",
+         "link": "http://www.surfmusic.de/m3u/hope-103-2,10532.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Hot 100 FM",
+         "logo": "100",
+         "link": "http://www.surfmusic.de/m3u/hot-100-fm,18564.m3u",
+         "http": "",
+         "note": "Top (Darwin, Local)"
+      },
+      {
+         "name": "Hot 91",
+         "logo": "91",
+         "link": "http://www.surfmusic.de/m3u/hot-91,9313.m3u",
+         "http": "",
+         "note": "Sunshine Coast (Local)"
+      },
+      {
+         "name": "Hot FM 103.5",
+         "logo": "Hot",
+         "link": "http://www.surfmusic.de/m3u/hot-fm-103-5,18592.m3u",
+         "http": "",
+         "note": "Top (Cairns, Local)"
+      },
+      {
+         "name": "i98",
+         "logo": "i98",
+         "link": "http://www.surfmusic.de/m3u/i98,9311.m3u",
+         "http": "",
+         "note": "Wollongong (Local)"
+      },
+      {
+         "name": "JOY 94.9",
+         "logo": "JOY",
+         "link": "http://www.surfmusic.de/m3u/joy-94-9,10543.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "K-Rock 95.5 FM",
+         "logo": "K-Rock",
+         "link": "http://www.surfmusic.de/m3u/k-rock-95-5-fm,18565.m3u",
+         "http": "",
+         "note": "Top (Geelong, Local)"
+      },
+      {
+         "name": "Latinos FM Australia",
+         "logo": "Latinos",
+         "link": "http://www.surfmusic.de/m3u/latinos-fm-australia,20352.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Magic 1278",
+         "logo": "1278",
+         "link": "http://www.surfmusic.de/m3u/magic-1278,9310.m3u",
+         "http": "",
+         "note": "Oldies"
+      },
+      {
+         "name": "Magic FM 87.8",
+         "logo": "Magic",
+         "link": "http://www.surfmusic.de/m3u/magic-fm-87-8,18568.m3u",
+         "http": "",
+         "note": "Perth (Local)"
+      },
+      {
+         "name": "Maria No Te Hau",
+         "logo": "Hau",
+         "link": "http://www.surfmusic.de/m3u/radio-maria-no-te-hau,898.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mix 101.1 KIIS",
+         "logo": "KIIS",
+         "link": "http://www.surfmusic.de/m3u/mix-101-1-tt-fm,7768.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Mix 104.9 FM",
+         "logo": "104",
+         "link": "http://www.surfmusic.de/m3u/mix-104-9-fm,18572.m3u",
+         "http": "",
+         "note": "Darwin (Local)"
+      },
+      {
+         "name": "Mix 106.5",
+         "logo": "106",
+         "link": "http://www.surfmusic.de/m3u/mix-106-05,6795.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Portuguese Radio",
+         "logo": "Portuguese",
+         "link": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:8012/listen.pls?sid=1&t=.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://198.178.123.17:8012/listen.pls?sid=1&t=.m3u",
+         "note": ""
+      },
+      {
+         "name": "Nova 100.3 FM Radio",
+         "logo": "Nova",
+         "link": "http://www.surfmusic.de/m3u/nova-100-3-fm-radio,2550.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Nova 96.9 FM",
+         "logo": "Nov",
+         "link": "http://www.surfmusic.de/m3u/nova-93-7-fm,4057.m3u",
+         "http": "http://www.surfmusic.de/m3u/nova-96-9-fm,2549.m3u",
+         "note": "Top"
+      },
+      {
+         "name": "ONE FM 98.5",
+         "logo": "ONE",
+         "link": "http://www.surfmusic.de/m3u/one-fm-98-5,9610.m3u",
+         "http": "",
+         "note": "Shepparton (Local)"
+      },
+      {
+         "name": "Power 94.9 FM",
+         "logo": "Power",
+         "link": "http://www.surfmusic.de/m3u/power-94-9-fm,18569.m3u",
+         "http": "",
+         "note": "Top (Nowra, Local)"
+      },
+      {
+         "name": "PuradsiFM Tamil No.1",
+         "logo": "PuradsiFM",
+         "link": "http://www.surfmusic.de/m3u/puradsifm-tamil-no-1,19574.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Red FM",
+         "logo": "Red",
+         "link": "http://www.surfmusic.de/m3u/red-fm-australia,20380.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "River 94.9 FM",
+         "logo": "River",
+         "link": "http://www.surfmusic.de/m3u/river-94-9-fm,2551.m3u",
+         "http": "",
+         "note": "Brisbane (Local)"
+      },
+      {
+         "name": "Rock Australia Radio",
+         "logo": "Rock",
+         "link": "http://cent2.serverhostingcenter.com:2199/tunein/rockaust-stream.pls",
+         "http": "https://www.internet-radio.com/servers/tools/playlistgenerator/?u=http://50.7.99.155:12167/listen.pls?sid=1&t=.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "RSN 927 AM Radio",
+         "logo": "927",
+         "link": "http://www.surfmusic.de/m3u/sport-927-am-radio,2552.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "SBS Chill",
+         "logo": "Chill",
+         "link": "http://www.surfmusic.de/m3u/sbs-chill,19539.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "SBS Pop Asia",
+         "logo": "Asia",
+         "link": "http://www.surfmusic.de/m3u/sbs-pop-asia,19538.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "SBS Radio 3",
+         "logo": "3",
+         "link": "http://www.surfmusic.de/m3u/sbs-radio-3,17512.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "SBS Radio 4",
+         "logo": "4",
+         "link": "http://www.surfmusic.de/m3u/sbs-radio-4,17511.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Sea 91.9 FM",
+         "logo": "S",
+         "link": "http://www.surfmusic.de/m3u/sea-91-9-fm,18570.m3u",
+         "http": "",
+         "note": "Top (Sunshine Coast, Local)"
+      },
+      {
+         "name": "Sen 1116 AM Sports Radio",
+         "logo": "Sen",
+         "link": "http://www.surfmusic.de/m3u/sen-1116-am-sports-radio,3720.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "SEN Sportsentral",
+         "logo": "Sportsentral",
+         "link": "http://www.surfmusic.de/m3u/sen-sportsentral,15187.m3u",
+         "http": "",
+         "note": "Sport"
+      },
+      {
+         "name": "Star 106.3 FM",
+         "logo": "Star",
+         "link": "http://www.surfmusic.de/m3u/star-106-3-fm,18575.m3u",
+         "http": "",
+         "note": "Townsville (Local)"
+      },
+      {
+         "name": "Star 96.9 FM",
+         "logo": "Sta",
+         "link": "http://www.surfmusic.de/m3u/star-fm-96-9,18591.m3u",
+         "http": "",
+         "note": "Top (Shepparton, Local)"
+      },
+      {
+         "name": "Station X",
+         "logo": "Station",
+         "link": "http://www.xrn.com.au/serverlinks11.m3u",
+         "http": "http://www.xrn.com.au/serverlinks12.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Stereo974",
+         "logo": "Stereo974",
+         "link": "http://www.surfmusic.de/m3u/stereo974,9307.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Swingtime",
+         "logo": "Swingtime",
+         "link": "http://www.surfmusic.de/m3u/swingtime-radio,20432.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Switch 1197",
+         "logo": "1197",
+         "link": "http://www.surfmusic.de/m3u/switch-1197,9609.m3u",
+         "http": "",
+         "note": "Music (Brisbane, Local)"
+      },
+      {
+         "name": "SYN 90.7FM",
+         "logo": "SYN",
+         "link": "http://www.surfmusic.de/m3u/syn-90-7fm,9306.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Thayagam Tamil Radio",
+         "logo": "Thayagam",
+         "link": "http://www.surfmusic.de/m3u/thayagam-tamil-radio,19956.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Tiare FM",
+         "logo": "Tiare",
+         "link": "http://www.surfmusic.de/m3u/tiare-fm,899.m3u",
+         "http": "",
+         "note": "Tahiti (Local)"
+      },
+      {
+         "name": "TRFM 99.5",
+         "logo": "TRFM",
+         "link": "http://www.surfmusic.de/m3u/trfm-99-5,19410.m3u",
+         "http": "",
+         "note": "Top (Traralgon, Local)"
+      },
+      {
+         "name": "Triple M Sydney 104.9",
+         "logo": "Triple",
+         "link": "http://www.surfmusic.de/m3u/triple-m-104-9,4451.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Triple M Brisbane 104.5",
+         "logo": "M",
+         "link": "http://www.surfmusic.de/m3u/triple-m-brisbane,13811.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Triple M Melbourne 105.1",
+         "logo": "Tripl",
+         "link": "http://www.surfmusic.de/m3u/triple-m-melbourne,13812.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "UNE 106.9 FM",
+         "logo": "UNE",
+         "link": "http://www.surfmusic.de/m3u/tune-106-9-fm-radio-dsl,2555.m3u",
+         "http": "",
+         "note": "Armidale (Local)"
+      },
+      {
+         "name": "Voice of Islam 87.6 FM",
+         "logo": "Islam",
+         "link": "http://www.surfmusic.de/m3u/voice-of-islam-87-6-fm,20087.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Wave 96.5 FM",
+         "logo": "Wave",
+         "link": "http://www.surfmusic.de/m3u/wave-96-5-fm,18573.m3u",
+         "http": "",
+         "note": "Wollongong (Local)"
+      },
+      {
+         "name": "Zinc 96.1 FM",
+         "logo": "Zinc",
+         "link": "http://www.surfmusic.de/m3u/zinc-96-1-fm,9312.m3u",
+         "http": "",
+         "note": "Music (Sunshine Coast, Local)"
       }
-  ]
+   ]
 }

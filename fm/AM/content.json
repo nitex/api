@@ -12,88 +12,238 @@
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
-      "id":"app7f69011c663f4d8696",
-      "mainAd":"vz838ca12ba18745d99d",
-      "rtrnAd":"vzdc2826541a25453ebd",
-      "mainb":"vzb1186523fdf74f1c87",
-      "show1":"vz18dc1aa7989746a0bf",
-      "show2":"",
-      "show3":"",
-      "show4":"vzf55462c7bc9c4e169f",
-      "chngAd":""
-   },
+    "adType": 1,
+    "uni_id": "4195267",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
    "huawFM":{
       "changeCountry": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104418517",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104418517",
       "other":"",
       "bonus":"",
       "showMode": true,
       "visualMode":1,
       "minuteCount":4,
-      "id":"REPLACE",
-      "mainAd":"",
-      "rtrnAd":"",
-      "mainb":"",
-      "show1":"",
-      "show2":"",
-      "show3":"",
-      "show4":"",
-      "chngAd":""
-   },
-   "Content":[
+    "adType": 1,
+    "uni_id": "4195252",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb",
+    "uni_show1": "uni_show1",
+    "uni_show4": "uni_show4"
+  },
+  "Content": [
       {
          "name": "ՎԵՄ Ռադիո",
          "logo": "vem",
-         "link": "http://direct.sharp-stream.com/ssvcbfbs9.mp3.m3u",
+         "link": "http://93.94.223.140:8000/live.m3u",
          "http": "",
          "note": ""
       },
       {
          "name": "Ռադիո Երևան 101.9 FM Yerevan",
          "logo": "yereva",
-         "link": "https://s3.radio.co/s3a13a855f/listen",
-         "http": "https://s3.radio.co/s3a13a855f/listen",
+         "link": "http://199.195.194.92:8029/listen.pls",
+         "http": "http://199.195.194.92:8029/;stream.mp3",
          "note": ""
       },
       {
          "name": "Ռադիո Մարշալ 103.5 FM Marshall",
          "logo": "Marshall",
-         "link": "http://176.31.248.14:12238/listen.pls",
-         "http": "http://176.31.248.14:12238/listen.pls",
+         "link": "http://eu.stream4cast.com:8030/listen.pls",
+         "http": "http://163.172.7.220:8030/;stream.mp3",
          "note": ""
       },
       {
          "name": "Public radio of Armenia (Հայաստանի Հանրային Ռադիո)",
          "logo": "Public",
-         "link": "http://ca10.rcast.net:8026/listen.pls",
-         "http": "http://ca10.rcast.net:8026/listen.pls",
+         "link": "http://37.252.79.131:8000/listen.pls?sid=1",
+         "http": "http://www.surfmusic.de/m3u/radio-public-of-armenia,6507.m3u",
          "note": "News, Talk"
       },
       {
          "name": "Аврора 100.7 FM",
          "logo": "Aurora",
-         "link": "http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
-         "http": "http://mbn-channel-01.akacast.akamaistream.net/7/29/233450/v1/ibb.akacast.akamaistream.net/mbn_channel_01",
+         "link": "https://am.radioaurora.am/nort.m3u",
+         "http": "http://radioaurora.am:8000/listen.pls",
          "note": "Top"
       },
       {
          "name": "ANS ÇM Radio 102 FM",
          "logo": "ANS",
-         "link": "http://dorognoe.hostingradio.ru:8000/radio",
+         "link": "http://stream.ansradio.ws:8152/ANS-102FM-128k-Online.m3u",
          "http": "",
          "note": "Top Music"
       },
       {
          "name": "Armenian Pulse",
          "logo": "Armenian",
-         "link": "http://ca10.rcast.net:8026/listen.pls",
+         "link": "http://www.surfmusic.de/m3u/armenian-pulse-radio,13898.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "ArmRadio (LAVradio)",
+         "logo": "ArmRadio",
+         "link": "http://streams4.museter.com:8218/listen.pls",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Ван 103.0 FM Van",
+         "logo": "Van",
+         "link": "http://media.radiovan.am:8000/96_stereo.m3u",
+         "http": "",
+         "note": "Talk, Top Music"
+      },
+      {
+         "name": "FM 105.5 Yerevan",
+         "logo": "Yerev",
+         "link": "http://195.154.53.153:8000/fm105.5.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Hay Radio 104.1 FM",
+         "logo": "Hay",
+         "link": "http://195.154.53.153:8000/Radiohay.m3u",
+         "http": "http://mix.am:8000/rhyerevan.m3u",
+         "note": "News"
+      },
+      {
+         "name": "Hay FM 105.5",
+         "logo": "105,5",
+         "link": "http://hayfm.am:8000/HayFm.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "lratvakan 106.5 (Լրատվական Ռադիո)",
+         "logo": "lratvakan",
+         "link": "http://212.34.233.78:8000/live.m3u",
+         "http": "",
+         "note": "News"
+      },
+      {
+         "name": "Jan 90.7 FM",
+         "logo": "Jan",
+         "link": "http://s7.voscast.com:10258/listen.pls",
+         "http": "http://www.surfmusic.de/m3u/radio-jan-90-7-fm,16778.m3u",
+         "note": "Music"
+      },
+      {
+         "name": "Kiss FM 88.3",
+         "logo": "Kiss",
+         "link": "http://am.radioaurora.am:8010/kiss.aac.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Nor Radyo / Նոր Ռատիօ",
+         "logo": "Nor",
+         "link": "http://norradyo.com:8000/live.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Media FM",
+         "logo": "Media",
+         "link": "http://85.132.78.130:8081/mediafm-mp3.m3u",
+         "http": "http://85.132.71.10:8000/live",
+         "note": "Top"
+      },
+      {
+         "name": "Mix FM",
+         "logo": "Mix",
+         "link": "http://mix.am:8000/mix.m3u",
+         "http": "",
+         "note": "Dance Music (Stepanakert)"
+      },
+      {
+         "name": "Ռադիո Միքս 1 87.5 FM",
+         "logo": "1",
+         "link": "http://mix.am:8000/mix1.m3u",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Ռադիո Միքս 2 105.0 FM",
+         "logo": "2",
+         "link": "http://mix.am:8000/mix2.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ռադիո Միքս 3 103.0 FM",
+         "logo": "3",
+         "link": "http://mix.am:8000/mix3.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Ռադիո Միքս 4 106.6 FM",
+         "logo": "4",
+         "link": "http://mix.am:8000/mix4.m3u",
+         "http": "",
+         "note": ""
+      },
+      {
+         "name": "Pop FM 89.3",
+         "logo": "Pop",
+         "link": "http://163.172.7.166:8096/listen.pls?sid=1",
+         "http": "",
+         "note": "Music"
+      },
+      {
+         "name": "Radio Antenn",
+         "logo": "Antenn",
+         "link": "http://85.132.78.130:8081/antenn-mp3.m3u",
+         "http": "",
+         "note": "Top"
+      },
+      {
+         "name": "Radio Yerevan",
+         "logo": "Yerevan",
+         "link": "http://199.195.194.92:8029/listen.pls",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Спутник",
+         "logo": "Sputnik",
+         "link": "http://nfw.ria.ru/flv/audio.aspx?ID=22152771&type=mp3",
+         "http": "",
+         "note": "News, Talk"
+      },
+      {
+         "name": "Шансон 90.1 FM",
+         "logo": "Chanson",
+         "link": "http://eu.stream4cast.com:8070/listen.pls?sid=1",
+         "http": "http://eu.stream4cast.com:8070/;stream.mp3",
+         "note": "Music"
+      },
+      {
+         "name": "Star FM",
+         "logo": "StarFM",
+         "link": "http://mix.am:8000/starfm.m3u",
+         "http": "",
+         "note": "Pop Music (Stepanakert)"
+      },
+      {
+         "name": "Արցախի հանրային ռադիո",
+         "logo": "artsakh",
+         "link": "http://mix.am:8000/artsakhradio.m3u",
          "http": "",
          "note": "Music"
       }
-  ]
+   ]
 }

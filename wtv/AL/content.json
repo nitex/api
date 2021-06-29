@@ -24,55 +24,169 @@
     "ownVisible": true,
       "about":"",
       "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104416365",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104416365",
       "other":"",
-      "bonus":"",
+      "bonus":"https://appgallery.cloud.huawei.com/ag/n/app/C104379353",
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4195423",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "Content": [
-    {
-      "name": "Al Jazeera",
-      "logo": "_000001",
-      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Al Jazeera English",
-      "logo": "_000002",
-      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
-      "http": ""
-    },
-    {
-      "name": "euronews",
-      "logo": "_000003",
-      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Bloomberg Asia",
-      "logo": "_000004",
-      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
-      "http": ""
-    },
-    {
+  "Content": [
+   {
+      "name": "Ora News",
+      "logo": "Ora",
+      "link": "http://www.oranews.tv/live/",
+      "http": "http://www.oranews.tv"
+   },
+   {
+      "name": "RTSH 1",
+      "logo": "RTSH1",
+      "link": "http://rtsh.al/rtsh-live/RTSH1-HD.html",
+      "http": "http://rtsh.al/rtsh-live/rtsh-dixhital.html"
+   },
+   {
+      "name": "RTSH 2",
+      "logo": "RTSH2",
+      "link": "http://rtsh.al/rtsh-live/RTSH2-HD.html",
+      "http": "http://rtsh.al/rtsh-live/rtsh-dixhital.html"
+   },
+   {
+      "name": "RTSH 3",
+      "logo": "RTSH3",
+      "link": "http://rtsh.al/rtsh-live/RTSH3-HD.html",
+      "http": "http://rtsh.al/rtsh-live/rtsh-dixhital.html"
+   },
+   {
+      "name": "RTSH Sport",
+      "logo": "Sport",
+      "link": "http://rtsh.al/rtsh-live/RTSH-sport.html",
+      "http": "http://rtsh.al/rtsh-live/rtsh-dixhital.html"
+   },
+   {
+      "name": "RTSH Film",
+      "logo": "Film",
+      "link": "http://rtsh.al/rtsh-live/RTSH_Film.html",
+      "http": "http://rtsh.al/rtsh-live/rtsh-dixhital.html"
+   },
+   {
+      "name": "RTSH Shqip",
+      "logo": "Shqip",
+      "link": "http://rtsh.al/rtsh-live/RTSH_Shqip.html",
+      "http": "http://rtsh.al/rtsh-live/rtsh-dixhital.html"
+   },
+   {
+      "name": "News 24",
+      "logo": "News24",
+      "link": "http://balkanweb.com/news24/news24_live.php",
+      "http": "http://balkanweb.com"
+   },
+   {
+      "name": "ABC",
+      "logo": "ABC",
+      "link": "http://www.abcnews.al/live-stream",
+      "http": "http://www.abcnews.al/"
+   },
+   {
+      "name": "Scan",
+      "logo": "Scan",
+      "link": "http://www.scan-tv.com/live/",
+      "http": "http://www.scan-tv.com"
+   },
+   {
+      "name": "INTV",
+      "logo": "INTV",
+      "link": "http://www.intv.al/livetv.html",
+      "http": "http://www.intv.al/"
+   },
+   {
+      "name": "Report",
+      "logo": "Report",
+      "link": "http://report-tv.al/live/",
+      "http": "http://report-tv.al"
+   },
+   {
+      "name": "Tema",
+      "logo": "Tema",
+      "link": "http://www.tematv.al/",
+      "http": "http://www.tematv.al/"
+   },
+   {
+      "name": "7",
+      "logo": "7",
+      "link": "http://shqiptv.us/channel7/",
+      "http": "http://www.channel7gjirokaster.com/"
+   },
+   {
+      "name": "Apollon",
+      "logo": "Apollon",
+      "link": "http://www.apollon.tv/tv-live",
+      "http": "http://www.apollon.tv"
+   },
+   {
+      "name": "Jug Intel-Media",
+      "logo": "Jug",
+      "link": "http://www.intel-media.tv/tv-jug1",
+      "http": "http://www.intel-media.tv"
+   },
+   {
+      "name": "TV1 Channel",
+      "logo": "TV1",
+      "link": "http://tv1-channel.tv/",
+      "http": "http://cdn.livestream.com/embed/tv1channelshkoder?layout=4&autoplay=true"
+   },
+   {
+      "name": "Antena",
+      "logo": "Antena",
+      "link": "http://www.antena.al/?page_id=14450",
+      "http": "http://www.antena.al"
+   },
+   {
+      "name": "Alb UK",
+      "logo": "Alb",
+      "link": "http://albuktv.com/shqip/index.php/shiko-live-tv",
+      "http": "http://albuktv.com"
+   },
+   {
+      "name": "Alb Plus Movie",
+      "logo": "Plus",
+      "link": "http://albuktv.com/shqip/index.php/alb-plus-tv",
+      "http": "http://albuktv.com"
+   },
+   {
+      "name": "Alb Music",
+      "logo": "Music",
+      "link": "http://albuktv.com/shqip/index.php/alb-music",
+      "http": "http://albuktv.com"
+   },
+   {
+      "name": "A1",
+      "logo": "A1",
+      "link": "http://www.a1rtv.com/",
+      "http": "http://www.a1rtv.com/"
+   },
+   {
+      "name": "Wedding Channel",
+      "logo": "Wedding",
+      "link": "http://www.wedding-channel.tv/",
+      "http": "http://www.wedding-channel.tv/"
+   },
+   {
+      "name": "RTV Islam",
+      "logo": "Islam",
+      "link": "http://www.rtvislam.com/",
+      "http": "http://www.rtvislam.com/"
+   },
+   {
       "name": "Sky News",
-      "logo": "_000005",
-      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Sky News Arabic",
-      "logo": "_000006",
-      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-      "http": ""
-    }
-  ]
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   }
+]
 }
