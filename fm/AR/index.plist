@@ -195,6 +195,138 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Gloriosa 90.3 FM</string>
+			<key>logo</key>
+			<string>Gloriosa</string>
+			<key>link</key>
+			<string>http://server.gostreaming.com.ar:8056/;</string>
+			<key>http</key>
+			<string>http://miradioenlaweb.com:4934/listen.pls</string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Eter 90.5 FM</string>
+			<key>logo</key>
+			<string>Eter</string>
+			<key>link</key>
+			<string>https://server.laradio.online:48392/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Mar del Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>QSL 91.5 FM</string>
+			<key>logo</key>
+			<string>QSL</string>
+			<key>link</key>
+			<string>http://hostingystreaming.com:1935/aacplus/4880/playlist.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>KLA 91.7 FM</string>
+			<key>logo</key>
+			<string>KLA</string>
+			<key>link</key>
+			<string>https://streamconex.com:2000/stream/8104</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lider 92.7 FM</string>
+			<key>logo</key>
+			<string>Lider</string>
+			<key>link</key>
+			<string>http://servidor2.serviciostreaming.com:8020/listen.pls</string>
+			<key>http</key>
+			<string>http://servidor2.serviciostreaming.com:8020/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Universidad 95.7 FM</string>
+			<key>logo</key>
+			<string>Universida</string>
+			<key>link</key>
+			<string>http://fm.mdp.edu.ar:8000/;stream.mp3</string>
+			<key>http</key>
+			<string>http://fm.mdp.edu.ar:8000/listen.pls</string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vivo 95.9 FM</string>
+			<key>logo</key>
+			<string>Vivo</string>
+			<key>link</key>
+			<string>https://alpha.radioplayer.com.ar:9332/radiovivo995.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Residencias 96.5 FM</string>
+			<key>logo</key>
+			<string>Residencias</string>
+			<key>link</key>
+			<string>http://01.solumedia.com.ar:8592/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mar del Plata (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La 97 Siempre!</string>
+			<key>logo</key>
+			<string>Siempre</string>
+			<key>link</key>
+			<string>https://streaming01.shockmedia.com.ar:10586/stream</string>
+			<key>http</key>
+			<string>https://streaming01.shockmedia.com.ar:10586/listen.pls?sid=1</string>
+			<key>note</key>
+			<string>Music (Mar del Plata, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Red TL 105.5</string>
+			<key>logo</key>
+			<string>TL</string>
+			<key>link</key>
+			<string>http://51.161.119.117:8158/stream.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>FM 99.9 </string>
+			<key>logo</key>
+			<string>FM999</string>
+			<key>link</key>
+			<string>https://fm999.info/test/index.m3u8</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Mar del Plata (Local, CH881)</string>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Gravity 105.3 FM</string>
 			<key>logo</key>
 			<string>Gravity</string>
@@ -3459,7 +3591,7 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>Cadena 3 FM 100.5</string>
+			<string>Cadena 3 100.5 FM</string>
 			<key>logo</key>
 			<string>Cadena</string>
 			<key>link</key>
@@ -3859,9 +3991,9 @@
 			<key>logo</key>
 			<string>Brisas</string>
 			<key>link</key>
-			<string>http://www.surfmusic.de/m3u/radio-brisas-98-5-fm,15955.m3u</string>
-			<key>http</key>
 			<string>http://181.41.240.16:8030/live.mp3</string>
+			<key>http</key>
+			<string>http://www.surfmusic.de/m3u/radio-brisas-98-5-fm,15955.m3u</string>
 			<key>note</key>
 			<string>Mar del Plata (Local)</string>
 		</dict>
@@ -3873,7 +4005,7 @@
 			<key>link</key>
 			<string>https://us9.maindigitalstream.com/ssl/7192</string>
 			<key>http</key>
-			<string>http://www.surfmusic.de/m3u/radio-con-vos-89-9-fm,20048.m3u</string>
+			<string>https://sonic.dattalive.com:10869/;</string>
 			<key>note</key>
 			<string></string>
 		</dict>
