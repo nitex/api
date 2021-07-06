@@ -611,6 +611,150 @@
 			<key>http</key>
 			<string></string>
 			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Boing 97.3 FM</string>
+			<key>logo</key>
+			<string>Boing</string>
+			<key>link</key>
+			<string>http://200.58.106.247:8626/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Play 95.9 FM</string>
+			<key>logo</key>
+			<string>PlayFM</string>
+			<key>link</key>
+			<string>http://server.ohradio.com.ar:9672/stream.mp3</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shopping Classics 96.1 FM</string>
+			<key>logo</key>
+			<string>Shopping</string>
+			<key>link</key>
+			<string>https://stream4.suenas.net/shoppingclassics</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Suquia 96.5 FM</string>
+			<key>logo</key>
+			<string>Suquia</string>
+			<key>link</key>
+			<string>https://streaming01.shockmedia.com.ar:10945/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Cadena Space 96.9 FM</string>
+			<key>logo</key>
+			<string>Space</string>
+			<key>link</key>
+			<string>http://52.9.150.45:8000/;.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Córdoba, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Amistad 96.9 FM</string>
+			<key>logo</key>
+			<string>Amistad</string>
+			<key>link</key>
+			<string>https://streaming.radiosenlinea.com.ar:10915/listen.pls?sid=1</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Music (Córdoba, Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Latina 97.1 FM</string>
+			<key>logo</key>
+			<string>Lati</string>
+			<key>link</key>
+			<string>https://argentina.republicahosting.com:1143/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Guapa 97.7 FM</string>
+			<key>logo</key>
+			<string>Guapa</string>
+			<key>link</key>
+			<string>http://server.laradio.online:35216/live.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Maná 98.3 FM</string>
+			<key>logo</key>
+			<string>Man</string>
+			<key>link</key>
+			<string>http://c3.manasat.com/Rdargcor.m3u</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>La Catedral 99.1 FM</string>
+			<key>logo</key>
+			<string>Catedral</string>
+			<key>link</key>
+			<string>http://genexservicios.com:8050/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Impacto 99.3 FM</string>
+			<key>logo</key>
+			<string>Impact</string>
+			<key>link</key>
+			<string>http://sonic.cloudstreaming.eu:9992/listen.pls</string>
+			<key>http</key>
+			<string></string>
+			<key>note</key>
+			<string>Córdoba (Local)</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Zumba la Turba 99.5 FM</string>
+			<key>logo</key>
+			<string>Zumba</string>
+			<key>link</key>
+			<string>http://orelha.radiolivre.org:8000/zumba.ogg.m3u</string>
+			<key>http</key>
+			<string>http://orelha.radiolivre.org:8000/zumba.ogg</string>
+			<key>note</key>
 			<string>Córdoba (Local, CH881)</string>
 		</dict>
 		<dict>
@@ -2427,13 +2571,13 @@
 		</dict>
 		<dict>
 			<key>name</key>
-			<string>La Luna 1140 AM</string>
+			<string>La Luna 90.5 FM / 1140 AM</string>
 			<key>logo</key>
 			<string>1140</string>
 			<key>link</key>
-			<string>http://server.ohradio.com.ar:9344/listen.pls</string>
+			<string>http://server.ohradio.com.ar:9498/listen.pls?sid=1</string>
 			<key>http</key>
-			<string></string>
+			<string>http://server.ohradio.com.ar:9344/listen.pls</string>
 			<key>note</key>
 			<string></string>
 		</dict>
@@ -3358,18 +3502,6 @@
 			<string>http://genexservicios.com:8142/listen.pls</string>
 			<key>http</key>
 			<string>http://genexservicios.com:1935/308/308.stream/playlist.m3u8</string>
-			<key>note</key>
-			<string></string>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>La Luna 90.5 FM</string>
-			<key>logo</key>
-			<string>Luna</string>
-			<key>link</key>
-			<string>http://server.ohradio.com.ar:9498/listen.pls?sid=1</string>
-			<key>http</key>
-			<string></string>
 			<key>note</key>
 			<string></string>
 		</dict>

@@ -1,6 +1,7 @@
 {
    "amznTV":{
       "changeCountry": false,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -12,6 +13,7 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
+    "limitCount": 9,
     "adType": 1,
     "uni_id": "4192559",
     "uni_mainAd": "uni_mainAd",
@@ -20,6 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -31,6 +34,7 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
+    "limitCount": 9,
     "adType": 1,
     "uni_id": "4194171",
     "uni_mainAd": "uni_mainAd",
