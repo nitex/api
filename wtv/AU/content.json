@@ -22,61 +22,133 @@
   },
   "huawTV": {
     "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
     "about": "",
     "email": "hegenalsy@gmail.com",
-    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
-    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C104500859",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C104500859",
     "other": "",
-    "bonus": "",
+    "bonus": "https://appgallery.cloud.huawei.com/ag/n/app/C104420319",
     "showMode": false,
     "visualMode": 1,
     "minuteCount": 4,
     "limitCount": 9,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4206951",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-  "Demo": [
-    {
-      "name": "Al Jazeera",
-      "logo": "_000001",
-      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Al Jazeera English",
-      "logo": "_000002",
-      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
-      "http": ""
-    },
-    {
-      "name": "euronews",
-      "logo": "_000003",
-      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Bloomberg Asia",
-      "logo": "_000004",
-      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
-      "http": ""
-    },
-    {
+  "Content": [
+   {
+      "name": "A-PAC",
+      "logo": "a-pac",
+      "link": "http://www.a-pac.tv/",
+      "http": "http://www.a-pac.tv/"
+   },
+   {
+      "name": "ABC 24 (ONLY IN AUSTRALIA)",
+      "logo": "abc",
+      "link": "http://www.abc.net.au/news/abcnews24/",
+      "http": "https://www.youtube.com/user/NewsOnABC/videos?view=2&flow=list"
+   },
+   {
       "name": "Sky News",
-      "logo": "_000005",
-      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Sky News Arabic",
-      "logo": "_000006",
-      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
-      "http": ""
-    }
-  ]
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews/videos?flow=list&view=2"
+   },
+   {
+      "name": "MNTV Australia",
+      "logo": "mntv",
+      "link": "http://mntv.com.au/portal/?page_id=895",
+      "http": "http://mntv.com.au/"
+   },
+   {
+      "name": "INTV",
+      "logo": "intvau",
+      "link": "http://www.intvau.com/#",
+      "http": "http://www.intvau.com/#"
+   },
+   {
+      "name": "Parliament",
+      "logo": "aph",
+      "link": "http://www.aph.gov.au/News_and_Events/Watch_Parliament",
+      "http": "http://www.aph.gov.au/"
+   },
+   {
+      "name": "TV2",
+      "logo": "TV2",
+      "link": "http://www.tv2.com.au/",
+      "http": "https://www.youtube.com/channel/UCO7e_DD3X2ZqOyp4DCFgEXQ/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "ABC News",
+      "logo": "News",
+      "link": "https://www.youtube.com/user/NewsOnABC/videos?view=2&live_view=501&flow=grid",
+      "http": "http://www.abc.net.au/tv/"
+   },
+   {
+      "name": "WTV",
+      "logo": "WTV",
+      "link": "http://wtvperth.com.au/watch-live-tv/",
+      "http": "http://wtvperth.com.au/"
+   },
+   {
+      "name": "Bloomberg Australia",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/australia",
+      "http": "https://www.bloomberg.com/live"
+   },
+   {
+      "name": "44",
+      "logo": "44",
+      "link": "http://www.c44.com.au/live-streams",
+      "http": "http://www.c44.com.au"
+   },
+   {
+      "name": "Arcana",
+      "logo": "Arcana",
+      "link": "http://www.tvarcana.tv/live-tv.html",
+      "http": "http://www.tvarcana.tv"
+   },
+   {
+      "name": "Sky Racing",
+      "logo": "Racing",
+      "link": "http://skyracing.com.au/index.php?component=content&Itemid=210&id=97",
+      "http": "http://skyracing.com.au"
+   },
+   {
+      "name": "TVSN",
+      "logo": "tvsn",
+      "link": "https://www.itvsn.com.au/itvsn/streaming/watch_tvsn.html",
+      "http": "https://www.itvsn.com.au/"
+   },
+   {
+      "name": "Expo Channel",
+      "logo": "Expo",
+      "link": "http://expochannel.com.au/",
+      "http": "http://expochannel.com.au/"
+   },
+   {
+      "name": "God TV",
+      "logo": "god",
+      "link": "http://www.god.tv/live/au",
+      "http": "http://www.god.tv/"
+   },
+   {
+      "name": "Angel TV",
+      "logo": "angeltv",
+      "link": "http://www.angeltv.org/watching_now_new/watchmovie.php",
+      "http": "http://www.angeltv.org/"
+   },
+   {
+      "name": "Hillsong",
+      "logo": "Hillsong",
+      "link": "https://www.tbn.org/watch/live?network=hillsong-channel-live",
+      "http": "https://www.tbn.org/watch"
+   }
+]
 }
