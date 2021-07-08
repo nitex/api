@@ -2,8 +2,8 @@
    "amznTV": {
     "changeCountry": false,
     "demoVisible": true,
-    "mainVisible": false,
-    "ownVisible": false,
+    "mainVisible": true,
+    "ownVisible": true,
     "about": "",
     "email": "hegenalsy@gmail.com",
     "share": "http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -22,25 +22,231 @@
   },
   "huawTV": {
     "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
     "about": "",
     "email": "hegenalsy@gmail.com",
-    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
-    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C104501353",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C104501353",
     "other": "",
-    "bonus": "",
+    "bonus": "https://appgallery.cloud.huawei.com/ag/n/app/C104420627",
     "showMode": false,
     "visualMode": 1,
     "minuteCount": 4,
     "limitCount": 9,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4208325",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "OE24",
+      "logo": "OE24",
+      "link": "http://www.oe24.at/tv",
+      "http": "http://www.oe24.at"
+   },
+   {
+      "name": "Okto",
+      "logo": "Okto",
+      "link": "http://okto.tv/schauen/livestream",
+      "http": "http://okto.tv/schauen"
+   },
+   {
+      "name": "W24",
+      "logo": "W24",
+      "link": "http://www.w24.at/TV-Live",
+      "http": "http://www.w24.at"
+   },
+   {
+      "name": "M4TV (Austria24)",
+      "logo": "Austria24",
+      "link": "http://austria24.tv/web-tv/",
+      "http": "http://austria24.tv/"
+   },
+   {
+      "name": "RTS Salzburg",
+      "logo": "RTS",
+      "link": "http://www.rts-salzburg.at/live/",
+      "http": "http://www.rts-salzburg.at/"
+   },
+   {
+      "name": "FS1",
+      "logo": "FS1",
+      "link": "http://fs1.tv/stream-tv/dein-stream.html",
+      "http": "http://fs1.tv"
+   },
+   {
+      "name": "Tirol TV",
+      "logo": "Tirol",
+      "link": "http://www.tiroltv.at/live/",
+      "http": "http://www.tiroltv.at/"
+   },
+   {
+      "name": "Mühlviertel",
+      "logo": "Muhlviertel",
+      "link": "http://www.muehlviertel.tv/live",
+      "http": "http://www.muehlviertel.tv"
+   },
+   {
+      "name": "Dorf TV",
+      "logo": "Dorf",
+      "link": "https://www.dorftv.at/livestream",
+      "http": "https://www.dorftv.at/home"
+   },
+   {
+      "name": "LLTV - Linz Land TV",
+      "logo": "LLTV",
+      "link": "http://www.linzlandtv.at/LLTV_Live",
+      "http": "http://linzlandtv.riskommunal.net/"
+   },
+   {
+      "name": "3sat",
+      "logo": "3",
+      "link": "http://www.3sat.de/webtv/?live24.rm",
+      "http": "http://www.3sat.de/mediathek/?mode=play&obj=42667"
+   },
+   {
+      "name": "Ländle",
+      "logo": "Landle",
+      "link": "http://www.laendletv.com/",
+      "http": "http://www.laendletv.com/"
+   },
+   {
+      "name": "Euronews",
+      "logo": "Euronews",
+      "link": "http://de.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "Bloomberg TV Europe",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "Der Spiegel",
+      "logo": "Spiegel",
+      "link": "http://www.spiegel.tv/filme/chance-oder-scheitern/",
+      "http": "http://www.spiegel.de/"
+   },
+   {
+      "name": "EbS Europe by Satellite",
+      "logo": "EbS",
+      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
+   },
+   {
+      "name": "Deutsche Welle",
+      "logo": "DW1",
+      "link": "http://www.dw.com/en/media-center/live-tv/s-100825?channel=5",
+      "http": "http://www.dw.com/en/media-center/live-tv/s-100825?channel=4"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   },
+   {
+      "name": "Gotv",
+      "logo": "Gotv",
+      "link": "http://www.gotv.at/app/",
+      "http": "http://www.gotv.at/app/?q=H"
+   },
+   {
+      "name": "KroneHit",
+      "logo": "KroneHit",
+      "link": "http://www.kronehit.at/alles-ueber-kronehit/tv/",
+      "http": "http://www.kronehit.at/"
+   },
+   {
+      "name": "ZDF",
+      "logo": "ZDF",
+      "link": "https://www.zdf.de/live-tv",
+      "http": "https://www.zdf.de/"
+   },
+   {
+      "name": "Viyana TV",
+      "logo": "Viyana",
+      "link": "http://www.viyana.tv/",
+      "http": "http://www.viyana.tv/"
+   },
+   {
+      "name": "Melodie Express",
+      "logo": "Melodie",
+      "link": "http://www.melodie-express.tv/stream",
+      "http": "http://web4137.ws.mynet.at/cms/"
+   },
+   {
+      "name": "K-TV",
+      "logo": "K-TV",
+      "link": "http://www3.k-tv.org/live-stream/hohe-qualit%C3%A4t",
+      "http": "http://www3.k-tv.org/live-stream"
+   },
+   {
+      "name": "Swamiji",
+      "logo": "Swamiji",
+      "link": "http://www.swamiji.tv/stream/eu/eu-Vienna",
+      "http": "http://www.yogaindailylife.org/"
+   },
+   {
+      "name": "Wesal Wiv",
+      "logo": "Wiv",
+      "link": "http://www.wiv-online.tv/",
+      "http": "http://www.wiv-online.tv/"
+   },
+   {
+      "name": "ERF",
+      "logo": "ERF",
+      "link": "https://www.erf.de/fernsehen/livestream/4072?reset=1",
+      "http": "https://www.erf.de/fernsehen/4049"
+   },
+   {
+      "name": "Bibel",
+      "logo": "Bibel1",
+      "link": "http://www.bibeltv.de/livestreams/bibeltv/",
+      "http": "http://www.bibeltv.de/"
+   },
+   {
+      "name": "Bibel Impuls",
+      "logo": "Bibel2",
+      "link": "http://www.bibeltv.de/livestreams/impuls/",
+      "http": "http://www.bibeltv.de/"
+   },
+   {
+      "name": "Bibel Musik",
+      "logo": "Bibel3",
+      "link": "http://www.bibeltv.de/livestreams/musik/",
+      "http": "http://www.bibeltv.de/"
+   },
+   {
+      "name": "Hope",
+      "logo": "Hope",
+      "link": "http://www.hopechannel.de/tv/live/",
+      "http": "http://www.hopechannel.de/"
+   },
+   {
+      "name": "EWTN",
+      "logo": "EWTN",
+      "link": "http://www.ewtn.de/streaming/player.php",
+      "http": "http://www.ewtn.de/"
+   },
+   {
+      "name": "MTA",
+      "logo": "MTA",
+      "link": "http://www.mta.tv/live",
+      "http": "https://www.youtube.com/user/mtaOnline1/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Servus TV",
+      "logo": "Servus",
+      "link": "http://www.servustv.com/at/Live",
+      "http": "http://www.servustv.com/at"
+   }
+],
   "Demo": [
     {
       "name": "Al Jazeera",
