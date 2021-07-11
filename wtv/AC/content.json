@@ -2,8 +2,8 @@
    "amznTV":{
       "changeCountry": false,
     "demoVisible": true,
-    "mainVisible": false,
-    "ownVisible": false,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -143,9 +143,9 @@
       "http": ""
     },
     {
-      "name": "ABC",
+      "name": "ausbiz",
       "logo": "_200005",
-      "link": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+      "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
       "http": ""
     },
     {
@@ -347,37 +347,37 @@
   ],
   "Demo8": [
     {
-      "name": "",
-      "logo": "_500001",
-      "link": "",
+      "name": "HTV",
+      "logo": "_800001",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500002",
-      "link": "",
+      "name": "CNBC TV18",
+      "logo": "_800002",
+      "link": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500003",
-      "link": "",
+      "name": "Домашний",
+      "logo": "_800003",
+      "link": "http://ott-cdn.ucom.am/s88/index.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500004",
-      "link": "",
+      "name": "РБК",
+      "logo": "_800004",
+      "link": "http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8",
       "http": ""
     },
     {
-      "name": "",
+      "name": "France 3",
       "logo": "_800005",
       "link": "http://edge9.iptvnetwork.net/live/france3/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "",
+      "name": "France 5",
       "logo": "_800006",
       "link": "http://edge9.iptvnetwork.net/live/france5/playlist.m3u8",
       "http": ""
@@ -385,39 +385,39 @@
   ],
   "Demo9": [
     {
-      "name": "",
-      "logo": "_500001",
-      "link": "",
+      "name": "ABC News",
+      "logo": "_900001",
+      "link": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500002",
-      "link": "",
+      "name": "Azteca",
+      "logo": "_900002",
+      "link": "https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500003",
-      "link": "",
+      "name": "Rai 3",
+      "logo": "_900003",
+      "link": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500004",
-      "link": "",
+      "name": "Rai NEWS 24",
+      "logo": "_900004",
+      "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500005",
-      "link": "",
+      "name": "THT",
+      "logo": "_900005",
+      "link": "http://ott-cdn.ucom.am/s19/04.m3u8",
       "http": ""
     },
     {
-      "name": "",
-      "logo": "_500006",
-      "link": "",
+      "name": "TV BR Web",
+      "logo": "_900006",
+      "link": "https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(naXbjbTlDxrHlrlxKSNzig)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuG_AaUF86vlMJtsMkooySBOlQbVM33PgsYPQdea2BJafjjc-BWtPRlStfmQ939PXcd844pid2JY82J6JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kYcqZf8MZQ)))/index.m3u8",
       "http": ""
     }
   ]
