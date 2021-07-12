@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104507697",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104507697",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,67 @@
       "minuteCount":4,
     "limitCount": 9,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4214301",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Zenica",
+      "logo": "Zenica",
+      "link": "http://www.rtvze.ba/tvze-uzivo/",
+      "http": "http://original.livestream.com/tv_zenica_live"
+   },
+   {
+      "name": "N1",
+      "logo": "N1",
+      "link": "http://hr.n1info.com/Video/LIVE-TV/a5760/N1-UZIVO.html",
+      "http": "http://hr.n1info.com"
+   },
+   {
+      "name": "Posavina",
+      "logo": "Posavina",
+      "link": "https://www.youtube.com/user/posavinatv/live",
+      "http": "http://www.posavinatv.com/"
+   },
+   {
+      "name": "Televizija Sarajevo",
+      "logo": "Sarajevo",
+      "link": "http://tvsa.ba/televizija-sarajevo-live-stream-p2088-224.htm",
+      "http": "http://tvsa.ba"
+   },
+   {
+      "name": "OTV Valentino",
+      "logo": "OTV",
+      "link": "http://www.valentinobh.com/",
+      "http": "http://www.valentinobh.com/"
+   },
+   {
+      "name": "ATV",
+      "logo": "ATV",
+      "link": "http://www.atvbl.com/atv-program/live-streaming/",
+      "http": "http://www.atvbl.com"
+   },
+   {
+      "name": "Sultanovici",
+      "logo": "Sultanovici",
+      "link": "http://original.livestream.com/sultanovici",
+      "http": "http://www.sultanovic.net/"
+   },
+   {
+      "name": "Modrica",
+      "logo": "Modrica",
+      "link": "http://original.livestream.com/tvmd",
+      "http": "http://original.livestream.com/tvmd"
+   },
+   {
+      "name": "RTV Mess",
+      "logo": "RTV",
+      "link": "http://rtvmess.ucoz.com/",
+      "http": "http://rtvmess.ucoz.com/"
+   }
+],
   "Demo": [
     {
       "name": "KBC (K Brdcst. Corp.) - GBS",

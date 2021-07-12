@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104505345",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104505345",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,97 @@
       "minuteCount":4,
     "limitCount": 9,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4214289",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Bolivia 7.1",
+      "logo": "71",
+      "link": "http://www.boliviatv.bo/principal/tvenvivo71.php",
+      "http": "http://www.boliviatv.bo"
+   },
+   {
+      "name": "Bolivia 7.2",
+      "logo": "72",
+      "link": "http://www.boliviatv.bo/principal/tvenvivo72.php",
+      "http": "http://www.boliviatv.bo"
+   },
+   {
+      "name": "PAT HD",
+      "logo": "PAT1",
+      "link": "https://www.redpat.tv/envivo/",
+      "http": "https://www.redpat.tv/"
+   },
+   {
+      "name": "PAT Plus",
+      "logo": "PAT2",
+      "link": "https://www.redpat.tv/patplus/",
+      "http": "https://www.redpat.tv/"
+   },
+   {
+      "name": "Abya Yala",
+      "logo": "Abya",
+      "link": "http://abyayala.tv.bo/index.php/abyayala-en-vivo/",
+      "http": "http://abyayala.tv.bo"
+   },
+   {
+      "name": "PlusTLT",
+      "logo": "PlusTLT",
+      "link": "http://www.ustream.tv/channel/plus-tv-tarija",
+      "http": "http://www.plustlt.tv/"
+   },
+   {
+      "name": "Red Bolivisión - La Paz",
+      "logo": "Paz",
+      "link": "https://www.redbolivision.tv.bo/envivo",
+      "http": "http://www.redbolivision.tv.bo"
+   },
+   {
+      "name": "Red Bolivisión - Santa Cruz",
+      "logo": "Cruz",
+      "link": "https://www.redbolivision.tv.bo/envivo",
+      "http": "http://www.redbolivision.tv.bo"
+   },
+   {
+      "name": "TeleSUR",
+      "logo": "TeleSUR",
+      "link": "https://www.youtube.com/user/telesurtv/videos?view=2&live_view=501&flow=grid",
+      "http": "https://www.telesurtv.net/"
+   },
+   {
+      "name": "Red Uno",
+      "logo": "Red",
+      "link": "http://www.reduno.com.bo/senal-en-vivo/",
+      "http": "http://www.reduno.com.bo"
+   },
+   {
+      "name": "Red ADvenir",
+      "logo": "ADvenir",
+      "link": "http://redadvenir.org/",
+      "http": "http://redadvenir.org/"
+   },
+   {
+      "name": "CVC (Canal Virgen de Copacabana)",
+      "logo": "CVC",
+      "link": "http://virgendecopacabana.tv/",
+      "http": "http://virgendecopacabana.tv/"
+   },
+   {
+      "name": "Valentia",
+      "logo": "Valentia",
+      "link": "http://valentiatv.com/",
+      "http": "http://valentiatv.com/"
+   },
+   {
+      "name": "RT en Español",
+      "logo": "RT",
+      "link": "https://actualidad.rt.com/en_vivo2",
+      "http": "https://www.youtube.com/user/ActualidadRT/videos?view=2&flow=grid&live_view=501"
+   }
+],
   "Demo": [
     {
       "name": "TV ALMG",

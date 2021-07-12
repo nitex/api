@@ -22,25 +22,93 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104505203",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104505203",
       "other":"",
-      "bonus":"",
+      "bonus":"https://appgallery.cloud.huawei.com/ag/n/app/C104462657",
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
     "limitCount": 9,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4214227",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "АНТ - Общенациональное телевидение",
+      "logo": "ont",
+      "link": "https://ont.by/broadcasting",
+      "http": "http://ont.by/"
+   },
+   {
+      "name": "Беларусь 24",
+      "logo": "belarus24",
+      "link": "https://www.tvr.by/televidenie/belarus-24/",
+      "http": "https://www.tvr.by/live-broadcast/"
+   },
+   {
+      "name": "Беларусь 1",
+      "logo": "belarus1",
+      "link": "https://www.tvr.by/televidenie/belarus-1/",
+      "http": "https://www.tvr.by/live-broadcast/"
+   },
+   {
+      "name": "Беларусь 2",
+      "logo": "belarus2",
+      "link": "https://www.tvr.by/televidenie/belarus-2/",
+      "http": "https://www.tvr.by/live-broadcast/"
+   },
+   {
+      "name": "Беларусь 3",
+      "logo": "belarus3",
+      "link": "https://www.tvr.by/televidenie/belarus-3/",
+      "http": "https://www.tvr.by/live-broadcast/"
+   },
+   {
+      "name": "Беларусь 5",
+      "logo": "belarus5",
+      "link": "http://www.tvr.by/televidenie/belarus-5/",
+      "http": "https://www.tvr.by/live-broadcast/"
+   },
+   {
+      "name": "Беларусь 5. Интернет",
+      "logo": "5internet",
+      "link": "https://www.tvr.by/televidenie/belarus-5-internet/",
+      "http": "https://www.tvr.by/live-broadcast/"
+   },
+   {
+      "name": "Столичное телевидение",
+      "logo": "ctv",
+      "link": "http://www.ctv.by/online",
+      "http": "http://www.ctv.by/"
+   },
+   {
+      "name": "Белсат",
+      "logo": "belsat",
+      "link": "http://belsat.eu/online/",
+      "http": "https://www.youtube.com/user/ibelsat/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "First Music",
+      "logo": "one",
+      "link": "http://hdstream.one.by/",
+      "http": "http://www.one.by/"
+   },
+   {
+      "name": "Первый музыкальный",
+      "logo": "1",
+      "link": "http://1muz.com/",
+      "http": "http://1muz.com/"
+   }
+],
   "Demo": [
     {
       "name": "ANTENNE VORARLBERG",

@@ -1,17 +1,19 @@
 {
    "amznTV":{
       "changeCountry": false,
-    "mainVisible": false,
+    "demoVisible": true,
+    "mainVisible": true,
     "ownVisible": true,
       "about":"",
-      "email":"fowlerlairon@gmail.com",
+      "email":"hegenalsy@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "other":"http://www.amazon.com/gp/mas/dl/android?s= Labinson%20Diares",
+      "other":"http://www.amazon.com/gp/mas/dl/android?s=Labins",
       "bonus":"",
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
+    "limitCount": 9,
     "adType": 1,
     "uni_id": "REPLACE",
     "uni_mainAd": "uni_mainAd",
@@ -20,10 +22,11 @@
   },
    "huawTV":{
       "changeCountry": false,
+    "demoVisible": true,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
-      "email":"fowlerlairon@gmail.com",
+      "email":"hegenalsy@gmail.com",
       "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
       "other":"",
@@ -31,13 +34,14 @@
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
+    "limitCount": 9,
     "adType": 1,
     "uni_id": "REPLACE",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "Content": [
+   "Demo": [
     {
       "name": "Al Jazeera",
       "logo": "_000001",

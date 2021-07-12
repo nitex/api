@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104512163",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104512163",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,241 @@
       "minuteCount":4,
     "limitCount": 9,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4214331",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Talagante TV",
+      "logo": "Talagante",
+      "link": "https://mediacpstreamchile.com:1936/samuelalvarado/samuelalvarado/playlist.m3u8",
+      "http": "https://talagantetv.cl/"
+   },
+   {
+      "name": "La Red",
+      "logo": "La",
+      "link": "http://lared.cl/senal-online",
+      "http": "http://lared.cl/"
+   },
+   {
+      "name": "UCV",
+      "logo": "UCV",
+      "link": "http://www.mediamas.tv/senal-online/",
+      "http": "http://www.mediamas.tv"
+   },
+   {
+      "name": "Chilevisión (CHV)",
+      "logo": "CHV",
+      "link": "http://www.chilevision.cl/senal-online/",
+      "http": "http://www.chilevision.cl"
+   },
+   {
+      "name": "MEGA",
+      "logo": "MEGA",
+      "link": "http://www.mega.cl/senal-en-vivo/",
+      "http": "http://www.mega.cl"
+   },
+   {
+      "name": "24 Horas",
+      "logo": "Horas",
+      "link": "http://www.24horas.cl/envivo",
+      "http": "http://www.24horas.cl"
+   },
+   {
+      "name": "TVN",
+      "logo": "TVN",
+      "link": "http://www.tvn.cl/envivo/",
+      "http": "http://www.tvn.cl"
+   },
+   {
+      "name": "TVN MÚSICA",
+      "logo": "MUSICA",
+      "link": "http://www.tvn.cl/envivo/tvnmusica/",
+      "http": "http://www.tvn.cl"
+   },
+   {
+      "name": "TVN KIDS",
+      "logo": "KIDS",
+      "link": "http://www.tvn.cl/envivo/tvnkids/",
+      "http": "http://www.tvn.cl"
+   },
+   {
+      "name": "TVN DE CULTO",
+      "logo": "CULTO",
+      "link": "http://www.tvn.cl/envivo/tvndeculto/",
+      "http": "http://www.tvn.cl"
+   },
+   {
+      "name": "CHILE",
+      "logo": "CHILE",
+      "link": "http://www.tvn.cl/envivo/tvchile/",
+      "http": "http://www.tvn.cl"
+   },
+   {
+      "name": "Niu",
+      "logo": "Niu",
+      "link": "http://niu.cl/",
+      "http": "http://niu.cl/"
+   },
+   {
+      "name": "FM Hot TV",
+      "logo": "Hot",
+      "link": "http://fmhot.cl/canal-tv/",
+      "http": "http://fmhot.cl"
+   },
+   {
+      "name": "UCV3",
+      "logo": "UCV3",
+      "link": "http://ucv3.cl/",
+      "http": "http://ucv3.cl/home.php"
+   },
+   {
+      "name": "Senado (TVS)",
+      "logo": "TVS",
+      "link": "http://tv.senado.cl/",
+      "http": "http://tv.senado.cl/"
+   },
+   {
+      "name": "CDTV Cámara de Diputados",
+      "logo": "CDTV",
+      "link": "http://www.cdtv.cl/home.aspx",
+      "http": "http://www.cdtv.cl"
+   },
+   {
+      "name": "Enlace",
+      "logo": "Enlace",
+      "link": "https://www.enlace.org/envivo/",
+      "http": "https://www.enlace.org"
+   },
+   {
+      "name": "Nuevo Tiempo",
+      "logo": "Tiempo",
+      "link": "http://www.nuevotiempo.cl/tv-online/",
+      "http": "http://www.nuevotiempo.cl"
+   },
+   {
+      "name": "TNE",
+      "logo": "TNE",
+      "link": "http://www.tnetv.cl/senal_online",
+      "http": "http://www.tnetv.cl"
+   },
+   {
+      "name": "RTC",
+      "logo": "RTC",
+      "link": "http://www.rtctelevision.cl/",
+      "http": "http://www.rtctelevision.cl/"
+   },
+   {
+      "name": "Antofagasta",
+      "logo": "Antofagasta",
+      "link": "http://antofagasta.tv/senal-online/",
+      "http": "http://antofagasta.tv/"
+   },
+   {
+      "name": "Cable Noticias",
+      "logo": "Noticias",
+      "link": "http://www.cablenoticias.cl/on-line",
+      "http": "http://www.cablenoticias.cl/"
+   },
+   {
+      "name": "VTV - Valle del Aconcagua\t",
+      "logo": "VTV1",
+      "link": "http://canalvtv.cl/2017/transmision_aconcagua/",
+      "http": "http://canalvtv.cl/2017"
+   },
+   {
+      "name": "VTV - Valparaíso y Viña del Mar",
+      "logo": "VTV2",
+      "link": "http://canalvtv.cl/2017/transmision_costa/",
+      "http": "http://canalvtv.cl/2017"
+   },
+   {
+      "name": "Noticias Colchagua",
+      "logo": "Colchagua",
+      "link": "http://noticiascolchagua.cl/senal-en-vivo/",
+      "http": "http://noticiascolchagua.cl"
+   },
+   {
+      "name": "9 Bío-Bío",
+      "logo": "9",
+      "link": "http://www.biobiotv.cl/envivo/",
+      "http": "http://www.biobiotv.cl"
+   },
+   {
+      "name": "TV4 Lota",
+      "logo": "TV4",
+      "link": "http://tv4television.cl/en-vivo/",
+      "http": "http://tv4television.cl"
+   },
+   {
+      "name": "ATV Valdivia",
+      "logo": "ATV",
+      "link": "https://www.atvvaldivia.com/se-al-en-vivo",
+      "http": "https://www.atvvaldivia.com"
+   },
+   {
+      "name": "Puerto Montt",
+      "logo": "Puerto",
+      "link": "http://canal5.cl/",
+      "http": "http://canal5.cl/"
+   },
+   {
+      "name": "Santa María",
+      "logo": "Santa",
+      "link": "http://santamariatv.cl/",
+      "http": "http://santamariatv.cl/"
+   },
+   {
+      "name": "Soberania",
+      "logo": "Soberania",
+      "link": "http://www.soberaniaradio.cl/",
+      "http": "http://www.soberaniaradio.cl/"
+   },
+   {
+      "name": "Pingüino",
+      "logo": "Pinguino",
+      "link": "http://elpinguino.com/digital/tv",
+      "http": "http://elpinguino.com/tv"
+   },
+   {
+      "name": "ITV Patagonia",
+      "logo": "ITV",
+      "link": "http://www.itvpatagonia.com/",
+      "http": "http://www.itvpatagonia.com/"
+   },
+   {
+      "name": "Red",
+      "logo": "Red",
+      "link": "http://www.tvred.cl/wp/en-vivo/",
+      "http": "http://www.tvred.cl"
+   },
+   {
+      "name": "TVU",
+      "logo": "TVU",
+      "link": "https://www.tvu.cl/online.html",
+      "http": "https://www.tvu.cl/"
+   },
+   {
+      "name": "Ahora Noticias",
+      "logo": "Ahora",
+      "link": "http://www.ahoranoticias.cl/senal-en-vivo/",
+      "http": "http://www.ahoranoticias.cl"
+   },
+   {
+      "name": "Canal 13",
+      "logo": "13",
+      "link": "http://www.13.cl/en-vivo",
+      "http": "http://www.13.cl"
+   },
+   {
+      "name": "Contivision",
+      "logo": "Contivision",
+      "link": "http://web.contivision.cl/ctv/envivo.php",
+      "http": "http://www.contivision.cl"
+   }
+],
   "Demo": [
     {
       "name": "ABC News",
