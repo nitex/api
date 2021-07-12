@@ -2,8 +2,8 @@
    "amznTV":{
       "changeCountry": false,
     "demoVisible": true,
-    "mainVisible": false,
-    "ownVisible": false,
+    "mainVisible": true,
+    "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
@@ -22,61 +22,127 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104504975",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104504975",
       "other":"",
-      "bonus":"",
+      "bonus":"https://appgallery.cloud.huawei.com/ag/n/app/C104464889",
       "showMode": false,
       "visualMode":1,
       "minuteCount":4,
     "limitCount": 9,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4214097",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-  "Demo": [
-    {
-      "name": "Eman Channel",
-      "logo": "_300001",
-      "link": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Manoto",
-      "logo": "_300002",
-      "link": "https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8",
-      "http": ""
-    },
-    {
-      "name": "MoonBug",
-      "logo": "_300003",
-      "link": "https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Wonder",
-      "logo": "_300004",
-      "link": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "V2BEAT",
-      "logo": "_300005",
-      "link": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Akaal TV",
-      "logo": "_300006",
-      "link": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
-      "http": ""
-    }
-  ]
+  "Content": [
+   {
+      "name": "Bahrain 1 تلفزيون البحرين",
+      "logo": "1",
+      "link": "http://www.bna.bh/portal/tv/btv",
+      "http": "http://www.mia.gov.bh/ar/Media-Center/LiveTV-Radio/Pages/BahrainTV%E2%80%93Channel44.aspx"
+   },
+   {
+      "name": "Bahrain Sports البحرين الرياضية",
+      "logo": "Sports",
+      "link": "http://www.bna.bh/portal/tv/sports",
+      "http": "http://www.mia.gov.bh/ar/Media-Center/LiveTV-Radio/Pages/BahrainTV%E2%80%93SportsChannel.aspx"
+   },
+   {
+      "name": "Bahrain Ch. 55 الرئيسية",
+      "logo": "55",
+      "link": "http://www.bna.bh/portal/tv/ch55",
+      "http": "http://www.mia.gov.bh/ar/Media-Center/LiveTV-Radio/Pages/BahrainTV%E2%80%93Channel55.aspx"
+   },
+   {
+      "name": "LuaLua TV (قناة اللؤلؤة الفضائية)",
+      "logo": "LuaLua",
+      "link": "https://www.youtube.com/user/LuaLuaLive/videos?view=2&live_view=501&flow=grid",
+      "http": "http://lualuatv.com/"
+   },
+   {
+      "name": "Al Maaref TV (قناة المعارف)",
+      "logo": "Maaref",
+      "link": "http://live.almaaref.tv/",
+      "http": "http://almaaref.tv/"
+   },
+   {
+      "name": "Al Arabiya العربية‎",
+      "logo": "Arabiya",
+      "link": "https://www.alarabiya.net/live-stream.html?cref=navdesk",
+      "http": "https://www.youtube.com/user/AlArabiya/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "الحدث Al Hadath",
+      "logo": "Hadath",
+      "link": "http://www.alhadath.net/live-stream.html?cref=navdesk",
+      "http": "https://www.youtube.com/channel/UCrj5BGAhtWxDfqbza9T9hqA/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "CNBC Arabia (سي إن بي سي عربية)",
+      "logo": "CNBC",
+      "link": "https://www.cnbcarabia.com/Pages/live",
+      "http": "https://www.cnbcarabia.com/"
+   },
+   {
+      "name": "BBC Arabic (بي بي سي عربي)",
+      "logo": "BBC",
+      "link": "http://www.bbc.com/arabic/tvandradio/2013/05/000000_bbcarabic_livetv",
+      "http": "https://www.youtube.com/user/BBCArabicNews/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "التلفزيون العربي Alaraby    ",
+      "logo": "Alaraby",
+      "link": "http://alaraby.tv/live/61/alaraby",
+      "http": "http://alaraby.tv"
+   },
+   {
+      "name": "euronews عــربي",
+      "logo": "euronews",
+      "link": "http://arabic.euronews.com/live",
+      "http": "http://arabic.euronews.com/"
+   },
+   {
+      "name": "فرانس 24 (FRANCE 24 Arabic)",
+      "logo": "FRANCE",
+      "link": "http://www.france24.com/ar/",
+      "http": "https://www.youtube.com/user/france24arabic/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "Al Mayadeen الميادين",
+      "logo": "Mayadeen",
+      "link": "http://www.almayadeen.net/live",
+      "http": "https://www.youtube.com/user/Mayadeentv/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Almagharibia المغاربية‎",
+      "logo": "Almagharibia",
+      "link": "https://almagharibia.tv/",
+      "http": "https://almagharibia.tv/"
+   },
+   {
+      "name": "Alhurra الحرة",
+      "logo": "Alhurra",
+      "link": "https://www.alhurra.com/embed/player/tube/4.html",
+      "http": "https://www.alhurra.com/embed/player/tube/5.html"
+   },
+   {
+      "name": "RT Arabic",
+      "logo": "RT",
+      "link": "https://arabic.rt.com/live/",
+      "http": "https://www.youtube.com/user/RTarabic/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "CGTN Arabic سي جي تي أن العربية‎‎",
+      "logo": "CGTN",
+      "link": "https://www.cgtn.com/channel/ar.do",
+      "http": "https://www.cgtn.com"
+   }
+]
 }
