@@ -12,8 +12,8 @@
       "bonus":"",
       "showMode": false,
       "visualMode":1,
-      "minuteCount":4,
-    "limitCount": 9,
+      "minuteCount":2,
+    "limitCount": 5,
     "adType": 1,
     "uni_id": "REPLACE",
     "uni_mainAd": "uni_mainAd",
@@ -22,26 +22,202 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104530087",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104530087",
       "other":"",
       "bonus":"",
       "showMode": false,
       "visualMode":1,
-      "minuteCount":4,
-    "limitCount": 9,
+      "minuteCount":2,
+    "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4220961",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "Demo": [
+  "Content": [
+   {
+      "name": "ČT24",
+      "logo": "24",
+      "link": "http://www.ceskatelevize.cz/ct24#live",
+      "http": "http://www.ceskatelevize.cz/ct24/zive-vysilani/"
+   },
+   {
+      "name": "ČT1",
+      "logo": "1",
+      "link": "http://www.ceskatelevize.cz/ct1/zive/",
+      "http": "http://www.ceskatelevize.cz/ivysilani/zive"
+   },
+   {
+      "name": "ČT2",
+      "logo": "2",
+      "link": "http://www.ceskatelevize.cz/ct2/zive/",
+      "http": "http://www.ceskatelevize.cz/"
+   },
+   {
+      "name": "ČT Sport",
+      "logo": "Sport",
+      "link": "http://www.ceskatelevize.cz/sport/zive-vysilani/",
+      "http": "http://www.ceskatelevize.cz/"
+   },
+   {
+      "name": "ČT Déčko",
+      "logo": "CT",
+      "link": "http://decko.ceskatelevize.cz/zive",
+      "http": "http://decko.ceskatelevize.cz/"
+   },
+   {
+      "name": "ČT art",
+      "logo": "art",
+      "link": "http://www.ceskatelevize.cz/art/zive/",
+      "http": "http://www.ceskatelevize.cz/"
+   },
+   {
+      "name": "Regionální Televize",
+      "logo": "Televize",
+      "link": "http://www.regionalnitelevize.cz/cz/123-live.html",
+      "http": "http://www.regionalnitelevize.cz/"
+   },
+   {
+      "name": "PrahaTV",
+      "logo": "PrahaTV",
+      "link": "http://prahatv.eu/",
+      "http": "http://prahatv.eu/"
+   },
+   {
+      "name": "TV Morava",
+      "logo": "Morava",
+      "link": "http://www.tvmorava.cz/",
+      "http": "http://www.tvmorava.cz/"
+   },
+   {
+      "name": "Polar",
+      "logo": "Polar",
+      "link": "https://polar.cz/",
+      "http": "https://polar.cz/"
+   },
+   {
+      "name": "Východočeská televize V1",
+      "logo": "V1",
+      "link": "http://vctv.cz/",
+      "http": "http://vctv.cz/"
+   },
+   {
+      "name": "OIK TV",
+      "logo": "OIK",
+      "link": "http://www.ustream.tv/channel/oiktvlive/pop-out",
+      "http": "http://oik.cz/"
+   },
+   {
+      "name": "i-Vysočina.cz",
+      "logo": "i",
+      "link": "http://www.i-vysocina.cz/tv",
+      "http": "https://www.youtube.com/user/ivysocina/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "TVS Televize Slovácko",
+      "logo": "TVS",
+      "link": "http://www.televizetvs.cz/home",
+      "http": "http://www.televizetvs.cz/"
+   },
+   {
+      "name": "Óčko",
+      "logo": "Ocko",
+      "link": "http://ocko.tv/live.aspx",
+      "http": "http://ocko.tv/"
+   },
+   {
+      "name": "Óčko Gold",
+      "logo": "Ocko1",
+      "link": "http://ocko.tv/live.aspx?channel=gold",
+      "http": "http://ocko.tv/"
+   },
+   {
+      "name": "Óčko Expres",
+      "logo": "Ocko2",
+      "link": "http://ocko.tv/live.aspx?channel=expres",
+      "http": "http://ocko.tv/"
+   },
+   {
+      "name": "Retro Music",
+      "logo": "Retro",
+      "link": "http://www.retromusic.cz/index.php?cont=vysilani&language=en",
+      "http": "http://www.retromusic.cz"
+   },
+   {
+      "name": "FashionTV",
+      "logo": "FashionTV",
+      "link": "http://www.tvfashion.eu/#livestream",
+      "http": "http://www.tvfashion.eu/#play-stream"
+   },
+   {
+      "name": "Euronews",
+      "logo": "Euronews",
+      "link": "http://de.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "EbS Europe by Satellite",
+      "logo": "EbS",
+      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
+   },
+   {
+      "name": "Bloomberg TV Europe",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "Noe",
+      "logo": "Noe",
+      "link": "http://www.tvnoe.cz/live",
+      "http": "http://www.tvnoe.cz"
+   },
+   {
+      "name": "Český rozhlas",
+      "logo": "rozhlas",
+      "link": "http://www.rozhlas.cz/radiozurnal/studio/#/1",
+      "http": "http://www.rozhlas.cz/dvojka/studio/#/1"
+   },
+   {
+      "name": "Vltava",
+      "logo": "Vltava",
+      "link": "http://www.rozhlas.cz/vltava/studio/#/1",
+      "http": "http://www.rozhlas.cz/radiowave/studio/#/1"
+   },
+   {
+      "name": "Deutsche Welle",
+      "logo": "DW2",
+      "link": "http://www.dw.com/en/media-center/live-tv/s-100825?channel=5",
+      "http": "http://www.dw.com/en/media-center/live-tv/s-100825?channel=4"
+   },
+   {
+      "name": "EWTN",
+      "logo": "EWTN",
+      "link": "http://www.ewtn.de/streaming/player.php",
+      "http": "http://www.ewtn.de/"
+   },
+   {
+      "name": "Hope",
+      "logo": "Hope",
+      "link": "http://www.hopechannel.de/tv/live/",
+      "http": "http://www.hopechannel.de/"
+   },
+   {
+      "name": "MTA",
+      "logo": "MTA",
+      "link": "http://www.mta.tv/live",
+      "http": "https://www.youtube.com/user/mtaOnline1/videos?view=2&live_view=501&flow=grid"
+   }
+],
+  "Demo": [
     {
       "name": "Al Jazeera",
       "logo": "_000001",
