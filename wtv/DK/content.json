@@ -20,9 +20,9 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "huawTV":{
+  "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,12 +36,140 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4224267",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "Demo": [
+  "Content": [
+   {
+      "name": "TV 2 Østjylland",
+      "logo": "TV2",
+      "link": "http://www.tv2oj.dk/live-tv",
+      "http": "http://www.tv2oj.dk"
+   },
+   {
+      "name": "TV Aarhus",
+      "logo": "Aarhus",
+      "link": "http://www.tvaarhus.dk/tvaarhus-livetv/",
+      "http": "http://www.tvaarhus.dk/"
+   },
+   {
+      "name": "TV2 Nord",
+      "logo": "Nord",
+      "link": "http://www.tv2nord.dk/tv",
+      "http": "http://www.tv2nord.dk"
+   },
+   {
+      "name": "TV Øst",
+      "logo": "Ost",
+      "link": "http://www.tveast.dk/nettv-live",
+      "http": "http://www.tveast.dk"
+   },
+   {
+      "name": "TV 2 Fyn",
+      "logo": "Fyn",
+      "link": "http://www.tv2fyn.dk/live-tv",
+      "http": "http://www.tv2fyn.dk"
+   },
+   {
+      "name": "TV 2 Lorry",
+      "logo": "Lorry",
+      "link": "http://www.tv2lorry.dk/live",
+      "http": "http://www.tv2lorry.dk"
+   },
+   {
+      "name": "TVS Syd",
+      "logo": "Syd",
+      "link": "http://www.tvsyd.dk/live-tv",
+      "http": "http://www.tvsyd.dk"
+   },
+   {
+      "name": "TVMV Midtvest",
+      "logo": "TVMV",
+      "link": "http://www.tvmidtvest.dk/live",
+      "http": "http://www.tvmidtvest.dk"
+   },
+   {
+      "name": "TV 2 Bornholm",
+      "logo": "Bornholm",
+      "link": "http://play.tv2bornholm.dk/?area=liveTV",
+      "http": "http://play.tv2bornholm.dk"
+   },
+   {
+      "name": "Folketinget",
+      "logo": "Folketinget",
+      "link": "http://www.ft.dk/webTV/TV_kanalen_folketinget.aspx",
+      "http": "http://www.ft.dk/webTV"
+   },
+   {
+      "name": "DR 1",
+      "logo": "1",
+      "link": "https://www.dr.dk/TV/live/dr1",
+      "http": "https://www.dr.dk/tv/"
+   },
+   {
+      "name": "DR 2",
+      "logo": "2",
+      "link": "https://www.dr.dk/tv/live/dr2",
+      "http": "https://www.dr.dk/tv/"
+   },
+   {
+      "name": "DR 3",
+      "logo": "3",
+      "link": "https://www.dr.dk/tv/live/dr3",
+      "http": "https://www.dr.dk/tv/"
+   },
+   {
+      "name": "DR K",
+      "logo": "K",
+      "link": "https://www.dr.dk/tv/live/dr-k",
+      "http": "https://www.dr.dk/tv/"
+   },
+   {
+      "name": "DR Ramasjang",
+      "logo": "Ramasjang",
+      "link": "https://www.dr.dk/tv/live/dr-ramasjang",
+      "http": "https://www.dr.dk/tv/"
+   },
+   {
+      "name": "DR Ultra",
+      "logo": "Ultra",
+      "link": "https://www.dr.dk/tv/live/dr-ultra",
+      "http": "https://www.dr.dk/tv/"
+   },
+   {
+      "name": "KKRtv",
+      "logo": "KKRtv",
+      "link": "http://kkrtv.dk/live-tv/",
+      "http": "http://kkrtv.dk"
+   },
+   {
+      "name": "Bloomberg TV Europe",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "Euronews",
+      "logo": "Euronews",
+      "link": "http://de.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "EbS Europe by Satellite",
+      "logo": "EbS",
+      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   }
+],
+  "Demo": [
     {
       "name": "Al Jazeera",
       "logo": "_000001",

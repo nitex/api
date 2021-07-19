@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,79 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4224255",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Alfa",
+      "logo": "Alfa",
+      "link": "http://www.permanto.fi/live",
+      "http": "http://www.permanto.fi"
+   },
+   {
+      "name": "YLE TV1",
+      "logo": "TV1",
+      "link": "http://areena.yle.fi/tv/suorat/yle-tv1",
+      "http": "http://areena.yle.fi/tv/suorat/yle-tv1#autoplay=true"
+   },
+   {
+      "name": "YLE TV2",
+      "logo": "TV2",
+      "link": "http://areena.yle.fi/tv/suorat/yle-tv2",
+      "http": "http://areena.yle.fi/tv/suorat/yle-tv2#autoplay=true"
+   },
+   {
+      "name": "YLE Fem",
+      "logo": "Fem",
+      "link": "http://areena.yle.fi/tv/suorat/yle-fem",
+      "http": "http://areena.yle.fi/tv/suorat/yle-fem#autoplay=true"
+   },
+   {
+      "name": "YLE Teema",
+      "logo": "Teema",
+      "link": "http://areena.yle.fi/tv/suorat/yle-teema",
+      "http": "http://areena.yle.fi/tv/suorat/yle-teema#autoplay=true"
+   },
+   {
+      "name": "Santa Claus Office",
+      "logo": "Santa",
+      "link": "http://santaclausoffice.com/en/livekamerat/",
+      "http": "http://www.ustream.tv/channel/santaclauslive-outside-cam"
+   },
+   {
+      "name": "Taivas TV7",
+      "logo": "TV7",
+      "link": "http://www.tv7.fi/netti-tv/",
+      "http": "http://www.tv7.fi/"
+   },
+   {
+      "name": "Bloomberg TV Europe",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "Euronews",
+      "logo": "Euronews",
+      "link": "http://de.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "EbS Europe by Satellite",
+      "logo": "EbS",
+      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   }
+],
   "Demo": [
     {
       "name": "KBC (K Brdcst. Corp.) - GBS",
