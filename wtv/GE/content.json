@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -41,6 +41,44 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Imedi ტელეკომპანია იმედი",
+      "logo": "Imedi",
+      "link": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "1TV პირველი არხი",
+      "logo": "1",
+      "link": "http://188.40.68.167/russia/mir24/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "2TV მეორე არხი",
+      "logo": "2",
+      "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "Palitra TV (პალიტრა",
+      "logo": "Palitra",
+      "link": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "Obieqtivi",
+      "logo": "Obieqtivi",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8",
+      "http": ""
+   },
+   {
+      "name": "Rustavi 2 (რუსთავი 2)",
+      "logo": "Rustavi",
+      "link": "https://sc.id-tv.kz/STS_34_35.m3u8",
+      "http": ""
+   }
+  ],
   "Demo": [
     {
       "name": "Al Hadath",
