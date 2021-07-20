@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -41,6 +41,8 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [{"name":"France 24","logo":"24","link":"https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8","http":""},{"name":"CNEWS (ex iTELE)","logo":"iTELE","link":"http://ott-cdn.ucom.am/s54/index.m3u8","http":""},{"name":"BFMTV","logo":"BFMTV","link":"http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8","http":""},{"name":"BFM Business","logo":"BFM","link":"http://rt-news.secure.footprint.net:80/1103.m3u8","http":""},{"name":"BFM Paris","logo":"Paris","link":"https://rt-usa.secure.footprint.net/1105.m3u8","http":""},{"name":"RMC","logo":"RMC","link":"https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8","http":""}
+  ],
   "Demo": [
     {
       "name": "etv",
