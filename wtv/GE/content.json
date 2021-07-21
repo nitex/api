@@ -36,7 +36,7 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4226769",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
@@ -45,40 +45,64 @@
    {
       "name": "Imedi ტელეკომპანია იმედი",
       "logo": "Imedi",
-      "link": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
-      "http": ""
+      "link": "http://www.imedi.ge/",
+      "http": "http://www.imedi.ge/"
    },
    {
       "name": "1TV პირველი არხი",
       "logo": "1",
-      "link": "http://188.40.68.167/russia/mir24/playlist.m3u8",
-      "http": ""
+      "link": "https://1tv.ge/tv-radio/live/",
+      "http": "http://1tv.ge"
    },
    {
       "name": "2TV მეორე არხი",
       "logo": "2",
-      "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
-      "http": ""
+      "link": "https://1tv.ge/tv-radio/live/",
+      "http": "http://2tv.ge"
    },
    {
       "name": "Palitra TV (პალიტრა",
       "logo": "Palitra",
-      "link": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-      "http": ""
+      "link": "http://www.palitravideo.ge/live-tv.html?view=tv",
+      "http": "http://www.palitravideo.ge"
    },
    {
       "name": "Obieqtivi",
       "logo": "Obieqtivi",
-      "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8",
-      "http": ""
+      "link": "http://www.obieqtivi.net/",
+      "http": "http://www.obieqtivi.net/"
    },
    {
       "name": "Rustavi 2 (რუსთავი 2)",
       "logo": "Rustavi",
-      "link": "https://sc.id-tv.kz/STS_34_35.m3u8",
-      "http": ""
+      "link": "http://rustavi2.ge/ka/dvr",
+      "http": "http://rustavi2.ge/"
+   },
+   {
+      "name": "ТРИ АНГЕЛА",
+      "logo": "3",
+      "link": "http://www.3angels.ru/air/online/",
+      "http": "http://www.3angels.ru/"
+   },
+   {
+      "name": "ПРОСВЕЩЕНИЕ",
+      "logo": "prosvesh",
+      "link": "http://www.prosveshenie.tv/onairview.php",
+      "http": "http://www.prosveshenie.tv/"
+   },
+   {
+      "name": "ВЕРА 24",
+      "logo": "24",
+      "link": "http://b.tbnit.spb.ru/player/vera24.html",
+      "http": "http://vera24.tv/"
+   },
+   {
+      "name": "Т Б Н",
+      "logo": "tbn",
+      "link": "http://b.tbnit.spb.ru/player/tbn.html",
+      "http": "http://tbn-tv.ru/"
    }
-  ],
+],
   "Demo": [
     {
       "name": "Al Hadath",
