@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -41,6 +41,44 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "34100",
+      "logo": "34100",
+      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+      "http": ""
+   },
+   {
+      "name": "ΕΡΤ1",
+      "logo": "ept1",
+      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "ΕΡΤ2",
+      "logo": "ept2",
+      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "ΕΡΤ3",
+      "logo": "ept3",
+      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "http": ""
+   },
+   {
+      "name": "ΕΡΤ World",
+      "logo": "ept",
+      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
+      "http": ""
+   },
+   {
+      "name": "ΕΡΤ HD",
+      "logo": "HD",
+      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+      "http": ""
+   }
+  ],
   "Demo": [
     {
       "name": "TV ALMG",
