@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,91 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4228525",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Citizen",
+      "logo": "Citizen",
+      "link": "https://citizentv.co.ke/tv/",
+      "http": "https://www.youtube.com/user/kenyacitizentv/videos?live_view=501&view=2&flow=grid"
+   },
+   {
+      "name": "KTN Home",
+      "logo": "Home",
+      "link": "https://www.standardmedia.co.ke/ktnhome/",
+      "http": "https://www.standardmedia.co.ke/ktnhome/live"
+   },
+   {
+      "name": "KTN News",
+      "logo": "News",
+      "link": "https://www.standardmedia.co.ke/ktnnews/",
+      "http": "https://www.standardmedia.co.ke/ktnnews/live"
+   },
+   {
+      "name": "Kass",
+      "logo": "Kass",
+      "link": "http://kasstv.co.ke/",
+      "http": "http://kasstv.co.ke/"
+   },
+   {
+      "name": "KBC 1",
+      "logo": "KBC",
+      "link": "https://www.kbc.co.ke/kbc-live/",
+      "http": "https://www.kbc.co.ke"
+   },
+   {
+      "name": "Goodnews Broadcasting System",
+      "logo": "Goodnews",
+      "link": "http://www.gbskenya.com/live/index",
+      "http": "http://www.gbskenya.com"
+   },
+   {
+      "name": "NTV",
+      "logo": "NTV",
+      "link": "https://www.youtube.com/user/qtvkenya/videos?flow=grid&view=2&live_view=501",
+      "http": "https://ntv.nation.co.ke/live/2740874-2740874-4yhxxuz/index.html"
+   },
+   {
+      "name": "Inooro",
+      "logo": "Inooro",
+      "link": "https://www.youtube.com/channel/UCZlNMLTVNxzwB0axilK-rDw/videos?view=2&flow=grid&live_view=501",
+      "http": "http://inoorotv.co.ke/"
+   },
+   {
+      "name": "K24",
+      "logo": "K24",
+      "link": "https://www.k24tv.co.ke/livestream/",
+      "http": "http://www.mediamaxnetwork.co.ke"
+   },
+   {
+      "name": "Kameme",
+      "logo": "Kameme",
+      "link": "http://www.mediamaxnetwork.co.ke/kamemetv/",
+      "http": "http://www.mediamaxnetwork.co.ke/kamemetv-livestream/"
+   },
+   {
+      "name": "Njata",
+      "logo": "Njata",
+      "link": "http://njatatv.co.ke/",
+      "http": "http://njatatv.co.ke/"
+   },
+   {
+      "name": "Ebru",
+      "logo": "Ebru",
+      "link": "http://www.ebru.co.ke/live/",
+      "http": "http://www.ebru.co.ke"
+   },
+   {
+      "name": "Endtime",
+      "logo": "Endtime",
+      "link": "https://www.facebook.com/Endtimetv/live/",
+      "http": ""
+   }
+],
   "Demo": [
     {
       "name": "Al Hadath",

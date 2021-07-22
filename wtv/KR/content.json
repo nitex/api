@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,12 +36,362 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4228527",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "Demo": [
+  "Content": [
+   {
+      "name": "YTN",
+      "logo": "YTN",
+      "link": "http://ytn.co.kr/hd/hd_live.html",
+      "http": "http://www.ytn.co.kr/_cs/hd_live.html"
+   },
+   {
+      "name": "YTN life",
+      "logo": "life",
+      "link": "http://life.ytn.co.kr/hd/hd_live.php",
+      "http": "https://www.youtube.com/user/ytnweatherlive/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name": "YTN Science",
+      "logo": "Science",
+      "link": "http://science.ytn.co.kr/hd/hd_live.php",
+      "http": "https://www.youtube.com/user/ytnsciencelive/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name": "Channel A",
+      "logo": "A",
+      "link": "http://www.ichannela.com/com/cmm/onair.do",
+      "http": "http://www.ichannela.com/"
+   },
+   {
+      "name": "연합뉴스TV Yonhap",
+      "logo": "Yonhap",
+      "link": "http://www.yonhapnewstv.co.kr/",
+      "http": "http://www.yonhapnewstv.co.kr/"
+   },
+   {
+      "name": "Arirang World",
+      "logo": "Arirang1",
+      "link": "http://www.arirang.com/player/onair_tv.asp?Channel=CH_W&Quality=",
+      "http": "http://www.arirang.com/player/onair_tv.asp?sys_lang=Eng"
+   },
+   {
+      "name": "Arirang UN",
+      "logo": "Arirang2",
+      "link": "http://www.arirang.com/player/onair_tv.asp?Channel=CH_Z&Quality=",
+      "http": "http://www.arirang.com/player/onair_tv.asp?sys_lang=Eng"
+   },
+   {
+      "name": "Arirang Korea",
+      "logo": "Arirang3",
+      "link": "http://www.arirang.com/player/onair_tv.asp?Channel=CH_K&Quality=",
+      "http": "http://www.arirang.com/player/onair_tv.asp?sys_lang=Eng"
+   },
+   {
+      "name": "OhmyTV 오마이TV",
+      "logo": "OhmyTV",
+      "link": "https://www.youtube.com/user/OhmynewsTV/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http": "http://www.ohmynews.com/"
+   },
+   {
+      "name": "NTV",
+      "logo": "NTV",
+      "link": "http://www.n-tv.or.kr/popup/on_air.php",
+      "http": "http://www.n-tv.or.kr/"
+   },
+   {
+      "name": "SEN 서울경제TV",
+      "logo": "SEN",
+      "link": "http://www.sentv.co.kr/player/tv/",
+      "http": "http://www.sentv.co.kr"
+   },
+   {
+      "name": "Maeil Business 매일경제TV",
+      "logo": "Maeil",
+      "link": "http://mbnmoney.mbn.co.kr/tv/onair",
+      "http": "http://mbnmoney.mbn.co.kr/"
+   },
+   {
+      "name": "SBS CNBC",
+      "logo": "CNBC",
+      "link": "http://sbscnbc.sbs.co.kr/onair/",
+      "http": "http://sbscnbc.sbs.co.kr/"
+   },
+   {
+      "name": "Edaily 이데일리TV",
+      "logo": "Edaily",
+      "link": "http://tv.edaily.co.kr/Live/NormalVod",
+      "http": "http://tv.edaily.co.kr/Live/HighVod"
+   },
+   {
+      "name": "NBN 내외경제TV",
+      "logo": "NBN",
+      "link": "http://www.nbntv.co.kr/news/list.php?mcode=m41mass241",
+      "http": "http://www.nbntv.co.kr/"
+   },
+   {
+      "name": "MTN 머니투데이방송",
+      "logo": "MTN",
+      "link": "https://www.youtube.com/user/mtn/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http": "http://www.mtn.co.kr/"
+   },
+   {
+      "name": "WOW 한국경제TV",
+      "logo": "WOW",
+      "link": "https://www.youtube.com/user/hkwowtv/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http": "http://www.wowtv.co.kr/"
+   },
+   {
+      "name": "Yes 소상공인 방송",
+      "logo": "Yes",
+      "link": "http://yestv.or.kr/onAir1.php",
+      "http": "http://yestv.or.kr/onAir.php"
+   },
+   {
+      "name": "FTN 한국식품산업방송",
+      "logo": "FTN",
+      "link": "http://ftnvideo.com/2.php",
+      "http": "http://ftnvideo.com"
+   },
+   {
+      "name": "G1 강원민방",
+      "logo": "G1",
+      "link": "http://www.g1tv.co.kr/?type=onair",
+      "http": "http://www.g1tv.co.kr/"
+   },
+   {
+      "name": "UBC 울산방송",
+      "logo": "UBC",
+      "link": "http://web.ubc.co.kr/wp/onair_tv",
+      "http": "http://web.ubc.co.kr/"
+   },
+   {
+      "name": "OBS Gyeongin OBS경인TV",
+      "logo": "OBS",
+      "link": "http://www.obs.co.kr/obsvod/popVod_onair.php?onair=Y",
+      "http": "http://www.obs.co.kr"
+   },
+   {
+      "name": "OBS W 오비에스 더블유",
+      "logo": "OBSW",
+      "link": "http://www.obsw.co.kr/player.php?onair=Y",
+      "http": "http://www.obsw.co.kr"
+   },
+   {
+      "name": "KCTV Gwangju 광주방송",
+      "logo": "KCTV",
+      "link": "http://www.kctv.co.kr/real_vod2.php",
+      "http": "http://www.kctv.co.kr/"
+   },
+   {
+      "name": "KCTV Jeju 7 광주방송",
+      "logo": "7",
+      "link": "https://www.kctvjeju.com/program/onair.kctv",
+      "http": "https://www.kctvjeju.com"
+   },
+   {
+      "name": "KCTV Jeju 20 광주방송",
+      "logo": "20",
+      "link": "https://www.kctvjeju.com/kctvn/onair.kctv",
+      "http": "https://www.kctvjeju.com"
+   },
+   {
+      "name": "TBS 교통방송",
+      "logo": "TBS",
+      "link": "http://tbs.seoul.kr/player/live.do?channelCode=CH_B&tab=tab_c",
+      "http": "https://www.youtube.com/user/seoultbstv/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name": "Mountain 마운틴TV",
+      "logo": "Mountain",
+      "link": "http://www.mountaintv.co.kr/onair/",
+      "http": "http://www.mountaintv.co.kr/"
+   },
+   {
+      "name": "AsiaN 아시아N",
+      "logo": "AsiaN",
+      "link": "http://www.asiantv.co.kr/live/",
+      "http": "http://www.asiantv.co.kr/"
+   },
+   {
+      "name": "All The K-Pop 올 더 케이팝",
+      "logo": "ALL",
+      "link": "https://www.youtube.com/user/imbcevery1/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http": "http://www.mbcplus.com/allthe_kpop"
+   },
+   {
+      "name": "EBS 1",
+      "logo": "EBS1",
+      "link": "http://www.ebs.co.kr/onair?channelCodeString=tv",
+      "http": "http://www.ebs.co.kr"
+   },
+   {
+      "name": "EBS 2",
+      "logo": "EBS2",
+      "link": "http://www.ebs.co.kr/onair?channelCodeString=tv2",
+      "http": "http://www.ebs.co.kr"
+   },
+   {
+      "name": "PLUS 1",
+      "logo": "PLUS1",
+      "link": "http://www.ebs.co.kr/onair?channelCodeString=plus1",
+      "http": "http://www.ebs.co.kr"
+   },
+   {
+      "name": "PLUS 2",
+      "logo": "PLUS2",
+      "link": "http://www.ebs.co.kr/onair?channelCodeString=plus2",
+      "http": "http://www.ebs.co.kr"
+   },
+   {
+      "name": "EBSe",
+      "logo": "EBSe",
+      "link": "http://www.ebs.co.kr/onair?channelCodeString=ebse",
+      "http": "http://www.ebs.co.kr"
+   },
+   {
+      "name": "Work 한국직업방송",
+      "logo": "Work",
+      "link": "http://www.worktv.or.kr/onAir/onAir.do",
+      "http": "http://www.worktv.or.kr/"
+   },
+   {
+      "name": "WBC 복지",
+      "logo": "WBC",
+      "link": "http://www.iwbc.co.kr/",
+      "http": "http://www.iwbc.co.kr/"
+   },
+   {
+      "name": "KTV 국민방송",
+      "logo": "KTV",
+      "link": "http://www.ktv.go.kr/onair/tv",
+      "http": "http://www.ktv.go.kr/onair/tv/popup"
+   },
+   {
+      "name": "KFN 국방",
+      "logo": "KFN",
+      "link": "http://www.dema.mil.kr/web/tv/onAir.do",
+      "http": "http://www.dema.mil.kr/web/main.do"
+   },
+   {
+      "name": "Hmall 현대홈쇼핑",
+      "logo": "Hmall",
+      "link": "http://www.hyundaihmall.com/front/tvMainR.do",
+      "http": "http://www.hyundaihmall.com/Home.html"
+   },
+   {
+      "name": "Lotte 롯데홈쇼핑",
+      "logo": "Lotte",
+      "link": "http://www.lotteimall.com/tvshop/tvPlayerPop.lotte",
+      "http": "http://www.lotteimall.com/main/viewMain.lotte?dpml_no=6&tlog=00100_29"
+   },
+   {
+      "name": "CJ오쇼핑",
+      "logo": "CJ",
+      "link": "http://www.cjmall.com/etv/broad/broad_list_all.jsp",
+      "http": "http://www.cjmall.com/etv/broad/broad_list.jsp?pic=GBTV0004"
+   },
+   {
+      "name": "NS Mall NS홈쇼핑",
+      "logo": "NS",
+      "link": "http://www.nsmall.com/TVHomeShoppingView?storeId=13001&catalogId=18151&langId=-9",
+      "http": "http://www.nsmall.com"
+   },
+   {
+      "name": "IM Shopping 공영홈쇼핑",
+      "logo": "IM",
+      "link": "https://www.immall.co.kr/tvshopping/selectLive.do?log=vod",
+      "http": "https://www.immall.co.kr"
+   },
+   {
+      "name": "Home & Shopping",
+      "logo": "Home",
+      "link": "http://www.hnsmall.com/tv.do",
+      "http": "http://www.hnsmall.com"
+   },
+   {
+      "name": "CPBC 가톨릭평화방송",
+      "logo": "CPBC",
+      "link": "http://www.cpbc.co.kr/home/PBC_OnAirVideoPlayer.html",
+      "http": "http://www.cpbc.co.kr"
+   },
+   {
+      "name": "CTS 기독교TV",
+      "logo": "CTS",
+      "link": "http://www.cts.tv/vodplayer/ctshighliveplayer.asp",
+      "http": "http://www.cts.tv/"
+   },
+   {
+      "name": "Good 기독교복음방송",
+      "logo": "Good",
+      "link": "http://www.goodtv.co.kr/live.asp",
+      "http": "http://www.goodtv.co.kr/"
+   },
+   {
+      "name": "Cchannel C채널",
+      "logo": "Cchannel",
+      "link": "http://www.cchannel.com/popup/onair",
+      "http": "http://www.cchannel.com/"
+   },
+   {
+      "name": "Hope 채널",
+      "logo": "Hope",
+      "link": "http://hopechannel.kr/%EB%B0%A9%EC%86%A1-%EC%8B%9C%EC%B2%AD/%ED%98%B8%ED%94%84%EC%B1%84%EB%84%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C/",
+      "http": "http://hopechannel.kr"
+   },
+   {
+      "name": "CGN Christian Global Network",
+      "logo": "CGN",
+      "link": "http://www.cgntv.net/onair/home.cgn",
+      "http": "http://www.cgntv.net/"
+   },
+   {
+      "name": "GCN in Korean",
+      "logo": "GCN1",
+      "link": "http://www.gcntv.org/KO/Media/Viewer/Live24File.asp?live=KO_W01_24H",
+      "http": "http://www.gcntv.org"
+   },
+   {
+      "name": "GCN in English",
+      "logo": "GCN2",
+      "link": "http://www.gcntv.org/KO/Media/Viewer/Live24File.asp?playtype=FLASH&live=EN_F01_24H",
+      "http": "http://www.gcntv.org"
+   },
+   {
+      "name": "BTN 불교TV Buddhist True Network",
+      "logo": "BTN",
+      "link": "http://www.btn.co.kr/pro/btnlive_player01ch.asp",
+      "http": "http://www.btn.co.kr/"
+   },
+   {
+      "name": "STB 상생방송",
+      "logo": "STB",
+      "link": "http://www.stb.co.kr/app/live/",
+      "http": "http://www.stb.co.kr/"
+   },
+   {
+      "name": "Bloomberg Asia",
+      "logo": "bloomberg",
+      "link": "http://www.bloomberg.com/live/asia",
+      "http": "http://www.bloomberg.com/"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   },
+   {
+      "name": "Gugak 국악방송",
+      "logo": "Gugak",
+      "link": "https://www.igbf.kr/gugak_web/Player/LivePlayer.jsp",
+      "http": "https://www.igbf.kr"
+   }
+],
+  "Demo": [
     {
       "name": "Al Jazeera",
       "logo": "_000001",
