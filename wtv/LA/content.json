@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,73 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4229796",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Lao-Thai US",
+      "logo": "US",
+      "link": "http://www.laothaitv.com/",
+      "http": "http://www.laothaitv.com/"
+   },
+   {
+      "name": "Hmong 32.6",
+      "logo": "32",
+      "link": "http://hmongtvnetwork.com/watch-32-6/",
+      "http": "http://hmongtvnetwork.com"
+   },
+   {
+      "name": "Hmong 25.3",
+      "logo": "25",
+      "link": "http://hmongtvnetwork.com/watch-25-3/",
+      "http": "http://hmongtvnetwork.com"
+   },
+   {
+      "name": "Hmong USA",
+      "logo": "USA",
+      "link": "http://www.hmongusatv.com/",
+      "http": "http://www.hmongusatv.com/"
+   },
+   {
+      "name": "SEA",
+      "logo": "SEA",
+      "link": "http://seatv.com.kh/second/live/2/3",
+      "http": "http://seatv.com.kh"
+   },
+   {
+      "name": "Hang Meas RHM",
+      "logo": "RHM",
+      "link": "http://www.hangmeas.com.kh/en/rhm-hdtv/",
+      "http": "http://www.hangmeas.com.kh/en/tv-channel/"
+   },
+   {
+      "name": "Hang Meas HM",
+      "logo": "HM",
+      "link": "http://www.hangmeas.com.kh/en/hm-hdtv/",
+      "http": "http://www.hangmeas.com.kh/en/tv-channel/"
+   },
+   {
+      "name": "CNC",
+      "logo": "CNC",
+      "link": "https://www.facebook.com/pg/cnc.news.kh/videos",
+      "http": "http://www.cnc.com.kh/"
+   },
+   {
+      "name": "MRTV-4",
+      "logo": "4",
+      "link": "http://www.pyoneplay.com/live/mrtv---4",
+      "http": "http://www.mrtv4.com.mm/"
+   },
+   {
+      "name": "Bloomberg Asia",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/asia",
+      "http": "https://www.bloomberg.com/live/asia_stream"
+   }
+],
   "Demo": [
     {
       "name": "TV ALMG",
