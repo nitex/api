@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,73 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4233155",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "777",
+      "logo": "777",
+      "link": "http://www.tv777.me/",
+      "http": "http://www.tv777.me/"
+   },
+   {
+      "name": "Crne Gore",
+      "logo": "Crne",
+      "link": "http://www.rtcg.me/tv/tv-uzivo.html",
+      "http": "http://www.rtcg.me"
+   },
+   {
+      "name": "N1",
+      "logo": "N1",
+      "link": "http://hr.n1info.com/Video/LIVE-TV/a5760/N1-UZIVO.html",
+      "http": "http://rs.n1info.com"
+   },
+   {
+      "name": "СОС канал",
+      "logo": "SOS",
+      "link": "http://soskanal.net/sos-stream",
+      "http": "http://soskanal.net/"
+   },
+   {
+      "name": "Subotica",
+      "logo": "Subotica",
+      "link": "http://www.tvsubotica.com/index.php?c=tvsu_live&slider=off&lg=sr",
+      "http": "http://www.tvsubotica.com/"
+   },
+   {
+      "name": "K23",
+      "logo": "K23",
+      "link": "http://www.k23tv.com/online-tv/",
+      "http": "http://www.k23tv.com/"
+   },
+   {
+      "name": "Kanal 9",
+      "logo": "9",
+      "link": "http://www.kanal9tv.com/tv-k9-uzivo/",
+      "http": "http://www.kanal9tv.com/"
+   },
+   {
+      "name": "Euronews",
+      "logo": "Euronews",
+      "link": "http://de.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "EbS Europe by Satellite",
+      "logo": "EbS",
+      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
+   },
+   {
+      "name": "Bloomberg TV Europe",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   }
+],
   "Demo": [
     {
       "name": "Eman Channel",

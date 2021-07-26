@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,73 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4233165",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "MRTV-4",
+      "logo": "4",
+      "link": "http://www.pyoneplay.com/live/mrtv---4",
+      "http": "http://www.mrtv4.com.mm/"
+   },
+   {
+      "name": "7",
+      "logo": "7",
+      "link": "http://www.pyoneplay.com/live/channel---7",
+      "http": "http://www.forevergroup.com.mm/channel-7.html"
+   },
+   {
+      "name": "Up to Date",
+      "logo": "Up",
+      "link": "http://www.skynetdth.com/index.php/live-tv",
+      "http": "https://livestream.com/accounts/7228455"
+   },
+   {
+      "name": "MNTV",
+      "logo": "MNTV",
+      "link": "http://www.skynetdth.com/index.php/live-tv",
+      "http": "https://livestream.com/accounts/7228455"
+   },
+   {
+      "name": "Hluttaw",
+      "logo": "Hluttaw",
+      "link": "http://www.skynetdth.com/index.php/live-tv",
+      "http": "https://livestream.com/accounts/7228455"
+   },
+   {
+      "name": "MITV",
+      "logo": "MITV",
+      "link": "http://live.myanmaritv.com/",
+      "http": "https://livestream.com/myanmaritv/live"
+   },
+   {
+      "name": "Democratic Voice of Burma",
+      "logo": "Burma",
+      "link": "http://tv.dvb.no/",
+      "http": "http://tv.dvb.no/"
+   },
+   {
+      "name": "Buddha",
+      "logo": "Buddha",
+      "link": "http://www.skynetdth.com/index.php/live-tv",
+      "http": "https://livestream.com/accounts/7228455"
+   },
+   {
+      "name": "Mahar Bawdi",
+      "logo": "Mahar",
+      "link": "http://www.pyoneplay.com/live/maharbawdi",
+      "http": "http://www.forevergroup.com.mm/mahabawdi.html"
+   },
+   {
+      "name": "MRTV / NRC / MITV",
+      "logo": "MRTV",
+      "link": "http://www.mrtv.gov.mm/?q=live-stream",
+      "http": "http://www.mrtv.gov.mm"
+   }
+],
   "Demo": [
     {
       "name": "TV ALMG",
