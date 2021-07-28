@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,79 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4236710",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "TN8",
+      "logo": "TN8",
+      "link": "http://www.tn8.tv/",
+      "http": "http://www.tn8.tv/"
+   },
+   {
+      "name": "10 Nicaragua",
+      "logo": "10",
+      "link": "http://www.canal10.com.ni/envivo",
+      "http": "http://www.canal10.com.ni"
+   },
+   {
+      "name": "2",
+      "logo": "2",
+      "link": "http://canal2tv.com/envivo/",
+      "http": "http://canal2tv.com"
+   },
+   {
+      "name": "VOS",
+      "logo": "VOS",
+      "link": "https://www.vostv.com.ni/directo/",
+      "http": "https://www.vostv.com.ni"
+   },
+   {
+      "name": "6",
+      "logo": "6",
+      "link": "http://canal6.com.ni/",
+      "http": "http://canal6.com.ni/"
+   },
+   {
+      "name": "4",
+      "logo": "4",
+      "link": "http://www.ustream.tv/channel/canal-4-nicaragua-lmtv",
+      "http": "http://www.canal4.com.ni/"
+   },
+   {
+      "name": "12",
+      "logo": "12",
+      "link": "http://www.canal12.com.ni/en-vivo",
+      "http": "http://www.canal12.com.ni"
+   },
+   {
+      "name": "Megabox 76",
+      "logo": "76",
+      "link": "http://www.megaboxni.tv/",
+      "http": "http://www.megaboxni.tv/"
+   },
+   {
+      "name": "Viva Nicaragua",
+      "logo": "Viva",
+      "link": "https://www.vivanicaragua.com.ni/",
+      "http": "https://www.vivanicaragua.com.ni/"
+   },
+   {
+      "name": "CDNN 23",
+      "logo": "23",
+      "link": "http://www.cdnn23.com/",
+      "http": "http://www.cdnn23.com/"
+   },
+   {
+      "name": "TeleSUR",
+      "logo": "TeleSUR",
+      "link": "https://www.youtube.com/user/telesurtv/videos?view=2&live_view=501&flow=grid",
+      "http": "https://www.telesurtv.net/"
+   }
+],
   "Demo": [
     {
       "name": "Al Hadath",

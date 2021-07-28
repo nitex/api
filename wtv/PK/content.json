@@ -1,17 +1,19 @@
 {
    "amznTV":{
       "changeCountry": false,
-    "mainVisible": false,
+    "demoVisible": true,
+    "mainVisible": true,
     "ownVisible": true,
       "about":"",
-      "email":"fowlerlairon@gmail.com",
+      "email":"hegenalsy@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "other":"http://www.amazon.com/gp/mas/dl/android?s= Labinson%20Diares",
+      "other":"http://www.amazon.com/gp/mas/dl/android?s=Labins",
       "bonus":"",
       "showMode": false,
       "visualMode":1,
-      "minuteCount":4,
+      "minuteCount":2,
+    "limitCount": 5,
     "adType": 1,
     "uni_id": "REPLACE",
     "uni_mainAd": "uni_mainAd",
@@ -20,58 +22,452 @@
   },
    "huawTV":{
       "changeCountry": false,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
-      "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "email":"hegenalsy@gmail.com",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104568633",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104568633",
       "other":"",
       "bonus":"",
       "showMode": false,
       "visualMode":1,
-      "minuteCount":4,
+      "minuteCount":2,
+    "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4237439",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "Content": [
+  "Content": [
+   {
+      "name": "Express News (ایکسپریس نیوز)",
+      "logo": "Express",
+      "link": "http://live.express.pk/",
+      "http": "https://www.youtube.com/channel/UCTur7oM6mLL0rM2k0znuZpQ/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "Samaa",
+      "logo": "Samaa",
+      "link": "https://www.samaa.tv/live/",
+      "http": "https://www.youtube.com/user/samaatvnews/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "PTV News",
+      "logo": "News",
+      "link": "http://www.ptv.com.pk/public/userView/ptvCorporate/newslive",
+      "http": "http://www.ptv.com.pk/public/userView/livestreaming"
+   },
+   {
+      "name": "PTV Home",
+      "logo": "Home",
+      "link": "http://www.ptv.com.pk/public/userView/ptvCorporate/homelive",
+      "http": "http://www.ptv.com.pk/public/userView/livestreaming"
+   },
+   {
+      "name": "PTV World",
+      "logo": "World",
+      "link": "http://www.ptv.com.pk/public/userView/ptvCorporate/worldlive",
+      "http": "http://www.ptv.com.pk/public/userView/livestreaming"
+   },
+   {
+      "name": "PTV Sports",
+      "logo": "PTV",
+      "link": "http://sports.ptv.com.pk/public/sportslive",
+      "http": "http://www.ptv.com.pk/public/userView/livestreaming"
+   },
+   {
+      "name": "Geo News (جیو نیوز)",
+      "logo": "Geo",
+      "link": "https://live.geo.tv/",
+      "http": "https://live.geo.tv/stream2.php"
+   },
+   {
+      "name": "Geo Tez (جیو تیز)",
+      "logo": "Tez",
+      "link": "http://geotez.tv/",
+      "http": "http://geotez.tv/"
+   },
+   {
+      "name": "ARY News (اے آر وائی نیوز)",
+      "logo": "ARY",
+      "link": "http://live.arynews.tv/",
+      "http": "http://live.arynews.tv/alternate.php"
+   },
+   {
+      "name": "ARY Digital (اے آر وائی ڈیجیٹل)",
+      "logo": "Digital",
+      "link": "http://live.arydigital.tv/",
+      "http": "https://arydigital.tv/"
+   },
+   {
+      "name": "ARY Zindagi",
+      "logo": "Zindagi",
+      "link": "http://live.aryzindagi.tv/",
+      "http": "http://www.aryzindagi.tv/"
+   },
+   {
+      "name": "ARY Musik",
+      "logo": "Musik",
+      "link": "http://live.arymusik.tv/",
+      "http": "http://arymusik.tv/"
+   },
+   {
+      "name": "ARY QTV",
+      "logo": "Qtv",
+      "link": "http://live.aryqtv.tv/",
+      "http": "https://aryqtv.tv/"
+   },
+   {
+      "name": "Such (سچ ٹی وی)",
+      "logo": "Such",
+      "link": "https://www.suchtv.pk/live.html",
+      "http": "https://www.suchtv.pk"
+   },
+   {
+      "name": "Dawn (ڈان نیوز)",
+      "logo": "Dawn",
+      "link": "https://www.dawnnews.tv/watch-live/",
+      "http": "https://www.youtube.com/user/dawnnewspakistan/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Dunya (دنیا نیوز)",
+      "logo": "Dunya",
+      "link": "http://dunyanews.tv/newsite/live_stream/new1_live_tv.php",
+      "http": "http://dunya.com.pk/"
+   },
+   {
+      "name": "Lahore",
+      "logo": "Lahore",
+      "link": "http://lahorenews.tv/live/",
+      "http": "http://lahorenews.tv"
+   },
+   {
+      "name": "92",
+      "logo": "92",
+      "link": "http://live.92newshd.tv/",
+      "http": "https://92newshd.tv/"
+   },
+   {
+      "name": "Waqt (وقت نیوز)",
+      "logo": "Waqt",
+      "link": "https://waqtnews.tv/live-tv",
+      "http": "https://www.youtube.com/user/waqtnews/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "CITY 42",
+      "logo": "42",
+      "link": "https://www.city42.tv/live",
+      "http": "https://www.youtube.com/channel/UCdTup4kK7Ze08KYp7ReiuMw/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Royal News",
+      "logo": "Royal",
+      "link": "http://royalnews.tv/?page_id=56",
+      "http": "http://royalnews.tv"
+   },
+   {
+      "name": "News One (نیوز ون)",
+      "logo": "One",
+      "link": "http://live.newsone.tv/",
+      "http": "https://www.youtube.com/channel/UCjHWKUbljF4hp3s5PbgK9uA/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Aaj (آج ٹی وی)",
+      "logo": "Aaj",
+      "link": "http://aaj.tv/live/",
+      "http": "https://www.youtube.com/channel/UCdHy-hnyIEZBHkPJecz9RtA/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Jaag",
+      "logo": "Jaag",
+      "link": "http://live.jaagtv.com/",
+      "http": "http://www.jaagtv.com/"
+   },
+   {
+      "name": "Capital",
+      "logo": "Capital",
+      "link": "http://dailycapital.pk/program/live/UC-an6pHQfTVZXgrLP0p1EGA/capital-tv-live",
+      "http": "https://www.youtube.com/channel/UC-an6pHQfTVZXgrLP0p1EGA/videos?live_view=501&view=2&flow=grid"
+   },
+   {
+      "name": "24 News HD",
+      "logo": "24",
+      "link": "https://www.24newshd.tv/live",
+      "http": "https://www.youtube.com/channel/UCcmpeVbSSQlZRvHfdC-CRwg/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Neo News",
+      "logo": "Neo",
+      "link": "https://www.neonetwork.pk/live-tv",
+      "http": "https://www.neonetwork.pk"
+   },
+   {
+      "name": "BOL (بول نیٹ ورک‎)",
+      "logo": "BOL",
+      "link": "https://www.bolnetwork.com/bol-news/watch-live/",
+      "http": "https://www.youtube.com/BOLNetworkOfficial"
+   },
+   {
+      "name": "Kohenoor",
+      "logo": "Kohenoor",
+      "link": "https://www.kohenoor.tv/live",
+      "http": "https://www.kohenoor.tv"
+   },
+   {
+      "name": "News Pakistan (BBC partner)",
+      "logo": "BBC",
+      "link": "https://www.newspakistan.tv/live/",
+      "http": "https://www.newspakistan.tv"
+   },
+   {
+      "name": "KTN (ڪي ٽي اين نيوز)",
+      "logo": "KTN",
+      "link": "http://www.ktnnews.tv/watch-live-ktn-news/",
+      "http": "https://www.youtube.com/user/ktnnewschannel"
+   },
+   {
+      "name": "Awami Awaz",
+      "logo": "Awami",
+      "link": "http://awamiawaz.com/44631/",
+      "http": "http://awamiawaz.com"
+   },
+   {
+      "name": "Khyber (خېبر نيوز)",
+      "logo": "Khyber",
+      "link": "https://khybernews.tv/live-streaming/",
+      "http": "https://khybernews.tv"
+   },
+   {
+      "name": "Mashriq",
+      "logo": "Mashriq",
+      "link": "https://www.mashriqtv.pk/live-tv",
+      "http": "https://www.mashriqtv.pk"
+   },
+   {
+      "name": "Waseb",
+      "logo": "Waseb",
+      "link": "https://www.youtube.com/channel/UCb3vKSPkWFWiFljsSGoeyoQ",
+      "http": "http://www.waseb.tv/"
+   },
+   {
+      "name": "A-Plus (اے پلس)",
+      "logo": "Plus",
+      "link": "http://a-plus.tv/livetv/",
+      "http": "http://a-plus.tv"
+   },
+   {
+      "name": "Har Pal Geo",
+      "logo": "Har",
+      "link": "http://harpalgeo.tv/live/",
+      "http": "http://harpalgeo.tv/"
+   },
+   {
+      "name": "TVOne (ٹی وی ون گلوبل)",
+      "logo": "TVOne",
+      "link": "https://www.tvonepk.tv/live-tv",
+      "http": "https://www.youtube.com/c/tvonepk"
+   },
+   {
+      "name": "Kay2",
+      "logo": "Kay2",
+      "link": "http://kay2.tv/livetv.php",
+      "http": "http://kay2.tv"
+   },
+   {
+      "name": "Hum (ہم ٹی-وی)",
+      "logo": "Hum",
+      "link": "https://www.hum.tv/live/",
+      "http": "https://www.hum.tv"
+   },
+   {
+      "name": "SBN (GTV)",
+      "logo": "SBN",
+      "link": "http://ustre.am/1xyYg",
+      "http": "http://www.sbnnews.tv/"
+   },
+   {
+      "name": "KTN Entertainment",
+      "logo": "Entertainment",
+      "link": "http://ktntv.tv/",
+      "http": "http://ktntv.tv/"
+   },
+   {
+      "name": "AVT Khyber",
+      "logo": "AVT",
+      "link": "http://avtkhyber.tv/livetv/",
+      "http": "http://avtkhyber.tv"
+   },
+   {
+      "name": "Pashto 1",
+      "logo": "Pashto",
+      "link": "http://pashto-1.tv/watch-now/",
+      "http": "http://pashto-1.tv"
+   },
+   {
+      "name": "Shrrang",
+      "logo": "Shrrang",
+      "link": "http://shrrang.tv/",
+      "http": "http://shrrang.tv/"
+   },
+   {
+      "name": "Jhumar",
+      "logo": "Jhumar",
+      "link": "http://jhumar.tv/",
+      "http": "http://jhumar.tv/"
+   },
+   {
+      "name": "Geo Super (جیو سپر)",
+      "logo": "Super",
+      "link": "https://www.geosuper.tv/live",
+      "http": "https://www.geosuper.tv"
+   },
+   {
+      "name": "Masala (مصالحہ)",
+      "logo": "Masala",
+      "link": "https://www.masala.tv/livetv/",
+      "http": "https://www.masala.tv"
+   },
+   {
+      "name": "Jwand",
+      "logo": "Jwand",
+      "link": "http://jwand.tv/",
+      "http": "http://jwand.tv/"
+   },
+   {
+      "name": "Ranra",
+      "logo": "Ranra",
+      "link": "http://ranra.tv/",
+      "http": "http://ranra.tv/"
+   },
+   {
+      "name": "Minhaj",
+      "logo": "Minhaj",
+      "link": "http://www.minhaj.tv/",
+      "http": "http://www.minhaj.tv/"
+   },
+   {
+      "name": "Hadi 1",
+      "logo": "Hadi1",
+      "link": "http://www.en.haditv.com/Live/6/",
+      "http": "http://www.en.haditv.com"
+   },
+   {
+      "name": "Hadi 2",
+      "logo": "Hadi2",
+      "link": "http://www.en.haditv.com/Live/7/",
+      "http": "http://www.en.haditv.com"
+   },
+   {
+      "name": "Hadi 3",
+      "logo": "Hadi3",
+      "link": "http://www.en.haditv.com/Live/8/",
+      "http": "http://www.en.haditv.com"
+   },
+   {
+      "name": "Hadi 4",
+      "logo": "Hadi4",
+      "link": "http://www.en.haditv.com/Live/9/",
+      "http": "http://www.en.haditv.com"
+   },
+   {
+      "name": "Hadi 5",
+      "logo": "Hadi5",
+      "link": "http://www.en.haditv.com/Live/10/",
+      "http": "http://www.en.haditv.com"
+   },
+   {
+      "name": "Dua Channel",
+      "logo": "Dua",
+      "link": "http://www.en.haditv.com/Live/11/",
+      "http": "http://www.en.haditv.com"
+   },
+   {
+      "name": "Paigham",
+      "logo": "Paigham",
+      "link": "http://www.paigham.tv/webtv/",
+      "http": "http://www.paigham.tv/webtv/urdu.html"
+   },
+   {
+      "name": "Madani Urdu",
+      "logo": "Madani1",
+      "link": "https://www.dawateislami.net/islam/streaming/watch-live-madani-channel.htm",
+      "http": "https://www.dawateislami.net/"
+   },
+   {
+      "name": "Madani English",
+      "logo": "Madani2",
+      "link": "https://www.dawateislami.net/islam/streaming/watch-live-madani-channel-english.htm",
+      "http": "https://www.dawateislami.net/"
+   },
+   {
+      "name": "Madani Bangla",
+      "logo": "Madani3",
+      "link": "https://www.dawateislami.net/islam/streaming/watch-live-madani-channel-bangla.htm",
+      "http": "https://www.dawateislami.net/"
+   },
+   {
+      "name": "Issac",
+      "logo": "Issac",
+      "link": "http://isaactelevision.tv/live-tv/",
+      "http": "http://isaactelevision.tv"
+   },
+   {
+      "name": "JCTV Jesus Christ",
+      "logo": "JCTV",
+      "link": "http://www.jctv.org.pk/live.php",
+      "http": "http://www.jctv.org.pk"
+   },
+   {
+      "name": "Zindagi",
+      "logo": "Zinda",
+      "link": "http://www.zindagitv.com/",
+      "http": "http://www.zindagitv.com/"
+   },
+   {
+      "name": "Barkat",
+      "logo": "Barkat",
+      "link": "http://www.barkat.tv/live%20tv.html",
+      "http": "http://www.barkat.tv"
+   }
+],
+  "Demo": [
     {
-      "name": "Al Jazeera",
-      "logo": "_000001",
-      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "name": "BBC",
+      "logo": "_400001",
+      "link": "http://www.filmon.com/vr-streams/27.high/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Al Jazeera English",
-      "logo": "_000002",
-      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "name": "РЕН ТВ",
+      "logo": "_400002",
+      "link": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
       "http": ""
     },
     {
-      "name": "euronews",
-      "logo": "_000003",
-      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "name": "РЕН ТВ International",
+      "logo": "_400003",
+      "link": "https://sc.id-tv.kz/RenTV.m3u8",
       "http": ""
     },
     {
-      "name": "Bloomberg Asia",
-      "logo": "_000004",
-      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "name": "НТВ",
+      "logo": "_400004",
+      "link": "http://ott-cdn.ucom.am/s17/index.m3u8",
       "http": ""
     },
     {
-      "name": "Sky News",
-      "logo": "_000005",
-      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "name": "НТВ Стиль",
+      "logo": "_400005",
+      "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Sky News Arabic",
-      "logo": "_000006",
-      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "name": "ORF 1",
+      "logo": "_400006",
+      "link": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8",
       "http": ""
     }
   ]

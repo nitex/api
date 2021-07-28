@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,109 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4236717",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Channels Television",
+      "logo": "Channels",
+      "link": "http://www.channelstv.com/live",
+      "http": "https://www.youtube.com/user/channelsweb/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "Silverbird",
+      "logo": "Silverbird",
+      "link": "http://silverbirdtv.com/live/",
+      "http": "http://silverbirdtv.com"
+   },
+   {
+      "name": "TVC News",
+      "logo": "TVC",
+      "link": "https://www.youtube.com/channel/UCgp4A6I8LCWrhUzn-5SbKvA/videos?view=2&flow=grid&live_view=501",
+      "http": "https://www.tvcontinental.tv/livestreaming/"
+   },
+   {
+      "name": "NTA",
+      "logo": "NTA",
+      "link": "http://www.nta.ng/live/",
+      "http": "https://www.youtube.com/channel/UCtsZYRlzD-Mu9xpHKRPqIIA/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "ITV",
+      "logo": "ITV",
+      "link": "http://www.itvradionigeria.com/live-tv/",
+      "http": "http://itvradionigeria.com/live/"
+   },
+   {
+      "name": "LTV Lagos",
+      "logo": "LTV",
+      "link": "http://www.lagostelevision.com/",
+      "http": "http://www.lagostelevision.com/"
+   },
+   {
+      "name": "TV Continental (TVC)",
+      "logo": "Continental",
+      "link": "https://www.tvcontinental.tv/livestreaming/",
+      "http": "https://www.tvcontinental.tv"
+   },
+   {
+      "name": "Bride",
+      "logo": "Bride",
+      "link": "http://bridetv.org/tv/",
+      "http": "http://bridetv.org/tv/"
+   },
+   {
+      "name": "ACBN",
+      "logo": "ACBN",
+      "link": "http://acbntv.org/live-streaming/",
+      "http": "http://acbntv.org"
+   },
+   {
+      "name": "Dove",
+      "logo": "Dove",
+      "link": "http://dovevision.org/live-tv/",
+      "http": "http://dovevision.org"
+   },
+   {
+      "name": "LoveWorld Plus",
+      "logo": "LoveWorld",
+      "link": "http://www.loveworldplus.tv/",
+      "http": "http://www.loveworldplus.tv/tv/watch/"
+   },
+   {
+      "name": "LCTN Lumen Christi",
+      "logo": "Lumen",
+      "link": "http://www.lumenchristitv.com/watch-live",
+      "http": "http://www.lumenchristitv.com"
+   },
+   {
+      "name": "Emmanuel",
+      "logo": "Emmanuel",
+      "link": "https://emmanuel.tv/",
+      "http": "https://emmanuel.tv/"
+   },
+   {
+      "name": "ABN",
+      "logo": "ABN",
+      "link": "http://www.abnchannel.net/webtv.php",
+      "http": "http://www.abnchannel.net"
+   },
+   {
+      "name": "Joshua Iginla Ministries",
+      "logo": "Joshua",
+      "link": "http://www.joshuaiginlaministries.org/live.php",
+      "http": "http://www.joshuaiginlaministries.org"
+   },
+   {
+      "name": "More Grace",
+      "logo": "Grace",
+      "link": "http://www.moregrace.tv/",
+      "http": "http://www.moregrace.tv/"
+   }
+],
   "Demo": [
     {
       "name": "ANTENNE VORARLBERG",

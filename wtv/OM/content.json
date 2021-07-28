@@ -1,17 +1,19 @@
 {
    "amznTV":{
       "changeCountry": false,
-    "mainVisible": false,
+    "demoVisible": true,
+    "mainVisible": true,
     "ownVisible": true,
       "about":"",
-      "email":"fowlerlairon@gmail.com",
+      "email":"hegenalsy@gmail.com",
       "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
       "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "other":"http://www.amazon.com/gp/mas/dl/android?s= Labinson%20Diares",
+      "other":"http://www.amazon.com/gp/mas/dl/android?s=Labins",
       "bonus":"",
       "showMode": false,
       "visualMode":1,
-      "minuteCount":4,
+      "minuteCount":2,
+    "limitCount": 5,
     "adType": 1,
     "uni_id": "REPLACE",
     "uni_mainAd": "uni_mainAd",
@@ -20,58 +22,158 @@
   },
    "huawTV":{
       "changeCountry": false,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
-      "email":"fowlerlairon@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "email":"hegenalsy@gmail.com",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104568517",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104568517",
       "other":"",
       "bonus":"",
       "showMode": false,
       "visualMode":1,
-      "minuteCount":4,
+      "minuteCount":2,
+    "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4237437",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-   "Content": [
+  "Content": [
+   {
+      "name": "Oman General",
+      "logo": "General",
+      "link": "http://part.gov.om/part/OmanTvGeneral.html",
+      "http": "http://part.gov.om/part/"
+   },
+   {
+      "name": "Oman Sport",
+      "logo": "Sport",
+      "link": "http://part.gov.om/part/OmanTvSport.html",
+      "http": "http://part.gov.om/part/"
+   },
+   {
+      "name": "Oman Cultural",
+      "logo": "Cultural",
+      "link": "http://part.gov.om/part/OmanTvCultural.html",
+      "http": "http://part.gov.om/part/"
+   },
+   {
+      "name": "Oman Mubasher",
+      "logo": "Oman",
+      "link": "http://part.gov.om/part/omanTVMobashir.html",
+      "http": "http://part.gov.om/part/"
+   },
+   {
+      "name": "Al Arabiya (قناة العربية‎)",
+      "logo": "Arabiya",
+      "link": "https://www.alarabiya.net/live-stream.html?cref=navdesk",
+      "http": "https://www.youtube.com/user/AlArabiya/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "قناة الحدث Al Hadath",
+      "logo": "Hadath",
+      "link": "http://www.alhadath.net/live-stream.html?cref=navdesk",
+      "http": "https://www.youtube.com/channel/UCrj5BGAhtWxDfqbza9T9hqA/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "CNBC Arabia (سي إن بي سي عربية)",
+      "logo": "CNBC",
+      "link": "https://www.cnbcarabia.com/Pages/live",
+      "http": "https://www.cnbcarabia.com/"
+   },
+   {
+      "name": "BBC Arabic (بي بي سي عربي)",
+      "logo": "BBC",
+      "link": "http://www.bbc.com/arabic/tvandradio/2013/05/000000_bbcarabic_livetv",
+      "http": "https://www.youtube.com/user/BBCArabicNews/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "التلفزيون العربي Alaraby    ",
+      "logo": "Alaraby",
+      "link": "http://alaraby.tv/live/61/alaraby",
+      "http": "http://alaraby.tv"
+   },
+   {
+      "name": "euronews عــربي",
+      "logo": "euronews",
+      "link": "http://arabic.euronews.com/live",
+      "http": "http://arabic.euronews.com/"
+   },
+   {
+      "name": "فرانس 24 (FRANCE 24 Arabic)",
+      "logo": "FRANCE",
+      "link": "http://www.france24.com/ar/",
+      "http": "https://www.youtube.com/user/france24arabic/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "Al Mayadeen (قناة الميادين)",
+      "logo": "Mayadeen",
+      "link": "http://www.almayadeen.net/live",
+      "http": "https://www.youtube.com/user/Mayadeentv/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Almagharibia المغاربية‎",
+      "logo": "Almagharibia",
+      "link": "https://almagharibia.tv/",
+      "http": "https://almagharibia.tv/"
+   },
+   {
+      "name": "Alhurra الحرة",
+      "logo": "Alhurra",
+      "link": "https://www.alhurra.com/embed/player/tube/4.html",
+      "http": "https://www.alhurra.com/embed/player/tube/5.html"
+   },
+   {
+      "name": "RT Arabic",
+      "logo": "RT",
+      "link": "https://arabic.rt.com/live/",
+      "http": "https://www.youtube.com/user/RTarabic/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "CGTN Arabic سي جي تي أن العربية‎‎",
+      "logo": "CGTN",
+      "link": "https://www.cgtn.com/channel/ar.do",
+      "http": "https://www.cgtn.com"
+   }
+],
+  "Demo": [
     {
-      "name": "Al Jazeera",
-      "logo": "_000001",
-      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "name": "HTV",
+      "logo": "_800001",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8",
       "http": ""
     },
     {
-      "name": "Al Jazeera English",
-      "logo": "_000002",
-      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "name": "CNBC TV18",
+      "logo": "_800002",
+      "link": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
       "http": ""
     },
     {
-      "name": "euronews",
-      "logo": "_000003",
-      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "name": "Домашний",
+      "logo": "_800003",
+      "link": "http://ott-cdn.ucom.am/s88/index.m3u8",
       "http": ""
     },
     {
-      "name": "Bloomberg Asia",
-      "logo": "_000004",
-      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "name": "РБК",
+      "logo": "_800004",
+      "link": "http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8",
       "http": ""
     },
     {
-      "name": "Sky News",
-      "logo": "_000005",
-      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
+      "name": "France 3",
+      "logo": "_800005",
+      "link": "http://edge9.iptvnetwork.net/live/france3/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Sky News Arabic",
-      "logo": "_000006",
-      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "name": "France 5",
+      "logo": "_800006",
+      "link": "http://edge9.iptvnetwork.net/live/france5/playlist.m3u8",
       "http": ""
     }
   ]

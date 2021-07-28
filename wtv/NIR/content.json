@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,91 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4236783",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   },
+   {
+      "name": "euronews",
+      "logo": "euronews",
+      "link": "http://www.euronews.com/live",
+      "http": "http://fr.euronews.com/"
+   },
+   {
+      "name": "Bloomberg TV",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "LA Muscle (Active Channel)",
+      "logo": "lamuscletv",
+      "link": "http://www.lamuscle.com/lamuscletv/live/",
+      "http": "http://www.lamuscle.com/"
+   },
+   {
+      "name": "Heart",
+      "logo": "Heart",
+      "link": "http://www.heart.co.uk/tv/player/",
+      "http": "http://www.heart.co.uk/"
+   },
+   {
+      "name": "NUsic",
+      "logo": "NUsic",
+      "link": "http://www.nusictv.com/on-air/",
+      "http": "http://www.nusictv.com/"
+   },
+   {
+      "name": "Landscape",
+      "logo": "Landscape",
+      "link": "http://www.landscapetv.com/on-air/",
+      "http": "http://www.landscapetv.com/"
+   },
+   {
+      "name": "Rocks & Co.",
+      "logo": "rocksandco",
+      "link": "http://www.rocksandco.com/live-auction/",
+      "http": "http://www.rocksandco.com/"
+   },
+   {
+      "name": "The Lounge",
+      "logo": "lounge",
+      "link": "http://www.gemporia.com/en-gb/auction/the-lounge/",
+      "http": "http://www.gemporia.com/"
+   },
+   {
+      "name": "Ideal World",
+      "logo": "idealworld",
+      "link": "http://www.idealworld.tv/ShowGridView?showId=2625283",
+      "http": "http://www.idealworld.tv/"
+   },
+   {
+      "name": "Create and Craft",
+      "logo": "createandcraft",
+      "link": "http://www.createandcraft.tv/showgridview?showId=2624535",
+      "http": "http://www.createandcraft.tv/"
+   },
+   {
+      "name": "Asian Star",
+      "logo": "101.6",
+      "link": "http://www.asianstar1016.co.uk/livetv/",
+      "http": "http://www.asianstar1016.co.uk/livetv/"
+   },
+   {
+      "name": "V2BEAT Vibee",
+      "logo": "V2BEAT",
+      "link": "https://www.vibee.tv/popup-tv-player/",
+      "http": "https://www.vibee.tv/webpage-player/"
+   }
+],
   "Demo": [
     {
       "name": "Eman Channel",
