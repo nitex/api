@@ -22,7 +22,7 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
@@ -36,11 +36,139 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4239125",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "TVP",
+      "logo": "TVP",
+      "link": "http://tvpstream.tvp.pl/",
+      "http": "http://www.tvp.pl/tvplayer?channel_id=1455&autoplay=true"
+   },
+   {
+      "name": "TVP3",
+      "logo": "3",
+      "link": "http://warszawa.tvp.pl/",
+      "http": "http://tvp3.tvp.pl/"
+   },
+   {
+      "name": "Euronews",
+      "logo": "Euronews",
+      "link": "http://www.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "EbS Europe by Satellite",
+      "logo": "EbS",
+      "link": "http://ec.europa.eu/avservices/ebs/live.cfm?page=1",
+      "http": "http://ec.europa.eu/avservices/ebs/schedule.cfm"
+   },
+   {
+      "name": "Telewizja WTK",
+      "logo": "WTK",
+      "link": "http://www.wtkplay.pl/live",
+      "http": "http://www.wtk.pl/live"
+   },
+   {
+      "name": "Bloomberg TV Europe",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "Torun",
+      "logo": "Torun",
+      "link": "http://www.tvtorun.net/",
+      "http": "http://www.toruntv.pl/"
+   },
+   {
+      "name": "Belsat",
+      "logo": "Belsat",
+      "link": "http://belsat.eu/online/",
+      "http": "http://belsat.eu/"
+   },
+   {
+      "name": "CW24TV",
+      "logo": "24",
+      "link": "http://www.cw24tv.pl/",
+      "http": "http://cw24.tv/"
+   },
+   {
+      "name": "TVK Telewizja Kujawy",
+      "logo": "TVK",
+      "link": "http://www.kujawy.info/na-zywo",
+      "http": "http://www.kujawy.info/"
+   },
+   {
+      "name": "Toya",
+      "logo": "Toya",
+      "link": "http://tvtoya.pl/live",
+      "http": "http://tvtoya.pl"
+   },
+   {
+      "name": "TV Master",
+      "logo": "Master",
+      "link": "http://www.tv.master.pl/tv_online.php",
+      "http": "http://www.tv.master.pl/"
+   },
+   {
+      "name": "Telewizja Sudecka",
+      "logo": "Sudecka",
+      "link": "http://www.tvsudecka.pl/streams/single/1",
+      "http": "https://www.youtube.com/user/tvsudecka/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name": "Dami",
+      "logo": "Dami",
+      "link": "http://dami24.pl/tvdami/dami-on-line",
+      "http": "http://dami24.pl"
+   },
+   {
+      "name": "Sfera TV",
+      "logo": "Sfera",
+      "link": "http://www.sferatv.pl/na-zywo",
+      "http": "http://www.sferatv.pl"
+   },
+   {
+      "name": "RBL",
+      "logo": "RBL",
+      "link": "http://www.rbl.tv/live.html",
+      "http": "http://www.rbl.tv/"
+   },
+   {
+      "name": "OPOKA",
+      "logo": "OPOKA",
+      "link": "http://opoka.tv/opoka-tv-live/",
+      "http": "http://opoka.tv/"
+   },
+   {
+      "name": "Mango 24",
+      "logo": "Mango",
+      "link": "http://tv.mango.pl/",
+      "http": "http://www.mango.pl/"
+   },
+   {
+      "name": "Trwam",
+      "logo": "Trwam",
+      "link": "http://www.tv-trwam.pl/na-zywo",
+      "http": "http://www.tv-trwam.pl"
+   },
+   {
+      "name": "EWTN",
+      "logo": "EWTN",
+      "link": "http://www.ewtn.com/multimedia/live_player.asp?satname=ukirlnlp",
+      "http": "http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&feed=ukirln"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   }
+],
   "Demo": [
     {
       "name": "ANTENNE VORARLBERG",
