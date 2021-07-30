@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104574615",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104574615",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,301 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4240387",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   },
+   {
+      "name": "BBC Arabic",
+      "logo": "bbcA",
+      "link": "http://www.bbc.co.uk/arabic/tvandradio/2013/05/000000_bbcarabic_livetv",
+      "http": "http://www.bbc.com/"
+   },
+   {
+      "name": "BBC Persian",
+      "logo": "bbcP",
+      "link": "http://www.bbc.com/persian/tvandradio/2013/08/000001_bbcpersian_livetv",
+      "http": "http://www.bbc.com/"
+   },
+   {
+      "name": "euronews",
+      "logo": "euronews",
+      "link": "http://www.euronews.com/live",
+      "http": "http://fr.euronews.com/"
+   },
+   {
+      "name": "Bloomberg TV",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "Arise",
+      "logo": "Arise",
+      "link": "http://www.arise.tv/",
+      "http": "http://www.arise.tv/"
+   },
+   {
+      "name": "Sheffield Live!",
+      "logo": "Sheffield",
+      "link": "http://tv.sheffieldlive.org/",
+      "http": "https://web.sheffieldlive.org"
+   },
+   {
+      "name": "LA Muscle (Active Channel)",
+      "logo": "lamuscletv",
+      "link": "http://www.lamuscle.com/lamuscletv/live/",
+      "http": "http://www.lamuscle.com/"
+   },
+   {
+      "name": "Capital",
+      "logo": "Capital",
+      "link": "http://www.capitalfm.com/tv/",
+      "http": "http://www.capitalfm.com/"
+   },
+   {
+      "name": "Heart",
+      "logo": "Heart",
+      "link": "http://www.heart.co.uk/tv/player/",
+      "http": "http://www.heart.co.uk/"
+   },
+   {
+      "name": "NUsic",
+      "logo": "NUsic",
+      "link": "http://www.nusictv.com/on-air/",
+      "http": "http://www.nusictv.com/"
+   },
+   {
+      "name": "AKA",
+      "logo": "AKA",
+      "link": "http://www.channelaka.com/watch/",
+      "http": "http://www.channelaka.com/"
+   },
+   {
+      "name": "Landscape",
+      "logo": "Landscape",
+      "link": "http://www.landscapetv.com/on-air/",
+      "http": "http://www.landscapetv.com/"
+   },
+   {
+      "name": "BEN",
+      "logo": "BEN",
+      "link": "http://bentelevision.com/?option=com_content&view=frontpage&Itemid=139",
+      "http": "http://bentelevision.com/"
+   },
+   {
+      "name": "Rocks & Co.",
+      "logo": "rocksandco",
+      "link": "http://www.rocksandco.com/live-auction/",
+      "http": "http://www.rocksandco.com/"
+   },
+   {
+      "name": "Jewellery Maker",
+      "logo": "Jewellery",
+      "link": "http://www.jewellerymaker.com/en-gb/auction/",
+      "http": "http://www.jewellerymaker.com/"
+   },
+   {
+      "name": "The Jewellery Channel (TJC)",
+      "logo": "TJC",
+      "link": "http://www.tjc.co.uk/watch-tjc",
+      "http": "http://www.thejewellerychannel.tv/layouts/LiveTVPopup.aspx?popup=1"
+   },
+   {
+      "name": "TJC Choice",
+      "logo": "TJCc",
+      "link": "http://www.tjc.co.uk/watch-tjc-choice",
+      "http": "http://www.thejewellerychannel.tv/layouts/TGLiveTVPopup.aspx?popup=1"
+   },
+   {
+      "name": "The Lounge",
+      "logo": "lounge",
+      "link": "http://www.gemporia.com/en-gb/auction/the-lounge/",
+      "http": "http://www.gemporia.com/"
+   },
+   {
+      "name": "Gemporia",
+      "logo": "Gemporia",
+      "link": "http://www.gemporia.com/en-gb/auction/gemporia/",
+      "http": "http://www.gemporia.com/"
+   },
+   {
+      "name": "Gem Collector",
+      "logo": "Collector",
+      "link": "http://www.gemcollector.com/en-gb/auction/live/",
+      "http": "http://www.gemporia.com/"
+   },
+   {
+      "name": "Ideal World",
+      "logo": "idealworld",
+      "link": "http://www.idealworld.tv/ShowGridView?showId=2625283",
+      "http": "http://www.idealworld.tv/"
+   },
+   {
+      "name": "Create and Craft",
+      "logo": "createandcraft",
+      "link": "http://www.createandcraft.tv/showgridview?showId=2624535",
+      "http": "http://www.createandcraft.tv/"
+   },
+   {
+      "name": "Loveworld",
+      "logo": "Loveworld",
+      "link": "http://www.loveworldtv.co.uk/watch-live/",
+      "http": "http://www.loveworldtv.co.uk/"
+   },
+   {
+      "name": "UCB",
+      "logo": "UCB",
+      "link": "http://www.ucb.co.uk/player/live",
+      "http": "http://www.ucb.co.uk/"
+   },
+   {
+      "name": "Believe TV",
+      "logo": "believe",
+      "link": "http://believetvnetwork.com/watch-live-2/",
+      "http": "http://believetvnetwork.com/"
+   },
+   {
+      "name": "Revelation TV",
+      "logo": "revelation",
+      "link": "http://www.revelationtv.com/",
+      "http": "http://www.revelationtv.com/"
+   },
+   {
+      "name": "Faith World",
+      "logo": "faithworldtv",
+      "link": "http://www.faithworldtv.com/watch-live/",
+      "http": "http://www.faithworldtv.com/"
+   },
+   {
+      "name": "Flow TV",
+      "logo": "flowtv",
+      "link": "http://campus.316networks.com/flowtv",
+      "http": "http://campus.316networks.com/flowtv"
+   },
+   {
+      "name": "God TV",
+      "logo": "god",
+      "link": "http://www.god.tv/live/uk",
+      "http": "http://www.god.tv/liveevents"
+   },
+   {
+      "name": "EWTN",
+      "logo": "ewtn",
+      "link": "http://www.ewtn.com/multimedia/live_player.asp?satname=ukirlnlp",
+      "http": "http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&feed=ukirln"
+   },
+   {
+      "name": "Ahlulbayt TV",
+      "logo": "ahlulbayt",
+      "link": "http://ahlulbayt.tv/live/",
+      "http": "http://ahlulbayt.tv/live/?quality=high"
+   },
+   {
+      "name": "Safeer",
+      "logo": "safeertv",
+      "link": "http://safeertv.com/live/",
+      "http": "http://safeertv.com/"
+   },
+   {
+      "name": "IQRA",
+      "logo": "iqra",
+      "link": "https://iqra.tv/",
+      "http": "https://iqra.tv/iqra-bangla/"
+   },
+   {
+      "name": "Sangat TV",
+      "logo": "sangat",
+      "link": "http://sangattelevision.org/",
+      "http": "https://livestream.com/sangattv/sangattv"
+   },
+   {
+      "name": "British Muslim TV",
+      "logo": "bm",
+      "link": "http://www.britishmuslim.tv/live.html",
+      "http": "http://www.britishmuslim.tv/"
+   },
+   {
+      "name": "Channel S",
+      "logo": "s",
+      "link": "http://www.jagobd.com/channelsuk.html",
+      "http": "http://www.jagobd.com/channelsuk.html"
+   },
+   {
+      "name": "TV One UK",
+      "logo": "One",
+      "link": "http://www.tvoneuk.tv/",
+      "http": "http://www.tvoneuk.tv/"
+   },
+   {
+      "name": "Propeller",
+      "logo": "propeller",
+      "link": "http://www.propellertv.co.uk/live-tv",
+      "http": "http://www.propellertv.co.uk/"
+   },
+   {
+      "name": "Glory TV",
+      "logo": "glory",
+      "link": "http://glorytv.co.uk/home/watch-live/",
+      "http": "http://glorytv.co.uk/live/index2.html"
+   },
+   {
+      "name": "Simay Azadi",
+      "logo": "iranntv",
+      "link": "http://iranntv.com/?p=281476",
+      "http": "http://iranntv.com/"
+   },
+   {
+      "name": "Amrit Bani",
+      "logo": "amritbani",
+      "link": "http://www.amritbani.tv/",
+      "http": "http://www.amritbani.tv/"
+   },
+   {
+      "name": "Akaal",
+      "logo": "akaal",
+      "link": "https://akaalchannel.tv/live-uk/",
+      "http": "https://akaalchannel.tv/"
+   },
+   {
+      "name": "Universal TV",
+      "logo": "universal",
+      "link": "https://livestream.com/accounts/2058831/universalsomalitv",
+      "http": "http://universalsomalitv.net/media"
+   },
+   {
+      "name": "MTA International",
+      "logo": "mta",
+      "link": "http://www.mta.tv/live",
+      "http": "http://www.mta.tv/"
+   },
+   {
+      "name": "Ahlebait",
+      "logo": "Ahlebait",
+      "link": "http://www.ahlebaittv.net/index.php/watch-live",
+      "http": "http://www.ahlebaittv.net/index.php?option=com_content&view=article&id=3&Itemid=3"
+   },
+   {
+      "name": "Asian Star",
+      "logo": "101.6",
+      "link": "http://www.asianstar1016.co.uk/livetv/",
+      "http": "http://www.asianstar1016.co.uk/livetv/"
+   },
+   {
+      "name": "V2BEAT Vibee",
+      "logo": "V2BEAT",
+      "link": "https://www.vibee.tv/popup-tv-player/",
+      "http": "https://www.vibee.tv/webpage-player/"
+   }
+],
   "Demo": [
     {
       "name": "etv",

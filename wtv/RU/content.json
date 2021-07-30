@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104574583",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104574583",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,1087 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4240285",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "ПЕРВЫЙ",
+      "logo": "1",
+      "link": "https://www.1tv.ru/live",
+      "http": "http://www.1tv.ru/"
+   },
+   {
+      "name": "euronews Россия",
+      "logo": "euronews",
+      "link": "http://ru.euronews.com/live",
+      "http": "https://www.youtube.com/user/euronewsru/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "РБК",
+      "logo": "rbc",
+      "link": "http://tv.rbc.ru/",
+      "http": "http://tv.rbc.ru/"
+   },
+   {
+      "name": "RT News",
+      "logo": "RT1",
+      "link": "https://www.rt.com/on-air/embed/",
+      "http": "https://www.rt.com/"
+   },
+   {
+      "name": "ОТР",
+      "logo": "otr",
+      "link": "http://www.otr-online.ru/online/",
+      "http": "http://www.otr-online.ru/"
+   },
+   {
+      "name": "Europa Plus ТВ",
+      "logo": "Europa",
+      "link": "http://www.europaplustv.com/online",
+      "http": "http://www.europaplustv.com/online-new"
+   },
+   {
+      "name": "Европа Плюс",
+      "logo": "Plus",
+      "link": "http://www.europaplus.ru/live",
+      "http": "http://www.europaplus.ru"
+   },
+   {
+      "name": "НТВ",
+      "logo": "NTV1",
+      "link": "https://www.youtube.com/user/ntvru/videos?view=2&live_view=501&flow=grid",
+      "http": "http://www.ntv.ru/air"
+   },
+   {
+      "name": "НТВ-Стиль",
+      "logo": "NTV2",
+      "link": "http://www.ntv.ru/air/ntvstyle",
+      "http": "http://www.ntv.ru/air"
+   },
+   {
+      "name": "НТВ-Право",
+      "logo": "NTV3",
+      "link": "http://www.ntv.ru/air/ntvlaw",
+      "http": "http://www.ntv.ru/air"
+   },
+   {
+      "name": "НТВ-Сериал",
+      "logo": "NTV4",
+      "link": "http://www.ntv.ru/air/ntvseries",
+      "http": "http://www.ntv.ru/air"
+   },
+   {
+      "name": "Настоящее Время",
+      "logo": "Current",
+      "link": "https://www.currenttime.tv/live",
+      "http": "https://www.currenttime.tv/live/video/92"
+   },
+   {
+      "name": "Телеканал Ю",
+      "logo": "U",
+      "link": "https://www.u-tv.ru/online/",
+      "http": "https://www.u-tv.ru"
+   },
+   {
+      "name": "MUSICBOX GOLD",
+      "logo": "musicbox-tv",
+      "link": "http://www.mboxtv.ru/pryamoj-efir",
+      "http": "http://www.mboxtv.ru/"
+   },
+   {
+      "name": "MUSICBOX",
+      "logo": "musicbox",
+      "link": "https://musicboxtv.ru/musicbox-online/",
+      "http": "https://musicboxtv.ru"
+   },
+   {
+      "name": "8",
+      "logo": "8",
+      "link": "http://live.proofix.ru/embed/tv8.php",
+      "http": "http://www.8tv.ru/"
+   },
+   {
+      "name": "Первый Тульский",
+      "logo": "1tul",
+      "link": "https://1tulatv.ru/live",
+      "http": "https://1tulatv.ru/"
+   },
+   {
+      "name": "Ямал-Регион",
+      "logo": "yamal",
+      "link": "https://yamal-region.tv/on-line/",
+      "http": "https://yamal-region.tv/"
+   },
+   {
+      "name": "Своё (Ставропольское телевидение)",
+      "logo": "stv",
+      "link": "https://stv24.tv/online/",
+      "http": "https://stv24.tv"
+   },
+   {
+      "name": "RT USA",
+      "logo": "RT2",
+      "link": "https://www.rt.com/on-air/rt-america-air/embed/",
+      "http": "https://www.rt.com/on-air/"
+   },
+   {
+      "name": "RT UK",
+      "logo": "RT3",
+      "link": "https://www.rt.com/on-air/rt-uk-air/embed/",
+      "http": "https://www.rt.com/on-air/"
+   },
+   {
+      "name": "RT Документальный",
+      "logo": "RT4",
+      "link": "https://rtd.rt.com/on-air/",
+      "http": "https://rtd.rt.com/on-air/embed/"
+   },
+   {
+      "name": "РЖД",
+      "logo": "RZD",
+      "link": "http://rzdtv.ru/onair/",
+      "http": "http://rzdtv.ru/"
+   },
+   {
+      "name": "Шансон",
+      "logo": "shanson",
+      "link": "http://www.shanson.tv/",
+      "http": "http://www.shanson.tv/"
+   },
+   {
+      "name": "ТУГАН ТЕЛ",
+      "logo": "tugan",
+      "link": "http://www.tugantel.tv/",
+      "http": "http://www.tugantel.tv/"
+   },
+   {
+      "name": "SHOPPING-LIVE",
+      "logo": "shopping",
+      "link": "https://www.shoppinglive.ru/online",
+      "http": "https://www.shoppinglive.ru"
+   },
+   {
+      "name": "СИНЕРГИЯ ТВ",
+      "logo": "synergy",
+      "link": "https://synergytv.ru/",
+      "http": "https://synergytv.ru/"
+   },
+   {
+      "name": "ТЕЛЕДОМ",
+      "logo": "teledom",
+      "link": "http://teledom.tv/",
+      "http": "http://teledom.tv/"
+   },
+   {
+      "name": "НИКА",
+      "logo": "nika",
+      "link": "https://nikatv.ru/tv/online-veschanie",
+      "http": "https://nikatv.ru"
+   },
+   {
+      "name": "Мир Белогорья",
+      "logo": "mb",
+      "link": "http://mirbelogorya.ru/live.html",
+      "http": "http://mirbelogorya.ru/"
+   },
+   {
+      "name": "ТРИ АНГЕЛА",
+      "logo": "3",
+      "link": "http://www.3angels.ru/air/online/",
+      "http": "http://www.3angels.ru/"
+   },
+   {
+      "name": "Радость Моя",
+      "logo": "radost",
+      "link": "http://www.radostmoya.ru/online/",
+      "http": "http://www.radostmoya.ru/"
+   },
+   {
+      "name": "ПРОСВЕЩЕНИЕ",
+      "logo": "prosvesh",
+      "link": "http://www.prosveshenie.tv/",
+      "http": "http://www.prosveshenie.tv/"
+   },
+   {
+      "name": "BEPA 24",
+      "logo": "BEPA",
+      "link": "https://vera24.tv/online/",
+      "http": "https://vera24.tv"
+   },
+   {
+      "name": "Т Б Н",
+      "logo": "tbn",
+      "link": "https://tbn-tv.com/online-us/",
+      "http": "https://tbn-tv.com/online/"
+   },
+   {
+      "name": "Раз",
+      "logo": "Raz",
+      "link": "http://www.raz.tv/live-mnu/livevideo-mnu",
+      "http": "http://www.raz.tv"
+   },
+   {
+      "name": "Надежда",
+      "logo": "Hope",
+      "link": "https://hopetv.ru/",
+      "http": "https://hopetv.ru/"
+   },
+   {
+      "name": "Russian Extreme",
+      "logo": "Extreme",
+      "link": "http://www.extremtv.ru/",
+      "http": "http://www.extremtv.ru/"
+   },
+   {
+      "name": "RU.TV",
+      "logo": "RUTV",
+      "link": "http://ru.tv/watch/online/",
+      "http": "http://ru.tv"
+   },
+   {
+      "name": "1HD Music",
+      "logo": "1HD",
+      "link": "https://1hd.ru/",
+      "http": "https://1hd.ru/"
+   },
+   {
+      "name": "HardLife",
+      "logo": "HardLife",
+      "link": "http://hardlife.tv/",
+      "http": "http://hardlife.tv/"
+   },
+   {
+      "name": "Global Star",
+      "logo": "Global",
+      "link": "http://www.globalstar.tv/online.aspx",
+      "http": "http://www.globalstar.tv"
+   },
+   {
+      "name": "Impact",
+      "logo": "Impact",
+      "link": "http://206.190.141.27:1935/live/impact.smil/playlist.m3u8",
+      "http": "http://impacttv.tv/onlinetv/"
+   },
+   {
+      "name": "Брат",
+      "logo": "Brat",
+      "link": "http://www.ibrattv.com/broadcasting-ru/",
+      "http": "http://www.ibrattv.com/"
+   },
+   {
+      "name": "Первый христианский",
+      "logo": "CNL",
+      "link": "https://cnl.tv/live#cnl-eu",
+      "http": "https://cnl.tv/live"
+   },
+   {
+      "name": "РГВК Дагестан",
+      "logo": "Dagestan",
+      "link": "https://www.rgvktv.ru/live",
+      "http": "https://www.rgvktv.ru"
+   },
+   {
+      "name": "26 РЕГИОН",
+      "logo": "26",
+      "link": "https://frontend.vh.yandex.ru/player/4353bd946f8a1c628afc5faf901ebf7e?from=26region.tv",
+      "http": "https://26region.tv/"
+   },
+   {
+      "name": "K24 Катунь",
+      "logo": "K24",
+      "link": "https://katun24.ru/k24",
+      "http": "https://katun24.ru"
+   },
+   {
+      "name": "Краснодар",
+      "logo": "Krasnodar",
+      "link": "https://tvkrasnodar.ru/tv/pryamoy-efir/",
+      "http": "https://tvkrasnodar.ru"
+   },
+   {
+      "name": "Югра",
+      "logo": "Ugra",
+      "link": "https://ugra-tv.ru/online/",
+      "http": "https://ugra-tv.ru"
+   },
+   {
+      "name": "Курай ТВ",
+      "logo": "Kuray",
+      "link": "http://xn--80asbyo.tv/",
+      "http": "http://xn--80asbyo.tv/"
+   },
+   {
+      "name": "Салям",
+      "logo": "Salam",
+      "link": "https://bash.news/salyam",
+      "http": "https://bash.news"
+   },
+   {
+      "name": "ЛенТВ 24",
+      "logo": "24",
+      "link": "https://lentv24.ru/timetable/",
+      "http": "https://lentv24.ru"
+   },
+   {
+      "name": "Санкт-Петербург",
+      "logo": "Sankt",
+      "link": "https://topspb.tv/live/",
+      "http": "https://topspb.tv"
+   },
+   {
+      "name": "Эхо",
+      "logo": "Exo",
+      "link": "https://echotv.ru/",
+      "http": "https://echotv.ru/"
+   },
+   {
+      "name": "Красная Линия",
+      "logo": "Red",
+      "link": "https://www.rline.tv/",
+      "http": "https://www.rline.tv/"
+   },
+   {
+      "name": "Bridge",
+      "logo": "Bridge",
+      "link": "https://bridgetv.ru/show-player/",
+      "http": "https://bridgetv.ru"
+   },
+   {
+      "name": "DMC MUSIC",
+      "logo": "DMC",
+      "link": "https://dmcmusic.tv/livevideo",
+      "http": "https://dmcmusic.tv"
+   },
+   {
+      "name": "Страна FM",
+      "logo": "Strana",
+      "link": "https://strana.fm/tv/",
+      "http": "https://strana.fm/"
+   },
+   {
+      "name": "МУЗСОЮЗ",
+      "logo": "MuzSouz",
+      "link": "https://muz.tv-soyuz.ru/",
+      "http": "https://muz.tv-soyuz.ru/"
+   },
+   {
+      "name": "Смайлик",
+      "logo": "Smilik",
+      "link": "https://smilik.tv/tv-online/",
+      "http": "https://smilik.tv"
+   },
+   {
+      "name": "ВИТРИНА",
+      "logo": "Vitrina",
+      "link": "http://vitrinatv.ru/",
+      "http": "http://vitrinatv.ru/"
+   },
+   {
+      "name": "Shop And Show",
+      "logo": "And",
+      "link": "https://shopandshow.ru/onair/",
+      "http": "https://www.youtube.com/c/ShopShow/videos?view=2&live_view=501"
+   },
+   {
+      "name": "Top Shop",
+      "logo": "Shop",
+      "link": "http://www.top-shop.ru/genre/12-tv-tovary/",
+      "http": "https://www.youtube.com/user/TopShopRU/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "LEOMAX24",
+      "logo": "LEOMAX24",
+      "link": "https://www.leomax24.ru/telecast/",
+      "http": "https://www.youtube.com/c/Shop24com/videos?view=2&live_view=501"
+   },
+   {
+      "name": "LEOMAX+",
+      "logo": "LEOMAX+",
+      "link": "https://www.leomax24.ru/leomax-plus/",
+      "http": "https://www.youtube.com/channel/UCf9drl7pFjRIZoVd7WXDW4g/videos?view=2&live_view=501"
+   },
+   {
+      "name": "Ювелирочка",
+      "logo": "Uvelirochka",
+      "link": "https://xn--80adjmkewp8d3c.xn--p1ai/online/",
+      "http": "https://xn--80adjmkewp8d3c.xn--p1ai"
+   },
+   {
+      "name": "Вместе-РФ",
+      "logo": "vmeste",
+      "link": "https://vmeste-rf.tv/live/",
+      "http": "https://vmeste-rf.tv"
+   },
+   {
+      "name": "Эфир",
+      "logo": "Kazan",
+      "link": "http://www.efir24.tv/kazan/player/efir.php",
+      "http": "http://www.efir24.tv"
+   },
+   {
+      "name": "Кубань 24",
+      "logo": "Kuban",
+      "link": "https://kuban24.tv/tv/",
+      "http": "https://kuban24.tv"
+   },
+   {
+      "name": "АТВмедиа",
+      "logo": "ATV",
+      "link": "http://atvmedia.ru/",
+      "http": "http://atvmedia.ru/"
+   },
+   {
+      "name": "Каббала",
+      "logo": "Kabbalah",
+      "link": "http://www.kab.tv/rus",
+      "http": "http://www.kab.tv"
+   },
+   {
+      "name": "FRESHTV",
+      "logo": "FRESHTV",
+      "link": "http://www.planeta-online.tv/channels/4/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "TBTYP",
+      "logo": "TBTYP",
+      "link": "http://www.planeta-online.tv/channels/2/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Премьера",
+      "logo": "Prem",
+      "link": "http://www.planeta-online.tv/channels/5/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Любимое",
+      "logo": "Lubimoe",
+      "link": "http://www.planeta-online.tv/channels/6/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Бьюти",
+      "logo": "Beauty",
+      "link": "http://www.planeta-online.tv/channels/134/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Вкусное",
+      "logo": "Vkusnoe",
+      "link": "http://www.planeta-online.tv/channels/133/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Релакс",
+      "logo": "Relax",
+      "link": "http://www.planeta-online.tv/channels/3/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Дайвинг",
+      "logo": "Diving",
+      "link": "http://www.planeta-online.tv/channels/130/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Радио FRESH",
+      "logo": "FRESH",
+      "link": "http://www.planeta-online.tv/channels/13/live.html",
+      "http": "http://www.planeta-online.tv/"
+   },
+   {
+      "name": "Супер",
+      "logo": "Super",
+      "link": "https://superkanal.ru/live",
+      "http": "https://superkanal.ru"
+   },
+   {
+      "name": "Жар-Птица",
+      "logo": "Zhar",
+      "link": "http://www.zhar-ptica.tv/",
+      "http": "http://www.zhar-ptica.tv/"
+   },
+   {
+      "name": "Калейдоскоп",
+      "logo": "Kaleydoskop",
+      "link": "http://www.kaleidoskoptv.tv/online/",
+      "http": "http://www.kaleidoskoptv.tv"
+   },
+   {
+      "name": "Точка",
+      "logo": "Tochka",
+      "link": "https://tochkatv.tv/onlajn-veshhanie.html",
+      "http": "https://tochkatv.tv"
+   },
+   {
+      "name": "UNIVER",
+      "logo": "UNIVER",
+      "link": "https://universmotri.ru/index.php/live/univertv",
+      "http": "https://universmotri.ru"
+   },
+   {
+      "name": "КФУ",
+      "logo": "KFU",
+      "link": "https://universmotri.ru/index.php/live/kfutv",
+      "http": "https://universmotri.ru/index.php/live/kfutv-2"
+   },
+   {
+      "name": "Океан",
+      "logo": "OCEAN",
+      "link": "http://ocean-tv.media/programma/",
+      "http": "http://ocean-tv.media"
+   },
+   {
+      "name": "Большая Азия",
+      "logo": "Big",
+      "link": "https://bigasia.ru/tv/",
+      "http": "https://bigasia.ru"
+   },
+   {
+      "name": "7",
+      "logo": "7",
+      "link": "http://7-tv.tv/",
+      "http": "http://7-tv.tv/"
+   },
+   {
+      "name": "TVM",
+      "logo": "TVM",
+      "link": "https://tvmchannel.ru/",
+      "http": "http://tvmchannel.ru/videoplayer1.html"
+   },
+   {
+      "name": "Продвижение",
+      "logo": "Prod",
+      "link": "https://pro-tv.info/live/",
+      "http": "https://pro-tv.info"
+   },
+   {
+      "name": "Министерство Идей",
+      "logo": "Idey",
+      "link": "https://minidey.ru/prjamoj-jefir/",
+      "http": "https://minidey.ru"
+   },
+   {
+      "name": "Russian America",
+      "logo": "America",
+      "link": "https://russianamerica.tv/live-stream",
+      "http": "https://russianamerica.tv"
+   },
+   {
+      "name": "Волга",
+      "logo": "Volga",
+      "link": "https://www.volga-tv.ru/live/",
+      "http": "https://www.volga-tv.ru"
+   },
+   {
+      "name": "OTB Екатеринбург",
+      "logo": "OTB",
+      "link": "https://www.obltv.ru/broadcasting/online/",
+      "http": "https://www.obltv.ru"
+   },
+   {
+      "name": "Каскад Калининград",
+      "logo": "Kaskad",
+      "link": "https://kaskad.tv/efir",
+      "http": "https://kaskad.tv"
+   },
+   {
+      "name": "Солнечногорское",
+      "logo": "Soln",
+      "link": "https://solntv.ru/",
+      "http": "https://solntv.ru/"
+   },
+   {
+      "name": "TBP24 Сергиев Посад",
+      "logo": "TBP24",
+      "link": "https://tvr24.tv/live-broadcast",
+      "http": "https://tvr24.tv/playlist.m3u"
+   },
+   {
+      "name": "HHTB (Н. Новгород)",
+      "logo": "HHTB",
+      "link": "http://nntv.tv/online",
+      "http": "http://nntv.tv"
+   },
+   {
+      "name": "Губерния 33 Владимир",
+      "logo": "Vladimir",
+      "link": "https://trc33.ru/tv/",
+      "http": "https://trc33.ru"
+   },
+   {
+      "name": "Чӑваш Ен",
+      "logo": "Chavash",
+      "link": "http://www.ntrk21.ru/live",
+      "http": "http://www.ntrk21.ru"
+   },
+   {
+      "name": "Maidan",
+      "logo": "Maidan",
+      "link": "https://maidan.tv/",
+      "http": "https://maidan.tv/"
+   },
+   {
+      "name": "Хузур",
+      "logo": "Huzur",
+      "link": "http://playercdn.cdnvideo.ru/aloha/players/mycdn08724960135_player_stream1.html",
+      "http": "http://huzurtv.ru/"
+   },
+   {
+      "name": "АРИС",
+      "logo": "Aris",
+      "link": "http://aris-tv.ru/aris-24",
+      "http": "http://aris-tv.ru"
+   },
+   {
+      "name": "Вся Уфа",
+      "logo": "Ufa",
+      "link": "https://www.allufa.ru/online/",
+      "http": "https://www.allufa.ru"
+   },
+   {
+      "name": "OTC",
+      "logo": "OTC",
+      "link": "http://otstv.ru/efirots.php",
+      "http": "http://otstv.ru"
+   },
+   {
+      "name": "8 Новосибирск",
+      "logo": "Novosibirsk",
+      "link": "http://nsk.8tv.ru/bc.html",
+      "http": "http://nsk.8tv.ru/"
+   },
+   {
+      "name": "12 Канал Омск",
+      "logo": "12",
+      "link": "https://12-kanal.ru/online/",
+      "http": "https://12-kanal.ru"
+   },
+   {
+      "name": "Сочи 24",
+      "logo": "Sochi",
+      "link": "https://sochi24.tv/online",
+      "http": "https://sochi24.tv"
+   },
+   {
+      "name": "SOCHI LIVE",
+      "logo": "SOCH",
+      "link": "https://sochilive.tv/#translation",
+      "http": "https://sochilive.tv"
+   },
+   {
+      "name": "Инфо 24",
+      "logo": "Info24",
+      "link": "http://info24tv.ru/online/",
+      "http": "http://info24tv.ru/"
+   },
+   {
+      "name": "Ингушетия",
+      "logo": "Ingushetiya",
+      "link": "https://ingushetiya.tv/pryamoy-yefir/",
+      "http": "https://ingushetiya.tv"
+   },
+   {
+      "name": "Губерния Хабаровск",
+      "logo": "Gubernia",
+      "link": "https://www.gubernia.com/projects/online/",
+      "http": "https://www.gubernia.com"
+   },
+   {
+      "name": "CEBEP",
+      "logo": "CEBEP",
+      "link": "http://trksever.ru/on-line/",
+      "http": "http://trksever.ru"
+   },
+   {
+      "name": "Юрган (Сыктывкар)",
+      "logo": "Urgan",
+      "link": "http://www.xn--80af5aj3e.xn--p1ai/online",
+      "http": "http://www.xn--80af5aj3e.xn--p1ai/"
+   },
+   {
+      "name": "ЮТВ Чебоксары",
+      "logo": "UTV",
+      "link": "http://xn--21-dlc7dxc.xn--p1ai/pryamoj-efir.html",
+      "http": "http://xn--21-dlc7dxc.xn--p1ai/"
+   },
+   {
+      "name": "МосОбр",
+      "logo": "MosObr",
+      "link": "https://mosobr.tv/",
+      "http": "https://mosobr.tv/"
+   },
+   {
+      "name": "Саратов 24",
+      "logo": "Saratov",
+      "link": "https://saratov24.tv/online/",
+      "http": "https://saratov24.tv/"
+   },
+   {
+      "name": "11 Канал (Пенза)",
+      "logo": "11",
+      "link": "http://www.penzainform.ru/tv/online/11channel.html",
+      "http": "http://www.penzainform.ru"
+   },
+   {
+      "name": "Липецкое время",
+      "logo": "Lipeck",
+      "link": "http://lipetsktime.ru/tv/online.php",
+      "http": "http://lipetsktime.ru"
+   },
+   {
+      "name": "Губерния (Воронеж)",
+      "logo": "Voronej",
+      "link": "http://tv-gubernia.ru/online/",
+      "http": "http://tv-gubernia.ru"
+   },
+   {
+      "name": "Губерния (Самара)",
+      "logo": "Samara",
+      "link": "https://sova.info/tv/online/",
+      "http": "https://sova.info"
+   },
+   {
+      "name": "Моя Удмуртия",
+      "logo": "Moya",
+      "link": "http://www.myudm.ru/online-efir-udmurtia",
+      "http": "http://www.myudm.ru"
+   },
+   {
+      "name": "OPT Оренбург",
+      "logo": "OPT",
+      "link": "https://media56.ru/live/",
+      "http": "https://media56.ru"
+   },
+   {
+      "name": "ВЕТТА 24",
+      "logo": "VETTA",
+      "link": "https://vetta.tv/online/",
+      "http": "https://vetta.tv"
+   },
+   {
+      "name": "Астрахань 24",
+      "logo": "Astrahan",
+      "link": "https://astrakhan-24.ru/live",
+      "http": "https://astrakhan-24.ru"
+   },
+   {
+      "name": "Экспресс (Пенза)",
+      "logo": "Ekspres",
+      "link": "http://tv-express.ru/",
+      "http": "http://tv-express.ru/"
+   },
+   {
+      "name": "Енисей",
+      "logo": "Enisey",
+      "link": "https://www.enisey.tv/live/",
+      "http": "https://www.enisey.tv"
+   },
+   {
+      "name": "HTM - Народное Телевидение Мордовии",
+      "logo": "HTM",
+      "link": "https://ntm13.ru/",
+      "http": "https://ntm13.ru/"
+   },
+   {
+      "name": "Тольятти 24",
+      "logo": "Tolyati",
+      "link": "http://vaztv.ru/live/",
+      "http": "http://vaztv.ru"
+   },
+   {
+      "name": "ЭХО-ТВ 24 Новоуральск",
+      "logo": "EXO24",
+      "link": "http://novouralsk-news.ru/%D1%8D%D1%85%D0%BE-%D1%82%D0%B2-24/",
+      "http": "http://stream.novouralsk-news.ru/echotv24/live.m3u8"
+   },
+   {
+      "name": "Городской (Брянск)",
+      "logo": "Gorodskoy",
+      "link": "https://gorod-tv.com/static/onair",
+      "http": "https://gorod-tv.com"
+   },
+   {
+      "name": "Русский Север (Вологда)",
+      "logo": "Sever",
+      "link": "http://rusevertv.ru/",
+      "http": "http://rusevertv.ru/"
+   },
+   {
+      "name": "ЛУЧ",
+      "logo": "Luch",
+      "link": "https://trk-luch.ru/online/",
+      "http": "https://trk-luch.ru"
+   },
+   {
+      "name": "TPK CKAT",
+      "logo": "CKAT",
+      "link": "https://www.scat-tv.ru/online/",
+      "http": "https://www.scat-tv.ru"
+   },
+   {
+      "name": "Татарстан-24",
+      "logo": "Tatarstan",
+      "link": "http://tatarstan24.tv/news/rubric/list/programmy-telekanala",
+      "http": "http://tatarstan24.tv"
+   },
+   {
+      "name": "ZAB.TV",
+      "logo": "ZAB",
+      "link": "https://zab.tv/live",
+      "http": "https://zab.tv"
+   },
+   {
+      "name": "Рыбинск-40",
+      "logo": "40",
+      "link": "http://r40.ru/live/",
+      "http": "http://r40.ru"
+   },
+   {
+      "name": "ТКР Рязань",
+      "logo": "TKP",
+      "link": "https://www.tkr.su/online",
+      "http": "https://www.tkr.su"
+   },
+   {
+      "name": "Белгород 24",
+      "logo": "Belgorod",
+      "link": "https://www.belnovosti.ru/live24.html",
+      "http": "https://www.belnovosti.ru"
+   },
+   {
+      "name": "ТВК Красноярск",
+      "logo": "TBK",
+      "link": "https://tvk6.ru/",
+      "http": "https://tvk6.ru/"
+   },
+   {
+      "name": "Ариг Ус 24",
+      "logo": "Arig",
+      "link": "https://arigus.tv/tv/",
+      "http": "https://arigus.tv/tv/24.php"
+   },
+   {
+      "name": "Вестник Надыма",
+      "logo": "Nadym",
+      "link": "http://trknadym.ru/online/",
+      "http": "http://trknadym.ru"
+   },
+   {
+      "name": "Импульс (Новый Уренгой)",
+      "logo": "Impuls",
+      "link": "https://www.tv-impulse.ru/air/",
+      "http": "https://www.tv-impulse.ru"
+   },
+   {
+      "name": "Самара-ГИС",
+      "logo": "GIS",
+      "link": "https://samaragis.ru/pryamoj-efir-samara-gis/",
+      "http": "https://samaragis.ru"
+   },
+   {
+      "name": "HOBO-TB (Новокузнецк)",
+      "logo": "HOBO",
+      "link": "http://novotv.ru/",
+      "http": "http://novotv.ru/"
+   },
+   {
+      "name": "МИГ",
+      "logo": "MIG",
+      "link": "https://tvmig.ru/stream/",
+      "http": "https://tvmig.ru"
+   },
+   {
+      "name": "Алмазный край",
+      "logo": "Almaz",
+      "link": "https://almaz-media.tv/iptv.html",
+      "http": "https://almaz-media.tv"
+   },
+   {
+      "name": "Якутия 24",
+      "logo": "Yakutia",
+      "link": "https://yk24.ru/index/strimyi/live",
+      "http": "https://yk24.ru"
+   },
+   {
+      "name": "Туапсе24",
+      "logo": "Tuapse24",
+      "link": "http://tuapse24.tv/on-line/",
+      "http": "http://tuapse24.tv"
+   },
+   {
+      "name": "Евразия - Орск",
+      "logo": "Orsk",
+      "link": "http://eurasia.orsk.ru/",
+      "http": "http://eurasia.orsk.ru/"
+   },
+   {
+      "name": "Тивиком (Улан-Удэ)",
+      "logo": "tvcom",
+      "link": "https://tvcom-tv.ru/online.html",
+      "http": "https://tvcom-tv.ru"
+   },
+   {
+      "name": "41 (Воронеж)",
+      "logo": "41",
+      "link": "http://41-tv.ru/pryamoj-efir/",
+      "http": "http://41-tv.ru"
+   },
+   {
+      "name": "Центр Красноярск",
+      "logo": "Centr",
+      "link": "https://www.tck.tv/",
+      "http": "https://www.tck.tv/"
+   },
+   {
+      "name": "Вариант (Владимир)",
+      "logo": "Variant",
+      "link": "http://variant-v.ru/online/",
+      "http": "http://variant-v.ru"
+   },
+   {
+      "name": "TMTV Татарстан",
+      "logo": "TMTV",
+      "link": "https://tmtv.tatar/2017/?page_id=407",
+      "http": "https://tmtv.tatar"
+   },
+   {
+      "name": "41 Регион (Камчатка)",
+      "logo": "Region",
+      "link": "https://41region.tv/",
+      "http": "https://www.youtube.com/channel/UCtpckPN5SqTinhLJCp6egSw/videos?view=2&live_view=501"
+   },
+   {
+      "name": "Первый Псковский",
+      "logo": "Pskov",
+      "link": "http://1pskov.tv/",
+      "http": "http://1pskov.tv/"
+   },
+   {
+      "name": "Кузбасс 1",
+      "logo": "Kuzbass",
+      "link": "https://kuzbass1.ru/kuzbass1hd-online",
+      "http": "https://kuzbass1.ru"
+   },
+   {
+      "name": "Квант",
+      "logo": "Kvant",
+      "link": "https://tmkvant.ru/",
+      "http": "https://tmkvant.ru/"
+   },
+   {
+      "name": "Region04.online Алтай",
+      "logo": "Region04.online",
+      "link": "http://region04.online/online",
+      "http": "http://region04.online"
+   },
+   {
+      "name": "Самотлор",
+      "logo": "Samotlor",
+      "link": "http://online.samotlor.tv/",
+      "http": "https://samotlor.tv/"
+   },
+   {
+      "name": "TOK TB",
+      "logo": "TOK",
+      "link": "https://xn--b1aplpc.xn--p1ai/",
+      "http": "https://xn--b1aplpc.xn--p1ai/"
+   },
+   {
+      "name": "ОТВ Одинцово",
+      "logo": "Odintsovo",
+      "link": "http://otv.odintv.ru/otv-online/",
+      "http": "http://otv.odintv.ru"
+   },
+   {
+      "name": "MTVMIX Уфа",
+      "logo": "MTVMIX",
+      "link": "http://mtvmix.ru/online",
+      "http": "http://mtvmix.ru"
+   },
+   {
+      "name": "BRICS",
+      "logo": "BRICS",
+      "link": "https://tvbrics.com/live/",
+      "http": "https://tvbrics.com"
+   },
+   {
+      "name": "IvanovoNews Барс",
+      "logo": "IvanovoNews",
+      "link": "https://www.ivanovonews.ru/live/",
+      "http": "https://www.ivanovonews.ru"
+   },
+   {
+      "name": "КРИК",
+      "logo": "KRIK",
+      "link": "http://kriknews.ru/",
+      "http": "http://www.ricekb.ru/?ELEMENT_ID=1847"
+   },
+   {
+      "name": "Мордовия 24 (Саранск)",
+      "logo": "Mordovia",
+      "link": "https://info-rm.com/",
+      "http": "https://info-rm.com/"
+   },
+   {
+      "name": "Сургут 24",
+      "logo": "Surgut",
+      "link": "https://in-news.ru/tv/",
+      "http": "https://in-news.ru"
+   },
+   {
+      "name": "Славянский МIРЪ",
+      "logo": "Slav",
+      "link": "https://www.slavmir.tv/",
+      "http": "https://www.slavmir.tv/"
+   },
+   {
+      "name": "ТНВ-Планета",
+      "logo": "THB",
+      "link": "https://tnv.ru/",
+      "http": "https://tnv.ru/"
+   },
+   {
+      "name": "Томское время",
+      "logo": "Tomsk",
+      "link": "https://tomsk-time.ru/",
+      "http": "https://tomsk-time.ru/"
+   },
+   {
+      "name": "Первый Ярославский",
+      "logo": "1yar",
+      "link": "https://1yar.tv/live/",
+      "http": "https://1yar.tv"
+   },
+   {
+      "name": "Новгород-ТВ",
+      "logo": "Novgorod",
+      "link": "https://novgorod-tv.ru/pryamoj-efir.html",
+      "http": "https://novgorod-tv.ru"
+   },
+   {
+      "name": "HBK CAXA",
+      "logo": "CAXA",
+      "link": "http://nvk-online.ru/new/online/",
+      "http": "http://nvk-online.ru"
+   },
+   {
+      "name": "Матур",
+      "logo": "Matur",
+      "link": "https://matur-tv.ru/",
+      "http": "https://matur-tv.ru/"
+   },
+   {
+      "name": "ЧГТРК Грозный",
+      "logo": "Grozny",
+      "link": "https://grozny.tv/live.php",
+      "http": "https://grozny.tv"
+   }
+],
   "Demo": [
     {
       "name": "ATV 1",
