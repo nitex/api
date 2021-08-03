@@ -2,20 +2,20 @@
    "amznTV":{
       "changeCountry": false,
     "demoVisible": false,
-    "mainVisible": false,
+    "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"http://www.amazon.com/gp/mas/dl/android?asin=",
-      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=",
+      "share":"http://www.amazon.com/gp/mas/dl/android?asin=B09BN7SZZM",
+      "rateL":"http://www.amazon.com/gp/mas/dl/android?asin=B09BN7SZZM",
       "other":"http://www.amazon.com/gp/mas/dl/android?s=Labins",
-      "bonus":"",
+      "bonus":"http://www.amazon.com/gp/mas/dl/android?asin=B09778M13Y",
       "showMode": false,
       "visualMode":1,
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4245595",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
@@ -108,43 +108,5 @@
       "link": "http://1muz.com/",
       "http": "http://1muz.com/"
    }
-],
-  "Demo": [
-    {
-      "name": "ANTENNE VORARLBERG",
-      "logo": "_100001",
-      "link": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Dorf TV",
-      "logo": "_100002",
-      "link": "https://stream.openplayout.org/hls/dorf.m3u8",
-      "http": ""
-    },
-    {
-      "name": "FS1",
-      "logo": "_100003",
-      "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
-      "http": ""
-    },
-    {
-      "name": "GoTV",
-      "logo": "_100004",
-      "link": "https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "TV Interlagos",
-      "logo": "_100005",
-      "link": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "W24",
-      "logo": "_100006",
-      "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
-      "http": ""
-    }
-  ]
+]
 }
