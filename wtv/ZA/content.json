@@ -1,8 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-    "demoVisible": true,
-    "mainVisible": true,
+    "demoVisible": false,
+    "mainVisible": false,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104576459",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104576459",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,151 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4247623",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "CNBC Africa",
+      "logo": "CNBC",
+      "link": "https://www.cnbcafrica.com/watch/",
+      "http": "https://www.youtube.com/user/ABNDigital/videos?flow=grid&view=2"
+   },
+   {
+      "name": "ANN7 - Africa News Network7",
+      "logo": "ANN7",
+      "link": "http://www.ann7.com/live-tv/",
+      "http": "https://www.youtube.com/channel/UC6gciFMFztxlRrO5f4K1xbQ"
+   },
+   {
+      "name": "SABC News",
+      "logo": "SABC",
+      "link": "https://www.youtube.com/user/sabcdigitalnews",
+      "http": "http://www.sabcnews.com/"
+   },
+   {
+      "name": "Bloomberg TV",
+      "logo": "bloomberg",
+      "link": "https://www.bloomberg.com/live/europe",
+      "http": "https://www.bloomberg.com/live/us"
+   },
+   {
+      "name": "Sky News",
+      "logo": "Sky",
+      "link": "https://news.sky.com/watch-live",
+      "http": "https://www.youtube.com/user/skynews"
+   },
+   {
+      "name": "Ezekiel",
+      "logo": "Ezekiel",
+      "link": "http://www.ezekieltvchannel.com/",
+      "http": "http://www.ezekieltvchannel.com/"
+   },
+   {
+      "name": "Faith Africa",
+      "logo": "Africa",
+      "link": "http://streaming.myfaithtv.com/faithafrica",
+      "http": "http://www.myfaithtv.com/"
+   },
+   {
+      "name": "Faith UK",
+      "logo": "UK",
+      "link": "http://streaming.myfaithtv.com/faithuk",
+      "http": "http://www.myfaithtv.com/"
+   },
+   {
+      "name": "Faith USA",
+      "logo": "USA",
+      "link": "http://www.myfaithusa.com/watch-live/",
+      "http": "http://streaming.myfaithtv.com/faithusa"
+   },
+   {
+      "name": "UBN Unity Fellowship",
+      "logo": "UBN",
+      "link": "http://www.unityfellowshipchurch.org.za/tv-ministry.html",
+      "http": "http://www.unityfellowshipchurch.org.za"
+   },
+   {
+      "name": "LoveWorldSAT",
+      "logo": "LoveWorldSAT",
+      "link": "https://www.loveworldsat.org/watchlisten/live-tv/",
+      "http": "http://155.obj.netromedia.com/MobileStream/MobileStream/playlist.m3u8"
+   },
+   {
+      "name": "ITV Networks",
+      "logo": "ITV",
+      "link": "http://www.itvnetworks.tv/index.php/livestream",
+      "http": "http://www.itvnetworks.tv"
+   },
+   {
+      "name": "TBN Africa",
+      "logo": "TBN",
+      "link": "https://www.tbninafrica.org/live-streaming",
+      "http": "https://www.tbninafrica.org/webcast"
+   },
+   {
+      "name": "GNF God Never Fails",
+      "logo": "GNF",
+      "link": "http://www.gnftv.com/",
+      "http": "http://www.gnftv.com/"
+   },
+   {
+      "name": "Celebration",
+      "logo": "Celebration",
+      "link": "https://mycelebrationtv.com/",
+      "http": "https://mycelebrationtv.com/"
+   },
+   {
+      "name": "ITVN Impact Television Network",
+      "logo": "ITVN",
+      "link": "http://www.itvn.co.za/",
+      "http": "https://www.youtube.com/user/ITVNSA/videos?view=2&flow=grid"
+   },
+   {
+      "name": "ADBN Ancient of Days Broadcasting Network",
+      "logo": "ADBN",
+      "link": "http://www.ancientofdays.tv/",
+      "http": "http://www.ancientofdays.tv/"
+   },
+   {
+      "name": "Rhema",
+      "logo": "Rhema",
+      "link": "http://www.rhema.co.za/features/rhematv/watchrtv-2",
+      "http": "http://www.rhema.co.za/"
+   },
+   {
+      "name": "Rabboni",
+      "logo": "Rabboni",
+      "link": "https://www.rabbonicentreministries.org.za/live-stream/",
+      "http": "https://www.rabbonicentreministries.org.za"
+   },
+   {
+      "name": "RLW Ministries",
+      "logo": "RLW",
+      "link": "http://rlw.org.za/media/tv/",
+      "http": "http://rlw.org.za"
+   },
+   {
+      "name": "ROV Rock of Victory",
+      "logo": "ROV",
+      "link": "http://www.rovtv.org/watch-online/",
+      "http": "http://www.rovtv.org"
+   },
+   {
+      "name": "AMI Alleluia Ministries International",
+      "logo": "AMI",
+      "link": "http://www.amitv.com/",
+      "http": "http://www.amitv.com/"
+   },
+   {
+      "name": "Omega Gospel",
+      "logo": "Omega",
+      "link": "http://www.omegagospel.org/webtv/",
+      "http": "https://www.youtube.com/channel/UCuRhnEQ7y4rCsg__95uy3pw/videos?view=2&live_view=501&flow=grid"
+   }
+],
   "Demo": [
     {
       "name": "TV ALMG",
