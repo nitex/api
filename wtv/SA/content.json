@@ -1,8 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-    "demoVisible": true,
-    "mainVisible": true,
+    "demoVisible": false,
+    "mainVisible": false,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104574741",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104574741",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,427 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4247453",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Al Saudia (Saudi 1)",
+      "logo": "Saudi",
+      "link": "http://saudiatv.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "https://www.youtube.com/user/SaudiChannelOne/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "Saudi 2",
+      "logo": "Saudi2",
+      "link": "http://saudi2tv.sa/live-feed",
+      "http": "http://saudi2tv.sa"
+   },
+   {
+      "name": "Radio Quran إذاعة القران الكريم",
+      "logo": "Quran1",
+      "link": "http://quran.sr.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "https://www.youtube.com/channel/UCrZNAOv_KBLfb-3TFgxIZqg/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Saudia Radio",
+      "logo": "Saudia",
+      "link": "http://saudia.sr.sa/ar/live-streaming",
+      "http": "http://saudia.sr.sa"
+   },
+   {
+      "name": "إذاعة جدة",
+      "logo": "Jeddah",
+      "link": "http://jeddah.sr.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "http://jeddah.sr.sa"
+   },
+   {
+      "name": "إذاعة نداء الإسلام",
+      "logo": "Neda",
+      "link": "http://neda.sr.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "https://www.youtube.com/channel/UCoETJxkpBpS1WP2c2HRnoPQ/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "إذاعة الرياض",
+      "logo": "Riyadh",
+      "link": "http://riyadh.sr.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "http://riyadh.sr.sa"
+   },
+   {
+      "name": "الإذاعات الدولية السعودية",
+      "logo": "International",
+      "link": "http://international.sr.sa/ar/live-streaming",
+      "http": "http://international.sr.sa"
+   },
+   {
+      "name": "Eqtisadia Saudi الاقتصادية السعودية",
+      "logo": "Eqtisadia",
+      "link": "http://eqtisadiyatv.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "http://eqtisadiyatv.sa"
+   },
+   {
+      "name": "Al Sunna السنة النبوية",
+      "logo": "Sunna",
+      "link": "http://sunnatv.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "https://www.youtube.com/user/SaudiSunnahTv/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Al Quran القرآن الكريم",
+      "logo": "Quran2",
+      "link": "http://qurantv.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "https://www.youtube.com/user/SaudiQuranTv/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "الثقافية Al Thaqafiya",
+      "logo": "Thaqafiya",
+      "link": "http://thaqafiyatv.sa/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "https://www.youtube.com/user/SaudiCulturalTv/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "Al Ekhbaria الإخبارية",
+      "logo": "Ekhbaria1",
+      "link": "http://alekhbariya.net/ar/live",
+      "http": "https://www.youtube.com/user/SaudiNewsTV/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Al Ekhbaria English",
+      "logo": "Ekhbaria2",
+      "link": "http://alekhbariya.net/en/node/652",
+      "http": "https://www.youtube.com/user/SaudiNewsTV/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Al Ekhbaria Farsi",
+      "logo": "Ekhbaria3",
+      "link": "http://alekhbariya.net/fa/node/652",
+      "http": "https://www.youtube.com/user/SaudiNewsTV/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "الفضائية Nabaa",
+      "logo": "Nabaa",
+      "link": "http://nabaa.tv/%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "http://nabaa.tv"
+   },
+   {
+      "name": "SA 24",
+      "logo": "SA",
+      "link": "http://www.sa24tv.com/sa24.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "SA 24 Sport",
+      "logo": "24",
+      "link": "http://www.sa24tv.com/spor.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Masdar",
+      "logo": "Masdar",
+      "link": "http://www.sa24tv.com/masdar.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Belad Al Haramin",
+      "logo": "Belad",
+      "link": "http://www.sa24tv.com/harameen.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Enjazat",
+      "logo": "Enjazat",
+      "link": "http://www.sa24tv.com/injazat.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Mokhatat Safawi",
+      "logo": "Mokhatat",
+      "link": "http://www.sa24tv.com/safawi.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Erhaby",
+      "logo": "Erhaby",
+      "link": "http://www.sa24tv.com/erhab.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Shareeyah",
+      "logo": "Shareeyah",
+      "link": "http://www.sa24tv.com/shr3eya.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Alyaman Alyawm",
+      "logo": "Alyaman",
+      "link": "http://www.sa24tv.com/watani.html",
+      "http": "http://www.sa24tv.com"
+   },
+   {
+      "name": "Rotana Khalejia روتانا خليجية",
+      "logo": "Rotana",
+      "link": "http://rotana.net/%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/",
+      "http": "http://rotana.net"
+   },
+   {
+      "name": "Bedaya بداية الفضائية",
+      "logo": "Bedaya",
+      "link": "http://www.bedaya.tv/section/9/Bedaya.Live",
+      "http": "https://www.youtube.com/user/tvbedaya/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Atfal & Mawaheb اطفال ومواهب",
+      "logo": "Atfal",
+      "link": "http://atfal1.com/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1",
+      "http": "http://atfal1.com/portal/%D8%A8%D8%AB-%D9%85%D8%A8%D8%A7%D8%B4%D8%B1/"
+   },
+   {
+      "name": "Al Riyadia الرياضية السعودية",
+      "logo": "Riyadia",
+      "link": "https://www.youtube.com/user/AlMalabTube/videos?view=2&flow=grid&live_view=501",
+      "http": "http://www.riyadiyatv.sa/live"
+   },
+   {
+      "name": "Al Arabiya العربية‎",
+      "logo": "Arabiya",
+      "link": "https://www.alarabiya.net/live-stream.html?cref=navdesk",
+      "http": "https://www.youtube.com/user/AlArabiya/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "الحدث Al Hadath",
+      "logo": "Hadath",
+      "link": "http://www.alhadath.net/live-stream.html?cref=navdesk",
+      "http": "https://www.youtube.com/channel/UCrj5BGAhtWxDfqbza9T9hqA/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "CNBC Arabia (سي إن بي سي عربية)",
+      "logo": "CNBC",
+      "link": "https://www.cnbcarabia.com/Pages/live",
+      "http": "https://www.cnbcarabia.com/"
+   },
+   {
+      "name": "BBC Arabic (بي بي سي عربي)",
+      "logo": "BBC",
+      "link": "http://www.bbc.com/arabic/tvandradio/2013/05/000000_bbcarabic_livetv",
+      "http": "https://www.youtube.com/user/BBCArabicNews/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "العربي Alaraby    ",
+      "logo": "Alaraby",
+      "link": "http://alaraby.tv/live/61/alaraby",
+      "http": "http://alaraby.tv"
+   },
+   {
+      "name": "euronews عــربي",
+      "logo": "euronews",
+      "link": "http://arabic.euronews.com/live",
+      "http": "http://arabic.euronews.com/"
+   },
+   {
+      "name": "فرانس 24 (FRANCE 24 Arabic)",
+      "logo": "FRANCE",
+      "link": "http://www.france24.com/ar/",
+      "http": "https://www.youtube.com/user/france24arabic/videos?flow=grid&view=2&live_view=501"
+   },
+   {
+      "name": "Al Mayadeen الميادين",
+      "logo": "Mayadeen",
+      "link": "http://www.almayadeen.net/live",
+      "http": "https://www.youtube.com/user/Mayadeentv/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Almagharibia المغاربية‎",
+      "logo": "Almagharibia",
+      "link": "https://almagharibia.tv/",
+      "http": "https://almagharibia.tv/"
+   },
+   {
+      "name": "Alhurra الحرة",
+      "logo": "Alhurra",
+      "link": "https://www.alhurra.com/embed/player/tube/4.html",
+      "http": "https://www.alhurra.com/embed/player/tube/5.html"
+   },
+   {
+      "name": "RT Arabic",
+      "logo": "RT",
+      "link": "https://arabic.rt.com/live/",
+      "http": "https://www.youtube.com/user/RTarabic/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "CGTN Arabic سي جي تي أن العربية‎‎",
+      "logo": "CGTN",
+      "link": "https://www.cgtn.com/channel/ar.do",
+      "http": "https://www.cgtn.com"
+   },
+   {
+      "name": "Al Maaref المعارف",
+      "logo": "Maaref",
+      "link": "http://www.almaareftv.com/archives/5643",
+      "http": "http://www.almaareftv.com"
+   },
+   {
+      "name": "Makkah مكة الفضائية",
+      "logo": "Makkah",
+      "link": "http://makkahtv.tv/",
+      "http": "https://www.youtube.com/user/MakkahTVchannel/videos?view=2&live_view=501&flow=grid"
+   },
+   {
+      "name": "Huda",
+      "logo": "Huda",
+      "link": "https://www.youtube.com/user/hudatv/videos?flow=grid&live_view=501&view=2",
+      "http": "http://www.huda.tv/"
+   },
+   {
+      "name": "Wesal وصال",
+      "logo": "Wesal",
+      "link": "http://tvwesal.com/livestream.php",
+      "http": "http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8"
+   },
+   {
+      "name": "Wesal Haq",
+      "logo": "Haq",
+      "link": "http://www.wesalhaq.tv/",
+      "http": "http://www.wesalhaq.tv/"
+   },
+   {
+      "name": "Al Sahraa الصحراء",
+      "logo": "Sahraa",
+      "link": "http://www.alsahraa.tv/index.php",
+      "http": "https://www.youtube.com/user/SahraaChannel/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Al Abel الصحراء الابل",
+      "logo": "Abel",
+      "link": "http://alsahraa.tv/alabel/",
+      "http": "https://www.youtube.com/user/SahraaChannel/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Ahlu Al Quran أهل القرآن الفضائية",
+      "logo": "Ahlu",
+      "link": "http://www.ahlualquran.tv/?page_id=634",
+      "http": "http://www.ahlualquran.tv/"
+   },
+   {
+      "name": "ZAD زاد العلمية",
+      "logo": "ZAD",
+      "link": "https://www.zad.tv/live-broadcast/",
+      "http": "https://www.youtube.com/channel/UCOll3M-P7oKs5cSrQ9ytt6g/videos?view=2&flow=grid&live_view=501"
+   },
+   {
+      "name": "Semsem سمسم الفضائية",
+      "logo": "Semsem",
+      "link": "https://www.semsem.islamtv.live/albth-almbashr",
+      "http": "https://www.semsem.islamtv.live"
+   },
+   {
+      "name": "Ibn Othaimeen",
+      "logo": "Ibn",
+      "link": "http://binothaimeen.net/channel/site/live",
+      "http": "https://www.youtube.com/user/ibnothaimeentv/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "Ajyal أجيال للأطفال‎",
+      "logo": "Ajyal",
+      "link": "http://ajyaltv.sa/live-feed",
+      "http": "https://www.youtube.com/user/SaudiAjyalTv/videos?live_view=501&flow=grid&view=2"
+   },
+   {
+      "name": "Al Aoula",
+      "logo": "Aoula",
+      "link": "http://www.alaoula.ma/",
+      "http": "http://snrtlive.ma/laayoune-tv-streaming-live-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%B9%D9%8A%D9%88%D9%86"
+   },
+   {
+      "name": "Arryadia",
+      "logo": "Arryadia",
+      "link": "http://arryadia.snrt.ma/",
+      "http": "http://snrtlive.ma/arryadia"
+   },
+   {
+      "name": "Athaqafia",
+      "logo": "Athaqafia",
+      "link": "http://www.arrabia.ma/",
+      "http": "http://snrtlive.ma/athaqafia"
+   },
+   {
+      "name": "Al Maghribia",
+      "logo": "Maghribia",
+      "link": "http://almaghribia-tv.ma/",
+      "http": "http://snrtlive.ma/al-maghribia-live-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9"
+   },
+   {
+      "name": "Assadissa",
+      "logo": "Assadissa",
+      "link": "http://www.assadissatv.ma/",
+      "http": "http://snrtlive.ma/assadissa"
+   },
+   {
+      "name": "Aflam",
+      "logo": "Aflam",
+      "link": "http://www.aflamtv.ma/",
+      "http": "http://www.aflamtv.ma/"
+   },
+   {
+      "name": "Tamazight",
+      "logo": "Tamazight",
+      "link": "http://www.tamazight-tv.ma/",
+      "http": "http://snrtlive.ma/tamazight-streaming-live-%D8%A7%D9%84%D8%A8%D8%AB-%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%B4%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A7%D9%85%D8%A7%D8%B2%D9%8A%D8%BA%D9%8A%D8%A9"
+   },
+   {
+      "name": "Radio Idaa al Watania",
+      "logo": "Idaa",
+      "link": "http://www.alidaa-alwatania.ma/",
+      "http": "http://snrtlive.ma/alidaa-alwatania"
+   },
+   {
+      "name": "Radio Alidaa Alamazighia",
+      "logo": "Alidaa",
+      "link": "http://www.alidaa-alamazighia.ma/",
+      "http": "http://snrtlive.ma/alidaa-alamazighia"
+   },
+   {
+      "name": "Radio Mohammed Assadiss",
+      "logo": "Assadiss",
+      "link": "http://www.idaatmohammedassadiss.ma/",
+      "http": "http://snrtlive.ma/idaatmohammedassadiss"
+   },
+   {
+      "name": "Radio Chaîne Inter",
+      "logo": "Inter",
+      "link": "http://www.chaineinter.ma/",
+      "http": "http://snrtlive.ma/chaineinter"
+   },
+   {
+      "name": "Radios Régionales",
+      "logo": "Radios",
+      "link": "http://snrtlive.ma/radios-regionales",
+      "http": "http://snrtlive.ma/radios-regionales"
+   },
+   {
+      "name": "إذاعة القرآن Quran Karim",
+      "logo": "Karim",
+      "link": "https://www.youtube.com/channel/UCzv6uVYjfvE8X-_F3cicWog/videos?live_view=501&view=2&flow=grid",
+      "http": "http://www.ertu.org/quran/"
+   },
+   {
+      "name": "الحج 1438 هـ",
+      "logo": "1438",
+      "link": "https://www.youtube.com/channel/UCf9v4-x0RtfhsgBBnVm-JaA/videos?live_view=501&view=2&flow=grid",
+      "http": "https://www.youtube.com/channel/UCf9v4-x0RtfhsgBBnVm-JaA"
+   },
+   {
+      "name": "مؤسسة آيات Ayat",
+      "logo": "Ayat",
+      "link": "https://www.youtube.com/user/ayaatChannel1/videos?view=2&flow=grid&live_view=501",
+      "http": "https://www.youtube.com/user/ayaatChannel1/featured"
+   },
+   {
+      "name": "Al Hayat",
+      "logo": "Hayat",
+      "link": "https://www.youtube.com/user/alhayatchanneltv/videos?flow=grid&live_view=501&view=2",
+      "http": "https://www.youtube.com/user/alhayatchanneltv/featured"
+   }
+],
   "Demo": [
     {
       "name": "BBC",
