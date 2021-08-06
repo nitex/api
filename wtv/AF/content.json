@@ -47,16 +47,20 @@
     "mainVisible": true,
     "ownVisible": true,
     "about": "",
-    "email": "hegenalsy@gmail.com",
+    "email": "losksiels@gmail.com",
     "share": "http://www.amazon.com/gp/mas/dl/android?asin=",
     "rateL": "http://www.amazon.com/gp/mas/dl/android?asin=",
     "other": "http://www.amazon.com/gp/mas/dl/android?s=",
     "bonus": "",
     "showMode": false,
-    "visualMode": 1,
+    "visualMode": 2,
     "minuteCount": 2,
     "limitCount": 5,
-    "adType": 0
+    "adType": 0,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
   },
   "huawTE": {
     "changeCountry": false,
@@ -64,13 +68,13 @@
     "mainVisible": true,
     "ownVisible": true,
     "about": "",
-    "email": "hegenalsy@gmail.com",
+    "email": "losksiels@gmail.com",
     "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
     "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
     "other": "",
     "bonus": "",
     "showMode": false,
-    "visualMode": 1,
+    "visualMode": 2,
     "minuteCount": 2,
     "limitCount": 5,
     "adType": 1,
@@ -79,7 +83,18 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-  "Content": [
+  "Menu": [
+      "Top",
+      "News",
+      "Local",
+      "Classic",
+      "Music",
+      "Sport",
+      "Talk",
+      "Youth",
+      "Oldies"
+   ],
+   "Content": [
    {
       "name": "Tolo News طلوع نیوز",
       "logo": "Tolo",

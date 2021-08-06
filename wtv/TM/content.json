@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104593935",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104593935",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,11 +36,67 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4250981",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "Altyn Asyr",
+      "logo": "Altyn",
+      "link": "https://online.tm/webtv/ch001.php",
+      "http": "https://online.tm/webtv/"
+   },
+   {
+      "name": "Türkmenistan",
+      "logo": "Turkmenistan",
+      "link": "https://online.tm/webtv/ch007.php",
+      "http": "https://online.tm/webtv/"
+   },
+   {
+      "name": "Yaşlyk",
+      "logo": "Yaslyk",
+      "link": "https://online.tm/webtv/ch002.php",
+      "http": "https://online.tm/webtv/"
+   },
+   {
+      "name": "Miras",
+      "logo": "Miras",
+      "link": "https://online.tm/webtv/ch003.php",
+      "http": "https://online.tm/webtv/"
+   },
+   {
+      "name": "Türkmen Sport",
+      "logo": "Sport",
+      "link": "https://online.tm/webtv/ch004.php",
+      "http": "https://online.tm/webtv/"
+   },
+   {
+      "name": "Türkmen Owazy",
+      "logo": "Owazy",
+      "link": "https://online.tm/webtv/ch005.php",
+      "http": "https://online.tm/webtv/"
+   },
+   {
+      "name": "Aşgabat",
+      "logo": "Ashgabat",
+      "link": "https://online.tm/webtv/ch006.php",
+      "http": "https://online.tm/webtv/"
+   },
+   {
+      "name": "RT Новости",
+      "logo": "RT",
+      "link": "https://www.rt.com/on-air/embed/",
+      "http": "https://www.rt.com/"
+   },
+   {
+      "name": "Yoshlar",
+      "logo": "Yoshlar1",
+      "link": "https://www.mtrk.uz/uz/tv/yoshlar/",
+      "http": "https://www.mtrk.uz"
+   }
+],
   "Demo": [
     {
       "name": "BBC",

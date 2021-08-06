@@ -1,8 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-    "demoVisible": true,
-    "mainVisible": true,
+    "demoVisible": false,
+    "mainVisible": false,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
@@ -41,7 +41,197 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "FTV 民視新聞台",
+      "logo": "FTV",
+      "link": "http://news.ftv.com.tw/",
+      "http": "https://www.youtube.com/embed/XxJKnDLYZz4"
+   },
+   {
+      "name": "UDN TV",
+      "logo": "udn",
+      "link": "http://video.udn.com/live",
+      "http": "http://udn.com/"
+   },
+   {
+      "name": "CTS 華視新聞",
+      "logo": "cts",
+      "link": "http://news.cts.com.tw/",
+      "http": "http://www.cts.com.tw/"
+   },
+   {
+      "name": "CTi 中天新聞台",
+      "logo": "cti",
+      "link": "https://www.youtube.com/user/ctitv/videos?shelf_id=0&live_view=501&sort=dd&view=2",
+      "http": "http://www.ctitv.com.tw/"
+   },
+   {
+      "name": "EBC 東森新聞台",
+      "logo": "ebc",
+      "link": "http://news.ebc.net.tw/index.php",
+      "http": "https://www.youtube.com/user/newsebc/videos?shelf_id=0&live_view=501&sort=dd&view=2"
+   },
+   {
+      "name": "TTV 台視新聞台",
+      "logo": "ttv",
+      "link": "https://www.youtube.com/channel/UCzZe-zMu-YgVFQfDmsFG_VQ/videos?view=2&flow=list&live_view=501",
+      "http": "http://www.ttv.com.tw/"
+   },
+   {
+      "name": "NTDAPTV 新唐人亞太電視台",
+      "logo": "NTD",
+      "link": "http://www.ntdtv.com.tw/live",
+      "http": "http://www.ntdtv.com.tw/"
+   },
+   {
+      "name": "SET 三立新聞台",
+      "logo": "setn",
+      "link": "http://www.setn.com/live/default.aspx",
+      "http": "http://www.setn.com/LiveChannel.aspx"
+   },
+   {
+      "name": "TITV 原視",
+      "logo": "titv",
+      "link": "http://titv.ipcf.org.tw/live.jsp",
+      "http": "http://titv.ipcf.org.tw/"
+   },
+   {
+      "name": "Macroview TV 台灣宏觀電視",
+      "logo": "mactv",
+      "link": "http://www.ocacmactv.net/mactv/",
+      "http": "http://www.ocacmactv.net/"
+   },
+   {
+      "name": "Sinda TV 信大電視台",
+      "logo": "sinda",
+      "link": "http://www.sindagmp.com.tw/?driect=tvshowlive",
+      "http": "https://www.youtube.com/channel/UCZIvbuuP-xGgMG-_0tLLadg/videos?flow=list&live_view=501&view=2"
+   },
+   {
+      "name": "Fans TV 番薯電視台",
+      "logo": "fanstv",
+      "link": "http://www.fanstv.tw/",
+      "http": "http://www.fanstv.tw/"
+   },
+   {
+      "name": "Dali TV 大立電視台",
+      "logo": "dali",
+      "link": "https://www.youtube.com/channel/UCTCDQIXxfrNwE_Z2iTTl8xw/videos?flow=list&view=2",
+      "http": "https://www.youtube.com/channel/UCTCDQIXxfrNwE_Z2iTTl8xw/videos?flow=list&view=2"
+   },
+   {
+      "name": "EHS 東森購物",
+      "logo": "ehs",
+      "link": "http://www.etmall.com.tw/Pages/TV_Home.aspx?StoreID=31771",
+      "http": "http://www.etmall.com.tw/"
+   },
+   {
+      "name": "U-Life 森森百貨",
+      "logo": "umall",
+      "link": "http://www.u-mall.com.tw/dept.aspx?StoreID=38920",
+      "http": "http://www.u-mall.com.tw/"
+   },
+   {
+      "name": "DaAi TV 大愛電視",
+      "logo": "daai",
+      "link": "https://www.youtube.com/user/DaAiVideo/videos?live_view=501&view=2&flow=list",
+      "http": "http://www.daai.tv/daai-web/main/"
+   },
+   {
+      "name": "TACT 台藝台",
+      "logo": "tact1",
+      "link": "http://www.tacttv.com/movie_detail.php?id=394",
+      "http": "http://www.tacttv.com/"
+   },
+   {
+      "name": "TACT 2 台藝2台",
+      "logo": "tact2",
+      "link": "http://www.tacttv.com/movie_detail.php?id=395",
+      "http": "http://www.tacttv.com/"
+   },
+   {
+      "name": "Good TV Ch.1 好消息一台",
+      "logo": "good1",
+      "link": "http://www.goodtv.tv/?ch1",
+      "http": "http://www.goodtv.tv/"
+   },
+   {
+      "name": "Good TV Ch.2 好消息二台 / 真理造就台",
+      "logo": "good2",
+      "link": "http://www.goodtv.tv/?ch2",
+      "http": "http://www.goodtv.tv/"
+   },
+   {
+      "name": "Hwazan TV 華藏衛星電視台",
+      "logo": "hwazan",
+      "link": "http://www.hwazan.org/live/",
+      "http": "http://www.hwazan.org/"
+   },
+   {
+      "name": "Life TV 生命電視台",
+      "logo": "lifetv",
+      "link": "http://www.lifetv.org.tw/a_date/@live.htm",
+      "http": "http://www.lifetv.org.tw/a_date/live.htm"
+   },
+   {
+      "name": "CBTV 十方法界衛視",
+      "logo": "cbtv",
+      "link": "http://www.cbtv.com.tw/node/51",
+      "http": "http://www.cbtv.com.tw"
+   },
+   {
+      "name": "HOPE",
+      "logo": "chinesehope",
+      "link": "http://chinesehope.tv/zh/home/index.php",
+      "http": "http://chinesehope.tv/"
+   },
+   {
+      "name": "BTS 佛衛電視慈悲台",
+      "logo": "rsbc",
+      "link": "http://rsbc.ehosting.com.tw/bts/liveOnline.htm",
+      "http": "http://rsbc.ehosting.com.tw/"
+   }
+],
   "Demo": [
+   {
+      "name": "FTV 民視新聞台",
+      "logo": "FTV",
+      "link": "http://ott-cdn.ucom.am/s19/04.m3u8",
+      "http": ""
+   },
+   {
+      "name": "UDN TV",
+      "logo": "udn",
+      "link": "https://edge-df-01.eduplay.rnp.br/media/ocp(r(iRGrcw)t(AAAAAAAAAAA)p(d(Dxg)k(Qdk)m(naXbjbTlDxrHlrlxKSNzig)n(a(3LDBWxJLACwHVOavx5cO4BC5lA2ZDpPC)s(HrY)'a(12ztgSdgu3rQqz6xH52ZjVZa)s(Pm8)))s(t(aTo)b(PTsuEXhXAScNjp6w9ssG70foQQQiZk9_8m0vsjgLJ_yzxGPuj8i57PEDMMA4cmTNsKda2B5oX-EEErouZ1HFyuG_AaUF86vlMJtsMkooySBOlQbVM33PgsYPQdea2BJafjjc-BWtPRlStfmQ939PXcd844pid2JY82J6JDM)'t(S2o)b(WaBWYarWoWCInKe38WSze3Q_-kYcqZf8MZQ)))/index.m3u8",
+      "http": ""
+   },
+   {
+      "name": "CTS 華視新聞",
+      "logo": "cts",
+      "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "CTi 中天新聞台",
+      "logo": "cti",
+      "link": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
+      "http": ""
+   },
+   {
+      "name": "EBC 東森新聞台",
+      "logo": "ebc",
+      "link": "https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhas-tdt.m3u8",
+      "http": ""
+   },
+   {
+      "name": "TTV 台視新聞台",
+      "logo": "ttv",
+      "link": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
+      "http": ""
+   }
+  ],
+  "Demo-OLD": [
     {
       "name": "ABC News",
       "logo": "_900001",
