@@ -42,9 +42,9 @@
     "uni_mainb": "uni_mainb"
   },
   "amznTE": {
-    "changeCountry": true,
-    "demoVisible": true,
-    "mainVisible": true,
+    "changeCountry": false,
+    "demoVisible": false,
+    "mainVisible": false,
     "ownVisible": true,
     "about": "",
     "email": "losksiels@gmail.com",
@@ -83,18 +83,7 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
-  "Menu": [
-      "Top",
-      "News",
-      "Local",
-      "Classic",
-      "Music",
-      "Sport",
-      "Talk",
-      "Youth",
-      "Oldies"
-   ],
-   "Content": [
+  "Content": [
    {
       "name": "Tolo News طلوع نیوز",
       "logo": "Tolo",

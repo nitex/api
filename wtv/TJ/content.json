@@ -1,8 +1,8 @@
 {
    "amznTV":{
       "changeCountry": false,
-    "demoVisible": true,
-    "mainVisible": true,
+    "demoVisible": false,
+    "mainVisible": false,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
@@ -41,7 +41,101 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Content": [
+   {
+      "name": "TVT Тоҷикистон",
+      "logo": "TVT",
+      "link": "http://ktr.tj/tvt",
+      "http": "http://ktr.tj/tvj"
+   },
+   {
+      "name": "Ҷаҳоннамо",
+      "logo": "Jahonnamo",
+      "link": "http://ktr.tj/tvj",
+      "http": "http://jahonnamo.tj/tv-onlain.html"
+   },
+   {
+      "name": "TVB Баҳористон",
+      "logo": "TVB",
+      "link": "http://ktr.tj/tvb",
+      "http": "http://teleradiocom.tj/online-tv/83-shabakai-bahoriston.html"
+   },
+   {
+      "name": "TVS Сафина",
+      "logo": "TVS",
+      "link": "http://ktr.tj/tvs",
+      "http": "http://teleradiocom.tj/online-tv/82-shabakai-safina.html"
+   },
+   {
+      "name": "Варзиш",
+      "logo": "Varzish",
+      "link": "http://varzishtv.tj/",
+      "http": "http://varzishtv.tj/"
+   },
+   {
+      "name": "Варзиш Футбол",
+      "logo": "Futbol",
+      "link": "http://varzishtv.tj/tj/tv-futbol-onlayn.php",
+      "http": "http://varzishtv.tj/"
+   },
+   {
+      "name": "BBC Arabic (بي بي سي عربي)",
+      "logo": "BBC",
+      "link": "http://www.bbc.com/arabic/tvandradio/2013/05/000000_bbcarabic_livetv",
+      "http": "https://www.youtube.com/user/BBCArabicNews/videos?flow=grid&live_view=501&view=2"
+   },
+   {
+      "name": "RT Новости",
+      "logo": "RT",
+      "link": "https://www.rt.com/on-air/embed/",
+      "http": "https://www.rt.com/"
+   },
+   {
+      "name": "euronews Россия",
+      "logo": "euronews",
+      "link": "http://ru.euronews.com/live",
+      "http": "http://ru.euronews.com/"
+   }
+],
   "Demo": [
+   {
+      "name": "TVT Тоҷикистон",
+      "logo": "TVT",
+      "link": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
+      "http": ""
+   },
+   {
+      "name": "Ҷаҳоннамо",
+      "logo": "Jahonnamo",
+      "link": "http://tv-trt3.live.trt.com.tr/master_720.m3u8",
+      "http": ""
+   },
+   {
+      "name": "TVB Баҳористон",
+      "logo": "TVB",
+      "link": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "http": ""
+   },
+   {
+      "name": "TVS Сафина",
+      "logo": "TVS",
+      "link": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "Варзиш",
+      "logo": "Varzish",
+      "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+   },
+   {
+      "name": "Варзиш Футбол",
+      "logo": "Futbol",
+      "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+      "http": "http://varzishtv.tj/"
+   }
+  ],
+  "DemoOLD-DELETE": [
     {
       "name": "KBC (K Brdcst. Corp.) - GBS",
       "logo": "_500001",
