@@ -164,11 +164,11 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CNEWS (ex iTELE)</string>
+		<string>iTELE</string>
 		<key>logo</key>
 		<string>iTELE</string>
 		<key>link</key>
-		<string>http://www.cnews.fr/le-direct</string>
+		<string>http://www.dailymotion.com/ITELE</string>
 		<key>http</key>
 		<string>http://www.itele.fr/direct</string>
 	</dict>
@@ -1374,9 +1374,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ΕΡΤ1</string>
+		<string>EPT1</string>
 		<key>logo</key>
-		<string>ΕΡΤ1</string>
+		<string>EPT1</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ert1/</string>
 		<key>http</key>
@@ -1384,9 +1384,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ΕΡΤ2</string>
+		<string>EPT2</string>
 		<key>logo</key>
-		<string>ΕΡΤ2</string>
+		<string>EPT2</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ert2/</string>
 		<key>http</key>
@@ -1394,9 +1394,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ΕΡΤ3</string>
+		<string>EPT3</string>
 		<key>logo</key>
-		<string>ΕΡΤ3</string>
+		<string>EPT3</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ert3/</string>
 		<key>http</key>
@@ -1406,7 +1406,7 @@
 		<key>name</key>
 		<string>ΕΡΤ World</string>
 		<key>logo</key>
-		<string>ΕΡΤ</string>
+		<string>EPT</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ertworld/</string>
 		<key>http</key>
@@ -1704,16 +1704,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>112</string>
-		<key>logo</key>
-		<string>112</string>
-		<key>link</key>
-		<string>http://ua.112.ua/live</string>
-		<key>http</key>
-		<string>http://ua.112.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>5</string>
 		<key>logo</key>
 		<string>5</string>
@@ -1748,9 +1738,9 @@
 		<key>logo</key>
 		<string>1</string>
 		<key>link</key>
-		<string>http://1tv.com.ua/live</string>
+		<string>https://tv.suspilne.media/live</string>
 		<key>http</key>
-		<string>http://1tv.com.ua/</string>
+		<string>https://tv.suspilne.media</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1834,16 +1824,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>МИР 24</string>
-		<key>logo</key>
-		<string>mir</string>
-		<key>link</key>
-		<string>http://mirtvr.by/</string>
-		<key>http</key>
-		<string>http://mirtvr.by/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>РБК</string>
 		<key>logo</key>
 		<string>rbc</string>
@@ -1854,16 +1834,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>МТВ Столица</string>
-		<key>logo</key>
-		<string>mtv</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/18605731?html5ui</string>
-		<key>http</key>
-		<string>http://mtv-stolica.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>ОТР</string>
 		<key>logo</key>
 		<string>otr</string>
@@ -1871,16 +1841,6 @@
 		<string>http://www.otr-online.ru/online/</string>
 		<key>http</key>
 		<string>http://www.otr-online.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>LIFENEWS</string>
-		<key>logo</key>
-		<string>LIFENEWS</string>
-		<key>link</key>
-		<string>http://lifenews.ru/watch-live</string>
-		<key>http</key>
-		<string>http://lifenews.ru/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1978,7 +1938,7 @@
 		<key>logo</key>
 		<string>N1</string>
 		<key>link</key>
-		<string>http://hr.n1info.com/N1-Uzivo</string>
+		<string>http://hr.n1info.com/Video/LIVE-TV/a5760/N1-UZIVO.html</string>
 		<key>http</key>
 		<string>http://hr.n1info.com</string>
 	</dict>

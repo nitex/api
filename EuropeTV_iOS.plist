@@ -4,16 +4,6 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>BBC Arabic</string>
-		<key>logo</key>
-		<string>bbc</string>
-		<key>link</key>
-		<string>http://www.bbc.co.uk/arabic/tvandradio/2013/05/000000_bbcarabic_livetv</string>
-		<key>http</key>
-		<string>http://www.bbc.com/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>Sky News</string>
 		<key>logo</key>
 		<string>Sky</string>
@@ -34,13 +24,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Canal+</string>
+		<string>BBC Arabic</string>
 		<key>logo</key>
-		<string>Canal+</string>
+		<string>bbc</string>
 		<key>link</key>
-		<string>http://www.canalplus.fr/pid3580-live-tv-clair.html</string>
+		<string>http://www.bbc.co.uk/arabic/tvandradio/2013/05/000000_bbcarabic_livetv</string>
 		<key>http</key>
-		<string>http://www.canalplus.fr/</string>
+		<string>http://www.bbc.com/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -64,6 +54,26 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Deutsche Welle English</string>
+		<key>logo</key>
+		<string>DW2</string>
+		<key>link</key>
+		<string>http://www.dw.com/en/media-center/live-tv/s-100825?channel=1</string>
+		<key>http</key>
+		<string>http://www.dw.com/</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Canal+</string>
+		<key>logo</key>
+		<string>Canal+</string>
+		<key>link</key>
+		<string>http://www.canalplus.fr/pid3580-live-tv-clair.html</string>
+		<key>http</key>
+		<string>http://www.canalplus.fr/</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>EbS Europe by Satellite</string>
 		<key>logo</key>
 		<string>EbS+</string>
@@ -84,13 +94,13 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Deutsche Welle English</string>
+		<string>Gibraltar Broadcasting Corporation</string>
 		<key>logo</key>
-		<string>DW2</string>
+		<string>GBC</string>
 		<key>link</key>
-		<string>http://www.dw.com/en/media-center/live-tv/s-100825?channel=1</string>
+		<string>http://www.gbc.gi/tv/watch-live</string>
 		<key>http</key>
-		<string>http://www.dw.com/</string>
+		<string>http://www.gbc.gi</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -104,16 +114,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>France 24</string>
-		<key>logo</key>
-		<string>France</string>
-		<key>link</key>
-		<string>http://www.france24.com/fr/tv-en-direct-chaine-live/</string>
-		<key>http</key>
-		<string>http://www.dailymotion.com/france24</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>TG4</string>
 		<key>logo</key>
 		<string>TG4</string>
@@ -121,16 +121,6 @@
 		<string>http://www.tg4.ie/en/live/home/</string>
 		<key>http</key>
 		<string>http://www.tg4.ie/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>Gibraltar Broadcasting Corporation</string>
-		<key>logo</key>
-		<string>GBC</string>
-		<key>link</key>
-		<string>http://www.gbc.gi/tv/watch-live</string>
-		<key>http</key>
-		<string>http://www.gbc.gi</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -164,11 +154,21 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>CNEWS (ex iTELE)</string>
+		<string>France 24</string>
+		<key>logo</key>
+		<string>France</string>
+		<key>link</key>
+		<string>http://www.france24.com/fr/tv-en-direct-chaine-live/</string>
+		<key>http</key>
+		<string>http://www.dailymotion.com/france24</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>iTELE</string>
 		<key>logo</key>
 		<string>iTELE</string>
 		<key>link</key>
-		<string>http://www.cnews.fr/le-direct</string>
+		<string>http://www.dailymotion.com/ITELE</string>
 		<key>http</key>
 		<string>http://www.itele.fr/direct</string>
 	</dict>
@@ -1374,9 +1374,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ΕΡΤ1</string>
+		<string>EPT1</string>
 		<key>logo</key>
-		<string>ΕΡΤ1</string>
+		<string>EPT1</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ert1/</string>
 		<key>http</key>
@@ -1384,9 +1384,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ΕΡΤ2</string>
+		<string>EPT2</string>
 		<key>logo</key>
-		<string>ΕΡΤ2</string>
+		<string>EPT2</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ert2/</string>
 		<key>http</key>
@@ -1394,9 +1394,9 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>ΕΡΤ3</string>
+		<string>EPT3</string>
 		<key>logo</key>
-		<string>ΕΡΤ3</string>
+		<string>EPT3</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ert3/</string>
 		<key>http</key>
@@ -1406,7 +1406,7 @@
 		<key>name</key>
 		<string>ΕΡΤ World</string>
 		<key>logo</key>
-		<string>ΕΡΤ</string>
+		<string>EPT</string>
 		<key>link</key>
 		<string>http://webtv.ert.gr/ertworld/</string>
 		<key>http</key>
@@ -1704,16 +1704,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>112</string>
-		<key>logo</key>
-		<string>112</string>
-		<key>link</key>
-		<string>http://ua.112.ua/live</string>
-		<key>http</key>
-		<string>http://ua.112.ua/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>5</string>
 		<key>logo</key>
 		<string>5</string>
@@ -1748,9 +1738,9 @@
 		<key>logo</key>
 		<string>1</string>
 		<key>link</key>
-		<string>http://1tv.com.ua/live</string>
+		<string>https://tv.suspilne.media/live</string>
 		<key>http</key>
-		<string>http://1tv.com.ua/</string>
+		<string>https://tv.suspilne.media</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1844,16 +1834,6 @@
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>МТВ Столица</string>
-		<key>logo</key>
-		<string>mtv</string>
-		<key>link</key>
-		<string>http://www.ustream.tv/embed/18605731?html5ui</string>
-		<key>http</key>
-		<string>http://mtv-stolica.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
 		<string>ОТР</string>
 		<key>logo</key>
 		<string>otr</string>
@@ -1861,16 +1841,6 @@
 		<string>http://www.otr-online.ru/online/</string>
 		<key>http</key>
 		<string>http://www.otr-online.ru/</string>
-	</dict>
-	<dict>
-		<key>name</key>
-		<string>LIFENEWS</string>
-		<key>logo</key>
-		<string>LIFENEWS</string>
-		<key>link</key>
-		<string>http://lifenews.ru/watch-live</string>
-		<key>http</key>
-		<string>http://lifenews.ru/</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -1968,7 +1938,7 @@
 		<key>logo</key>
 		<string>N1</string>
 		<key>link</key>
-		<string>http://hr.n1info.com/N1-Uzivo</string>
+		<string>http://hr.n1info.com/Video/LIVE-TV/a5760/N1-UZIVO.html</string>
 		<key>http</key>
 		<string>http://hr.n1info.com</string>
 	</dict>
@@ -2134,6 +2104,36 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>EWTN Deutsch</string>
+		<key>logo</key>
+		<string>EWTN3</string>
+		<key>link</key>
+		<string>http://www.ewtn.com/multimedia/live_player-es.asp?sat=gerg</string>
+		<key>http</key>
+		<string>http://www.ewtn.de/streaming/player.php</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope Germany</string>
+		<key>logo</key>
+		<string>Hope5</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/germany/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>QVC Deutschland</string>
+		<key>logo</key>
+		<string>QVC1</string>
+		<key>link</key>
+		<string>http://www.qvc.de/content/shop-live-tv.html?langId=-3&amp;storeId=10253&amp;catalogId=10153&amp;sc=LIVE</string>
+		<key>http</key>
+		<string>http://www.qvc.de</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Euronews Français</string>
 		<key>logo</key>
 		<string>Euronews2</string>
@@ -2141,6 +2141,16 @@
 		<string>http://fr.euronews.com/live</string>
 		<key>http</key>
 		<string>http://www.euronews.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>QVC France</string>
+		<key>logo</key>
+		<string>QVC2</string>
+		<key>link</key>
+		<string>https://www.qvc.fr/tv/live.html</string>
+		<key>http</key>
+		<string>https://www.qvc.fr</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -2154,6 +2164,26 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>QVC Italia</string>
+		<key>logo</key>
+		<string>QVC3</string>
+		<key>link</key>
+		<string>https://www.qvc.it/tv/live.html</string>
+		<key>http</key>
+		<string>https://www.qvc.it</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope International</string>
+		<key>logo</key>
+		<string>Hope1</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/international/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Euronews Português</string>
 		<key>logo</key>
 		<string>Euronews6</string>
@@ -2161,6 +2191,16 @@
 		<string>http://pt.euronews.com/live</string>
 		<key>http</key>
 		<string>http://www.euronews.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope Portuguese</string>
+		<key>logo</key>
+		<string>Hope2</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/portuguese/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
 	</dict>
 	<dict>
 		<key>name</key>
@@ -2174,6 +2214,46 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>EWTN España</string>
+		<key>logo</key>
+		<string>EWTN1</string>
+		<key>link</key>
+		<string>http://www.ewtn.com/multimedia/live_player-es.asp?sat=spas</string>
+		<key>http</key>
+		<string>http://www.ewtn.com</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope Spanish</string>
+		<key>logo</key>
+		<string>Hope3</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/hope-channel-south-america/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope Romania</string>
+		<key>logo</key>
+		<string>Hope4</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/romania/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope Norwegian</string>
+		<key>logo</key>
+		<string>Hope6</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/norwegian/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Euronews Русский</string>
 		<key>logo</key>
 		<string>Euronews7</string>
@@ -2184,6 +2264,26 @@
 	</dict>
 	<dict>
 		<key>name</key>
+		<string>Hope Россия</string>
+		<key>logo</key>
+		<string>Hope7</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/russia/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope Poland</string>
+		<key>logo</key>
+		<string>Hope8</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/poland/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Euronews Українська</string>
 		<key>logo</key>
 		<string>Euronews8</string>
@@ -2191,6 +2291,26 @@
 		<string>http://ua.euronews.com/live</string>
 		<key>http</key>
 		<string>http://www.euronews.com/live</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Hope Україна</string>
+		<key>logo</key>
+		<string>Hope9</string>
+		<key>link</key>
+		<string>http://www.hopetv.org/watch/ukraine/</string>
+		<key>http</key>
+		<string>http://www.hopetv.org/watch</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>EWTN UK and Ireland</string>
+		<key>logo</key>
+		<string>EWTN2</string>
+		<key>link</key>
+		<string>http://www.ewtn.com/multimedia/live_player-es.asp?sat=uke</string>
+		<key>http</key>
+		<string>https://www.ewtn.co.uk/tv-programmes</string>
 	</dict>
 	<dict>
 		<key>name</key>
