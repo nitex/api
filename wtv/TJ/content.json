@@ -22,13 +22,13 @@
   },
    "huawTV":{
       "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
       "about":"",
       "email":"hegenalsy@gmail.com",
-      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C",
-      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C",
+      "share":"https://appgallery.cloud.huawei.com/ag/n/app/C104618041",
+      "rateL":"https://appgallery.cloud.huawei.com/ag/n/app/C104618041",
       "other":"",
       "bonus":"",
       "showMode": false,
@@ -36,7 +36,7 @@
       "minuteCount":2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4259127",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
@@ -134,43 +134,5 @@
       "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
       "http": "http://varzishtv.tj/"
    }
-  ],
-  "DemoOLD-DELETE": [
-    {
-      "name": "KBC (K Brdcst. Corp.) - GBS",
-      "logo": "_500001",
-      "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
-      "http": ""
-    },
-    {
-      "name": "CNN International",
-      "logo": "_500002",
-      "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Franceinfo",
-      "logo": "_500003",
-      "link": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "TRT World",
-      "logo": "_500004",
-      "link": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
-      "http": ""
-    },
-    {
-      "name": "TRT 3",
-      "logo": "_500005",
-      "link": "http://tv-trt3.live.trt.com.tr/master_720.m3u8",
-      "http": ""
-    },
-    {
-      "name": "TRT Arabi عربي",
-      "logo": "_500006",
-      "link": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
-      "http": ""
-    }
   ]
 }
