@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "TV Brasil",
@@ -765,39 +786,39 @@
 ],
   "Demo": [
     {
-      "name": "etv",
-      "logo": "_600001",
-      "link": "https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8",
+      "name": "ATV 1",
+      "logo": "_200001",
+      "link": "http://85.132.81.184:8080/atv/index.m3u8",
       "http": ""
     },
     {
-      "name": "ТВЦентр",
-      "logo": "_600002",
-      "link": "http://ott-cdn.ucom.am/s54/index.m3u8",
+      "name": "ATV 24",
+      "logo": "_200002",
+      "link": "http://85.132.81.184:8080/atv-2/index.m3u8",
       "http": ""
     },
     {
-      "name": "RBA TV",
-      "logo": "_600003",
-      "link": "http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8",
+      "name": "QƏBƏLƏ",
+      "logo": "_200003",
+      "link": "https://qebele.tv/live/stream/index.m3u8",
       "http": ""
     },
     {
-      "name": "RT News",
-      "logo": "_600004",
-      "link": "http://rt-news.secure.footprint.net:80/1103.m3u8",
+      "name": "ARB Kəpəz",
+      "logo": "_200004",
+      "link": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
       "http": ""
     },
     {
-      "name": "RT International",
-      "logo": "_600005",
-      "link": "https://rt-usa.secure.footprint.net/1105.m3u8",
+      "name": "ausbiz",
+      "logo": "_200005",
+      "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
       "http": ""
     },
     {
-      "name": "NBS",
-      "logo": "_600006",
-      "link": "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8",
+      "name": "TVSN",
+      "logo": "_200006",
+      "link": "https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8",
       "http": ""
     }
   ]

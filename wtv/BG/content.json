@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "БНТ World",
@@ -213,39 +234,39 @@
 ],
   "Demo": [
     {
-      "name": "HTV",
-      "logo": "_800001",
-      "link": "http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8",
+      "name": "Eman Channel",
+      "logo": "_300001",
+      "link": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "CNBC TV18",
-      "logo": "_800002",
-      "link": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
+      "name": "Manoto",
+      "logo": "_300002",
+      "link": "https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8",
       "http": ""
     },
     {
-      "name": "Домашний",
-      "logo": "_800003",
-      "link": "http://ott-cdn.ucom.am/s88/index.m3u8",
+      "name": "MoonBug",
+      "logo": "_300003",
+      "link": "https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "РБК",
-      "logo": "_800004",
-      "link": "http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8",
+      "name": "Wonder",
+      "logo": "_300004",
+      "link": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "France 3",
-      "logo": "_800005",
-      "link": "http://edge9.iptvnetwork.net/live/france3/playlist.m3u8",
+      "name": "V2BEAT",
+      "logo": "_300005",
+      "link": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8",
       "http": ""
     },
     {
-      "name": "France 5",
-      "logo": "_800006",
-      "link": "http://edge9.iptvnetwork.net/live/france5/playlist.m3u8",
+      "name": "Akaal TV",
+      "logo": "_300006",
+      "link": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
       "http": ""
     }
   ]

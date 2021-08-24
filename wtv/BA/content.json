@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Zenica",
@@ -99,39 +120,39 @@
 ],
   "Demo": [
     {
-      "name": "KBC (K Brdcst. Corp.) - GBS",
-      "logo": "_500001",
-      "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+      "name": "ANTENNE VORARLBERG",
+      "logo": "_100001",
+      "link": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "CNN International",
-      "logo": "_500002",
-      "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+      "name": "Dorf TV",
+      "logo": "_100002",
+      "link": "https://stream.openplayout.org/hls/dorf.m3u8",
       "http": ""
     },
     {
-      "name": "Franceinfo",
-      "logo": "_500003",
-      "link": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
+      "name": "FS1",
+      "logo": "_100003",
+      "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
       "http": ""
     },
     {
-      "name": "TRT World",
-      "logo": "_500004",
-      "link": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "name": "GoTV",
+      "logo": "_100004",
+      "link": "https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "TRT 3",
-      "logo": "_500005",
-      "link": "http://tv-trt3.live.trt.com.tr/master_720.m3u8",
+      "name": "TV Interlagos",
+      "logo": "_100005",
+      "link": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "TRT Arabi عربي",
-      "logo": "_500006",
-      "link": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
+      "name": "W24",
+      "logo": "_100006",
+      "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
       "http": ""
     }
   ]

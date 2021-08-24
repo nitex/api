@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Trece Costa Rica",
@@ -117,39 +138,39 @@
 ],
   "Demo": [
     {
-      "name": "Eman Channel",
-      "logo": "_300001",
-      "link": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
+      "name": "TV ALMG",
+      "logo": "_A00001",
+      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
       "http": ""
     },
     {
-      "name": "Manoto",
-      "logo": "_300002",
-      "link": "https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8",
+      "name": "24 TV",
+      "logo": "_A00002",
+      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
       "http": ""
     },
     {
-      "name": "MoonBug",
-      "logo": "_300003",
-      "link": "https://moonbug-rokuus.amagi.tv/hls/amagi_hls_data_moonbugAA-moonbug-roku-us/CDN/playlist.m3u8",
+      "name": "GRT Gaziantep",
+      "logo": "_A00003",
+      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Wonder",
-      "logo": "_300004",
-      "link": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
+      "name": "360 TV SD",
+      "logo": "_A00004",
+      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
       "http": ""
     },
     {
-      "name": "V2BEAT",
-      "logo": "_300005",
-      "link": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8",
+      "name": "Haber Global Haberler",
+      "logo": "_A00005",
+      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
       "http": ""
     },
     {
-      "name": "Akaal TV",
-      "logo": "_300006",
-      "link": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
+      "name": "Akit",
+      "logo": "_A00006",
+      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
       "http": ""
     }
   ]
