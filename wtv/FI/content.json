@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Alfa",
@@ -111,39 +132,39 @@
 ],
   "Demo": [
     {
-      "name": "KBC (K Brdcst. Corp.) - GBS",
-      "logo": "_500001",
-      "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+      "name": "ABC News",
+      "logo": "_900001",
+      "link": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "http": ""
     },
     {
-      "name": "CNN International",
-      "logo": "_500002",
-      "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+      "name": "Azteca",
+      "logo": "_900002",
+      "link": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Franceinfo",
-      "logo": "_500003",
-      "link": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
+      "name": "Rai 3",
+      "logo": "_900003",
+      "link": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
       "http": ""
     },
     {
-      "name": "TRT World",
-      "logo": "_500004",
-      "link": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "name": "Rai NEWS 24",
+      "logo": "_900004",
+      "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "TRT 3",
-      "logo": "_500005",
-      "link": "http://tv-trt3.live.trt.com.tr/master_720.m3u8",
+      "name": "THT",
+      "logo": "_900005",
+      "link": "http://ott-cdn.ucom.am/s19/04.m3u8",
       "http": ""
     },
     {
-      "name": "TRT Arabi عربي",
-      "logo": "_500006",
-      "link": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
+      "name": "TV BR Web",
+      "logo": "_900006",
+      "link": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "http": ""
     }
   ]

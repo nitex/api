@@ -43,13 +43,13 @@
   },
   "huawTE": {
     "changeCountry": false,
-    "demoVisible": true,
+    "demoVisible": false,
     "mainVisible": true,
     "ownVisible": true,
     "about": "",
     "email": "losksiels@gmail.com",
-    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
-    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C104666345",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C104666345",
     "other": "",
     "bonus": "",
     "showMode": false,
@@ -57,7 +57,7 @@
     "minuteCount": 2,
     "limitCount": 5,
     "adType": 1,
-    "uni_id": "REPLACE",
+    "uni_id": "4282741",
     "uni_mainAd": "uni_mainAd",
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
@@ -135,81 +135,5 @@
       "link": "https://www.teletica.com/vivo?canal=teletica-7",
       "http": "https://www.teletica.com/"
    }
-],
-  "Demo": [
-    {
-      "name": "Repretel 11",
-      "logo": "11",
-      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Sur 14",
-      "logo": "14",
-      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
-      "http": ""
-    },
-    {
-      "name": "UCR",
-      "logo": "UCR",
-      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Legislativa",
-      "logo": "Legislativa",
-      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Extra 42",
-      "logo": "42",
-      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "EJTV",
-      "logo": "EJTV",
-      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
-      "http": ""
-    }
-  ],
-  "DemoOLD": [
-    {
-      "name": "TV ALMG",
-      "logo": "_A00001",
-      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
-      "http": ""
-    },
-    {
-      "name": "24 TV",
-      "logo": "_A00002",
-      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "GRT Gaziantep",
-      "logo": "_A00003",
-      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
-      "http": ""
-    },
-    {
-      "name": "360 TV SD",
-      "logo": "_A00004",
-      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Haber Global Haberler",
-      "logo": "_A00005",
-      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
-      "http": ""
-    },
-    {
-      "name": "Akit",
-      "logo": "_A00006",
-      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
-      "http": ""
-    }
-  ]
+]
 }
