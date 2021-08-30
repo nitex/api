@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Globo",
@@ -243,39 +264,39 @@
 ],
   "Demo": [
     {
-      "name": "ANTENNE VORARLBERG",
-      "logo": "_100001",
-      "link": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+      "name": "Eman Channel",
+      "logo": "_300001",
+      "link": "https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Dorf TV",
-      "logo": "_100002",
-      "link": "https://stream.openplayout.org/hls/dorf.m3u8",
+      "name": "Manoto",
+      "logo": "_300002",
+      "link": "https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8",
       "http": ""
     },
     {
-      "name": "FS1",
-      "logo": "_100003",
-      "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+      "name": "MoonBug",
+      "logo": "_300003",
+      "link": "https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "GoTV",
-      "logo": "_100004",
-      "link": "https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8",
+      "name": "Wonder",
+      "logo": "_300004",
+      "link": "https://lds-wonder-samsungau.amagi.tv/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "TV Interlagos",
-      "logo": "_100005",
-      "link": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
+      "name": "V2BEAT",
+      "logo": "_300005",
+      "link": "https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8",
       "http": ""
     },
     {
-      "name": "W24",
-      "logo": "_100006",
-      "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+      "name": "Akaal TV",
+      "logo": "_300006",
+      "link": "http://akaal.zecast.net/akaal-live/smil:akaaltv.smil/playlist.m3u8",
       "http": ""
     }
   ]
