@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "RTÉ",
@@ -123,39 +144,39 @@
 ],
   "Demo": [
     {
-      "name": "ATV 1",
-      "logo": "_200001",
-      "link": "http://85.132.81.184:8080/atv/index.m3u8",
+      "name": "HTV",
+      "logo": "_800001",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8",
       "http": ""
     },
     {
-      "name": "ATV 24",
-      "logo": "_200002",
-      "link": "http://85.132.81.184:8080/atv-2/index.m3u8",
+      "name": "CNBC TV18",
+      "logo": "_800002",
+      "link": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
       "http": ""
     },
     {
-      "name": "QƏBƏLƏ",
-      "logo": "_200003",
-      "link": "https://qebele.tv/live/stream/index.m3u8",
+      "name": "Домашний",
+      "logo": "_800003",
+      "link": "http://ott-cdn.ucom.am/s88/index.m3u8",
       "http": ""
     },
     {
-      "name": "ARB Kəpəz",
-      "logo": "_200004",
-      "link": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
+      "name": "РБК",
+      "logo": "_800004",
+      "link": "http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8",
       "http": ""
     },
     {
-      "name": "ausbiz",
-      "logo": "_200005",
-      "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
+      "name": "France 3",
+      "logo": "_800005",
+      "link": "http://edge9.iptvnetwork.net/live/france3/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "TVSN",
-      "logo": "_200006",
-      "link": "https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn.m3u8",
+      "name": "France 5",
+      "logo": "_800006",
+      "link": "http://edge9.iptvnetwork.net/live/france5/playlist.m3u8",
       "http": ""
     }
   ]
