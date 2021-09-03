@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Sky TG24 Italia",
@@ -1431,39 +1452,39 @@
 ],
   "Demo": [
     {
-      "name": "BBC",
-      "logo": "_400001",
-      "link": "http://www.filmon.com/vr-streams/27.high/playlist.m3u8",
+      "name": "TV ALMG",
+      "logo": "_A00001",
+      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ",
-      "logo": "_400002",
-      "link": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
+      "name": "24 TV",
+      "logo": "_A00002",
+      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ International",
-      "logo": "_400003",
-      "link": "https://sc.id-tv.kz/RenTV.m3u8",
+      "name": "GRT Gaziantep",
+      "logo": "_A00003",
+      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ",
-      "logo": "_400004",
-      "link": "http://ott-cdn.ucom.am/s17/index.m3u8",
+      "name": "360 TV SD",
+      "logo": "_A00004",
+      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ Стиль",
-      "logo": "_400005",
-      "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+      "name": "Haber Global Haberler",
+      "logo": "_A00005",
+      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
       "http": ""
     },
     {
-      "name": "ORF 1",
-      "logo": "_400006",
-      "link": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8",
+      "name": "Akit",
+      "logo": "_A00006",
+      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
       "http": ""
     }
   ]

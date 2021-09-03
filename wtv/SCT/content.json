@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Sky News",
@@ -189,39 +210,39 @@
 ],
   "Demo": [
     {
-      "name": "BBC",
-      "logo": "_400001",
-      "link": "http://www.filmon.com/vr-streams/27.high/playlist.m3u8",
+      "name": "ANTENNE VORARLBERG",
+      "logo": "_100001",
+      "link": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ",
-      "logo": "_400002",
-      "link": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
+      "name": "Dorf TV",
+      "logo": "_100002",
+      "link": "https://stream.openplayout.org/hls/dorf.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ International",
-      "logo": "_400003",
-      "link": "https://sc.id-tv.kz/RenTV.m3u8",
+      "name": "FS1",
+      "logo": "_100003",
+      "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ",
-      "logo": "_400004",
-      "link": "http://ott-cdn.ucom.am/s17/index.m3u8",
+      "name": "GoTV",
+      "logo": "_100004",
+      "link": "https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ Стиль",
-      "logo": "_400005",
-      "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+      "name": "TV Interlagos",
+      "logo": "_100005",
+      "link": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "ORF 1",
-      "logo": "_400006",
-      "link": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8",
+      "name": "W24",
+      "logo": "_100006",
+      "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
       "http": ""
     }
   ]
