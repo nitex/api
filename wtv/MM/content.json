@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "MRTV-4",
@@ -105,39 +126,39 @@
 ],
   "Demo": [
     {
-      "name": "TV ALMG",
-      "logo": "_A00001",
-      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+      "name": "Al Hadath",
+      "logo": "_700001",
+      "link": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "24 TV",
-      "logo": "_A00002",
-      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
+      "name": "Мир 24",
+      "logo": "_700002",
+      "link": "http://188.40.68.167/russia/mir24/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "GRT Gaziantep",
-      "logo": "_A00003",
-      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
+      "name": "Мир +7",
+      "logo": "_700003",
+      "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "360 TV SD",
-      "logo": "_A00004",
-      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "name": "Al Arabiya",
+      "logo": "_700004",
+      "link": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Haber Global Haberler",
-      "logo": "_A00005",
-      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
+      "name": "RTL TV",
+      "logo": "_700005",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8",
       "http": ""
     },
     {
-      "name": "Akit",
-      "logo": "_A00006",
-      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+      "name": "СТС",
+      "logo": "_700006",
+      "link": "https://sc.id-tv.kz/STS_34_35.m3u8",
       "http": ""
     }
   ]
