@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Haugaland",
@@ -129,39 +150,39 @@
 ],
   "Demo": [
     {
-      "name": "TV ALMG",
-      "logo": "_A00001",
-      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+      "name": "KBC (K Brdcst. Corp.) - GBS",
+      "logo": "_500001",
+      "link": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "24 TV",
-      "logo": "_A00002",
-      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
+      "name": "CNN International",
+      "logo": "_500002",
+      "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "GRT Gaziantep",
-      "logo": "_A00003",
-      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
+      "name": "Franceinfo",
+      "logo": "_500003",
+      "link": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "360 TV SD",
-      "logo": "_A00004",
-      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "name": "TRT World",
+      "logo": "_500004",
+      "link": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
       "http": ""
     },
     {
-      "name": "Haber Global Haberler",
-      "logo": "_A00005",
-      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
+      "name": "TRT 3",
+      "logo": "_500005",
+      "link": "http://tv-trt3.live.trt.com.tr/master_720.m3u8",
       "http": ""
     },
     {
-      "name": "Akit",
-      "logo": "_A00006",
-      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+      "name": "TRT Arabi عربي",
+      "logo": "_500006",
+      "link": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
       "http": ""
     }
   ]
