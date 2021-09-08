@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Perú",
@@ -219,39 +240,38 @@
 ],
   "Demo": [
     {
-      "name": "Al Jazeera",
-      "logo": "_000001",
-      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
+      "name": "Perú",
+      "logo": "Peru",
+      "link": "https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8",
       "http": ""
     },
     {
-      "name": "Al Jazeera English",
-      "logo": "_000002",
-      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
+      "name": "Perú NOTICIAS",
+      "logo": "NOTICIAS",
+      "link": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "euronews",
-      "logo": "_000003",
-      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
+      "name": "RBC",
+      "logo": "RBC",
+      "link": "http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8",
       "http": ""
     },
     {
-      "name": "Bloomberg Asia",
-      "logo": "_000004",
-      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
+      "name": "Willax",
+      "logo": "Willax",
+      "link": "https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Sky News",
-      "logo": "_000005",
-      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
-      "http": ""
+      "name": "Latina",
+      "logo": "Latina",
+      "link": "https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8"
     },
     {
-      "name": "Sky News Arabic",
-      "logo": "_000006",
-      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
+      "name": "Panamericana",
+      "logo": "Panamericana",
+      "link": "https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "http": ""
     }
   ]

@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "RTP Internacional",
@@ -195,39 +216,39 @@
 ],
   "Demo": [
     {
-      "name": "TV ALMG",
-      "logo": "_A00001",
-      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+      "name": "RTP Internacional",
+      "logo": "RTP",
+      "link": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "http": ""
     },
     {
-      "name": "24 TV",
-      "logo": "_A00002",
-      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
+      "name": "RTP 1",
+      "logo": "RTP1",
+      "link": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "GRT Gaziantep",
-      "logo": "_A00003",
-      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
+      "name": "RTP 2",
+      "logo": "RTP2",
+      "link": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
       "http": ""
     },
     {
-      "name": "360 TV SD",
-      "logo": "_A00004",
-      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "name": "RTP 3",
+      "logo": "RTP3",
+      "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Haber Global Haberler",
-      "logo": "_A00005",
-      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
+      "name": "RTP Memória",
+      "logo": "Memoria",
+      "link": "http://ott-cdn.ucom.am/s19/04.m3u8",
       "http": ""
     },
     {
-      "name": "Akit",
-      "logo": "_A00006",
-      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+      "name": "RTP Madeira",
+      "logo": "Madeira",
+      "link": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "http": ""
     }
   ]

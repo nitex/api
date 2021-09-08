@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "People s Television",
@@ -129,38 +150,38 @@
 ],
   "Demo": [
     {
-      "name": "Al Hadath",
-      "logo": "_700001",
+      "name": "People s Television",
+      "logo": "PTV",
       "link": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Мир 24",
-      "logo": "_700002",
+      "name": "NET25",
+      "logo": "NET25",
       "link": "http://188.40.68.167/russia/mir24/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Мир +7",
-      "logo": "_700003",
+      "name": "CNN Philippines",
+      "logo": "CNN",
       "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Al Arabiya",
-      "logo": "_700004",
+      "name": "UNTV",
+      "logo": "UNTV",
       "link": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "RTL TV",
-      "logo": "_700005",
+      "name": "TV5",
+      "logo": "TV5",
       "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8",
       "http": ""
     },
     {
-      "name": "СТС",
-      "logo": "_700006",
+      "name": "Maria",
+      "logo": "Maria",
       "link": "https://sc.id-tv.kz/STS_34_35.m3u8",
       "http": ""
     }

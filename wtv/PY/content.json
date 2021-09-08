@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Red Guaraní",
@@ -111,38 +132,38 @@
 ],
   "Demo": [
     {
-      "name": "KBC (K Brdcst. Corp.) - GBS",
-      "logo": "_500001",
-      "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
+      "name": "Red Guaraní",
+      "logo": "Red",
+      "link": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "CNN International",
-      "logo": "_500002",
+      "name": "RPC",
+      "logo": "RPC",
       "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Franceinfo",
-      "logo": "_500003",
+      "name": "Unicanal",
+      "logo": "Unicanal",
       "link": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "TRT World",
-      "logo": "_500004",
+      "name": "Telefuturo",
+      "logo": "Telefuturo",
       "link": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
       "http": ""
     },
     {
-      "name": "TRT 3",
-      "logo": "_500005",
+      "name": "SNT",
+      "logo": "SNT",
       "link": "http://tv-trt3.live.trt.com.tr/master_720.m3u8",
       "http": ""
     },
     {
-      "name": "TRT Arabi عربي",
-      "logo": "_500006",
+      "name": "C9N",
+      "logo": "C9N",
       "link": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
       "http": ""
     }
