@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Express News (ایکسپریس نیوز)",
@@ -435,39 +456,39 @@
 ],
   "Demo": [
     {
-      "name": "BBC",
-      "logo": "_400001",
-      "link": "http://www.filmon.com/vr-streams/27.high/playlist.m3u8",
+      "name": "Express News (ایکسپریس نیوز)",
+      "logo": "Express",
+      "link": "https://qebele.tv/live/stream/index.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ",
-      "logo": "_400002",
-      "link": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
+      "name": "Samaa",
+      "logo": "Samaa",
+      "link": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ International",
-      "logo": "_400003",
-      "link": "https://sc.id-tv.kz/RenTV.m3u8",
+      "name": "PTV News",
+      "logo": "News",
+      "link": "http://85.132.81.184:8080/atv/index.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ",
-      "logo": "_400004",
-      "link": "http://ott-cdn.ucom.am/s17/index.m3u8",
+      "name": "PTV Home",
+      "logo": "Home",
+      "link": "http://85.132.81.184:8080/atv-2/index.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ Стиль",
-      "logo": "_400005",
-      "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+      "name": "PTV World",
+      "logo": "World",
+      "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
       "http": ""
     },
     {
-      "name": "ORF 1",
-      "logo": "_400006",
-      "link": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8",
+      "name": "PTV Sports",
+      "logo": "PTV",
+      "link": "https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8",
       "http": ""
     }
   ]
