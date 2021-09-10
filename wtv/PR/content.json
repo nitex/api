@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "América TeVé",
@@ -129,39 +150,39 @@
 ],
   "Demo": [
     {
-      "name": "HTV",
-      "logo": "_800001",
-      "link": "http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8",
+      "name": "ABC News",
+      "logo": "_900001",
+      "link": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "http": ""
     },
     {
-      "name": "CNBC TV18",
-      "logo": "_800002",
-      "link": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
+      "name": "Azteca",
+      "logo": "_900002",
+      "link": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Домашний",
-      "logo": "_800003",
-      "link": "http://ott-cdn.ucom.am/s88/index.m3u8",
+      "name": "Rai 3",
+      "logo": "_900003",
+      "link": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
       "http": ""
     },
     {
-      "name": "РБК",
-      "logo": "_800004",
-      "link": "http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8",
+      "name": "Rai NEWS 24",
+      "logo": "_900004",
+      "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "France 3",
-      "logo": "_800005",
-      "link": "http://edge9.iptvnetwork.net/live/france3/playlist.m3u8",
+      "name": "THT",
+      "logo": "_900005",
+      "link": "http://ott-cdn.ucom.am/s19/04.m3u8",
       "http": ""
     },
     {
-      "name": "France 5",
-      "logo": "_800006",
-      "link": "http://edge9.iptvnetwork.net/live/france5/playlist.m3u8",
+      "name": "TV BR Web",
+      "logo": "_900006",
+      "link": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "http": ""
     }
   ]
