@@ -41,42 +41,63 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [{"name":"Nova24TV","logo":"Nova24TV","link":"http://nova24tv.si/tv-v-zivo/","http":"http://nova24tv.si/"},{"name":"Top TV","logo":"Top","link":"http://toptv.si/v_zivo/","http":"http://toptv.si"},{"name":"Studio 12","logo":"12","link":"http://studio12.tv/","http":"http://studio12.tv/"},{"name":"Gea","logo":"Gea","link":"http://www.geatv.si/","http":"http://www.geatv.si/"},{"name":"Veseljak","logo":"Veseljak","link":"http://veseljak.si/live/tv.html","http":"http://veseljak.si/"},{"name":"Televizija Arena","logo":"Arena","link":"http://www.tvarena.si/v-382ivo.html","http":"http://www.tvarena.si"},{"name":"GTV Gorenjska televizija","logo":"GTV","link":"http://www.gtv.si/index.php?option=com_content&task=view&id=11361&Itemid=71","http":"http://www.gtv.si/"},{"name":"ATM Kranjska Gora","logo":"ATM","link":"http://original.livestream.com/atmtvkg","http":"http://www.atm-tv.si/"},{"name":"Exodus","logo":"Exodus","link":"http://www.exodus.si/vzivo.php","http":"http://www.exodus.si/index.php"},{"name":"Bloomberg TV Europe","logo":"bloomberg","link":"https://www.bloomberg.com/live/europe","http":"https://www.bloomberg.com/live/us"},{"name":"Euronews","logo":"Euronews","link":"http://de.euronews.com/live","http":"https://www.youtube.com/user/euronewsfr/videos?live_view=501&flow=grid&view=2"},{"name":"EbS Europe by Satellite","logo":"EbS","link":"http://ec.europa.eu/avservices/ebs/live.cfm?page=1","http":"http://ec.europa.eu/avservices/ebs/schedule.cfm"},{"name":"Sky News","logo":"Sky","link":"https://news.sky.com/watch-live","http":"https://www.youtube.com/user/skynews"}],
   "Demo": [
     {
-      "name": "ANTENNE VORARLBERG",
-      "logo": "_100001",
-      "link": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+      "name": "ATV 1",
+      "logo": "_200001",
+      "link": "http://85.132.81.184:8080/atv/index.m3u8",
       "http": ""
     },
     {
-      "name": "Dorf TV",
-      "logo": "_100002",
-      "link": "https://stream.openplayout.org/hls/dorf.m3u8",
+      "name": "ATV 24",
+      "logo": "_200002",
+      "link": "http://85.132.81.184:8080/atv-2/index.m3u8",
       "http": ""
     },
     {
-      "name": "FS1",
-      "logo": "_100003",
-      "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+      "name": "QƏBƏLƏ",
+      "logo": "_200003",
+      "link": "https://qebele.tv/live/stream/index.m3u8",
       "http": ""
     },
     {
-      "name": "GoTV",
-      "logo": "_100004",
-      "link": "https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8",
+      "name": "ARB Kəpəz",
+      "logo": "_200004",
+      "link": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
       "http": ""
     },
     {
-      "name": "TV Interlagos",
-      "logo": "_100005",
-      "link": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
+      "name": "ausbiz",
+      "logo": "_200005",
+      "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
       "http": ""
     },
     {
-      "name": "W24",
-      "logo": "_100006",
-      "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+      "name": "TVSN",
+      "logo": "_200006",
+      "link": "https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8",
       "http": ""
     }
   ]
