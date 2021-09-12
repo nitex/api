@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Oʻzbekiston",
@@ -141,38 +162,38 @@
 ],
   "Demo": [
     {
-      "name": "ATV 1",
-      "logo": "_200001",
+      "name": "Oʻzbekiston",
+      "logo": "Ozbekiston",
       "link": "http://85.132.81.184:8080/atv/index.m3u8",
       "http": ""
     },
     {
-      "name": "ATV 24",
-      "logo": "_200002",
+      "name": "Yoshlar",
+      "logo": "Yoshlar1",
       "link": "http://85.132.81.184:8080/atv-2/index.m3u8",
       "http": ""
     },
     {
-      "name": "QƏBƏLƏ",
-      "logo": "_200003",
+      "name": "Madaniyat va Ma'rifat",
+      "logo": "Madaniyat",
       "link": "https://qebele.tv/live/stream/index.m3u8",
       "http": ""
     },
     {
-      "name": "ARB Kəpəz",
-      "logo": "_200004",
+      "name": "Navo",
+      "logo": "Navo",
       "link": "http://85.132.81.184:8080/arbkepez/live/index.m3u8",
       "http": ""
     },
     {
-      "name": "ausbiz",
-      "logo": "_200005",
+      "name": "Toshkent",
+      "logo": "Toshkent1",
       "link": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
       "http": ""
     },
     {
-      "name": "TVSN",
-      "logo": "_200006",
+      "name": "Sport",
+      "logo": "Sport",
       "link": "https://stream.ecable.tv/afrobeats/tracks-v1a1/index.m3u8",
       "http": ""
     }

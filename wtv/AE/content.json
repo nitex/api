@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Al Arabiya العربية‎",
@@ -267,39 +288,39 @@
 ],
   "Demo": [
     {
-      "name": "ANTENNE VORARLBERG",
-      "logo": "_100001",
-      "link": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+      "name": "Al Arabiya العربية‎",
+      "logo": "Arabiya",
+      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
       "http": ""
     },
     {
-      "name": "Dorf TV",
-      "logo": "_100002",
-      "link": "https://stream.openplayout.org/hls/dorf.m3u8",
+      "name": "الحدث Al Hadath",
+      "logo": "Hadath",
+      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
       "http": ""
     },
     {
-      "name": "FS1",
-      "logo": "_100003",
-      "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+      "name": "CNBC Arabia (سي إن بي سي عربية)",
+      "logo": "CNBC",
+      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "GoTV",
-      "logo": "_100004",
-      "link": "https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8",
+      "name": "Orient أورينت",
+      "logo": "Orient",
+      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
       "http": ""
     },
     {
-      "name": "TV Interlagos",
-      "logo": "_100005",
-      "link": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
+      "name": "Al Aan الآن",
+      "logo": "Aan",
+      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
       "http": ""
     },
     {
-      "name": "W24",
-      "logo": "_100006",
-      "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+      "name": "SMC Sharjah الشارقة",
+      "logo": "SMC1",
+      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
       "http": ""
     }
   ]

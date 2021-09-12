@@ -41,6 +41,44 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "Demo7": [
+    {
+      "name": "Al Hadath",
+      "logo": "_700001",
+      "link": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Мир 24",
+      "logo": "_700002",
+      "link": "http://188.40.68.167/russia/mir24/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Мир +7",
+      "logo": "_700003",
+      "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "Al Arabiya",
+      "logo": "_700004",
+      "link": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+      "http": ""
+    },
+    {
+      "name": "RTL TV",
+      "logo": "_700005",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8",
+      "http": ""
+    },
+    {
+      "name": "СТС",
+      "logo": "_700006",
+      "link": "https://sc.id-tv.kz/STS_34_35.m3u8",
+      "http": ""
+    }
+  ],
   "Content": [
    {
       "name": "BBTV 7",
@@ -530,41 +568,41 @@
    }
 ],
   "Demo": [
-   {
+    {
       "name": "BBTV 7",
       "logo": "BBTV",
-      "link": "https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8",
+      "link": "https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "Thai PBS",
       "logo": "PBS",
-      "link": "https://stream.openplayout.org/hls/dorf.m3u8",
+      "link": "http://188.40.68.167/russia/mir24/playlist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "True4U (ทรูโฟร์ยู)",
       "logo": "True4U",
-      "link": "http://stream.fs1.tv:8080/hls/webstream.m3u8",
+      "link": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "NBT",
       "logo": "NBT",
-      "link": "https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/playlist.m3u8",
+      "link": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "MCOT HD",
       "logo": "MCOT",
-      "link": "http://tv.tvalphanet.com.br:1935/tvinterlagos/tvinterlagos/playlist.m3u8",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226195/index.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "MCOT Family",
       "logo": "Family",
-      "link": "https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8",
+      "link": "https://sc.id-tv.kz/STS_34_35.m3u8",
       "http": ""
-   }
+    }
   ]
 }

@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "VTV 1",
@@ -591,39 +612,39 @@
 ],
   "Demo": [
     {
-      "name": "etv",
-      "logo": "_600001",
-      "link": "https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8",
+      "name": "VTV 1",
+      "logo": "1",
+      "link": "http://www.filmon.com/vr-streams/27.high/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "ТВЦентр",
-      "logo": "_600002",
-      "link": "http://ott-cdn.ucom.am/s54/index.m3u8",
+      "name": "VTV 2 (Science/Tech.)",
+      "logo": "2",
+      "link": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
       "http": ""
     },
     {
-      "name": "RBA TV",
-      "logo": "_600003",
-      "link": "http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8",
+      "name": "VTV 3 (Sports/Entertainment)",
+      "logo": "3",
+      "link": "https://sc.id-tv.kz/RenTV.m3u8",
       "http": ""
     },
     {
-      "name": "RT News",
-      "logo": "_600004",
-      "link": "http://rt-news.secure.footprint.net:80/1103.m3u8",
+      "name": "VTV 4 (International)",
+      "logo": "4",
+      "link": "http://ott-cdn.ucom.am/s17/index.m3u8",
       "http": ""
     },
     {
-      "name": "RT International",
-      "logo": "_600005",
-      "link": "https://rt-usa.secure.footprint.net/1105.m3u8",
+      "name": "VTV 5 (Ethnic Minorities)",
+      "logo": "5",
+      "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "NBS",
-      "logo": "_600006",
-      "link": "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/NBSTV/10-hls/live-media.m3u8",
+      "name": "VTV5 TÂY NAM BỘ",
+      "logo": "NAM",
+      "link": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8",
       "http": ""
     }
   ]

@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Altyn Asyr",
@@ -99,39 +120,39 @@
 ],
   "Demo": [
     {
-      "name": "BBC",
-      "logo": "_400001",
-      "link": "http://www.filmon.com/vr-streams/27.high/playlist.m3u8",
+      "name": "Altyn Asyr",
+      "logo": "Altyn",
+      "link": "https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ",
-      "logo": "_400002",
-      "link": "http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8",
+      "name": "Türkmenistan",
+      "logo": "Turkmenistan",
+      "link": "https://uksono1-samsunguk.amagi.tv/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "РЕН ТВ International",
-      "logo": "_400003",
-      "link": "https://sc.id-tv.kz/RenTV.m3u8",
+      "name": "Yaşlyk",
+      "logo": "Yaslyk",
+      "link": "http://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ",
-      "logo": "_400004",
-      "link": "http://ott-cdn.ucom.am/s17/index.m3u8",
+      "name": "Miras",
+      "logo": "Miras",
+      "link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "НТВ Стиль",
-      "logo": "_400005",
-      "link": "https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8",
+      "name": "Türkmen Sport",
+      "logo": "Sport",
+      "link": "http://ott-cdn.ucom.am/s19/04.m3u8",
       "http": ""
     },
     {
-      "name": "ORF 1",
-      "logo": "_400006",
-      "link": "https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest.m3u8",
+      "name": "Türkmen Owazy",
+      "logo": "Owazy",
+      "link": "https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/playlist.m3u8",
       "http": ""
     }
   ]

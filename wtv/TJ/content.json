@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "TVT Тоҷикистон",
@@ -98,41 +119,41 @@
    }
 ],
   "Demo": [
-   {
+    {
       "name": "TVT Тоҷикистон",
       "logo": "TVT",
-      "link": "https://tv-trtarabi.live.trt.com.tr/master.m3u8",
+      "link": "https://errstreams4.cdn.eurovisioncdn.net/live/etv-kval0/index.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "Ҷаҳоннамо",
       "logo": "Jahonnamo",
-      "link": "http://tv-trt3.live.trt.com.tr/master_720.m3u8",
+      "link": "https://wonder-samsung-uk.amagi.tv/playlist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "TVB Баҳористон",
       "logo": "TVB",
-      "link": "https://tv-trtworld.live.trt.com.tr/master.m3u8",
+      "link": "http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "TVS Сафина",
       "logo": "TVS",
-      "link": "http://edge9.iptvnetwork.net/live/france4/playlist.m3u8",
+      "link": "https://rt-usa.gcdn.co/live/rtusa/playlist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "Варзиш",
       "logo": "Varzish",
-      "link": "https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8",
+      "link": "https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8",
       "http": ""
-   },
-   {
+    },
+    {
       "name": "Варзиш Футбол",
       "logo": "Futbol",
-      "link": "https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8",
-      "http": "http://varzishtv.tj/"
-   }
+      "link": "https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8",
+      "http": ""
+    }
   ]
 }

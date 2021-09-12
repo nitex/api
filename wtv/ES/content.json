@@ -62,6 +62,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Libertad Digital",
@@ -450,38 +471,38 @@
 ],
   "Demo": [
     {
-      "name": "Al Jazeera",
-      "logo": "_000001",
+      "name": "Libertad Digital",
+      "logo": "Libertad",
       "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
       "http": ""
     },
     {
-      "name": "Al Jazeera English",
-      "logo": "_000002",
+      "name": "RT en Español",
+      "logo": "RT",
       "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
       "http": ""
     },
     {
-      "name": "euronews",
-      "logo": "_000003",
+      "name": "Logos",
+      "logo": "Logos",
       "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Bloomberg Asia",
-      "logo": "_000004",
+      "name": "Iglesia Samaria",
+      "logo": "Samaria",
       "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
       "http": ""
     },
     {
-      "name": "Sky News",
-      "logo": "_000005",
+      "name": "Solidaria",
+      "logo": "Solidaria",
       "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
       "http": ""
     },
     {
-      "name": "Sky News Arabic",
-      "logo": "_000006",
+      "name": "Cetelmon",
+      "logo": "Cetelmon",
       "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
       "http": ""
     }

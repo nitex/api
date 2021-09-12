@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "CBS",
@@ -2163,39 +2184,39 @@
 ],
   "Demo": [
     {
-      "name": "TV ALMG",
-      "logo": "_A00001",
-      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+      "name": "CBS",
+      "logo": "CBS",
+      "link": "https://live-hls-web-aje.getaj.net/AJE/03.m3u8",
       "http": ""
     },
     {
-      "name": "24 TV",
-      "logo": "_A00002",
-      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
+      "name": "Free Speech",
+      "logo": "freespeech",
+      "link": "http://ott-cdn.ucom.am/s23/index.m3u8",
       "http": ""
     },
     {
-      "name": "GRT Gaziantep",
-      "logo": "_A00003",
-      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
+      "name": "Newsmax",
+      "logo": "Newsmax",
+      "link": "https://euronews-euronews-world-1.roku.wurl.com/manifest/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "360 TV SD",
-      "logo": "_A00004",
-      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "name": "CNN",
+      "logo": "CNN1",
+      "link": "https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8",
       "http": ""
     },
     {
-      "name": "Haber Global Haberler",
-      "logo": "_A00005",
-      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
+      "name": "CNN News18",
+      "logo": "CNN2",
+      "link": "http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8",
       "http": ""
     },
     {
-      "name": "Akit",
-      "logo": "_A00006",
-      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+      "name": "MSNBC",
+      "logo": "msnbc",
+      "link": "https://stream.skynewsarabia.com/hls/sna.m3u8",
       "http": ""
     }
   ]

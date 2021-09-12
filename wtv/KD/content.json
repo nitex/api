@@ -41,6 +41,27 @@
     "uni_rtrnAd": "uni_rtrnAd",
     "uni_mainb": "uni_mainb"
   },
+  "huawTE": {
+    "changeCountry": false,
+    "demoVisible": true,
+    "mainVisible": true,
+    "ownVisible": true,
+    "about": "",
+    "email": "losksiels@gmail.com",
+    "share": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "rateL": "https://appgallery.cloud.huawei.com/ag/n/app/C",
+    "other": "",
+    "bonus": "",
+    "showMode": false,
+    "visualMode": 2,
+    "minuteCount": 2,
+    "limitCount": 5,
+    "adType": 1,
+    "uni_id": "REPLACE",
+    "uni_mainAd": "uni_mainAd",
+    "uni_rtrnAd": "uni_rtrnAd",
+    "uni_mainb": "uni_mainb"
+  },
   "Content": [
    {
       "name": "Rudaw",
@@ -213,39 +234,39 @@
 ],
   "Demo": [
     {
-      "name": "TV ALMG",
-      "logo": "_A00001",
-      "link": "https://streaming.almg.gov.br/live/tvalmg.m3u8",
+      "name": "Rudaw",
+      "logo": "Rudaw",
+      "link": "http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8",
       "http": ""
     },
     {
-      "name": "24 TV",
-      "logo": "_A00002",
-      "link": "https://mn-nl.mncdn.com/kanal24/smil:kanal24.smil/chunklist.m3u8",
+      "name": "GK (Gali Kurdistan)",
+      "logo": "GK",
+      "link": "https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8",
       "http": ""
     },
     {
-      "name": "GRT Gaziantep",
-      "logo": "_A00003",
-      "link": "http://yerelmedya.tv:1935/grt/_definst_/bant1/playlist.m3u8",
+      "name": "NRT HD",
+      "logo": "NRT1",
+      "link": "http://ott-cdn.ucom.am/s88/index.m3u8",
       "http": ""
     },
     {
-      "name": "360 TV SD",
-      "logo": "_A00004",
-      "link": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8",
+      "name": "NRT 2",
+      "logo": "NRT2",
+      "link": "http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8",
       "http": ""
     },
     {
-      "name": "Haber Global Haberler",
-      "logo": "_A00005",
-      "link": "https://tv.ensonhaber.com/tv/tr/haberglobal/index.m3u8",
+      "name": "NRT Arabic",
+      "logo": "NRT3",
+      "link": "http://edge9.iptvnetwork.net/live/france3/playlist.m3u8",
       "http": ""
     },
     {
-      "name": "Akit",
-      "logo": "_A00006",
-      "link": "https://akittv-live.ercdn.net/akittv/akittv.m3u8",
+      "name": "NRT Radio",
+      "logo": "NRT4",
+      "link": "http://edge9.iptvnetwork.net/live/france5/playlist.m3u8",
       "http": ""
     }
   ]
