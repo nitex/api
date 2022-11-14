@@ -4,23 +4,33 @@
 <array>
 	<dict>
 		<key>name</key>
-		<string>Perú</string>
+		<string>TVPerú</string>
 		<key>logo</key>
 		<string>Peru</string>
 		<key>link</key>
-		<string>http://www.tvperu.gob.pe/play</string>
+		<string>https://www.tvperu.gob.pe/play</string>
 		<key>http</key>
-		<string>http://www.tvperu.gob.pe/play/HD</string>
+		<string>https://www.tvperu.gob.pe/play/HD</string>
 	</dict>
 	<dict>
 		<key>name</key>
-		<string>Perú NOTICIAS</string>
+		<string>TVPerú NOTICIAS</string>
 		<key>logo</key>
 		<string>NOTICIAS</string>
 		<key>link</key>
-		<string>http://www.tvperu.gob.pe/play73</string>
+		<string>https://www.tvperu.gob.pe/noticias/play</string>
 		<key>http</key>
-		<string>http://www.tvperu.gob.pe/play/HD</string>
+		<string>https://www.tvperu.gob.pe/play/HD</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>TVPerú Internacional</string>
+		<key>logo</key>
+		<string>Internacional</string>
+		<key>link</key>
+		<string>https://www.tvperu.gob.pe/internacional/play</string>
+		<key>http</key>
+		<string>https://www.tvperu.gob.pe/play/HD</string>
 	</dict>
 	<dict>
 		<key>name</key>

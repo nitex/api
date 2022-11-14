@@ -64,18 +64,24 @@
   },
   "Content": [
    {
-      "name": "Perú",
+      "name": "TVPerú",
       "logo": "Peru",
-      "link": "http://www.tvperu.gob.pe/play",
-      "http": "http://www.tvperu.gob.pe/play/HD"
+      "link": "https://www.tvperu.gob.pe/play",
+      "http": "https://www.tvperu.gob.pe/play/HD"
    },
    {
-      "name": "Perú NOTICIAS",
+      "name": "TVPerú NOTICIAS",
       "logo": "NOTICIAS",
-      "link": "http://www.tvperu.gob.pe/play73",
-      "http": "http://www.tvperu.gob.pe/play/HD"
+      "link": "https://www.tvperu.gob.pe/noticias/play",
+      "http": "https://www.tvperu.gob.pe/play/HD"
    },
-   {
+    {
+      "name": "TVPerú Internacional",
+      "logo": "Internacional",
+      "link": "https://www.tvperu.gob.pe/internacional/play",
+      "http": "https://www.tvperu.gob.pe/play/HD"
+    },
+    {
       "name": "RBC",
       "logo": "RBC",
       "link": "http://www.rbconline.pe/",
