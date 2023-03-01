@@ -1,1 +1,78 @@
-12
+{
+  "config": {
+    "ads": {
+      "bannerPlayID": "ca-app-pub-3940256099942544/2934735716",
+      "bannerStatID": "ca-app-pub-3940256099942544/2934735716",
+      "rewardedAdID": "ca-app-pub-3940256099942544/1712485313",
+      "splashOpenCount": 4,
+      "splashOpenID": "ca-app-pub-3940256099942544/5662855259",
+      "splashPlayCount": 5,
+      "splashPlayID": "ca-app-pub-3940256099942544/4411468910",
+      "splashBackCount": 6,
+      "splashBackID": "ca-app-pub-3940256099942544/4411468910"
+    },
+    "server": {
+      "domain":  "https://raw.githubusercontent.com",
+      "account": "nitex",
+      "version": "master"
+    },
+    "credits": {
+      "info": "Lorem ipsam modal textum",
+      "offer": "https://calvinw.medium.com/using-urlsession-to-retrieve-json-in-swift-1-getting-started-d929f3a49c67",
+      "more": "https://www.programiz.com/swift-programming/methods",
+      "policy": "https://jsonformatter.org",
+      "email": "idenitecs@gmail.com"
+    },
+    "visibility": {
+      "tabs": {
+        "stats": true,
+        "shelf": "https://raw.githubusercontent.com"
+      },
+      "settings": {
+        "bgMusic": "https://raw.githubusercontent.com",
+        "kidsMode": [
+          "tictac",
+          "match3",
+          "2048"
+        ],
+        "equalizer": true,
+        "playGame": true,
+        "voiceTypes": [
+          {
+            "title": "Max",
+            "index": "AL"
+          },
+          {
+            "title": "Anna",
+            "index": "BB"
+          }
+        ],
+        "donations": [
+          {
+            "name": "Donation",
+            "link": "https://onlyfans.com"
+          },
+          {
+            "name": "OnlyFans",
+            "link": "https://onlyfans.com"
+          }
+        ]
+      },
+      "alert": {
+        "text": "",
+        "button": "",
+        "link": ""
+      }
+    }
+  },
+  "genres": [
+    "Child",
+    "Tales",
+    "Folklore",
+    "Animals",
+    "Adventures",
+    "Relationships",
+    "Fantastic",
+    "Detective"
+  ]
+}
