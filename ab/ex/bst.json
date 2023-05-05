@@ -1,15 +1,16 @@
 {
   "config": {
     "ads": {
-      "bannerPlayID": "",
-      "bannerStatID": "ca-app-pub-3940256099942544/2934735716",
-      "rewardedAdID": "ca-app-pub-3940256099942544/1712485313",
-      "splashOpenCount": 4,
       "splashOpenID": "ca-app-pub-3940256099942544/5662855259",
-      "splashPlayCount": 5,
-      "splashPlayID": "ca-app-pub-3940256099942544/4411468910",
+      "bannerMainID": "ca-app-pub-3940256099942544/2934735716",
+      "bannerStatID": "ca-app-pub-3940256099942544/2934735716",
+      "bannerGameID": "ca-app-pub-3940256099942544/2934735716",
+      "splashMainCount": 5,
+      "splashMainID": "ca-app-pub-3940256099942544/4411468910",
       "splashBackCount": 6,
-      "splashBackID": "ca-app-pub-3940256099942544/4411468910"
+      "splashBackID": "ca-app-pub-3940256099942544/4411468910",
+      "splashGameCount": 3,
+      "splashGameID": "ca-app-pub-3940256099942544/4411468910"
     },
     "server": {
       "domain":  "https://raw.githubusercontent.com",
@@ -24,30 +25,24 @@
       "email": "idenitecs@gmail.com"
     },
     "visibility": {
-      "tabs": {
-        "stats": true,
-        "shelf": "https://raw.githubusercontent.com"
+      "alert": {
+        "text": "it is aslfv dd",
+        "button": "Roger",
+        "link": "https://www.donnywals.com"
       },
-      "settings": {
-        "bgMusic": "https://raw.githubusercontent.com",
-        "kidsMode": [
-          "tictac",
-          "match3",
-          "2048"
-        ],
-        "equalizer": true,
-        "playGame": true,
-        "voiceTypes": [
-          {
-            "title": "Max",
-            "index": "AL"
-          },
-          {
-            "title": "Anna",
-            "index": "BB"
-          }
-        ],
-        "donations": [
+      "stats": true,
+      "shelf": true,
+      "update": false,
+      "haptics": false,
+      "optimize": false,
+      "speed": false,
+      "kidsMode": false,
+      "visualize": false,
+      "dailyGoal": false,
+      "lockUI": false,
+      "shutdown": false,
+      "playGame": false,
+      "donations": [
           {
             "name": "Donation",
             "link": "https://onlyfans.com"
@@ -57,14 +52,7 @@
             "link": "https://onlyfans.com"
           }
         ]
-      },
-      "alert": {
-        "text": "",
-        "button": "",
-        "link": ""
-      }
-    },
-    "update": false
+    }
   },
   "genres": [
     {
