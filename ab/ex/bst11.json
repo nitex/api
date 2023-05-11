@@ -1,0 +1,94 @@
+{
+  "config": {
+    "ads": {
+      "splashOpenID": "ca-app-pub-3940256099942544/5662855259",
+      "bannerMainID": "ca-app-pub-3940256099942544/2934735716",
+      "bannerStatID": "ca-app-pub-3940256099942544/2934735716",
+      "bannerGameID": "ca-app-pub-3940256099942544/2934735716",
+      "splashMainCount": 5,
+      "splashMainID": "ca-app-pub-3940256099942544/4411468910",
+      "splashBackCount": 6,
+      "splashBackID": "ca-app-pub-3940256099942544/4411468910",
+      "splashGameCount": 3,
+      "splashGameID": "ca-app-pub-3940256099942544/4411468910"
+    },
+    "server": {
+      "domain":  "https://raw.githubusercontent.com",
+      "account": "dyntri",
+      "version": "master"
+    },
+    "credits": {
+      "dev": "id879767497",
+      "app": "id1240842773",
+      "info": "Lorem ipsam modal textum",
+      "offer": "https://medium.com/",
+      "email": "idenitecs@gmail.com"
+    ,
+      "policy": "https://jsonformatter.org"
+    },
+    "availability": {
+      "alert": {
+        "text": "it is aslfv dd",
+        "button": "Roger",
+        "link": ""
+      },
+      "shelfs": true,
+      "statistics": true,
+      "achievements": true,
+      "update": false,
+      "haptics": true,
+      "optimize": true,
+      "speed": true,
+      "visualize": true,
+      "kidsmode": true,
+      "timer": true,
+      "game": true,
+      "lock": true,
+      "goal": true,
+      "donations": [
+          {
+            "name": "Donation",
+            "link": "https://onlyfans.com"
+          },
+          {
+            "name": "OnlyFans",
+            "link": "https://onlyfans.com"
+          }
+        ]
+    }
+  },
+  "genres": [
+    {
+      "genre": "child",
+      "local": "Детские"
+    },
+    {
+      "genre": "tales",
+      "local": "Рассказы"
+    },
+    {
+      "genre": "folklore",
+      "local": "Фольклор"
+    },
+    {
+      "genre": "animals",
+      "local": " О животных"
+    },
+    {
+      "genre": "adventures",
+      "local": "Приключения"
+    },
+    {
+      "genre": "relationships",
+      "local": "Отношения"
+    },
+    {
+      "genre": "fantastic",
+      "local": "Фантастика"
+    },
+    {
+      "genre": "detective",
+      "local": "Детектив"
+    }
+  ]
+}
