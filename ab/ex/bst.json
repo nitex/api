@@ -1,16 +1,17 @@
 {
   "config": {
     "ads": {
-      "splashOpenID": "ca-app-pub-3940256099942544/5662855259",
       "bannerMainID": "ca-app-pub-3940256099942544/2934735716",
       "bannerStatID": "ca-app-pub-3940256099942544/2934735716",
       "bannerGameID": "ca-app-pub-3940256099942544/2934735716",
-      "splashMainCount": 5,
+      "splashOpenID": "ca-app-pub-3940256099942544/5662855259",
+      "splashOpenCount": 4,
       "splashMainID": "ca-app-pub-3940256099942544/4411468910",
-      "splashBackCount": 6,
+      "splashMainCount": 5,
       "splashBackID": "ca-app-pub-3940256099942544/4411468910",
-      "splashGameCount": 3,
-      "splashGameID": "ca-app-pub-3940256099942544/4411468910"
+      "splashBackCount": 6,
+      "splashGameID": "ca-app-pub-3940256099942544/4411468910",
+      "splashGameCount": 3
     },
     "server": {
       "domain":  "https://raw.githubusercontent.com",
@@ -57,5 +58,37 @@
     }
   },
   "genres": [
+    {
+      "genre": "child",
+      "local": "Детские"
+    },
+    {
+      "genre": "tales",
+      "local": "Рассказы"
+    },
+    {
+      "genre": "folklore",
+      "local": "Фольклор"
+    },
+    {
+      "genre": "animals",
+      "local": " О животных"
+    },
+    {
+      "genre": "adventures",
+      "local": "Приключения"
+    },
+    {
+      "genre": "relationships",
+      "local": "Отношения"
+    },
+    {
+      "genre": "fantastic",
+      "local": "Фантастика"
+    },
+    {
+      "genre": "detective",
+      "local": "Детектив"
+    }
   ]
 }
