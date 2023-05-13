@@ -31,17 +31,19 @@
         "link": "https://www.donnywals.com"
       },
       "shelfs": true,
-      "achieves": false,
-      "update": false,
+      "achieves": true,
+      "update": true,
       "haptics": true,
       "optimize": true,
       "speed": true,
       "visualize": true,
       "kidsmode": true,
+      "screen": true,
       "timer": true,
       "game": true,
       "lock": true,
       "goal": true,
+      "rewind": true,
       "donations": [
           {
             "name": "Donation",
