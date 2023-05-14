@@ -10,7 +10,8 @@
       "splashMainCount": 2,
       "splashBackID": "ca-app-pub-3940256099942544/4411468910",
       "splashBackCount": 2,
-      "splashGameID": "ca-app-pub-3940256099942544/4411468910"},
+      "splashGameID": "ca-app-pub-3940256099942544/4411468910"
+    },
     "server": {
       "domain":  "https://raw.githubusercontent.com",
       "account": "dyntri",
@@ -38,20 +39,19 @@
       "speed": true,
       "visualize": true,
       "kidsmode": true,
-      "screen": true,
+      "idle": true,
       "timer": true,
       "game": true,
-      "lock": true,
+      "lockui": true,
       "goal": true,
-      "rewind": true,
       "donations": [
           {
-            "name": "Donation",
-            "link": "https://onlyfans.com"
+            "name": "Patreon",
+            "link": "https://www.patreon.com"
           },
           {
-            "name": "OnlyFans",
-            "link": "https://onlyfans.com"
+            "name": "BuyMeACoffee",
+            "link": "https://www.buymeacoffee.com"
           }
         ]
     }
