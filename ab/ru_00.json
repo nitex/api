@@ -24,11 +24,12 @@
     "availability": {
       "alert": {
         "text": "",
-        "button": "Roger",
+        "button": "Got it",
         "link": "https://www.donnywals.com"
       },
       "shelfs": "ru_main",
-      "achieves": true,
+      "statistics": true,
+      "achievements": true,
       "update": true,
       "haptics": true,
       "optimize": true,
