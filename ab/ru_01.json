@@ -1,0 +1,89 @@
+{
+  "ios": {
+    "ads": {
+      "bannerMainID": "ca-app-pub-3940256099942544/2934735716",
+      "bannerStatID": "ca-app-pub-3940256099942544/2934735716",
+      "bannerGameID": "ca-app-pub-3940256099942544/2934735716",
+      "splashOpenID": "ca-app-pub-3940256099942544/5662855259",
+      "splashOpenCount": 2,
+      "splashMainID": "ca-app-pub-3940256099942544/4411468910",
+      "splashMainCount": 2,
+      "splashBackID": "ca-app-pub-3940256099942544/4411468910",
+      "splashBackCount": 2,
+      "splashGameID": "ca-app-pub-3940256099942544/4411468910"
+    },
+    "info": {
+      "dev": "id879767497",
+      "app": "id1240842773",
+      "user": "dyntri",
+      "host": "https://raw.githubusercontent.com",
+      "email": "replace@gmail.com",
+      "policy": "https://app.quicktype.io",
+      "offer": "https://www.goethe.de"
+    },
+    "availability": {
+      "alert": {
+        "text": "",
+        "button": "",
+        "link": ""
+      },
+      "shelfs": "ru_main",
+      "statistics": true,
+      "achievements": true,
+      "update": true,
+      "haptics": true,
+      "optimize": true,
+      "speed": true,
+      "kidsmode": true,
+      "visualize": true,
+      "timer": true,
+      "game": true,
+      "lockui": true,
+      "goal": true,
+      "donations": [
+          {
+            "name": "Patreon",
+            "link": "https://www.patreon.com"
+          },
+          {
+            "name": "BuyMeACoffee",
+            "link": "https://www.buymeacoffee.com"
+          }
+        ]
+    }
+  },
+  "genres": [
+    {
+      "genre": "child",
+      "local": "Детские"
+    },
+    {
+      "genre": "tale",
+      "local": "Рассказы"
+    },
+    {
+      "genre": "folklore",
+      "local": "Фольклор"
+    },
+    {
+      "genre": "animal",
+      "local": " О животных"
+    },
+    {
+      "genre": "adventure",
+      "local": "Приключения"
+    },
+    {
+      "genre": "relation",
+      "local": "Отношения"
+    },
+    {
+      "genre": "fantastic",
+      "local": "Фантастика"
+    },
+    {
+      "genre": "detective",
+      "local": "Детектив"
+    }
+  ]
+}
