@@ -1,0 +1,83 @@
+{
+  "ios1": {
+    "ads": {
+      "bannerMainID": "",
+      "bannerStatID": "",
+      "bannerGameID": "",
+      "splashOpenID": "",
+      "splashOpenCount": 2,
+      "splashMainID": "",
+      "splashMainCount": 4,
+      "splashBackID": "",
+      "splashBackCount": 3,
+      "splashGameID": ""
+    },
+    "info": {
+      "dev": "",
+      "app": "",
+      "name": "dyntri",
+      "host": "https://raw.githubusercontent.com",
+      "email": "",
+      "policy": "",
+      "offer": ""
+    },
+    "availability": {
+      "alert": {
+        "text": "",
+        "button": "",
+        "link": ""
+      },
+      "shelfs": "en_baby",
+      "statistics": true,
+      "achieves": true,
+      "update": true,
+      "consent": 0,
+      "lsinfo": true,
+      "lscontrols": true,
+      "haptics": true,
+      "speed": true,
+      "kidsmode": true,
+      "lockui": true,
+      "waveui": true,
+      "timer": true,
+      "game": true,
+      "goal": true,
+      "donations": [
+            ]
+    }
+  },
+  "genres": [
+    {
+      "genre": "child",
+      "local": "Child"
+    },
+    {
+      "genre": "tale",
+      "local": "Tales"
+    },
+    {
+      "genre": "folklore",
+      "local": "Folklore"
+    },
+    {
+      "genre": "animal",
+      "local": "Animals"
+    },
+    {
+      "genre": "adventure",
+      "local": "Adventures"
+    },
+    {
+      "genre": "relation",
+      "local": "Relationships"
+    },
+    {
+      "genre": "fantastic",
+      "local": "Fantastic"
+    },
+    {
+      "genre": "detective",
+      "local": "Detective"
+    }
+  ]
+}
