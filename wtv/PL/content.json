@@ -72,8 +72,8 @@
    {
       "name": "TVP3",
       "logo": "3",
-      "link": "http://warszawa.tvp.pl/",
-      "http": "http://tvp3.tvp.pl/"
+      "link": "https://stream.tvp.pl/?channel_id=699026",
+      "http": "https://stream.tvp.pl/?channel_id=1393797"
    },
    {
       "name": "Euronews",
@@ -183,7 +183,19 @@
       "link": "http://www.ewtn.com/multimedia/live_player.asp?satname=ukirlnlp",
       "http": "http://www.ewtn.com/live/ewtnplayer/jwplayer.asp?bottom=false&feed=ukirln"
    },
-   {
+        {
+            "name": "TVP World",
+            "logo": "World",
+            "link": "https://tvpworld.com/51656539/tvp-world-live",
+            "http": "https://stream.tvp.pl/?channel_id=51656487"
+        },
+        {
+            "name": "TVP Polonia",
+            "logo": "Polonia",
+            "link": "https://polonia.tvp.pl/44562671/tvp-polonia-stream",
+            "http": "https://stream.tvp.pl/?channel_id=1773"
+        },
+        {
       "name": "Sky News",
       "logo": "Sky",
       "link": "https://news.sky.com/watch-live",
