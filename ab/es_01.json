@@ -1,0 +1,83 @@
+{
+  "ios1": {
+    "ads": {
+      "bannerMainID": "",
+      "bannerStatID": "",
+      "bannerGameID": "",
+      "splashOpenID": "",
+      "splashOpenCount": 2,
+      "splashMainID": "",
+      "splashMainCount": 4,
+      "splashBackID": "",
+      "splashBackCount": 3,
+      "splashGameID": ""
+    },
+    "info": {
+      "dev": "",
+      "app": "",
+      "name": "dyntri",
+      "host": "https://raw.githubusercontent.com",
+      "email": "raclette.apps@gmail.com",
+      "policy": "https://sites.google.com/view/raclette-apps/policy",
+      "offer": ""
+    },
+    "availability": {
+      "alert": {
+        "text": "",
+        "button": "",
+        "link": ""
+      },
+      "shelfs": "es_baby",
+      "statistics": true,
+      "achieves": true,
+      "update": true,
+      "consent": 0,
+      "lsinfo": true,
+      "lscontrols": true,
+      "haptics": true,
+      "speed": true,
+      "kidsmode": true,
+      "lockui": true,
+      "waveui": true,
+      "timer": true,
+      "game": true,
+      "goal": true,
+      "donations": [
+            ]
+    }
+  },
+  "genres": [
+    {
+      "genre": "child",
+      "local": "Niños"
+    },
+    {
+      "genre": "tale",
+      "local": "Cuentos"
+    },
+    {
+      "genre": "folklore",
+      "local": "Folklore"
+    },
+    {
+      "genre": "animal",
+      "local": "Animales"
+    },
+    {
+      "genre": "adventure",
+      "local": "Aventuras"
+    },
+    {
+      "genre": "relation",
+      "local": "Relaciones"
+    },
+    {
+      "genre": "fantastic",
+      "local": "Fantástica"
+    },
+    {
+      "genre": "detective",
+      "local": "Detective"
+    }
+  ]
+}
