@@ -2,8 +2,11 @@
     "appstore": {
         "active": true,
         "offers": true,
+        "intent": false,
+        "admob": false,
+        "mondiad": false,
         "email": "mouflon.apps@gmail.com",
-        "other": "https://www.npshopping.com",
-        "donate": "https://www.linktr.ee"
+        "other": "https://npshopping.com",
+        "donate": "https:/linktr.ee"
     }
 }
