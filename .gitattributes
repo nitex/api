@@ -1,0 +1,4 @@
+# Force specific extensions to be detected as JSON
+*.config linguist-language=JSON
+*.manifest linguist-language=JSON
+*.data linguist-language=JSON
