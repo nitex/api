@@ -1,101 +1,149 @@
 [
    {
-      "name":"BBC Arabic",
-      "logo":"bbcA",
-      "link":"https://www.profitableratecpmnetwork.com/gyjb8zh8e?key=97b8a724bbee99a1b71221c9cd45a24b",
-      "http":"http://www.bbc.com"
+      "name":"Sky News",
+      "logo":"Sky",
+      "link":"https://news.sky.com/watch-live",
+      "http":""
    },
-   {
-      "name":"BBC Persian",
-      "logo":"bbcP",
-      "link":"http://www.bbc.com/persian/tvandradio/2013/08/000001_bbcpersian_livetv",
-      "http":"http://www.bbc.com/"
-   },
-   {
+    {
       "name":"euronews",
       "logo":"euronews",
       "link":"http://www.euronews.com/live",
       "http":"http://fr.euronews.com/"
    },
-   {
+    {
       "name":"Bloomberg TV",
-      "logo":"bloomberg",
+      "logo":"Bloomberg",
       "link":"https://www.bloomberg.com/live/europe",
       "http":"https://www.bloomberg.com/live/us"
    },
-   {
-      "name":"Arise",
-      "logo":"Arise",
-      "link":"http://www.arise.tv/",
-      "http":"http://www.arise.tv/"
-   },
-   {
-      "name":"LA Muscle (Active Channel)",
-      "logo":"lamuscletv",
+    {
+        "name": "Arise News",
+        "logo": "Arise",
+        "link": "https://www.arise.tv",
+        "http": ""
+    },
+    {
+        "name": "CHS Sylhet",
+        "logo": "CHS",
+        "link": "https://chsuk.tv/watch-live/",
+        "http": ""
+    },
+    {
+        "name": "TV ONE",
+        "logo": "ONE",
+        "link": "https://www.tvoneuk.tv/",
+        "http": ""
+    },
+    {
+      "name":"LA Muscle",
+      "logo":"Muscle",
       "link":"http://www.lamuscle.com/lamuscletv/live/",
       "http":"http://www.lamuscle.com/"
    },
-   {
-      "name":"Capital",
-      "logo":"Capital",
-      "link":"http://www.capitalfm.com/tv/",
-      "http":"http://www.capitalfm.com/"
+    {
+      "name":"Juwelo",
+      "logo":"Juwelo",
+      "link":"www.juwelo.com/jewellery-live",
+      "http":""
    },
-   {
-      "name":"Heart",
-      "logo":"Heart",
-      "link":"http://www.heart.co.uk/tv/player/",
-      "http":"http://www.heart.co.uk/"
-   },
-   {
-      "name":"NUsic",
-      "logo":"NUsic",
-      "link":"http://www.nusictv.com/on-air/",
-      "http":"http://www.nusictv.com/"
-   },
-   {
-      "name":"AKA",
-      "logo":"AKA",
-      "link":"http://www.channelaka.com/watch/",
-      "http":"http://www.channelaka.com/"
-   },
-   {
-      "name":"Landscape",
-      "logo":"Landscape",
-      "link":"http://www.landscapetv.com/on-air/",
-      "http":"http://www.landscapetv.com/"
-   },
-   {
-      "name":"BEN",
-      "logo":"BEN",
-      "link":"http://bentelevision.com/?option=com_content&view=frontpage&Itemid=139",
-      "http":"http://bentelevision.com/"
-   },
-   {
-      "name":"Rocks & Co.",
-      "logo":"rocksandco",
-      "link":"http://www.rocksandco.com/live-auction/",
-      "http":"http://www.rocksandco.com/"
-   },
-   {
+    {
       "name":"Jewellery Maker",
       "logo":"Jewellery",
-      "link":"http://www.jewellerymaker.com/en-gb/auction/",
+      "link":"https://www.jewellerymaker.com/en-gb/watch/",
       "http":"http://www.jewellerymaker.com/"
    },
-   {
-      "name":"The Jewellery Channel (TJC)",
+    {
+      "name":"TJC (The Jewellery Channel)",
       "logo":"TJC",
-      "link":"http://www.tjc.co.uk/watch-tjc",
+      "link":"https://www.tjc.co.uk/pages/livetv",
       "http":"http://www.thejewellerychannel.tv/layouts/LiveTVPopup.aspx?popup=1"
    },
-   {
-      "name":"TJC Choice",
-      "logo":"TJCc",
-      "link":"http://www.tjc.co.uk/watch-tjc-choice",
-      "http":"http://www.thejewellerychannel.tv/layouts/TGLiveTVPopup.aspx?popup=1"
-   },
-   {
+    {
+        "name": "ATN Bangla UK",
+        "logo": "ATN",
+        "link": "https://atnbanglauk.tv/",
+        "http": ""
+    },
+    {
+        "name": "BritAsia",
+        "logo": "BritAsia",
+        "link": "https://britasia.tv/",
+        "http": ""
+    },
+    {
+        "name": "LuaLua TV",
+        "logo": "LuaLua",
+        "link": "https://lualuatv.net/live/",
+        "http": ""
+    },
+    {
+        "name": "Canaf54",
+        "logo": "Canaf54",
+        "link": "https://www.canaf54.tv/stream.html",
+        "http": ""
+    },
+    {
+        "name": "Simay Azadi (INTV)",
+        "logo": "Azadi",
+        "link": "https://www.iranntv.com/",
+        "http": ""
+    },
+    {
+        "name": "Iran International (ایران اینترنشنال)",
+        "logo": "Iran",
+        "link": "https://www.iranintl.com/",
+        "http": ""
+    },
+    {
+        "name": "Afghanistan International (افغانستان اینترنشنال)",
+        "logo": "Afghanistan",
+        "link": "https://www.afintl.com/",
+        "http": ""
+    },
+    {
+        "name": "IBC Tamil (IBC தமிழ்)",
+        "logo": "IBC",
+        "link": "https://tvibctamil.com/",
+        "http": ""
+    },
+    {
+        "name": "Universal Somali",
+        "logo": "Somali",
+        "link": "https://universaltvsomali.net/",
+        "http": ""
+    },
+    {
+        "name": "Almagharibia TV (قناة المغاربية)",
+        "logo": "Almagharibia",
+        "link": "https://almagharibia.tv/",
+        "http": ""
+    },
+    {
+        "name": "Al Hiwar TV (الحوار‎)",
+        "logo": "Hiwar",
+        "link": "https://www.alhiwar.tv/",
+        "http": ""
+    },
+    {
+        "name": "ALB UK TV",
+        "logo": "ALB",
+        "link": "https://albuk.tv/",
+        "http": ""
+    },
+    {
+        "name": "NTV Europe",
+        "logo": "NTV",
+        "link": "https://europentv.ntvbd.com/livetv",
+        "http": ""
+    },
+    {
+        "name": "",
+        "logo": "",
+        "link": "",
+        "http": ""
+    },
+    {
       "name":"The Lounge",
       "logo":"lounge",
       "link":"http://www.gemporia.com/en-gb/auction/the-lounge/",
